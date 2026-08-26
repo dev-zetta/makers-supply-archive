@@ -5,7 +5,7 @@
 {% block shell %}
 <header class="topbar">
   <div class="topbar-primary"><a class="brand" href="/?region={{ global_region }}">Maker's Supply</a>{{ region_switcher() }}</div>
-  <nav><a href="/">Catalog</a><form method="post" action="/logout"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><button class="link-button">Sign out</button></form></nav>
+  <nav><a href="/">Catalog</a>{% if local_mode %}<span class="muted">Local app</span>{% else %}<form method="post" action="/logout"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><button class="link-button">Sign out</button></form>{% endif %}</nav>
 </header>
 <main class="list-page" {% if selection_added %}data-selection-committed{% endif %}>
   <section class="list-heading">

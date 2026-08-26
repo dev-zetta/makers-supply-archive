@@ -4,7 +4,16 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 from makers_supply.database import build_database
-from makers_supply.models import BoxItem, BoxItemQuantity, Product, Region, RegionalOffer
+from makers_supply.models import (
+    Asset,
+    AssetKind,
+    BoxItem,
+    BoxItemQuantity,
+    Product,
+    Region,
+    RegionalOffer,
+)
+from makers_supply.portable import build_portable_catalog
 from makers_supply.storage import Catalog
 
 
@@ -61,3 +70,37 @@ def test_database_matches_json(tmp_path: Path) -> None:
         assert connection.execute(
             "SELECT product_id FROM product_search WHERE product_search MATCH 'Power'"
         ).fetchall() == [("ia005-power-board",)]
+
+
+def test_portable_catalog_uses_named_asset_files(tmp_path: Path) -> None:
+    catalog = Catalog(tmp_path / "source")
+    blob = catalog.blob_path("a" * 64, ".step")
+    blob.parent.mkdir(parents=True)
+    blob.write_bytes(b"ISO-10303-21;")
+    product = sample_product().model_copy(
+        update={
+            "assets": [
+                Asset(
+                    id="model-file",
+                    kind=AssetKind.MODEL,
+                    source_url="https://example.com/board.step",
+                    original_filename="Power board.step",
+                    media_type="model/step",
+                    sha256="a" * 64,
+                    size=13,
+                    blob_path=blob.relative_to(catalog.root).as_posix(),
+                )
+            ]
+        }
+    )
+    catalog.write_product(product)
+
+    portable = build_portable_catalog(catalog, tmp_path / "portable")
+
+    named_asset = portable.assets / "ia005-power-board/source/model-file/Power board.step"
+    assert portable.file_count == 1
+    assert named_asset.read_bytes() == b"ISO-10303-21;"
+    with sqlite3.connect(portable.database) as connection:
+        assert connection.execute("SELECT blob_path FROM assets").fetchone() == (
+            "assets/ia005-power-board/source/model-file/Power board.step",
+        )

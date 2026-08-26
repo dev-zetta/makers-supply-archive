@@ -6,7 +6,7 @@
 {% block title %}{{ product.name }} · Maker's Supply{% endblock %}
 {% block body_class %}catalog-page{% endblock %}
 {% block shell %}
-<header class="topbar"><div class="topbar-primary"><a class="brand" href="/?region={{ global_region }}"><span aria-hidden="true">←</span><span>Maker's Supply</span></a>{{ region_switcher() }}</div><nav><a href="/lists">Parts lists</a><form method="post" action="/logout"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><button class="link-button">Sign out</button></form></nav></header>
+<header class="topbar"><div class="topbar-primary"><a class="brand" href="/?region={{ global_region }}"><span aria-hidden="true">←</span><span>Maker's Supply</span></a>{{ region_switcher() }}</div><nav><a href="/lists">Parts lists</a>{% if local_mode %}<span class="muted">Local app</span>{% else %}<form method="post" action="/logout"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><button class="link-button">Sign out</button></form>{% endif %}</nav></header>
 <main class="product-detail">
   <section class="gallery surface" aria-label="Product images">
     {% if product.images %}{% set primary_image = product.images[0] %}

@@ -4,7 +4,7 @@
 {% block shell %}
 <header class="topbar">
   <div class="topbar-primary"><a class="brand" href="/?region={{ filters.region }}" aria-label="Maker's Supply catalog home"><span class="brand-mark" aria-hidden="true">M</span><span>Maker's Supply</span></a>{{ region_switcher() }}</div>
-  <nav aria-label="Account navigation"><a href="/lists">Parts lists</a><form method="post" action="/logout"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><button class="link-button">Sign out</button></form></nav>
+  <nav aria-label="Account navigation"><a href="/lists">Parts lists</a>{% if local_mode %}<span class="muted">Local app</span>{% else %}<form method="post" action="/logout"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><button class="link-button">Sign out</button></form>{% endif %}</nav>
 </header>
 <main class="layout" id="catalog-layout">
   <aside class="filters" aria-label="Catalog filters">

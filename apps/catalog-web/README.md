@@ -69,6 +69,30 @@ uv run makers-supply-web serve --host 127.0.0.1 --port 8000
 secure cookies. State migrations are forward-only and run automatically at startup;
 `uv run makers-supply-web migrate` can apply them explicitly.
 
+## Portable standalone build
+
+From the repository root, with all Git LFS objects present, build a native portable
+app for the current Windows, macOS, or Linux machine:
+
+```bash
+npm --prefix apps/catalog-desktop ci
+uv run --package makers-supply-web --extra standalone \
+  python scripts/build-standalone.py
+```
+
+The end user extracts the generated archive and runs `makers-supply-catalog` (or
+`makers-supply-catalog.exe`), or opens the macOS app bundle. No Docker, Python
+installation, account, password, or internet connection is needed. Electron presents
+the catalog in its own window and manages a private service bound only to `127.0.0.1`.
+Parts lists belong automatically to the local user and are saved in the OS-specific
+user state directory.
+
+Portable assets are normal files under `assets/<product-id>/`, with source filenames
+and extracted archive paths preserved. This layout is deliberately separate from the
+content-addressed `data/blobs/` source archive. Run the build on each target platform;
+the Electron shell and PyInstaller sidecar are native builds rather than cross-compiled
+executables.
+
 Unchecked login creates a browser-session cookie with a 14-day server-side ceiling.
 Selecting **Remember me** creates a persistent cookie and matching server-side session
 that expire after 30 days. Logging out revokes either kind immediately. Do not use the
@@ -154,8 +178,10 @@ application image never depends on a third-party CDN at runtime.
 
 ## Data and rights
 
-Images and models remain content-addressed under `data/blobs/sha256/`; the web service
-only exposes assets referenced by `(product_id, asset_id)` in the generated database.
+In the source archive and Docker deployment, images and models remain content-addressed
+under `data/blobs/sha256/`; the web service only exposes assets referenced by
+`(product_id, asset_id)` in the generated database. Portable builds instead materialize
+those references as ordinary named files under `assets/`.
 Public mirroring does not establish redistribution rights. Rights, provenance,
 non-affiliation, and takedown terms in the repository `NOTICE.md` apply equally to the
 web interface.

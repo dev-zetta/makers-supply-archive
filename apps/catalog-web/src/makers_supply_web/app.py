@@ -65,6 +65,7 @@ REGION_OPTIONS = (
     ("asia", "Asia"),
 )
 REGION_LABELS = dict(REGION_OPTIONS)
+LOCAL_USER_ID = "local-user"
 
 
 def selected_region(request: Request, explicit: str | None = None) -> str:
@@ -120,6 +121,13 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     @asynccontextmanager
     async def lifespan(_: FastAPI) -> AsyncIterator[None]:
         migrate(settings.state_db)
+        if settings.local_mode:
+            with connect(settings.state_db) as connection, connection:
+                connection.execute(
+                    """INSERT OR IGNORE INTO users
+                       VALUES (?, 'Local user', 'login-disabled', 1, 1, ?)""",
+                    (LOCAL_USER_ID, now().isoformat()),
+                )
         yield
 
     app = FastAPI(title="Maker's Supply Catalog", lifespan=lifespan)
@@ -142,7 +150,15 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             response.headers["Strict-Transport-Security"] = "max-age=31536000"
         return response
 
-    async def current_user(request: Request) -> sqlite3.Row | None:
+    async def current_user(request: Request) -> sqlite3.Row | dict[str, object] | None:
+        if settings.local_mode:
+            return {
+                "id": LOCAL_USER_ID,
+                "username": "Local user",
+                "is_admin": 1,
+                "active": 1,
+                "csrf_token": token_hash("local-csrf", settings.secret_key),
+            }
         raw = request.cookies.get(SESSION_COOKIE)
         if not raw:
             return None
@@ -158,13 +174,15 @@ def create_app(settings: Settings | None = None) -> FastAPI:
                 ).fetchone(),
             )
 
-    async def require_user(request: Request) -> sqlite3.Row:
+    async def require_user(request: Request) -> sqlite3.Row | dict[str, object]:
         user = await current_user(request)
         if user is None:
             raise HTTPException(status.HTTP_303_SEE_OTHER, headers={"Location": "/login"})
         return user
 
-    def check_csrf(request: Request, supplied: str, user: sqlite3.Row) -> None:
+    def check_csrf(
+        request: Request, supplied: str, user: sqlite3.Row | dict[str, object]
+    ) -> None:
         if not secrets.compare_digest(str(user["csrf_token"]), supplied):
             raise HTTPException(status.HTTP_403_FORBIDDEN, "Invalid CSRF token")
 
@@ -286,6 +304,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
                 "filters": filters,
                 "categories": category_items,
                 "editable_lists": editable_lists,
+                "local_mode": settings.local_mode,
                 "target_list_id": target_list_id,
                 "previous_url": page_url(filters.page - 1) if filters.page > 1 else None,
                 "next_url": (
@@ -341,7 +360,12 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         ]
         return templates.TemplateResponse(
             request, "product.html",
-            {"user": user, "product": product, "editable_lists": editable_lists},
+            {
+                "user": user,
+                "product": product,
+                "editable_lists": editable_lists,
+                "local_mode": settings.local_mode,
+            },
         )
 
     @app.get("/assets/{product_id}/{asset_id}")
@@ -429,7 +453,9 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             settings.state_db, str(user["id"]), is_admin=bool(user["is_admin"])
         )
         return templates.TemplateResponse(
-            request, "lists.html", {"user": user, "lists": items}
+            request,
+            "lists.html",
+            {"user": user, "lists": items, "local_mode": settings.local_mode},
         )
 
     @app.post("/lists")
@@ -467,6 +493,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             {
                 "user": user,
                 "list": selected,
+                "local_mode": settings.local_mode,
                 "selection_added": request.query_params.get("selection_added") == "1",
             },
         )
@@ -729,6 +756,8 @@ def create_app(settings: Settings | None = None) -> FastAPI:
 
     @app.get("/login", response_class=HTMLResponse)
     async def login_page(request: Request) -> Any:
+        if settings.local_mode:
+            return RedirectResponse("/", status_code=303)
         return templates.TemplateResponse(request, "login.html", {"error": None})
 
     @app.post("/login")
@@ -738,6 +767,8 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         password: Annotated[str, Form()],
         remember_me: Annotated[bool, Form()] = False,
     ) -> Any:
+        if settings.local_mode:
+            raise HTTPException(404, "Login is disabled in the local app")
         identity = f"{request.client.host if request.client else 'unknown'}:{username.casefold()}"
         with connect(settings.state_db) as connection:
             attempt = connection.execute(
@@ -807,6 +838,8 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         csrf: Annotated[str, Form()],
         user: sqlite3.Row = Depends(require_user),  # noqa: B008
     ) -> Any:
+        if settings.local_mode:
+            return RedirectResponse("/", status_code=303)
         check_csrf(request, csrf, user)
         raw = request.cookies.get(SESSION_COOKIE, "")
         with connect(settings.state_db) as connection, connection:
@@ -819,6 +852,8 @@ def create_app(settings: Settings | None = None) -> FastAPI:
 
     @app.get("/invite/{raw_token}", response_class=HTMLResponse)
     async def invite_page(request: Request, raw_token: str) -> Any:
+        if settings.local_mode:
+            raise HTTPException(404, "Invitations are disabled in the local app")
         with connect(settings.state_db) as connection:
             invite = connection.execute(
                 "SELECT * FROM invites WHERE token_hash = ? AND used_at IS NULL AND expires_at > ?",
@@ -837,6 +872,8 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         username: Annotated[str, Form()],
         password: Annotated[str, Form()],
     ) -> Any:
+        if settings.local_mode:
+            raise HTTPException(404, "Invitations are disabled in the local app")
         if len(username.strip()) < 3 or len(password) < 12:
             return templates.TemplateResponse(
                 request,

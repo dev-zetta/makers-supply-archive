@@ -1,4 +1,5 @@
 import sqlite3
+from dataclasses import replace
 from datetime import UTC, datetime
 from pathlib import Path
 from uuid import uuid4
@@ -345,6 +346,26 @@ async def test_catalog_pages_and_assets_require_login(tmp_path: Path) -> None:
     assert partial.content == b"safe"
     assert partial.headers["content-range"] == "bytes 0-3/10"
     assert rejected.status_code == 404
+
+
+@pytest.mark.anyio
+async def test_local_mode_needs_no_login_information(tmp_path: Path) -> None:
+    settings = replace(make_settings(tmp_path), local_mode=True)
+    client = httpx.AsyncClient(
+        transport=httpx.ASGITransport(app=create_app(settings)), base_url="http://test"
+    )
+    try:
+        catalog = await client.get("/")
+        login = await client.get("/login", follow_redirects=False)
+    finally:
+        await client.aclose()
+
+    assert catalog.status_code == 200
+    assert "Power Distribution Board" in catalog.text
+    assert "Local app" in catalog.text
+    assert "Sign out" not in catalog.text
+    assert login.status_code == 303
+    assert login.headers["location"] == "/"
 
 
 @pytest.mark.anyio

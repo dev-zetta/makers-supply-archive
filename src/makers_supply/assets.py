@@ -292,6 +292,15 @@ class AssetStore:
         return extracted
 
 
+def materialized_asset_path(asset: Asset) -> Path:
+    """Return an accessible, collision-resistant path ending in the original filename."""
+    if asset.image_processing and asset.parent_asset_id:
+        return Path("display") / asset.parent_asset_id / asset.original_filename
+    if asset.parent_asset_id and asset.archive_member_path:
+        return Path("extracted") / asset.parent_asset_id / Path(asset.archive_member_path)
+    return Path("source") / asset.id / asset.original_filename
+
+
 def materialize_product(catalog: Catalog, product_id: str, output: Path) -> int:
     product = catalog.load_product(product_id)
     written = 0
@@ -299,14 +308,7 @@ def materialize_product(catalog: Catalog, product_id: str, output: Path) -> int:
         if not asset.blob_path:
             continue
         source = catalog.root / asset.blob_path
-        if asset.image_processing and asset.parent_asset_id:
-            relative = Path("display") / asset.parent_asset_id / asset.original_filename
-        elif asset.parent_asset_id and asset.archive_member_path:
-            relative = (
-                Path("extracted") / asset.parent_asset_id / Path(asset.archive_member_path)
-            )
-        else:
-            relative = Path("source") / asset.id / asset.original_filename
+        relative = materialized_asset_path(asset)
         target = output / relative
         resolved_output = output.resolve()
         resolved_target = target.resolve()

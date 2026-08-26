@@ -25,13 +25,20 @@ jobs:
         with:
           node-version: "22.18.0"
           cache: npm
-          cache-dependency-path: apps/catalog-web/frontend/package-lock.json
+          cache-dependency-path: |
+            apps/catalog-web/frontend/package-lock.json
+            apps/catalog-desktop/package-lock.json
       - name: Install and build frontend
         working-directory: apps/catalog-web/frontend
         run: |
           npm ci
           npm run build
           npm run typecheck
+      - name: Check desktop shell
+        working-directory: apps/catalog-desktop
+        run: |
+          npm ci --ignore-scripts
+          npm run check
       - name: Test
         run: uv run pytest
       - name: Check localhost launcher
@@ -40,6 +47,7 @@ jobs:
           ./setup.sh --help >/dev/null
           bash -n scripts/run-catalog-web.sh
           ./scripts/run-catalog-web.sh --help >/dev/null
+          uv run python scripts/build-standalone.py --help >/dev/null
       - name: Lint
         run: uv run ruff check .
       - name: Type check

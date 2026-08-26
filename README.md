@@ -114,6 +114,32 @@ Use `uv run makers-supply-web invite --admin admin --base-url https://catalog.ex
 to create a single-use, 24-hour invitation URL. Open registration and email delivery
 are intentionally absent.
 
+### Standalone local app
+
+A portable, login-free edition can be built for Windows, macOS, or Linux without
+shipping Python, `uv`, Node.js, or Docker to the end user. Builds are native: run the
+command on each target operating system and CPU architecture after pulling the Git LFS
+objects:
+
+```bash
+npm --prefix apps/catalog-desktop ci
+uv run --package makers-supply-web --extra standalone \
+  python scripts/build-standalone.py
+```
+
+The result is written to `dist/standalone/makers-supply-catalog-<platform>-<arch>` and
+also packaged as `.zip` on Windows or `.tar.gz` on macOS/Linux. The Electron shell
+opens the catalog in its own application window and manages its loopback-only Python
+sidecar. It uses an automatic local user, so there is no account setup, password, or
+sign-in screen; private parts lists stay in the current OS user's application-state
+directory.
+
+The bundle's `assets/` directory contains ordinary files grouped by product ID. Source
+downloads keep their original filenames, while extracted models keep their original
+archive paths. The bundled SQLite database points to those named files rather than to
+the archive's content-addressed blob tree. Keep `catalog.sqlite` and `assets/` in the
+generated application directory. Use `--no-archive` to leave only the unpacked app.
+
 Prices are grouped by their storefront currency; the application performs no foreign
 exchange conversion and excludes taxes and shipping. It also refuses to total legacy
 prices whose currency does not match their region. Run a complete eight-region refresh

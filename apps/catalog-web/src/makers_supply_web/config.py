@@ -12,6 +12,7 @@ class Settings:
     state_db: Path
     secret_key: str
     secure_cookies: bool = True
+    local_mode: bool = False
 
     @classmethod
     def from_environment(cls) -> Settings:
