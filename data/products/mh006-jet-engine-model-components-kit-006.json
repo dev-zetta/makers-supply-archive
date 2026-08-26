@@ -1,0 +1,704 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "jet-engine-model-components-kit-006",
+      "product_id": "7702609789064",
+      "region": "us"
+    },
+    {
+      "handle": "jet-engine-model-components-kit-006",
+      "product_id": "8432108142832",
+      "region": "ca"
+    },
+    {
+      "handle": "jet-engine-model-components-kit-006",
+      "product_id": "8661958426972",
+      "region": "eu"
+    },
+    {
+      "handle": "jet-engine-model-components-kit-006",
+      "product_id": "7225183043644",
+      "region": "uk"
+    },
+    {
+      "handle": "jet-engine-model-components-kit-006",
+      "product_id": "8160570933411",
+      "region": "au"
+    },
+    {
+      "handle": "jet-engine-model-components-kit-006",
+      "product_id": "9030420234532",
+      "region": "jp"
+    },
+    {
+      "handle": "jet-engine-model-components-kit-006",
+      "product_id": "7340241256563",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/5f/5fd872e1d164e690dbdd65821710c1c5303bd5bc0bd0b288591d19ca331d7e9c.png",
+      "id": "image-046e57af3ffd7a754b35",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "CP.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5fd872e1d164e690dbdd65821710c1c5303bd5bc0bd0b288591d19ca331d7e9c",
+      "size": 826544,
+      "source_url": "https://store.bblcdn.com/s6/default/cf0455198044489ea048a3f380df0ddc/CP.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b4/b473059cd1b3b0f2e013da001b9727bad367dc2e907a57074435dcefb337f0c3.png",
+      "id": "image-649d44e34f2631c27926",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "089d0e307704256de2ac557991231871.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b473059cd1b3b0f2e013da001b9727bad367dc2e907a57074435dcefb337f0c3",
+      "size": 912117,
+      "source_url": "https://store.bblcdn.com/s6/default/34ec9ef142f04b1fbe6a6499bec342ac/089d0e307704256de2ac557991231871.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/47/476a667342f8c2da62a99abd7059a9010dc78e464bf0dcc451a6b5fb5fd7bd4a.png",
+      "id": "image-7233fb2f170c491c52f3",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "CP_b432bfc2-4602-4f3d-95d3-29d8ecfc11da.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "476a667342f8c2da62a99abd7059a9010dc78e464bf0dcc451a6b5fb5fd7bd4a",
+      "size": 243241,
+      "source_url": "https://store.bblcdn.com/s6/default/69b693db21c34a3eb2be75243e560230/CP_b432bfc2-4602-4f3d-95d3-29d8ecfc11da.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/0d/0dadc4b516c70df3105c2a12c4b2d66c302f45ab355cc2dacf26a125f639cc76.zip",
+      "id": "archive-93000e243501bda435d1",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Jet_Engine_Model_Components_Kit_-_MH006_Model.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "0dadc4b516c70df3105c2a12c4b2d66c302f45ab355cc2dacf26a125f639cc76",
+      "size": 1531900,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/M2.5 Socket Head Cap Machine Screws (SHCS)/M2.5x10 - AA005/M2.5x10 - AA005.stl",
+      "blob_path": "data/blobs/sha256/30/30b5b9256e75b182d9e333a0e0566ac2d451430499d6bb14a7c50d422451c774.stl",
+      "id": "model-c715f4c65c5aedab91bd",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "M2.5x10 - AA005.stl",
+      "parent_asset_id": "archive-93000e243501bda435d1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "30b5b9256e75b182d9e333a0e0566ac2d451430499d6bb14a7c50d422451c774",
+      "size": 432084,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/M2.5 Socket Head Cap Machine Screws (SHCS)/M2.5x10 - AA005/M2.5x10 - AA005.stp",
+      "blob_path": "data/blobs/sha256/13/13e80cac3d2fceabe5f07510f841bbd1ccef5a116499249df84d8cd4e087360c.stp",
+      "id": "model-4a177f68bb55e1816a5c",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "M2.5x10 - AA005.stp",
+      "parent_asset_id": "archive-93000e243501bda435d1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "13e80cac3d2fceabe5f07510f841bbd1ccef5a116499249df84d8cd4e087360c",
+      "size": 79677,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/M2.5 Stainless Steel Hex Nut/M2.5 Stainless Steel Hex Nut - AB001.stl",
+      "blob_path": "data/blobs/sha256/c1/c12664b24d932dfb9bf3955ebc03e89de67e6de392e8535e7a3e5eab98bef187.stl",
+      "id": "model-065fe6e34d16116c0645",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "M2.5 Stainless Steel Hex Nut - AB001.stl",
+      "parent_asset_id": "archive-93000e243501bda435d1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "c12664b24d932dfb9bf3955ebc03e89de67e6de392e8535e7a3e5eab98bef187",
+      "size": 811884,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/M2.5 Stainless Steel Hex Nut/M2.5 Stainless Steel Hex Nut - AB001.stp",
+      "blob_path": "data/blobs/sha256/14/1414ea9a50fbefd7ed9a4db8f33f4874e36b4d2d788cc2a5fddfa40ecb846f6e.stp",
+      "id": "model-ff0d8988be008d537f2d",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "M2.5 Stainless Steel Hex Nut - AB001.stp",
+      "parent_asset_id": "archive-93000e243501bda435d1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "1414ea9a50fbefd7ed9a4db8f33f4874e36b4d2d788cc2a5fddfa40ecb846f6e",
+      "size": 68300,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/M2.5x5x0.5 Stainless Steel Flat Washer - AC001/M2.5x5x0.5 Stainless Steel Flat Washer - AC001.stl",
+      "blob_path": "data/blobs/sha256/9c/9c2f8b5a93a193e571882f3d4ca2bb55b97533e6cfa826b3d30f5b5d7b0499fe.stl",
+      "id": "model-4041ad65ec9bb2172012",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "M2.5x5x0.5 Stainless Steel Flat Washer - AC001.stl",
+      "parent_asset_id": "archive-93000e243501bda435d1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "9c2f8b5a93a193e571882f3d4ca2bb55b97533e6cfa826b3d30f5b5d7b0499fe",
+      "size": 8484,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/M2.5x5x0.5 Stainless Steel Flat Washer - AC001/M2.5x5x0.5 Stainless Steel Flat Washer - AC001.stp",
+      "blob_path": "data/blobs/sha256/5a/5a84edf34d22b5d2d94d271ca2d67b1e5f4d0807a71b55dbbb736fbf99b11a19.stp",
+      "id": "model-7eb910ea897bee1f9706",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "M2.5x5x0.5 Stainless Steel Flat Washer - AC001.stp",
+      "parent_asset_id": "archive-93000e243501bda435d1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "5a84edf34d22b5d2d94d271ca2d67b1e5f4d0807a71b55dbbb736fbf99b11a19",
+      "size": 25082,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/Plastic Deep Groove Ball Bearings/6003 - EA001/6003 - EA001.stl",
+      "blob_path": "data/blobs/sha256/1c/1cfa13791cf8af6f00a464d7c4d545201adcb1349c241c0f11fcbad3b7c94f25.stl",
+      "id": "model-64a8b80189b340978891",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "6003 - EA001.stl",
+      "parent_asset_id": "archive-93000e243501bda435d1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "1cfa13791cf8af6f00a464d7c4d545201adcb1349c241c0f11fcbad3b7c94f25",
+      "size": 1562484,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/Plastic Deep Groove Ball Bearings/6003 - EA001/6003 - EA001.stp",
+      "blob_path": "data/blobs/sha256/2a/2a3214e41d47e13bfe78ea6f300ee83db30752b45f455f6aafc5b6c93efbd9a6.stp",
+      "id": "model-c4e5cb9c1c058a89fc6d",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "6003 - EA001.stp",
+      "parent_asset_id": "archive-93000e243501bda435d1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "2a3214e41d47e13bfe78ea6f300ee83db30752b45f455f6aafc5b6c93efbd9a6",
+      "size": 776466,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/Plastic Deep Groove Ball Bearings/6204 - EA002/6204 - EA002.stl",
+      "blob_path": "data/blobs/sha256/05/055fef1edfff05c475b2dc0dfbea9ec2bfb533ba4941bbdef4b8a3a27902f6bd.stl",
+      "id": "model-ea7ac62702a164302781",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "6204 - EA002.stl",
+      "parent_asset_id": "archive-93000e243501bda435d1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "055fef1edfff05c475b2dc0dfbea9ec2bfb533ba4941bbdef4b8a3a27902f6bd",
+      "size": 2271984,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/Plastic Deep Groove Ball Bearings/6204 - EA002/6204 - EA002.stp",
+      "blob_path": "data/blobs/sha256/b5/b58a141b3d1ffb0a06f1095f010a0c6fe66381f7ad8b05a226f46f289fbf6cc8.stp",
+      "id": "model-d3125cb37b527838ea0f",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "6204 - EA002.stp",
+      "parent_asset_id": "archive-93000e243501bda435d1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "b58a141b3d1ffb0a06f1095f010a0c6fe66381f7ad8b05a226f46f289fbf6cc8",
+      "size": 608122,
+      "source_url": "https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/97/97e812f946467944c518a62241e5d4ef89305b4262e4672c8442ec6c3bd8dc3d.png",
+      "id": "image-display-68611a3fd31b0731a4e5",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "5fd872e1d164e690dbdd65821710c1c5303bd5bc0bd0b288591d19ca331d7e9c",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "CP.catalog.png",
+      "parent_asset_id": "image-046e57af3ffd7a754b35",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "97e812f946467944c518a62241e5d4ef89305b4262e4672c8442ec6c3bd8dc3d",
+      "size": 241820,
+      "source_url": "https://store.bblcdn.com/s6/default/cf0455198044489ea048a3f380df0ddc/CP.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/53/53dedd5dcf7603c9ee8d087dfc4c321deeb1009aee72676ba5ef80331d2a1a8c.png",
+      "id": "image-display-f5ccb067d3a3f268d1ba",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1614,
+        "source_sha256": "b473059cd1b3b0f2e013da001b9727bad367dc2e907a57074435dcefb337f0c3",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "089d0e307704256de2ac557991231871.catalog.png",
+      "parent_asset_id": "image-649d44e34f2631c27926",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "53dedd5dcf7603c9ee8d087dfc4c321deeb1009aee72676ba5ef80331d2a1a8c",
+      "size": 207173,
+      "source_url": "https://store.bblcdn.com/s6/default/34ec9ef142f04b1fbe6a6499bec342ac/089d0e307704256de2ac557991231871.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9b/9bbd0f7052d982bbaa0cf476bc64a35e3e8ad81f17b0763e795802c06569e09b.png",
+      "id": "image-display-1e16ceaba982f5855b43",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "476a667342f8c2da62a99abd7059a9010dc78e464bf0dcc451a6b5fb5fd7bd4a",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "CP_b432bfc2-4602-4f3d-95d3-29d8ecfc11da.catalog.png",
+      "parent_asset_id": "image-7233fb2f170c491c52f3",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9bbd0f7052d982bbaa0cf476bc64a35e3e8ad81f17b0763e795802c06569e09b",
+      "size": 89847,
+      "source_url": "https://store.bblcdn.com/s6/default/69b693db21c34a3eb2be75243e560230/CP_b432bfc2-4602-4f3d-95d3-29d8ecfc11da.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "name": "M2.5x10 SHCS (Machine Screw)",
+      "quantity": "80 PCS",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ab001-m2-5-stainless-steel-hex-nut",
+      "name": "M2.5 Stainless Steel Hex Nut",
+      "quantity": "80 PCS",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ac001-m2-5-stainless-steel-flat-washer",
+      "name": "M2.5x5x0.5 Stainless Steel Flat Washer",
+      "quantity": "150 PCS",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ea001-plastic-deep-groove-ball-bearings",
+      "name": "6204 Plastic Deep Groove Ball Bearing",
+      "quantity": "2 PCS",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ea001-plastic-deep-groove-ball-bearings",
+      "name": "6003 Plastic Deep Groove Ball Bearing",
+      "quantity": "2 PCS",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Kits & Bundles"
+  ],
+  "category_assignments": [
+    {
+      "id": "kits",
+      "label": "Kits & Bundles",
+      "path": [
+        "Kits & Bundles"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[7]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><!-- 3D Model --><a href=\"https://store.bblcdn.com/s7/default/b394497391ae4e5f9ae7f2bf059b8eee/Jet_Engine_Model_Components_Kit_-_MH006_Model.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <span>3D Model</span> </a></p>\n<p></p>\n<!-- 文案布局 -->\n<div class=\"pct pct_mc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Overview</h3>\nThe <strong>Jet Engine Model Components Kit</strong> contains all the necessary hardware components for assembling an <strong>Engine Model</strong>. To complete the assembly for an entirely functional piece, users also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.</div>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Model</strong></td>\n<td class=\"pct_td\"><strong>Creator</strong></td>\n<td class=\"pct_td\"><b>Model Link</b></td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-WN9wdvxjroLLKUxZrwrcWzjZnhd\">3D Printable Jet Engine</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\">CATIAV5FTW</td>\n<td class=\"pct_td\"><strong><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/13806\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">3D Printable Jet Engine</a></span></strong></td>\n</tr>\n<!-- 第四行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-WN9wdvxjroLLKUxZrwrcWzjZnhd\">3d Printable Turbojet Engine</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\">linus3d</td>\n<td class=\"pct_td\"><strong><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/477475\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">3d Printable Turbojet Engine</a></span></strong></td>\n</tr>\n</tbody>\n</table>\n<br/>\n<div class=\"pct_st-p\" style=\"text-align: start;\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n</div>\n<img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-mce-fragment=\"1\" data-src=\"https://store.bblcdn.com/s7/default/fcdcf684e6c24baf908a794a36ae002d/CP_13ce25b2-6f34-4dc8-b1b2-97ab506e1a2d_480x480.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" style=\"margin-bottom: 16px; float: none;\"/></div>\n<!-- 第三条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\"></h3>\n<h3 class=\"pct_st\" style=\"text-align: left;\">Installation</h3>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-p\">\n<div class=\"embed-container\"><div class=\"VideoWrapper\"><iframe src=\"https://www.youtube.com/embed//dNsBbN54J-I\"></iframe></div></div>\n</div>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"></div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\">In the Box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Item</strong></td>\n<td class=\"pct_td\"><strong>Qty</strong></td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-WN9wdvxjroLLKUxZrwrcWzjZnhd\">M2.5x10 SHCS (Machine Screw)</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\">80 PCS</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">M2.5 Stainless Steel Hex Nut</td>\n<td class=\"pct_td\">80 PCS</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">M2.5x5x0.5 Stainless Steel Flat Washer</td>\n<td class=\"pct_td\">150 PCS</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">6204 Plastic Deep Groove Ball Bearing</td>\n<td class=\"pct_td\">2 PCS</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span>6003 Plastic Deep Groove Ball Bearing</span></div>\n</td>\n<td class=\"pct_td\">2 PCS</td>\n</tr>\n</tbody>\n</table>\n<span><span></span></span></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"></div>\n</div>\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\" style=\"text-align: center;\"></h2>\n<h2 class=\"pct_t\" style=\"text-align: center;\"></h2>\n<h2 class=\"pct_t\" style=\"text-align: center;\"></h2>\n<h2 class=\"pct_t\" style=\"text-align: center;\">Product Specifications</h2>\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><b>Packaging Size</b></td>\n<td class=\"pct_td\">100*69*35 mm</td>\n<td class=\"pct_td\"><strong>Gross Weight</strong></td>\n<td class=\"pct_td\">200 g</td>\n</tr>\n<!-- 第三行 --></tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n<button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button></div>\n</div>\n</div>",
+  "description_text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "mh006-jet-engine-model-components-kit-006",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Jet Engine Kit Collection",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "27",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/jet-engine-model-components-kit-006?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "32",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/jet-engine-model-components-kit-006?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "26",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/jet-engine-model-components-kit-006?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "23",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/jet-engine-model-components-kit-006?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "41",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/jet-engine-model-components-kit-006?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4125",
+      "region": "jp",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://jp.store.bambulab.com/en/products/jet-engine-model-components-kit-006?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "25",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/jet-engine-model-components-kit-006?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "HK011",
+    "MH006"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "3D Printable Jet Engine",
+      "url": "https://makerworld.com/en/models/13806"
+    },
+    {
+      "kind": "makerworld",
+      "title": "3d Printable Turbojet Engine",
+      "url": "https://makerworld.com/en/models/477475"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "41081432670268",
+    "41368449646707",
+    "41806959804552",
+    "43160581079176",
+    "44044739444899",
+    "45125804884208",
+    "47700133609820",
+    "53643292377436",
+    "545800451488346114",
+    "545809197300002818",
+    "545811420849692674",
+    "545815189909622786",
+    "708905881853267969"
+  ],
+  "source_tables": [
+    {
+      "caption": "Overview",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/jet-engine-model-components-kit-006?id=41806959804552"
+      },
+      "rows": [
+        [
+          "Model",
+          "Creator",
+          "Model Link"
+        ],
+        [
+          "3D Printable Jet Engine",
+          "CATIAV5FTW",
+          "3D Printable Jet Engine"
+        ],
+        [
+          "3d Printable Turbojet Engine",
+          "linus3d",
+          "3d Printable Turbojet Engine"
+        ]
+      ]
+    },
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/jet-engine-model-components-kit-006?id=41806959804552"
+      },
+      "rows": [
+        [
+          "M2.5x10 SHCS (Machine Screw)",
+          "80 PCS"
+        ],
+        [
+          "M2.5 Stainless Steel Hex Nut",
+          "80 PCS"
+        ],
+        [
+          "M2.5x5x0.5 Stainless Steel Flat Washer",
+          "150 PCS"
+        ],
+        [
+          "6204 Plastic Deep Groove Ball Bearing",
+          "2 PCS"
+        ],
+        [
+          "6003 Plastic Deep Groove Ball Bearing",
+          "2 PCS"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/jet-engine-model-components-kit-006?id=41806959804552"
+      },
+      "rows": [
+        [
+          "Packaging Size",
+          "100*69*35 mm",
+          "Gross Weight",
+          "200 g"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/41990439a6f143a780ce4a4508f7f260/CP.png",
+      "part_number": "MH006",
+      "price": "27",
+      "region": "us",
+      "sku": "41806959804552",
+      "title": "Jet Engine Kit Collection - Jet Engine Model Components Kit (1pcs) - MH006",
+      "url": "https://us.store.bambulab.com/products/jet-engine-model-components-kit-006?id=41806959804552",
+      "variant_id": "41806959804552"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/7092d0a2ecc34dd78eeb95b4910d9d89/3dPrintableTurbojetEngine_3_1895478c-4ccc-4b5f-a95f-3721741d9732.png",
+      "part_number": "HK011",
+      "price": "27",
+      "region": "us",
+      "sku": "43160581079176",
+      "title": "Jet Engine Kit Collection - 3D Printable Turbojet Engine - HK011",
+      "url": "https://us.store.bambulab.com/products/jet-engine-model-components-kit-006?id=43160581079176",
+      "variant_id": "43160581079176"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/d6fc734e2191425985f8cece9392e8c0.png",
+      "part_number": "MH006",
+      "price": "32",
+      "region": "ca",
+      "sku": "45125804884208",
+      "title": "Jet Engine Kit Collection - Jet Engine Model Components Kit - MH006",
+      "url": "https://ca.store.bambulab.com/products/jet-engine-model-components-kit-006?id=45125804884208",
+      "variant_id": "45125804884208"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/d1991e72beae4a31a2819ff313bbced0.png",
+      "part_number": "HK011",
+      "price": "32",
+      "region": "ca",
+      "sku": "545815189909622786",
+      "title": "Jet Engine Kit Collection - 3D Printable Turbojet Engine - HK011",
+      "url": "https://ca.store.bambulab.com/products/jet-engine-model-components-kit-006?id=545815189909622786",
+      "variant_id": "545815189909622786"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/b69ff2638bb34490b96e44f83c286342/CP.png",
+      "part_number": "MH006",
+      "price": "26",
+      "region": "eu",
+      "sku": "47700133609820",
+      "title": "Jet Engine Kit Collection - Jet Engine Model Components Kit (1pcs) - MH006",
+      "url": "https://eu.store.bambulab.com/products/jet-engine-model-components-kit-006?id=47700133609820",
+      "variant_id": "47700133609820"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/5457d588ac1842e480130f9f09b463a1/3dPrintableTurbojetEngine_3_7d3c92e5-10e5-4fe9-aae4-9ff83011f6fc.png",
+      "part_number": "HK011",
+      "price": "26",
+      "region": "eu",
+      "sku": "53643292377436",
+      "title": "Jet Engine Kit Collection - 3D Printable Turbojet Engine - HK011",
+      "url": "https://eu.store.bambulab.com/products/jet-engine-model-components-kit-006?id=53643292377436",
+      "variant_id": "53643292377436"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/761a86c286b746cebb8b27dc53a1590e.png",
+      "part_number": "MH006",
+      "price": "23",
+      "region": "uk",
+      "sku": "41081432670268",
+      "title": "Jet Engine Kit Collection - Jet Engine Model Components Kit - MH006",
+      "url": "https://uk.store.bambulab.com/products/jet-engine-model-components-kit-006?id=41081432670268",
+      "variant_id": "41081432670268"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/53a0c4b9adf64c96be6b5a4983a38e83.png",
+      "part_number": "HK011",
+      "price": "23",
+      "region": "uk",
+      "sku": "545811420849692674",
+      "title": "Jet Engine Kit Collection - 3D Printable Turbojet Engine - HK011",
+      "url": "https://uk.store.bambulab.com/products/jet-engine-model-components-kit-006?id=545811420849692674",
+      "variant_id": "545811420849692674"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/85af5eb6ad514266a2a3e7eb63666477.png",
+      "part_number": "MH006",
+      "price": "41",
+      "region": "au",
+      "sku": "44044739444899",
+      "title": "Jet Engine Kit Collection - Jet Engine Model Components Kit - MH006",
+      "url": "https://au.store.bambulab.com/products/jet-engine-model-components-kit-006?id=44044739444899",
+      "variant_id": "44044739444899"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/1418a70f76894b3593516dedc7dd5d02.png",
+      "part_number": "HK011",
+      "price": "41",
+      "region": "au",
+      "sku": "545809197300002818",
+      "title": "Jet Engine Kit Collection - 3D Printable Turbojet Engine - HK011",
+      "url": "https://au.store.bambulab.com/products/jet-engine-model-components-kit-006?id=545809197300002818",
+      "variant_id": "545809197300002818"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "image_url": "https://store.bblcdn.com/s6/default/cf0455198044489ea048a3f380df0ddc/CP.png",
+      "price": "4125",
+      "region": "jp",
+      "sku": "708905881853267969",
+      "title": "ジェットエンジンモデルコンポーネントキット006 - スタンダード",
+      "url": "https://jp.store.bambulab.com/products/jet-engine-model-components-kit-006?id=708905881853267969",
+      "variant_id": "708905881853267969"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494433290415468544.png",
+      "part_number": "MH006",
+      "price": "25",
+      "region": "asia",
+      "sku": "41368449646707",
+      "title": "Jet Engine Kit Collection - Jet Engine Model Components Kit - MH006",
+      "url": "https://asia.store.bambulab.com/products/jet-engine-model-components-kit-006?id=41368449646707",
+      "variant_id": "41368449646707"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/8d713fc574ef4a57b0ba09c70baf35f6.png",
+      "part_number": "HK011",
+      "price": "25",
+      "region": "asia",
+      "sku": "545800451488346114",
+      "title": "Jet Engine Kit Collection - 3D Printable Turbojet Engine - HK011",
+      "url": "https://asia.store.bambulab.com/products/jet-engine-model-components-kit-006?id=545800451488346114",
+      "variant_id": "545800451488346114"
+    }
+  ]
+}

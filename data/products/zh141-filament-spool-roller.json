@@ -1,0 +1,382 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "filament-spool-roller",
+      "product_id": "741501430110203904",
+      "region": "us"
+    },
+    {
+      "handle": "filament-spool-roller",
+      "product_id": "741500949590110208",
+      "region": "ca"
+    },
+    {
+      "handle": "filament-spool-roller",
+      "product_id": "741501719058669568",
+      "region": "eu"
+    },
+    {
+      "handle": "filament-spool-roller",
+      "product_id": "741501134470152192",
+      "region": "uk"
+    },
+    {
+      "handle": "filament-spool-roller",
+      "product_id": "741500660830670848",
+      "region": "au"
+    },
+    {
+      "handle": "filament-spool-roller",
+      "product_id": "741498191832182784",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/e4/e41f04b4c1e6a92f82f1427756ce421f8edb24b0f059726a56dba74dc70e0778.jpg",
+      "id": "image-d9ed0057f079cfda814f",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "B-ZH141_-_pic.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e41f04b4c1e6a92f82f1427756ce421f8edb24b0f059726a56dba74dc70e0778",
+      "size": 242666,
+      "source_url": "https://store.bblcdn.eu/s4/default/dfdeb436b8914deea676cbc59929eb56/B-ZH141_-_pic.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9b/9b94f3cb3d3edb0de091971c16bab251fb22b0acd9703a941ed60a42438c3491.png",
+      "id": "image-3567324fe1d7c898d823",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH141.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9b94f3cb3d3edb0de091971c16bab251fb22b0acd9703a941ed60a42438c3491",
+      "size": 516180,
+      "source_url": "https://store.bblcdn.eu/s4/default/828c55b8c2dd4c87ab5b9c53f981ded3/B-ZH141.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d5/d542c9af915c4c141f08f8321ba48220a7eac1e4b48fefc778221887d67784b7.jpg",
+      "id": "image-dc481f246d3d5a0a7804",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "demo.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d542c9af915c4c141f08f8321ba48220a7eac1e4b48fefc778221887d67784b7",
+      "size": 1237001,
+      "source_url": "https://store.bblcdn.eu/s4/default/ed066849832940048972d89a99fa6c4f/demo.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b7/b71421027b68fa502ecc198af533ea3bafed96defe1f51457dcb162d769b8228.png",
+      "id": "image-display-2cb8326177a01cc0c72e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "e41f04b4c1e6a92f82f1427756ce421f8edb24b0f059726a56dba74dc70e0778",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH141_-_pic.catalog.png",
+      "parent_asset_id": "image-d9ed0057f079cfda814f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b71421027b68fa502ecc198af533ea3bafed96defe1f51457dcb162d769b8228",
+      "size": 350396,
+      "source_url": "https://store.bblcdn.eu/s4/default/dfdeb436b8914deea676cbc59929eb56/B-ZH141_-_pic.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/22/22127f98e2126a1ef81d5e2a10d60e5effcbca68f8e289d8737f01643f91e30a.png",
+      "id": "image-display-fc72d7d60e9e5562461c",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9b94f3cb3d3edb0de091971c16bab251fb22b0acd9703a941ed60a42438c3491",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH141.catalog.png",
+      "parent_asset_id": "image-3567324fe1d7c898d823",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "22127f98e2126a1ef81d5e2a10d60e5effcbca68f8e289d8737f01643f91e30a",
+      "size": 143505,
+      "source_url": "https://store.bblcdn.eu/s4/default/828c55b8c2dd4c87ab5b9c53f981ded3/B-ZH141.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/0d/0df33a253d9af459cb445c81bcd98faa2e942ef32b24f9a456a8f3c7c8462cad.png",
+      "id": "image-display-569655fe3205fd2ba23d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "d542c9af915c4c141f08f8321ba48220a7eac1e4b48fefc778221887d67784b7",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "demo.catalog.png",
+      "parent_asset_id": "image-dc481f246d3d5a0a7804",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0df33a253d9af459cb445c81bcd98faa2e942ef32b24f9a456a8f3c7c8462cad",
+      "size": 776956,
+      "source_url": "https://store.bblcdn.eu/s4/default/ed066849832940048972d89a99fa6c4f/demo.jpg"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "Micro Steel Deep Groove Ball Bearings 608ZZ (2PCS) - EA027",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/micro-steel-deep-groove-ball-bearings?skr=yes&id=42504745025672&modelId=979068",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa158-m3-socket-head-cap-machine-screws-shcs-1",
+      "name": "M3x8 SHCS Machine Screw (20PCS) - AA037",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs-1?skr=yes&id=42334746607752&modelId=979068",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Spool roller, filament holder, spool holder. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Spool roller, filament holder, spool holder on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Spool roller, filament holder, spool holder</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Spool roller, filament holder, spool holder</strong>  on <a href=\"https://makerworld.com/en/models/979068-spool-roller-filament-holder-spool-holder?from=search#profileId-952446\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/micro-steel-deep-groove-ball-bearings?skr=yes&amp;id=42504745025672&amp;modelId=979068\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Micro Steel Deep Groove Ball Bearings 608ZZ (2PCS) - EA027</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/m3-socket-head-cap-machine-screws-shcs-1?skr=yes&amp;id=42334746607752&amp;modelId=979068\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x8 SHCS Machine Screw (20PCS) - AA037</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Spool roller, filament holder, spool holder. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Spool roller, filament holder, spool holder on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh141-filament-spool-roller",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Filament Spool Roller",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.66",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/filament-spool-roller?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.02",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/filament-spool-roller?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.19",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/filament-spool-roller?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.48",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/filament-spool-roller?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.86",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/filament-spool-roller?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.96",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/filament-spool-roller?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA037",
+    "B-ZH141",
+    "EA027",
+    "ZH141"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Spool Roller Filament Holder Spool Holder",
+      "url": "https://makerworld.com/en/models/979068-spool-roller-filament-holder-spool-holder?from=search#profileId-952446"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "741783595405107201",
+    "741784505116086272",
+    "741784898047705089",
+    "741785615188230145",
+    "741786340932685825",
+    "741786697751609344"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/filament-spool-roller?id=741784505116086272"
+      },
+      "rows": [
+        [
+          "Micro Steel Deep Groove Ball Bearings 608ZZ (2PCS) - EA027",
+          "2"
+        ],
+        [
+          "M3x8 SHCS Machine Screw (20PCS) - AA037",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/0d3175b25c9c48879771af5e34a1b963/B-ZH141_-_pic.jpg",
+      "part_number": "ZH141",
+      "price": "4.66",
+      "region": "us",
+      "sku": "741784505116086272",
+      "title": "Filament Spool Roller - Filament Spool Roller - ZH141",
+      "url": "https://us.store.bambulab.com/products/filament-spool-roller?id=741784505116086272",
+      "variant_id": "741784505116086272"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/381aa0ac5a6b489bbe45db5f2f179b08/B-ZH141_-_pic.jpg",
+      "part_number": "ZH141",
+      "price": "5.02",
+      "region": "ca",
+      "sku": "741785615188230145",
+      "title": "Filament Spool Roller - Filament Spool Roller - ZH141",
+      "url": "https://ca.store.bambulab.com/products/filament-spool-roller?id=741785615188230145",
+      "variant_id": "741785615188230145"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/aa9b20a4feb74aa1aa5aff46f11edd2c/B-ZH141_-_pic.jpg",
+      "part_number": "ZH141",
+      "price": "4.19",
+      "region": "eu",
+      "sku": "741783595405107201",
+      "title": "Filament Spool Roller - Filament Spool Roller - ZH141",
+      "url": "https://eu.store.bambulab.com/products/filament-spool-roller?id=741783595405107201",
+      "variant_id": "741783595405107201"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/dfdeb436b8914deea676cbc59929eb56/B-ZH141_-_pic.jpg",
+      "part_number": "ZH141",
+      "price": "3.48",
+      "region": "uk",
+      "sku": "741784898047705089",
+      "title": "Filament Spool Roller - Filament Spool Roller - ZH141",
+      "url": "https://uk.store.bambulab.com/products/filament-spool-roller?id=741784898047705089",
+      "variant_id": "741784898047705089"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/9df998d07c6443868992ba93c726dbef/B-ZH141_-_pic.jpg",
+      "part_number": "ZH141",
+      "price": "7.86",
+      "region": "au",
+      "sku": "741786340932685825",
+      "title": "Filament Spool Roller - Filament Spool Roller - ZH141",
+      "url": "https://au.store.bambulab.com/products/filament-spool-roller?id=741786340932685825",
+      "variant_id": "741786340932685825"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/bc62696cd39140ec864f49b112181e80/B-ZH141_-_pic.jpg",
+      "part_number": "ZH141",
+      "price": "3.96",
+      "region": "asia",
+      "sku": "741786697751609344",
+      "title": "Filament Spool Roller - Filament Spool Roller - ZH141",
+      "url": "https://asia.store.bambulab.com/products/filament-spool-roller?id=741786697751609344",
+      "variant_id": "741786697751609344"
+    }
+  ]
+}

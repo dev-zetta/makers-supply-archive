@@ -1,0 +1,489 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "new-vegas-light-up-sign",
+      "product_id": "749118556017938432",
+      "region": "us"
+    },
+    {
+      "handle": "new-vegas-light-up-sign",
+      "product_id": "749117736915517440",
+      "region": "ca"
+    },
+    {
+      "handle": "new-vegas-light-up-sign",
+      "product_id": "749118764976455680",
+      "region": "eu"
+    },
+    {
+      "handle": "new-vegas-light-up-sign",
+      "product_id": "749118237272178688",
+      "region": "uk"
+    },
+    {
+      "handle": "new-vegas-light-up-sign",
+      "product_id": "749115297175797760",
+      "region": "au"
+    },
+    {
+      "handle": "new-vegas-light-up-sign",
+      "product_id": "749112150704693248",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/08/08fe709e122ccc671a90523ff0d15ec77d15b3f63f8a39c54b4ea08f45b607d8.jpg",
+      "id": "image-4d97973ae9286cf04eb7",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "ZH160-pic-2.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "08fe709e122ccc671a90523ff0d15ec77d15b3f63f8a39c54b4ea08f45b607d8",
+      "size": 497545,
+      "source_url": "https://store.bblcdn.com/s7/default/5aa3ff3854c94fb9adc0fba5edfb0599/ZH160-pic-2.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/56/564c4b3d371327c2d75357f16025cfeb6388d60d47e2bb639f921b9f7c326736.jpg",
+      "id": "image-6c137814f7398e499ae3",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "ZH160-pic.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "564c4b3d371327c2d75357f16025cfeb6388d60d47e2bb639f921b9f7c326736",
+      "size": 808389,
+      "source_url": "https://store.bblcdn.com/s7/default/4df4fddd68d240ffb6ccf56eed13e35c/ZH160-pic.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/6f/6f1aa7394f36461aebb97dcaaa834797a900c93ece45746bef8b227d720daae7.png",
+      "id": "image-2598802d09a5c5079ead",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH160.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6f1aa7394f36461aebb97dcaaa834797a900c93ece45746bef8b227d720daae7",
+      "size": 324262,
+      "source_url": "https://store.bblcdn.com/s7/default/618f71fb7e4b4cf88e8b9c0827a1a308/B-ZH160.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/07/0778377176eeffd1229c049d6cda68e93726741d305829c59b139e975002b764.png",
+      "id": "image-display-54eebef2590e2f872ef7",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "08fe709e122ccc671a90523ff0d15ec77d15b3f63f8a39c54b4ea08f45b607d8",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH160-pic-2.catalog.png",
+      "parent_asset_id": "image-4d97973ae9286cf04eb7",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0778377176eeffd1229c049d6cda68e93726741d305829c59b139e975002b764",
+      "size": 756021,
+      "source_url": "https://store.bblcdn.com/s7/default/5aa3ff3854c94fb9adc0fba5edfb0599/ZH160-pic-2.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f8/f822077392a32adc6b9cef1d71709a18845421dcbb6fd2771010e3a8d773aed0.png",
+      "id": "image-display-bd14c622e5e6cdfd4926",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "564c4b3d371327c2d75357f16025cfeb6388d60d47e2bb639f921b9f7c326736",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH160-pic.catalog.png",
+      "parent_asset_id": "image-6c137814f7398e499ae3",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "f822077392a32adc6b9cef1d71709a18845421dcbb6fd2771010e3a8d773aed0",
+      "size": 1110558,
+      "source_url": "https://store.bblcdn.com/s7/default/4df4fddd68d240ffb6ccf56eed13e35c/ZH160-pic.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/33/33c4d0faef620462afdb0b6dab168e7b44500bef5b7a793db90bffb575a673f9.png",
+      "id": "image-display-7ea5184f7ab631041f07",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "6f1aa7394f36461aebb97dcaaa834797a900c93ece45746bef8b227d720daae7",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH160.catalog.png",
+      "parent_asset_id": "image-2598802d09a5c5079ead",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "33c4d0faef620462afdb0b6dab168e7b44500bef5b7a793db90bffb575a673f9",
+      "size": 106393,
+      "source_url": "https://store.bblcdn.com/s7/default/618f71fb7e4b4cf88e8b9c0827a1a308/B-ZH160.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "ia003-battery-case",
+      "name": "AAA Battery Case with PH2.0 Connector (1PCS) - IA004",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/battery-case?id=42122903814280",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "mf001-black-nylon-cord",
+      "name": "0.6mm Black Nylon Cord 5m (1pcs) - MF001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/black-nylon-cord?id=42731737219208",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa019-bt2-socket-head-cap-self-tapping-screws-shcs",
+      "name": "BT2x8 SHCS Self Tapping Screw (20PCS) - AA019",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/bt2-socket-head-cap-self-tapping-screws-shcs?id=42102711779464",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "zh090-sh1-0-to-dual-sh1-0-adapter-2pcs",
+      "name": "SH1.0 to Dual SH1.0 Adapter (2PCS)",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/sh1-0-to-dual-sh1-0-adapter-2pcs?id=616423030361321474",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ic004-wire-pair-with-sh1-0",
+      "name": "100mm Wire Pair with SH1.0 (5PCS) - IC004",
+      "quantity": "3",
+      "source_url": "https://us.store.bambulab.com/products/wire-pair-with-sh1-0?id=42122968563848",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia005-power-distribution-board-pdb-4-channels",
+      "name": "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=42123476467848",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia007-potentiometer-board-with-sh1-0-connector",
+      "name": "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/potentiometer-board-with-sh1-0-connector?id=42123349753992",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia006-self-locking-button-switch-with-sh1-0-connector",
+      "name": "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=42123262427272",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ic004-wire-pair-with-sh1-0",
+      "name": "300mm Wire Pair with SH1.0(2PCS) - XC014",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/wire-pair-with-sh1-0?id=589257154176921602",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ka007-cob-led-strip-light",
+      "name": "200x1mm COB LED Strip Light (1PCS) - KA008",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/cob-led-strip-light?id=42645878341768",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ka007-cob-led-strip-light",
+      "name": "300x1mm COB LED Strip Light (1PCS) - KA009",
+      "quantity": "3",
+      "source_url": "https://us.store.bambulab.com/products/cob-led-strip-light?id=42799127691400",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional New Vegas Light-Up Sign. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the New Vegas Light-Up Sign on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>New Vegas Light-Up Sign</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>New Vegas Light-Up Sign</strong> on <a href=\"https://makerworld.com/en/models/2730611-new-vegas-light-up-sign?from=search#profileId-3026346\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 228px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/battery-case?id=42122903814280\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">AAA Battery Case with PH2.0 Connector (1PCS) - IA004</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/black-nylon-cord?id=42731737219208\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">0.6mm Black Nylon Cord 5m (1pcs) - MF001</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/bt2-socket-head-cap-self-tapping-screws-shcs?id=42102711779464\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">BT2x8 SHCS Self Tapping Screw (20PCS) - AA019</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/sh1-0-to-dual-sh1-0-adapter-2pcs?id=616423030361321474\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">SH1.0 to Dual SH1.0 Adapter (2PCS) </a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/wire-pair-with-sh1-0?id=42122968563848\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">100mm Wire Pair with SH1.0 (5PCS) - IC004</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/power-distribution-board-pdb-4-channels?id=42123476467848\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/potentiometer-board-with-sh1-0-connector?id=42123349753992\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">Potentiometer Board with SH1.0 Connector (2PCS) - IA007</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/self-locking-button-switch-with-sh1-0-connector?id=42123262427272\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/wire-pair-with-sh1-0?id=589257154176921602\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">300mm Wire Pair with SH1.0(2PCS) - XC014</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/cob-led-strip-light?id=42645878341768\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">200x1mm COB LED Strip Light (1PCS) - KA008</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px; width: 735.812px;\"><span style=\"color: #2dc26b;\"><a href=\"../../products/cob-led-strip-light?id=42799127691400\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">300x1mm COB LED Strip Light (1PCS) - KA009</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 153.188px;\">3</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional New Vegas Light-Up Sign. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the New Vegas Light-Up Sign on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh160-new-vegas-light-up-sign",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "New Vegas Light-Up Sign",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "64.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "81.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "69.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "59.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "126.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "59.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA019",
+    "IA004",
+    "IA005",
+    "IA006",
+    "IA007",
+    "IC004",
+    "KA008",
+    "KA009",
+    "MF001",
+    "XA016",
+    "XC014",
+    "ZH160"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "New Vegas Light Up Sign",
+      "url": "https://makerworld.com/en/models/2730611-new-vegas-light-up-sign?from=search#profileId-3026346"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "749112150729859074",
+    "749115297259683841",
+    "749117736982626306",
+    "749118237339287553",
+    "749118556038909954",
+    "749118765064536066"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/new-vegas-light-up-sign?id=749118556038909954"
+      },
+      "rows": [
+        [
+          "AAA Battery Case with PH2.0 Connector (1PCS) - IA004",
+          "1"
+        ],
+        [
+          "0.6mm Black Nylon Cord 5m (1pcs) - MF001",
+          "1"
+        ],
+        [
+          "BT2x8 SHCS Self Tapping Screw (20PCS) - AA019",
+          "2"
+        ],
+        [
+          "SH1.0 to Dual SH1.0 Adapter (2PCS)",
+          "2"
+        ],
+        [
+          "100mm Wire Pair with SH1.0 (5PCS) - IC004",
+          "3"
+        ],
+        [
+          "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+          "1"
+        ],
+        [
+          "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+          "1"
+        ],
+        [
+          "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+          "1"
+        ],
+        [
+          "300mm Wire Pair with SH1.0(2PCS) - XC014",
+          "1"
+        ],
+        [
+          "200x1mm COB LED Strip Light (1PCS) - KA008",
+          "1"
+        ],
+        [
+          "300x1mm COB LED Strip Light (1PCS) - KA009",
+          "3"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/5aa3ff3854c94fb9adc0fba5edfb0599/ZH160-pic-2.jpg",
+      "part_number": "ZH160",
+      "price": "64.99",
+      "region": "us",
+      "sku": "749118556038909954",
+      "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
+      "url": "https://us.store.bambulab.com/products/new-vegas-light-up-sign?id=749118556038909954",
+      "variant_id": "749118556038909954"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/8510225a23d64791b9fd55f4e4f80ad0/ZH160-pic-2.jpg",
+      "part_number": "ZH160",
+      "price": "81.99",
+      "region": "ca",
+      "sku": "749117736982626306",
+      "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
+      "url": "https://ca.store.bambulab.com/products/new-vegas-light-up-sign?id=749117736982626306",
+      "variant_id": "749117736982626306"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/e9e160d7c01c4cc0ac7eaa2d49bb2798/ZH160-pic-2.jpg",
+      "part_number": "ZH160",
+      "price": "69.99",
+      "region": "eu",
+      "sku": "749118765064536066",
+      "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
+      "url": "https://eu.store.bambulab.com/products/new-vegas-light-up-sign?id=749118765064536066",
+      "variant_id": "749118765064536066"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/27cec53892054e459adf8ddd09400edd/ZH160-pic-2.jpg",
+      "part_number": "ZH160",
+      "price": "59.99",
+      "region": "uk",
+      "sku": "749118237339287553",
+      "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
+      "url": "https://uk.store.bambulab.com/products/new-vegas-light-up-sign?id=749118237339287553",
+      "variant_id": "749118237339287553"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/880d362bbd874d4999f2f28276fc86a0/ZH160-pic-2.jpg",
+      "part_number": "ZH160",
+      "price": "126.99",
+      "region": "au",
+      "sku": "749115297259683841",
+      "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
+      "url": "https://au.store.bambulab.com/products/new-vegas-light-up-sign?id=749115297259683841",
+      "variant_id": "749115297259683841"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/d4ded5579c314a008e882c8663f6d28e/ZH160-pic-2.jpg",
+      "part_number": "ZH160",
+      "price": "59.99",
+      "region": "asia",
+      "sku": "749112150729859074",
+      "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
+      "url": "https://asia.store.bambulab.com/products/new-vegas-light-up-sign?id=749112150729859074",
+      "variant_id": "749112150729859074"
+    }
+  ]
+}

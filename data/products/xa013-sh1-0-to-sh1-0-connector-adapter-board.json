@@ -1,0 +1,510 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "sh1-0-to-sh1-0-connector-adapter-board",
+      "product_id": "8478003036296",
+      "region": "us"
+    },
+    {
+      "handle": "sh1-0-to-sh1-0-connector-adapter-board",
+      "product_id": "558546198722347008",
+      "region": "ca"
+    },
+    {
+      "handle": "sh1-0-to-sh1-0-connector-adapter-board",
+      "product_id": "14856295842140",
+      "region": "eu"
+    },
+    {
+      "handle": "sh1-0-to-sh1-0-connector-adapter-board",
+      "product_id": "558545626883674112",
+      "region": "uk"
+    },
+    {
+      "handle": "sh1-0-to-sh1-0-connector-adapter-board",
+      "product_id": "558543520901210112",
+      "region": "au"
+    },
+    {
+      "handle": "sh1-0-to-sh1-0-connector-adapter-board",
+      "product_id": "558540825437212672",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/e0/e011fc788528379e6f35a7d570a226bb0db1a494baa0b0e29ae65e9578c758ed.png",
+      "id": "image-2478efe0c85d602a4c9e",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123867435.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e011fc788528379e6f35a7d570a226bb0db1a494baa0b0e29ae65e9578c758ed",
+      "size": 518277,
+      "source_url": "https://store.bblcdn.com/s1/default/68cced5bcbd747eeac2473fbdb3ba7e2/Frame_1123867435.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4a/4ad4a72a02d99fa3cdb988b7f22819a6b4adb03726031dc86ca997d1c1fb4eab.png",
+      "id": "image-b559a5c6695a55e41e38",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123867434.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4ad4a72a02d99fa3cdb988b7f22819a6b4adb03726031dc86ca997d1c1fb4eab",
+      "size": 521997,
+      "source_url": "https://store.bblcdn.com/s1/default/c324d149a8424b1e8e049a8869294967/Frame_1123867434.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/11/1109bb4eccce7574434297fb14d34c04efc3f358aa60b4261c52a5e7f9a7598a.png",
+      "id": "image-c43fbe899ed626eaddaa",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "XA013.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1109bb4eccce7574434297fb14d34c04efc3f358aa60b4261c52a5e7f9a7598a",
+      "size": 683527,
+      "source_url": "https://store.bblcdn.com/s1/default/2a29b972fc094e6795404f243911d69d/XA013.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/cc/cc8210b7e06b8edceb29b118e1e7587cd46399eae54c585475bef5ee605d8fd4.zip",
+      "id": "archive-fd86484cb2802b0fb8a7",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "SH1.0_to_SH1.0_Connector_Adapter_Board_-_XA013_Model.zip",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "cc8210b7e06b8edceb29b118e1e7587cd46399eae54c585475bef5ee605d8fd4",
+      "size": 168650,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/SH1.0_to_SH1.0_Connector_Adapter_Board_-_XA013_Model.zip"
+    },
+    {
+      "archive_member_path": "SH1.0 to SH1.0 Connector Adapter Board - XA013.step",
+      "blob_path": "data/blobs/sha256/f2/f2ba75821975cdedaa3711dab77a429d7b7622d7ec60056744646eba87e9dab1.step",
+      "id": "model-4af1fa0bf0cb4f1a616b",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "SH1.0 to SH1.0 Connector Adapter Board - XA013.step",
+      "parent_asset_id": "archive-fd86484cb2802b0fb8a7",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "f2ba75821975cdedaa3711dab77a429d7b7622d7ec60056744646eba87e9dab1",
+      "size": 1016357,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/SH1.0_to_SH1.0_Connector_Adapter_Board_-_XA013_Model.zip"
+    },
+    {
+      "archive_member_path": "SH1.0 to SH1.0 Connector Adapter Board - XA013.stl",
+      "blob_path": "data/blobs/sha256/0e/0ef8a2d125e959f2551c0b6803423c19c727a21934c75a44f9731cf8b4f2acbe.stl",
+      "id": "model-e5c40a7763978920686c",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "SH1.0 to SH1.0 Connector Adapter Board - XA013.stl",
+      "parent_asset_id": "archive-fd86484cb2802b0fb8a7",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0ef8a2d125e959f2551c0b6803423c19c727a21934c75a44f9731cf8b4f2acbe",
+      "size": 110084,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/SH1.0_to_SH1.0_Connector_Adapter_Board_-_XA013_Model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c7/c72dc368371256fe5480ef7a82e11fff68dee0455db8c69bf68a885f50dad2fd.png",
+      "id": "image-display-a9e655703c36aafdf9af",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e011fc788528379e6f35a7d570a226bb0db1a494baa0b0e29ae65e9578c758ed",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123867435.catalog.png",
+      "parent_asset_id": "image-2478efe0c85d602a4c9e",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c72dc368371256fe5480ef7a82e11fff68dee0455db8c69bf68a885f50dad2fd",
+      "size": 151301,
+      "source_url": "https://store.bblcdn.com/s1/default/68cced5bcbd747eeac2473fbdb3ba7e2/Frame_1123867435.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/37/37bb48d95e97f36a1166218c7bff0f777bb379a89bd9fa33892012176aedf62d.png",
+      "id": "image-display-5f1cf86d19cb13af9460",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "4ad4a72a02d99fa3cdb988b7f22819a6b4adb03726031dc86ca997d1c1fb4eab",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123867434.catalog.png",
+      "parent_asset_id": "image-b559a5c6695a55e41e38",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "37bb48d95e97f36a1166218c7bff0f777bb379a89bd9fa33892012176aedf62d",
+      "size": 163858,
+      "source_url": "https://store.bblcdn.com/s1/default/c324d149a8424b1e8e049a8869294967/Frame_1123867434.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/3c/3c3a912805d86648480f270be1b86d83e8d3587201dc8ddae04736c98290bfb2.png",
+      "id": "image-display-14af2abdda7a83e9e6f8",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "1109bb4eccce7574434297fb14d34c04efc3f358aa60b4261c52a5e7f9a7598a",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "XA013.catalog.png",
+      "parent_asset_id": "image-c43fbe899ed626eaddaa",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "3c3a912805d86648480f270be1b86d83e8d3587201dc8ddae04736c98290bfb2",
+      "size": 177648,
+      "source_url": "https://store.bblcdn.com/s1/default/2a29b972fc094e6795404f243911d69d/XA013.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[6]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The SH1.0 to SH1.0 Connector Adapter Board facilitates seamless SH1.0 connection, delivering reliable signal and power transmission for compact devices and modular systems. It can also be paired with a Wire Pair with SH1.0 connectors, serving as an extension kit for enhanced SH1.0 connection capabilities."
+    },
+    {
+      "kind": "heading",
+      "text": "Application"
+    },
+    {
+      "kind": "bullet",
+      "text": "Embedded system development: Ideal for prototyping and integrating components in embedded system projects."
+    },
+    {
+      "kind": "bullet",
+      "text": "Circuit debugging and testing: Simplifies troubleshooting and ensures reliable circuit performance during testing."
+    },
+    {
+      "kind": "bullet",
+      "text": "Modular device interconnections: Enables seamless connectivity between modular devices for efficient integration."
+    },
+    {
+      "kind": "bullet",
+      "text": "Signal and power transmission for compact devices: Ensures stable signal and power flow in space-constrained device setups."
+    },
+    {
+      "kind": "heading",
+      "text": "Important Notices"
+    },
+    {
+      "kind": "bullet",
+      "text": "Pin alignment: Ensure correct pin alignment when connecting cables. Reversing the polarity may cause short circuits and damage connected devices."
+    },
+    {
+      "kind": "bullet",
+      "text": "Choking hazard: This product contains small parts. Keep out of reach of children to avoid accidental ingestion."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><!-- 3D Model --><a href=\"https://cdn.shopify.com/s/files/1/0584/7236/6216/files/SH1.0_to_SH1.0_Connector_Adapter_Board_-_XA013_Model.zip?v=1737367063\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://cdn.shopify.com/s/files/1/0611/4036/9460/files/3d.svg?v=1715161943\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <span>3D Model</span> </a><!-- Introduction --></p>\n<br/>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"text-align: left;\"><strong>Introduction</strong></h2>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"NWFEdTdraotwGWx8BemcxlFinug\">\n<div class=\"old-record-id-ZMy0dGgjFoKF7YxnkxRcb6YInV1\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"NWFEdTdraotwGWx8BemcxlFinug\">\n<div class=\"ace-line ace-line old-record-id-ZMy0dGgjFoKF7YxnkxRcb6YInV1\">The SH1.0 to SH1.0 Connector Adapter Board facilitates seamless SH1.0 connection, delivering reliable signal and power transmission for compact devices and modular systems. It can also be paired with a <a href=\"https://asia.store.bambulab.com/products/wire-pair-with-sh1-0?id=41588979171443&amp;skr=yes\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong>Wire Pair with SH1.0</strong></span></a> connectors, serving as an extension kit for enhanced SH1.0 connection capabilities.</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"NWFEdTdraotwGWx8BemcxlFinug\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"The SH1.0 to SH1.0 Connector Adapter Board facilitates seamless SH1.0 connection, delivering reliable signal and power transmission for compact devices and modular systems. It can also be paired with a Wire Pair with SH1.0 connectors, serving as an extension kit for enhanced SH1.0 connection capabilities.\"},\"attribs\":{\"0\":\"*0+5m*0*1+k*0+2c\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7120626754414182428\"],\"1\":[\"bold\",\"true\"]},\"nextNum\":2}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"channel\":\"saas\",\"pasteRandomId\":\"b43cc661-e182-46b7-af4c-ae0a7be35ec7\",\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":841,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":306},\"recordId\":\"ZMy0dGgjFoKF7YxnkxRcb6YInV1\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></div>\n</div>\n</div>\n<!-- 图片模块-->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://cdn.shopify.com/s/files/1/0584/7236/6216/files/SH1.0_to_SH1.0_Connector_Adapter_Board_-_XA013.png?v=1737461652\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/3ca88daa1fd74c80961991e4b6928dbd/1.png\" height=\"700\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"1188\"/></div>\n</div>\n</div>\n<!-- Product Specifications 零件模板 -->\n<table class=\"pct_tb\" style=\"border-color: #adadad; font-weight: bold; height: 120px; width: 111.864%;\"><!-- 物品清单布局 --><!-- 标题加文案结束 --> <!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 40px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; text-align: center; height: 40px; width: 13.6939%; padding: 10px !important;\">\n<div>Product ID</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 40px; width: 16.6547%; padding: 10px !important;\">\n<div>Connector Type</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 40px; width: 12.5836%; padding: 10px !important;\">Operating Current <br/>(A)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 40px; width: 13.1387%; padding: 10px !important;\">Operating Voltage <br/>(V)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 40px; width: 15.1743%; padding: 10px !important;\">Product Dimensions<br/>(mm)</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 15px;\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; width: 13.6939%; padding: 10px !important;\">\n<div data-docx-has-block-data=\"true\" data-lark-html-role=\"root\" data-page-id=\"OsAldE1cUoGAUQxg1D4cwL9Xnqc\">XA013</div>\n</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 16.6547%; padding: 10px !important;\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"OsAldE1cUoGAUQxg1D4cwL9Xnqc\">\n<div class=\"ace-line ace-line old-record-id-E2TsdMkJuoukcexwn4Uckptnnqf\">SH1.0 to SH1.0</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 12.5836%; padding: 10px !important;\">1A</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 13.1387%; padding: 10px !important;\">3~6V</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 15.1743%; padding: 10px !important;\">12.7*5.2*4.74</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 15px;\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; width: 13.6939%; padding: 10px !important;\">\n<div data-docx-has-block-data=\"true\" data-lark-html-role=\"root\" data-page-id=\"OsAldE1cUoGAUQxg1D4cwL9Xnqc\">XA018</div>\n</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 16.6547%; padding: 10px !important;\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"OsAldE1cUoGAUQxg1D4cwL9Xnqc\">\n<div class=\"ace-line ace-line old-record-id-E2TsdMkJuoukcexwn4Uckptnnqf\">SH1.0 to SH1.0</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 12.5836%; padding: 10px !important;\">1A</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 13.1387%; padding: 10px !important;\">3.3V</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 15.1743%; padding: 10px !important;\">14*6.5*4.8</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<br/><!-- Application -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div class=\"pct_t-p\"></div>\n<h2 class=\"pct_t\">Application</h2>\n</div>\n<div class=\"pct_padding-in-mobile\">\n<ul>\n<li><strong>Embedded system development</strong>: Ideal for prototyping and integrating components in embedded system projects.</li>\n<li><strong>Circuit debugging and testing</strong>: Simplifies troubleshooting and ensures reliable circuit performance during testing.</li>\n<li><strong>Modular device interconnections</strong>: Enables seamless connectivity between modular devices for efficient integration.</li>\n<li><strong>Signal and power transmission for compact devices</strong>: Ensures stable signal and power flow in space-constrained device setups.</li>\n<!-- 文本模块 结尾--></ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 30px; margin-bottom: 20px; text-align: center; font-size: 24px;\">Important Notices</h2>\n<div class=\"pct_padding-in-mobile\">\n<ul>\n<li><strong>Pin alignment</strong>: Ensure correct pin alignment when connecting cables. Reversing the polarity may cause short circuits and damage connected devices.</li>\n<li><strong>Choking hazard</strong>: This product contains small parts. Keep out of reach of children to avoid accidental ingestion.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The SH1.0 to SH1.0 Connector Adapter Board facilitates seamless SH1.0 connection, delivering reliable signal and power transmission for compact devices and modular systems. It can also be paired with a Wire Pair with SH1.0 connectors, serving as an extension kit for enhanced SH1.0 connection capabilities.\n\nEmbedded system development: Ideal for prototyping and integrating components in embedded system projects.\n\nCircuit debugging and testing: Simplifies troubleshooting and ensures reliable circuit performance during testing.\n\nModular device interconnections: Enables seamless connectivity between modular devices for efficient integration.\n\nSignal and power transmission for compact devices: Ensures stable signal and power flow in space-constrained device setups.\n\nPin alignment: Ensure correct pin alignment when connecting cables. Reversing the polarity may cause short circuits and damage connected devices.\n\nChoking hazard: This product contains small parts. Keep out of reach of children to avoid accidental ingestion.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "xa013-sh1-0-to-sh1-0-connector-adapter-board",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "SH1.0 to SH1.0 Connector Adapter Board",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.79",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.15",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.58",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.19",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.95",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.49",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "XA013",
+    "XA018"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "43257414647944",
+    "53846651437404",
+    "558540825453989889",
+    "558543520913793026",
+    "558545626900451330",
+    "558546198734929922",
+    "682482956421267456",
+    "682483383129292802",
+    "682483442714042370",
+    "682483495594659842",
+    "682483549144141824",
+    "682722434274004994"
+  ],
+  "source_tables": [
+    {
+      "caption": "Introduction",
+      "headers": [
+        "Product ID",
+        "Connector Type",
+        "Operating Current (A)",
+        "Operating Voltage (V)",
+        "Product Dimensions (mm)"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=43257414647944"
+      },
+      "rows": [
+        [
+          "XA013",
+          "SH1.0 to SH1.0",
+          "1A",
+          "3~6V",
+          "12.7*5.2*4.74"
+        ],
+        [
+          "XA018",
+          "SH1.0 to SH1.0",
+          "1A",
+          "3.3V",
+          "14*6.5*4.8"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/e85aba0b75bf444b94f6d0fd24024f36/Frame_1123867435.png",
+      "part_number": "XA013",
+      "price": "2.79",
+      "region": "us",
+      "sku": "43257414647944",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
+      "url": "https://us.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=43257414647944",
+      "variant_id": "43257414647944"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/ce142bdeb0454d4b93bd2ca24011f772/Frame_1123867434.png",
+      "part_number": "XA018",
+      "price": "2.79",
+      "region": "us",
+      "sku": "682722434274004994",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
+      "url": "https://us.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682722434274004994",
+      "variant_id": "682722434274004994"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/ceb07c34828d4eb080239123d39cc784/Frame_1123867435.png",
+      "part_number": "XA013",
+      "price": "3.15",
+      "region": "ca",
+      "sku": "558546198734929922",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
+      "url": "https://ca.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=558546198734929922",
+      "variant_id": "558546198734929922"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/e5a5f76a0d1e4be98f7aac23cfe159b9/Frame_1123867434.png",
+      "part_number": "XA018",
+      "price": "3.15",
+      "region": "ca",
+      "sku": "682483442714042370",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
+      "url": "https://ca.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682483442714042370",
+      "variant_id": "682483442714042370"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/addd3c4a268a487aaa203beb5e6318bd/Frame_1123867435.png",
+      "part_number": "XA013",
+      "price": "2.58",
+      "region": "eu",
+      "sku": "53846651437404",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
+      "url": "https://eu.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=53846651437404",
+      "variant_id": "53846651437404"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/a1f3e5fe11ae4f568ff0739a931940d3/Frame_1123867434.png",
+      "part_number": "XA018",
+      "price": "2.58",
+      "region": "eu",
+      "sku": "682482956421267456",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
+      "url": "https://eu.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682482956421267456",
+      "variant_id": "682482956421267456"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/029d81e644fa495da15d5254c1f47993/Frame_1123867435.png",
+      "part_number": "XA013",
+      "price": "2.19",
+      "region": "uk",
+      "sku": "558545626900451330",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
+      "url": "https://uk.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=558545626900451330",
+      "variant_id": "558545626900451330"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/128ee286873646859257857a52e1bdc8/Frame_1123867434.png",
+      "part_number": "XA018",
+      "price": "2.19",
+      "region": "uk",
+      "sku": "682483383129292802",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
+      "url": "https://uk.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682483383129292802",
+      "variant_id": "682483383129292802"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/e59793a4324b48d6bd44dc2f73951997/Frame_1123867435.png",
+      "part_number": "XA013",
+      "price": "4.95",
+      "region": "au",
+      "sku": "558543520913793026",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
+      "url": "https://au.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=558543520913793026",
+      "variant_id": "558543520913793026"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/82a4f493fc694be2bd5a3ee1875a8e08/Frame_1123867434.png",
+      "part_number": "XA018",
+      "price": "4.95",
+      "region": "au",
+      "sku": "682483495594659842",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
+      "url": "https://au.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682483495594659842",
+      "variant_id": "682483495594659842"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/68cced5bcbd747eeac2473fbdb3ba7e2/Frame_1123867435.png",
+      "part_number": "XA013",
+      "price": "2.49",
+      "region": "asia",
+      "sku": "558540825453989889",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
+      "url": "https://asia.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=558540825453989889",
+      "variant_id": "558540825453989889"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/c324d149a8424b1e8e049a8869294967/Frame_1123867434.png",
+      "part_number": "XA018",
+      "price": "2.49",
+      "region": "asia",
+      "sku": "682483549144141824",
+      "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
+      "url": "https://asia.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682483549144141824",
+      "variant_id": "682483549144141824"
+    }
+  ]
+}

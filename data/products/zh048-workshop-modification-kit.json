@@ -1,0 +1,650 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "workshop-modification-kit",
+      "product_id": "8422668599432",
+      "region": "us"
+    },
+    {
+      "handle": "workshop-modification-kit",
+      "product_id": "9110905094384",
+      "region": "ca"
+    },
+    {
+      "handle": "workshop-modification-kit",
+      "product_id": "14777716343132",
+      "region": "eu"
+    },
+    {
+      "handle": "workshop-modification-kit",
+      "product_id": "536315143219965952",
+      "region": "uk"
+    },
+    {
+      "handle": "workshop-modification-kit",
+      "product_id": "536314553068978176",
+      "region": "au"
+    },
+    {
+      "handle": "workshop-modification-kit",
+      "product_id": "536310216398286848",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/0d/0d506182a53954335ced5f2037a81f3b18e6b55c50e8a03b07f4331aae86ee09.png",
+      "id": "image-4b8e5dc243ea674222a0",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Workshop_Modification.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0d506182a53954335ced5f2037a81f3b18e6b55c50e8a03b07f4331aae86ee09",
+      "size": 601108,
+      "source_url": "https://store.bblcdn.eu/s4/default/335a4b724a9c46c7aadffc37701da0e4/Workshop_Modification.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/50/5013d15ad46c609b800ec826bddcf3217d977eb992e92667ce858960f39768a9.png",
+      "id": "image-72a1b2b4f82e530c72ab",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "zh048.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5013d15ad46c609b800ec826bddcf3217d977eb992e92667ce858960f39768a9",
+      "size": 534366,
+      "source_url": "https://store.bblcdn.eu/s4/default/c35ffbd3920445c78571019918e35870/zh048.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c2/c2e9144f492a7bcab9a69def22ab5acb96ab38845a01a33b598c33e9ba893e1a.zip",
+      "id": "archive-5af518655cc90b817d2a",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Workshop_Modification_Kit-B-ZH048_Model.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "c2e9144f492a7bcab9a69def22ab5acb96ab38845a01a33b598c33e9ba893e1a",
+      "size": 4423361,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "1 608zz P5 Steel Deep Groove Ball Bearings-B-EA028/608ZZ P5 - EA028.stl",
+      "blob_path": "data/blobs/sha256/38/388e647f1879736eca6a2b4617afa95746dfd47a3f5b511c36e5aacedd146d91.stl",
+      "id": "model-d920856dcbf17de27838",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "608ZZ P5 - EA028.stl",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "388e647f1879736eca6a2b4617afa95746dfd47a3f5b511c36e5aacedd146d91",
+      "size": 658484,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "1 608zz P5 Steel Deep Groove Ball Bearings-B-EA028/608ZZ P5 - EA028.stp",
+      "blob_path": "data/blobs/sha256/be/be04c6cc88dcedc07fa70762c1a1f078ef9b6ca89a37fd671bf2ea13705035fe.stp",
+      "id": "model-051f08e6bcd1735e285e",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "608ZZ P5 - EA028.stp",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "be04c6cc88dcedc07fa70762c1a1f078ef9b6ca89a37fd671bf2ea13705035fe",
+      "size": 650739,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "2 MR128zz Steel Deep Groove Ball Bearings -B-EA004/MR128ZZ - EA004/MR128ZZ - EA004.step",
+      "blob_path": "data/blobs/sha256/19/19ad7d22cd4a775e264e7e983107cadf59c8e7265d3b9fa04e405b7a9cb930cd.step",
+      "id": "model-f85935faeccf06e8b6ee",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "MR128ZZ - EA004.step",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "19ad7d22cd4a775e264e7e983107cadf59c8e7265d3b9fa04e405b7a9cb930cd",
+      "size": 1718508,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "2 MR128zz Steel Deep Groove Ball Bearings -B-EA004/MR128ZZ - EA004/MR128ZZ - EA004.stl",
+      "blob_path": "data/blobs/sha256/bf/bf3cf8379df1bed013be4956a2807cb9a606a678ee6c2fece6d388a25d7903d0.stl",
+      "id": "model-f8e6e417eb2c382eeea2",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "MR128ZZ - EA004.stl",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "bf3cf8379df1bed013be4956a2807cb9a606a678ee6c2fece6d388a25d7903d0",
+      "size": 9065984,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "3 Circular Embedded Electronic Digital Thermometer Hygrometer -B-XF001/Circular Embedded Electronic Digital Thermometer Hygrometer - XF001.stl",
+      "blob_path": "data/blobs/sha256/83/832212b90a83ae5ba7a841f441c6778fc0b9d14e396507193f288308e13453a5.stl",
+      "id": "model-50c29898459cfcd5d0cb",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Circular Embedded Electronic Digital Thermometer Hygrometer - XF001.stl",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "832212b90a83ae5ba7a841f441c6778fc0b9d14e396507193f288308e13453a5",
+      "size": 142984,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "3 Circular Embedded Electronic Digital Thermometer Hygrometer -B-XF001/Circular Embedded Electronic Digital Thermometer Hygrometer - XF001.stp",
+      "blob_path": "data/blobs/sha256/1b/1b5ec2821cfa6c03cb488aab0c0fdc14519ca89f8964f940653d316ed455b4b0.stp",
+      "id": "model-d923c8bb958dd0a6b979",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Circular Embedded Electronic Digital Thermometer Hygrometer - XF001.stp",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "1b5ec2821cfa6c03cb488aab0c0fdc14519ca89f8964f940653d316ed455b4b0",
+      "size": 421511,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "4 D8x2 mm Round Magnet-B-CA005/D8x2mm - CA005.stl",
+      "blob_path": "data/blobs/sha256/dc/dc652e3ec3b5d5a1b9f5849e5bda592e61b9af24af29dd5e23b0e28a82e741dd.stl",
+      "id": "model-4879df3c98dba3c0154b",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "D8x2mm - CA005.stl",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "dc652e3ec3b5d5a1b9f5849e5bda592e61b9af24af29dd5e23b0e28a82e741dd",
+      "size": 55484,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "4 D8x2 mm Round Magnet-B-CA005/D8x2mm - CA005.stp",
+      "blob_path": "data/blobs/sha256/ce/ceac2313f36583d29fe22f0dcb45ca3b5e8dad6123e989db54de89356bb4105e.stp",
+      "id": "model-6c5210718bd90cb64b09",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "D8x2mm - CA005.stp",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "ceac2313f36583d29fe22f0dcb45ca3b5e8dad6123e989db54de89356bb4105e",
+      "size": 26740,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "5 PC4-M6 Pneumatic Connector for PTFE Tube-B FC001/PC4-M6 - FC001.STEP",
+      "blob_path": "data/blobs/sha256/46/4680d129b827185c24faa3e62793f8a7e3d1451199ebf4befbb98a21f4d4d993.step",
+      "id": "model-dd1299071db242ea637d",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "PC4-M6 - FC001.STEP",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "4680d129b827185c24faa3e62793f8a7e3d1451199ebf4befbb98a21f4d4d993",
+      "size": 865979,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "5 PC4-M6 Pneumatic Connector for PTFE Tube-B FC001/PC4-M6 - FC001.STL",
+      "blob_path": "data/blobs/sha256/42/421eb82a0cf39daf4ba9a715008e991dbda2467caa6af7366a2d8df702e9f85e.stl",
+      "id": "model-c2e5fbdb4cf49df69891",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "PC4-M6 - FC001.STL",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "421eb82a0cf39daf4ba9a715008e991dbda2467caa6af7366a2d8df702e9f85e",
+      "size": 975784,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "6 8x12mm Transparent Silicone Tube 2m -B-RC004/8x12mm Silicone Tubes 2m - RC004.STEP",
+      "blob_path": "data/blobs/sha256/36/36de6e8402cfd8ae34130338ee41f253b10b062ca2dd3c0f37b2f666dccfcf26.step",
+      "id": "model-02a5a5b64b055d82716b",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "8x12mm Silicone Tubes 2m - RC004.STEP",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "36de6e8402cfd8ae34130338ee41f253b10b062ca2dd3c0f37b2f666dccfcf26",
+      "size": 17119,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "archive_member_path": "6 8x12mm Transparent Silicone Tube 2m -B-RC004/8x12mm Silicone Tubes 2m - RC004.STL",
+      "blob_path": "data/blobs/sha256/c2/c20f5265921b0fbb3c0d3051183744d5664100b208e4743bdb2d20f2d7f8afab.stl",
+      "id": "model-23ed30a05c46c439a61f",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "8x12mm Silicone Tubes 2m - RC004.STL",
+      "parent_asset_id": "archive-5af518655cc90b817d2a",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "c20f5265921b0fbb3c0d3051183744d5664100b208e4743bdb2d20f2d7f8afab",
+      "size": 15284,
+      "source_url": "https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d8/d81f1f3da1aea20f2378a5af7b302dc592798ed8d7f080f7481a431348935666.png",
+      "id": "image-display-771ffa4d0deb0b43a10f",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "0d506182a53954335ced5f2037a81f3b18e6b55c50e8a03b07f4331aae86ee09",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Workshop_Modification.catalog.png",
+      "parent_asset_id": "image-4b8e5dc243ea674222a0",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d81f1f3da1aea20f2378a5af7b302dc592798ed8d7f080f7481a431348935666",
+      "size": 140028,
+      "source_url": "https://store.bblcdn.eu/s4/default/335a4b724a9c46c7aadffc37701da0e4/Workshop_Modification.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/71/716ac7dd0381ebdb140787cf30b544f0d8a126ea083dd4310406f7e0e97a9552.png",
+      "id": "image-display-0cbc2a9bd2e3e7a43f18",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "5013d15ad46c609b800ec826bddcf3217d977eb992e92667ce858960f39768a9",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "zh048.catalog.png",
+      "parent_asset_id": "image-72a1b2b4f82e530c72ab",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "716ac7dd0381ebdb140787cf30b544f0d8a126ea083dd4310406f7e0e97a9552",
+      "size": 129753,
+      "source_url": "https://store.bblcdn.eu/s4/default/c35ffbd3920445c78571019918e35870/zh048.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "linked_product_id": "ea028-high-performance-bearings",
+      "name": "608zz P5 Steel Deep Groove Ball Bearings (2PCS) - EA028",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/high-performance-bearings?_pos=1&_sid=6510669d7&_ss=r&variant=42489168232584",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "MR128zz Steel Deep Groove Ball Bearings (6PCS) - EA004",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/micro-steel-deep-groove-ball-bearings?_pos=1&_sid=579c16dd0&_ss=r&variant=42504744960136",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "linked_product_id": "xf001-circular-embedded-electronic-digital-thermometer-hygrometer-1pcs-xf001",
+      "name": "Circular Embedded Electronic Digital Thermometer Hygrometer (1pcs) - XF001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/circular-embedded-electronic-digital-thermometer-hygrometer-1pcs-xf001?_pos=1&_sid=34b930545&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "4",
+      "linked_product_id": "xc002-usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led",
+      "name": "USB-A to 2 Pin 8mm Solderless Quick Connector For White LED (2PCS) - XC002",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/3-pin-10mm-led-strip-connector-cable-with-sm-female-plug-for-rgb-copy?_pos=1&_sid=d35b56c81&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "5",
+      "linked_product_id": "xe002-2-pin-8mm-l-shaped-led-strip-connectors",
+      "name": "2 Pin 8mm L Shape LED Connectors For White LED (10PCS) - XE002",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/2-pin-8mm-l-shaped-led-strip-connectors?_pos=1&_sid=fcc4fd158&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "6",
+      "linked_product_id": "xe002-2-pin-8mm-l-shaped-led-strip-connectors",
+      "name": "D8x2 mm Round Magnet (20PCS) - CA005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/2-pin-8mm-l-shaped-led-strip-connectors?_pos=1&_sid=fcc4fd158&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "7",
+      "linked_product_id": "fc001-pc4-m6-pneumatic-connector-for-ptfe-tube",
+      "name": "PC4-M6 Pneumatic Connector for PTFE Tube (5PCS) - FC001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/pc4-m6-pneumatic-connector-for-ptfe-tube?_pos=1&_sid=99cab2c0a&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "8",
+      "linked_product_id": "rc003-silicone-tube",
+      "name": "8x12mm Transparent Silicone Tube 2m (1PCS) - RC004",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/silicone-tube?_pos=1&_sid=9fe4a95cd&_ss=r&variant=42598786007176",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "9",
+      "linked_product_id": "nc005-adhesive-foam-sponge-strip-roll",
+      "name": "20x0.5mm Adhesive Foam Sponge Strip Roll 5m (1pcs) - NC005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?_pos=1&_sid=b03d1f07b&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "10",
+      "name": "Desiccant for AMS 2/AMS HT（6 pack）- SAA029",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/desiccant-for-ams-2-pro-and-ams-ht?id=54203098825052&skr=yes",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "It's time to give your 3D printing workshop an upgrade with the Workshop Modification Kit! This kit contains medium sized bearings, a thermometer hygrometer, LED solderless quick connector, magnets, pneumatic fittings, desiccant, adhesive foam sponge strip and silicone tube. Whether you need to make your own filament spool winder, drybox, AMS stand, hanging light, tool box or temperature and humidity monitoring kit, this kit will provide you with the parts you need to create the most impressive workshop."
+    },
+    {
+      "kind": "heading",
+      "text": "Applications:"
+    },
+    {
+      "kind": "bullet",
+      "text": "AMS Riser: Use the LED strip to light up the printer. Add drawers and magnets to organise your tools."
+    },
+    {
+      "kind": "bullet",
+      "text": "Filament Spool Winder: Use deep groove ball bearings to keep the filament spool rolling smoothly."
+    },
+    {
+      "kind": "bullet",
+      "text": "Drybox: Pneumatic connectors, adhesive foam sponge strip and desiccant will help you keep your filament dry. Add a circular thermometer hygrometer to monitor the environment."
+    },
+    {
+      "kind": "bullet",
+      "text": "Tool Boxes & Hangers: Magnets can be used to create self-returning tool boxes, magnetic hangers, and use adhesive foam sponge strips to reduce noise and prevent slipping."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h1 class=\"pct_t\">Documentation</h1>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><br/><a href=\"https://store.bblcdn.com/s7/default/3f338b974f2d47828996c91df4b30b29/Workshop_Modification_Kit-B-ZH048_Model.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> 3D Model </a></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<p> </p>\n<h3 class=\"pct_st\" style=\"text-align: left;\">Overview</h3>\n<p></p>\n<p class=\"pct_p\">It's time to give your 3D printing workshop an upgrade with the Workshop Modification Kit! This kit contains medium sized bearings, a thermometer hygrometer, LED solderless quick connector, magnets, pneumatic fittings, desiccant, adhesive foam sponge strip and silicone tube. <br/>Whether you need to make your own filament spool winder, drybox, AMS stand, hanging light, tool box or temperature and humidity monitoring kit, this kit will provide you with the parts you need to create the most impressive workshop.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h3 class=\"pct_st\" style=\"text-align: left;\"></h3>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BjvldvnAaoycINxd2bmcCShOnbh\">\n<p> </p>\n<h3 class=\"ace-line ace-line old-record-id-BwfmdgWaBoENgux5o5mcfW39nhl\"><strong>Applications:</strong></h3>\n<ul>\n<li><strong>AMS Riser: </strong>Use the LED strip to light up the printer. Add drawers and magnets to organise your tools.</li>\n<li><strong>Filament Spool Winder: </strong>Use deep groove ball bearings to keep the filament spool rolling smoothly.</li>\n<li><strong>Drybox:  </strong>Pneumatic connectors, adhesive foam sponge strip and desiccant will help you keep your filament dry. Add a circular thermometer hygrometer to monitor the environment.</li>\n<li><strong>Tool Boxes &amp; Hangers:  </strong>Magnets can be used to create self-returning tool boxes, magnetic hangers, and  use adhesive foam sponge strips to reduce noise and prevent slipping.</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 285px; width: 100%; text-align: center; border-collapse: collapse;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/high-performance-bearings?_pos=1&amp;_sid=6510669d7&amp;_ss=r&amp;variant=42489168232584\" style=\"color: #00ae42;\">608zz P5 Steel Deep Groove Ball Bearings (2PCS) - EA028</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/micro-steel-deep-groove-ball-bearings?_pos=1&amp;_sid=579c16dd0&amp;_ss=r&amp;variant=42504744960136\" style=\"color: #00ae42;\">MR128zz Steel Deep Groove Ball Bearings (6PCS) - EA004</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/circular-embedded-electronic-digital-thermometer-hygrometer-1pcs-xf001?_pos=1&amp;_sid=34b930545&amp;_ss=r\" style=\"color: #00ae42;\">Circular Embedded Electronic Digital Thermometer Hygrometer (1pcs) - XF001</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">4</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/3-pin-10mm-led-strip-connector-cable-with-sm-female-plug-for-rgb-copy?_pos=1&amp;_sid=d35b56c81&amp;_ss=r\" style=\"color: #00ae42;\">USB-A to 2 Pin 8mm Solderless Quick Connector For White LED (2PCS) - XC002</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">5</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/2-pin-8mm-l-shaped-led-strip-connectors?_pos=1&amp;_sid=fcc4fd158&amp;_ss=r\" style=\"color: #00ae42;\">2 Pin 8mm L Shape LED Connectors For White LED (10PCS) - XE002</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">6</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/2-pin-8mm-l-shaped-led-strip-connectors?_pos=1&amp;_sid=fcc4fd158&amp;_ss=r\" style=\"color: #00ae42;\">D8x2 mm Round Magnet (20PCS) - CA005</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">7</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/pc4-m6-pneumatic-connector-for-ptfe-tube?_pos=1&amp;_sid=99cab2c0a&amp;_ss=r\" style=\"color: #00ae42;\">PC4-M6 Pneumatic Connector for PTFE Tube (5PCS) - FC001</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">8</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/silicone-tube?_pos=1&amp;_sid=9fe4a95cd&amp;_ss=r&amp;variant=42598786007176\" style=\"color: #00ae42;\">8x12mm Transparent Silicone Tube 2m (1PCS) - RC004</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">9</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?_pos=1&amp;_sid=b03d1f07b&amp;_ss=r\" style=\"color: #00ae42;\">20x0.5mm Adhesive Foam Sponge Strip Roll 5m (1pcs) - NC005</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">10</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/desiccant-for-ams-2-pro-and-ams-ht?id=54203098825052&amp;skr=yes\" style=\"color: #00ae42;\">Desiccant for AMS 2/AMS HT（6 pack）- SAA029</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+  "description_text": "It's time to give your 3D printing workshop an upgrade with the Workshop Modification Kit! This kit contains medium sized bearings, a thermometer hygrometer, LED solderless quick connector, magnets, pneumatic fittings, desiccant, adhesive foam sponge strip and silicone tube. Whether you need to make your own filament spool winder, drybox, AMS stand, hanging light, tool box or temperature and humidity monitoring kit, this kit will provide you with the parts you need to create the most impressive workshop.\n\nAMS Riser: Use the LED strip to light up the printer. Add drawers and magnets to organise your tools.\n\nFilament Spool Winder: Use deep groove ball bearings to keep the filament spool rolling smoothly.\n\nDrybox: Pneumatic connectors, adhesive foam sponge strip and desiccant will help you keep your filament dry. Add a circular thermometer hygrometer to monitor the environment.\n\nTool Boxes & Hangers: Magnets can be used to create self-returning tool boxes, magnetic hangers, and use adhesive foam sponge strips to reduce noise and prevent slipping.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh048-workshop-modification-kit",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Workshop Modification Kit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "39.87",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/workshop-modification-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "46.06",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/workshop-modification-kit?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "37.69",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/workshop-modification-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "32.01",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/workshop-modification-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "72.3",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/workshop-modification-kit?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "36.38",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/workshop-modification-kit?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "CA005",
+    "EA004",
+    "EA028",
+    "FC001",
+    "MR128",
+    "NC005",
+    "RC004",
+    "SAA029",
+    "XC002",
+    "XE002",
+    "XF001",
+    "ZH048"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "43094599499912",
+    "46817029325040",
+    "53493078622556",
+    "536310216415064066",
+    "536314553081561090",
+    "536315143232548866"
+  ],
+  "source_tables": [
+    {
+      "caption": "Applications:",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/workshop-modification-kit?id=43094599499912"
+      },
+      "rows": [
+        [
+          "1",
+          "608zz P5 Steel Deep Groove Ball Bearings (2PCS) - EA028",
+          "2"
+        ],
+        [
+          "2",
+          "MR128zz Steel Deep Groove Ball Bearings (6PCS) - EA004",
+          "2"
+        ],
+        [
+          "3",
+          "Circular Embedded Electronic Digital Thermometer Hygrometer (1pcs) - XF001",
+          "1"
+        ],
+        [
+          "4",
+          "USB-A to 2 Pin 8mm Solderless Quick Connector For White LED (2PCS) - XC002",
+          "1"
+        ],
+        [
+          "5",
+          "2 Pin 8mm L Shape LED Connectors For White LED (10PCS) - XE002",
+          "1"
+        ],
+        [
+          "6",
+          "D8x2 mm Round Magnet (20PCS) - CA005",
+          "1"
+        ],
+        [
+          "7",
+          "PC4-M6 Pneumatic Connector for PTFE Tube (5PCS) - FC001",
+          "1"
+        ],
+        [
+          "8",
+          "8x12mm Transparent Silicone Tube 2m (1PCS) - RC004",
+          "1"
+        ],
+        [
+          "9",
+          "20x0.5mm Adhesive Foam Sponge Strip Roll 5m (1pcs) - NC005",
+          "1"
+        ],
+        [
+          "10",
+          "Desiccant for AMS 2/AMS HT（6 pack）- SAA029",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/e5786b69bf7846328e5cdafa5291a8a3/Workshop_Modification.png",
+      "part_number": "ZH048",
+      "price": "39.87",
+      "region": "us",
+      "sku": "43094599499912",
+      "title": "Workshop Modification Kit - Workshop Modification Kit-ZH048",
+      "url": "https://us.store.bambulab.com/products/workshop-modification-kit?id=43094599499912",
+      "variant_id": "43094599499912"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/b4d4c738d7814969906f5df04347ccc9/Workshop_Modification.png",
+      "part_number": "ZH048",
+      "price": "46.06",
+      "region": "ca",
+      "sku": "46817029325040",
+      "title": "Workshop Modification Kit - Workshop Modification Kit-ZH048",
+      "url": "https://ca.store.bambulab.com/products/workshop-modification-kit?id=46817029325040",
+      "variant_id": "46817029325040"
+    },
+    {
+      "available": false,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/c05f1d1fee6f4101b7d155f7eb27f01f/Workshop_Modification.png",
+      "part_number": "ZH048",
+      "price": "37.69",
+      "region": "eu",
+      "sku": "53493078622556",
+      "title": "Workshop Modification Kit - Workshop Modification Kit-ZH048",
+      "url": "https://eu.store.bambulab.com/products/workshop-modification-kit?id=53493078622556",
+      "variant_id": "53493078622556"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/335a4b724a9c46c7aadffc37701da0e4/Workshop_Modification.png",
+      "part_number": "ZH048",
+      "price": "32.01",
+      "region": "uk",
+      "sku": "536315143232548866",
+      "title": "Workshop Modification Kit - Workshop Modification Kit - ZH048",
+      "url": "https://uk.store.bambulab.com/products/workshop-modification-kit?id=536315143232548866",
+      "variant_id": "536315143232548866"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/c16e2dd07f9f478c9e0a19979c20f183/Workshop_Modification.png",
+      "part_number": "ZH048",
+      "price": "72.3",
+      "region": "au",
+      "sku": "536314553081561090",
+      "title": "Workshop Modification Kit - Workshop Modification Kit - ZH048",
+      "url": "https://au.store.bambulab.com/products/workshop-modification-kit?id=536314553081561090",
+      "variant_id": "536314553081561090"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/4b3e55b67fe343adad7d45f3e9c2242a/Workshop_Modification.png",
+      "part_number": "ZH048",
+      "price": "36.38",
+      "region": "asia",
+      "sku": "536310216415064066",
+      "title": "Workshop Modification Kit - Workshop Modification Kit - ZH048",
+      "url": "https://asia.store.bambulab.com/products/workshop-modification-kit?id=536310216415064066",
+      "variant_id": "536310216415064066"
+    }
+  ]
+}

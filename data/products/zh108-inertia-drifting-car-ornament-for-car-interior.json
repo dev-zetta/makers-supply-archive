@@ -1,0 +1,357 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "inertia-drifting-car-ornament-for-car-interior",
+      "product_id": "656995402205990912",
+      "region": "us"
+    },
+    {
+      "handle": "inertia-drifting-car-ornament-for-car-interior",
+      "product_id": "656995905037045760",
+      "region": "ca"
+    },
+    {
+      "handle": "inertia-drifting-car-ornament-for-car-interior",
+      "product_id": "656995680940036096",
+      "region": "eu"
+    },
+    {
+      "handle": "inertia-drifting-car-ornament-for-car-interior",
+      "product_id": "656994876708339712",
+      "region": "uk"
+    },
+    {
+      "handle": "inertia-drifting-car-ornament-for-car-interior",
+      "product_id": "656996161425444864",
+      "region": "au"
+    },
+    {
+      "handle": "inertia-drifting-car-ornament-for-car-interior",
+      "product_id": "656994097970405376",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/12/120cb1b1f25b2ba91e129a9ee39cfa47ca1072e58702c214a1d80ec62d80b57c.png",
+      "id": "image-205f6037488840f888c4",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH108.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "120cb1b1f25b2ba91e129a9ee39cfa47ca1072e58702c214a1d80ec62d80b57c",
+      "size": 897984,
+      "source_url": "https://store.bblcdn.eu/s4/default/d7113c0d4c454b46a0632a5ba189a615/B-ZH108.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/88/8828864940af7f480dbd66ee4909099e45539c05522f6513beae1978f08c1f08.png",
+      "id": "image-28349a38836c088371ff",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH108.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8828864940af7f480dbd66ee4909099e45539c05522f6513beae1978f08c1f08",
+      "size": 291631,
+      "source_url": "https://store.bblcdn.eu/s4/default/eaf714303d9942649694aabaa5ac2e99/ZH108.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/70/70a1b17b27096681b4e32daae9d1dc2fc0d558b7013124fce63a53f6c5e2f83f.png",
+      "id": "image-display-3d24274520eb309e8c9e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "120cb1b1f25b2ba91e129a9ee39cfa47ca1072e58702c214a1d80ec62d80b57c",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH108.catalog.png",
+      "parent_asset_id": "image-205f6037488840f888c4",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "70a1b17b27096681b4e32daae9d1dc2fc0d558b7013124fce63a53f6c5e2f83f",
+      "size": 439073,
+      "source_url": "https://store.bblcdn.eu/s4/default/d7113c0d4c454b46a0632a5ba189a615/B-ZH108.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5f/5f4f07520f4577c73a9b363bddb3396f95b709b665f222d77b5e37f149cd355a.png",
+      "id": "image-display-17136ae16fbe23f03678",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "8828864940af7f480dbd66ee4909099e45539c05522f6513beae1978f08c1f08",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH108.catalog.png",
+      "parent_asset_id": "image-28349a38836c088371ff",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5f4f07520f4577c73a9b363bddb3396f95b709b665f222d77b5e37f149cd355a",
+      "size": 71159,
+      "source_url": "https://store.bblcdn.eu/s4/default/eaf714303d9942649694aabaa5ac2e99/ZH108.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x8 BHCS Machine Screw - AA058",
+      "quantity": "20 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "MR63zz Steel Deep Groove Ball Bearings - EA006",
+      "quantity": "6 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "nc001-rectangle-dual-lock-3m-sj3550-reclosable-fastener-mounting-tape",
+      "name": "Rectangle 25.4x100mm 3MSJ3550 - NC001",
+      "quantity": "4 pcs",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Inertia Drifting Car Ornament for Car Interior. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Inertia Drifting Car Ornament for Car Interior on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Inertia Drifting Car Ornament for Car Interior</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Inertia Drifting Car Ornament for Car Interior</strong> on <a href=\"https://makerworld.com/en/models/721904-inertia-drifting-car-ornament-for-car-interior?from=search#profileId-652823\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M3x8 BHCS Machine Screw - AA058</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">20 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">MR63zz Steel Deep Groove Ball Bearings - EA006</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">6 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">Rectangle 25.4x100mm 3MSJ3550 - NC001</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">4 pcs</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Inertia Drifting Car Ornament for Car Interior. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Inertia Drifting Car Ornament for Car Interior on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh108-inertia-drifting-car-ornament-for-car-interior",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Inertia Drifting Car Ornament for Car Interior",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.63",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.84",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.34",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.14",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.88",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA058",
+    "B-ZH108",
+    "EA006",
+    "NC001",
+    "ZH108"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Inertia Drifting Car Ornament For Car Interior",
+      "url": "https://makerworld.com/en/models/721904-inertia-drifting-car-ornament-for-car-interior?from=search#profileId-652823"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "656994098016542722",
+    "656994876741894146",
+    "656995402243739650",
+    "656995680952619010",
+    "656995905078988802",
+    "656996161438027778"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656995402243739650"
+      },
+      "rows": [
+        [
+          "M3x8 BHCS Machine Screw - AA058",
+          "20 pcs"
+        ],
+        [
+          "MR63zz Steel Deep Groove Ball Bearings - EA006",
+          "6 pcs"
+        ],
+        [
+          "Rectangle 25.4x100mm 3MSJ3550 - NC001",
+          "4 pcs"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/150e5a486ed549168db95fa7f2416da2/B-ZH108.png",
+      "part_number": "ZH108",
+      "price": "7.63",
+      "region": "us",
+      "sku": "656995402243739650",
+      "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
+      "url": "https://us.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656995402243739650",
+      "variant_id": "656995402243739650"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/5d1143606dcd4e9c80a28399d252c44d/B-ZH108.png",
+      "part_number": "ZH108",
+      "price": "8.84",
+      "region": "ca",
+      "sku": "656995905078988802",
+      "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
+      "url": "https://ca.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656995905078988802",
+      "variant_id": "656995905078988802"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/85c9c4fb1922474b85577378998870b1/B-ZH108.png",
+      "part_number": "ZH108",
+      "price": "7.34",
+      "region": "eu",
+      "sku": "656995680952619010",
+      "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
+      "url": "https://eu.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656995680952619010",
+      "variant_id": "656995680952619010"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/d7113c0d4c454b46a0632a5ba189a615/B-ZH108.png",
+      "part_number": "ZH108",
+      "price": "6.14",
+      "region": "uk",
+      "sku": "656994876741894146",
+      "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
+      "url": "https://uk.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656994876741894146",
+      "variant_id": "656994876741894146"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/fbfddcc894264810acbe33243b766b1b/B-ZH108.png",
+      "part_number": "ZH108",
+      "price": "13.88",
+      "region": "au",
+      "sku": "656996161438027778",
+      "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
+      "url": "https://au.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656996161438027778",
+      "variant_id": "656996161438027778"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/b09cfcab3b7144739090ab89329f6f32/B-ZH108.png",
+      "part_number": "ZH108",
+      "price": "6.99",
+      "region": "asia",
+      "sku": "656994098016542722",
+      "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
+      "url": "https://asia.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656994098016542722",
+      "variant_id": "656994098016542722"
+    }
+  ]
+}

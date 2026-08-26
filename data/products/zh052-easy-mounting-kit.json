@@ -1,0 +1,444 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "easy-mounting-kit",
+      "product_id": "8421554192520",
+      "region": "us"
+    },
+    {
+      "handle": "easy-mounting-kit",
+      "product_id": "9110899949808",
+      "region": "ca"
+    },
+    {
+      "handle": "easy-mounting-kit",
+      "product_id": "14777696747868",
+      "region": "eu"
+    },
+    {
+      "handle": "easy-mounting-kit",
+      "product_id": "536327548637294592",
+      "region": "uk"
+    },
+    {
+      "handle": "easy-mounting-kit",
+      "product_id": "536325792999022592",
+      "region": "au"
+    },
+    {
+      "handle": "easy-mounting-kit",
+      "product_id": "536325050664751104",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/9f/9fce2309cf13af2b44241499ef5902cd37a3c8e9033253d902bce206a8457e23.png",
+      "id": "image-535e5308f88d1d7aada7",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH052.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9fce2309cf13af2b44241499ef5902cd37a3c8e9033253d902bce206a8457e23",
+      "size": 718017,
+      "source_url": "https://store.bblcdn.eu/s4/default/5f74e0b6995f45ca8af70c73e6c9c3bb/ZH052.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ad/ad2db909012421cc5d480f6adfde467a74baea9af9f258449a0fcccb259f2d73.zip",
+      "id": "archive-1e2a36c33fba263f18af",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Easy_Mounting_Kit_-B-ZH052_Model.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "ad2db909012421cc5d480f6adfde467a74baea9af9f258449a0fcccb259f2d73",
+      "size": 251850,
+      "source_url": "https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip"
+    },
+    {
+      "archive_member_path": "PVC Suction Cap with Mushroom Head/25mm Suction Cap with Mushroom Head  - HA008.STEP",
+      "blob_path": "data/blobs/sha256/61/616888540eff8b2235355f271996e30755a52e9c066e0893fd41ed37c6926b88.step",
+      "id": "model-fdf7d8195597e0c211e0",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "25mm Suction Cap with Mushroom Head  - HA008.STEP",
+      "parent_asset_id": "archive-1e2a36c33fba263f18af",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "616888540eff8b2235355f271996e30755a52e9c066e0893fd41ed37c6926b88",
+      "size": 52197,
+      "source_url": "https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip"
+    },
+    {
+      "archive_member_path": "PVC Suction Cap with Mushroom Head/25mm Suction Cap with Mushroom Head  - HA008.STL",
+      "blob_path": "data/blobs/sha256/86/86392d66043ced821d98832da27a4b21f03fde8cc77ac717e1c73abbbb132857.stl",
+      "id": "model-924910112ed4f0dcc7a7",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "25mm Suction Cap with Mushroom Head  - HA008.STL",
+      "parent_asset_id": "archive-1e2a36c33fba263f18af",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "86392d66043ced821d98832da27a4b21f03fde8cc77ac717e1c73abbbb132857",
+      "size": 322384,
+      "source_url": "https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip"
+    },
+    {
+      "archive_member_path": "PVC Suction Pad with Flat Head/40mm Suction Caps with Flat Hea - HA005.STEP",
+      "blob_path": "data/blobs/sha256/47/470719e345aed37862d243b62ceef652629ff8bfd90e0dbdf041860889df14a3.step",
+      "id": "model-c826b9138729954e4cf1",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "40mm Suction Caps with Flat Hea - HA005.STEP",
+      "parent_asset_id": "archive-1e2a36c33fba263f18af",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "470719e345aed37862d243b62ceef652629ff8bfd90e0dbdf041860889df14a3",
+      "size": 79455,
+      "source_url": "https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip"
+    },
+    {
+      "archive_member_path": "PVC Suction Pad with Flat Head/40mm Suction Caps with Flat Hea - HA005.STL",
+      "blob_path": "data/blobs/sha256/22/223b56e49a7b2783b87c5138142a1d19afde563c5535b630f2059ba93bda0385.stl",
+      "id": "model-27e4d4522f866cba4c07",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "40mm Suction Caps with Flat Hea - HA005.STL",
+      "parent_asset_id": "archive-1e2a36c33fba263f18af",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "223b56e49a7b2783b87c5138142a1d19afde563c5535b630f2059ba93bda0385",
+      "size": 445184,
+      "source_url": "https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/05/0540880b3eb791b42f667ff88e9fcbfe800e3e310883ee897a7d1b38fd3af9c4.png",
+      "id": "image-display-fb43f99b32686ee965fc",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9fce2309cf13af2b44241499ef5902cd37a3c8e9033253d902bce206a8457e23",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH052.catalog.png",
+      "parent_asset_id": "image-535e5308f88d1d7aada7",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0540880b3eb791b42f667ff88e9fcbfe800e3e310883ee897a7d1b38fd3af9c4",
+      "size": 169304,
+      "source_url": "https://store.bblcdn.eu/s4/default/5f74e0b6995f45ca8af70c73e6c9c3bb/ZH052.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "linked_product_id": "ha007-suction-caps-with-mushroom-head",
+      "name": "25mm PVC Suction Caps with Mushroom Head - HA008",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/suction-caps-with-mushroom-head?_pos=1&_sid=027b66c0a&_ss=r&variant=42612739244168",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "linked_product_id": "ha001-pvc-suction-caps-with-flat-head",
+      "name": "40mm PVC Suction Caps with Flat Head -  HA005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/pvc-suction-caps-with-flat-head?_pos=1&_sid=5b8b85dc6&_ss=r&variant=42613086519432",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "linked_product_id": "nb001-square-double-sided-foam-tape",
+      "name": "20x20mm Rectangular Double Sided Foam Tape -NB001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/square-double-sided-foam-tape?_pos=1&_sid=ab89613fb&_ss=r&variant=42598782959752",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "4",
+      "linked_product_id": "nb005-round-double-sided-foam-tape",
+      "name": "30mm Round Double Sided Foam Tape -  NB006",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/round-double-sided-foam-tape?_pos=1&_sid=2dbee015a&_ss=r&variant=42598784696456",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "5",
+      "linked_product_id": "nc001-rectangle-dual-lock-3m-sj3550-reclosable-fastener-mounting-tape",
+      "name": "25.4x100mm Rectangle Dual Lock 3M SJ3550 Reclosable Fastener Mounting Tape - NC001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/rectangle-dual-lock-3m-sj3550-reclosable-fastener-mounting-tape?_pos=1&_sid=f6eea0a7d&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "6",
+      "linked_product_id": "nc002-round-dual-lock-3m-sj3550-reclosable-fastener-mounting-tape",
+      "name": "40mm Round Dual Lock 3M SJ3550 Reclosable Fastener Mounting Tape -  NC004",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/round-dual-lock-3m-sj3550-reclosable-fastener-mounting-tape?_pos=1&_sid=b9175d466&_ss=r&variant=42609493901448",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Easy Mounting Kit is a versatile mounting solution designed to effortlessly attach your creative projects to various smooth surfaces. The kit includes high-quality suction caps, double-sided tape, and reclosable fastener mounting tape, allowing you to secure models to refrigerators, tiles, cabinets, or other slick surfaces at any time. When used in combination with 3D-printed models, these components make mounting decorative or functional items more convenient and flexible. Whether you need a stable and strong hold or a way to easily move and reposition your creations, the Easy Mounting Kit has you covered."
+    },
+    {
+      "kind": "heading",
+      "text": "Applications:"
+    },
+    {
+      "kind": "bullet",
+      "text": "Effortless Model Mounting: Securely attach models to smooth surfaces such as glass, tiles, or cabinets with suction caps, making it easy to move and reposition your projects as needed for different settings."
+    },
+    {
+      "kind": "bullet",
+      "text": "Flexible Display and Adjustment: Reclosable Fastener Mounting Tape offers a convenient, removable solution, allowing you to change and adjust the placement of decorations effortlessly for dynamic and versatile displays."
+    },
+    {
+      "kind": "bullet",
+      "text": "Reliable and Strong Installation: Double-Sided Foam Tape provides a firm hold, is residue-free upon removal, and is waterproof, delivering lasting support for your models."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h1 class=\"pct_t\">Documentation</h1>\n<h2 class=\"pct_st\"><br/></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" data-mce-style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><br/><a data-mce-href=\"https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip\" data-mce-style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" href=\"https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> 3D Model </a></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<p> </p>\n<h3 class=\"pct_st\" data-mce-style=\"text-align: left;\" style=\"text-align: left;\">Overview</h3>\n<p><br/></p>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BjvldvnAaoycINxd2bmcCShOnbh\">\n<div class=\"ace-line ace-line old-record-id-AJG2dksdho04tWx9yaycab9anG6\">The Easy Mounting Kit is a versatile mounting solution designed to effortlessly attach your creative projects to various smooth surfaces. The kit includes high-quality suction caps, double-sided tape, and reclosable fastener mounting tape, allowing you to secure models to refrigerators, tiles, cabinets, or other slick surfaces at any time. When used in combination with 3D-printed models, these components make mounting decorative or functional items more convenient and flexible. Whether you need a stable and strong hold or a way to easily move and reposition your creations, the Easy Mounting Kit has you covered.</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BjvldvnAaoycINxd2bmcCShOnbh\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BjvldvnAaoycINxd2bmcCShOnbh\"><br/></div>\n<p> </p>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BjvldvnAaoycINxd2bmcCShOnbh\">\n<h3 class=\"ace-line ace-line old-record-id-EYBXd66gzo1SddxfZG1cqRB6nnc\"><strong>Applications:</strong></h3>\n</div>\n<ul>\n<li>\n<strong>Effortless Model Mounting:</strong> Securely attach models to smooth surfaces such as glass, tiles, or cabinets with suction caps, making it easy to move and reposition your projects as needed for different settings.</li>\n<li>\n<strong>Flexible Display and Adjustment:</strong> Reclosable Fastener Mounting Tape offers a convenient, removable solution, allowing you to change and adjust the placement of decorations effortlessly for dynamic and versatile displays.</li>\n<li>\n<strong>Reliable and Strong Installation:</strong> Double-Sided Foam Tape provides a firm hold, is residue-free upon removal, and is waterproof, delivering lasting support for your models.<br/>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" data-mce-style=\"height: 285px; width: 100%; text-align: center; border-collapse: collapse;\" style=\"height: 285px; width: 100%; text-align: center; border-collapse: collapse;\">\n<!-- 表头 -->\n<thead class=\"pct_th\">\n<tr data-mce-style=\"background-color: #333333; color: white;\" style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #333333; padding: 10px;width: 20%;\" style=\"border: 1px solid #333333; padding: 10px;width: 20%;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #333333; padding: 10px;\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #333333; padding: 10px;width: 20%;\" style=\"border: 1px solid #333333; padding: 10px;width: 20%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/suction-caps-with-mushroom-head?_pos=1&amp;_sid=027b66c0a&amp;_ss=r&amp;variant=42612739244168\" style=\"color: rgb(0, 174, 66);\">25mm PVC Suction Caps with Mushroom Head - HA008</a></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/pvc-suction-caps-with-flat-head?_pos=1&amp;_sid=5b8b85dc6&amp;_ss=r&amp;variant=42613086519432\" style=\"color: rgb(0, 174, 66);\">40mm PVC Suction Caps with Flat Head -  HA005</a></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">3</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/square-double-sided-foam-tape?_pos=1&amp;_sid=ab89613fb&amp;_ss=r&amp;variant=42598782959752\" style=\"color: rgb(0, 174, 66);\">20x20mm Rectangular Double Sided Foam Tape -NB001</a></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">4</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/round-double-sided-foam-tape?_pos=1&amp;_sid=2dbee015a&amp;_ss=r&amp;variant=42598784696456\" style=\"color: rgb(0, 174, 66);\">30mm Round Double Sided Foam Tape -  NB006</a></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">5</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/rectangle-dual-lock-3m-sj3550-reclosable-fastener-mounting-tape?_pos=1&amp;_sid=f6eea0a7d&amp;_ss=r\" style=\"color: rgb(0, 174, 66);\">25.4x100mm Rectangle Dual Lock 3M SJ3550 Reclosable Fastener Mounting Tape - NC001</a></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">6</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/round-dual-lock-3m-sj3550-reclosable-fastener-mounting-tape?_pos=1&amp;_sid=b9175d466&amp;_ss=r&amp;variant=42609493901448\" style=\"color: rgb(0, 174, 66);\">40mm Round Dual Lock 3M SJ3550 Reclosable Fastener Mounting Tape -  NC004</a></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"border: 1px solid #cccccc; padding: 10px;\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+  "description_text": "The Easy Mounting Kit is a versatile mounting solution designed to effortlessly attach your creative projects to various smooth surfaces. The kit includes high-quality suction caps, double-sided tape, and reclosable fastener mounting tape, allowing you to secure models to refrigerators, tiles, cabinets, or other slick surfaces at any time. When used in combination with 3D-printed models, these components make mounting decorative or functional items more convenient and flexible. Whether you need a stable and strong hold or a way to easily move and reposition your creations, the Easy Mounting Kit has you covered.\n\nEffortless Model Mounting: Securely attach models to smooth surfaces such as glass, tiles, or cabinets with suction caps, making it easy to move and reposition your projects as needed for different settings.\n\nFlexible Display and Adjustment: Reclosable Fastener Mounting Tape offers a convenient, removable solution, allowing you to change and adjust the placement of decorations effortlessly for dynamic and versatile displays.\n\nReliable and Strong Installation: Double-Sided Foam Tape provides a firm hold, is residue-free upon removal, and is waterproof, delivering lasting support for your models.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh052-easy-mounting-kit",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Easy Mounting Kit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "16.98",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "19.55",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "16",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.58",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "30.69",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.44",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "HA005",
+    "HA008",
+    "NB001",
+    "NB006",
+    "NC001",
+    "NC004",
+    "ZH052"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "43094725886088",
+    "46817009762544",
+    "53492975305052",
+    "536325050677334018",
+    "536325793011605506",
+    "536327548649877506"
+  ],
+  "source_tables": [
+    {
+      "caption": "Applications:",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/easy-mounting-kit?id=43094725886088"
+      },
+      "rows": [
+        [
+          "1",
+          "25mm PVC Suction Caps with Mushroom Head - HA008",
+          "1"
+        ],
+        [
+          "2",
+          "40mm PVC Suction Caps with Flat Head -  HA005",
+          "1"
+        ],
+        [
+          "3",
+          "20x20mm Rectangular Double Sided Foam Tape -NB001",
+          "1"
+        ],
+        [
+          "4",
+          "30mm Round Double Sided Foam Tape -  NB006",
+          "1"
+        ],
+        [
+          "5",
+          "25.4x100mm Rectangle Dual Lock 3M SJ3550 Reclosable Fastener Mounting Tape - NC001",
+          "1"
+        ],
+        [
+          "6",
+          "40mm Round Dual Lock 3M SJ3550 Reclosable Fastener Mounting Tape -  NC004",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/2f978c0d4c424a16bd5140ef36d7740a/ZH052.png",
+      "part_number": "ZH052",
+      "price": "16.98",
+      "region": "us",
+      "sku": "43094725886088",
+      "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
+      "url": "https://us.store.bambulab.com/products/easy-mounting-kit?id=43094725886088",
+      "variant_id": "43094725886088"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/9332dfeb43204cbfbf2e5a26447da792/ZH052.png",
+      "part_number": "ZH052",
+      "price": "19.55",
+      "region": "ca",
+      "sku": "46817009762544",
+      "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
+      "url": "https://ca.store.bambulab.com/products/easy-mounting-kit?id=46817009762544",
+      "variant_id": "46817009762544"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/44bc37b5aee4455ebc0f5c0a412492d4/3597462d3ae29307c35c3ffb2483efce_b051da03-baad-453e-8a7d-1a42a9db4cdd.png",
+      "part_number": "ZH052",
+      "price": "16",
+      "region": "eu",
+      "sku": "53492975305052",
+      "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
+      "url": "https://eu.store.bambulab.com/products/easy-mounting-kit?id=53492975305052",
+      "variant_id": "53492975305052"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/5f74e0b6995f45ca8af70c73e6c9c3bb/ZH052.png",
+      "part_number": "ZH052",
+      "price": "13.58",
+      "region": "uk",
+      "sku": "536327548649877506",
+      "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
+      "url": "https://uk.store.bambulab.com/products/easy-mounting-kit?id=536327548649877506",
+      "variant_id": "536327548649877506"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/719c37d54c4b4ee0891db9cd43887b20/ZH052.png",
+      "part_number": "ZH052",
+      "price": "30.69",
+      "region": "au",
+      "sku": "536325793011605506",
+      "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
+      "url": "https://au.store.bambulab.com/products/easy-mounting-kit?id=536325793011605506",
+      "variant_id": "536325793011605506"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/d7744b7c1ce94a709e2227884cbf1dcb/ZH052.png",
+      "part_number": "ZH052",
+      "price": "15.44",
+      "region": "asia",
+      "sku": "536325050677334018",
+      "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
+      "url": "https://store.bambulab.com/products/easy-mounting-kit?id=536325050677334018",
+      "variant_id": "536325050677334018"
+    }
+  ]
+}

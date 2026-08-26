@@ -1,0 +1,361 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "mini-screwdriver-toolkit",
+      "product_id": "657492261641293824",
+      "region": "us"
+    },
+    {
+      "handle": "mini-screwdriver-toolkit",
+      "product_id": "657491971336654848",
+      "region": "ca"
+    },
+    {
+      "handle": "mini-screwdriver-toolkit",
+      "product_id": "657492605025153024",
+      "region": "eu"
+    },
+    {
+      "handle": "mini-screwdriver-toolkit",
+      "product_id": "657492113020047360",
+      "region": "uk"
+    },
+    {
+      "handle": "mini-screwdriver-toolkit",
+      "product_id": "657491820317065216",
+      "region": "au"
+    },
+    {
+      "handle": "mini-screwdriver-toolkit",
+      "product_id": "657452237573976064",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/24/24c3a12bb170942a6cc69e8fd554cdc52ca8f9cb002603d42d85e7319a7277b6.png",
+      "id": "image-b09f8969d6645c05df03",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "tool2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "24c3a12bb170942a6cc69e8fd554cdc52ca8f9cb002603d42d85e7319a7277b6",
+      "size": 75878,
+      "source_url": "https://store.bblcdn.eu/s4/default/d0eeea84ab31418f91f8f5d26ba139c5/tool2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e0/e0583f980915504b8dcb85543e7edcca3740f82f33953e3acc586ecdb8dfb7ac.png",
+      "id": "image-1136250932a0e16732f7",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "tool.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e0583f980915504b8dcb85543e7edcca3740f82f33953e3acc586ecdb8dfb7ac",
+      "size": 74946,
+      "source_url": "https://store.bblcdn.eu/s4/default/feeade74236849c18749ffcfc767abaa/tool.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/53/53e611eb0ae68de7b46d155d1cec741ce7325c540e77138672d25937379089e5.png",
+      "id": "image-display-6f1dfe8cbcb7d26b02b0",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "24c3a12bb170942a6cc69e8fd554cdc52ca8f9cb002603d42d85e7319a7277b6",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "tool2.catalog.png",
+      "parent_asset_id": "image-b09f8969d6645c05df03",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "53e611eb0ae68de7b46d155d1cec741ce7325c540e77138672d25937379089e5",
+      "size": 61810,
+      "source_url": "https://store.bblcdn.eu/s4/default/d0eeea84ab31418f91f8f5d26ba139c5/tool2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ce/cef3f0e96e4c60fd9aefd07a1c83253924a914daabb2ac737417a448cd3e67a3.png",
+      "id": "image-display-568b796e68bbeeffd599",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "e0583f980915504b8dcb85543e7edcca3740f82f33953e3acc586ecdb8dfb7ac",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "tool.catalog.png",
+      "parent_asset_id": "image-1136250932a0e16732f7",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "cef3f0e96e4c60fd9aefd07a1c83253924a914daabb2ac737417a448cd3e67a3",
+      "size": 60879,
+      "source_url": "https://store.bblcdn.eu/s4/default/feeade74236849c18749ffcfc767abaa/tool.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "name": "H1.5 Hexagonal Screwdriver",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "name": "PH0 Phillips Screwdriver",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Fasteners"
+  ],
+  "category_assignments": [
+    {
+      "id": "fasteners",
+      "label": "Fasteners",
+      "path": [
+        "Hardware",
+        "Fasteners"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[1]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Essential Tool Kit for Your CyberBrick. Designed specifically for assembling and maintaining your CyberBrick Hardware Kit, this screwdriver set gives you the right tools to build and modify your projects with ease."
+    },
+    {
+      "kind": "heading",
+      "text": "Prooduct Features"
+    },
+    {
+      "kind": "bullet",
+      "text": "Purpose-Built for CyberBrick: Contains the two essential screwdrivers required to assemble and work on your CyberBrick creations, especially the servos and other core components."
+    },
+    {
+      "kind": "bullet",
+      "text": "PH0 Cross Head Screwdriver: Perfectly sized for the screws found in servos and small electronic modules. Achieve a secure fit without stripping the screw heads."
+    },
+    {
+      "kind": "bullet",
+      "text": "H1.5 Hex Key Screwdriver: The ideal tool for driving the common hex screws used throughout the CyberBrick structural framework. Ensures a tight and professional build."
+    },
+    {
+      "kind": "bullet",
+      "text": "Compact and Portable: The compact size makes it easy to store or carry anywhere—your perfect workshop-on-the-go."
+    },
+    {
+      "kind": "heading",
+      "text": "Important Notices"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product."
+    },
+    {
+      "kind": "bullet",
+      "text": "This screwdriver set is exclusively designed for screws with ​​H1.5 and PH0 drive types​​. Using a screwdriver that does not match the screw’s drive is a primary cause of screw head damage."
+    },
+    {
+      "kind": "bullet",
+      "text": "Screwdrivers should be kept out of reach of children, and ensure individuals under 16 use them with adult supervision."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Overview</h3>\n<p></p>\n<p>The Essential Tool Kit for Your CyberBrick. Designed specifically for assembling and maintaining your CyberBrick Hardware Kit, this screwdriver set gives you the right tools to build and modify your projects with ease.</p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Prooduct Features</h2>\n<h2 class=\"pct_st\"></h2>\n<ul>\n<li>\n<p>Purpose-Built for CyberBrick: Contains the two essential screwdrivers required to assemble and work on your CyberBrick creations, especially the servos and other core components.</p>\n</li>\n<li>\n<p>PH0 Cross Head Screwdriver: Perfectly sized for the screws found in servos and small electronic modules. Achieve a secure fit without stripping the screw heads.</p>\n</li>\n<li>\n<p>H1.5 Hex Key Screwdriver: The ideal tool for driving the common hex screws used throughout the CyberBrick structural framework. Ensures a tight and professional build.</p>\n</li>\n<li>\n<p>Compact and Portable: The compact size makes it easy to store or carry anywhere—your perfect workshop-on-the-go.</p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"></div>\n<!--In The Box-->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; text-align: center;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">H1.5 Hexagonal Screwdriver</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">PH0 Phillips Screwdriver</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">Important Notices</h2>\n<p style=\"text-align: left; padding-left: 24px;\"><strong><span style=\"font-size: 16px;\">To ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product.</span></strong></p>\n<p></p>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">This screwdriver set is exclusively designed for screws with ​​H1.5 and PH0 drive types​​. Using a screwdriver that does not match the screw’s drive is a primary cause of screw head damage.</li>\n<li style=\"text-align: left; font-size: 16px;\">Screwdrivers should be kept out of reach of children, and ensure individuals under 16 use them with adult supervision.</li>\n</ul>\n</div>\n</div>\n</div>",
+  "description_text": "The Essential Tool Kit for Your CyberBrick. Designed specifically for assembling and maintaining your CyberBrick Hardware Kit, this screwdriver set gives you the right tools to build and modify your projects with ease.\n\nPurpose-Built for CyberBrick: Contains the two essential screwdrivers required to assemble and work on your CyberBrick creations, especially the servos and other core components.\n\nPH0 Cross Head Screwdriver: Perfectly sized for the screws found in servos and small electronic modules. Achieve a secure fit without stripping the screw heads.\n\nH1.5 Hex Key Screwdriver: The ideal tool for driving the common hex screws used throughout the CyberBrick structural framework. Ensures a tight and professional build.\n\nCompact and Portable: The compact size makes it easy to store or carry anywhere—your perfect workshop-on-the-go.\n\nTo ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product.\n\nThis screwdriver set is exclusively designed for screws with ​​H1.5 and PH0 drive types​​. Using a screwdriver that does not match the screw’s drive is a primary cause of screw head damage.\n\nScrewdrivers should be kept out of reach of children, and ensure individuals under 16 use them with adult supervision.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "mini-screwdriver-toolkit",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Mini Screwdriver Toolkit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
+    }
+  ],
+  "part_numbers": [],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "657453719577526275",
+    "657491820359008258",
+    "657491971382792194",
+    "657492113116516353",
+    "657492261687431170",
+    "657492605041930242"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/mini-screwdriver-toolkit?id=657492261687431170"
+      },
+      "rows": [
+        [
+          "1",
+          "H1.5 Hexagonal Screwdriver",
+          "1"
+        ],
+        [
+          "2",
+          "PH0 Phillips Screwdriver",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/97b388a5a3a84dceb5c0cdb1e717ca2e/tool2.png",
+      "price": "2",
+      "region": "us",
+      "sku": "657492261687431170",
+      "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
+      "url": "https://us.store.bambulab.com/products/mini-screwdriver-toolkit?id=657492261687431170",
+      "variant_id": "657492261687431170"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/6005b714379c4df3be0d50951a261d35/tool2.png",
+      "price": "3",
+      "region": "ca",
+      "sku": "657491971382792194",
+      "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
+      "url": "https://ca.store.bambulab.com/products/mini-screwdriver-toolkit?id=657491971382792194",
+      "variant_id": "657491971382792194"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/e9ba92948c744ab2afbc5a039b028ec7/tool2.png",
+      "price": "2",
+      "region": "eu",
+      "sku": "657492605041930242",
+      "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
+      "url": "https://eu.store.bambulab.com/products/mini-screwdriver-toolkit?id=657492605041930242",
+      "variant_id": "657492605041930242"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/d0eeea84ab31418f91f8f5d26ba139c5/tool2.png",
+      "price": "2",
+      "region": "uk",
+      "sku": "657492113116516353",
+      "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
+      "url": "https://uk.store.bambulab.com/products/mini-screwdriver-toolkit?id=657492113116516353",
+      "variant_id": "657492113116516353"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/0aa082bd565a4c3dba556239259ccdbe/tool.png",
+      "price": "3",
+      "region": "au",
+      "sku": "657491820359008258",
+      "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
+      "url": "https://au.store.bambulab.com/products/mini-screwdriver-toolkit?id=657491820359008258",
+      "variant_id": "657491820359008258"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/3c8f5180dd7745449305765647d4cebb/tool2.png",
+      "price": "2",
+      "region": "asia",
+      "sku": "657453719577526275",
+      "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
+      "url": "https://asia.store.bambulab.com/products/mini-screwdriver-toolkit?id=657453719577526275",
+      "variant_id": "657453719577526275"
+    }
+  ]
+}

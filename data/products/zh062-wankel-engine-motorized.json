@@ -1,0 +1,357 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "wankel-engine-motorized",
+      "product_id": "569412572390211584",
+      "region": "us"
+    },
+    {
+      "handle": "wankel-engine-motorized",
+      "product_id": "569415871231725568",
+      "region": "ca"
+    },
+    {
+      "handle": "wankel-engine-motorized",
+      "product_id": "14901420818780",
+      "region": "eu"
+    },
+    {
+      "handle": "wankel-engine-motorized",
+      "product_id": "569415173774090240",
+      "region": "uk"
+    },
+    {
+      "handle": "wankel-engine-motorized",
+      "product_id": "569414992322048000",
+      "region": "au"
+    },
+    {
+      "handle": "wankel-engine-motorized",
+      "product_id": "569414263466954752",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/08/08b15e8fb3c4d20ce5aec699ca1de63b8daaca9ce4d1b00fde47d31f2aa80b65.png",
+      "id": "image-feb6e58f9fb2f51f1bd6",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH062.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "08b15e8fb3c4d20ce5aec699ca1de63b8daaca9ce4d1b00fde47d31f2aa80b65",
+      "size": 2157642,
+      "source_url": "https://store.bblcdn.eu/s4/default/0e5539c4bbb94b8b8e208bc3c4b0f417/B-ZH062.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9e/9e2bdfb64d40e7e53f099304ac3c74254658e56d04ada76ad5c707f88fade758.png",
+      "id": "image-945b23c7f8a0a9b70fa3",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH062-l.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9e2bdfb64d40e7e53f099304ac3c74254658e56d04ada76ad5c707f88fade758",
+      "size": 89728,
+      "source_url": "https://store.bblcdn.eu/s4/default/0a6daaa35d414a7da6d626aa637a7e91/B-ZH062-l.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/6b/6b3823ea0511b2112faff05311f44dfd404feb0ae06262ec6da368ff6eafd515.png",
+      "id": "image-display-f79a8ef37a574062e36f",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "08b15e8fb3c4d20ce5aec699ca1de63b8daaca9ce4d1b00fde47d31f2aa80b65",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH062.catalog.png",
+      "parent_asset_id": "image-feb6e58f9fb2f51f1bd6",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6b3823ea0511b2112faff05311f44dfd404feb0ae06262ec6da368ff6eafd515",
+      "size": 651769,
+      "source_url": "https://store.bblcdn.eu/s4/default/0e5539c4bbb94b8b8e208bc3c4b0f417/B-ZH062.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/24/2472e338272e6200953ae0a4a176988bdf2ef8b22c1f6612ffbe2c06fc078b54.png",
+      "id": "image-display-1192b86e29c5bcb2fc08",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "9e2bdfb64d40e7e53f099304ac3c74254658e56d04ada76ad5c707f88fade758",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH062-l.catalog.png",
+      "parent_asset_id": "image-945b23c7f8a0a9b70fa3",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2472e338272e6200953ae0a4a176988bdf2ef8b22c1f6612ffbe2c06fc078b54",
+      "size": 75535,
+      "source_url": "https://store.bblcdn.eu/s4/default/0a6daaa35d414a7da6d626aa637a7e91/B-ZH062-l.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa158-m3-socket-head-cap-machine-screws-shcs-1",
+      "name": "M3x10 SHCS Machine Screw (20PCS) - AA159",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa009-m2-flat-head-cap-machine-screws-fhcs",
+      "name": "M2x6 FHCS Machine Screw (20PCS) - AA009",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "la001-tt-motor-dc5v-59rpm-ccw-single-axis",
+      "name": "TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Wankel engine - motorized. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Wankel engine - motorized on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Wankel engine - motorized.</strong> To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\"></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">To download the model files please visit the <strong>Wankel engine - motorized </strong>on <a href=\"https://makerworld.com/en/models/701074#profileId-630533\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\" style=\"text-align: left;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/400dad91c19a484bbc93967f321256bd/220_models.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" style=\"width: 100%;\" width=\"300\"></video></h3>\n<p> </p>\n<h3 class=\"pct_st\">In the Box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"height: 95px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>M3x10 SHCS Machine Screw (20PCS) - AA159</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>M2x6 FHCS Machine Screw (20PCS) - AA009</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- 第五条 --></div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Wankel engine - motorized. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Wankel engine - motorized on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh062-wankel-engine-motorized",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Wankel engine - motorized",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.65",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.8",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.2",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.11",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.81",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.95",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA009",
+    "AA159",
+    "B-ZH062",
+    "LA001",
+    "ZH062"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Wankel engine - motorized",
+      "url": "https://makerworld.com/en/models/701074#profileId-630533"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "54038849225052",
+    "569412572398600194",
+    "569414263479537666",
+    "569414992334630914",
+    "569415173786673154",
+    "569415871248502786"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/wankel-engine-motorized?id=569412572398600194"
+      },
+      "rows": [
+        [
+          "M3x10 SHCS Machine Screw (20PCS) - AA159",
+          "1"
+        ],
+        [
+          "M2x6 FHCS Machine Screw (20PCS) - AA009",
+          "1"
+        ],
+        [
+          "TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/133c9156097d446aa85313b093a871c7/B-ZH062.png",
+      "part_number": "ZH062",
+      "price": "7.65",
+      "region": "us",
+      "sku": "569412572398600194",
+      "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
+      "url": "https://us.store.bambulab.com/products/wankel-engine-motorized?id=569412572398600194",
+      "variant_id": "569412572398600194"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/eceb56b4e8c24430bb066c41c73d491a/B-ZH062.png",
+      "part_number": "ZH062",
+      "price": "8.8",
+      "region": "ca",
+      "sku": "569415871248502786",
+      "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
+      "url": "https://ca.store.bambulab.com/products/wankel-engine-motorized?id=569415871248502786",
+      "variant_id": "569415871248502786"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/51213620b35c4683ba7814e2fb91996f/B-ZH062.png",
+      "part_number": "ZH062",
+      "price": "7.2",
+      "region": "eu",
+      "sku": "54038849225052",
+      "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
+      "url": "https://eu.store.bambulab.com/products/wankel-engine-motorized?id=54038849225052",
+      "variant_id": "54038849225052"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/0e5539c4bbb94b8b8e208bc3c4b0f417/B-ZH062.png",
+      "part_number": "ZH062",
+      "price": "6.11",
+      "region": "uk",
+      "sku": "569415173786673154",
+      "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
+      "url": "https://uk.store.bambulab.com/products/wankel-engine-motorized?id=569415173786673154",
+      "variant_id": "569415173786673154"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/0ac0cc79dfb5488aac6c29d973ce52a6/B-ZH062.png",
+      "part_number": "ZH062",
+      "price": "13.81",
+      "region": "au",
+      "sku": "569414992334630914",
+      "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
+      "url": "https://au.store.bambulab.com/products/wankel-engine-motorized?id=569414992334630914",
+      "variant_id": "569414992334630914"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/65b8380c762c4156a91f477da1ba3865/B-ZH062.png",
+      "part_number": "ZH062",
+      "price": "6.95",
+      "region": "asia",
+      "sku": "569414263479537666",
+      "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
+      "url": "https://asia.store.bambulab.com/products/wankel-engine-motorized?id=569414263479537666",
+      "variant_id": "569414263479537666"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "0-3mm-transparent-pvc-sheet-5pcs",
+      "product_id": "591866891609358336",
+      "region": "us"
+    },
+    {
+      "handle": "0-3mm-transparent-pvc-sheet-5pcs",
+      "product_id": "591866143772884992",
+      "region": "ca"
+    },
+    {
+      "handle": "0-3mm-transparent-pvc-sheet-5pcs",
+      "product_id": "14974503944540",
+      "region": "eu"
+    },
+    {
+      "handle": "0-3mm-transparent-pvc-sheet-5pcs",
+      "product_id": "591867126469095424",
+      "region": "uk"
+    },
+    {
+      "handle": "0-3mm-transparent-pvc-sheet-5pcs",
+      "product_id": "591865846670090240",
+      "region": "au"
+    },
+    {
+      "handle": "0-3mm-transparent-pvc-sheet-5pcs",
+      "product_id": "590793992266002432",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/58/5810ebbb703652dfa90809c296b5bec17aca61738433e58f4d1e37421a6ff66e.png",
+      "id": "image-5df7a7527c1ac0a845ae",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "zhutu.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5810ebbb703652dfa90809c296b5bec17aca61738433e58f4d1e37421a6ff66e",
+      "size": 1505471,
+      "source_url": "https://store.bblcdn.com/s7/default/2f2ea91aa11f4d89bfd7abaaef59cb8c/zhutu.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b9/b9210329df074ac86dea14b5e47f81c213bb72d951c9662d6746ec04478250b7.png",
+      "id": "image-c0a1afdc1ea0c2e306d6",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "bianti.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b9210329df074ac86dea14b5e47f81c213bb72d951c9662d6746ec04478250b7",
+      "size": 101827,
+      "source_url": "https://store.bblcdn.com/s7/default/4ebed69c8dff4a45b2642610e9501d09/bianti.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/58/58b209f3339b5800aa785fb7bf3caf2df4b0ce6c6bf949ab5962f83d4d91e85f.png",
+      "id": "image-display-a9022270c2f01d113621",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 2400,
+        "source_sha256": "5810ebbb703652dfa90809c296b5bec17aca61738433e58f4d1e37421a6ff66e",
+        "source_width": 2400
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "zhutu.catalog.png",
+      "parent_asset_id": "image-5df7a7527c1ac0a845ae",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "58b209f3339b5800aa785fb7bf3caf2df4b0ce6c6bf949ab5962f83d4d91e85f",
+      "size": 109475,
+      "source_url": "https://store.bblcdn.com/s7/default/2f2ea91aa11f4d89bfd7abaaef59cb8c/zhutu.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/3e/3e93302f1d8087f3d0b323b339c4ac73ff7735e202c2af1e8f6023ccdb27a0b3.png",
+      "id": "image-display-7a328cf33ebef8162281",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 606,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 2400,
+        "source_sha256": "b9210329df074ac86dea14b5e47f81c213bb72d951c9662d6746ec04478250b7",
+        "source_width": 2400
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "bianti.catalog.png",
+      "parent_asset_id": "image-c0a1afdc1ea0c2e306d6",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "3e93302f1d8087f3d0b323b339c4ac73ff7735e202c2af1e8f6023ccdb27a0b3",
+      "size": 30949,
+      "source_url": "https://store.bblcdn.com/s7/default/4ebed69c8dff4a45b2642610e9501d09/bianti.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Mechanical Components"
+  ],
+  "category_assignments": [
+    {
+      "id": "mechanical",
+      "label": "Mechanical Components",
+      "path": [
+        "Hardware",
+        "Mechanical Components"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[9]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Bambu Transparent PVC Sheet offers a clear, glass-like finish. Its transparency and durable design make it perfect for transparent sections in your projects such as model car windows or photo frames."
+    },
+    {
+      "kind": "heading",
+      "text": "Product Feature"
+    },
+    {
+      "kind": "bullet",
+      "text": "Multi-Purpose Use: Ideal for photo frames, model car windows, DIY crafts, and creative projects."
+    },
+    {
+      "kind": "bullet",
+      "text": "Doodle-Friendly Surface: Draw, paint, or write effortlessly with markers, acrylics, or pens (erasable with alcohol)."
+    },
+    {
+      "kind": "heading",
+      "text": "Using Tips"
+    },
+    {
+      "kind": "bullet",
+      "text": "The PVC Sheet is not compatible with the H2D blade cutting, as it can damage the blade. Instead, it is recommended to use scissors for cutting it."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<p style=\"padding-left: 24px;\"></p>\n<div class=\"pct_t-stpc\">\n<h2 class=\"pct_t\" style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>Introduction</strong></span></h2>\n<h3 class=\"pct_st\"></h3>\n<p>Bambu Transparent PVC Sheet offers a clear, glass-like finish. Its transparency and durable design make it perfect for transparent sections in your projects such as model car windows or photo frames.</p>\n</div>\n<p></p>\n<div class=\"pct_t-stpc\">\n<h2 class=\"pct_t\" style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>Product Feature</strong></span></h2>\n<h3 class=\"pct_st\"></h3>\n<ul>\n<li>\n<p style=\"text-align: left;\"><strong>Multi-Purpose Use</strong>: Ideal for photo frames, model car windows, DIY crafts, and creative projects.</p>\n</li>\n<li>\n<p style=\"text-align: left;\"><strong>Doodle-Friendly Surface</strong>: Draw, paint, or write effortlessly with markers, acrylics, or pens (erasable with alcohol).</p>\n</li>\n</ul>\n</div>\n<h3 class=\"pct_st\"></h3>\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<h2 class=\"pct_st\" style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>Specification</strong></span></h2>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 52px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 27px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 27px; width: 102.641px; background-color: #c7c7c7;\"><span style=\"color: #000000;\">Product ID</span></td>\n<td class=\"pct_td\" style=\"height: 27px; width: 130.922px; background-color: #c7c7c7;\"><span style=\"color: #000000;\">Material Type</span></td>\n<td class=\"pct_td\" style=\"height: 27px; width: 135.734px; background-color: #c7c7c7;\"><span style=\"color: #000000;\">Quantity (pcs)</span></td>\n<td class=\"pct_td\" style=\"height: 27px; width: 241.484px; background-color: #c7c7c7;\"><span style=\"color: #000000;\">Product Dimension (mm)</span></td>\n<td class=\"pct_td\" style=\"height: 27px; width: 150.828px; background-color: #c7c7c7;\"><span style=\"color: #000000;\">Thickness (mm)</span></td>\n<td class=\"pct_td\" style=\"height: 27px; width: 83.9219px; background-color: #c7c7c7;\"><span style=\"color: #000000;\">Color</span></td>\n</tr>\n</thead>\n<tbody><!-- 第一行 -->\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 25px; width: 102.641px;\">YF001</td>\n<td class=\"pct_td\" style=\"height: 25px; width: 130.922px;\">PVC</td>\n<td class=\"pct_td\" style=\"height: 25px; width: 135.734px;\">5</td>\n<td class=\"pct_td\" style=\"height: 25px; width: 241.484px;\">300x300</td>\n<td class=\"pct_td\" style=\"height: 25px; width: 150.828px;\">0.3</td>\n<td class=\"pct_td\" style=\"height: 25px; width: 83.9219px;\">Transparent</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct_t-stpc\">\n<p></p>\n<h2 class=\"pct_t\" style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>Using Tips</strong></span></h2>\n<p></p>\n<ul>\n<li>\n<p style=\"text-align: left;\">The PVC Sheet is not compatible with the H2D blade cutting, as it can damage the blade. Instead, it is recommended to use scissors for cutting it.</p>\n</li>\n</ul>\n</div>\n</div>",
+  "description_text": "Bambu Transparent PVC Sheet offers a clear, glass-like finish. Its transparency and durable design make it perfect for transparent sections in your projects such as model car windows or photo frames.\n\nMulti-Purpose Use: Ideal for photo frames, model car windows, DIY crafts, and creative projects.\n\nDoodle-Friendly Surface: Draw, paint, or write effortlessly with markers, acrylics, or pens (erasable with alcohol).\n\nThe PVC Sheet is not compatible with the H2D blade cutting, as it can damage the blade. Instead, it is recommended to use scissors for cutting it.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "yf001-0-3mm-transparent-pvc-sheet-5pcs",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "Product Dimension (mm)",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Product Dimension (mm)",
+        "source_url": "https://us.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591866891626135554"
+      },
+      "raw_value": "300x300"
+    },
+    {
+      "label": "Thickness (mm)",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Thickness (mm)",
+        "source_url": "https://us.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591866891626135554"
+      },
+      "raw_value": "0.3"
+    }
+  ],
+  "name": "0.3mm Transparent PVC Sheet (5pcs)",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.89",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.89",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.89",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.89",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "19.89",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.89",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "YF001"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "54382497759580",
+    "590793992286973954",
+    "591865846686867458",
+    "591866143785467906",
+    "591866891626135554",
+    "591867126485872642"
+  ],
+  "source_tables": [
+    {
+      "caption": "Specification",
+      "headers": [
+        "Product ID",
+        "Material Type",
+        "Quantity (pcs)",
+        "Product Dimension (mm)",
+        "Thickness (mm)",
+        "Color"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591866891626135554"
+      },
+      "rows": [
+        [
+          "YF001",
+          "PVC",
+          "5",
+          "300x300",
+          "0.3",
+          "Transparent"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Color": "Transparent",
+    "Material Type": "PVC",
+    "Product Dimension (mm)": "300x300",
+    "Product ID": "YF001",
+    "Quantity (pcs)": "5",
+    "Thickness (mm)": "0.3"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/2f2ea91aa11f4d89bfd7abaaef59cb8c/zhutu.png",
+      "part_number": "YF001",
+      "price": "9.89",
+      "region": "us",
+      "sku": "591866891626135554",
+      "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
+      "url": "https://us.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591866891626135554",
+      "variant_id": "591866891626135554"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/eb5e12fc3f5d4584ab0d525fc965964c/zhutu.png",
+      "part_number": "YF001",
+      "price": "12.89",
+      "region": "ca",
+      "sku": "591866143785467906",
+      "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
+      "url": "https://ca.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591866143785467906",
+      "variant_id": "591866143785467906"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/489acfbd50ef4378928dbda50c0ce9f9/zhutu_ce72ef44-aaaa-4148-b566-aa73f5ca1bb7.png",
+      "part_number": "YF001",
+      "price": "11.89",
+      "region": "eu",
+      "sku": "54382497759580",
+      "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
+      "url": "https://eu.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=54382497759580",
+      "variant_id": "54382497759580"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/683c58459db14af0a1cb33989309a8eb/zhutu.png",
+      "part_number": "YF001",
+      "price": "8.89",
+      "region": "uk",
+      "sku": "591867126485872642",
+      "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
+      "url": "https://uk.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591867126485872642",
+      "variant_id": "591867126485872642"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/e032e04ba060436aa28c556afa512c0e/zhutu.png",
+      "part_number": "YF001",
+      "price": "19.89",
+      "region": "au",
+      "sku": "591865846686867458",
+      "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
+      "url": "https://au.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591865846686867458",
+      "variant_id": "591865846686867458"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/41ee378d7fda4849a0a38bd4674fae4e/zhutu.png",
+      "part_number": "YF001",
+      "price": "9.89",
+      "region": "asia",
+      "sku": "590793992286973954",
+      "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
+      "url": "https://asia.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=590793992286973954",
+      "variant_id": "590793992286973954"
+    }
+  ]
+}

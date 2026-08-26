@@ -1,0 +1,465 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "s-shape-led-strip-light-ws2812b-rgb",
+      "product_id": "7746178646152",
+      "region": "us"
+    },
+    {
+      "handle": "s-shape-led-strip-light-ws2812b-rgb",
+      "product_id": "8458259235056",
+      "region": "ca"
+    },
+    {
+      "handle": "s-shape-led-strip-light-ws2812b-rgb",
+      "product_id": "8697675612508",
+      "region": "eu"
+    },
+    {
+      "handle": "s-shape-led-strip-light-ws2812b-rgb",
+      "product_id": "7241916514364",
+      "region": "uk"
+    },
+    {
+      "handle": "s-shape-led-strip-light-ws2812b-rgb",
+      "product_id": "8180653686947",
+      "region": "au"
+    },
+    {
+      "handle": "s-shape-led-strip-light-ws2812b-rgb",
+      "product_id": "7503301410931",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/03/0380892900fbd7e4af9cc80b2a401f303fee02e6b1b1149163a672c27ed93c35.jpg",
+      "id": "image-d457b3a8f1b298dc3f12",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "20240703-101148.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0380892900fbd7e4af9cc80b2a401f303fee02e6b1b1149163a672c27ed93c35",
+      "size": 45444,
+      "source_url": "https://store.bblcdn.com/s7/default/4d6cc3801bbc4bbea999ed44c22fa75c/20240703-101148.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d7/d74b829a327c7314f6d4be824d9088201c418c3f4ff7b8bbe115bbf162b81e18.png",
+      "id": "image-ec25b3f8bfb962498469",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Group48459.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d74b829a327c7314f6d4be824d9088201c418c3f4ff7b8bbe115bbf162b81e18",
+      "size": 1335363,
+      "source_url": "https://store.bblcdn.com/s7/default/e117b117a1f64b6a898e32f6304fc00e/Group48459.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2b/2b723fcf61123df3d6bbd866eeb5caf8ee7fc0e2501bc0b9bc4ef023c074a393.png",
+      "id": "image-856547c976d991ef8896",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Group_48460.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2b723fcf61123df3d6bbd866eeb5caf8ee7fc0e2501bc0b9bc4ef023c074a393",
+      "size": 571539,
+      "source_url": "https://store.bblcdn.com/s7/default/023cb62cb92042f78b2689a98d3c0690/Group_48460.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4d/4d4941eab2cdaaf92609a083ab739372223985c384e78bd4b4378bf2be7cba81.png",
+      "id": "image-display-ef64109d9660e1c7e755",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "0380892900fbd7e4af9cc80b2a401f303fee02e6b1b1149163a672c27ed93c35",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "20240703-101148.catalog.png",
+      "parent_asset_id": "image-d457b3a8f1b298dc3f12",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4d4941eab2cdaaf92609a083ab739372223985c384e78bd4b4378bf2be7cba81",
+      "size": 225396,
+      "source_url": "https://store.bblcdn.com/s7/default/4d6cc3801bbc4bbea999ed44c22fa75c/20240703-101148.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5b/5b445280a7c997e9e0614727ee21d08a16bfad4799bc611605da8ff1e0a39753.png",
+      "id": "image-display-79f7afeffaa8bc0c3aea",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "d74b829a327c7314f6d4be824d9088201c418c3f4ff7b8bbe115bbf162b81e18",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Group48459.catalog.png",
+      "parent_asset_id": "image-ec25b3f8bfb962498469",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5b445280a7c997e9e0614727ee21d08a16bfad4799bc611605da8ff1e0a39753",
+      "size": 401772,
+      "source_url": "https://store.bblcdn.com/s7/default/e117b117a1f64b6a898e32f6304fc00e/Group48459.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/11/1183ef932a0ad3064979687994e264f187c7150b8d55fac4453271019684698f.png",
+      "id": "image-display-d4484a88926e3e13a362",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 525,
+        "source_sha256": "2b723fcf61123df3d6bbd866eeb5caf8ee7fc0e2501bc0b9bc4ef023c074a393",
+        "source_width": 1500
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Group_48460.catalog.png",
+      "parent_asset_id": "image-856547c976d991ef8896",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1183ef932a0ad3064979687994e264f187c7150b8d55fac4453271019684698f",
+      "size": 187288,
+      "source_url": "https://store.bblcdn.com/s7/default/023cb62cb92042f78b2689a98d3c0690/Group_48460.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[6]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Create Any Shape with Bending Capability"
+    },
+    {
+      "kind": "paragraph",
+      "text": "S-shape LED light strip that offers exceptional flexibility, allowing you to effortlessly design and mold it into any desired shape. Its unique construction ensures that bending the strip will not cause any damage to the FPCB (Flexible Printed Circuit Board) board."
+    },
+    {
+      "kind": "heading",
+      "text": "Programmable (1LED/IC)"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Discover new possibilities with full-color programmable LED strips. Customize every LED to create stunning colors and adjust brightness to suit your mood. The USB controller comes with preset modes, but to access additional modes, a separate micro-controller board and software support are required, which are not included."
+    },
+    {
+      "kind": "heading",
+      "text": "Ideal for DIY"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Experience the magic of effortless lighting with the included controller, choose from a wide range of patterns to make your LED strip shine brightly and beautifully. No programming skills are needed if you are new."
+    },
+    {
+      "kind": "heading",
+      "text": "Remote Control Instruction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Click here to purchase a replacement for the remote control if you need one."
+    },
+    {
+      "kind": "heading",
+      "text": "Considerations"
+    },
+    {
+      "kind": "bullet",
+      "text": "Before making any modifications to the device, ensure that the LED strip is unplugged. Electrical currents can be dangerous and may result in electrical shock or injury in certain cases."
+    },
+    {
+      "kind": "bullet",
+      "text": "The app has different versions that aren't compatible with each other. If there is no response when controlling the LED strip, please make sure you're using the correct app version."
+    },
+    {
+      "kind": "bullet",
+      "text": "This product is not a toy. Please keep it out of reach of children."
+    },
+    {
+      "kind": "bullet",
+      "text": "The bulbs are sealed and cannot be replaced."
+    },
+    {
+      "kind": "bullet",
+      "text": "Avoid immersing the lights in the fire."
+    },
+    {
+      "kind": "bullet",
+      "text": "Do not illuminate the lights while they are still inside the packaging."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\"><!-- 第一条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Create Any Shape with Bending Capability</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"BBRnd3ZnMoheF1xBZCMcou9xnR4\">\n<div class=\"ace-line ace-line old-record-id-MwYVdBZPjoDc7mxOh7ucPqgwn6a\">S-shape LED light strip that offers exceptional flexibility, allowing you to effortlessly design and mold it into any desired shape. Its unique construction ensures that bending the strip will not cause any damage to the FPCB (Flexible Printed Circuit Board) board.</div>\n<div class=\"ace-line ace-line old-record-id-MwYVdBZPjoDc7mxOh7ucPqgwn6a\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/09b54eb382da4aa2912d93c215493d1f/Group_48461.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/09b54eb382da4aa2912d93c215493d1f/Group_48461.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<br/><br/><!-- 第二条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Programmable (1LED/IC)</h3>\n<p class=\"pct_p\">Discover new possibilities with full-color programmable LED strips. Customize every LED to create stunning colors and adjust brightness to suit your mood. <br/>The USB controller comes with preset modes, but to access additional modes, a separate micro-controller board and software support are required, which are not included.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\">\n<p style=\"margin-top: 30px;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s7/default/daba19481c2644b39e6d84f5bb9eaad5/69bcd7ca05f94c5785c282a5ac89e269.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s7/default/daba19481c2644b39e6d84f5bb9eaad5/69bcd7ca05f94c5785c282a5ac89e269.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s7/default/557552edff5b4714bdf8585c19d17f38/Group_48432.png\" style=\"width: 100%;\" width=\"300\"></video></p>\n</div>\n</div>\n<!-- 第三条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Ideal for DIY</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"BBRnd3ZnMoheF1xBZCMcou9xnR4\">\n<div class=\"ace-line ace-line old-record-id-MwYVdBZPjoDc7mxOh7ucPqgwn6a\">Experience the magic of effortless lighting with the included controller, choose from a wide range of patterns to make your LED strip shine brightly and beautifully. No programming skills are needed if you are new.</div>\n<div class=\"ace-line ace-line old-record-id-MwYVdBZPjoDc7mxOh7ucPqgwn6a\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/86135e84f4804277ace9ee52a8c4c920/Group_48456.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/86135e84f4804277ace9ee52a8c4c920/Group_48456.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_table-row\"><!-- 第一张表格 -->\n<div class=\"pct_tbc\" style=\"width: 50%; float: left; box-sizing: border-box;\">\n<table class=\"pct_tb\" style=\"width: 100%;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" colspan=\"2\">Product Specification</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">LED Type</td>\n<td class=\"pct_td\">WS2812B RGB LED Strip Light</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">IC type</td>\n<td class=\"pct_td\">WS2812B IC</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">LED Size</td>\n<td class=\"pct_td\">3535</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">LED Quantity</td>\n<td class=\"pct_td\">300 LEDs (60LEDs/M)</td>\n</tr>\n</tbody>\n</table>\n</div>\n<!-- 第二张表格 -->\n<div class=\"pct_tbc\" style=\"width: 50%; float: left; box-sizing: border-box;\">\n<table class=\"pct_tb\" style=\"width: 100%;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\">Product Specification</td>\n<td class=\"pct_td\"></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Input Voltage</td>\n<td class=\"pct_td\">DC5V</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Operating Temperature</td>\n<td class=\"pct_td\">-4℉~104℉（-20℃~+40℃ ）</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Length</td>\n<td class=\"pct_td\">16.4FT</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Waterproof</td>\n<td class=\"pct_td\">IP 20</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">Parameter</h3>\n<p class=\"pct_p\">Each pixel can be easily cut or soldered independently without damaging the rest of the pixels. Also, the LED strip is constructed with a 50cm (1.6FT) Flexible Printed Circuit Board (FPCB), featuring a solder point at every 50cm interval. This design ensures convenient connectivity and easy customization along the strip.</p>\n</div>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"USB Control\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/9e8d5729f3104d33810a48e72734f342/Group_48457.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"USB Control\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/9e8d5729f3104d33810a48e72734f342/Group_48457.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">USB Control Instruction</h3>\n</div>\n<br/>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"USB Control\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/fe9075c957e1493687f6720aeeeaae89/Group_48452_1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"USB Control\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/fe9075c957e1493687f6720aeeeaae89/Group_48452_1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">Remote Control Instruction</h3>\n</div>\n<br/>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"Each button has multiple modes\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/88ffbbabf68849c0a325621f861daf87/Group_47926_7dd1033a-6627-4552-8fef-aaaa14832f6a.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"Each button has multiple modes\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/88ffbbabf68849c0a325621f861daf87/Group_47926_7dd1033a-6627-4552-8fef-aaaa14832f6a.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n<p></p>\n<p class=\"pct_p\" style=\"text-align: center;\"><span style=\"font-size: 18px;\"><a href=\"../../../products/led-light-strip-remote-controller\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">Click here to purchase a replacement for the remote control if you need one.</span></strong></span></a></span></p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">APP Control Instruction</h3>\n</div>\n<br/>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"Scan the QR code on the USB controller to download the APP control\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/b135493787154526ac39a7c92b59ac40/app.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"Scan the QR code on the USB controller to download the APP control\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/59f40e8821264e8fbf38ee533d8d2d12/KA001.png\" height=\"1360\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"3260\"/></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div>\n<h3 class=\"pct_st\" style=\"text-align: center;\">Considerations</h3>\n<p class=\"pct_p\"></p>\n<ul>\n<li>Before making any modifications to the device, ensure that the LED strip is unplugged. Electrical currents can be dangerous and may result in electrical shock or injury in certain cases.</li>\n<li>The app has different versions that aren't compatible with each other. If there is no response when controlling the LED strip, please make sure you're using the correct app version.</li>\n<li>This product is not a toy. Please keep it out of reach of children.</li>\n<li>The bulbs are sealed and cannot be replaced.</li>\n<li>Avoid immersing the lights in the fire.</li>\n<li>Do not illuminate the lights while they are still inside the packaging.</li>\n</ul>\n<p> </p>\n</div>\n</div>",
+  "description_text": "S-shape LED light strip that offers exceptional flexibility, allowing you to effortlessly design and mold it into any desired shape. Its unique construction ensures that bending the strip will not cause any damage to the FPCB (Flexible Printed Circuit Board) board.\n\nDiscover new possibilities with full-color programmable LED strips. Customize every LED to create stunning colors and adjust brightness to suit your mood. The USB controller comes with preset modes, but to access additional modes, a separate micro-controller board and software support are required, which are not included.\n\nExperience the magic of effortless lighting with the included controller, choose from a wide range of patterns to make your LED strip shine brightly and beautifully. No programming skills are needed if you are new.\n\nClick here to purchase a replacement for the remote control if you need one.\n\nBefore making any modifications to the device, ensure that the LED strip is unplugged. Electrical currents can be dangerous and may result in electrical shock or injury in certain cases.\n\nThe app has different versions that aren't compatible with each other. If there is no response when controlling the LED strip, please make sure you're using the correct app version.\n\nThis product is not a toy. Please keep it out of reach of children.\n\nThe bulbs are sealed and cannot be replaced.\n\nAvoid immersing the lights in the fire.\n\nDo not illuminate the lights while they are still inside the packaging.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "ka002-s-shape-led-strip-light-ws2812b-rgb",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "LED Size",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:LED Size",
+        "source_url": "https://us.store.bambulab.com/products/s-shape-led-strip-light-ws2812b-rgb?id=41647497838728"
+      },
+      "raw_value": "3535"
+    },
+    {
+      "label": "Length",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Length",
+        "source_url": "https://us.store.bambulab.com/products/s-shape-led-strip-light-ws2812b-rgb?id=41647497838728"
+      },
+      "raw_value": "16.4FT"
+    }
+  ],
+  "name": "S-shape LED Strip Light (WS2812B RGB)",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "29.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/s-shape-led-strip-light-ws2812b-rgb?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "35",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/s-shape-led-strip-light-ws2812b-rgb?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "28.56",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/s-shape-led-strip-light-ws2812b-rgb?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "24",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/s-shape-led-strip-light-ws2812b-rgb?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "56",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/s-shape-led-strip-light-ws2812b-rgb?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "26.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/s-shape-led-strip-light-ws2812b-rgb?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "KA002"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "40937043099708",
+    "41623256465523",
+    "41647497838728",
+    "43875703488675",
+    "44888561320176",
+    "47513694994780"
+  ],
+  "source_tables": [
+    {
+      "caption": "Ideal for DIY",
+      "headers": [
+        "Product Specification"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/s-shape-led-strip-light-ws2812b-rgb?id=41647497838728"
+      },
+      "rows": [
+        [
+          "LED Type",
+          "WS2812B RGB LED Strip Light"
+        ],
+        [
+          "IC type",
+          "WS2812B IC"
+        ],
+        [
+          "LED Size",
+          "3535"
+        ],
+        [
+          "LED Quantity",
+          "300 LEDs (60LEDs/M)"
+        ]
+      ]
+    },
+    {
+      "caption": "Ideal for DIY",
+      "headers": [
+        "Product Specification",
+        ""
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/s-shape-led-strip-light-ws2812b-rgb?id=41647497838728"
+      },
+      "rows": [
+        [
+          "Input Voltage",
+          "DC5V"
+        ],
+        [
+          "Operating Temperature",
+          "-4℉~104℉（-20℃~+40℃ ）"
+        ],
+        [
+          "Length",
+          "16.4FT"
+        ],
+        [
+          "Waterproof",
+          "IP 20"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "IC type": "WS2812B IC",
+    "Input Voltage": "DC5V",
+    "LED Quantity": "300 LEDs (60LEDs/M)",
+    "LED Size": "3535",
+    "LED Type": "WS2812B RGB LED Strip Light",
+    "Length": "16.4FT",
+    "Operating Temperature": "-4℉~104℉（-20℃~+40℃ ）",
+    "Waterproof": "IP 20"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/4d6cc3801bbc4bbea999ed44c22fa75c/20240703-101148.jpg",
+      "part_number": "KA002",
+      "price": "29.99",
+      "region": "us",
+      "sku": "41647497838728",
+      "title": "S-shape LED Strip Light (WS2812B RGB) - S-shape LED Strip Light (1pcs) - KA002 / RGB (400122)",
+      "url": "https://us.store.bambulab.com/products/s-shape-led-strip-light-ws2812b-rgb?id=41647497838728",
+      "variant_id": "41647497838728"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/b321f0e71c3f4c5a8f7842e6ca9b3792.jpg",
+      "part_number": "KA002",
+      "price": "35",
+      "region": "ca",
+      "sku": "44888561320176",
+      "title": "S-shape LED Strip Light (WS2812B RGB) - S-shape LED Strip Light (1pcs) - KA002 / RGB(00120)",
+      "url": "https://ca.store.bambulab.com/products/s-shape-led-strip-light-ws2812b-rgb?id=44888561320176",
+      "variant_id": "44888561320176"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/c5d23b6a953447609baaa975a8237f0c/20240703-101148.jpg",
+      "part_number": "KA002",
+      "price": "28.56",
+      "region": "eu",
+      "sku": "47513694994780",
+      "title": "S-shape LED Strip Light (WS2812B RGB) - S-shape LED Strip Light (1pcs) - KA002 / RGB(0012)",
+      "url": "https://eu.store.bambulab.com/products/s-shape-led-strip-light-ws2812b-rgb?id=47513694994780",
+      "variant_id": "47513694994780"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/4d86315227434b72ad623a3d624435c0.jpg",
+      "part_number": "KA002",
+      "price": "24",
+      "region": "uk",
+      "sku": "40937043099708",
+      "title": "S-shape LED Strip Light (WS2812B RGB) - S-shape LED Strip Light (1pcs) - KA002 / RGB(97809)",
+      "url": "https://uk.store.bambulab.com/products/s-shape-led-strip-light-ws2812b-rgb?id=40937043099708",
+      "variant_id": "40937043099708"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/d87c53af340547d280c5d5f67d8ffd16.jpg",
+      "part_number": "KA002",
+      "price": "56",
+      "region": "au",
+      "sku": "43875703488675",
+      "title": "S-shape LED Strip Light (WS2812B RGB) - S-shape LED Strip Light (1pcs) - KA002 / RGB(97809)",
+      "url": "https://au.store.bambulab.com/products/s-shape-led-strip-light-ws2812b-rgb?id=43875703488675",
+      "variant_id": "43875703488675"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494434704042717184.jpg",
+      "part_number": "KA002",
+      "price": "26.99",
+      "region": "asia",
+      "sku": "41623256465523",
+      "title": "S-shape LED Strip Light (WS2812B RGB) - S-shape LED Strip Light (1pcs) - KA002 / RGB(0012)",
+      "url": "https://asia.store.bambulab.com/products/s-shape-led-strip-light-ws2812b-rgb?id=41623256465523",
+      "variant_id": "41623256465523"
+    }
+  ]
+}

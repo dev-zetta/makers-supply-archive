@@ -1,0 +1,398 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "brio-electric-train",
+      "product_id": "737930698312011776",
+      "region": "us"
+    },
+    {
+      "handle": "brio-electric-train",
+      "product_id": "737929802515660800",
+      "region": "ca"
+    },
+    {
+      "handle": "brio-electric-train",
+      "product_id": "737931447870447616",
+      "region": "eu"
+    },
+    {
+      "handle": "brio-electric-train",
+      "product_id": "737930502584803328",
+      "region": "uk"
+    },
+    {
+      "handle": "brio-electric-train",
+      "product_id": "737929637816389632",
+      "region": "au"
+    },
+    {
+      "handle": "brio-electric-train",
+      "product_id": "737928715109273600",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/a5/a51b72d3210fd1e7508035c02bec6d5b274f6c73e4090cefa9ab0ea933868f59.png",
+      "id": "image-3196097ec22a1342a021",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH153.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a51b72d3210fd1e7508035c02bec6d5b274f6c73e4090cefa9ab0ea933868f59",
+      "size": 3693514,
+      "source_url": "https://store.bblcdn.eu/s8/default/17e9f4be07ad4a1591ee17bfd18e4397/B-ZH153.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c9/c90510a6e14e344f1c0d053548c64c235095419f2361ebbb9bdd5191a35f725f.png",
+      "id": "image-8b9e9950f452098ed193",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH153-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c90510a6e14e344f1c0d053548c64c235095419f2361ebbb9bdd5191a35f725f",
+      "size": 438107,
+      "source_url": "https://store.bblcdn.eu/s8/default/09ed5f8854b94d22ae05779643787f07/B-ZH153-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/09/09444c774336e9e3c91a9daef1e786a0107f037f85b02f43c08a015196173412.png",
+      "id": "image-display-e3b1a27e083410e4729a",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "a51b72d3210fd1e7508035c02bec6d5b274f6c73e4090cefa9ab0ea933868f59",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH153.catalog.png",
+      "parent_asset_id": "image-3196097ec22a1342a021",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "09444c774336e9e3c91a9daef1e786a0107f037f85b02f43c08a015196173412",
+      "size": 662303,
+      "source_url": "https://store.bblcdn.eu/s8/default/17e9f4be07ad4a1591ee17bfd18e4397/B-ZH153.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/05/0549626c2333adf4956ed94ea0dc439118da938bd4327c97820e481ca77a769a.png",
+      "id": "image-display-6bb6c42158040ecfae93",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "c90510a6e14e344f1c0d053548c64c235095419f2361ebbb9bdd5191a35f725f",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH153-1.catalog.png",
+      "parent_asset_id": "image-8b9e9950f452098ed193",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0549626c2333adf4956ed94ea0dc439118da938bd4327c97820e481ca77a769a",
+      "size": 125854,
+      "source_url": "https://store.bblcdn.eu/s8/default/09ed5f8854b94d22ae05779643787f07/B-ZH153-1.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "rb001-o-rings",
+      "name": "OD24x2.5mm O Rings (10PCS) - RB004",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "xc003-100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire",
+      "name": "100mm (2PCS) -XC003",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia008-aaa-battery-spring-contact-plate-with-ph2-0-connector",
+      "name": "AAA Battery Spring Contact Plate with PH2.0 (1PCS) - IA008",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia006-self-locking-button-switch-with-sh1-0-connector",
+      "name": "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "la009-n20-dual-shaft-worm-gear-motor",
+      "name": "N20 Dual Shaft Worm Gear Motor 130rpm (1PCS) - LA009",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa158-m3-socket-head-cap-machine-screws-shcs-1",
+      "name": "M3x5 SHCS Machine Screw (20PCS) - AA158",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa158-m3-socket-head-cap-machine-screws-shcs-1",
+      "name": "M3x10 SHCS Machine Screw (20PCS) - AA159",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa158-m3-socket-head-cap-machine-screws-shcs-1",
+      "name": "M3x25 SHCS Machine Screw (5PCS) - AA041",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Brio Electric Train on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Brio Electric Train</strong> on <a href=\"https://makerworld.com/en/models/1260362-brio-electric-train#profileId-1292336\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">OD24x2.5mm O Rings (10PCS) - RB004</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">100mm (2PCS) -XC003</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\">AAA Battery Spring Contact Plate with PH2.0 (1PCS) - IA008</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">N20 Dual Shaft Worm Gear Motor 130rpm (1PCS) - LA009</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M3x5 SHCS Machine Screw (20PCS) - AA158</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M3x10 SHCS Machine Screw (20PCS) - AA159</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M3x25 SHCS Machine Screw (5PCS) - AA041</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+  "description_text": "To download the model files please visit the Brio Electric Train on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh153-brio-electric-train",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Electric Train",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.71",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/brio-electric-train?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "20.89",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/brio-electric-train?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "18.74",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/brio-electric-train?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "16.27",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/brio-electric-train?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "33.82",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/brio-electric-train?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.93",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/brio-electric-train?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA041",
+    "AA158",
+    "AA159",
+    "B-ZH153",
+    "IA006",
+    "IA008",
+    "LA009",
+    "RB004",
+    "XC003",
+    "ZH153"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Brio Electric Train",
+      "url": "https://makerworld.com/en/models/1260362-brio-electric-train#profileId-1292336"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "737928715126050818",
+    "737929637875109890",
+    "737929802528243714",
+    "737930502601580546",
+    "737930698358149122",
+    "737931447883030530"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/brio-electric-train?id=737930698358149122"
+      },
+      "rows": [
+        [
+          "OD24x2.5mm O Rings (10PCS) - RB004",
+          "1"
+        ],
+        [
+          "100mm (2PCS) -XC003",
+          "1"
+        ],
+        [
+          "AAA Battery Spring Contact Plate with PH2.0 (1PCS) - IA008",
+          "1"
+        ],
+        [
+          "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+          "1"
+        ],
+        [
+          "N20 Dual Shaft Worm Gear Motor 130rpm (1PCS) - LA009",
+          "1"
+        ],
+        [
+          "M3x5 SHCS Machine Screw (20PCS) - AA158",
+          "1"
+        ],
+        [
+          "M3x10 SHCS Machine Screw (20PCS) - AA159",
+          "1"
+        ],
+        [
+          "M3x25 SHCS Machine Screw (5PCS) - AA041",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/c3643d5337514875906955934c167f1e/B-ZH153.png",
+      "part_number": "ZH153",
+      "price": "17.71",
+      "region": "us",
+      "sku": "737930698358149122",
+      "title": "Electric Train - Brio Electric Train - ZH153",
+      "url": "https://us.store.bambulab.com/products/brio-electric-train?id=737930698358149122",
+      "variant_id": "737930698358149122"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/7a9a34b07dc644dca9ff0d6fca15cc07/B-ZH153.png",
+      "part_number": "ZH153",
+      "price": "20.89",
+      "region": "ca",
+      "sku": "737929802528243714",
+      "title": "Electric Train - Brio Electric Train - ZH153",
+      "url": "https://ca.store.bambulab.com/products/brio-electric-train?id=737929802528243714",
+      "variant_id": "737929802528243714"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/17e9f4be07ad4a1591ee17bfd18e4397/B-ZH153.png",
+      "part_number": "ZH153",
+      "price": "18.74",
+      "region": "eu",
+      "sku": "737931447883030530",
+      "title": "Electric Train - Brio Electric Train - ZH153",
+      "url": "https://eu.store.bambulab.com/products/brio-electric-train?id=737931447883030530",
+      "variant_id": "737931447883030530"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/8ba75abb647049cab8bd12086189000f/B-ZH153.png",
+      "part_number": "ZH153",
+      "price": "16.27",
+      "region": "uk",
+      "sku": "737930502601580546",
+      "title": "Electric Train - Brio Electric Train - ZH153",
+      "url": "https://uk.store.bambulab.com/products/brio-electric-train?id=737930502601580546",
+      "variant_id": "737930502601580546"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/1d5a61e641ca4510970a32aefc6f54db/B-ZH153.png",
+      "part_number": "ZH153",
+      "price": "33.82",
+      "region": "au",
+      "sku": "737929637875109890",
+      "title": "Electric Train - Brio Electric Train - ZH153",
+      "url": "https://au.store.bambulab.com/products/brio-electric-train?id=737929637875109890",
+      "variant_id": "737929637875109890"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/0c1e066950af4762a690f9f72bffd165/B-ZH153.png",
+      "part_number": "ZH153",
+      "price": "15.93",
+      "region": "asia",
+      "sku": "737928715126050818",
+      "title": "Electric Train - Brio Electric Train - ZH153",
+      "url": "https://asia.store.bambulab.com/products/brio-electric-train?id=737928715126050818",
+      "variant_id": "737928715126050818"
+    }
+  ]
+}

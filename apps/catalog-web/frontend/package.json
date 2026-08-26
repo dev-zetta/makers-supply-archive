@@ -1,0 +1,7 @@
+{
+  "name": "makers-supply-catalog-frontend",
+  "private": true,
+  "scripts": {"build": "esbuild src/catalog.ts src/viewer.ts --bundle --minify --outdir=../src/makers_supply_web/static", "typecheck": "tsc --noEmit", "test:e2e": "playwright test"},
+  "dependencies": {"three": "0.179.1"},
+  "devDependencies": {"@playwright/test": "1.62.1", "@types/three": "0.179.0", "esbuild": "0.25.9", "typescript": "5.9.2"}
+}

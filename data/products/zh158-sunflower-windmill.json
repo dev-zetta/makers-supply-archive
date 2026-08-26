@@ -1,0 +1,369 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "sunflower-windmill",
+      "product_id": "750845736162840576",
+      "region": "us"
+    },
+    {
+      "handle": "sunflower-windmill",
+      "product_id": "750847502804369408",
+      "region": "ca"
+    },
+    {
+      "handle": "sunflower-windmill",
+      "product_id": "750845388489977856",
+      "region": "eu"
+    },
+    {
+      "handle": "sunflower-windmill",
+      "product_id": "750846082096824320",
+      "region": "uk"
+    },
+    {
+      "handle": "sunflower-windmill",
+      "product_id": "750848707366670336",
+      "region": "au"
+    },
+    {
+      "handle": "sunflower-windmill",
+      "product_id": "750550365417283584",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/9f/9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1.png",
+      "id": "image-1defa7cadfed4d43cad4",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH158.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1",
+      "size": 3189926,
+      "source_url": "https://store.bblcdn.com/s2/default/0e47314db0034b249761f54a245a3d21/ZH158.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9f/9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1.png",
+      "id": "image-cea3a08df289fc146246",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH158.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1",
+      "size": 3189926,
+      "source_url": "https://store.bblcdn.com/s1/default/51ca8d4d128e4562a6faf7d8adfd4630/ZH158.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f5/f50f7bacd0acc5a607942852589a6a60c9602fc3d5f2283460baa157e4336bda.png",
+      "id": "image-cefd170b953d4275431e",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH158_V.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "f50f7bacd0acc5a607942852589a6a60c9602fc3d5f2283460baa157e4336bda",
+      "size": 502628,
+      "source_url": "https://store.bblcdn.com/s2/default/bf232fe511f74240999f0d00ed148d03/ZH158_V.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4e/4e83cff5b905e8b4fdd393462f8d979615414b808a40a7bb84e507881e99569c.png",
+      "id": "image-display-5db01ab8ddb5b376e936",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH158.catalog.png",
+      "parent_asset_id": "image-1defa7cadfed4d43cad4",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4e83cff5b905e8b4fdd393462f8d979615414b808a40a7bb84e507881e99569c",
+      "size": 882197,
+      "source_url": "https://store.bblcdn.com/s2/default/0e47314db0034b249761f54a245a3d21/ZH158.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4e/4e83cff5b905e8b4fdd393462f8d979615414b808a40a7bb84e507881e99569c.png",
+      "id": "image-display-fb1e0b48e15db7265b46",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH158.catalog.png",
+      "parent_asset_id": "image-cea3a08df289fc146246",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4e83cff5b905e8b4fdd393462f8d979615414b808a40a7bb84e507881e99569c",
+      "size": 882197,
+      "source_url": "https://store.bblcdn.com/s1/default/51ca8d4d128e4562a6faf7d8adfd4630/ZH158.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/84/845f4813f63fd7d4c207bf8eebc53ca11bb834d454969d512fdb9c344036d2ed.png",
+      "id": "image-display-a97531ff39f98d0eac1c",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "f50f7bacd0acc5a607942852589a6a60c9602fc3d5f2283460baa157e4336bda",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH158_V.catalog.png",
+      "parent_asset_id": "image-cefd170b953d4275431e",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "845f4813f63fd7d4c207bf8eebc53ca11bb834d454969d512fdb9c344036d2ed",
+      "size": 126993,
+      "source_url": "https://store.bblcdn.com/s2/default/bf232fe511f74240999f0d00ed148d03/ZH158_V.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "ea028-high-performance-bearings",
+      "name": "608 Open Hybrid Ceramic Bearing (2PCS) - EA029",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/high-performance-bearings?skr=yes&id=42489168265352",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Sunflower Windmill - 608 Bearing Mod. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Sunflower Windmill - 608 Bearing Mod on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Sunflower Windmill - 608 Bearing Mod</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Sunflower Windmill - 608 Bearing Mod</strong> on <a href=\"https://makerworld.com/en/models/2588455-sunflower-windmill-608-bearing-mod?from=search#profileId-2855808\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/high-performance-bearings?skr=yes&amp;id=42489168265352\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">608 Open Hybrid Ceramic Bearing (2PCS) - EA029</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Sunflower Windmill - 608 Bearing Mod. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Sunflower Windmill - 608 Bearing Mod on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh158-sunflower-windmill",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Sunflower Windmill",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.49",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.32",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.17",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.39",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.92",
+      "region": "au",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://au.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "EA029",
+    "ZH158"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Sunflower Windmill 608 Bearing Mod",
+      "url": "https://makerworld.com/en/models/2588455-sunflower-windmill-608-bearing-mod?from=search#profileId-2855808"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "750550365484392450",
+    "750845388527726594",
+    "750845736188006402",
+    "750846082155544576",
+    "750847502825340930",
+    "750848707417001986"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/sunflower-windmill?id=750845736188006402"
+      },
+      "rows": [
+        [
+          "608 Open Hybrid Ceramic Bearing (2PCS) - EA029",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/3cf2dfbfcc1b4a9fb8003dcd04d370ed/ZH158.png",
+      "part_number": "ZH158",
+      "price": "5.49",
+      "region": "us",
+      "sku": "750845736188006402",
+      "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
+      "url": "https://us.store.bambulab.com/products/sunflower-windmill?id=750845736188006402",
+      "variant_id": "750845736188006402"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/64beac08e4d64ca2bd8310d16ee4c265/ZH158.png",
+      "part_number": "ZH158",
+      "price": "6.32",
+      "region": "ca",
+      "sku": "750847502825340930",
+      "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
+      "url": "https://ca.store.bambulab.com/products/sunflower-windmill?id=750847502825340930",
+      "variant_id": "750847502825340930"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/b578d7c83d76444fac558fe7a16f6cec/ZH158.png",
+      "part_number": "ZH158",
+      "price": "5.17",
+      "region": "eu",
+      "sku": "750845388527726594",
+      "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
+      "url": "https://eu.store.bambulab.com/products/sunflower-windmill?id=750845388527726594",
+      "variant_id": "750845388527726594"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/1ea27e3eac014dc794e479535851b45a/ZH158.png",
+      "part_number": "ZH158",
+      "price": "4.39",
+      "region": "uk",
+      "sku": "750846082155544576",
+      "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
+      "url": "https://uk.store.bambulab.com/products/sunflower-windmill?id=750846082155544576",
+      "variant_id": "750846082155544576"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/0e47314db0034b249761f54a245a3d21/ZH158.png",
+      "part_number": "ZH158",
+      "price": "9.92",
+      "region": "au",
+      "sku": "750848707417001986",
+      "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
+      "url": "https://au.store.bambulab.com/products/sunflower-windmill?id=750848707417001986",
+      "variant_id": "750848707417001986"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/51ca8d4d128e4562a6faf7d8adfd4630/ZH158.png",
+      "part_number": "ZH158",
+      "price": "4.99",
+      "region": "asia",
+      "sku": "750550365484392450",
+      "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
+      "url": "https://asia.store.bambulab.com/products/sunflower-windmill?id=750550365484392450",
+      "variant_id": "750550365484392450"
+    }
+  ]
+}

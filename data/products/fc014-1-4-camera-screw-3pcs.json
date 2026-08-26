@@ -1,0 +1,538 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "1-4-camera-screw-3pcs",
+      "product_id": "599471501924573184",
+      "region": "us"
+    },
+    {
+      "handle": "1-4-camera-screw-3pcs",
+      "product_id": "599470531893485568",
+      "region": "ca"
+    },
+    {
+      "handle": "1-4-camera-screw-3pcs",
+      "product_id": "599471690996621312",
+      "region": "eu"
+    },
+    {
+      "handle": "1-4-camera-screw-3pcs",
+      "product_id": "599469865002360832",
+      "region": "uk"
+    },
+    {
+      "handle": "1-4-camera-screw-3pcs",
+      "product_id": "599469358437949440",
+      "region": "au"
+    },
+    {
+      "handle": "1-4-camera-screw-3pcs",
+      "product_id": "599460289721204736",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/b2/b25f9ad52176a9a760786e4b83d0c74e8d2029378da42f3f5c14f3a2b871e3d9.png",
+      "id": "image-458389217dc30c76656d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-FC014-Z.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b25f9ad52176a9a760786e4b83d0c74e8d2029378da42f3f5c14f3a2b871e3d9",
+      "size": 515894,
+      "source_url": "https://store.bblcdn.com/s7/default/0b570f5faaa843009135fb105c6378df/B-FC014-Z.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2b/2be8e332543baf5f58269e503cd98f0516a86fef81a2fcc908754254eda98746.png",
+      "id": "image-95ababd32f0e74d22eb2",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-FC012.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2be8e332543baf5f58269e503cd98f0516a86fef81a2fcc908754254eda98746",
+      "size": 307394,
+      "source_url": "https://store.bblcdn.com/s7/default/d0d5b062cb6040cda58ed36528e061e4/B-FC012.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e0/e0364774f778b3df6225a6dd1298161f1a5004be85a894cfed407d733ded936a.png",
+      "id": "image-3057e86a2d75fbf4d52e",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-FC014-1-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e0364774f778b3df6225a6dd1298161f1a5004be85a894cfed407d733ded936a",
+      "size": 99695,
+      "source_url": "https://store.bblcdn.com/s7/default/80629220dd0f4cdb828a75d033390052/B-FC014-1-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/85/857203daff418e851c7c74caa9487567b7dfd006ace2ce833896b8b8f7939a24.pdf",
+      "id": "document-b05ae46cbfa6ea51f435",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "M2.5_Socket_Head_Cap_Machine_Screws_SHCS.pdf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "857203daff418e851c7c74caa9487567b7dfd006ace2ce833896b8b8f7939a24",
+      "size": 1484336,
+      "source_url": "https://store.bblcdn.com/s1/default/ee955b9f12aa49b88aab6da36d59bd24/M2.5_Socket_Head_Cap_Machine_Screws_SHCS.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/59/59e2c72f2ef8d96e8022e1594ed59b5cd9bee98ff5e8a930feb92a76eb237707.7z",
+      "id": "archive-23fe01f913bfeb7b0b6d",
+      "kind": "archive",
+      "media_type": "application/octet-stream",
+      "original_filename": "14__Camera_screw.7z",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "59e2c72f2ef8d96e8022e1594ed59b5cd9bee98ff5e8a930feb92a76eb237707",
+      "size": 804933,
+      "source_url": "https://store.bblcdn.com/s1/default/9fa753dcaca943f09f033bb05bc828f2/14__Camera_screw.7z"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4a/4a3997e3d0bd54752cfd4de0335e0dbbbff1cc86a1c058c8a2a3e52dc7143e0c.png",
+      "id": "image-display-856389a6b7d7b6b75525",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "b25f9ad52176a9a760786e4b83d0c74e8d2029378da42f3f5c14f3a2b871e3d9",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-FC014-Z.catalog.png",
+      "parent_asset_id": "image-458389217dc30c76656d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4a3997e3d0bd54752cfd4de0335e0dbbbff1cc86a1c058c8a2a3e52dc7143e0c",
+      "size": 157617,
+      "source_url": "https://store.bblcdn.com/s7/default/0b570f5faaa843009135fb105c6378df/B-FC014-Z.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/77/77209db839ef9dd63b7b10630fc5be3a2ebd89b07fa042e78535b974804e7757.png",
+      "id": "image-display-69d3a8a1c446d3f39b3b",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "2be8e332543baf5f58269e503cd98f0516a86fef81a2fcc908754254eda98746",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-FC012.catalog.png",
+      "parent_asset_id": "image-95ababd32f0e74d22eb2",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "77209db839ef9dd63b7b10630fc5be3a2ebd89b07fa042e78535b974804e7757",
+      "size": 121817,
+      "source_url": "https://store.bblcdn.com/s7/default/d0d5b062cb6040cda58ed36528e061e4/B-FC012.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7e/7e6068f07f9c3e1fbaa7a24b0ffbc6b919c5d6a88dc2fc05a3801cc39eec5b90.png",
+      "id": "image-display-e2fa45b041f95fd29a64",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e0364774f778b3df6225a6dd1298161f1a5004be85a894cfed407d733ded936a",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-FC014-1-1.catalog.png",
+      "parent_asset_id": "image-3057e86a2d75fbf4d52e",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7e6068f07f9c3e1fbaa7a24b0ffbc6b919c5d6a88dc2fc05a3801cc39eec5b90",
+      "size": 25135,
+      "source_url": "https://store.bblcdn.com/s7/default/80629220dd0f4cdb828a75d033390052/B-FC014-1-1.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Fasteners"
+  ],
+  "category_assignments": [
+    {
+      "id": "fasteners",
+      "label": "Fasteners",
+      "path": [
+        "Hardware",
+        "Fasteners"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[1]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Product Feature"
+    },
+    {
+      "kind": "bullet",
+      "text": "Made of corrosion-resistant stainless steel, durable and anti-rust"
+    },
+    {
+      "kind": "bullet",
+      "text": "Standard 1/4''- 20 UNC coarse thread, suitable for common photography and industrial mounting systems"
+    },
+    {
+      "kind": "bullet",
+      "text": "Precision-machined hex socket for easy installation with Allen wrench"
+    },
+    {
+      "kind": "bullet",
+      "text": "With bottom groove diameter for positioning or locking structures"
+    },
+    {
+      "kind": "bullet",
+      "text": "Ideal for camera tripod plates, rig systems, or quick-release systems"
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"gap: 40px; display: flex; justify-content: center;\"><a href=\"https://store.bblcdn.com/s1/default/ee955b9f12aa49b88aab6da36d59bd24/M2.5_Socket_Head_Cap_Machine_Screws_SHCS.pdf\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"></a> <a href=\"https://store.bblcdn.com/s1/default/9fa753dcaca943f09f033bb05bc828f2/14__Camera_screw.7z\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" height=\"65\" width=\"55\"> <path d=\"M37.7154 0.802246L54.9999 16.8008V63.3224C54.9999 64.1367 54.3397 64.7969 53.5254 64.7969H5.16076C4.3464 64.7969 3.68623 64.1367 3.68623 63.3224V2.27677C3.68623 1.46241 4.3464 0.802246 5.16076 0.802246H37.7154Z\" fill=\"#60BB18\"></path> <path d=\"M5.8981 4.48869C5.8981 3.67433 6.55827 3.01416 7.37263 3.01416H36.5374C36.9344 3.01416 37.3146 3.17423 37.592 3.45817L44.4342 10.4605L52.2567 16.9683C52.5934 17.2485 52.7882 17.6638 52.7882 18.1019V61.1107C52.7882 61.925 52.128 62.5852 51.3136 62.5852H7.37263C6.55827 62.5852 5.8981 61.925 5.8981 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#60BB18\" height=\"23.5925\" width=\"45.563\" y=\"24.3948\"></rect> <path d=\"M20.3197 33.5191C20.3197 34.0039 20.2189 34.4239 20.0174 34.7791C19.8158 35.1342 19.5422 35.4246 19.1966 35.6502C18.8558 35.8758 18.4718 36.0414 18.0446 36.147V36.1902C18.8894 36.2958 19.5302 36.555 19.967 36.9678C20.4085 37.3806 20.6293 37.9326 20.6293 38.6238C20.6293 39.2382 20.4781 39.7878 20.1757 40.2725C19.8782 40.7573 19.4174 41.1389 18.7934 41.4173C18.1694 41.6957 17.3654 41.8349 16.3814 41.8349C15.8006 41.8349 15.2582 41.7869 14.7543 41.6909C14.2551 41.5997 13.7847 41.4581 13.3431 41.2661V39.3726C13.7943 39.603 14.2671 39.7782 14.7615 39.8982C15.2558 40.0134 15.7166 40.0709 16.1438 40.0709C16.9406 40.0709 17.4974 39.9342 17.8142 39.6606C18.1358 39.3822 18.2966 38.9934 18.2966 38.4942C18.2966 38.2014 18.2222 37.9542 18.0734 37.7526C17.9246 37.551 17.6654 37.3974 17.2958 37.2918C16.931 37.1862 16.4198 37.1334 15.7622 37.1334H14.9631V35.427H15.7766C16.4246 35.427 16.9166 35.367 17.2526 35.247C17.5934 35.1222 17.8238 34.9543 17.9438 34.7431C18.0686 34.5271 18.131 34.2823 18.131 34.0087C18.131 33.6343 18.0158 33.3415 17.7854 33.1303C17.555 32.9191 17.171 32.8135 16.6334 32.8135C16.2974 32.8135 15.9902 32.8567 15.7118 32.9431C15.4382 33.0247 15.191 33.1255 14.9703 33.2455C14.7495 33.3607 14.5551 33.4735 14.3871 33.5839L13.3575 32.0503C13.7703 31.7527 14.2527 31.5055 14.8047 31.3087C15.3614 31.1119 16.0238 31.0135 16.7918 31.0135C17.8766 31.0135 18.7358 31.2319 19.3694 31.6687C20.003 32.1055 20.3197 32.7223 20.3197 33.5191ZM31.2779 36.327C31.2779 37.5126 31.0499 38.5038 30.5939 39.3006C30.1428 40.0925 29.4876 40.6901 28.6284 41.0933C27.7692 41.4917 26.7348 41.6909 25.5252 41.6909H22.5445V31.1647H25.8492C26.9532 31.1647 27.9108 31.3615 28.722 31.7551C29.5332 32.1439 30.162 32.7223 30.6083 33.4903C31.0547 34.2535 31.2779 35.199 31.2779 36.327ZM28.9596 36.3846C28.9596 35.607 28.8444 34.9687 28.614 34.4695C28.3884 33.9655 28.0524 33.5935 27.606 33.3535C27.1644 33.1135 26.6172 32.9935 25.9644 32.9935H24.7765V39.8478H25.734C26.8236 39.8478 27.6324 39.5574 28.1604 38.9766C28.6932 38.3958 28.9596 37.5318 28.9596 36.3846Z\" fill=\"white\"></path> <path d=\"M37.6006 18.3492H55.0001L36.1261 0.802246V16.8746C36.1261 17.689 36.7863 18.3492 37.6006 18.3492Z\" fill=\"#60BB18\"></path> </svg> 3D Model </a></p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<h2 class=\"pct_t\"></h2>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"border-color: #adadad; font-weight: bold; height: 113px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 94px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 94px; width: 102.641px; padding: 10px !important;\">\n<div style=\"text-align: center;\">Product ID</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 94px; width: 110.969px; padding: 10px !important;\">\n<div>L1(mm)</div>\n<p>Bolt Length</p>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 94px; width: 70.2031px; padding: 10px !important;\">L2 (mm)\n<p>Thread Length</p>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 94px; width: 91.0625px; padding: 10px !important;\">\n<div>H (mm)</div>\n<p>Head Thickness</p>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 94px; width: 94.0938px; padding: 10px !important;\">\n<div>D (mm)</div>\n<p>Head Diameter</p>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 94px; width: 129.641px; padding: 10px !important;\">\n<div>k (mm)</div>\n<p>Hexagon Across Flats</p>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 94px; width: 91.4062px; padding: 10px !important;\">\n<p>Screwdriver Bit</p>\n<p>Size</p>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 19px; width: 102.641px; padding: 10px !important;\">FC014</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 110.969px; padding: 10px !important;\">6.5</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 70.2031px; padding: 10px !important;\">5</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 91.0625px; padding: 10px !important;\">3.5</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 94.0938px; padding: 10px !important;\">12</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 129.641px; padding: 10px !important;\">4.0</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 91.4062px; padding: 10px !important;\">H4.0</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 19px; width: 102.641px; padding: 10px !important;\">FC012</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 110.969px; padding: 10px !important;\">5</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 70.2031px; padding: 10px !important;\">7.5</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 91.0625px; padding: 10px !important;\">3.5</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 94.0938px; padding: 10px !important;\">12</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 129.641px; padding: 10px !important;\">4.0</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 91.4062px; padding: 10px !important;\">H4.0</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: center; margin-top: 30px;\"></p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<h2 class=\"pct_t\">Basic Information</h2>\n<p style=\"text-align: center; margin-top: 15px;\"> </p>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\"><!-- 第一条 -->\n<div class=\"pct_ic-p\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Surface Treatment</td>\n<td class=\"pct_td\">Passivated Stainless Steel</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Mounting Hole Shape</td>\n<td class=\"pct_td\">Hex socket</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Screw Type</td>\n<td class=\"pct_td\">Half thread</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 --></div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Material</td>\n<td class=\"pct_td\">Stainless steel</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Thread Ridge Type</td>\n<td class=\"pct_td\">UNC / Coarse Thread</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Color</td>\n<td class=\"pct_td\">Silver</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 --></div>\n</div>\n<!-- 如需添加在此处添加 --></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Product Feature</h2>\n<br/>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"E2EldlD8xo3Pl7xVAGGcMKlznnd\">\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-HSjXddYfYo3dpexESScc7nwQnEb\" data-list=\"bullet\">\n<div>Made of corrosion-resistant stainless steel, durable and anti-rust</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-UZOSdVqZKoSdzax3fXAcsmaOnDf\" data-list=\"bullet\">\n<div>Standard 1/4''- 20 UNC coarse thread, suitable for common photography and industrial mounting systems</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-AEz9dVudSolh95xXt8ScuFkQnTd\" data-list=\"bullet\">\n<div>Precision-machined hex socket for easy installation with Allen wrench</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-ZdScdW8XloIM5qxHeUmc1tKcnbf\" data-list=\"bullet\">\n<div>With bottom groove diameter for positioning or locking structures</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-OPbAdscFLoskSMxPVoxcIRC9nub\" data-list=\"bullet\">\n<div>Ideal for camera tripod plates, rig systems, or quick-release systems</div>\n</li>\n</ul>\n</div>\n</div>\n<!-- 标题加文案结束 --></div>\n</div>",
+  "description_text": "Made of corrosion-resistant stainless steel, durable and anti-rust\n\nStandard 1/4''- 20 UNC coarse thread, suitable for common photography and industrial mounting systems\n\nPrecision-machined hex socket for easy installation with Allen wrench\n\nWith bottom groove diameter for positioning or locking structures\n\nIdeal for camera tripod plates, rig systems, or quick-release systems",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "fc014-1-4-camera-screw-3pcs",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "1/4'' - Camera screw (3PCS)",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/1-4-camera-screw-3pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/1-4-camera-screw-3pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/1-4-camera-screw-3pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/1-4-camera-screw-3pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/1-4-camera-screw-3pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/1-4-camera-screw-3pcs?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-FC012",
+    "B-FC014",
+    "FC012",
+    "FC014"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "599460289729593346",
+    "599469358450532354",
+    "599469865014943746",
+    "599470531901874178",
+    "599471501932961794",
+    "599471691013398530",
+    "608531874242805762",
+    "608536789971963906",
+    "608537410271592449",
+    "608537891442278402",
+    "608538338674167810",
+    "608538628711993346"
+  ],
+  "source_tables": [
+    {
+      "caption": "",
+      "headers": [
+        "Product ID",
+        "L1(mm) Bolt Length",
+        "L2 (mm) Thread Length",
+        "H (mm) Head Thickness",
+        "D (mm) Head Diameter",
+        "k (mm) Hexagon Across Flats",
+        "Screwdriver Bit Size"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/1-4-camera-screw-3pcs?id=599471501932961794"
+      },
+      "rows": [
+        [
+          "FC014",
+          "6.5",
+          "5",
+          "3.5",
+          "12",
+          "4.0",
+          "H4.0"
+        ],
+        [
+          "FC012",
+          "5",
+          "7.5",
+          "3.5",
+          "12",
+          "4.0",
+          "H4.0"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/1-4-camera-screw-3pcs?id=599471501932961794"
+      },
+      "rows": [
+        [
+          "Surface Treatment",
+          "Passivated Stainless Steel"
+        ],
+        [
+          "Mounting Hole Shape",
+          "Hex socket"
+        ],
+        [
+          "Screw Type",
+          "Half thread"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/1-4-camera-screw-3pcs?id=599471501932961794"
+      },
+      "rows": [
+        [
+          "Material",
+          "Stainless steel"
+        ],
+        [
+          "Thread Ridge Type",
+          "UNC / Coarse Thread"
+        ],
+        [
+          "Color",
+          "Silver"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Color": "Silver",
+    "Material": "Stainless steel",
+    "Mounting Hole Shape": "Hex socket",
+    "Screw Type": "Half thread",
+    "Surface Treatment": "Passivated Stainless Steel",
+    "Thread Ridge Type": "UNC / Coarse Thread"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/0b570f5faaa843009135fb105c6378df/B-FC014-Z.png",
+      "part_number": "FC014",
+      "price": "2.99",
+      "region": "us",
+      "sku": "599471501932961794",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x15 Camera screw (3PCS) - FC014",
+      "url": "https://us.store.bambulab.com/products/1-4-camera-screw-3pcs?id=599471501932961794",
+      "variant_id": "599471501932961794"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/d0d5b062cb6040cda58ed36528e061e4/B-FC012.png",
+      "part_number": "FC012",
+      "price": "2.99",
+      "region": "us",
+      "sku": "608538338674167810",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x16 Camera screw (3PCS) - FC012",
+      "url": "https://us.store.bambulab.com/products/1-4-camera-screw-3pcs?id=608538338674167810",
+      "variant_id": "608538338674167810"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/6f29250b57ff4bd9b186472931a1e030/B-FC014-Z.png",
+      "part_number": "FC014",
+      "price": "3.99",
+      "region": "ca",
+      "sku": "599470531901874178",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x15 Camera screw (3PCS) - FC014",
+      "url": "https://ca.store.bambulab.com/products/1-4-camera-screw-3pcs?id=599470531901874178",
+      "variant_id": "599470531901874178"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/37981bda9a0c4cfb87224b0ee1627438/B-FC012.png",
+      "part_number": "FC012",
+      "price": "3.99",
+      "region": "ca",
+      "sku": "608537891442278402",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x16 Camera screw (3PCS) - FC012",
+      "url": "https://ca.store.bambulab.com/products/1-4-camera-screw-3pcs?id=608537891442278402",
+      "variant_id": "608537891442278402"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/93bcc99dc8494178835db550567278c4/B-FC014-Z.png",
+      "part_number": "FC014",
+      "price": "3.99",
+      "region": "eu",
+      "sku": "599471691013398530",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x15 Camera screw (3PCS) - FC014",
+      "url": "https://eu.store.bambulab.com/products/1-4-camera-screw-3pcs?id=599471691013398530",
+      "variant_id": "599471691013398530"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/a99f3c38c5594dbfb2b11204caaf5f0d/B-FC012.png",
+      "part_number": "FC012",
+      "price": "3.99",
+      "region": "eu",
+      "sku": "608538628711993346",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x16 Camera screw (3PCS) - FC012",
+      "url": "https://eu.store.bambulab.com/products/1-4-camera-screw-3pcs?id=608538628711993346",
+      "variant_id": "608538628711993346"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/bd2c11898902424990b4ec28934a57a4/B-FC014-Z.png",
+      "part_number": "FC014",
+      "price": "2.99",
+      "region": "uk",
+      "sku": "599469865014943746",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x15 Camera screw (3PCS) - FC014",
+      "url": "https://uk.store.bambulab.com/products/1-4-camera-screw-3pcs?id=599469865014943746",
+      "variant_id": "599469865014943746"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/14d20141a0af4cfd8a678902e2fbe7df/B-FC012.png",
+      "part_number": "FC012",
+      "price": "2.99",
+      "region": "uk",
+      "sku": "608537410271592449",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x16 Camera screw (3PCS) - FC012",
+      "url": "https://uk.store.bambulab.com/products/1-4-camera-screw-3pcs?id=608537410271592449",
+      "variant_id": "608537410271592449"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/9d40dc446eb4424c8560162d32b66033/B-FC014-Z.png",
+      "part_number": "FC014",
+      "price": "5.99",
+      "region": "au",
+      "sku": "599469358450532354",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x15 Camera screw (3PCS) - FC014",
+      "url": "https://au.store.bambulab.com/products/1-4-camera-screw-3pcs?id=599469358450532354",
+      "variant_id": "599469358450532354"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/c2b9107c2f074a9e973d0192cbb1f565/B-FC012.png",
+      "part_number": "FC012",
+      "price": "5.99",
+      "region": "au",
+      "sku": "608536789971963906",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x16 Camera screw (3PCS) - FC012",
+      "url": "https://au.store.bambulab.com/products/1-4-camera-screw-3pcs?id=608536789971963906",
+      "variant_id": "608536789971963906"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/b0f72af8e1f04bd690e9f15299b771c8/B-FC014-Z.png",
+      "part_number": "FC014",
+      "price": "2.99",
+      "region": "asia",
+      "sku": "599460289729593346",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x15 Camera screw (3PCS) - FC014",
+      "url": "https://asia.store.bambulab.com/products/1-4-camera-screw-3pcs?id=599460289729593346",
+      "variant_id": "599460289729593346"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/76682470c6c64e33af9cdf3174aaed72/B-FC012.png",
+      "part_number": "FC012",
+      "price": "2.99",
+      "region": "asia",
+      "sku": "608531874242805762",
+      "title": "1/4'' - Camera screw (3PCS) - 1/4'' - 12x16 Camera screw (3PCS) - FC012",
+      "url": "https://asia.store.bambulab.com/products/1-4-camera-screw-3pcs?id=608531874242805762",
+      "variant_id": "608531874242805762"
+    }
+  ]
+}

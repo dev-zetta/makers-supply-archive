@@ -1,0 +1,551 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "self-locking-button-switch-with-sh1-0-connector",
+      "product_id": "7975713570952",
+      "region": "us"
+    },
+    {
+      "handle": "self-locking-button-switch-with-sh1-0-connector",
+      "product_id": "8650980950256",
+      "region": "ca"
+    },
+    {
+      "handle": "self-locking-button-switch-with-sh1-0-connector",
+      "product_id": "8855747035484",
+      "region": "eu"
+    },
+    {
+      "handle": "self-locking-button-switch-with-sh1-0-connector",
+      "product_id": "7390466211900",
+      "region": "uk"
+    },
+    {
+      "handle": "self-locking-button-switch-with-sh1-0-connector",
+      "product_id": "8312079745187",
+      "region": "au"
+    },
+    {
+      "handle": "self-locking-button-switch-with-sh1-0-connector",
+      "product_id": "7491346301043",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/a2/a2d5a0d8cab411ac6f0606196c5ebee78f4421cf3485ac5cf8324489ccb391f5.png",
+      "id": "image-9075c20a48d8e50f2927",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "IA006.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a2d5a0d8cab411ac6f0606196c5ebee78f4421cf3485ac5cf8324489ccb391f5",
+      "size": 435324,
+      "source_url": "https://store.bblcdn.eu/s8/default/8c9448ef24324e22a468df8cd86d66f1/IA006.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/78/78e2fd53b1865284ecab99b72fd1dbf9c94abcb328a5307e4489162217aef8fa.png",
+      "id": "image-0b0d041eb46b7e848243",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Self-Locking_Button_Switch_with_SH1.0_Connector.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "78e2fd53b1865284ecab99b72fd1dbf9c94abcb328a5307e4489162217aef8fa",
+      "size": 141121,
+      "source_url": "https://store.bblcdn.eu/s8/default/5acb3c7c4a8e4d30ae3e1c1355262083/Self-Locking_Button_Switch_with_SH1.0_Connector.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/70/70134b86cc058fee63e5b6acad733f7e44807c1507c54c2e9492b29717a84127.png",
+      "id": "image-2dbedf968e2857d5c1a5",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Self-LockingButtonSwitchwithSH1.0Connector-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "70134b86cc058fee63e5b6acad733f7e44807c1507c54c2e9492b29717a84127",
+      "size": 101868,
+      "source_url": "https://store.bblcdn.eu/s8/default/1d1f1c6544ac4ca7b1d4665783917bcf/Self-LockingButtonSwitchwithSH1.0Connector-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/16/16fe8b4a1955a247ed79388734d6215d405367e821e92ce74fef302c2d03eb8e.zip",
+      "id": "archive-29e23ffaa8a6a09fdde2",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Self-Locking_Button_Switch_with_SH1.0_Connector.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "16fe8b4a1955a247ed79388734d6215d405367e821e92ce74fef302c2d03eb8e",
+      "size": 381271,
+      "source_url": "https://store.bblcdn.com/s7/default/20071c195ecb4fa08dbc14b1d911a385/Self-Locking_Button_Switch_with_SH1.0_Connector.zip"
+    },
+    {
+      "archive_member_path": "Self-Locking Button Switch with SH1.0 Connector/Self-Locking Button Switch - IA006.stl",
+      "blob_path": "data/blobs/sha256/d3/d3d49acd428f989bd581c7a640f78b80b57584f0338fc2390c9df1c3c38966ca.stl",
+      "id": "model-c38e1ca787f43cd262cc",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Self-Locking Button Switch - IA006.stl",
+      "parent_asset_id": "archive-29e23ffaa8a6a09fdde2",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "d3d49acd428f989bd581c7a640f78b80b57584f0338fc2390c9df1c3c38966ca",
+      "size": 285184,
+      "source_url": "https://store.bblcdn.com/s7/default/20071c195ecb4fa08dbc14b1d911a385/Self-Locking_Button_Switch_with_SH1.0_Connector.zip"
+    },
+    {
+      "archive_member_path": "Self-Locking Button Switch with SH1.0 Connector/Self-Locking Button Switch - IA006.stp",
+      "blob_path": "data/blobs/sha256/15/1593ce0dc95f818be6d9484a04aaef1a52eb94cc51640de2157109a6fbd7a037.stp",
+      "id": "model-fd9d612dce6a9727ffa7",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Self-Locking Button Switch - IA006.stp",
+      "parent_asset_id": "archive-29e23ffaa8a6a09fdde2",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "1593ce0dc95f818be6d9484a04aaef1a52eb94cc51640de2157109a6fbd7a037",
+      "size": 1691512,
+      "source_url": "https://store.bblcdn.com/s7/default/20071c195ecb4fa08dbc14b1d911a385/Self-Locking_Button_Switch_with_SH1.0_Connector.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4b/4bdafed116fd799b7431ba0776463d626f51161bdd4bb33cfdecc6de6098b063.zip",
+      "id": "archive-bf139f2258166bdce0d6",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "4bdafed116fd799b7431ba0776463d626f51161bdd4bb33cfdecc6de6098b063",
+      "size": 19264967,
+      "source_url": "https://store.bblcdn.com/s7/default/3647f6aa229243df8dcad867e80dcf83/Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip"
+    },
+    {
+      "archive_member_path": "Self-Locking Button Switch - IA006 Application Instruction/Adjustment Switch Knob Design Guide/Assembly of Adjustment Switch Knob.stl",
+      "blob_path": "data/blobs/sha256/0b/0b810aca40ba35f5a45f10cebda46f3fbe551fe6646e7b9a51d68c7b186dfd1a.stl",
+      "id": "model-483ba58f54453a6c5ee9",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Assembly of Adjustment Switch Knob.stl",
+      "parent_asset_id": "archive-bf139f2258166bdce0d6",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "0b810aca40ba35f5a45f10cebda46f3fbe551fe6646e7b9a51d68c7b186dfd1a",
+      "size": 2133584,
+      "source_url": "https://store.bblcdn.com/s7/default/3647f6aa229243df8dcad867e80dcf83/Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip"
+    },
+    {
+      "archive_member_path": "Self-Locking Button Switch - IA006 Application Instruction/Adjustment Switch Knob Design Guide/Assembly of Adjustment Switch Knob.stp",
+      "blob_path": "data/blobs/sha256/90/90df55422bb6f4b9a88434008a7c187679518d4cae7a43f29488504d403ba101.stp",
+      "id": "model-d791e85c9d2c07568568",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Assembly of Adjustment Switch Knob.stp",
+      "parent_asset_id": "archive-bf139f2258166bdce0d6",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "90df55422bb6f4b9a88434008a7c187679518d4cae7a43f29488504d403ba101",
+      "size": 14772577,
+      "source_url": "https://store.bblcdn.com/s7/default/3647f6aa229243df8dcad867e80dcf83/Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip"
+    },
+    {
+      "archive_member_path": "Self-Locking Button Switch - IA006 Application Instruction/Adjustment Switch Knob Design Guide/Printed Parts of Adjustment Switch Knob.3mf",
+      "blob_path": "data/blobs/sha256/ef/ef25893b4b964e1f2de0e1351bc535aedf3cdd133245c5f9f6ac210a7243ab6c.3mf",
+      "id": "model-137be36070ff7ed41dd0",
+      "kind": "model",
+      "media_type": "application/vnd.ms-3mfdocument",
+      "original_filename": "Printed Parts of Adjustment Switch Knob.3mf",
+      "parent_asset_id": "archive-bf139f2258166bdce0d6",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "ef25893b4b964e1f2de0e1351bc535aedf3cdd133245c5f9f6ac210a7243ab6c",
+      "size": 13298570,
+      "source_url": "https://store.bblcdn.com/s7/default/3647f6aa229243df8dcad867e80dcf83/Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e3/e366f96e23aeb26aaa58f8cde632c8c8d02eedef93c8aeea819028acae04e281.zip",
+      "id": "archive-53d42da936a69e2d51fa",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "PDB_Potentiometer_Board_Self-Locking_Button_Switch-IA006.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "e366f96e23aeb26aaa58f8cde632c8c8d02eedef93c8aeea819028acae04e281",
+      "size": 1254057,
+      "source_url": "https://store.bblcdn.com/s7/default/14f1135da68045d4bf193d7a76037c9a/PDB_Potentiometer_Board_Self-Locking_Button_Switch-IA006.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d4/d4886a627c56e9da7208673913ff54bd308b31e64a2a52a65a2682a3b2a0a7c6.png",
+      "id": "image-display-5e0ef970fd7c1c786662",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "a2d5a0d8cab411ac6f0606196c5ebee78f4421cf3485ac5cf8324489ccb391f5",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "IA006.catalog.png",
+      "parent_asset_id": "image-9075c20a48d8e50f2927",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d4886a627c56e9da7208673913ff54bd308b31e64a2a52a65a2682a3b2a0a7c6",
+      "size": 111459,
+      "source_url": "https://store.bblcdn.eu/s8/default/8c9448ef24324e22a468df8cd86d66f1/IA006.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4c/4c3b74cf5b9c037e678bafa38d6aa463e677a8578fbdb60282923de3086e71f4.png",
+      "id": "image-display-998b2b78afdaa73cddc3",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "78e2fd53b1865284ecab99b72fd1dbf9c94abcb328a5307e4489162217aef8fa",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Self-Locking_Button_Switch_with_SH1.0_Connector.catalog.png",
+      "parent_asset_id": "image-0b0d041eb46b7e848243",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4c3b74cf5b9c037e678bafa38d6aa463e677a8578fbdb60282923de3086e71f4",
+      "size": 42673,
+      "source_url": "https://store.bblcdn.eu/s8/default/5acb3c7c4a8e4d30ae3e1c1355262083/Self-Locking_Button_Switch_with_SH1.0_Connector.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5c/5cd6f565693cd5e9854cad4dfe705c962184187cf804fffbdff7e1694aada985.png",
+      "id": "image-display-360d085e51447191cd09",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "70134b86cc058fee63e5b6acad733f7e44807c1507c54c2e9492b29717a84127",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Self-LockingButtonSwitchwithSH1.0Connector-1.catalog.png",
+      "parent_asset_id": "image-2dbedf968e2857d5c1a5",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5cd6f565693cd5e9854cad4dfe705c962184187cf804fffbdff7e1694aada985",
+      "size": 29028,
+      "source_url": "https://store.bblcdn.eu/s8/default/1d1f1c6544ac4ca7b1d4665783917bcf/Self-LockingButtonSwitchwithSH1.0Connector-1.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[6]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Instruction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Used with a Power Distribution Board (PDB) - 4 Channels, it controls the ON/OFF state of the corresponding channel, thereby achieving the function of switch control."
+    },
+    {
+      "kind": "bullet",
+      "text": "The Self-Locking Button Switch with SH1.0 Connector is a switch device that can be connected to SW0~4 on the Power Distribution Board (PDB) to control the switch of electric devices. Pressing the button down connects the circuit; pressing it again pops it up and disconnects the circuit."
+    },
+    {
+      "kind": "bullet",
+      "text": "When the Self-Locking Button Switch is connected to SW1~4, it's necessary to ensure that the maximum current of the electric devices in each corresponding channel does not exceed 1A."
+    },
+    {
+      "kind": "bullet",
+      "text": "When the Self-Locking Button Switch is connected to the SW0, it's necessary to ensure that the sum of the maximum currents of all electric devices does not exceed 1A."
+    },
+    {
+      "kind": "bullet",
+      "text": "Secured with two M2 screws."
+    },
+    {
+      "kind": "heading",
+      "text": "Electronics System"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The components of this circuit set can be divided into five categories: Power Distribution Board (PDB) - 4 Channels, power-type devices, power supply devices, switch devices, and wires. The Power Distribution Board has channels for connecting power supply devices, switch devices, and electric devices. Please refer to the figure below for the devices supported by each connector. The IN is used to connect various power supply devices, such as AA Battery Case and USB-A Power Cable; the CH1-4 are used to connect various electric devices, such as N20 Reduction Gear Motor (150rpm) and 4 White 3030-LED Board, and supports up to 4 connections; the SW0~4 is used to connect various switch devices, such as Self-locking Button Switch, Potentiometer Board, and Jumper Cable. Please do not connect electric devices to the SW0~4, and likewise, do not connect switches to the CH1~4. The OUT is used to connect to the next Power Distribution Board to achieve connector expansion. To learn more about this case, please refer to the Application Instruction."
+    },
+    {
+      "kind": "heading",
+      "text": "Consideration"
+    },
+    {
+      "kind": "bullet",
+      "text": "Please do not forcefully twist the connectors to avoid wires loosening or detaching."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a class=\"download_svg\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\"> </a><a href=\"https://store.bblcdn.com/s7/default/20071c195ecb4fa08dbc14b1d911a385/Self-Locking_Button_Switch_with_SH1.0_Connector.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M37.7154 0.802246L54.9999 16.8008V63.3224C54.9999 64.1367 54.3397 64.7969 53.5254 64.7969H5.16076C4.3464 64.7969 3.68623 64.1367 3.68623 63.3224V2.27677C3.68623 1.46241 4.3464 0.802246 5.16076 0.802246H37.7154Z\" fill=\"#60BB18\" fill-rule=\"evenodd\"></path> <path d=\"M5.8981 4.48869C5.8981 3.67433 6.55827 3.01416 7.37263 3.01416H36.5374C36.9344 3.01416 37.3146 3.17423 37.592 3.45817L44.4342 10.4605L52.2567 16.9683C52.5934 17.2485 52.7882 17.6638 52.7882 18.1019V61.1107C52.7882 61.925 52.128 62.5852 51.3136 62.5852H7.37263C6.55827 62.5852 5.8981 61.925 5.8981 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#60BB18\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" y=\"24.3948\"></rect> <path d=\"M20.3197 33.5191C20.3197 34.0039 20.2189 34.4239 20.0174 34.7791C19.8158 35.1342 19.5422 35.4246 19.1966 35.6502C18.8558 35.8758 18.4718 36.0414 18.0446 36.147V36.1902C18.8894 36.2958 19.5302 36.555 19.967 36.9678C20.4085 37.3806 20.6293 37.9326 20.6293 38.6238C20.6293 39.2382 20.4781 39.7878 20.1757 40.2725C19.8782 40.7573 19.4174 41.1389 18.7934 41.4173C18.1694 41.6957 17.3654 41.8349 16.3814 41.8349C15.8006 41.8349 15.2582 41.7869 14.7543 41.6909C14.2551 41.5997 13.7847 41.4581 13.3431 41.2661V39.3726C13.7943 39.603 14.2671 39.7782 14.7615 39.8982C15.2558 40.0134 15.7166 40.0709 16.1438 40.0709C16.9406 40.0709 17.4974 39.9342 17.8142 39.6606C18.1358 39.3822 18.2966 38.9934 18.2966 38.4942C18.2966 38.2014 18.2222 37.9542 18.0734 37.7526C17.9246 37.551 17.6654 37.3974 17.2958 37.2918C16.931 37.1862 16.4198 37.1334 15.7622 37.1334H14.9631V35.427H15.7766C16.4246 35.427 16.9166 35.367 17.2526 35.247C17.5934 35.1222 17.8238 34.9543 17.9438 34.7431C18.0686 34.5271 18.131 34.2823 18.131 34.0087C18.131 33.6343 18.0158 33.3415 17.7854 33.1303C17.555 32.9191 17.171 32.8135 16.6334 32.8135C16.2974 32.8135 15.9902 32.8567 15.7118 32.9431C15.4382 33.0247 15.191 33.1255 14.9703 33.2455C14.7495 33.3607 14.5551 33.4735 14.3871 33.5839L13.3575 32.0503C13.7703 31.7527 14.2527 31.5055 14.8047 31.3087C15.3614 31.1119 16.0238 31.0135 16.7918 31.0135C17.8766 31.0135 18.7358 31.2319 19.3694 31.6687C20.003 32.1055 20.3197 32.7223 20.3197 33.5191ZM31.2779 36.327C31.2779 37.5126 31.0499 38.5038 30.5939 39.3006C30.1428 40.0925 29.4876 40.6901 28.6284 41.0933C27.7692 41.4917 26.7348 41.6909 25.5252 41.6909H22.5445V31.1647H25.8492C26.9532 31.1647 27.9108 31.3615 28.722 31.7551C29.5332 32.1439 30.162 32.7223 30.6083 33.4903C31.0547 34.2535 31.2779 35.199 31.2779 36.327ZM28.9596 36.3846C28.9596 35.607 28.8444 34.9687 28.614 34.4695C28.3884 33.9655 28.0524 33.5935 27.606 33.3535C27.1644 33.1135 26.6172 32.9935 25.9644 32.9935H24.7765V39.8478H25.734C26.8236 39.8478 27.6324 39.5574 28.1604 38.9766C28.6932 38.3958 28.9596 37.5318 28.9596 36.3846Z\" fill=\"white\"></path> <path d=\"M37.6006 18.3492H55.0001L36.1261 0.802246V16.8746C36.1261 17.689 36.7863 18.3492 37.6006 18.3492Z\" fill=\"#60BB18\"></path> </svg> 3D Model </a> <a href=\"https://store.bblcdn.com/s7/default/3647f6aa229243df8dcad867e80dcf83/Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 65 65\" width=\"65\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M34.7087 0.802246L51.9921 16.7998V63.2344C51.9921 64.0948 51.2946 64.7922 50.4342 64.7922H2.24001C1.37961 64.7922 0.682129 64.0948 0.682129 63.2344V2.36012C0.682129 1.49973 1.37961 0.802246 2.24001 0.802246H34.7087Z\" fill=\"#2172D0\" fill-rule=\"evenodd\"></path> <path d=\"M2.89377 4.57204C2.89377 3.71164 3.59125 3.01416 4.45165 3.01416H33.4957C33.9151 3.01416 34.3168 3.18328 34.6099 3.48327L41.4271 10.46L49.2189 16.9423C49.5747 17.2383 49.7804 17.6771 49.7804 18.1399V61.023C49.7804 61.8834 49.083 62.5809 48.2226 62.5809H4.45164C3.59125 62.5809 2.89377 61.8834 2.89377 61.023V4.57204Z\" fill=\"white\"></path> <path d=\"M34.6774 18.3479H51.9922L33.1196 0.802246V16.79C33.1196 17.6504 33.8171 18.3479 34.6774 18.3479Z\" fill=\"#2172D0\"></path> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"9.99928\" x=\"8.99524\" y=\"16.801\"></rect> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"9.99928\" x=\"8.99524\" y=\"34.7998\"></rect> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"23.9983\" x=\"8.99524\" y=\"25.8005\"></rect> <circle cx=\"44.9022\" cy=\"44.7086\" fill=\"white\" r=\"10.7622\" stroke=\"#2172D0\" stroke-width=\"2.47381\" transform=\"rotate(-49.859 44.9022 44.7086)\"></circle> <path d=\"M60.723 60.9036C61.7674 61.7844 63.3281 61.6517 64.2089 60.6073C65.0897 59.5628 64.957 58.0021 63.9126 57.1214L60.723 60.9036ZM52.2213 53.7341L60.723 60.9036L63.9126 57.1214L55.4109 49.9519L52.2213 53.7341Z\" fill=\"#2172D0\"></path> </svg> Application Instruction </a></p>\n</div>\n<div class=\"pct pct_mc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<p class=\"pct_p\"></p>\n<h3 class=\"pct_st\"><strong>Overview<strong></strong></strong></h3>\nThe following models all require the use of a <strong>Self-Locking Button Switch.</strong> To complete the assembly of a full model, users need to download the model files and 3D print the remaining parts.\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Models Using This Part</strong></td>\n<td class=\"pct_td\"><strong>Creators</strong></td>\n<td class=\"pct_td\"><b>Model Links</b></td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-WN9wdvxjroLLKUxZrwrcWzjZnhd\">Endless Loop Express</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\">IMD_Q.</td>\n<td class=\"pct_td\"><a href=\"https://makerworld.com/en/models/431820?from=search#profileId-348512\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong>Endless Loop Express</strong></span></a></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Running Dinosaur Automaton</td>\n<td class=\"pct_td\"><span>Amao Chan</span></td>\n<td class=\"pct_td\"><a href=\"https://makerworld.com/zh/models/422534#profileId-325850\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Running Dinosaur Automaton</span></strong></a></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Mini Motorized Basketball Game</td>\n<td class=\"pct_td\">Kit Crafters</td>\n<td class=\"pct_td\"><a href=\"https://makerworld.com/zh/models/420464#profileId-323162\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span>Mini Motorized Basketball Game</span></strong></span></a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_st\"></h2>\n<p> </p>\n<h2 class=\"pct_t\">Instruction</h2>\n<h2 class=\"pct_st\"></h2>\n<p>Used with a Power Distribution Board (PDB) - 4 Channels, it controls the ON/OFF state of the corresponding channel, thereby achieving the function of switch control.</p>\n<ul>\n<li>\n<p>The Self-Locking Button Switch with SH1.0 Connector is a switch device that can be connected to SW0~4 on the Power Distribution Board (PDB) to control the switch of electric devices. Pressing the button down connects the circuit; pressing it again pops it up and disconnects the circuit.</p>\n</li>\n<li>\n<p>When the Self-Locking Button Switch is connected to SW1~4, it's necessary to ensure that the maximum current of the electric devices in each corresponding channel does not exceed 1A.</p>\n</li>\n<li>\n<p>When the Self-Locking Button Switch is connected to the SW0, it's necessary to ensure that the sum of the maximum currents of all electric devices does not exceed 1A.</p>\n</li>\n<li>\n<p>Secured with two M2 screws.</p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-p\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc product-specification-table-small-padding\">\n<h2 class=\"pct_st\"></h2>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-- 图片 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"Socket Head Cap Machine Screws (SHCS)\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/b2f3ed3d6aa14ecf89ea06015ae0c4d7/999.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"Socket Head Cap Machine Screws (SHCS)\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/b2f3ed3d6aa14ecf89ea06015ae0c4d7/999.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<!-- 图片结束 --><!-- table布局 --><!-- 物品清单布局结束 --><!-- 标题加文案 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<p> </p>\n<h2 class=\"pct_t\">Electronics System</h2>\n<h2 class=\"pct_st\"></h2>\n<p>The components of this circuit set can be divided into five categories: <a href=\"https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels\" rel=\"noopener\" target=\"_blank\"><span><span style=\"color: #00ae42;\"><strong>Power Distribution Board (PDB) - 4 Channels</strong></span></span></a><span style=\"text-decoration: underline;\">,</span> power-type devices, power supply devices, switch devices, and wires. The Power Distribution Board has channels for connecting power supply devices, switch devices, and electric devices. Please refer to the figure below for the devices supported by each connector. The IN is used to connect various power supply devices, such as <a href=\"https://us.store.bambulab.com/products/battery-case-with-ph2-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>AA Battery Case</strong></span></span></a> and <a href=\"https://us.store.bambulab.com/products/usb-a-power-cable-with-ph2-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>USB-A Power Cable</strong></span></span></a>; the CH1-4 are used to connect various electric devices, such as <a href=\"https://us.store.bambulab.com/products/n20-reduction-gear-motor\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>N20 Reduction Gear Motor (150rpm)</strong></span></span></a> and <a href=\"https://us.store.bambulab.com/products/3030-5v-led-board-with-sh1-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>4 White 3030-LED Board</strong></span></span></a>, and supports up to 4 connections; the SW0~4 is used to connect various switch devices, such as <a href=\"https://us.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>Self-locking Button Switch</strong></span></span></a><a href=\"https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channelsbambulab.com/products/self-locking-button-switch-with-sh1-0-connector\" rel=\"noopener\" target=\"_blank\">, </a><a href=\"https://us.store.bambulab.com/products/potentiometer-board-with-sh1-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><strong><span style=\"color: #00ae42;\">Potentiometer Board</span></strong></span></a>, and <a href=\"https://us.store.bambulab.com/products/jumper-cable-with-sh1-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>Jumper Cable</strong></span></span></a>. Please do not connect electric devices to the SW0~4, and likewise, do not connect switches to the CH1~4. The OUT is used to connect to the next Power Distribution Board to achieve connector expansion. To learn more about this case, please refer to the<a href=\"https://store.bblcdn.com/s7/default/14f1135da68045d4bf193d7a76037c9a/PDB_Potentiometer_Board_Self-Locking_Button_Switch-IA006.zip\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong>Application Instruction</strong></span></a>.</p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc product-specification-table-small-padding\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Product Specifications</h2>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"border-color: #ADADAD; font-weight: bold;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold; text-align: center;\">\n<div>Product ID</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Connector Model</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Maximum Current\n<p>(A)</p>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Size\n<p>(mm)</p>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Weight</div>\n<p>(g)</p>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #ADADAD; text-align: center;\">IA006</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">SH1.0-2P</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">1A</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">21x8x15</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">0.8</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">In the box</h2>\n<h2 class=\"pct_st\"></h2>\n<ul>\n<li>\n<p>Self-Locking Button Switch with SH1.0 Connector x2pcs</p>\n</li>\n<li>\n<p>Wire Pair with SH1.0 x2pcs</p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Consideration</h2>\n<h2 class=\"pct_st\"></h2>\n<ul>\n<li>\n<p>Please do not forcefully twist the connectors to avoid wires loosening or detaching.</p>\n</li>\n</ul>\n</div>\n</div>\n</div>",
+  "description_text": "Used with a Power Distribution Board (PDB) - 4 Channels, it controls the ON/OFF state of the corresponding channel, thereby achieving the function of switch control.\n\nThe Self-Locking Button Switch with SH1.0 Connector is a switch device that can be connected to SW0~4 on the Power Distribution Board (PDB) to control the switch of electric devices. Pressing the button down connects the circuit; pressing it again pops it up and disconnects the circuit.\n\nWhen the Self-Locking Button Switch is connected to SW1~4, it's necessary to ensure that the maximum current of the electric devices in each corresponding channel does not exceed 1A.\n\nWhen the Self-Locking Button Switch is connected to the SW0, it's necessary to ensure that the sum of the maximum currents of all electric devices does not exceed 1A.\n\nSecured with two M2 screws.\n\nThe components of this circuit set can be divided into five categories: Power Distribution Board (PDB) - 4 Channels, power-type devices, power supply devices, switch devices, and wires. The Power Distribution Board has channels for connecting power supply devices, switch devices, and electric devices. Please refer to the figure below for the devices supported by each connector. The IN is used to connect various power supply devices, such as AA Battery Case and USB-A Power Cable; the CH1-4 are used to connect various electric devices, such as N20 Reduction Gear Motor (150rpm) and 4 White 3030-LED Board, and supports up to 4 connections; the SW0~4 is used to connect various switch devices, such as Self-locking Button Switch, Potentiometer Board, and Jumper Cable. Please do not connect electric devices to the SW0~4, and likewise, do not connect switches to the CH1~4. The OUT is used to connect to the next Power Distribution Board to achieve connector expansion. To learn more about this case, please refer to the Application Instruction.\n\nPlease do not forcefully twist the connectors to avoid wires loosening or detaching.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "ia006-self-locking-button-switch-with-sh1-0-connector",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "Size (mm)",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Size (mm)",
+        "source_url": "https://us.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=42123262427272"
+      },
+      "raw_value": "21x8x15"
+    }
+  ],
+  "name": "Self-Locking Button Switch (2PCS) - IA006",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.29",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.49",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.49",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "IA006"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Endless Loop Express",
+      "url": "https://makerworld.com/en/models/431820?from=search#profileId-348512"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Running Dinosaur Automaton",
+      "url": "https://makerworld.com/zh/models/422534#profileId-325850"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Mini Motorized Basketball Game",
+      "url": "https://makerworld.com/zh/models/420464#profileId-323162"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "41367739826236",
+    "41589012955251",
+    "42123262427272",
+    "44312167022755",
+    "45672513208560",
+    "47978328228188"
+  ],
+  "source_tables": [
+    {
+      "caption": "Overview",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=42123262427272"
+      },
+      "rows": [
+        [
+          "Models Using This Part",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "Endless Loop Express",
+          "IMD_Q.",
+          "Endless Loop Express"
+        ],
+        [
+          "Running Dinosaur Automaton",
+          "Amao Chan",
+          "Running Dinosaur Automaton"
+        ],
+        [
+          "Mini Motorized Basketball Game",
+          "Kit Crafters",
+          "Mini Motorized Basketball Game"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [
+        "Product ID",
+        "Connector Model",
+        "Maximum Current (A)",
+        "Size (mm)",
+        "Weight (g)"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=42123262427272"
+      },
+      "rows": [
+        [
+          "IA006",
+          "SH1.0-2P",
+          "1A",
+          "21x8x15",
+          "0.8"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Connector Model": "SH1.0-2P",
+    "Maximum Current (A)": "1A",
+    "Product ID": "IA006",
+    "Size (mm)": "21x8x15",
+    "Weight (g)": "0.8"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/9f8eb089ca144e2eb82598ab0e7e5f0d/IA006.png",
+      "part_number": "IA006",
+      "price": "2.29",
+      "region": "us",
+      "sku": "42123262427272",
+      "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "url": "https://us.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=42123262427272",
+      "variant_id": "42123262427272"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/49c74c54b0bd44948884a794f440bc2f.png",
+      "part_number": "IA006",
+      "price": "2.99",
+      "region": "ca",
+      "sku": "45672513208560",
+      "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "url": "https://ca.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=45672513208560",
+      "variant_id": "45672513208560"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/8c9448ef24324e22a468df8cd86d66f1/IA006.png",
+      "part_number": "IA006",
+      "price": "2.49",
+      "region": "eu",
+      "sku": "47978328228188",
+      "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "url": "https://eu.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=47978328228188",
+      "variant_id": "47978328228188"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/6d21aa93405441fca5ab66e8c43b61ca.png",
+      "part_number": "IA006",
+      "price": "2.49",
+      "region": "uk",
+      "sku": "41367739826236",
+      "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "url": "https://uk.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=41367739826236",
+      "variant_id": "41367739826236"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/29f8232243f749c09ca15c0034677bd3.png",
+      "part_number": "IA006",
+      "price": "4.99",
+      "region": "au",
+      "sku": "44312167022755",
+      "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "url": "https://au.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=44312167022755",
+      "variant_id": "44312167022755"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494433557055762432.png",
+      "part_number": "IA006",
+      "price": "1.99",
+      "region": "asia",
+      "sku": "41589012955251",
+      "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "url": "https://asia.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=41589012955251",
+      "variant_id": "41589012955251"
+    }
+  ]
+}

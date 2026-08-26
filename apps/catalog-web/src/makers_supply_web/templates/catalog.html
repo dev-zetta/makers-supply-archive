@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% from "_region_switcher.html" import region_switcher with context %}
+{% block body_class %}catalog-page{% endblock %}
+{% block shell %}
+<header class="topbar">
+  <div class="topbar-primary"><a class="brand" href="/?region={{ filters.region }}" aria-label="Maker's Supply catalog home"><span class="brand-mark" aria-hidden="true">M</span><span>Maker's Supply</span></a>{{ region_switcher() }}</div>
+  <nav aria-label="Account navigation"><a href="/lists">Parts lists</a><form method="post" action="/logout"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><button class="link-button">Sign out</button></form></nav>
+</header>
+<main class="layout" id="catalog-layout">
+  <aside class="filters" aria-label="Catalog filters">
+    <div class="filter-rail-header">
+      <button class="sidebar-toggle" type="button" aria-expanded="true" aria-controls="filter-panel" title="Collapse filters"><span aria-hidden="true">☰</span><span class="sr-only">Toggle filters</span></button>
+      <div class="filter-heading"><p class="section-label">Catalog browser</p><h1>Hardware catalog</h1><p class="muted">{{ total }} matching products</p></div>
+    </div>
+    <div class="filter-scroll" id="filter-panel">
+      <form method="get" id="catalog-filters">
+        <input type="hidden" name="view" value="{{ filters.view }}">
+        {% if target_list_id %}<input type="hidden" name="list_id" value="{{ target_list_id }}">{% endif %}
+        <label>Search <span class="search-field"><span aria-hidden="true">⌕</span><input type="search" name="q" value="{{ filters.query }}" placeholder="Name, SKU, dimensions…" autocomplete="off" data-search-submit></span></label>
+        <label>Category <select name="category" data-auto-submit><option value="">All categories</option>{% for item in categories %}<option value="{{ item.id }}" {% if filters.category == item.id %}selected{% endif %}>{{ item.label }} ({{ item.count }})</option>{% endfor %}</select></label>
+        <label>Availability <select name="availability" data-auto-submit><option value="">Any availability</option><option value="available" {% if filters.availability == 'available' %}selected{% endif %}>Available</option><option value="unavailable" {% if filters.availability == 'unavailable' %}selected{% endif %}>Unavailable</option></select></label>
+        <label>Asset type <select name="asset_kind" data-auto-submit><option value="">Any asset type</option>{% for kind in ['image','model','document','archive'] %}<option value="{{ kind }}" {% if filters.asset_kind == kind %}selected{% endif %}>{{ kind|title }}</option>{% endfor %}</select></label>
+        <label>Lifecycle <select name="lifecycle" data-auto-submit><option value="active" {% if filters.lifecycle == 'active' %}selected{% endif %}>Active products</option><option value="inactive" {% if filters.lifecycle == 'inactive' %}selected{% endif %}>Removed products</option><option value="all" {% if filters.lifecycle == 'all' %}selected{% endif %}>All products</option></select></label>
+        <fieldset class="price-filter"><legend>Price range</legend><div class="price-range"><label>Minimum<input name="min_price" inputmode="decimal" value="{{ filters.minimum_price or '' }}" placeholder="0" data-change-submit></label><label>Maximum<input name="max_price" inputmode="decimal" value="{{ filters.maximum_price or '' }}" placeholder="Any" data-change-submit></label></div></fieldset>
+        <div class="filter-actions"><button type="submit">Apply filters</button><a class="secondary-button" href="/?view={{ filters.view }}{% if target_list_id %}&list_id={{ target_list_id }}{% endif %}">Clear</a></div>
+      </form>
+    </div>
+  </aside>
+  <section class="results" aria-labelledby="results-title">
+    <div class="results-toolbar">
+      <div><p class="section-label">Results</p><h2 id="results-title" data-results-title data-results-start="{{ ((filters.page - 1) * filters.page_size) + 1 if total else 0 }}" data-results-end="{{ [filters.page * filters.page_size, total]|min if total else 0 }}" data-results-total="{{ total }}">{% if total %}Showing {{ ((filters.page - 1) * filters.page_size) + 1 }}–{{ [filters.page * filters.page_size, total]|min }} of {{ total }}{% else %}No matching products{% endif %}</h2></div>
+      <div class="results-actions"><button class="selection-open secondary-button" id="selection-open" type="button" aria-haspopup="dialog" aria-controls="selection-drawer"><span aria-hidden="true">✓</span> Selected <span class="selection-count" data-selection-count>0</span></button><nav class="view-switcher" aria-label="Product display"><span>View</span>{% for mode, label, icon in [('grid','Grid','▦'),('list','List','☷'),('compact','Compact','▥')] %}<a href="{{ view_urls[mode] }}" class="view-option {% if filters.view == mode %}active{% endif %}" aria-current="{{ 'page' if filters.view == mode else 'false' }}" title="{{ label }} view"><span aria-hidden="true">{{ icon }}</span><span class="view-label">{{ label }}</span></a>{% endfor %}</nav></div>
+    </div>
+    <div class="product-grid view-{{ filters.view }}" data-view="{{ filters.view }}">
+      {% for product in products %}
+      <article class="product-card">
+        <label class="product-selector"><input type="checkbox" value="{{ product.id }}" data-product-select data-product-name="{{ product.name }}" data-product-price="{{ product.price or '' }}" data-product-currency="{{ product.currency or '' }}" data-product-image="{% if product.image_id %}/assets/{{ product.id }}/{{ product.image_id }}{% endif %}"><span>Select</span></label>
+        <a href="/products/{{ product.id }}?region={{ filters.region }}">
+          <div class="product-media">
+            {% if product.image_id %}<img loading="lazy" decoding="async" src="/assets/{{ product.id }}/{{ product.image_id }}" alt="{{ product.name }}" data-image-fallback><div class="image-placeholder" hidden><span aria-hidden="true">◇</span><span>Image unavailable</span></div>{% else %}<div class="image-placeholder"><span aria-hidden="true">◇</span><span>No image published</span></div>{% endif %}
+          </div>
+          <div class="card-body">
+            <div class="card-meta"><span class="meta-labels"><span class="eyebrow">{{ product.categories|join(' · ') or 'Uncategorized' }}</span>{% if 'kit' in product.tags %}<span class="type-badge">Kit</span>{% endif %}</span>{% if product.available %}<span class="status available">Available</span>{% elif product.available == 0 %}<span class="status unavailable">Unavailable</span>{% endif %}</div>
+            <h3>{{ product.name }}</h3>
+            <p class="muted clamp">{{ product.description_text }}</p>
+            <footer><p class="price">{% if product.price %}{{ product.price }} {{ product.currency }}{% else %}Price unavailable{% endif %}</p><span class="open-product" aria-hidden="true">→</span></footer>
+          </div>
+        </a>
+      </article>
+      {% else %}<div class="empty-state"><span aria-hidden="true">⌕</span><h3>No products found</h3><p class="muted">Try clearing a filter or using a broader search.</p><a class="secondary-button" href="/">Reset filters</a></div>{% endfor %}
+    </div>
+    {% if total %}<nav class="pagination" aria-label="Pagination" data-pagination>{% if previous_url %}<a class="secondary-button" href="{{ previous_url }}" data-previous-page>← Previous</a>{% else %}<span></span>{% endif %}<span data-page-status>Page {{ filters.page }} of {{ ((total - 1) // filters.page_size) + 1 }}</span>{% if next_url %}<a class="secondary-button" href="{{ next_url }}" data-next-page>Next →</a>{% else %}<span></span>{% endif %}</nav><p class="infinite-status muted" data-infinite-status role="status" aria-live="polite"></p>{% endif %}
+  </section>
+</main>
+<button class="selection-backdrop" id="selection-backdrop" type="button" aria-label="Close parts selection" hidden></button>
+<aside class="selection-drawer" id="selection-drawer" role="dialog" aria-modal="true" aria-labelledby="selection-title" aria-hidden="true" inert>
+  <header><div><p class="section-label">Parts list builder</p><h2 id="selection-title">Selected hardware</h2><p class="muted"><span data-selection-count>0</span> products selected across your filtered results</p></div><button class="drawer-close" id="selection-close" type="button" aria-label="Close parts selection">×</button></header>
+  <div class="selection-content"><div class="selection-empty" data-selection-empty><span aria-hidden="true">✓</span><p>Select products with the checkboxes in the catalog. Your selection stays while you search, filter, and change pages.</p></div><ol class="selection-items" id="selection-items"></ol></div>
+  <form method="post" action="/selection/add" id="catalog-selection-form" class="selection-form">
+    <input type="hidden" name="csrf" value="{{ user.csrf_token }}">
+    <div id="selection-hidden-inputs"></div>
+    <label>Parts list<select name="list_id" id="selection-list" required>{% for list in editable_lists %}<option value="{{ list.id }}" data-region="{{ list.region }}" {% if target_list_id == list.id %}selected{% endif %}>{{ list.name }} ({{ list.region|upper }}, {{ list.item_count }} items)</option>{% endfor %}<option value="__new__" {% if not editable_lists %}selected{% endif %}>Create a new list…</option></select></label>
+    <div class="new-list-fields" id="new-list-fields" {% if editable_lists %}hidden{% endif %}><label>New list name<input name="list_name" id="selection-list-name" maxlength="120" placeholder="e.g. Robot arm prototype"></label><label>Store region<select name="region">{% for value, label in [('us','USA'),('eu','EU'),('uk','UK'),('ca','Canada'),('au','Australia'),('jp','Japan'),('kr','Korea'),('asia','Asia')] %}<option value="{{ value }}" {% if filters.region == value %}selected{% endif %}>{{ label }}</option>{% endfor %}</select></label></div>
+    <label>Quantity for each product<input type="number" name="quantity" min="1" max="100000" value="1" required></label>
+    <div class="selection-form-actions"><button type="button" class="link-button selection-clear" id="selection-clear">Clear selection</button><button type="submit" id="selection-submit" disabled>Add selected products</button></div>
+  </form>
+</aside>
+{% endblock %}

@@ -1,0 +1,442 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "durable-self-healing-cutting-mat",
+      "product_id": "626312711378796544",
+      "region": "us"
+    },
+    {
+      "handle": "durable-self-healing-cutting-mat",
+      "product_id": "626312603988426752",
+      "region": "ca"
+    },
+    {
+      "handle": "durable-self-healing-cutting-mat",
+      "product_id": "626312874461618176",
+      "region": "eu"
+    },
+    {
+      "handle": "durable-self-healing-cutting-mat",
+      "product_id": "626312460911689728",
+      "region": "uk"
+    },
+    {
+      "handle": "durable-self-healing-cutting-mat",
+      "product_id": "626312248507076608",
+      "region": "au"
+    },
+    {
+      "handle": "durable-self-healing-cutting-mat",
+      "product_id": "626296462426025984",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/d5/d51cc567698422cf03cd7e00e43801b5d5d21bcedba31e985639bba10f9a9779.png",
+      "id": "image-865df85234397958bfd3",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA002.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d51cc567698422cf03cd7e00e43801b5d5d21bcedba31e985639bba10f9a9779",
+      "size": 660702,
+      "source_url": "https://store.bblcdn.com/s1/default/f80cd838752649a095b41154c14ad652/B-QA002.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a4/a40e31930b1879ec27f1cc62f794271019b31c3e1a7c19db6acfde2bc4352670.png",
+      "id": "image-c9475f0ddd149d9f8bac",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA003.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a40e31930b1879ec27f1cc62f794271019b31c3e1a7c19db6acfde2bc4352670",
+      "size": 675488,
+      "source_url": "https://store.bblcdn.com/s1/default/01447f4269ad498e90a065a82f03a0ea/B-QA003.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/62/6244dfb0f5ebe4adb427374a0daf20485fd129a9fa3a963f9800201102ce5cd2.png",
+      "id": "image-df0a5965f68d88892e6f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA002_First.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6244dfb0f5ebe4adb427374a0daf20485fd129a9fa3a963f9800201102ce5cd2",
+      "size": 1007917,
+      "source_url": "https://store.bblcdn.com/s1/default/b2b182452cf94941a509b60fb783c703/B-QA002_First.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/be/be72cbcc89222c43ade992e87016b51abe7b365b0c0547c93af31f8910771dba.png",
+      "id": "image-df9c7a560d7a8a3296d8",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "be72cbcc89222c43ade992e87016b51abe7b365b0c0547c93af31f8910771dba",
+      "size": 8653386,
+      "source_url": "https://store.bblcdn.com/s1/default/7c91aec3f0c149feadd24c9b5fb2a28c/1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/cb/cb2b06d1504330de29dc6fb56e5c160120c1c477f1c805b735d7adf9251ecdf6.png",
+      "id": "image-display-8a9ea3c037d665c359e6",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "d51cc567698422cf03cd7e00e43801b5d5d21bcedba31e985639bba10f9a9779",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA002.catalog.png",
+      "parent_asset_id": "image-865df85234397958bfd3",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "cb2b06d1504330de29dc6fb56e5c160120c1c477f1c805b735d7adf9251ecdf6",
+      "size": 203641,
+      "source_url": "https://store.bblcdn.com/s1/default/f80cd838752649a095b41154c14ad652/B-QA002.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/36/36f959af4824099c19acb74d09186dfab99acff99a70e5279926d9666eceeae6.png",
+      "id": "image-display-4d6661784ed372c65f9c",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "a40e31930b1879ec27f1cc62f794271019b31c3e1a7c19db6acfde2bc4352670",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA003.catalog.png",
+      "parent_asset_id": "image-c9475f0ddd149d9f8bac",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "36f959af4824099c19acb74d09186dfab99acff99a70e5279926d9666eceeae6",
+      "size": 198914,
+      "source_url": "https://store.bblcdn.com/s1/default/01447f4269ad498e90a065a82f03a0ea/B-QA003.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/80/806efc4da162c1f6342a037c855cca3799b380a5953d5b76431f69a4bc0cfefd.png",
+      "id": "image-display-b2bba1846c3a9f5a2d65",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "6244dfb0f5ebe4adb427374a0daf20485fd129a9fa3a963f9800201102ce5cd2",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA002_First.catalog.png",
+      "parent_asset_id": "image-df0a5965f68d88892e6f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "806efc4da162c1f6342a037c855cca3799b380a5953d5b76431f69a4bc0cfefd",
+      "size": 276537,
+      "source_url": "https://store.bblcdn.com/s1/default/b2b182452cf94941a509b60fb783c703/B-QA002_First.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d5/d5e03c81f504868b33576454e5e65d44d08e3c864f23d22ed3381be808629d11.png",
+      "id": "image-display-77c42ef4aa56e02a6d2c",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 2400,
+        "source_sha256": "be72cbcc89222c43ade992e87016b51abe7b365b0c0547c93af31f8910771dba",
+        "source_width": 2418
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1.catalog.png",
+      "parent_asset_id": "image-df9c7a560d7a8a3296d8",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d5e03c81f504868b33576454e5e65d44d08e3c864f23d22ed3381be808629d11",
+      "size": 1010796,
+      "source_url": "https://store.bblcdn.com/s1/default/7c91aec3f0c149feadd24c9b5fb2a28c/1.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Tools"
+  ],
+  "category_assignments": [
+    {
+      "id": "tools",
+      "label": "Tools",
+      "path": [
+        "Tools"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[8]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Protects Your Workspace During Precision Cutting"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Cutting directly on a desk can damage the work surface and dull blades quickly, especially during repeated trimming and model work. This self-healing cutting mat provides a dedicated surface for precise cutting tasks, helping protect your workspace while supporting cleaner, more controlled cuts."
+    },
+    {
+      "kind": "heading",
+      "text": "Built-In Measuring Guides for Bench Work"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The mat features a wide range of printed measuring guides, including edge rulers, grid lines, angle markings, circle references, arc guides, and fine-detail grids. These built-in references make it easier to measure materials, align parts, and plan cuts more accurately during maker tasks."
+    },
+    {
+      "kind": "heading",
+      "text": "Two Sizes for Different Workspaces"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Available in A3 and A4 sizes, the cutting mat fits different bench setups and working styles. A3 offers more room for larger projects, while A4 provides a compact option for smaller desks."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">Protects Your Workspace During Precision Cutting</h3>\n<p class=\"pct_p\">Cutting directly on a desk can damage the work surface and dull blades quickly, especially during repeated trimming and model work. This self-healing cutting mat provides a dedicated surface for precise cutting tasks, helping protect your workspace while supporting cleaner, more controlled cuts.</p>\n</div>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/1e12bc8eb84e424681c40368a6aaae94/1.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/1e12bc8eb84e424681c40368a6aaae94/1.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<!-- 卖点 2 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">Built-In Measuring Guides for Bench Work</h3>\n<p class=\"pct_p\">The mat features a wide range of printed measuring guides, including edge rulers, grid lines, angle markings, circle references, arc guides, and fine-detail grids. These built-in references make it easier to measure materials, align parts, and plan cuts more accurately during maker tasks.</p>\n</div>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/86089fe216b24ca897098455131f9ac1/2.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/86089fe216b24ca897098455131f9ac1/2.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<!-- 卖点 3 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">Two Sizes for Different Workspaces</h3>\n<p class=\"pct_p\">Available in A3 and A4 sizes, the cutting mat fits different bench setups and working styles. A3 offers more room for larger projects, while A4 provides a compact option for smaller desks.</p>\n</div>\n<p class=\"pct_p\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/f731e06bec3c474aa2ef15fd7e83136c/A3_Durable_Cutting_Mat.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></p>\n<p class=\"pct_p\"><img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/dca1ac6a51cd4091b8932e285d755b1b/A4_Durable_Cutting_Mat.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></p>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "Cutting directly on a desk can damage the work surface and dull blades quickly, especially during repeated trimming and model work. This self-healing cutting mat provides a dedicated surface for precise cutting tasks, helping protect your workspace while supporting cleaner, more controlled cuts.\n\nThe mat features a wide range of printed measuring guides, including edge rulers, grid lines, angle markings, circle references, arc guides, and fine-detail grids. These built-in references make it easier to measure materials, align parts, and plan cuts more accurately during maker tasks.\n\nAvailable in A3 and A4 sizes, the cutting mat fits different bench setups and working styles. A3 offers more room for larger projects, while A4 provides a compact option for smaller desks.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "durable-self-healing-cutting-mat",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Durable Self-Healing Cutting Mat",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/durable-self-healing-cutting-mat?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/durable-self-healing-cutting-mat?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/durable-self-healing-cutting-mat?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/durable-self-healing-cutting-mat?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "19.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/durable-self-healing-cutting-mat?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/durable-self-healing-cutting-mat?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-QA002",
+    "B-QA003"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "626296462442803200",
+    "626296462442803204",
+    "626312248519659523",
+    "626312248519659527",
+    "626312460924272643",
+    "626312460924272647",
+    "626312604001009667",
+    "626312604005203968",
+    "626312711391379459",
+    "626312711391379463",
+    "626312874474201091",
+    "626312874474201095"
+  ],
+  "source_tables": [],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/eb1dae8990f04a549ae5c005d6d484df/B-QA002.png",
+      "price": "11.99",
+      "region": "us",
+      "sku": "626312711391379459",
+      "title": "Durable Self-Healing Cutting Mat - A3 Durable Cutting Mat",
+      "url": "https://us.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626312711391379459",
+      "variant_id": "626312711391379459"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/3a2ac6e2b35a4ffab1045e33da8f52d9/B-QA003.png",
+      "price": "6.99",
+      "region": "us",
+      "sku": "626312711391379463",
+      "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
+      "url": "https://us.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626312711391379463",
+      "variant_id": "626312711391379463"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/3a6d36b26f5b4a94bc837688e9d9efe9/B-QA002.png",
+      "price": "17.99",
+      "region": "ca",
+      "sku": "626312604001009667",
+      "title": "Durable Self-Healing Cutting Mat - A3 Durable Cutting Mat",
+      "url": "https://ca.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626312604001009667",
+      "variant_id": "626312604001009667"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/99c5b55842ae47f9aeadb918b060f1c6/B-QA003.png",
+      "price": "10.99",
+      "region": "ca",
+      "sku": "626312604005203968",
+      "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
+      "url": "https://ca.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626312604005203968",
+      "variant_id": "626312604005203968"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/439f667ef7b942ea8b5609c9a53054e4/B-QA002.png",
+      "price": "12.99",
+      "region": "eu",
+      "sku": "626312874474201091",
+      "title": "Durable Self-Healing Cutting Mat - A3 Durable Cutting Mat",
+      "url": "https://eu.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626312874474201091",
+      "variant_id": "626312874474201091"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/f5640ef194114b5382ec5a4828c0f159/B-QA003.png",
+      "price": "7.99",
+      "region": "eu",
+      "sku": "626312874474201095",
+      "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
+      "url": "https://eu.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626312874474201095",
+      "variant_id": "626312874474201095"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/118e24083c484b1da5256af58d8d46bd/B-QA002.png",
+      "price": "11.99",
+      "region": "uk",
+      "sku": "626312460924272643",
+      "title": "Durable Self-Healing Cutting Mat - A3 Durable Cutting Mat",
+      "url": "https://uk.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626312460924272643",
+      "variant_id": "626312460924272643"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/3eb3f3061cbd48998186bdf2471b767b/B-QA003.png",
+      "price": "6.99",
+      "region": "uk",
+      "sku": "626312460924272647",
+      "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
+      "url": "https://uk.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626312460924272647",
+      "variant_id": "626312460924272647"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/3eac6b7fbcac4ec990e7a4a49c9416cc/B-QA002.png",
+      "price": "19.99",
+      "region": "au",
+      "sku": "626312248519659523",
+      "title": "Durable Self-Healing Cutting Mat - A3 Durable Cutting Mat",
+      "url": "https://au.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626312248519659523",
+      "variant_id": "626312248519659523"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/9e243643214746008e97854ae9e8db37/B-QA003.png",
+      "price": "11.99",
+      "region": "au",
+      "sku": "626312248519659527",
+      "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
+      "url": "https://au.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626312248519659527",
+      "variant_id": "626312248519659527"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/f80cd838752649a095b41154c14ad652/B-QA002.png",
+      "price": "11.99",
+      "region": "asia",
+      "sku": "626296462442803200",
+      "title": "Durable Self-Healing Cutting Mat - A3 Durable Cutting Mat",
+      "url": "https://asia.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626296462442803200",
+      "variant_id": "626296462442803200"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/01447f4269ad498e90a065a82f03a0ea/B-QA003.png",
+      "price": "6.99",
+      "region": "asia",
+      "sku": "626296462442803204",
+      "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
+      "url": "https://asia.store.bambulab.com/products/durable-self-healing-cutting-mat?id=626296462442803204",
+      "variant_id": "626296462442803204"
+    }
+  ]
+}

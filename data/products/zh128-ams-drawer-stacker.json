@@ -1,0 +1,402 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "ams-drawer-stacker",
+      "product_id": "724164577370120192",
+      "region": "us"
+    },
+    {
+      "handle": "ams-drawer-stacker",
+      "product_id": "724163790801129472",
+      "region": "ca"
+    },
+    {
+      "handle": "ams-drawer-stacker",
+      "product_id": "724164851509063680",
+      "region": "eu"
+    },
+    {
+      "handle": "ams-drawer-stacker",
+      "product_id": "724164293074591744",
+      "region": "uk"
+    },
+    {
+      "handle": "ams-drawer-stacker",
+      "product_id": "724163352457256960",
+      "region": "au"
+    },
+    {
+      "handle": "ams-drawer-stacker",
+      "product_id": "724162231646482432",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/50/50c063a1860eb21fb360dc3e439070f8fb0ce4ab73f2c06058dcbfc3e4d7e701.png",
+      "id": "image-35fcd7b7af627cb262f8",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH128_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "50c063a1860eb21fb360dc3e439070f8fb0ce4ab73f2c06058dcbfc3e4d7e701",
+      "size": 458591,
+      "source_url": "https://store.bblcdn.com/s2/default/0272f0b51c834b54a44d395fc4564ac8/B-ZH128_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c1/c1617eedb2e5ade51cd1ce6bc20bbc446b57a8eb324437e3ca453e77b290e846.png",
+      "id": "image-1a55a1938ce0de253299",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH128_2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c1617eedb2e5ade51cd1ce6bc20bbc446b57a8eb324437e3ca453e77b290e846",
+      "size": 299445,
+      "source_url": "https://store.bblcdn.com/s2/default/f338d8de63f44a02ab65b797d93580ac/B-ZH128_2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d0/d0b188d3675f152a3ee781fa0807f679860ea9d5a77468367c72c60130bebca8.png",
+      "id": "image-09f5cb44cdee33f3068d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH128.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d0b188d3675f152a3ee781fa0807f679860ea9d5a77468367c72c60130bebca8",
+      "size": 371542,
+      "source_url": "https://store.bblcdn.com/s2/default/3d505716d8d443339262a7328687611f/B-ZH128.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/92/926993c62f302cd57bfd8dcbf79b5d4499ba4a132e5f4b8fde145d9bc06b3d44.png",
+      "id": "image-fe1c911e2c22f6e1ce10",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "20260424-162204.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "926993c62f302cd57bfd8dcbf79b5d4499ba4a132e5f4b8fde145d9bc06b3d44",
+      "size": 2055204,
+      "source_url": "https://store.bblcdn.com/s2/default/4d27d0dc0129476291bd3e9f3b3bc481/20260424-162204.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e4/e46adc76dd954cd3047bce27fbc5b824b4f848a955e09e6782f25da930d7c0ff.png",
+      "id": "image-display-7887370361375847b1f4",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "50c063a1860eb21fb360dc3e439070f8fb0ce4ab73f2c06058dcbfc3e4d7e701",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH128_1.catalog.png",
+      "parent_asset_id": "image-35fcd7b7af627cb262f8",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e46adc76dd954cd3047bce27fbc5b824b4f848a955e09e6782f25da930d7c0ff",
+      "size": 387240,
+      "source_url": "https://store.bblcdn.com/s2/default/0272f0b51c834b54a44d395fc4564ac8/B-ZH128_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/76/76b4a781de9308487d9f20d9199876c2af99cf5150fb413b66a9a375827a8eb4.png",
+      "id": "image-display-195ae7cf9dc367b49281",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "c1617eedb2e5ade51cd1ce6bc20bbc446b57a8eb324437e3ca453e77b290e846",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH128_2.catalog.png",
+      "parent_asset_id": "image-1a55a1938ce0de253299",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "76b4a781de9308487d9f20d9199876c2af99cf5150fb413b66a9a375827a8eb4",
+      "size": 270865,
+      "source_url": "https://store.bblcdn.com/s2/default/f338d8de63f44a02ab65b797d93580ac/B-ZH128_2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7e/7e68cc9c031b89e8d97f268019d28acef2b57bcb414cdaa41d640a79d8e3170f.png",
+      "id": "image-display-6856e0d31ffaabe5a75b",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "d0b188d3675f152a3ee781fa0807f679860ea9d5a77468367c72c60130bebca8",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH128.catalog.png",
+      "parent_asset_id": "image-09f5cb44cdee33f3068d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7e68cc9c031b89e8d97f268019d28acef2b57bcb414cdaa41d640a79d8e3170f",
+      "size": 102030,
+      "source_url": "https://store.bblcdn.com/s2/default/3d505716d8d443339262a7328687611f/B-ZH128.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/bf/bfc6f3de94cd872888bf70d7dbe48cc6f52e6033ba22c883cc014e48ee6f8e1b.png",
+      "id": "image-display-aae0125d1e19f59fcb2c",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1254,
+        "source_sha256": "926993c62f302cd57bfd8dcbf79b5d4499ba4a132e5f4b8fde145d9bc06b3d44",
+        "source_width": 1254
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "20260424-162204.catalog.png",
+      "parent_asset_id": "image-fe1c911e2c22f6e1ce10",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "bfc6f3de94cd872888bf70d7dbe48cc6f52e6033ba22c883cc014e48ee6f8e1b",
+      "size": 862281,
+      "source_url": "https://store.bblcdn.com/s2/default/4d27d0dc0129476291bd3e9f3b3bc481/20260424-162204.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa187-m3-flat-head-cap-machine-screws-fhcs",
+      "name": "M3x8 FHCS Machine Screw (20PCS) - AA086",
+      "quantity": "3",
+      "source_url": "https://us.store.bambulab.com/products/m3-flat-head-cap-machine-screws-fhcs?skr=yes&id=42376310096008&modelId=1659712",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "Micro Steel Deep Groove Ball Bearings -608ZZ (2PCS) - EA027",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/micro-steel-deep-groove-ball-bearings?skr=yes&id=42504745025672&modelId=1659712",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the AMS drawer stacker on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the  <strong>AMS drawer stacker</strong>  on <a href=\"https://makerworld.com/en/models/1659712-babo-duo-ams-drawer-stacker?from=search#profileId-1755531\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<br/>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><a href=\"../../products/m3-flat-head-cap-machine-screws-fhcs?skr=yes&amp;id=42376310096008&amp;modelId=1659712\" rel=\"noopener\" target=\"_blank\">M3x8 FHCS Machine Screw (20PCS) - AA086</a></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><a href=\"../../products/micro-steel-deep-groove-ball-bearings?skr=yes&amp;id=42504745025672&amp;modelId=1659712\" rel=\"noopener\" target=\"_blank\">Micro Steel Deep Groove Ball Bearings -608ZZ (2PCS) - EA027</a></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">2</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+  "description_text": "To download the model files please visit the AMS drawer stacker on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh128-ams-drawer-stacker",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "AMS drawer stacker",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.14",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.44",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.38",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.14",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.65",
+      "region": "au",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://au.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.86",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA086",
+    "B-ZH128",
+    "EA027",
+    "ZH128"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Babo Duo Ams Drawer Stacker",
+      "url": "https://makerworld.com/en/models/1659712-babo-duo-ams-drawer-stacker?from=search#profileId-1755531"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "724162231663259650",
+    "724163352499200002",
+    "724163790817906688",
+    "724164293095563266",
+    "724164577382703106",
+    "724164851525840898"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/ams-drawer-stacker?id=724164577382703106"
+      },
+      "rows": [
+        [
+          "M3x8 FHCS Machine Screw (20PCS) - AA086",
+          "3"
+        ],
+        [
+          "Micro Steel Deep Groove Ball Bearings -608ZZ (2PCS) - EA027",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/a088c4358b4245fb8ddfef560581c8a1/B-ZH128_1.png",
+      "part_number": "ZH128",
+      "price": "7.14",
+      "region": "us",
+      "sku": "724164577382703106",
+      "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
+      "url": "https://us.store.bambulab.com/products/ams-drawer-stacker?id=724164577382703106",
+      "variant_id": "724164577382703106"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/add83348a84140219860278b10c69906/B-ZH128_1.png",
+      "part_number": "ZH128",
+      "price": "7.44",
+      "region": "ca",
+      "sku": "724163790817906688",
+      "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
+      "url": "https://ca.store.bambulab.com/products/ams-drawer-stacker?id=724163790817906688",
+      "variant_id": "724163790817906688"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/df1b26b7a87346c5b86a5928a72679ff/B-ZH128_1.png",
+      "part_number": "ZH128",
+      "price": "6.38",
+      "region": "eu",
+      "sku": "724164851525840898",
+      "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
+      "url": "https://eu.store.bambulab.com/products/ams-drawer-stacker?id=724164851525840898",
+      "variant_id": "724164851525840898"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/5eb40375edb54ec6a8cfacc64900e37c/B-ZH128_1.png",
+      "part_number": "ZH128",
+      "price": "5.14",
+      "region": "uk",
+      "sku": "724164293095563266",
+      "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
+      "url": "https://uk.store.bambulab.com/products/ams-drawer-stacker?id=724164293095563266",
+      "variant_id": "724164293095563266"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/0272f0b51c834b54a44d395fc4564ac8/B-ZH128_1.png",
+      "part_number": "ZH128",
+      "price": "11.65",
+      "region": "au",
+      "sku": "724163352499200002",
+      "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
+      "url": "https://au.store.bambulab.com/products/ams-drawer-stacker?id=724163352499200002",
+      "variant_id": "724163352499200002"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/5a8cfb598fa84a2cb04381d46f97a8ae/B-ZH128_1.png",
+      "part_number": "ZH128",
+      "price": "5.86",
+      "region": "asia",
+      "sku": "724162231663259650",
+      "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
+      "url": "https://asia.store.bambulab.com/products/ams-drawer-stacker?id=724162231663259650",
+      "variant_id": "724162231663259650"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "compact-multi-use-case-in-two-sizes",
+      "product_id": "8245865611400",
+      "region": "us"
+    },
+    {
+      "handle": "compact-multi-use-case-in-two-sizes",
+      "product_id": "8911025766640",
+      "region": "ca"
+    },
+    {
+      "handle": "compact-multi-use-case-in-two-sizes",
+      "product_id": "9464800969052",
+      "region": "eu"
+    },
+    {
+      "handle": "compact-multi-use-case-in-two-sizes",
+      "product_id": "7687818772540",
+      "region": "uk"
+    },
+    {
+      "handle": "compact-multi-use-case-in-two-sizes",
+      "product_id": "8519957020835",
+      "region": "au"
+    },
+    {
+      "handle": "compact-multi-use-case-in-two-sizes",
+      "product_id": "7685036441715",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/73/731d99c658981440ac64c62b694d4ef61706a0f487ffd1e8bbb96c02e0b1c87e.png",
+      "id": "image-d6f0fc093c869244a9de",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "card3.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "731d99c658981440ac64c62b694d4ef61706a0f487ffd1e8bbb96c02e0b1c87e",
+      "size": 57390,
+      "source_url": "https://store.bblcdn.com/s7/default/22df420ba25a4770b69af8bffa3ec8b3/card3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/df/df9448553134685d90479b48f3ef397e312c6552b6a2a1710fe48280d34b24e3.png",
+      "id": "image-1dfcec4626b6c23cfdce",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "card-1_466491c7-e217-47e9-93a4-34c30fee7b75.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "df9448553134685d90479b48f3ef397e312c6552b6a2a1710fe48280d34b24e3",
+      "size": 333605,
+      "source_url": "https://store.bblcdn.com/s7/default/99a8338210ba4896a84c6d6389d2f866/card-1_466491c7-e217-47e9-93a4-34c30fee7b75.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f1/f1b5e0d8c02a068268d290bf4b3a680cc825b48d7c49bcd7888fe865dad0e4c6.png",
+      "id": "image-display-9928eb2f6488c9a65a51",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "731d99c658981440ac64c62b694d4ef61706a0f487ffd1e8bbb96c02e0b1c87e",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "card3.catalog.png",
+      "parent_asset_id": "image-d6f0fc093c869244a9de",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "f1b5e0d8c02a068268d290bf4b3a680cc825b48d7c49bcd7888fe865dad0e4c6",
+      "size": 51032,
+      "source_url": "https://store.bblcdn.com/s7/default/22df420ba25a4770b69af8bffa3ec8b3/card3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f7/f736d28a7a0627af6b0b7cfbd8a9fbc375b9bebf459d08494219685f784902c8.png",
+      "id": "image-display-9cd463504d6fcdc5dcd1",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 805,
+        "source_sha256": "df9448553134685d90479b48f3ef397e312c6552b6a2a1710fe48280d34b24e3",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "card-1_466491c7-e217-47e9-93a4-34c30fee7b75.catalog.png",
+      "parent_asset_id": "image-1dfcec4626b6c23cfdce",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "f736d28a7a0627af6b0b7cfbd8a9fbc375b9bebf459d08494219685f784902c8",
+      "size": 315202,
+      "source_url": "https://store.bblcdn.com/s7/default/99a8338210ba4896a84c6d6389d2f866/card-1_466491c7-e217-47e9-93a4-34c30fee7b75.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa019-bt2-socket-head-cap-self-tapping-screws-shcs",
+      "name": "BT2x8 SHCS Self Tapping Screw (20PCS) - AA019",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "da004-brass-dowel-pin",
+      "name": "2x13 mm Brass Dowel Pin (20PCS) - DA004",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Multi-Use Case. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of the Compact Multi-Use Case and obtain detailed information, please visit the Compact Multi-Use Case on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The product contains all the <strong data-mce-fragment=\"1\">non-3D printed</strong> parts for assembling an entirely functional <strong data-mce-fragment=\"1\">Multi-Use Case</strong>. To complete the work, you also need to download the <strong data-mce-fragment=\"1\">model files</strong> and <strong data-mce-fragment=\"1\">3D print</strong> the remaining parts.<span data-mce-fragment=\"1\"></span></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 --></table>\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"><span data-mce-fragment=\"1\">To download the model files of the <strong data-mce-fragment=\"1\">Compact Multi-Use Case</strong></span><span data-mce-fragment=\"1\"> and obtain detailed information, please visit the </span><strong data-mce-fragment=\"1\">Compact Multi-Use Case </strong><span data-mce-fragment=\"1\">on </span><a href=\"https://makerworld.com/en/models/474983?from=search#profileId-385650\" rel=\"noopener\" target=\"_blank\"><span data-mce-fragment=\"1\" style=\"color: #00ae42;\"><strong data-mce-fragment=\"1\"><u data-mce-fragment=\"1\">MakerWorld</u></strong></span></a><span data-mce-fragment=\"1\">.</span></div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\" data-mce-fragment=\"1\">In the Box</h3>\n<div class=\"pct pct_mc\" data-mce-fragment=\"1\">\n<div class=\"pct_t-tb\" data-mce-fragment=\"1\">\n<table class=\"pct_tb\" data-mce-fragment=\"1\" style=\"height: 95px;\"><!-- 表头 -->\n<tbody data-mce-fragment=\"1\">\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 483.42px;\"><strong data-mce-fragment=\"1\">Item</strong></td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 48.6285px;\"><strong data-mce-fragment=\"1\">Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 483.42px;\">\n<div data-mce-fragment=\"1\">\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>BT2x8 SHCS Self Tapping Screw (20PCS) - AA019</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\" data-mce-fragment=\"1\"></span></td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 48.6285px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 483.42px;\">\n<p>2x13 mm Brass Dowel Pin (20PCS) - DA004</p>\n</td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 48.6285px;\"><span data-mce-fragment=\"1\">1</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- 第五条 --></div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Multi-Use Case. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nTo download the model files of the Compact Multi-Use Case and obtain detailed information, please visit the Compact Multi-Use Case on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh007-compact-multi-use-case-in-two-sizes",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Compact Multi-Use Case",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.28",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.77",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.09",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.62",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.92",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.98",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA019",
+    "DA004",
+    "ZH007"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Compact Multi-Use Case",
+      "url": "https://makerworld.com/en/models/474983?from=search#profileId-385650"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "41942193569852",
+    "42048849444979",
+    "42668807553160",
+    "44768320553123",
+    "46273721270512",
+    "48988240380252"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=42668807553160"
+      },
+      "rows": [
+        [
+          "BT2x8 SHCS Self Tapping Screw (20PCS) - AA019",
+          "1"
+        ],
+        [
+          "2x13 mm Brass Dowel Pin (20PCS) - DA004",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/22df420ba25a4770b69af8bffa3ec8b3/card3.png",
+      "part_number": "ZH007",
+      "price": "3.28",
+      "region": "us",
+      "sku": "42668807553160",
+      "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
+      "url": "https://us.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=42668807553160",
+      "variant_id": "42668807553160"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/c0862992e8154bb8806e3a824cb99d16.png",
+      "part_number": "ZH007",
+      "price": "3.77",
+      "region": "ca",
+      "sku": "46273721270512",
+      "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
+      "url": "https://ca.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=46273721270512",
+      "variant_id": "46273721270512"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/4c40eb40c0904b8cb615784798ab051f/Group_1123861275.png",
+      "part_number": "ZH007",
+      "price": "3.09",
+      "region": "eu",
+      "sku": "48988240380252",
+      "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
+      "url": "https://eu.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=48988240380252",
+      "variant_id": "48988240380252"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/bc8b1d8f11c145929246a08c212e7d71.png",
+      "part_number": "ZH007",
+      "price": "2.62",
+      "region": "uk",
+      "sku": "41942193569852",
+      "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
+      "url": "https://uk.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=41942193569852",
+      "variant_id": "41942193569852"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/2ef87e8556254cfbb20edda2d29e5331.png",
+      "part_number": "ZH007",
+      "price": "5.92",
+      "region": "au",
+      "sku": "44768320553123",
+      "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
+      "url": "https://au.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=44768320553123",
+      "variant_id": "44768320553123"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/6bba1504d22241f294096295bd66318f.png",
+      "part_number": "ZH007",
+      "price": "2.98",
+      "region": "asia",
+      "sku": "42048849444979",
+      "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
+      "url": "https://asia.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=42048849444979",
+      "variant_id": "42048849444979"
+    }
+  ]
+}

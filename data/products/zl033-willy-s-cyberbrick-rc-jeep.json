@@ -1,0 +1,842 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "willy%C2%B4s-cyberbrick-rc-jeep",
+      "product_id": "759191834114187264",
+      "region": "us"
+    },
+    {
+      "handle": "willy%C2%B4s-cyberbrick-rc-jeep",
+      "product_id": "759191438016704512",
+      "region": "ca"
+    },
+    {
+      "handle": "willy%C2%B4s-cyberbrick-rc-jeep",
+      "product_id": "759192081301241856",
+      "region": "eu"
+    },
+    {
+      "handle": "willy%C2%B4s-cyberbrick-rc-jeep",
+      "product_id": "759191681907081216",
+      "region": "uk"
+    },
+    {
+      "handle": "willy%C2%B4s-cyberbrick-rc-jeep",
+      "product_id": "759190602117083136",
+      "region": "au"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/6a/6a8c803068ff6603d26179e5e350ad2d9cc8a2ea56632b4a750fc5dd55c0c1d1.png",
+      "id": "image-ac209e6d6d036e2d3b1b",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6a8c803068ff6603d26179e5e350ad2d9cc8a2ea56632b4a750fc5dd55c0c1d1",
+      "size": 1045365,
+      "source_url": "https://store.bblcdn.eu/s4/default/f78bc79df6354c0690fbe250dbf9f11d/1-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/77/77e83c51a23c4ba7af09398ce7893967b59078d35d123597e8459183611cb884.png",
+      "id": "image-bc09889d3a26b7ef9131",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1-2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "77e83c51a23c4ba7af09398ce7893967b59078d35d123597e8459183611cb884",
+      "size": 1158802,
+      "source_url": "https://store.bblcdn.eu/s4/default/7192c235563a42d1839334e296d2e86a/1-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/35/353abf57a67af58a69491f55920edfc58059131302736596e02d974f1e151ed2.png",
+      "id": "image-51d6502d42a64190a6a4",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "IMG_8507_1_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "353abf57a67af58a69491f55920edfc58059131302736596e02d974f1e151ed2",
+      "size": 3767175,
+      "source_url": "https://store.bblcdn.eu/s4/default/e3fc8d18793c4305b410ba9c638418c2/IMG_8507_1_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ee/ee2655e25c8589020d1ae66cae5c1c634f6d4682b9d1bd9f63409dd105d40ea4.png",
+      "id": "image-329804254ed22c301acf",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "IMG_8506_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ee2655e25c8589020d1ae66cae5c1c634f6d4682b9d1bd9f63409dd105d40ea4",
+      "size": 3450305,
+      "source_url": "https://store.bblcdn.eu/s4/default/205555a28ddb47b0af9ed65ac2e4150b/IMG_8506_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/57/575b4db920896ee826b20434a856e55e21f5a308932a85d5c8b25d9162e9521a.pdf",
+      "id": "document-437a6d95afddf4c5b1c9",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "Instructions_Willys_Jeep_RC_Final_4.pdf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "575b4db920896ee826b20434a856e55e21f5a308932a85d5c8b25d9162e9521a",
+      "size": 6033911,
+      "source_url": "https://store.bblcdn.com/s1/default/748b25a1d24546b7b04900cf8c64c2ee/Instructions_Willys_Jeep_RC_Final_4.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/98/98bf7a8c907f9dfcccf6d359e7d39c1797870da8f155aec8e819a97258636cc9.png",
+      "id": "image-display-648c1bcf3e8aad71b714",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1254,
+        "source_sha256": "6a8c803068ff6603d26179e5e350ad2d9cc8a2ea56632b4a750fc5dd55c0c1d1",
+        "source_width": 1254
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1-1.catalog.png",
+      "parent_asset_id": "image-ac209e6d6d036e2d3b1b",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "98bf7a8c907f9dfcccf6d359e7d39c1797870da8f155aec8e819a97258636cc9",
+      "size": 469716,
+      "source_url": "https://store.bblcdn.eu/s4/default/f78bc79df6354c0690fbe250dbf9f11d/1-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9b/9b48999f053c0d7d690372f324e3fe9805584684151d7bb7dc13b08890e806ff.png",
+      "id": "image-display-0a0b902b618459e9391d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1254,
+        "source_sha256": "77e83c51a23c4ba7af09398ce7893967b59078d35d123597e8459183611cb884",
+        "source_width": 1254
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1-2.catalog.png",
+      "parent_asset_id": "image-bc09889d3a26b7ef9131",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9b48999f053c0d7d690372f324e3fe9805584684151d7bb7dc13b08890e806ff",
+      "size": 512406,
+      "source_url": "https://store.bblcdn.eu/s4/default/7192c235563a42d1839334e296d2e86a/1-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/24/245df3aeaa791005d6694940dea897a84c0aa86bc2bd2048a509d9005bbb0edf.png",
+      "id": "image-display-7f43563b55505efca9ba",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "353abf57a67af58a69491f55920edfc58059131302736596e02d974f1e151ed2",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "IMG_8507_1_1.catalog.png",
+      "parent_asset_id": "image-51d6502d42a64190a6a4",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "245df3aeaa791005d6694940dea897a84c0aa86bc2bd2048a509d9005bbb0edf",
+      "size": 1094118,
+      "source_url": "https://store.bblcdn.eu/s4/default/e3fc8d18793c4305b410ba9c638418c2/IMG_8507_1_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/6e/6ea6bba73372223b51d1bdec0eebf4d19e67df8f15313388bb5c3ddf11e7bd84.png",
+      "id": "image-display-f384cf534a7721e47292",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "ee2655e25c8589020d1ae66cae5c1c634f6d4682b9d1bd9f63409dd105d40ea4",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "IMG_8506_1.catalog.png",
+      "parent_asset_id": "image-329804254ed22c301acf",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6ea6bba73372223b51d1bdec0eebf4d19e67df8f15313388bb5c3ddf11e7bd84",
+      "size": 975848,
+      "source_url": "https://store.bblcdn.eu/s4/default/205555a28ddb47b0af9ed65ac2e4150b/IMG_8506_1.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "zk003-cyberbrick-hardware-kit",
+      "name": "CyberBrick Standard Car Kit - ZK006",
+      "source_url": "https://us.store.bambulab.com/products/cyberbrick-hardware-kit?id=693609770765615104",
+      "variant_quantities": [
+        {
+          "quantity": "0",
+          "variant": "ZL033"
+        },
+        {
+          "quantity": "1",
+          "variant": "ZL033-1"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "zk003-cyberbrick-hardware-kit",
+      "name": "CyberBrick Beginner Hardware Kit - ZK004",
+      "source_url": "https://us.store.bambulab.com/products/cyberbrick-hardware-kit?id=593290263704776711",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        },
+        {
+          "quantity": "0",
+          "variant": "ZL033-1"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa007-power-switch-module-with-2pin-xh2-54-connector-1pcs",
+      "name": "Extra Rechargeable Battery Upgrade Kit",
+      "source_url": "https://us.store.bambulab.com/products/power-switch-module-with-2pin-xh2-54-connector-1pcs?id=712516955017945090",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        },
+        {
+          "quantity": "0",
+          "variant": "ZL033-1"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "mini-screwdriver-toolkit",
+      "name": "Mini Screw Driver Tools Kit - QA025",
+      "source_url": "https://us.store.bambulab.com/products/mini-screwdriver-toolkit",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa154-m2-5-socket-head-cap-machine-screws-shcs-1",
+      "name": "M2.5x6 SHCS Machine Screw (20PCS) - AA029",
+      "source_url": "https://us.store.bambulab.com/products/m2-5-socket-head-cap-machine-screws-shcs-1?id=42341509890184",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa154-m2-5-socket-head-cap-machine-screws-shcs-1",
+      "name": "M2.5x10 SHCS Machine Screw (20PCS) - AA155",
+      "source_url": "https://us.store.bambulab.com/products/m2-5-socket-head-cap-machine-screws-shcs-1?id=48672756105564",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xc006-100mm-wire-with-3pin-sh1-0-connectors-2pcs",
+      "name": "300mm Wire with 3Pin SH1.0 Connectors (2PCS) - XC016",
+      "source_url": "https://us.store.bambulab.com/products/100mm-wire-with-3pin-sh1-0-connectors-2pcs?id=665416793772224519",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa208-m3-socket-head-shoulder-machine-screws-shss",
+      "name": "M3x4x6 SHSS Machine Screw (10PCS) - AA121",
+      "source_url": "https://us.store.bambulab.com/products/m3-socket-head-shoulder-machine-screws-shss?id=48699623571804",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "la002-n20-reduction-gear-motor",
+      "name": "N20 Reduction Gear Motor 400rpm (1PCS) - LA003",
+      "source_url": "https://us.store.bambulab.com/products/n20-reduction-gear-motor?id=42122646618248",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "MR74zz Steel Deep Groove Ball Bearings (6PCS) - EA009",
+      "source_url": "https://us.store.bambulab.com/products/micro-steel-deep-groove-ball-bearings?id=42504744435848",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ab009-round-threaded-brass-heat-insert-nut",
+      "name": "M3x5x4 Round Threaded Brass Heat-Insert Nut (20PCS) - AB012",
+      "source_url": "https://us.store.bambulab.com/products/round-threaded-brass-heat-insert-nut?id=42410687529096",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x12 SHCS Self Tapping Screw (20PCS) - AA095",
+      "source_url": "https://us.store.bambulab.com/products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=48694574448988",
+      "variant_quantities": [
+        {
+          "quantity": "3",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x6 SHCS Self Tapping Screw (20PCS) - AA093",
+      "source_url": "https://us.store.bambulab.com/products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=48694574350684",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x10 SHCS Self Tapping Screw (20PCS) - AA200",
+      "source_url": "https://us.store.bambulab.com/products/bt3-socket-head-cap-self-tapping-screws-shcs-new?id=48694582640988",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "pj001-m3-aluminum-rod-end-ball-joint",
+      "name": "M3 Aluminum Rod End Ball Joint (12PCS) - PJ001",
+      "source_url": "https://us.store.bambulab.com/products/m3-aluminum-rod-end-ball-joint?id=43213126107272",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa226-m3-carbon-steel-full-thread-rod",
+      "name": "M3x30 mm Carbon Steel Full-Thread Rod (6PCS) - AA227",
+      "source_url": "https://us.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=43205795283080",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa006-ws2812-led-hub-with-3pin-sh1-0-connector-1pcs",
+      "name": "WS2812 LED Hub with 3Pin SH1.0 Connector (1PCS) - XA006",
+      "source_url": "https://us.store.bambulab.com/products/ws2812-led-hub-with-3pin-sh1-0-connector-1pcs?id=592875330737975298",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "ZL033"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Authentic Design, Ready for Action"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This RC Jeep captures the iconic look of a classic military vehicle, complete with its distinctive olive-green finish and star emblem."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The robust design isn't just for show; it's built to handle various terrains, making it perfect for both display and dynamic play."
+    },
+    {
+      "kind": "heading",
+      "text": "Remote Control Instruction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This model is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,"
+    },
+    {
+      "kind": "paragraph",
+      "text": "while the CyberBrick App allows full customization of controller functions to match your personal preferences."
+    },
+    {
+      "kind": "paragraph",
+      "text": "* Please visit the CyberBrick Official Standard Remote on Makerworld for more details."
+    },
+    {
+      "kind": "heading",
+      "text": "CyberBrick App Connection Tutorial"
+    },
+    {
+      "kind": "paragraph",
+      "text": "*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model."
+    },
+    {
+      "kind": "heading",
+      "text": "Core Safety Rules"
+    },
+    {
+      "kind": "bullet",
+      "text": "This product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT touch the moving parts while the device is operating to prevent pinching injuries."
+    },
+    {
+      "kind": "bullet",
+      "text": "Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty."
+    },
+    {
+      "kind": "bullet",
+      "text": "Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards."
+    },
+    {
+      "kind": "heading",
+      "text": "Warning of Lithium Battery"
+    },
+    {
+      "kind": "bullet",
+      "text": "This product utilizes a replaceable rechargeable lithium battery."
+    },
+    {
+      "kind": "bullet",
+      "text": "Adult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging."
+    },
+    {
+      "kind": "bullet",
+      "text": "Ensure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion."
+    },
+    {
+      "kind": "bullet",
+      "text": "Regularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired."
+    },
+    {
+      "kind": "bullet",
+      "text": "Choking Hazard: Contains small parts; not suitable for children under 3 years of age."
+    },
+    {
+      "kind": "bullet",
+      "text": "Improper disposal of this product may harm the environment - please recycle responsibly."
+    },
+    {
+      "kind": "heading",
+      "text": "Charging Precautions"
+    },
+    {
+      "kind": "bullet",
+      "text": "Use only the officially supplied charger. The charger is not a toy."
+    },
+    {
+      "kind": "bullet",
+      "text": "The USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging."
+    },
+    {
+      "kind": "bullet",
+      "text": "If the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge."
+    },
+    {
+      "kind": "heading",
+      "text": "Lithium Battery Safety Precautions"
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT disassemble, crush, or mechanically abuse the battery pack."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT dispose of the battery pack in fire."
+    },
+    {
+      "kind": "bullet",
+      "text": "Exercise extreme caution when handling an overheated battery pack."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 10px; font-size: 24px; text-align: center;\">Authentic Design, Ready for Action</h2>\n<p class=\"pct_p\" style=\"text-align: center;\">This RC Jeep captures the iconic look of a classic military vehicle, complete with its distinctive olive-green finish and star emblem.</p>\n<p class=\"pct_p\" style=\"text-align: center; margin-top: -0px; margin-bottom: 10px;\">The robust design isn't just for show; it's built to handle various terrains, making it perfect for both display and dynamic play.</p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<p></p>\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px;\">Remote Control Instruction</h2>\n<p class=\"pct_p\" style=\"text-align: center;\">This model is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,</p>\n<p>while the CyberBrick App allows full customization of controller functions to match your personal preferences.</p>\n<p class=\"pct_p\" style=\"text-align: center;\"><em><span style=\"font-size: 12px;\">* Please visit the <a href=\"https://makerworld.com/en/models/1395991-cyberbrick-official-standard-remote#profileId-1446992\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">CyberBrick Official Standard Remote on Makerworld </span></strong></a> for more details.</span></em></p>\n</div>\n</div>\n<style>\n        .image-container {\n            display: flex;\n            gap: 30px; \n            justify-content: center; \n            align-items: center; \n            height: auto; \n        }\n        .image-container img {\n            width: 650px;\n            height: flex;\n            object-fit: contain; \n        }\n    </style>\n<div class=\"image-container\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/649e4c5d14be49d08070b7dddd50abab/Sender.png\" height=\"525\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"735\"/> <a href=\"https://bambulab.com/en/download/cyberbrick-apps\" rel=\"noopener\" target=\"_blank\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c822010a332c4bf6b9c6ec5db116a293/Frame_1123867487.jpg\" height=\"527\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"735\"/></a></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 10px; font-size: 24px; text-align: center;\">CyberBrick App Connection Tutorial</h2>\n<p style=\"text-align: left; margin-top: 10px; margin-bottom: -40px;\"><span style=\"font-size: 14px;\"><em>*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.</em></span></p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse; height: 103px;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 26px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 26px;\"><strong>ZL033</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 26px;\"><strong>ZL033-1</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/cyberbrick-hardware-kit?id=693609770765615104\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">CyberBrick Standard Car Kit - ZK006</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/629a83626d534ccda282dbe38c884a9c/B-ZK006.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">0</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/cyberbrick-hardware-kit?id=593290263704776711\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">CyberBrick Beginner Hardware Kit - ZK004</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/87d9af310b92481e92c2d6b817c3d6f2/B-ZK004.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">0</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/power-switch-module-with-2pin-xh2-54-connector-1pcs?id=712516955017945090\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">Extra Rechargeable Battery Upgrade Kit</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/48ac79d4d8944ec59acdf7175af2ef04/upgrade_kit.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">0</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/mini-screwdriver-toolkit\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">Mini Screw Driver Tools Kit - QA025</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/97b388a5a3a84dceb5c0cdb1e717ca2e/tool2.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/m2-5-socket-head-cap-machine-screws-shcs-1?id=42341509890184\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">M2.5x6 SHCS Machine Screw (20PCS) - AA029</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/f0ba35830a0a4cd7959f1bcd25c3e8f9/AA005-7_9ffb71de-d598-4f60-847c-ad298bd2bc91.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/m2-5-socket-head-cap-machine-screws-shcs-1?id=48672756105564\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">M2.5x10 SHCS Machine Screw (20PCS) - AA155</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/24cc66d6c2734b0289b5863ebc05c864/AA005-3_cefd4333-18df-40bb-bc4c-f779652dbdc9.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/100mm-wire-with-3pin-sh1-0-connectors-2pcs?id=665416793772224519\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">300mm Wire with 3Pin SH1.0 Connectors (2PCS) - XC016</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/712aecf343bb4751a4b85881b255cd6a/B-XC016.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/m3-socket-head-shoulder-machine-screws-shss?id=48699623571804\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">M3x4x6 SHSS Machine Screw (10PCS) - AA121</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/bb6cf85ff97b49aba64493623ab83849/1_25fa135a-027e-4af0-b162-4c361bc40377.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/n20-reduction-gear-motor?id=42122646618248\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">N20 Reduction Gear Motor 400rpm (1PCS) - LA003</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/08a1a4242797476ca54a20f43c947c7b/N20_400rpm_-_LA003.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/micro-steel-deep-groove-ball-bearings?id=42504744435848\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">MR74zz Steel Deep Groove Ball Bearings (6PCS) - EA009</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/7f35045ec7244feb8b68fbb5fab4790a/FAC036-3_ccf416f8-c6d8-4f31-8c3f-7b5eb156a448.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/round-threaded-brass-heat-insert-nut?id=42410687529096\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">M3x5x4 Round Threaded Brass Heat-Insert Nut (20PCS) - AB012</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/6a492da10823441da9b181e23f76336f/AB001-3_3de4ba3e-367d-4ea8-b011-2ad51ac3bd88.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=48694574448988\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">BT2x12 SHCS Self Tapping Screw (20PCS) - AA095</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/092de6d57fe241f9bc4815028f1ec086/AA019-30_9250e078-a69a-4cbe-8d2c-40c78a077cc4.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=48694574350684\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">BT2x6 SHCS Self Tapping Screw (20PCS) - AA093</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/9e49ffc8536f40538e0c46865060b6d1/AA019_722c8005-bb0b-40ab-841d-7ebd0e01184a.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/bt3-socket-head-cap-self-tapping-screws-shcs-new?id=48694582640988\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">BT3x10 SHCS Self Tapping Screw (20PCS) - AA200</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/94a3d74caab947a1976a429cb296ac95/AA019-20_3d19f085-3c30-40cf-9b10-dad60a496397.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/m3-aluminum-rod-end-ball-joint?id=43213126107272\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">M3 Aluminum Rod End Ball Joint (12PCS) - PJ001 </a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/2ecde25c574147959557066da21c6419/b-pj001.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/m3-carbon-steel-full-thread-rod?id=43205795283080\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">M3x30 mm Carbon Steel Full-Thread Rod (6PCS) - AA227</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/859d523eedc244f299d645a957eb1cb6/B-AA227_bianti.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/ws2812-led-hub-with-3pin-sh1-0-connector-1pcs?id=592875330737975298\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">WS2812 LED Hub with 3Pin SH1.0 Connector (1PCS) - XA006</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/81d6c63baf64464e89b76046c7724490/B-XA006-1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<h2 class=\"pct_t\" style=\"margin-top: 30px; font-size: 24px;\">Documentation</h2>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"font-size: 24px; margin-top: 40px; text-align: center;\">Important Notices</h2>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Core Safety Rules</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">This product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> touch the moving parts while the device is operating to prevent pinching injuries.</li>\n<li style=\"text-align: left; font-size: 16px;\">Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.</li>\n<li style=\"text-align: left; font-size: 16px;\">Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Warning of Lithium Battery</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">This product utilizes a replaceable rechargeable lithium battery.</li>\n<li style=\"text-align: left; font-size: 16px;\">Adult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.</li>\n<li style=\"text-align: left; font-size: 16px;\">Ensure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.</li>\n<li style=\"text-align: left; font-size: 16px;\">Regularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.</li>\n<li style=\"text-align: left; font-size: 16px;\">Choking Hazard: Contains small parts; not suitable for children under 3 years of age.</li>\n<li style=\"text-align: left; font-size: 16px;\">Improper disposal of this product may harm the environment - please recycle responsibly.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Charging Precautions</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">Use only the officially supplied charger. The charger is not a toy.</li>\n<li style=\"text-align: left; font-size: 16px;\">The USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. <strong>DO NOT</strong> use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> charge the battery pack if it is overheating. Allow it to cool down completely before recharging.</li>\n<li style=\"text-align: left; font-size: 16px;\">If the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Lithium Battery Safety Precautions</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> disassemble, crush, or mechanically abuse the battery pack.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> dispose of the battery pack in fire.</li>\n<li style=\"text-align: left; font-size: 16px;\">Exercise extreme caution when handling an overheated battery pack.</li>\n</ul>\n</div>\n</div>\n</div>",
+  "description_text": "This RC Jeep captures the iconic look of a classic military vehicle, complete with its distinctive olive-green finish and star emblem.\n\nThe robust design isn't just for show; it's built to handle various terrains, making it perfect for both display and dynamic play.\n\nThis model is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zl033-willy-s-cyberbrick-rc-jeep",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Willy´s CyberBrick RC Jeep",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "65.79",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/willy%C2%B4s-cyberbrick-rc-jeep?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "86.09",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/willy%C2%B4s-cyberbrick-rc-jeep?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "69.29",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/willy%C2%B4s-cyberbrick-rc-jeep?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "55.29",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/willy%C2%B4s-cyberbrick-rc-jeep?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "158.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/willy%C2%B4s-cyberbrick-rc-jeep?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA029",
+    "AA093",
+    "AA095",
+    "AA121",
+    "AA155",
+    "AA200",
+    "AA227",
+    "AB012",
+    "EA009",
+    "LA003",
+    "PJ001",
+    "QA025",
+    "XA006",
+    "XC016",
+    "ZK004",
+    "ZK006",
+    "ZL033"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "View More",
+      "url": "https://makerworld.com/en/models/1408957-willy-s-cyberbrick-rc-jeep?from=search#profileId-1462374"
+    },
+    {
+      "kind": "makerworld",
+      "title": "CyberBrick Official Standard Remote on Makerworld",
+      "url": "https://makerworld.com/en/models/1395991-cyberbrick-official-standard-remote#profileId-1446992"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "759190602129666054",
+    "759190602129666059",
+    "759191438025093126",
+    "759191438025093131",
+    "759191681949024262",
+    "759191681949024267",
+    "759191834126770182",
+    "759191834126770187",
+    "759192081318019078",
+    "759192081318019085"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Name",
+        "ZL033",
+        "ZL033-1"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759191834126770182"
+      },
+      "rows": [
+        [
+          "CyberBrick Standard Car Kit - ZK006",
+          "0",
+          "1"
+        ],
+        [
+          "CyberBrick Beginner Hardware Kit - ZK004",
+          "1",
+          "0"
+        ],
+        [
+          "Extra Rechargeable Battery Upgrade Kit",
+          "1",
+          "0"
+        ],
+        [
+          "Mini Screw Driver Tools Kit - QA025",
+          "1"
+        ],
+        [
+          "M2.5x6 SHCS Machine Screw (20PCS) - AA029",
+          "1"
+        ],
+        [
+          "M2.5x10 SHCS Machine Screw (20PCS) - AA155",
+          "1"
+        ],
+        [
+          "300mm Wire with 3Pin SH1.0 Connectors (2PCS) - XC016",
+          "1"
+        ],
+        [
+          "M3x4x6 SHSS Machine Screw (10PCS) - AA121",
+          "1"
+        ],
+        [
+          "N20 Reduction Gear Motor 400rpm (1PCS) - LA003",
+          "2"
+        ],
+        [
+          "MR74zz Steel Deep Groove Ball Bearings (6PCS) - EA009",
+          "1"
+        ],
+        [
+          "M3x5x4 Round Threaded Brass Heat-Insert Nut (20PCS) - AB012",
+          "1"
+        ],
+        [
+          "BT2x12 SHCS Self Tapping Screw (20PCS) - AA095",
+          "3"
+        ],
+        [
+          "BT2x6 SHCS Self Tapping Screw (20PCS) - AA093",
+          "2"
+        ],
+        [
+          "BT3x10 SHCS Self Tapping Screw (20PCS) - AA200",
+          "1"
+        ],
+        [
+          "M3 Aluminum Rod End Ball Joint (12PCS) - PJ001",
+          "1"
+        ],
+        [
+          "M3x30 mm Carbon Steel Full-Thread Rod (6PCS) - AA227",
+          "1"
+        ],
+        [
+          "WS2812 LED Hub with 3Pin SH1.0 Connector (1PCS) - XA006",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/eb5160d72ba54b4a9ea34c26b9ea3646/1-1.png",
+      "part_number": "ZL033",
+      "price": "65.79",
+      "region": "us",
+      "sku": "759191834126770182",
+      "title": "Willy´s CyberBrick RC Jeep - Yes - Remote Included / Willy´s CyberBrick RC Jeep - Remote included - ZL033",
+      "url": "https://us.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759191834126770182",
+      "variant_id": "759191834126770182"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/7bc516fded2143b6962759aadf377ab8/1-2.png",
+      "part_number": "ZL033",
+      "price": "48.99",
+      "region": "us",
+      "sku": "759191834126770187",
+      "title": "Willy´s CyberBrick RC Jeep - No - Vehicle Only / Willy´s CyberBrick RC Jeep - Remote not included - ZL033-1",
+      "url": "https://us.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759191834126770187",
+      "variant_id": "759191834126770187"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/29ce9419e5384a529d9ac1166b180186/1-1.png",
+      "part_number": "ZL033",
+      "price": "86.09",
+      "region": "ca",
+      "sku": "759191438025093126",
+      "title": "Willy´s CyberBrick RC Jeep - Yes - Remote Included / Willy´s CyberBrick RC Jeep - Remote included - ZL033",
+      "url": "https://ca.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759191438025093126",
+      "variant_id": "759191438025093126"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/37eeb437fc6549caa14a926e4a2aa531/1-2.png",
+      "part_number": "ZL033",
+      "price": "62.29",
+      "region": "ca",
+      "sku": "759191438025093131",
+      "title": "Willy´s CyberBrick RC Jeep - No - Vehicle Only / Willy´s CyberBrick RC Jeep - Remote not included - ZL033-1",
+      "url": "https://ca.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759191438025093131",
+      "variant_id": "759191438025093131"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/259cedb0e1524c68ab5116493a6d6368/1-1.png",
+      "part_number": "ZL033",
+      "price": "69.29",
+      "region": "eu",
+      "sku": "759192081318019078",
+      "title": "Willy´s CyberBrick RC Jeep - Yes - Remote Included / Willy´s CyberBrick RC Jeep - Remote included - ZL033",
+      "url": "https://eu.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759192081318019078",
+      "variant_id": "759192081318019078"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/5f260addf5154985a4a9f77944fdef8b/1-2.png",
+      "part_number": "ZL033",
+      "price": "52.49",
+      "region": "eu",
+      "sku": "759192081318019085",
+      "title": "Willy´s CyberBrick RC Jeep - No - Vehicle Only / Willy´s CyberBrick RC Jeep - Remote not included - ZL033-1",
+      "url": "https://eu.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759192081318019085",
+      "variant_id": "759192081318019085"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/f78bc79df6354c0690fbe250dbf9f11d/1-1.png",
+      "part_number": "ZL033",
+      "price": "55.29",
+      "region": "uk",
+      "sku": "759191681949024262",
+      "title": "Willy´s CyberBrick RC Jeep - Yes - Remote Included / Willy´s CyberBrick RC Jeep - Remote included - ZL033",
+      "url": "https://uk.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759191681949024262",
+      "variant_id": "759191681949024262"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/7192c235563a42d1839334e296d2e86a/1-2.png",
+      "part_number": "ZL033",
+      "price": "41.29",
+      "region": "uk",
+      "sku": "759191681949024267",
+      "title": "Willy´s CyberBrick RC Jeep - No - Vehicle Only / Willy´s CyberBrick RC Jeep - Remote not included - ZL033-1",
+      "url": "https://uk.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759191681949024267",
+      "variant_id": "759191681949024267"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/8fdbbd2e93554a22a30f32f35d71f109/1-1.png",
+      "part_number": "ZL033",
+      "price": "158.99",
+      "region": "au",
+      "sku": "759190602129666054",
+      "title": "Willy´s CyberBrick RC Jeep - Yes - Remote Included / Willy´s CyberBrick RC Jeep - Remote included - ZL033",
+      "url": "https://au.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759190602129666054",
+      "variant_id": "759190602129666054"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/7fe4dbb56fe14378914d326a649db3c9/1-2.png",
+      "part_number": "ZL033",
+      "price": "121.99",
+      "region": "au",
+      "sku": "759190602129666059",
+      "title": "Willy´s CyberBrick RC Jeep - No - Vehicle Only / Willy´s CyberBrick RC Jeep - Remote not included - ZL033-1",
+      "url": "https://au.store.bambulab.com/products/willy%C2%B4s-cyberbrick-rc-jeep?id=759190602129666059",
+      "variant_id": "759190602129666059"
+    }
+  ]
+}

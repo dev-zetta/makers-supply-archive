@@ -1,0 +1,357 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "helicopter-kit",
+      "product_id": "654204017012039680",
+      "region": "us"
+    },
+    {
+      "handle": "helicopter-kit",
+      "product_id": "654891095391666176",
+      "region": "ca"
+    },
+    {
+      "handle": "helicopter-kit",
+      "product_id": "654897356839768064",
+      "region": "eu"
+    },
+    {
+      "handle": "helicopter-kit",
+      "product_id": "654896010718941184",
+      "region": "uk"
+    },
+    {
+      "handle": "helicopter-kit",
+      "product_id": "654887879433142272",
+      "region": "au"
+    },
+    {
+      "handle": "helicopter-kit",
+      "product_id": "654883988030496768",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/e4/e4d8a8c29d0ec8271fbc66e74d5fff6a3e3dda153080bf6fce14665a35fb0dbb.png",
+      "id": "image-e317112ce12c8d6eed55",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH112-2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e4d8a8c29d0ec8271fbc66e74d5fff6a3e3dda153080bf6fce14665a35fb0dbb",
+      "size": 565816,
+      "source_url": "https://store.bblcdn.eu/s4/default/37d6a2d9eb524d09b9fc6473487a9526/B-ZH112-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9c/9c762519f91a664ee59df75a1b92476ed45e792b333d6065c5c5a619a1c6af84.png",
+      "id": "image-3277510619c74887e062",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH112.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9c762519f91a664ee59df75a1b92476ed45e792b333d6065c5c5a619a1c6af84",
+      "size": 1198087,
+      "source_url": "https://store.bblcdn.eu/s4/default/296db8dd9d274d9cabcefbbec5416929/B-ZH112.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/13/136297b5efa566bca2003df4b85429c164fa598e52a5c0f4c6acacfbe759825b.png",
+      "id": "image-display-0afdf05c612dde22149c",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e4d8a8c29d0ec8271fbc66e74d5fff6a3e3dda153080bf6fce14665a35fb0dbb",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH112-2.catalog.png",
+      "parent_asset_id": "image-e317112ce12c8d6eed55",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "136297b5efa566bca2003df4b85429c164fa598e52a5c0f4c6acacfbe759825b",
+      "size": 137831,
+      "source_url": "https://store.bblcdn.eu/s4/default/37d6a2d9eb524d09b9fc6473487a9526/B-ZH112-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7e/7eb0a94c8b99598a05d833114e074b9f90a89088d44f1563640e7ca24bdf09ac.png",
+      "id": "image-display-2a0cac9d9967ffbbf6d2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9c762519f91a664ee59df75a1b92476ed45e792b333d6065c5c5a619a1c6af84",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH112.catalog.png",
+      "parent_asset_id": "image-3277510619c74887e062",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7eb0a94c8b99598a05d833114e074b9f90a89088d44f1563640e7ca24bdf09ac",
+      "size": 393721,
+      "source_url": "https://store.bblcdn.eu/s4/default/296db8dd9d274d9cabcefbbec5416929/B-ZH112.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "zc003-rechargeable-power-kit",
+      "name": "Rechargeable Power Kit - ZC003",
+      "quantity": "1 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "single-led-magnetic-control-switch-light",
+      "name": "Single Red LED Magnetic Control Switch Light - KC006",
+      "quantity": "1 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "single-led-magnetic-control-switch-light",
+      "name": "Single LED Magnetic Control Switch Light Green  - KC016",
+      "quantity": "1 pcs",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Helicopter Kit. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Helicopter Kit on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Helicopter Kit</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n<p>To download the model files please visit the <strong>Helicopter Kit</strong> on <a href=\"https://makerworld.com/en/models/1180634-ah-64-apache-helicopter-kit#profileId-1190768\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">Rechargeable Power Kit - ZC003</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">Single Red LED Magnetic Control Switch Light - KC006</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">Single LED Magnetic Control Switch Light Green  - KC016</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1 pcs</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Helicopter Kit. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Helicopter Kit on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh112-helicopter-kit",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Helicopter Kit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "25.03",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/helicopter-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "28.59",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/helicopter-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "23.39",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/helicopter-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "19.86",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/helicopter-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "44.87",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/helicopter-kit?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "22.58",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/helicopter-kit?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-ZH112",
+    "KC006",
+    "KC016",
+    "ZC003",
+    "ZH112"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Ah 64 Apache Helicopter Kit",
+      "url": "https://makerworld.com/en/models/1180634-ah-64-apache-helicopter-kit#profileId-1190768"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "654204017062371328",
+    "654883988072439810",
+    "654887879475085314",
+    "654891095404249090",
+    "654896010765078530",
+    "654897356852350978"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/helicopter-kit?id=654204017062371328"
+      },
+      "rows": [
+        [
+          "Rechargeable Power Kit - ZC003",
+          "1 pcs"
+        ],
+        [
+          "Single Red LED Magnetic Control Switch Light - KC006",
+          "1 pcs"
+        ],
+        [
+          "Single LED Magnetic Control Switch Light Green  - KC016",
+          "1 pcs"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/52aa5ae4de9b45abab92aeff7a0b2097/B-ZH112-2.png",
+      "part_number": "ZH112",
+      "price": "25.03",
+      "region": "us",
+      "sku": "654204017062371328",
+      "title": "Helicopter Kit - Helicopter Kit - ZH112",
+      "url": "https://us.store.bambulab.com/products/helicopter-kit?id=654204017062371328",
+      "variant_id": "654204017062371328"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/7e480e60222f435ebd087dda1cc07bfa/B-ZH112-2.png",
+      "part_number": "ZH112",
+      "price": "28.59",
+      "region": "ca",
+      "sku": "654891095404249090",
+      "title": "Helicopter Kit - Helicopter Kit - ZH112",
+      "url": "https://ca.store.bambulab.com/products/helicopter-kit?id=654891095404249090",
+      "variant_id": "654891095404249090"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/fa2d7f995aac4e9a85c8b58663644546/B-ZH112-2.png",
+      "part_number": "ZH112",
+      "price": "23.39",
+      "region": "eu",
+      "sku": "654897356852350978",
+      "title": "Helicopter Kit - Helicopter Kit - ZH112",
+      "url": "https://eu.store.bambulab.com/products/helicopter-kit?id=654897356852350978",
+      "variant_id": "654897356852350978"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/37d6a2d9eb524d09b9fc6473487a9526/B-ZH112-2.png",
+      "part_number": "ZH112",
+      "price": "19.86",
+      "region": "uk",
+      "sku": "654896010765078530",
+      "title": "Helicopter Kit - Helicopter Kit - ZH112",
+      "url": "https://uk.store.bambulab.com/products/helicopter-kit?id=654896010765078530",
+      "variant_id": "654896010765078530"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/2a18ff41502a4064bf88cd058971fabf/B-ZH112-2.png",
+      "part_number": "ZH112",
+      "price": "44.87",
+      "region": "au",
+      "sku": "654887879475085314",
+      "title": "Helicopter Kit - Helicopter Kit - ZH112",
+      "url": "https://au.store.bambulab.com/products/helicopter-kit?id=654887879475085314",
+      "variant_id": "654887879475085314"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/b1ff237edda1450aaaec2a20e9672b4d/B-ZH112-2.png",
+      "part_number": "ZH112",
+      "price": "22.58",
+      "region": "asia",
+      "sku": "654883988072439810",
+      "title": "Helicopter Kit - Helicopter Kit - ZH112",
+      "url": "https://asia.store.bambulab.com/products/helicopter-kit?id=654883988072439810",
+      "variant_id": "654883988072439810"
+    }
+  ]
+}

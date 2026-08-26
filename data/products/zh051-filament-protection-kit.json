@@ -1,0 +1,369 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "filament-protection-kit",
+      "product_id": "8422536544392",
+      "region": "us"
+    },
+    {
+      "handle": "filament-protection-kit",
+      "product_id": "9110895001840",
+      "region": "ca"
+    },
+    {
+      "handle": "filament-protection-kit",
+      "product_id": "14777663717724",
+      "region": "eu"
+    },
+    {
+      "handle": "filament-protection-kit",
+      "product_id": "536324043135270912",
+      "region": "uk"
+    },
+    {
+      "handle": "filament-protection-kit",
+      "product_id": "536323711411453952",
+      "region": "au"
+    },
+    {
+      "handle": "filament-protection-kit",
+      "product_id": "536323182250430464",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/8c/8c1cfba04bac23ed7afadd7f0e413b868904fee8377a82c8c6512bfc392b1ca8.png",
+      "id": "image-023941aff1dda1093be4",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "zh051.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8c1cfba04bac23ed7afadd7f0e413b868904fee8377a82c8c6512bfc392b1ca8",
+      "size": 580953,
+      "source_url": "https://store.bblcdn.com/s1/default/7ea98cb2308a4e86ac1a0d1408cc6f0e/zh051.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/58/58afb6abf07e06c53a8c656ce69d65722ce3fe17e5a8cea2206a8033f3a3af9d.zip",
+      "id": "archive-65a7a6c479b85d4e0823",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Filament_Protection_Kit-B-ZH051_Model.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "58afb6abf07e06c53a8c656ce69d65722ce3fe17e5a8cea2206a8033f3a3af9d",
+      "size": 106521,
+      "source_url": "https://store.bblcdn.com/s7/default/61fba33f24d148688de8432921f9a759/Filament_Protection_Kit-B-ZH051_Model.zip"
+    },
+    {
+      "archive_member_path": "Circular Embedded Electronic Digital Thermometer Hygrometer - XF001/Circular Embedded Electronic Digital Thermometer Hygrometer - XF001.stl",
+      "blob_path": "data/blobs/sha256/83/832212b90a83ae5ba7a841f441c6778fc0b9d14e396507193f288308e13453a5.stl",
+      "id": "model-efadb1ed01fee5b7d943",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Circular Embedded Electronic Digital Thermometer Hygrometer - XF001.stl",
+      "parent_asset_id": "archive-65a7a6c479b85d4e0823",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "832212b90a83ae5ba7a841f441c6778fc0b9d14e396507193f288308e13453a5",
+      "size": 142984,
+      "source_url": "https://store.bblcdn.com/s7/default/61fba33f24d148688de8432921f9a759/Filament_Protection_Kit-B-ZH051_Model.zip"
+    },
+    {
+      "archive_member_path": "Circular Embedded Electronic Digital Thermometer Hygrometer - XF001/Circular Embedded Electronic Digital Thermometer Hygrometer - XF001.stp",
+      "blob_path": "data/blobs/sha256/1b/1b5ec2821cfa6c03cb488aab0c0fdc14519ca89f8964f940653d316ed455b4b0.stp",
+      "id": "model-1f84b87a3fbaeee30de4",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Circular Embedded Electronic Digital Thermometer Hygrometer - XF001.stp",
+      "parent_asset_id": "archive-65a7a6c479b85d4e0823",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "1b5ec2821cfa6c03cb488aab0c0fdc14519ca89f8964f940653d316ed455b4b0",
+      "size": 421511,
+      "source_url": "https://store.bblcdn.com/s7/default/61fba33f24d148688de8432921f9a759/Filament_Protection_Kit-B-ZH051_Model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e3/e3eb9a6848a9adeed3e2557bc538abe57e54e95f0efaa7bd70040f6f5f75474e.png",
+      "id": "image-display-5f98750013fe26f562b5",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "8c1cfba04bac23ed7afadd7f0e413b868904fee8377a82c8c6512bfc392b1ca8",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "zh051.catalog.png",
+      "parent_asset_id": "image-023941aff1dda1093be4",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e3eb9a6848a9adeed3e2557bc538abe57e54e95f0efaa7bd70040f6f5f75474e",
+      "size": 128971,
+      "source_url": "https://store.bblcdn.com/s1/default/7ea98cb2308a4e86ac1a0d1408cc6f0e/zh051.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "linked_product_id": "xf001-circular-embedded-electronic-digital-thermometer-hygrometer-1pcs-xf001",
+      "name": "Circular Embedded Electronic Digital Thermometer Hygrometer (1pcs) - XF001",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/circular-embedded-electronic-digital-thermometer-hygrometer-1pcs-xf001",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "linked_product_id": "nc005-adhesive-foam-sponge-strip-roll",
+      "name": "20x0.5mm Adhesive Foam Sponge Strip Roll 5m (1pcs) - NC005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?_pos=1&_sid=60e4d2ff4&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "name": "Desiccant for AMS 2/AMS HT（6 pack）- SAA029",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/desiccant-for-ams-2-pro-and-ams-ht?id=54203098825052&skr=yes",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This Filament Protection Kit includes 6 packs of desiccant, 2 thermometer hygrometers, and 1 roll of adhesive foam sponge strip roll, effectively preventing filaments to absorb moisture by humid environments. The components in the kit can replace expired desiccants in the AMS and add standalone hygrometers. Additionally, they can be used to modify multiple filament storage boxes, providing a safer storage environment for opened filaments."
+    },
+    {
+      "kind": "heading",
+      "text": "Application"
+    },
+    {
+      "kind": "bullet",
+      "text": "AMS and Filament Box Maintenance: Equipped with sufficient desiccants to meet the replacement needs for expired desiccants."
+    },
+    {
+      "kind": "bullet",
+      "text": "Filament Box Upgrades: Use adhesive foam sponge strip roll to enhance the sealing performance of DIY filament box, place desiccants inside to absorb moisture, and install hygrometers for real-time monitoring of storage conditions, ensuring filaments remain in optimal condition."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h1 class=\"pct_t\">Documentation</h1>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><br/><a href=\"https://store.bblcdn.com/s7/default/61fba33f24d148688de8432921f9a759/Filament_Protection_Kit-B-ZH051_Model.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> 3D Model </a></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<p> </p>\n<h3 class=\"pct_st\" style=\"text-align: left;\">Overview</h3>\n<p></p>\n<p class=\"pct_p\">This<strong> Filament Protection Kit </strong>includes 6 packs of desiccant, 2  thermometer hygrometers, and 1 roll of adhesive foam sponge strip roll, effectively preventing filaments to absorb moisture by humid environments. The components in the kit can replace expired desiccants in the AMS and add standalone hygrometers. Additionally, they can be used to modify multiple filament storage boxes, providing a safer storage environment for opened filaments.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\"><!-- 第一条 -->\n<div class=\"pct_stpc-ic\"></div>\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Application</h3>\n<p class=\"pct_p\" style=\"text-align: left;\"> </p>\n<ul>\n<li class=\"ace-line ace-line old-record-id-BwfmdgWaBoENgux5o5mcfW39nhl\"><strong>AMS and Filament Box Maintenance: </strong>Equipped with sufficient desiccants to meet the replacement needs for expired desiccants.</li>\n<li class=\"ace-line ace-line old-record-id-BwfmdgWaBoENgux5o5mcfW39nhl\"><strong>Filament Box Upgrades: </strong>Use adhesive foam sponge strip roll to enhance the sealing performance of DIY filament box, place desiccants inside to absorb moisture, and install hygrometers for real-time monitoring of storage conditions, ensuring filaments remain in optimal condition.<strong></strong></li>\n</ul>\n<p> </p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/31f877284c764904a43e36cdb3b46a12/AMSSSS_d5e0d51c-0109-44e4-a87d-ce14958aff5e.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/><img alt=\"\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/31f877284c764904a43e36cdb3b46a12/AMSSSS_d5e0d51c-0109-44e4-a87d-ce14958aff5e.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> </div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<h3 class=\"pct_st\" style=\"text-align: left;\"></h3>\n<h3 class=\"pct_st\" style=\"text-align: left;\"></h3>\n<h3 class=\"pct_st\" style=\"text-align: left;\">In the box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 285px; width: 100%; text-align: center; border-collapse: collapse;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><b>Item Number</b></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/circular-embedded-electronic-digital-thermometer-hygrometer-1pcs-xf001\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"><span>Circular Embedded Electronic Digital Thermometer Hygrometer (1pcs) - XF001</span></a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?_pos=1&amp;_sid=60e4d2ff4&amp;_ss=r\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"><span>20x0.5mm Adhesive Foam Sponge Strip Roll 5m (1pcs) - NC005</span></a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 58.7812px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/desiccant-for-ams-2-pro-and-ams-ht?id=54203098825052&amp;skr=yes\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Desiccant for AMS 2/AMS HT（6 pack）- SAA029</a><a href=\"https://us.store.bambulab.com/products/desiccant-for-ams?_pos=2&amp;_sid=82d285524&amp;_ss=r\" style=\"color: #00ae42;\"></a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "This Filament Protection Kit includes 6 packs of desiccant, 2 thermometer hygrometers, and 1 roll of adhesive foam sponge strip roll, effectively preventing filaments to absorb moisture by humid environments. The components in the kit can replace expired desiccants in the AMS and add standalone hygrometers. Additionally, they can be used to modify multiple filament storage boxes, providing a safer storage environment for opened filaments.\n\nAMS and Filament Box Maintenance: Equipped with sufficient desiccants to meet the replacement needs for expired desiccants.\n\nFilament Box Upgrades: Use adhesive foam sponge strip roll to enhance the sealing performance of DIY filament box, place desiccants inside to absorb moisture, and install hygrometers for real-time monitoring of storage conditions, ensuring filaments remain in optimal condition.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh051-filament-protection-kit",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Filament Protection Kit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.81",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "14.61",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.32",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "25.81",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.46",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "NC005",
+    "SAA029",
+    "XF001",
+    "ZH051"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "43094396502152",
+    "46816982532336",
+    "53492852457820",
+    "536323182263013378",
+    "536323711419842562",
+    "536324043147853826"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/filament-protection-kit?id=43094396502152"
+      },
+      "rows": [
+        [
+          "1",
+          "Circular Embedded Electronic Digital Thermometer Hygrometer (1pcs) - XF001",
+          "2"
+        ],
+        [
+          "2",
+          "20x0.5mm Adhesive Foam Sponge Strip Roll 5m (1pcs) - NC005",
+          "1"
+        ],
+        [
+          "3",
+          "Desiccant for AMS 2/AMS HT（6 pack）- SAA029",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/c6abf0f7d23c4d0e8e33423dcc4cd93f/zh051.png",
+      "part_number": "ZH051",
+      "price": "13.81",
+      "region": "us",
+      "sku": "43094396502152",
+      "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
+      "url": "https://us.store.bambulab.com/products/filament-protection-kit?id=43094396502152",
+      "variant_id": "43094396502152"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/0637a7e56aaa4d5c95067c566477409e/zh051.png",
+      "part_number": "ZH051",
+      "price": "17.99",
+      "region": "ca",
+      "sku": "46816982532336",
+      "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
+      "url": "https://ca.store.bambulab.com/products/filament-protection-kit?id=46816982532336",
+      "variant_id": "46816982532336"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/7f629af85a16432ea0bb72c773720ed2/zh051.png",
+      "part_number": "ZH051",
+      "price": "14.61",
+      "region": "eu",
+      "sku": "53492852457820",
+      "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
+      "url": "https://eu.store.bambulab.com/products/filament-protection-kit?id=53492852457820",
+      "variant_id": "53492852457820"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/25324ba12d7e4402af8d4001143b5ba1/zh051.png",
+      "part_number": "ZH051",
+      "price": "12.32",
+      "region": "uk",
+      "sku": "536324043147853826",
+      "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
+      "url": "https://uk.store.bambulab.com/products/filament-protection-kit?id=536324043147853826",
+      "variant_id": "536324043147853826"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/3cc28b2f1d5a438b92b8d7c6331e23fa/zh051.png",
+      "part_number": "ZH051",
+      "price": "25.81",
+      "region": "au",
+      "sku": "536323711419842562",
+      "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
+      "url": "https://au.store.bambulab.com/products/filament-protection-kit?id=536323711419842562",
+      "variant_id": "536323711419842562"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/7ea98cb2308a4e86ac1a0d1408cc6f0e/zh051.png",
+      "part_number": "ZH051",
+      "price": "12.46",
+      "region": "asia",
+      "sku": "536323182263013378",
+      "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
+      "url": "https://store.bambulab.com/products/filament-protection-kit?id=536323182263013378",
+      "variant_id": "536323182263013378"
+    }
+  ]
+}

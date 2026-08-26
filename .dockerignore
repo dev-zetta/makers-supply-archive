@@ -1,0 +1,18 @@
+# Keep image builds small and deterministic. Catalog data and mirrored assets are
+# mounted read-only at runtime and must never be copied into the application image.
+*
+!pyproject.toml
+!uv.lock
+!README.md
+!LICENSE
+!src/
+!src/**
+!apps/
+!apps/catalog-web/
+!apps/catalog-web/**
+
+apps/catalog-web/frontend/node_modules/
+apps/catalog-web/frontend/playwright-report/
+apps/catalog-web/frontend/test-results/
+**/__pycache__/
+**/*.pyc

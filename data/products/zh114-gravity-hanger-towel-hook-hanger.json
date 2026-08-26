@@ -1,0 +1,346 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "gravity-hanger-towel-hook-hanger",
+      "product_id": "655300557653512192",
+      "region": "us"
+    },
+    {
+      "handle": "gravity-hanger-towel-hook-hanger",
+      "product_id": "655299120111456256",
+      "region": "ca"
+    },
+    {
+      "handle": "gravity-hanger-towel-hook-hanger",
+      "product_id": "655301258496294912",
+      "region": "eu"
+    },
+    {
+      "handle": "gravity-hanger-towel-hook-hanger",
+      "product_id": "655299865111875584",
+      "region": "uk"
+    },
+    {
+      "handle": "gravity-hanger-towel-hook-hanger",
+      "product_id": "655298303756275712",
+      "region": "au"
+    },
+    {
+      "handle": "gravity-hanger-towel-hook-hanger",
+      "product_id": "655294231575126016",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/86/8681ef05fac9e4f8430ade1183c7c5132aace9ce4ffd4f3d29996f6fc299002e.png",
+      "id": "image-38277e851b116c75444d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH114-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8681ef05fac9e4f8430ade1183c7c5132aace9ce4ffd4f3d29996f6fc299002e",
+      "size": 3286766,
+      "source_url": "https://store.bblcdn.com/s1/default/5c5774e03f8f489c83478a36cc6bf492/B-ZH114-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e7/e702a7e9021098185b7fb5ba4676244628f1302f4f9ccb279ae9717d1ff47920.png",
+      "id": "image-46d58aac6418570d9766",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH114.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e702a7e9021098185b7fb5ba4676244628f1302f4f9ccb279ae9717d1ff47920",
+      "size": 576610,
+      "source_url": "https://store.bblcdn.com/s1/default/5114522d71584c31913c5bdf23144df2/ZH114.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d3/d3b6cf11651b42d62adc99f89a824bfe55d86a34b5431282acadde54229c5531.png",
+      "id": "image-display-3affd15a0d0fbffa3ea2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "8681ef05fac9e4f8430ade1183c7c5132aace9ce4ffd4f3d29996f6fc299002e",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH114-1.catalog.png",
+      "parent_asset_id": "image-38277e851b116c75444d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d3b6cf11651b42d62adc99f89a824bfe55d86a34b5431282acadde54229c5531",
+      "size": 922830,
+      "source_url": "https://store.bblcdn.com/s1/default/5c5774e03f8f489c83478a36cc6bf492/B-ZH114-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/0e/0e846392bd9366bc11747a876bbcdcb281b59b3d89e2b207a9733c9e1d3d7b38.png",
+      "id": "image-display-c2e27414271dc6b566dd",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e702a7e9021098185b7fb5ba4676244628f1302f4f9ccb279ae9717d1ff47920",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH114.catalog.png",
+      "parent_asset_id": "image-46d58aac6418570d9766",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0e846392bd9366bc11747a876bbcdcb281b59b3d89e2b207a9733c9e1d3d7b38",
+      "size": 128130,
+      "source_url": "https://store.bblcdn.com/s1/default/5114522d71584c31913c5bdf23144df2/ZH114.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "zb001-plastic-balls",
+      "name": "14mm Plastic ball - ZB001",
+      "quantity": "10 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "nb001-square-double-sided-foam-tape",
+      "name": "40x40mm Square Double Sided Foam Tape - NB002",
+      "quantity": "10 pcs",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Gravity Hanger - Towel Hook/Hanger. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Gravity Hanger - Towel Hook/Hanger on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Gravity Hanger - Towel Hook/Hanger</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Gravity Hanger - Towel Hook/Hanger</strong> on <a href=\"https://makerworld.com/en/models/720043-gravity-hanger-towel-hook-hanger#profileId-650883\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">14mm Plastic ball - ZB001</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">10 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">40x40mm Square Double Sided Foam Tape - NB002</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">10 pcs</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Gravity Hanger - Towel Hook/Hanger. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Gravity Hanger - Towel Hook/Hanger on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh114-gravity-hanger-towel-hook-hanger",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Gravity Hanger - Towel Hook/Hanger",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.78",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.04",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.12",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.5",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.92",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.98",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-ZH114",
+    "NB002",
+    "ZB001",
+    "ZH114"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Gravity Hanger Towel Hook Hanger",
+      "url": "https://makerworld.com/en/models/720043-gravity-hanger-towel-hook-hanger#profileId-650883"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "655294231633846273",
+    "655298303806607362",
+    "655299120153399298",
+    "655299865262870530",
+    "655300557712232449",
+    "655301258508877826"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655300557712232449"
+      },
+      "rows": [
+        [
+          "14mm Plastic ball - ZB001",
+          "10 pcs"
+        ],
+        [
+          "40x40mm Square Double Sided Foam Tape - NB002",
+          "10 pcs"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/0bebe69cbadc4850a75ed31424ad322c/B-ZH114-1.png",
+      "part_number": "ZH114",
+      "price": "8.78",
+      "region": "us",
+      "sku": "655300557712232449",
+      "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
+      "url": "https://us.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655300557712232449",
+      "variant_id": "655300557712232449"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/91f663d21c9740549170ff3456d8388f/B-ZH114-1.png",
+      "part_number": "ZH114",
+      "price": "11.04",
+      "region": "ca",
+      "sku": "655299120153399298",
+      "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
+      "url": "https://ca.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655299120153399298",
+      "variant_id": "655299120153399298"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/6a79bc44bf8a49e0a1e69cea8a934c6c/B-ZH114-1.png",
+      "part_number": "ZH114",
+      "price": "9.12",
+      "region": "eu",
+      "sku": "655301258508877826",
+      "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
+      "url": "https://eu.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655301258508877826",
+      "variant_id": "655301258508877826"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/776dcf2f6c9c47a7993acc469e0dd0b3/B-ZH114-1.png",
+      "part_number": "ZH114",
+      "price": "8.5",
+      "region": "uk",
+      "sku": "655299865262870530",
+      "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
+      "url": "https://uk.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655299865262870530",
+      "variant_id": "655299865262870530"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/73daa2cc1f774c5a9b563d1f6c248a25/B-ZH114-1.png",
+      "part_number": "ZH114",
+      "price": "17.92",
+      "region": "au",
+      "sku": "655298303806607362",
+      "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
+      "url": "https://au.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655298303806607362",
+      "variant_id": "655298303806607362"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/5c5774e03f8f489c83478a36cc6bf492/B-ZH114-1.png",
+      "part_number": "ZH114",
+      "price": "7.98",
+      "region": "asia",
+      "sku": "655294231633846273",
+      "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
+      "url": "https://asia.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655294231633846273",
+      "variant_id": "655294231633846273"
+    }
+  ]
+}

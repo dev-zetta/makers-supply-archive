@@ -1,0 +1,74 @@
+name: Test
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install uv
+        run: python -m pip install uv
+      - name: Install dependencies
+        run: uv sync --all-packages --extra dev
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22.18.0"
+          cache: npm
+          cache-dependency-path: apps/catalog-web/frontend/package-lock.json
+      - name: Install and build frontend
+        working-directory: apps/catalog-web/frontend
+        run: |
+          npm ci
+          npm run build
+          npm run typecheck
+      - name: Test
+        run: uv run pytest
+      - name: Check localhost launcher
+        run: |
+          bash -n setup.sh
+          ./setup.sh --help >/dev/null
+          bash -n scripts/run-catalog-web.sh
+          ./scripts/run-catalog-web.sh --help >/dev/null
+      - name: Lint
+        run: uv run ruff check .
+      - name: Type check
+        run: |
+          uv run mypy
+          uv run mypy --strict apps/catalog-web/src
+      - name: Validate archive
+        run: uv run makers-supply validate
+      - name: Check LFS budgets
+        run: uv run makers-supply lfs-preflight
+      - name: Browser test setup
+        env:
+          MAKERS_SUPPLY_ROOT: ${{ github.workspace }}
+          MAKERS_SUPPLY_CATALOG_DB: /tmp/makers-supply-e2e.sqlite
+          MAKERS_SUPPLY_STATE_DB: /tmp/makers-supply-e2e-state.sqlite
+          MAKERS_SUPPLY_SECRET_KEY: e2e-only-secret
+          MAKERS_SUPPLY_SECURE_COOKIES: "0"
+        run: |
+          uv run makers-supply build-db --output "$MAKERS_SUPPLY_CATALOG_DB"
+          printf '%s\n' 'e2e secure password' | uv run makers-supply-web create-admin e2e-admin --password-stdin
+          uv run makers-supply-web serve --host 127.0.0.1 --port 8000 &
+          echo $! > /tmp/makers-supply-e2e.pid
+          for attempt in {1..30}; do curl -fsS http://127.0.0.1:8000/healthz && break; sleep 1; done
+      - name: Browser tests
+        working-directory: apps/catalog-web/frontend
+        env:
+          E2E_PASSWORD: e2e secure password
+        run: |
+          npx playwright install --with-deps chromium
+          npm run test:e2e
+      - name: Build deployment image
+        run: docker build -f apps/catalog-web/Dockerfile .

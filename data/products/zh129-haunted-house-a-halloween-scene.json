@@ -1,0 +1,400 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "haunted-house-%E2%80%94-a-halloween-scene",
+      "product_id": "724161700102742016",
+      "region": "us"
+    },
+    {
+      "handle": "haunted-house-%E2%80%94-a-halloween-scene",
+      "product_id": "724158752831516672",
+      "region": "ca"
+    },
+    {
+      "handle": "haunted-house-%E2%80%94-a-halloween-scene",
+      "product_id": "724162930191982592",
+      "region": "eu"
+    },
+    {
+      "handle": "haunted-house-%E2%80%94-a-halloween-scene",
+      "product_id": "724160132232749056",
+      "region": "uk"
+    },
+    {
+      "handle": "haunted-house-%E2%80%94-a-halloween-scene",
+      "product_id": "724157748984553472",
+      "region": "au"
+    },
+    {
+      "handle": "haunted-house-%E2%80%94-a-halloween-scene",
+      "product_id": "724155725005189120",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/90/90edfcb3fd8bb39134029b00bd6689e35566f9ce970a4539ad527eb0e9f2a8f7.png",
+      "id": "image-85cc09f5f136acd40ab1",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH129.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "90edfcb3fd8bb39134029b00bd6689e35566f9ce970a4539ad527eb0e9f2a8f7",
+      "size": 3280748,
+      "source_url": "https://store.bblcdn.com/s2/default/a960929fe78848f4a551c7d80f5aaea8/B-ZH129.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/26/269a5db0d21fa1550fd532e8dfcf6ef9c94097bcb4561e246db04b5c1a651e65.png",
+      "id": "image-bbd5658c6dcb3afd46cd",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH129.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "269a5db0d21fa1550fd532e8dfcf6ef9c94097bcb4561e246db04b5c1a651e65",
+      "size": 301543,
+      "source_url": "https://store.bblcdn.com/s2/default/640d3ad7ec434098b07fc78b9b3ace98/ZH129.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/dc/dc0b8f51792eb5c16f1658d0b75f741dd981ec303db1cf61b081abd7f8381b89.png",
+      "id": "image-display-eac14c5967cc801fd509",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "90edfcb3fd8bb39134029b00bd6689e35566f9ce970a4539ad527eb0e9f2a8f7",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH129.catalog.png",
+      "parent_asset_id": "image-85cc09f5f136acd40ab1",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "dc0b8f51792eb5c16f1658d0b75f741dd981ec303db1cf61b081abd7f8381b89",
+      "size": 808863,
+      "source_url": "https://store.bblcdn.com/s2/default/a960929fe78848f4a551c7d80f5aaea8/B-ZH129.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/26/26c2090881f6aaf531ccbefd4fc67b68f132f62a74cb59fae144e488e8a4f07c.png",
+      "id": "image-display-a1e8af3ddf6af8250289",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "269a5db0d21fa1550fd532e8dfcf6ef9c94097bcb4561e246db04b5c1a651e65",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH129.catalog.png",
+      "parent_asset_id": "image-bbd5658c6dcb3afd46cd",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "26c2090881f6aaf531ccbefd4fc67b68f132f62a74cb59fae144e488e8a4f07c",
+      "size": 86771,
+      "source_url": "https://store.bblcdn.com/s2/default/640d3ad7ec434098b07fc78b9b3ace98/ZH129.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "mh001-led-lamp-kit-001",
+      "name": "LED Lamp Kit (1PCS) - MH001",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "kb001-3030-5v-led-board-with-sh1-0-connector",
+      "name": "1 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB002",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia006-self-locking-button-switch-with-sh1-0-connector",
+      "name": "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia005-power-distribution-board-pdb-4-channels",
+      "name": "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ka007-cob-led-strip-light",
+      "name": "300x1mm COB LED Strip Light (1PCS) - KA009",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa162-m2-button-head-cap-machine-screws-bhcs",
+      "name": "M2x6 BHCS Machine Screw (20PCS) - AA043",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "zh090-sh1-0-to-dual-sh1-0-adapter-2pcs",
+      "name": "SH1.0 to Dual SH1.0 Adapter (2PCS)",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Haunted House — A Halloween Scene. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Haunted House — A Halloween Scene on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Haunted House — A Halloween Scene</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Haunted House — A Halloween Scene</strong> on <a href=\"https://makerworld.com/en/models/1873599-haunted-house-a-halloween-scene?from=search#profileId-2005611\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">LED Lamp Kit (1PCS) - MH001</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">1 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB002</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">300x1mm COB LED Strip Light (1PCS) - KA009</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M2x6 BHCS Machine Screw (20PCS) - AA043</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">SH1.0 to Dual SH1.0 Adapter (2PCS)</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Haunted House — A Halloween Scene. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Haunted House — A Halloween Scene on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh129-haunted-house-a-halloween-scene",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Haunted House — A Halloween Scene",
+  "offers": [
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "37.26",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "45.67",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "38.75",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "33.01",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "66.88",
+      "region": "au",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://au.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "33.87",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA043",
+    "B-ZH129",
+    "IA005",
+    "IA006",
+    "KA009",
+    "KB002",
+    "MH001",
+    "ZH129"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Haunted House A Halloween Scene",
+      "url": "https://makerworld.com/en/models/1873599-haunted-house-a-halloween-scene?from=search#profileId-2005611"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "724155725059715073",
+    "724157749026496514",
+    "724158752848293890",
+    "724160132253720578",
+    "724161700136296450",
+    "724162930208759810"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724161700136296450"
+      },
+      "rows": [
+        [
+          "LED Lamp Kit (1PCS) - MH001",
+          "1"
+        ],
+        [
+          "1 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB002",
+          "1"
+        ],
+        [
+          "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+          "1"
+        ],
+        [
+          "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+          "1"
+        ],
+        [
+          "300x1mm COB LED Strip Light (1PCS) - KA009",
+          "1"
+        ],
+        [
+          "M2x6 BHCS Machine Screw (20PCS) - AA043",
+          "1"
+        ],
+        [
+          "SH1.0 to Dual SH1.0 Adapter (2PCS)",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/0fbc9d271a054f6d80923d6ea4122267/B-ZH129.png",
+      "part_number": "ZH129",
+      "price": "37.26",
+      "region": "us",
+      "sku": "724161700136296450",
+      "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
+      "url": "https://us.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724161700136296450",
+      "variant_id": "724161700136296450"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/6381ad0a63104749953631ca30e3b3ca/B-ZH129.png",
+      "part_number": "ZH129",
+      "price": "45.67",
+      "region": "ca",
+      "sku": "724158752848293890",
+      "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
+      "url": "https://ca.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724158752848293890",
+      "variant_id": "724158752848293890"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/045bfc5f5291460794a9ade7d28a3b31/B-ZH129.png",
+      "part_number": "ZH129",
+      "price": "38.75",
+      "region": "eu",
+      "sku": "724162930208759810",
+      "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
+      "url": "https://eu.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724162930208759810",
+      "variant_id": "724162930208759810"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/fef687dda799462dbda4453e05268d58/B-ZH129.png",
+      "part_number": "ZH129",
+      "price": "33.01",
+      "region": "uk",
+      "sku": "724160132253720578",
+      "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
+      "url": "https://uk.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724160132253720578",
+      "variant_id": "724160132253720578"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/a960929fe78848f4a551c7d80f5aaea8/B-ZH129.png",
+      "part_number": "ZH129",
+      "price": "66.88",
+      "region": "au",
+      "sku": "724157749026496514",
+      "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
+      "url": "https://au.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724157749026496514",
+      "variant_id": "724157749026496514"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/5b76a6b0e46545f49baecfa30476b39a/B-ZH129.png",
+      "part_number": "ZH129",
+      "price": "33.87",
+      "region": "asia",
+      "sku": "724155725059715073",
+      "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
+      "url": "https://asia.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724155725059715073",
+      "variant_id": "724155725059715073"
+    }
+  ]
+}

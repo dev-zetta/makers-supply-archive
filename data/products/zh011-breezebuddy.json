@@ -1,0 +1,379 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "breezebuddy",
+      "product_id": "8315038204040",
+      "region": "us"
+    },
+    {
+      "handle": "breezebuddy",
+      "product_id": "8976764240112",
+      "region": "ca"
+    },
+    {
+      "handle": "breezebuddy",
+      "product_id": "9520430711132",
+      "region": "eu"
+    },
+    {
+      "handle": "breezebuddy",
+      "product_id": "7752678670396",
+      "region": "uk"
+    },
+    {
+      "handle": "breezebuddy",
+      "product_id": "8565072920739",
+      "region": "au"
+    },
+    {
+      "handle": "breezebuddy",
+      "product_id": "500182286257549312",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/fb/fb53e3e08eacba1457d42ef7a8908fb21a3e3af71468d0781ad8ac84dfcd7337.png",
+      "id": "image-ba8bf6001515061e2b2f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "breezybuddy-02.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "fb53e3e08eacba1457d42ef7a8908fb21a3e3af71468d0781ad8ac84dfcd7337",
+      "size": 294061,
+      "source_url": "https://store.bblcdn.com/s7/default/71f1119add544f928655878bd618fd6a/breezybuddy-02.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a5/a5ba96861ca13d7840c2651c65d14c770c760f81a8f3959a70c9b06199f15eef.png",
+      "id": "image-13e02cf9a72223074f89",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "BreezeBuddy3.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a5ba96861ca13d7840c2651c65d14c770c760f81a8f3959a70c9b06199f15eef",
+      "size": 1875211,
+      "source_url": "https://store.bblcdn.com/s7/default/681690026f574ecea15afedf64d6fc9f/BreezeBuddy3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/cc/cc1e5fc3060235767c4260a1febbc64809894fcd34cb0bfeed2dcfc0f384ca02.jpg",
+      "id": "image-ca8fefaeaa80a49ed570",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "BreezeBuddy1.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "cc1e5fc3060235767c4260a1febbc64809894fcd34cb0bfeed2dcfc0f384ca02",
+      "size": 47582,
+      "source_url": "https://store.bblcdn.com/s7/default/79da398f597042b0bd61adf1dc5c3684/BreezeBuddy1.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/0f/0fc513146a9ebd493f088d15b9d97ab18be168876efdaca03fe22a7caa1dcf8f.png",
+      "id": "image-display-c20e09e2f5d426260fd1",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "fb53e3e08eacba1457d42ef7a8908fb21a3e3af71468d0781ad8ac84dfcd7337",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "breezybuddy-02.catalog.png",
+      "parent_asset_id": "image-ba8bf6001515061e2b2f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0fc513146a9ebd493f088d15b9d97ab18be168876efdaca03fe22a7caa1dcf8f",
+      "size": 111512,
+      "source_url": "https://store.bblcdn.com/s7/default/71f1119add544f928655878bd618fd6a/breezybuddy-02.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d6/d67ada0b5d654a94cfe9110da488a63be8ab5c8518067c45e0acceb0d80cb255.png",
+      "id": "image-display-efb845a267c3e57646f9",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1200,
+        "source_sha256": "a5ba96861ca13d7840c2651c65d14c770c760f81a8f3959a70c9b06199f15eef",
+        "source_width": 1200
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "BreezeBuddy3.catalog.png",
+      "parent_asset_id": "image-13e02cf9a72223074f89",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d67ada0b5d654a94cfe9110da488a63be8ab5c8518067c45e0acceb0d80cb255",
+      "size": 735198,
+      "source_url": "https://store.bblcdn.com/s7/default/681690026f574ecea15afedf64d6fc9f/BreezeBuddy3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/84/841be25f1177ec9ffdad2acbef3313e10af267b2021944222e02cdc803ee0d09.png",
+      "id": "image-display-c1ee7641d3b55ce8aeb3",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1200,
+        "source_sha256": "cc1e5fc3060235767c4260a1febbc64809894fcd34cb0bfeed2dcfc0f384ca02",
+        "source_width": 1202
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "BreezeBuddy1.catalog.png",
+      "parent_asset_id": "image-ca8fefaeaa80a49ed570",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "841be25f1177ec9ffdad2acbef3313e10af267b2021944222e02cdc803ee0d09",
+      "size": 109177,
+      "source_url": "https://store.bblcdn.com/s7/default/79da398f597042b0bd61adf1dc5c3684/BreezeBuddy1.jpg"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa158-m3-socket-head-cap-machine-screws-shcs-1",
+      "name": "M3x16 SHCS Machine Screw (10PCS) - AA039",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ab003-hex-nut",
+      "name": "M3 Carbon Steel Hex Nut (20PCS) - AB005",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional BreezeBuddy. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of the BreezeBuddy and obtain detailed information, please visit the BreezeBuddy on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"><br/></h3>\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The product contains all the <strong data-mce-fragment=\"1\">non-3D printed</strong> parts for assembling an entirely functional <strong data-mce-fragment=\"1\">BreezeBuddy</strong>. To complete the work, you also need to download the <strong data-mce-fragment=\"1\">model files</strong> and <strong data-mce-fragment=\"1\">3D print</strong> the remaining parts.<span data-mce-fragment=\"1\"></span></p>\n<div class=\"pct_st-p\">\n<span data-mce-style=\"text-decoration: underline;\" style=\"text-decoration: underline;\"><strong><em><span data-mce-style=\"color: #e60034; text-decoration: underline;\" style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span data-mce-style=\"color: #e60034; text-decoration: underline;\" style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\"><br/></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">\n<span data-mce-fragment=\"1\">To download the model files of the <strong data-mce-fragment=\"1\">BreezeBuddy</strong></span><span data-mce-fragment=\"1\"> and obtain detailed information, please visit the <strong data-mce-fragment=\"1\">BreezeBuddy </strong></span><span data-mce-fragment=\"1\">on </span><a data-mce-href=\"https://makerworld.com/en/models/486768?from=search#profileId-399574\" href=\"https://makerworld.com/en/models/486768?from=search#profileId-399574\" rel=\"noopener\"><span data-mce-fragment=\"1\" data-mce-style=\"color: #00ae42;\" style=\"color: #00ae42;\"><strong data-mce-fragment=\"1\"><u data-mce-fragment=\"1\">MakerWorld</u></strong></span></a><span data-mce-fragment=\"1\">.</span>\n</div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\"><br/></h3>\n<h3 class=\"pct_st\" data-mce-fragment=\"1\">In the Box</h3>\n<div class=\"pct pct_mc\" data-mce-fragment=\"1\">\n<div class=\"pct_t-tb\" data-mce-fragment=\"1\">\n<table class=\"pct_tb\" data-mce-fragment=\"1\" data-mce-style=\"height: 95px;\" style=\"height: 95px;\">\n<!-- 表头 -->\n<tbody data-mce-fragment=\"1\">\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px;\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 483.42px;\" style=\"height: 19px; width: 483.42px;\"><strong data-mce-fragment=\"1\">Item</strong></td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 48.6285px;\" style=\"height: 19px; width: 48.6285px;\"><strong data-mce-fragment=\"1\">Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px;\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 483.42px;\" style=\"height: 19px; width: 483.42px;\">\n<div data-mce-fragment=\"1\">\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>M3x16 SHCS Machine Screw (10PCS) - AA039</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\" data-mce-fragment=\"1\"></span>\n</td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 48.6285px;\" style=\"height: 19px; width: 48.6285px;\">1<br data-mce-fragment=\"1\"/>\n</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px;\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 483.42px;\" style=\"height: 19px; width: 483.42px;\">\n<p>M3 Carbon Steel Hex Nut (20PCS) - AB005</p>\n</td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 48.6285px;\" style=\"height: 19px; width: 48.6285px;\"><span data-mce-fragment=\"1\">1</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<br/>\n</div>\n<!-- 第五条 -->\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional BreezeBuddy. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the BreezeBuddy and obtain detailed information, please visit the BreezeBuddy on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh011-breezebuddy",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "BreezeBuddy",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.13",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/breezebuddy?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.51",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/breezebuddy?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.05",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/breezebuddy?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.74",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/breezebuddy?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.94",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/breezebuddy?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.98",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/breezebuddy?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA039",
+    "AB005",
+    "ZH011"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "BreezeBuddy",
+      "url": "https://makerworld.com/en/models/486768?from=search#profileId-399574"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42097460019260",
+    "42823968555144",
+    "45095127548067",
+    "46472276148464",
+    "49193401844060",
+    "500182286261743617"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/breezebuddy?id=42823968555144"
+      },
+      "rows": [
+        [
+          "M3x16 SHCS Machine Screw (10PCS) - AA039",
+          "1"
+        ],
+        [
+          "M3 Carbon Steel Hex Nut (20PCS) - AB005",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/71f1119add544f928655878bd618fd6a/breezybuddy-02.png",
+      "part_number": "ZH011",
+      "price": "2.13",
+      "region": "us",
+      "sku": "42823968555144",
+      "title": "BreezeBuddy - BreezeBuddy - ZH011",
+      "url": "https://us.store.bambulab.com/products/breezebuddy?id=42823968555144",
+      "variant_id": "42823968555144"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/d85aaab881254fe09fd2baedf8857793.png",
+      "part_number": "ZH011",
+      "price": "2.51",
+      "region": "ca",
+      "sku": "46472276148464",
+      "title": "BreezeBuddy - BreezeBuddy - ZH011",
+      "url": "https://ca.store.bambulab.com/products/breezebuddy?id=46472276148464",
+      "variant_id": "46472276148464"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/7b70da3ead4d49138e2846ccd1a455d2/BreezeBuddy2.png",
+      "part_number": "ZH011",
+      "price": "2.05",
+      "region": "eu",
+      "sku": "49193401844060",
+      "title": "BreezeBuddy - BreezeBuddy - ZH011",
+      "url": "https://eu.store.bambulab.com/products/breezebuddy?id=49193401844060",
+      "variant_id": "49193401844060"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/46c3ad8d48ba48cb9eceaf56bd579652.png",
+      "part_number": "ZH011",
+      "price": "1.74",
+      "region": "uk",
+      "sku": "42097460019260",
+      "title": "BreezeBuddy - BreezeBuddy - ZH011",
+      "url": "https://uk.store.bambulab.com/products/breezebuddy?id=42097460019260",
+      "variant_id": "42097460019260"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/be7106f616634953ad83cf1845883fc1.png",
+      "part_number": "ZH011",
+      "price": "3.94",
+      "region": "au",
+      "sku": "45095127548067",
+      "title": "BreezeBuddy - BreezeBuddy - ZH011",
+      "url": "https://au.store.bambulab.com/products/breezebuddy?id=45095127548067",
+      "variant_id": "45095127548067"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/e6377620bab6459b946ea0d3e5a79bdc.jpg",
+      "part_number": "ZH011",
+      "price": "1.98",
+      "region": "asia",
+      "sku": "500182286261743617",
+      "title": "BreezeBuddy - BreezeBuddy - ZH011",
+      "url": "https://asia.store.bambulab.com/products/breezebuddy?id=500182286261743617",
+      "variant_id": "500182286261743617"
+    }
+  ]
+}

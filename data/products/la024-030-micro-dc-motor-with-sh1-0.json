@@ -1,0 +1,384 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "030-micro-dc-motor-with-sh1-0",
+      "product_id": "8340403945608",
+      "region": "us"
+    },
+    {
+      "handle": "030-micro-dc-motor-with-sh1-0",
+      "product_id": "9009337565424",
+      "region": "ca"
+    },
+    {
+      "handle": "030-micro-dc-motor-with-sh1-0",
+      "product_id": "9568443367772",
+      "region": "eu"
+    },
+    {
+      "handle": "030-micro-dc-motor-with-sh1-0",
+      "product_id": "7779069296700",
+      "region": "uk"
+    },
+    {
+      "handle": "030-micro-dc-motor-with-sh1-0",
+      "product_id": "8583866646691",
+      "region": "au"
+    },
+    {
+      "handle": "030-micro-dc-motor-with-sh1-0",
+      "product_id": "507690879180615680",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/79/79d3899f5834a048be26a5ff7c3e66d20d6115f064f84aac62ef829fab719859.png",
+      "id": "image-a0dd1e4f2ef50a717203",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "LA024.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "79d3899f5834a048be26a5ff7c3e66d20d6115f064f84aac62ef829fab719859",
+      "size": 82385,
+      "source_url": "https://store.bblcdn.com/s7/default/352de9bdae304ed1acb44c78d4a867e6/LA024.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b5/b5ffa0e29967e7e69fe54778502d8949c032a562b97ad5dec2d6ffdedd349dcf.png",
+      "id": "image-8447b5c4b592b6d20f8c",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "666_420b49c6-fa31-41f4-97f9-ac5e9e7dff74.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b5ffa0e29967e7e69fe54778502d8949c032a562b97ad5dec2d6ffdedd349dcf",
+      "size": 84199,
+      "source_url": "https://store.bblcdn.com/s7/default/95bff21abb794d49b3417b2638c112d4/666_420b49c6-fa31-41f4-97f9-ac5e9e7dff74.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/79/79524394463d7a649932b9cc4c696472968d95779d0020a70c2e3e0bd0d643bf.pdf",
+      "id": "document-a6deb2bdcaac61c0ac2e",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "030_Micro_DC_Motor_-LA024.pdf",
+      "retrieved_at": "2026-08-24T02:04:01Z",
+      "rights_status": "unknown",
+      "sha256": "79524394463d7a649932b9cc4c696472968d95779d0020a70c2e3e0bd0d643bf",
+      "size": 368002,
+      "source_url": "https://store.bblcdn.com/s7/default/620fdf6b56a8427f96c5cff4b98a358f/030_Micro_DC_Motor_-LA024.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f7/f76c3a014bdb18727fc29242544786e9184f2d5f73c5565f753be5c2d66f481a.zip",
+      "id": "archive-c0b300ac6ac234668702",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "030_Micro_DC_Motor_-LA024.zip",
+      "retrieved_at": "2026-08-24T02:04:01Z",
+      "rights_status": "unknown",
+      "sha256": "f76c3a014bdb18727fc29242544786e9184f2d5f73c5565f753be5c2d66f481a",
+      "size": 327873,
+      "source_url": "https://store.bblcdn.com/s7/default/b26ef17e540446479bfb36d56e044d93/030_Micro_DC_Motor_-LA024.zip"
+    },
+    {
+      "archive_member_path": "3D Model/030 Micro DC Motor -LA024.stl",
+      "blob_path": "data/blobs/sha256/c2/c2d4d8e870ffd7752405c1cdd84669122f4f930fdb583fd28d86d5c7e15313ee.stl",
+      "id": "model-1c867ea419f7ea80fc20",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "030 Micro DC Motor -LA024.stl",
+      "parent_asset_id": "archive-c0b300ac6ac234668702",
+      "retrieved_at": "2026-08-24T02:04:01Z",
+      "rights_status": "unknown",
+      "sha256": "c2d4d8e870ffd7752405c1cdd84669122f4f930fdb583fd28d86d5c7e15313ee",
+      "size": 873184,
+      "source_url": "https://store.bblcdn.com/s7/default/b26ef17e540446479bfb36d56e044d93/030_Micro_DC_Motor_-LA024.zip"
+    },
+    {
+      "archive_member_path": "3D Model/030 Micro DC Motor -LA024.stp",
+      "blob_path": "data/blobs/sha256/ff/ffa3ebbcc912100f831c450757e5dfdc8e17eefb2bf2a70bc2df303f0825011b.stp",
+      "id": "model-0f4c460cad09220b0472",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "030 Micro DC Motor -LA024.stp",
+      "parent_asset_id": "archive-c0b300ac6ac234668702",
+      "retrieved_at": "2026-08-24T02:04:01Z",
+      "rights_status": "unknown",
+      "sha256": "ffa3ebbcc912100f831c450757e5dfdc8e17eefb2bf2a70bc2df303f0825011b",
+      "size": 254008,
+      "source_url": "https://store.bblcdn.com/s7/default/b26ef17e540446479bfb36d56e044d93/030_Micro_DC_Motor_-LA024.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/57/57ae57f94415dc5a4f768c4c5b99a39b66965053c2f430708bd1b267711e9f0c.png",
+      "id": "image-display-35ed1410882c0527deb4",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 202,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "79d3899f5834a048be26a5ff7c3e66d20d6115f064f84aac62ef829fab719859",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "LA024.catalog.png",
+      "parent_asset_id": "image-a0dd1e4f2ef50a717203",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "57ae57f94415dc5a4f768c4c5b99a39b66965053c2f430708bd1b267711e9f0c",
+      "size": 65176,
+      "source_url": "https://store.bblcdn.com/s7/default/352de9bdae304ed1acb44c78d4a867e6/LA024.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ba/ba957845425cbacd29b061932c05ee50bc7f72dc5ce34a81b4c634eda15f53dd.png",
+      "id": "image-display-2877c36fb57f293fcbbe",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "b5ffa0e29967e7e69fe54778502d8949c032a562b97ad5dec2d6ffdedd349dcf",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "666_420b49c6-fa31-41f4-97f9-ac5e9e7dff74.catalog.png",
+      "parent_asset_id": "image-8447b5c4b592b6d20f8c",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ba957845425cbacd29b061932c05ee50bc7f72dc5ce34a81b4c634eda15f53dd",
+      "size": 73365,
+      "source_url": "https://store.bblcdn.com/s7/default/95bff21abb794d49b3417b2638c112d4/666_420b49c6-fa31-41f4-97f9-ac5e9e7dff74.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Motors & Actuators"
+  ],
+  "category_assignments": [
+    {
+      "id": "motors",
+      "label": "Motors & Actuators",
+      "path": [
+        "Electronics",
+        "Motors & Actuators"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[5]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The 030 Micro DC Motor with SH1.0 connector is a compact and efficient motor, perfect for space-constrained projects. Its 1.5mm output shaft and SH1.0 connector ensure easy and reliable connections, making it ideal for robotics, small appliances, and various electronic applications."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><!-- 第一个连接开始 --> <a href=\"https://store.bblcdn.com/s7/default/620fdf6b56a8427f96c5cff4b98a358f/030_Micro_DC_Motor_-LA024.pdf\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"2D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/1ed6b71b4c814ac3bc34933673003555/2d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <span>Specification</span> </a> <!-- 第一个连接结束 --> <!-- 第三个连接开始 --> <a href=\"https://store.bblcdn.com/s7/default/b26ef17e540446479bfb36d56e044d93/030_Micro_DC_Motor_-LA024.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <span>3D Model</span> </a> <!-- 第三个连接结束 --></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc product-specification-table-small-padding\">\n<h2 class=\"pct_t\">Product Specifications</h2>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"border-color: #ADADAD; font-weight: bold;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold; text-align: center;\">\n<div>Product ID</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Rated Voltage\n<p>(V)</p>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Operating Voltage\n<p>(V)</p>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; width: 11.2201%;\">\n<div>Rated load\n<p>(G*CM）</p>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Direction of <br/>Rotation</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Operating<br/>Temperature Range</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Storage<br/>Temperature Range</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Position of <br/>Motor</div>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #ADADAD; text-align: center;\">LA024</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">DC 8.0V</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">DC 1.0V～8V</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">5.0G-CM</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">CW＆CCW</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">-10℃～+50℃</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">-30℃～+85℃</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">All position</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_st\"></h2>\n<p> </p>\n<h2 class=\"pct_t\">Introduction</h2>\n<h2 class=\"pct_st\"></h2>\n<p>The 030 Micro DC Motor with SH1.0 connector is a compact and efficient motor, perfect for space-constrained projects. Its 1.5mm output shaft and SH1.0 connector ensure easy and reliable connections, making it ideal for robotics, small appliances, and various electronic applications.</p>\n</div>\n</div>",
+  "description_text": "The 030 Micro DC Motor with SH1.0 connector is a compact and efficient motor, perfect for space-constrained projects. Its 1.5mm output shaft and SH1.0 connector ensure easy and reliable connections, making it ideal for robotics, small appliances, and various electronic applications.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "la024-030-micro-dc-motor-with-sh1-0",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "030 Micro DC Motor with SH1.0 (2pcs)",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.39",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/030-micro-dc-motor-with-sh1-0?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/030-micro-dc-motor-with-sh1-0?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.76",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/030-micro-dc-motor-with-sh1-0?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.6",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/030-micro-dc-motor-with-sh1-0?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/030-micro-dc-motor-with-sh1-0?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/030-micro-dc-motor-with-sh1-0?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "LA024"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "42150305235004",
+    "42876450046088",
+    "45163410489507",
+    "46546329927920",
+    "49311662342492",
+    "509934836947673091"
+  ],
+  "source_tables": [
+    {
+      "caption": "Product Specifications",
+      "headers": [
+        "Product ID",
+        "Rated Voltage (V)",
+        "Operating Voltage (V)",
+        "Rated load (G*CM）",
+        "Direction of Rotation",
+        "Operating Temperature Range",
+        "Storage Temperature Range",
+        "Position of Motor"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/030-micro-dc-motor-with-sh1-0?id=42876450046088"
+      },
+      "rows": [
+        [
+          "LA024",
+          "DC 8.0V",
+          "DC 1.0V～8V",
+          "5.0G-CM",
+          "CW＆CCW",
+          "-10℃～+50℃",
+          "-30℃～+85℃",
+          "All position"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Direction of Rotation": "CW＆CCW",
+    "Operating Temperature Range": "-10℃～+50℃",
+    "Operating Voltage (V)": "DC 1.0V～8V",
+    "Position of Motor": "All position",
+    "Product ID": "LA024",
+    "Rated Voltage (V)": "DC 8.0V",
+    "Rated load (G*CM）": "5.0G-CM",
+    "Storage Temperature Range": "-30℃～+85℃"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/352de9bdae304ed1acb44c78d4a867e6/LA024.png",
+      "part_number": "LA024",
+      "price": "4.39",
+      "region": "us",
+      "sku": "42876450046088",
+      "title": "030 Micro DC Motor with SH1.0 (2pcs) - 030 Micro DC Motor with SH1.0 (2PCS) - LA024",
+      "url": "https://us.store.bambulab.com/products/030-micro-dc-motor-with-sh1-0?id=42876450046088",
+      "variant_id": "42876450046088"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/5635b4fddf4b45dca9702b9916920d65.png",
+      "part_number": "LA024",
+      "price": "5.99",
+      "region": "ca",
+      "sku": "46546329927920",
+      "title": "030 Micro DC Motor with SH1.0 (2pcs) - 030 Micro DC Motor with SH1.0 (2PCS) - LA024",
+      "url": "https://ca.store.bambulab.com/products/030-micro-dc-motor-with-sh1-0?id=46546329927920",
+      "variant_id": "46546329927920"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/238516e5d69f4371b5165cdf625fe95d/LA024_b96c0cda-52e4-48b6-93a7-19dda92a7513.png",
+      "part_number": "LA024",
+      "price": "4.76",
+      "region": "eu",
+      "sku": "49311662342492",
+      "title": "030 Micro DC Motor with SH1.0 (2pcs) - 030 Micro DC Motor with SH1.0 (2PCS) - LA024",
+      "url": "https://eu.store.bambulab.com/products/030-micro-dc-motor-with-sh1-0?id=49311662342492",
+      "variant_id": "49311662342492"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/873a4ad3ae6c4c718a845d9f7847a2e6.png",
+      "part_number": "LA024",
+      "price": "3.6",
+      "region": "uk",
+      "sku": "42150305235004",
+      "title": "030 Micro DC Motor with SH1.0 (2pcs) - 030 Micro DC Motor with SH1.0 (2PCS) - LA024",
+      "url": "https://uk.store.bambulab.com/products/030-micro-dc-motor-with-sh1-0?id=42150305235004",
+      "variant_id": "42150305235004"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/fe836763faef4480842c7c7cf59e0235.png",
+      "part_number": "LA024",
+      "price": "9.99",
+      "region": "au",
+      "sku": "45163410489507",
+      "title": "030 Micro DC Motor with SH1.0 (2pcs) - 030 Micro DC Motor with SH1.0 (2PCS) - LA024",
+      "url": "https://au.store.bambulab.com/products/030-micro-dc-motor-with-sh1-0?id=45163410489507",
+      "variant_id": "45163410489507"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/78403b0a2ea249688fb74fb5c36a6302.png",
+      "part_number": "LA024",
+      "price": "3.99",
+      "region": "asia",
+      "sku": "509934836947673091",
+      "title": "030 Micro DC Motor with SH1.0 (2pcs) - 030 Micro DC Motor with SH1.0 (2PCS) - LA024",
+      "url": "https://asia.store.bambulab.com/products/030-micro-dc-motor-with-sh1-0?id=509934836947673091",
+      "variant_id": "509934836947673091"
+    }
+  ]
+}

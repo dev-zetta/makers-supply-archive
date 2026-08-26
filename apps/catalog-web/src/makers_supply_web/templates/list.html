@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% from "_region_switcher.html" import region_switcher with context %}
+{% block title %}{{ list.name }} · Maker's Supply{% endblock %}
+{% block body_class %}catalog-page{% endblock %}
+{% block shell %}
+<header class="topbar">
+  <div class="topbar-primary"><a class="brand" href="/?region={{ global_region }}">Maker's Supply</a>{{ region_switcher() }}</div>
+  <nav><a href="/">Catalog</a><form method="post" action="/logout"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><button class="link-button">Sign out</button></form></nav>
+</header>
+<main class="list-page" {% if selection_added %}data-selection-committed{% endif %}>
+  <section class="list-heading">
+    <p class="eyebrow">{{ list.region|upper }} · {{ list.role }}</p><h1>{{ list.name }}</h1>
+    <div class="totals">
+      <div><span>Current subtotal</span>{% for currency, total in list.current_totals.items() %}<strong>{{ total }} {{ currency }}</strong>{% else %}<strong>Unavailable</strong>{% endfor %}</div>
+      <div><span>Saved subtotal</span>{% for currency, total in list.captured_totals.items() %}<strong>{{ total }} {{ currency }}</strong>{% else %}<strong>Not captured</strong>{% endfor %}</div>
+    </div>
+    {% if list.unknown_count or list.unavailable_count %}<p class="warning">{{ list.unknown_count }} unpriced and {{ list.unavailable_count }} unavailable line(s) are called out and excluded from totals.</p>{% endif %}
+    <p class="muted">Taxes, shipping, and currency conversion are not included.</p>
+    <a href="/lists/{{ list.id }}/export?format=csv">Export CSV</a> · <a href="/lists/{{ list.id }}/export?format=json">Export JSON</a>
+    {% if list.role != 'viewer' %}<form class="inline-form" method="post" action="/lists/{{ list.id }}/refresh-prices"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><button>Replace saved prices with current</button></form>{% endif %}
+  </section>
+  <section class="list-items"><h2>Selected hardware</h2>
+    {% for item in list['items'] %}
+    <article class="line-item">
+      {% if item.image_id %}<img loading="lazy" src="/assets/{{ item.product_id }}/{{ item.image_id }}" alt="">{% endif %}
+      <div><a href="/products/{{ item.product_id }}?region={{ list.region }}"><h3>{{ item.name }}</h3></a><p>{{ item.variant_id or 'Default offer' }} · {{ item.current_price or 'Price unknown' }} {{ item.current_currency or '' }}{% if item.price_changed %}<mark>Price changed from {{ item.captured_price }} {{ item.captured_currency }}</mark>{% endif %}{% if item.current_available == false %}<span class="error">Unavailable</span>{% endif %}</p></div>
+      {% if list.role != 'viewer' %}<form method="post" action="/lists/{{ list.id }}/items/{{ item.id }}"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><label>Qty <input type="number" name="quantity" min="1" max="100000" value="{{ item.quantity }}"></label><label>Notes <input name="notes" value="{{ item.notes }}"></label><button>Update</button><button class="danger" name="remove" value="true">Remove</button></form>{% else %}<strong>× {{ item.quantity }}</strong>{% endif %}
+    </article>
+    {% else %}<p>No selected hardware yet. Browse the catalog and select products with the checkboxes.</p>{% endfor %}
+  </section>
+  {% if list.role != 'viewer' %}<section class="catalog-picker-callout"><p class="section-label">Add hardware</p><h2>Choose from the visual catalog</h2><p class="muted">Use the full catalog search and filters, select one or more products, then add them here from the selection panel.</p><a class="secondary-button" href="/region?region={{ list.region }}&amp;next=/?list_id={{ list.id }}">Browse and select products</a></section>{% endif %}
+  {% if list.role in ['owner','admin'] %}<section><h2>Sharing</h2><ul>{% for share in list.shares %}<li>{{ share.username }} — {{ share.role }}</li>{% else %}<li>Private — only you can access this list.</li>{% endfor %}</ul><form method="post" action="/lists/{{ list.id }}/share"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><label>Existing username <input name="username" required></label><label>Permission <select name="role"><option value="viewer">Viewer</option><option value="editor">Editor</option><option value="remove">Remove access</option></select></label><button>Update access</button></form></section>{% endif %}
+</main>
+{% endblock %}

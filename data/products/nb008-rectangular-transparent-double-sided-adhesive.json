@@ -1,0 +1,406 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "rectangular-transparent-double-sided-adhesive",
+      "product_id": "8405281865864",
+      "region": "us"
+    },
+    {
+      "handle": "rectangular-transparent-double-sided-adhesive",
+      "product_id": "9082358661360",
+      "region": "ca"
+    },
+    {
+      "handle": "rectangular-transparent-double-sided-adhesive",
+      "product_id": "9670330614108",
+      "region": "eu"
+    },
+    {
+      "handle": "rectangular-transparent-double-sided-adhesive",
+      "product_id": "7837401808956",
+      "region": "uk"
+    },
+    {
+      "handle": "rectangular-transparent-double-sided-adhesive",
+      "product_id": "528105223717761024",
+      "region": "au"
+    },
+    {
+      "handle": "rectangular-transparent-double-sided-adhesive",
+      "product_id": "528088340702613504",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/15/15d3d6b78d74ba6946b46ea7834f68ad11d6893bc64cfebda9e51e16889b8f2d.png",
+      "id": "image-f4f6038e380dfdf659ab",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "3bbe6f36175140388269f74b5dbc58b5.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "15d3d6b78d74ba6946b46ea7834f68ad11d6893bc64cfebda9e51e16889b8f2d",
+      "size": 104273,
+      "source_url": "https://store.bblcdn.com/3bbe6f36175140388269f74b5dbc58b5.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/0a/0ada6aa680d5c823b6c44747af507cdf2f9fb4584f98e19d84927bfd5fce2743.png",
+      "id": "image-9334f865ec57abb2dc3f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "9dd4752af2b54ec9b9376a2627baa84a.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0ada6aa680d5c823b6c44747af507cdf2f9fb4584f98e19d84927bfd5fce2743",
+      "size": 136978,
+      "source_url": "https://store.bblcdn.com/9dd4752af2b54ec9b9376a2627baa84a.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2a/2adb2d7907f2e7e1845fa043a471259af9b2424079b0aa3d645a7e3eb0578aa3.png",
+      "id": "image-display-d7e2cdbf3c69573d6118",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "15d3d6b78d74ba6946b46ea7834f68ad11d6893bc64cfebda9e51e16889b8f2d",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "3bbe6f36175140388269f74b5dbc58b5.catalog.png",
+      "parent_asset_id": "image-f4f6038e380dfdf659ab",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2adb2d7907f2e7e1845fa043a471259af9b2424079b0aa3d645a7e3eb0578aa3",
+      "size": 88720,
+      "source_url": "https://store.bblcdn.com/3bbe6f36175140388269f74b5dbc58b5.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d5/d5328b9816bba629ab4b3bae0a98a91aba74b7727ab6b0f73c9a5f2e01fe9f71.png",
+      "id": "image-display-7798be50aca6621ccb0e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "0ada6aa680d5c823b6c44747af507cdf2f9fb4584f98e19d84927bfd5fce2743",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "9dd4752af2b54ec9b9376a2627baa84a.catalog.png",
+      "parent_asset_id": "image-9334f865ec57abb2dc3f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d5328b9816bba629ab4b3bae0a98a91aba74b7727ab6b0f73c9a5f2e01fe9f71",
+      "size": 115870,
+      "source_url": "https://store.bblcdn.com/9dd4752af2b54ec9b9376a2627baa84a.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Adhesives & Fasteners"
+  ],
+  "category_assignments": [
+    {
+      "id": "adhesives",
+      "label": "Adhesives & Fasteners",
+      "path": [
+        "Hardware",
+        "Adhesives & Fasteners"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[4]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Product Feature"
+    },
+    {
+      "kind": "bullet",
+      "text": "Long-lasting and strong"
+    },
+    {
+      "kind": "bullet",
+      "text": "Ready-to-peel cut-to-size"
+    },
+    {
+      "kind": "bullet",
+      "text": "Easy to bend and adjust shape"
+    },
+    {
+      "kind": "bullet",
+      "text": "Suitable for fitting right-angled edges without leaving any gaps"
+    },
+    {
+      "kind": "bullet",
+      "text": "Adheres to a wide range of surfaces such as wood, glass, plastic, metal, etc."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"></div>\n</div>\n<table class=\"pct_tb\" style=\"border-color: #adadad; font-weight: bold; width: 99.9637%; height: 153.2px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 55.2px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; padding: 10px !important; width: 17.5023%; height: 55.2px;\">\n<div style=\"text-align: center;\">Product ID</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; padding: 10px !important; width: 13.6252%; height: 55.2px;\">\n<div>W (mm)</div>\n<p>Width</p>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; padding: 10px !important; width: 12.0191%; height: 55.2px;\">\n<div>L (mm)\n<p>Length</p>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; padding: 10px !important; width: 19.4011%; height: 55.2px;\">\n<div>Type</div>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.6px;\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; padding: 10px !important; width: 17.5023%; height: 19.6px;\">NB008</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important; width: 13.6252%; height: 19.6px;\">35</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important; width: 12.0191%; height: 19.6px;\">15</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important; width: 19.4011%; height: 19.6px;\"><span>Rectangular</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<!-- table布局 -->\n<p> </p>\n<!-- 物品清单布局 --></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Basic Information</h2>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\"><!-- 第一条 -->\n<div class=\"pct_ic-p\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0px; font-weight: bold; height: 54.8px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.6px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center; height: 19.6px;\">Adhesion</td>\n<td class=\"pct_td\" style=\"height: 19.6px;\">Strong</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 15.6px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center; height: 15.6px;\">Thickness</td>\n<td class=\"pct_td\" style=\"height: 15.6px;\">2 mm</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 --></div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0px; font-weight: bold; height: 58.8px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.6px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center; height: 19.6px;\">Type</td>\n<td class=\"pct_td\" style=\"height: 19.6px;\">3M 4918F </td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.6px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center; height: 19.6px;\">Color</td>\n<td class=\"pct_td\" style=\"height: 19.6px;\">Transparent </td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 --></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Product Feature</h2>\n<h2 class=\"pct_st\"></h2>\n<ul class=\"pct_productFeatureList\">\n<li>\n<p>Long-lasting and strong</p>\n</li>\n<li>\n<p>Ready-to-peel cut-to-size</p>\n</li>\n<li>\n<p>Easy to bend and adjust shape</p>\n</li>\n<li>\n<p>Suitable for fitting right-angled edges without leaving any gaps</p>\n</li>\n<li>\n<p>Adheres to a wide range of surfaces such as wood, glass, plastic, metal, etc.</p>\n</li>\n</ul>\n</div>\n</div>",
+  "description_text": "Long-lasting and strong\n\nReady-to-peel cut-to-size\n\nEasy to bend and adjust shape\n\nSuitable for fitting right-angled edges without leaving any gaps\n\nAdheres to a wide range of surfaces such as wood, glass, plastic, metal, etc.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "nb008-rectangular-transparent-double-sided-adhesive",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "L (mm) Length",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:L (mm) Length",
+        "source_url": "https://us.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=43032590188680"
+      },
+      "raw_value": "15"
+    },
+    {
+      "label": "Thickness",
+      "numeric_value": "2",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Thickness",
+        "source_url": "https://us.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=43032590188680"
+      },
+      "raw_value": "2 mm",
+      "unit": "mm"
+    },
+    {
+      "label": "W (mm) Width",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:W (mm) Width",
+        "source_url": "https://us.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=43032590188680"
+      },
+      "raw_value": "35"
+    }
+  ],
+  "name": "Rectangular Transparent Double-Sided Adhesive",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.39",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.05",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.13",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.51",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.93",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "NB008"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "42301547479100",
+    "43032590188680",
+    "46740636827888",
+    "49635669770588",
+    "528088340723585026",
+    "528105223721955331"
+  ],
+  "source_tables": [
+    {
+      "headers": [
+        "Product ID",
+        "W (mm) Width",
+        "L (mm) Length",
+        "Type"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=43032590188680"
+      },
+      "rows": [
+        [
+          "NB008",
+          "35",
+          "15",
+          "Rectangular"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=43032590188680"
+      },
+      "rows": [
+        [
+          "Adhesion",
+          "Strong"
+        ],
+        [
+          "Thickness",
+          "2 mm"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=43032590188680"
+      },
+      "rows": [
+        [
+          "Type",
+          "3M 4918F"
+        ],
+        [
+          "Color",
+          "Transparent"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Adhesion": "Strong",
+    "Color": "Transparent",
+    "L (mm) Length": "15",
+    "Product ID": "NB008",
+    "Thickness": "2 mm",
+    "Type": "Rectangular",
+    "W (mm) Width": "35"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/559f95b397be43fd886596c4ef0e8330/NB008-2.png",
+      "part_number": "NB008",
+      "price": "4.39",
+      "region": "us",
+      "sku": "43032590188680",
+      "title": "Rectangular Transparent Double-Sided Adhesive - 35x15 mm (10PCS) - NB008",
+      "url": "https://us.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=43032590188680",
+      "variant_id": "43032590188680"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/6539373a228847edb2a6617b5b91db8b.png",
+      "part_number": "NB008",
+      "price": "5.05",
+      "region": "ca",
+      "sku": "46740636827888",
+      "title": "Rectangular Transparent Double-Sided Adhesive - 35x15 mm (10PCS) - NB008",
+      "url": "https://ca.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=46740636827888",
+      "variant_id": "46740636827888"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/b201b866afd5490a8c32c40ed9f8c484/NB008-2.png",
+      "part_number": "NB008",
+      "price": "4.13",
+      "region": "eu",
+      "sku": "49635669770588",
+      "title": "Rectangular Transparent Double-Sided Adhesive - 35x15 mm (10PCS) - NB008",
+      "url": "https://eu.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=49635669770588",
+      "variant_id": "49635669770588"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/b98b87a787804a66824fb4f24851318e.png",
+      "part_number": "NB008",
+      "price": "3.51",
+      "region": "uk",
+      "sku": "42301547479100",
+      "title": "Rectangular Transparent Double-Sided Adhesive - 35x15 mm (10PCS) - NB008",
+      "url": "https://uk.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=42301547479100",
+      "variant_id": "42301547479100"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/4253bd6597c344d584bab16bbecfa52c.png",
+      "part_number": "NB008",
+      "price": "7.93",
+      "region": "au",
+      "sku": "528105223721955331",
+      "title": "Rectangular Transparent Double-Sided Adhesive - 35x15 mm (10PCS) - NB008",
+      "url": "https://au.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=528105223721955331",
+      "variant_id": "528105223721955331"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/3bbe6f36175140388269f74b5dbc58b5.png",
+      "part_number": "NB008",
+      "price": "4.99",
+      "region": "asia",
+      "sku": "528088340723585026",
+      "title": "Rectangular Transparent Double-Sided Adhesive - Transparent Double-Sided Adhesive (10PCS) - NB008",
+      "url": "https://asia.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=528088340723585026",
+      "variant_id": "528088340723585026"
+    }
+  ]
+}

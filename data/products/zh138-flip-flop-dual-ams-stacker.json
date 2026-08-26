@@ -1,0 +1,400 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "flip-flop-dual-ams-stacker",
+      "product_id": "724162035600924672",
+      "region": "us"
+    },
+    {
+      "handle": "flip-flop-dual-ams-stacker",
+      "product_id": "724159075843256320",
+      "region": "ca"
+    },
+    {
+      "handle": "flip-flop-dual-ams-stacker",
+      "product_id": "724163042578358272",
+      "region": "eu"
+    },
+    {
+      "handle": "flip-flop-dual-ams-stacker",
+      "product_id": "724160350337114112",
+      "region": "uk"
+    },
+    {
+      "handle": "flip-flop-dual-ams-stacker",
+      "product_id": "724157704237232128",
+      "region": "au"
+    },
+    {
+      "handle": "flip-flop-dual-ams-stacker",
+      "product_id": "724153874927775744",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/c3/c3da9c8d1cb54f85c7ea67af9cb5619dfa184db1e2e9e9912653eb9493520690.png",
+      "id": "image-a5157ac34628ca679b84",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH138.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c3da9c8d1cb54f85c7ea67af9cb5619dfa184db1e2e9e9912653eb9493520690",
+      "size": 2730163,
+      "source_url": "https://store.bblcdn.eu/s8/default/91f78f317c284331bef95381845a0bb9/B-ZH138.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/68/6872a4bc97bb6a242b0c6d95c95fb9d24a3987104c7470b8693bfb9c9a372085.png",
+      "id": "image-af7c559b6828a4120cb7",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH138.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6872a4bc97bb6a242b0c6d95c95fb9d24a3987104c7470b8693bfb9c9a372085",
+      "size": 253399,
+      "source_url": "https://store.bblcdn.eu/s8/default/6c3c963f163d4b20af8361c31967d011/ZH138.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/20/20dec8ec873af7a6f619f3afd8c6e21d4457e7ad2a2558b74b91ab1ee766364e.png",
+      "id": "image-display-365f0ec6aa0f917f0d1a",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "c3da9c8d1cb54f85c7ea67af9cb5619dfa184db1e2e9e9912653eb9493520690",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH138.catalog.png",
+      "parent_asset_id": "image-a5157ac34628ca679b84",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "20dec8ec873af7a6f619f3afd8c6e21d4457e7ad2a2558b74b91ab1ee766364e",
+      "size": 741912,
+      "source_url": "https://store.bblcdn.eu/s8/default/91f78f317c284331bef95381845a0bb9/B-ZH138.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f6/f62edb317867c849933e55cb3bf3303334bbb61ae8117e8fa13a13bbe395f5ac.png",
+      "id": "image-display-1a7f448b50a1acb69325",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "6872a4bc97bb6a242b0c6d95c95fb9d24a3987104c7470b8693bfb9c9a372085",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH138.catalog.png",
+      "parent_asset_id": "image-af7c559b6828a4120cb7",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "f62edb317867c849933e55cb3bf3303334bbb61ae8117e8fa13a13bbe395f5ac",
+      "size": 75256,
+      "source_url": "https://store.bblcdn.eu/s8/default/6c3c963f163d4b20af8361c31967d011/ZH138.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x8 SHCS Self Tapping Screw (20PCS) - AA108",
+      "quantity": "2",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x10 SHCS Self Tapping Screw (20PCS) - AA200",
+      "quantity": "2",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x16 SHCS Self Tapping Screw (10PCS) - AA110",
+      "quantity": "4",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x30 SHCS Self Tapping Screw (5PCS) - AA113",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa187-m3-flat-head-cap-machine-screws-fhcs",
+      "name": "M3x8 FHCS Machine Screw (20PCS) - AA086",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "608zz Steel Deep Groove Ball Bearings (2PCS) - EA027",
+      "quantity": "4",
+      "variant_quantities": []
+    },
+    {
+      "name": "D6x2 mm Round Magnet (20PCS) - CA004",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Flip Flop Dual AMS Stacker. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Flip Flop Dual AMS Stacker on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Flip Flop Dual AMS Stacker</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Flip Flop Dual AMS Stacker</strong> on <a href=\"https://makerworld.com/en/models/1453407-flip-flop-dual-ams-stacker?from=search#profileId-1573850\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">BT3x8 SHCS Self Tapping Screw (20PCS) - AA108</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">BT3x10 SHCS Self Tapping Screw (20PCS) - AA200</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">BT3x16 SHCS Self Tapping Screw (10PCS) - AA110</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">4</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">BT3x30 SHCS Self Tapping Screw (5PCS) - AA113</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M3x8 FHCS Machine Screw (20PCS) - AA086</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">608zz Steel Deep Groove Ball Bearings (2PCS) - EA027</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">4</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">D6x2 mm Round Magnet (20PCS) - CA004</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Flip Flop Dual AMS Stacker. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Flip Flop Dual AMS Stacker on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh138-flip-flop-dual-ams-stacker",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Flip Flop Dual AMS Stacker",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "20.24",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "33.02",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "19.5",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.72",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "35.59",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.89",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA086",
+    "AA108",
+    "AA110",
+    "AA113",
+    "AA200",
+    "B-ZH138",
+    "CA004",
+    "EA027",
+    "ZH138"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Flip Flop Dual Ams Stacker",
+      "url": "https://makerworld.com/en/models/1453407-flip-flop-dual-ams-stacker?from=search#profileId-1573850"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "724153874944552962",
+    "724157704258203650",
+    "724159075855839234",
+    "724160350383251458",
+    "724162035634479106",
+    "724163042590941186"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/flip-flop-dual-ams-stacker?id=724162035634479106"
+      },
+      "rows": [
+        [
+          "BT3x8 SHCS Self Tapping Screw (20PCS) - AA108",
+          "2"
+        ],
+        [
+          "BT3x10 SHCS Self Tapping Screw (20PCS) - AA200",
+          "2"
+        ],
+        [
+          "BT3x16 SHCS Self Tapping Screw (10PCS) - AA110",
+          "4"
+        ],
+        [
+          "BT3x30 SHCS Self Tapping Screw (5PCS) - AA113",
+          "1"
+        ],
+        [
+          "M3x8 FHCS Machine Screw (20PCS) - AA086",
+          "1"
+        ],
+        [
+          "608zz Steel Deep Groove Ball Bearings (2PCS) - EA027",
+          "4"
+        ],
+        [
+          "D6x2 mm Round Magnet (20PCS) - CA004",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/76e0afbb51ed428aaab37c3b1ac1e184/B-ZH138.png",
+      "part_number": "ZH138",
+      "price": "20.24",
+      "region": "us",
+      "sku": "724162035634479106",
+      "title": "Flip Flop Dual AMS Stacker - Flip Flop Dual AMS Stacker - ZH138",
+      "url": "https://us.store.bambulab.com/products/flip-flop-dual-ams-stacker?id=724162035634479106",
+      "variant_id": "724162035634479106"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/21f6ca5c099b4470aa3d7899c9cc04bb/B-ZH138.png",
+      "part_number": "ZH138",
+      "price": "33.02",
+      "region": "ca",
+      "sku": "724159075855839234",
+      "title": "Flip Flop Dual AMS Stacker - Flip Flop Dual AMS Stacker - ZH138",
+      "url": "https://ca.store.bambulab.com/products/flip-flop-dual-ams-stacker?id=724159075855839234",
+      "variant_id": "724159075855839234"
+    },
+    {
+      "available": false,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/91f78f317c284331bef95381845a0bb9/B-ZH138.png",
+      "part_number": "ZH138",
+      "price": "19.5",
+      "region": "eu",
+      "sku": "724163042590941186",
+      "title": "Flip Flop Dual AMS Stacker - Flip Flop Dual AMS Stacker - ZH138",
+      "url": "https://eu.store.bambulab.com/products/flip-flop-dual-ams-stacker?id=724163042590941186",
+      "variant_id": "724163042590941186"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/ba91f2e3b82a4c3482c1ca301e513898/B-ZH138.png",
+      "part_number": "ZH138",
+      "price": "15.72",
+      "region": "uk",
+      "sku": "724160350383251458",
+      "title": "Flip Flop Dual AMS Stacker - Flip Flop Dual AMS Stacker - ZH138",
+      "url": "https://uk.store.bambulab.com/products/flip-flop-dual-ams-stacker?id=724160350383251458",
+      "variant_id": "724160350383251458"
+    },
+    {
+      "available": false,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/f9ed05b25c6246f4b7b34365a3206c5f/B-ZH138.png",
+      "part_number": "ZH138",
+      "price": "35.59",
+      "region": "au",
+      "sku": "724157704258203650",
+      "title": "Flip Flop Dual AMS Stacker - Flip Flop Dual AMS Stacker - ZH138",
+      "url": "https://au.store.bambulab.com/products/flip-flop-dual-ams-stacker?id=724157704258203650",
+      "variant_id": "724157704258203650"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/e3c0bece780c4d618d50d3e8122f92ff/B-ZH138.png",
+      "part_number": "ZH138",
+      "price": "17.89",
+      "region": "asia",
+      "sku": "724153874944552962",
+      "title": "Flip Flop Dual AMS Stacker - Flip Flop Dual AMS Stacker - ZH138",
+      "url": "https://asia.store.bambulab.com/products/flip-flop-dual-ams-stacker?id=724153874944552962",
+      "variant_id": "724153874944552962"
+    }
+  ]
+}

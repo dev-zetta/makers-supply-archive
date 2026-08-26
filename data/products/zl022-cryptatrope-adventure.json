@@ -1,0 +1,525 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "cryptatrope-adventure",
+      "product_id": "731286336174694400",
+      "region": "us"
+    },
+    {
+      "handle": "cryptatrope-adventure",
+      "product_id": "731285834820284416",
+      "region": "ca"
+    },
+    {
+      "handle": "cryptatrope-adventure",
+      "product_id": "731286462548029440",
+      "region": "eu"
+    },
+    {
+      "handle": "cryptatrope-adventure",
+      "product_id": "731286129114910720",
+      "region": "uk"
+    },
+    {
+      "handle": "cryptatrope-adventure",
+      "product_id": "731285561313001472",
+      "region": "au"
+    },
+    {
+      "handle": "cryptatrope-adventure",
+      "product_id": "728820998837166080",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/eb/ebf6ec528666621344a92685dd5c30463021a02e836b5f29b4772a10a880313c.png",
+      "id": "image-a40121d5977e74065189",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1a.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ebf6ec528666621344a92685dd5c30463021a02e836b5f29b4772a10a880313c",
+      "size": 2663488,
+      "source_url": "https://store.bblcdn.eu/s4/default/c94feb69076f424bac2ddedaebcaa08e/1a.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7f/7f08e2a6bc695de2c27846b7dfc600c77b336af63f2167c7e5da6a80593d4663.png",
+      "id": "image-0930ba42d7192a09855d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1b.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7f08e2a6bc695de2c27846b7dfc600c77b336af63f2167c7e5da6a80593d4663",
+      "size": 3233050,
+      "source_url": "https://store.bblcdn.eu/s4/default/ac7b348fe9e24368821bc494698321a4/1b.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5b/5b56b8fab97d80d30aee5647420a7a166368fad46430b2a1fac16b2fa77f8d34.png",
+      "id": "image-d749ed89fdadfa93ff8c",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1c.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5b56b8fab97d80d30aee5647420a7a166368fad46430b2a1fac16b2fa77f8d34",
+      "size": 2457208,
+      "source_url": "https://store.bblcdn.eu/s4/default/fd27b7bed9c349308f506eb084647cfe/1c.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ac/accbf4bb943448f0e943f30197d870046b7f9c4932e60f14a57207d63e00fbcc.png",
+      "id": "image-6f0a04798f6649aa1278",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1d.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "accbf4bb943448f0e943f30197d870046b7f9c4932e60f14a57207d63e00fbcc",
+      "size": 2952673,
+      "source_url": "https://store.bblcdn.eu/s4/default/2c8449923b4745f1bcb1cadf59bed582/1d.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/bd/bdbd330162ebaf17fa9b115c6c5d17c81e46456f817775ae1cd9526e48b25b85.png",
+      "id": "image-b659ecb6944697ebcd3b",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "bdbd330162ebaf17fa9b115c6c5d17c81e46456f817775ae1cd9526e48b25b85",
+      "size": 2463109,
+      "source_url": "https://store.bblcdn.eu/s4/default/1512023f3a5a4b68946462874ef1edda/2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/13/13807251738ac1b089e1e41b86d01d29ae0120710b7e0d49b99dd75ffb53c738.png",
+      "id": "image-display-64c188f2657f2f8f34f2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "ebf6ec528666621344a92685dd5c30463021a02e836b5f29b4772a10a880313c",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1a.catalog.png",
+      "parent_asset_id": "image-a40121d5977e74065189",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "13807251738ac1b089e1e41b86d01d29ae0120710b7e0d49b99dd75ffb53c738",
+      "size": 829683,
+      "source_url": "https://store.bblcdn.eu/s4/default/c94feb69076f424bac2ddedaebcaa08e/1a.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/76/765ce4a91b5e5b76286763f833271d6d878438ef76c1e192354b96b231e67ba0.png",
+      "id": "image-display-aafd5b89f2deaaad9209",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "7f08e2a6bc695de2c27846b7dfc600c77b336af63f2167c7e5da6a80593d4663",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1b.catalog.png",
+      "parent_asset_id": "image-0930ba42d7192a09855d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "765ce4a91b5e5b76286763f833271d6d878438ef76c1e192354b96b231e67ba0",
+      "size": 1012627,
+      "source_url": "https://store.bblcdn.eu/s4/default/ac7b348fe9e24368821bc494698321a4/1b.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4b/4b32778718c0a9871cae4aeaa7ba6bac90c83657867f7df2fe37bdbcf8707fac.png",
+      "id": "image-display-9e86ebb89fa0575afd91",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "5b56b8fab97d80d30aee5647420a7a166368fad46430b2a1fac16b2fa77f8d34",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1c.catalog.png",
+      "parent_asset_id": "image-d749ed89fdadfa93ff8c",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4b32778718c0a9871cae4aeaa7ba6bac90c83657867f7df2fe37bdbcf8707fac",
+      "size": 672747,
+      "source_url": "https://store.bblcdn.eu/s4/default/fd27b7bed9c349308f506eb084647cfe/1c.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a4/a47c8e7c5744d7217e4ad15b1171a1414a38cc6e1c9b8dc601d54aece3217f01.png",
+      "id": "image-display-fe0bd731acf55e23e8d4",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "accbf4bb943448f0e943f30197d870046b7f9c4932e60f14a57207d63e00fbcc",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1d.catalog.png",
+      "parent_asset_id": "image-6f0a04798f6649aa1278",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a47c8e7c5744d7217e4ad15b1171a1414a38cc6e1c9b8dc601d54aece3217f01",
+      "size": 913142,
+      "source_url": "https://store.bblcdn.eu/s4/default/2c8449923b4745f1bcb1cadf59bed582/1d.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e2/e2e8d4583b9e22926c3761d531849189bada999c39fc745b1af89a3012df4cf5.png",
+      "id": "image-display-a1b3e86e8a4cbfe4d75e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "bdbd330162ebaf17fa9b115c6c5d17c81e46456f817775ae1cd9526e48b25b85",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "2.catalog.png",
+      "parent_asset_id": "image-b659ecb6944697ebcd3b",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e2e8d4583b9e22926c3761d531849189bada999c39fc745b1af89a3012df4cf5",
+      "size": 738112,
+      "source_url": "https://store.bblcdn.eu/s4/default/1512023f3a5a4b68946462874ef1edda/2.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "linked_product_id": "y-shape-led-light-with-magnetic-control-switch",
+      "name": "Y Shape LED Light with Magnetic Control Switch White (1PCS) - KC012",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/y-shape-led-light-with-magnetic-control-switch?id=543583515584897025",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "linked_product_id": "ca001-round-magnet",
+      "name": "D25x3 mm Round Magnet (10PCS) - CA021",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/round-magnet?id=503068105655857181",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "The Situation"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Mike is trapped in the year 1503. To ensure his return, while keeping his time travel secrets from being revealed too soon, he invented a device with a message that could only be decoded once 3D printing technology existed. The blueprints are now in your hands."
+    },
+    {
+      "kind": "heading",
+      "text": "Print → Decode → Advance"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Print the base device. Spin it. Look through it. Decode and transmit the message through the web portal to unlock the next chapter’s downloads. Each step reveals more intricate designs and new pieces of the story."
+    },
+    {
+      "kind": "heading",
+      "text": "Collect Tokens"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Complete each chapter to unlock a commemorative token, including a special MakerChip at the end of the full adventure. Display these optional prints in the deluxe stand or relic holder as a record of your progress."
+    },
+    {
+      "kind": "heading",
+      "text": "A Conversation Starter"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Unlock a bonus planetary cryptatrope at the end of the adventure. With no text or instructions, it becomes a pure visual artifact to spark the curiosity of any visitors."
+    },
+    {
+      "kind": "heading",
+      "text": "1. Get the model files"
+    },
+    {
+      "kind": "bullet",
+      "text": "Back the project on MakerWorld to access Chapter 1."
+    },
+    {
+      "kind": "bullet",
+      "text": "Watch the video and download the first set of models."
+    },
+    {
+      "kind": "heading",
+      "text": "2. Print, assemble, and decode"
+    },
+    {
+      "kind": "bullet",
+      "text": "Print and assemble the model."
+    },
+    {
+      "kind": "bullet",
+      "text": "Follow the viewing instructions in Chapter 1 to reveal the hidden message."
+    },
+    {
+      "kind": "heading",
+      "text": "3. Upload the message to unlock subsequent storylines"
+    },
+    {
+      "kind": "bullet",
+      "text": "Enter the decoded message at a dedicated web portal in Chapter 1 to unlock the next stage of the adventure."
+    },
+    {
+      "kind": "bullet",
+      "text": "Repeat the process to continue through all three chapters, each with its own video and model files to download."
+    },
+    {
+      "kind": "heading",
+      "text": "Considerations"
+    },
+    {
+      "kind": "bullet",
+      "text": "This product is intended for ages 12 and up. Users under the age of 12 must be under direct adult supervision throughout use."
+    },
+    {
+      "kind": "bullet",
+      "text": "This product contains small parts and poses a choking hazard. Do not ingest. If accidentally swallowed, seek immediate medical attention. Keep out of reach of children."
+    },
+    {
+      "kind": "bullet",
+      "text": "Please remember to turn off the LED Lights after you're done playing with this model."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<p></p>\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px;\">The Situation</h2>\n<p class=\"pct_p\" style=\"text-align: center;\"><span style=\"font-size: 20px;\">Mike is trapped in the year 1503. To ensure his return, while keeping his time travel secrets from being revealed too soon, he invented a device with a message that could only be decoded once 3D printing technology existed. The blueprints are now in your hands.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Print → Decode → Advance</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"module-content\">\n<p class=\"pct_p\" style=\"text-align: left;\">Print the base device. Spin it. Look through it. Decode and transmit the message through the web portal to unlock the next chapter’s downloads. Each step reveals more intricate designs and new pieces of the story.</p>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><img alt=\"\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/37c441d286fa4a55a60005ef131cad4e/4b.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/><img alt=\"\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/37c441d286fa4a55a60005ef131cad4e/4b.png\" height=\"500\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"750\"/></div>\n</div>\n<div class=\"pct_stpc-ic\"><!-- 第2卖点 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Collect Tokens</h3>\n<p class=\"pct_p\" style=\"text-align: left;\">Complete each chapter to unlock a commemorative token, including a special MakerChip at the end of the full adventure. Display these optional prints in the deluxe stand or relic holder as a record of your progress.</p>\n</div>\n<div class=\"pct_ic\"><img alt=\"\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/ab968597a2244df7bcb54d9e60b1203a/4c.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/><img alt=\"\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/ab968597a2244df7bcb54d9e60b1203a/4c.png\" height=\"500\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"750\"/></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">A Conversation Starter</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"module-content\">\n<p class=\"pct_p\" style=\"text-align: left;\">Unlock a bonus planetary cryptatrope at the end of the adventure. With no text or instructions, it becomes a pure visual artifact to spark the curiosity of any visitors.</p>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s1/default/c8a10d7762234c3d90c62c79583c0761/4d.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s1/default/c8a10d7762234c3d90c62c79583c0761/4d.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s1/default/c8a10d7762234c3d90c62c79583c0761/4d.mp4\" style=\"width: 100%;\" width=\"300\"></video></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"font-size: 24px; margin-top: 40px; text-align: center;\">How to Play</h2>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">1. Get the model files</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">Back the project on <a href=\"https://makerworld.com/en/crowdfunding/190-cryptatrope-a-maker-adventure\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">MakerWorld</span></strong></a> to access <a href=\"https://makerworld.com/en/models/2509004-cryptatrope-adventure-chapter-1#profileId-3014348\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong>Chapter 1</strong></span></a>.</li>\n<li style=\"text-align: left; font-size: 16px;\">Watch the video and download the first set of models.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">2. Print, assemble, and decode</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">Print and assemble the model.</li>\n<li style=\"text-align: left; font-size: 16px;\">Follow the viewing instructions in Chapter 1 to reveal the hidden message.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">3. Upload the message to unlock subsequent storylines</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">Enter the decoded message at a dedicated web portal in Chapter 1 to unlock the next stage of the adventure.</li>\n<li style=\"text-align: left; font-size: 16px;\">Repeat the process to continue through all three chapters, each with its own video and model files to download.</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\"><!--安装教程-->\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 30px; margin-bottom: 10px; font-size: 24px; text-align: center;\">Assembly Instructions</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse; height: 103px;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 26px; text-align: center;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 26px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 26px;\"><strong>Qty</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 27px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 27px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong><span style=\"color: #00ae42;\"><a href=\"../../products/y-shape-led-light-with-magnetic-control-switch?id=543583515584897025\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Y Shape LED Light with Magnetic Control Switch White (1PCS) - KC012</a></span></strong></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/a8a91ee59fdf482e949823397b4e8555.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 27px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/round-magnet?id=503068105655857181\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">D25x3 mm Round Magnet (10PCS) - CA021</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/fd38f995bd9e47dfab411d6f3f20c21c.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">Considerations</h2>\n<ul>\n<li style=\"text-align: left; font-size: 20px;\"><span style=\"font-size: 16px;\">This product is intended for ages 12 and up. Users under the age of 12 must be under direct adult supervision throughout use.</span></li>\n<li style=\"text-align: left; font-size: 20px;\"><span style=\"font-size: 16px;\">This product contains small parts and poses a choking hazard. Do not ingest. If accidentally swallowed, seek immediate medical attention. Keep out of reach of children.</span></li>\n<li style=\"text-align: left; font-size: 20px;\"><span style=\"font-size: 16px;\">Please remember to turn off the LED Lights after you're done playing with this model.</span></li>\n</ul>\n</div>\n</div>\n</div>",
+  "description_text": "Mike is trapped in the year 1503. To ensure his return, while keeping his time travel secrets from being revealed too soon, he invented a device with a message that could only be decoded once 3D printing technology existed. The blueprints are now in your hands.\n\nPrint the base device. Spin it. Look through it. Decode and transmit the message through the web portal to unlock the next chapter’s downloads. Each step reveals more intricate designs and new pieces of the story.\n\nComplete each chapter to unlock a commemorative token, including a special MakerChip at the end of the full adventure. Display these optional prints in the deluxe stand or relic holder as a record of your progress.\n\nUnlock a bonus planetary cryptatrope at the end of the adventure. With no text or instructions, it becomes a pure visual artifact to spark the curiosity of any visitors.\n\nBack the project on MakerWorld to access Chapter 1.\n\nWatch the video and download the first set of models.\n\nPrint and assemble the model.\n\nFollow the viewing instructions in Chapter 1 to reveal the hidden message.\n\nEnter the decoded message at a dedicated web portal in Chapter 1 to unlock the next stage of the adventure.\n\nRepeat the process to continue through all three chapters, each with its own video and model files to download.\n\nThis product is intended for ages 12 and up. Users under the age of 12 must be under direct adult supervision throughout use.\n\nThis product contains small parts and poses a choking hazard. Do not ingest. If accidentally swallowed, seek immediate medical attention. Keep out of reach of children.\n\nPlease remember to turn off the LED Lights after you're done playing with this model.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zl022-cryptatrope-adventure",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Cryptatrope Adventure",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/cryptatrope-adventure?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.79",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/cryptatrope-adventure?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "14.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/cryptatrope-adventure?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.79",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/cryptatrope-adventure?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "20.79",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/cryptatrope-adventure?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "14.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/cryptatrope-adventure?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "CA021",
+    "KC012",
+    "ZL022"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Cryptatrope A Maker Adventure",
+      "url": "https://makerworld.com/en/crowdfunding/190-cryptatrope-a-maker-adventure"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Chapter 1",
+      "url": "https://makerworld.com/en/models/2509004-cryptatrope-adventure-chapter-1#profileId-3014348"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "728838146322128897",
+    "731285561333972992",
+    "731285834837061634",
+    "731286129169436674",
+    "731286336187277314",
+    "731286462569000962"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/cryptatrope-adventure?id=731286336187277314"
+      },
+      "rows": [
+        [
+          "1",
+          "Y Shape LED Light with Magnetic Control Switch White (1PCS) - KC012",
+          "2"
+        ],
+        [
+          "2",
+          "D25x3 mm Round Magnet (10PCS) - CA021",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/f5c6ef8a2beb46c5a4c5327266bccc0b/1a.png",
+      "part_number": "ZL022",
+      "price": "11.99",
+      "region": "us",
+      "sku": "731286336187277314",
+      "title": "Cryptatrope Adventure - Cryptatrope Adventure - ZL022",
+      "url": "https://us.store.bambulab.com/products/cryptatrope-adventure?id=731286336187277314",
+      "variant_id": "731286336187277314"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/ea29bc3177854f29abef75dd566325fb/1a.png",
+      "part_number": "ZL022",
+      "price": "12.79",
+      "region": "ca",
+      "sku": "731285834837061634",
+      "title": "Cryptatrope Adventure - Cryptatrope Adventure - ZL022",
+      "url": "https://ca.store.bambulab.com/products/cryptatrope-adventure?id=731285834837061634",
+      "variant_id": "731285834837061634"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/aac2d65fc759413cbb5619d63a5b4a82/1a.png",
+      "part_number": "ZL022",
+      "price": "14.99",
+      "region": "eu",
+      "sku": "731286462569000962",
+      "title": "Cryptatrope Adventure - Cryptatrope Adventure - ZL022",
+      "url": "https://eu.store.bambulab.com/products/cryptatrope-adventure?id=731286462569000962",
+      "variant_id": "731286462569000962"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/c94feb69076f424bac2ddedaebcaa08e/1a.png",
+      "part_number": "ZL022",
+      "price": "8.79",
+      "region": "uk",
+      "sku": "731286129169436674",
+      "title": "Cryptatrope Adventure - Cryptatrope Adventure - ZL022",
+      "url": "https://uk.store.bambulab.com/products/cryptatrope-adventure?id=731286129169436674",
+      "variant_id": "731286129169436674"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/85ad391b64d44f16885c774600fda06f/1a.png",
+      "part_number": "ZL022",
+      "price": "20.79",
+      "region": "au",
+      "sku": "731285561333972992",
+      "title": "Cryptatrope Adventure - Cryptatrope Adventure - ZL022",
+      "url": "https://au.store.bambulab.com/products/cryptatrope-adventure?id=731285561333972992",
+      "variant_id": "731285561333972992"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/87bc33b056204333b53f38767be37c45/1a.png",
+      "part_number": "ZL022",
+      "price": "14.99",
+      "region": "asia",
+      "sku": "728838146322128897",
+      "title": "Cryptatrope Adventure - Cryptatrope Adventure - ZL022",
+      "url": "https://asia.store.bambulab.com/products/cryptatrope-adventure?id=728838146322128897",
+      "variant_id": "728838146322128897"
+    }
+  ]
+}

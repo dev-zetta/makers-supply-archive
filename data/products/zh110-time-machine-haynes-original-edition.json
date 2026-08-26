@@ -1,0 +1,380 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "time-machine-haynes-original-edition",
+      "product_id": "654951446127738880",
+      "region": "us"
+    },
+    {
+      "handle": "time-machine-haynes-original-edition",
+      "product_id": "654952124540661760",
+      "region": "ca"
+    },
+    {
+      "handle": "time-machine-haynes-original-edition",
+      "product_id": "654952000053796864",
+      "region": "eu"
+    },
+    {
+      "handle": "time-machine-haynes-original-edition",
+      "product_id": "654951737596645376",
+      "region": "uk"
+    },
+    {
+      "handle": "time-machine-haynes-original-edition",
+      "product_id": "654952304516157440",
+      "region": "au"
+    },
+    {
+      "handle": "time-machine-haynes-original-edition",
+      "product_id": "654936362235531264",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/af/affd4657e4fcfa5349f687cb2b663a63d5e88b4ab2d59fbe32ecece2c842122f.png",
+      "declared_media_type": "image/jpeg",
+      "id": "image-dbcaa721dac5ec89b659",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH110-1.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "affd4657e4fcfa5349f687cb2b663a63d5e88b4ab2d59fbe32ecece2c842122f",
+      "size": 1167918,
+      "source_url": "https://store.bblcdn.com/s1/default/117905cd34934910a64aac74d267eed5/B-ZH110-1.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/97/9700fb199a765763e4c5759e38e732143e03d32f2e81ff755b49c5fa82b765d5.png",
+      "id": "image-a5d94e4598b6dda85054",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH110.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9700fb199a765763e4c5759e38e732143e03d32f2e81ff755b49c5fa82b765d5",
+      "size": 221182,
+      "source_url": "https://store.bblcdn.com/s1/default/670b8feb23434e29b958b35e609d5da4/ZH110.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/6a/6ae35984d0b56fc5441eb141bf23bcefbaa4a63e0a9966f691e8ab7e2fc7b5fa.png",
+      "id": "image-display-a2f6f82ea105d03de666",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "affd4657e4fcfa5349f687cb2b663a63d5e88b4ab2d59fbe32ecece2c842122f",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH110-1.catalog.png",
+      "parent_asset_id": "image-dbcaa721dac5ec89b659",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6ae35984d0b56fc5441eb141bf23bcefbaa4a63e0a9966f691e8ab7e2fc7b5fa",
+      "size": 395208,
+      "source_url": "https://store.bblcdn.com/s1/default/117905cd34934910a64aac74d267eed5/B-ZH110-1.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/14/1482ac11a8d35438aa4a370e83c23b9abb2827650d6d43542cf0c6fbbc0a7809.png",
+      "id": "image-display-e07790dc86ea92b187fd",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9700fb199a765763e4c5759e38e732143e03d32f2e81ff755b49c5fa82b765d5",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH110.catalog.png",
+      "parent_asset_id": "image-a5d94e4598b6dda85054",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1482ac11a8d35438aa4a370e83c23b9abb2827650d6d43542cf0c6fbbc0a7809",
+      "size": 60352,
+      "source_url": "https://store.bblcdn.com/s1/default/670b8feb23434e29b958b35e609d5da4/ZH110.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa158-m3-socket-head-cap-machine-screws-shcs-1",
+      "name": "M3x10 SHCS Machine Screw - AA159",
+      "quantity": "20 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa158-m3-socket-head-cap-machine-screws-shcs-1",
+      "name": "M3x16 SHCS Machine Screw - AA039",
+      "quantity": "10 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa158-m3-socket-head-cap-machine-screws-shcs-1",
+      "name": "M3x20 SHCS Machine Screw - AA040",
+      "quantity": "10 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa064-m4-button-head-cap-machine-screws-bhcs",
+      "name": "M4x10 BHCS Machine Screw - AA175",
+      "quantity": "10 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa064-m4-button-head-cap-machine-screws-bhcs",
+      "name": "M4x16 BHCS Machine Screw - AA067",
+      "quantity": "10 pcs",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Time Machine - HAYNES ORIGINAL EDITION. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Time Machine - HAYNES ORIGINAL EDITION on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Time Machine - HAYNES ORIGINAL EDITION</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Time Machine - HAYNES ORIGINAL EDITION</strong> on <a href=\"https://makerworld.com/zh/models/950794-delorean-time-machine-haynes-original-edition#profileId-918682\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n<div class=\"pct_ic\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/4ceb6e1132d7461aa09cb87130ecf4c4/B-ZH110.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M3x10 SHCS Machine Screw - AA159</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">20 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M3x16 SHCS Machine Screw - AA039</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">10 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M3x20 SHCS Machine Screw - AA040</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">10 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M4x10 BHCS Machine Screw - AA175</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">10 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M4x16 BHCS Machine Screw - AA067</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">10 pcs</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Time Machine - HAYNES ORIGINAL EDITION. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Time Machine - HAYNES ORIGINAL EDITION on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh110-time-machine-haynes-original-edition",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Time Machine - HAYNES ORIGINAL EDITION",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.6",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.38",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.81",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.12",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.59",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.82",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA039",
+    "AA040",
+    "AA067",
+    "AA159",
+    "AA175",
+    "B-ZH110",
+    "ZH110"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Delorean Time Machine Haynes Original Edition",
+      "url": "https://makerworld.com/zh/models/950794-delorean-time-machine-haynes-original-edition#profileId-918682"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "654936362273280002",
+    "654951446173876224",
+    "654951737634394114",
+    "654952000070574082",
+    "654952124590993408",
+    "654952304566489090"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/time-machine-haynes-original-edition?id=654951446173876224"
+      },
+      "rows": [
+        [
+          "M3x10 SHCS Machine Screw - AA159",
+          "20 pcs"
+        ],
+        [
+          "M3x16 SHCS Machine Screw - AA039",
+          "10 pcs"
+        ],
+        [
+          "M3x20 SHCS Machine Screw - AA040",
+          "10 pcs"
+        ],
+        [
+          "M4x10 BHCS Machine Screw - AA175",
+          "10 pcs"
+        ],
+        [
+          "M4x16 BHCS Machine Screw - AA067",
+          "10 pcs"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/6a1f8bd60af54fbca18eb0eda98b2787/B-ZH110-1.jpg",
+      "part_number": "ZH110",
+      "price": "6.6",
+      "region": "us",
+      "sku": "654951446173876224",
+      "title": "Time Machine - HAYNES ORIGINAL EDITION - Time Machine - HAYNES ORIGINAL EDITION - ZH110",
+      "url": "https://us.store.bambulab.com/products/time-machine-haynes-original-edition?id=654951446173876224",
+      "variant_id": "654951446173876224"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/66ac1c87a67e4c768a0644f8bdde41af/B-ZH110-1.jpg",
+      "part_number": "ZH110",
+      "price": "7.38",
+      "region": "ca",
+      "sku": "654952124590993408",
+      "title": "Time Machine - HAYNES ORIGINAL EDITION - Time Machine - HAYNES ORIGINAL EDITION - ZH110",
+      "url": "https://ca.store.bambulab.com/products/time-machine-haynes-original-edition?id=654952124590993408",
+      "variant_id": "654952124590993408"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/6387f3cd659a4af8b05a2c3c39bbcb2b/B-ZH110-1.jpg",
+      "part_number": "ZH110",
+      "price": "6.81",
+      "region": "eu",
+      "sku": "654952000070574082",
+      "title": "Time Machine - HAYNES ORIGINAL EDITION - Delorean Time Machine - HAYNES ORIGINAL EDITION - ZH110",
+      "url": "https://eu.store.bambulab.com/products/time-machine-haynes-original-edition?id=654952000070574082",
+      "variant_id": "654952000070574082"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/7ea09997f1a0452abef9f7eb59bd773d/B-ZH110-1.jpg",
+      "part_number": "ZH110",
+      "price": "5.12",
+      "region": "uk",
+      "sku": "654951737634394114",
+      "title": "Time Machine - HAYNES ORIGINAL EDITION - Time Machine - HAYNES ORIGINAL EDITION - ZH110",
+      "url": "https://uk.store.bambulab.com/products/time-machine-haynes-original-edition?id=654951737634394114",
+      "variant_id": "654951737634394114"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/60d00b4f8fb24cfe8e22ddb6bea0532d/B-ZH110-1.jpg",
+      "part_number": "ZH110",
+      "price": "11.59",
+      "region": "au",
+      "sku": "654952304566489090",
+      "title": "Time Machine - HAYNES ORIGINAL EDITION - Time Machine - HAYNES ORIGINAL EDITION - ZH110",
+      "url": "https://au.store.bambulab.com/products/time-machine-haynes-original-edition?id=654952304566489090",
+      "variant_id": "654952304566489090"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/117905cd34934910a64aac74d267eed5/B-ZH110-1.jpg",
+      "part_number": "ZH110",
+      "price": "5.82",
+      "region": "asia",
+      "sku": "654936362273280002",
+      "title": "Time Machine - HAYNES ORIGINAL EDITION - Time Machine - HAYNES ORIGINAL EDITION - ZH110",
+      "url": "https://asia.store.bambulab.com/products/time-machine-haynes-original-edition?id=654936362273280002",
+      "variant_id": "654936362273280002"
+    }
+  ]
+}

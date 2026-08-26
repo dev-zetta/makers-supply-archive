@@ -1,0 +1,396 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "flaming-fox-v8-engine",
+      "product_id": "8445099245704",
+      "region": "us"
+    },
+    {
+      "handle": "flaming-fox-v8-engine",
+      "product_id": "548026092602376192",
+      "region": "ca"
+    },
+    {
+      "handle": "flaming-fox-v8-engine",
+      "product_id": "14819925197148",
+      "region": "eu"
+    },
+    {
+      "handle": "flaming-fox-v8-engine",
+      "product_id": "548026004042526720",
+      "region": "uk"
+    },
+    {
+      "handle": "flaming-fox-v8-engine",
+      "product_id": "548025855720935424",
+      "region": "au"
+    },
+    {
+      "handle": "flaming-fox-v8-engine",
+      "product_id": "547996248830259200",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/9b/9b5959945a94686c4e8060a9c3ced097c2dca109973ca6a684231769ee664afe.png",
+      "id": "image-dc9bb04800df217ea169",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "742c7d0030c04c11b3f92e735294b912.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9b5959945a94686c4e8060a9c3ced097c2dca109973ca6a684231769ee664afe",
+      "size": 334434,
+      "source_url": "https://store.bblcdn.com/s5/default/742c7d0030c04c11b3f92e735294b912.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/79/79753314ce84451be4311f83cc0315349ca2ecf6399398614b4a7e8ef7207ce2.png",
+      "id": "image-1d12b5f07b947a42ad42",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "24b68fbd96a848cda6eb2163cfeef232.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "79753314ce84451be4311f83cc0315349ca2ecf6399398614b4a7e8ef7207ce2",
+      "size": 96439,
+      "source_url": "https://store.bblcdn.com/s5/default/24b68fbd96a848cda6eb2163cfeef232.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c1/c166c10c6897b4ad35c337e95598c0ca35e72a5b9fb5d3aeaffd9a55424a58f8.png",
+      "id": "image-7b35d266306632930da7",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "dbd1b3b0724f4e8eb3347240cee4b08b.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c166c10c6897b4ad35c337e95598c0ca35e72a5b9fb5d3aeaffd9a55424a58f8",
+      "size": 332136,
+      "source_url": "https://store.bblcdn.com/s5/default/dbd1b3b0724f4e8eb3347240cee4b08b.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7f/7f9c06cd3a4a698bf92b32341b2155945124672d3d805881602df3046bc0bc74.png",
+      "id": "image-display-6038422e9aaa126b0d86",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "9b5959945a94686c4e8060a9c3ced097c2dca109973ca6a684231769ee664afe",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "742c7d0030c04c11b3f92e735294b912.catalog.png",
+      "parent_asset_id": "image-dc9bb04800df217ea169",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7f9c06cd3a4a698bf92b32341b2155945124672d3d805881602df3046bc0bc74",
+      "size": 315540,
+      "source_url": "https://store.bblcdn.com/s5/default/742c7d0030c04c11b3f92e735294b912.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7d/7d565b60c02fdb65bb0ea325d6b63c87515227594ab31444f84a1b4174ce2be5.png",
+      "id": "image-display-48bd95f9e259b88173ea",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "79753314ce84451be4311f83cc0315349ca2ecf6399398614b4a7e8ef7207ce2",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "24b68fbd96a848cda6eb2163cfeef232.catalog.png",
+      "parent_asset_id": "image-1d12b5f07b947a42ad42",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7d565b60c02fdb65bb0ea325d6b63c87515227594ab31444f84a1b4174ce2be5",
+      "size": 83275,
+      "source_url": "https://store.bblcdn.com/s5/default/24b68fbd96a848cda6eb2163cfeef232.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e9/e9b5df99cd009cc7757558d8b4cb6c5b94456bd637888315fc0dd263944b015e.png",
+      "id": "image-display-8d8080fed8c4e0991523",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "c166c10c6897b4ad35c337e95598c0ca35e72a5b9fb5d3aeaffd9a55424a58f8",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "dbd1b3b0724f4e8eb3347240cee4b08b.catalog.png",
+      "parent_asset_id": "image-7b35d266306632930da7",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e9b5df99cd009cc7757558d8b4cb6c5b94456bd637888315fc0dd263944b015e",
+      "size": 300264,
+      "source_url": "https://store.bblcdn.com/s5/default/dbd1b3b0724f4e8eb3347240cee4b08b.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa009-m2-flat-head-cap-machine-screws-fhcs",
+      "name": "M2x10 FHCS Machine Screw (20PCS) - AA007",
+      "quantity": "3",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa187-m3-flat-head-cap-machine-screws-fhcs",
+      "name": "M3x14 FHCS Machine Screw (20PCS) - AA189",
+      "quantity": "6",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "rd015-gt2-timing-belt",
+      "name": "GT2-540-06 Timing Belt (1PCS) - RD015",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling a fully functional Flaming Fox V8 Engine. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of the Flaming Fox V8 Engine and obtain detailed information, please visit the Flaming Fox V8 Engine on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<p style=\"margin-top: 30px;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-=\"\" data-src=\"https://store.bblcdn.com/s7/default/487e550afff145f88738c8fc894d33d2/14a953f076214f899f8746b9bf0539ce.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" style=\"width: 100%;\" width=\"300\">\n</video></p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling a fully functional <strong>Flaming Fox V8 Engine</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\"></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"><span>To download the model files of the <strong>Flaming Fox V8 Engine </strong></span><span>and obtain detailed information, please visit the </span><strong>Flaming Fox V8 Engine </strong><span>on </span><span style=\"color: #00ae42;\"><strong><u><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/495215?from=search#profileId-410446\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">MakerWorld</a></span><a href=\"https://makerworld.com/zh/models/493676?from=search#profileId-407494\" rel=\"noopener\"></a></u></strong></span><span>.</span></div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">In the Box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"height: 95px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>M2x10 FHCS Machine Screw (20PCS) - AA007</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<p>M3x14 FHCS Machine Screw (20PCS) - AA189</p>\n</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\"><span>6</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<p>GT2-540-06 Timing Belt (1PCS) - RD015</p>\n</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\"><span>1</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- 第五条 --></div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling a fully functional Flaming Fox V8 Engine. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Flaming Fox V8 Engine and obtain detailed information, please visit the Flaming Fox V8 Engine on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh042-flaming-fox-v8-engine",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Flaming Fox V8 Engine Kit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.47",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.5",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://ca.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.68",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10.77",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "24.33",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.24",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA007",
+    "AA189",
+    "B-ZH042",
+    "RD015",
+    "ZH042"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Flaming Fox V8 Engine",
+      "url": "https://makerworld.com/en/models/495215?from=search#profileId-410446"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Flaming Fox V8 Engine",
+      "url": "https://makerworld.com/zh/models/493676?from=search#profileId-407494"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "43172248780936",
+    "53677808288092",
+    "547996248838647810",
+    "548025855729324034",
+    "548026004059303936",
+    "548026092610764802"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/flaming-fox-v8-engine?id=43172248780936"
+      },
+      "rows": [
+        [
+          "M2x10 FHCS Machine Screw (20PCS) - AA007",
+          "3"
+        ],
+        [
+          "M3x14 FHCS Machine Screw (20PCS) - AA189",
+          "6"
+        ],
+        [
+          "GT2-540-06 Timing Belt (1PCS) - RD015",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/cc08d293f32f44c48c3dd37a670e174d/B-ZH042.png",
+      "part_number": "ZH042",
+      "price": "13.47",
+      "region": "us",
+      "sku": "43172248780936",
+      "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
+      "url": "https://us.store.bambulab.com/products/flaming-fox-v8-engine?id=43172248780936",
+      "variant_id": "43172248780936"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/742c7d0030c04c11b3f92e735294b912.png",
+      "part_number": "ZH042",
+      "price": "15.5",
+      "region": "ca",
+      "sku": "548026092610764802",
+      "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
+      "url": "https://ca.store.bambulab.com/products/flaming-fox-v8-engine?id=548026092610764802",
+      "variant_id": "548026092610764802"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/878e644b101d4c739f291bc782c6f5b4/B-ZH042.png",
+      "part_number": "ZH042",
+      "price": "12.68",
+      "region": "eu",
+      "sku": "53677808288092",
+      "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
+      "url": "https://eu.store.bambulab.com/products/flaming-fox-v8-engine?id=53677808288092",
+      "variant_id": "53677808288092"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/54c934e19dfb4d9cb7d1cd1a6c4694ed.png",
+      "part_number": "ZH042",
+      "price": "10.77",
+      "region": "uk",
+      "sku": "548026004059303936",
+      "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
+      "url": "https://uk.store.bambulab.com/products/flaming-fox-v8-engine?id=548026004059303936",
+      "variant_id": "548026004059303936"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/5fb3e062887b40c2bfeca8f6c7bfe7c5.png",
+      "part_number": "ZH042",
+      "price": "24.33",
+      "region": "au",
+      "sku": "548025855729324034",
+      "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
+      "url": "https://au.store.bambulab.com/products/flaming-fox-v8-engine?id=548025855729324034",
+      "variant_id": "548025855729324034"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/d5f46e8147454a1a89b396f4a101fac2.png",
+      "part_number": "ZH042",
+      "price": "12.24",
+      "region": "asia",
+      "sku": "547996248838647810",
+      "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
+      "url": "https://asia.store.bambulab.com/products/flaming-fox-v8-engine?id=547996248838647810",
+      "variant_id": "547996248838647810"
+    }
+  ]
+}

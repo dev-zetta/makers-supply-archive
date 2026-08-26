@@ -1,0 +1,493 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
+      "product_id": "8098742993032",
+      "region": "us"
+    },
+    {
+      "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
+      "product_id": "8781675692272",
+      "region": "ca"
+    },
+    {
+      "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
+      "product_id": "9344620822876",
+      "region": "eu"
+    },
+    {
+      "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
+      "product_id": "7543901159484",
+      "region": "uk"
+    },
+    {
+      "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
+      "product_id": "8416650461347",
+      "region": "au"
+    },
+    {
+      "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
+      "product_id": "7580742746227",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/10/103effa0bbfe1966404e48b7131b0d72f13c31989af78ea2d18bb6c31f6b9999.png",
+      "id": "image-6dbdeaf41ec3f0eac5a1",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "633d29fcf04a44a48516981006846a81.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "103effa0bbfe1966404e48b7131b0d72f13c31989af78ea2d18bb6c31f6b9999",
+      "size": 331836,
+      "source_url": "https://store.bblcdn.eu/633d29fcf04a44a48516981006846a81.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/65/65860080ac346eb6568f3c89d927af6a6a6083c3319683fe090aad9297a12097.png",
+      "id": "image-83ce8a088b6dcc4dadea",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "6fd5ca6d935f47e99cf462ad2cd93e68.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "65860080ac346eb6568f3c89d927af6a6a6083c3319683fe090aad9297a12097",
+      "size": 492016,
+      "source_url": "https://store.bblcdn.eu/6fd5ca6d935f47e99cf462ad2cd93e68.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/72/72bf08d1a98dcf5872b449eec2dab0cd265862cb6f4175939c27df56b432551c.pdf",
+      "id": "document-8e24ab889a95486eaaaa",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "M1.6_Socket_Head_Cap_Machine_Screws_SHCS.pdf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "72bf08d1a98dcf5872b449eec2dab0cd265862cb6f4175939c27df56b432551c",
+      "size": 569453,
+      "source_url": "https://store.bblcdn.com/s7/default/43333ae5d9934ef3a206d54bd0877528/M1.6_Socket_Head_Cap_Machine_Screws_SHCS.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/69/691bc707a12256339467e78adbcd13f6529c84ecb1165d88fc9a529f203c3b21.zip",
+      "id": "archive-accefc2a7d83bc6348f7",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "M1.6_SHCS_Machine_Screw.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "691bc707a12256339467e78adbcd13f6529c84ecb1165d88fc9a529f203c3b21",
+      "size": 25444,
+      "source_url": "https://store.bblcdn.com/s7/default/1daa7240921b45c488d3a8d5dd29ed9b/M1.6_SHCS_Machine_Screw.zip"
+    },
+    {
+      "archive_member_path": "M1.6 SHCS Machine Screw/M1.6x4 - AA021.stl",
+      "blob_path": "data/blobs/sha256/87/87a73ed9bc04961178bdb18faf7a05d6a228ee9987ba702ac0c97b6d4e9c2a2a.stl",
+      "id": "model-410881668ac859f9639a",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "M1.6x4 - AA021.stl",
+      "parent_asset_id": "archive-accefc2a7d83bc6348f7",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "87a73ed9bc04961178bdb18faf7a05d6a228ee9987ba702ac0c97b6d4e9c2a2a",
+      "size": 23484,
+      "source_url": "https://store.bblcdn.com/s7/default/1daa7240921b45c488d3a8d5dd29ed9b/M1.6_SHCS_Machine_Screw.zip"
+    },
+    {
+      "archive_member_path": "M1.6 SHCS Machine Screw/M1.6x4 - AA021.stp",
+      "blob_path": "data/blobs/sha256/fd/fdf5547deb62b64b1cd73db9e2a1ea471ab8f01727e4dd570202464596f9da5e.stp",
+      "id": "model-352f8636d04edf900f5e",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "M1.6x4 - AA021.stp",
+      "parent_asset_id": "archive-accefc2a7d83bc6348f7",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "fdf5547deb62b64b1cd73db9e2a1ea471ab8f01727e4dd570202464596f9da5e",
+      "size": 86710,
+      "source_url": "https://store.bblcdn.com/s7/default/1daa7240921b45c488d3a8d5dd29ed9b/M1.6_SHCS_Machine_Screw.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/39/390586ea615ff9272103d21dc6e52f77981e1c17153ddf608309b648bddc1444.png",
+      "id": "image-display-4e6661b2b04199ca9756",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "103effa0bbfe1966404e48b7131b0d72f13c31989af78ea2d18bb6c31f6b9999",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "633d29fcf04a44a48516981006846a81.catalog.png",
+      "parent_asset_id": "image-6dbdeaf41ec3f0eac5a1",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "390586ea615ff9272103d21dc6e52f77981e1c17153ddf608309b648bddc1444",
+      "size": 111170,
+      "source_url": "https://store.bblcdn.eu/633d29fcf04a44a48516981006846a81.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/eb/eb312af133f9900371d058e95b552d77d895c0e97f19cf693d9414af28d9f31b.png",
+      "id": "image-display-57fac710e7178e1e871a",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "65860080ac346eb6568f3c89d927af6a6a6083c3319683fe090aad9297a12097",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "6fd5ca6d935f47e99cf462ad2cd93e68.catalog.png",
+      "parent_asset_id": "image-83ce8a088b6dcc4dadea",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "eb312af133f9900371d058e95b552d77d895c0e97f19cf693d9414af28d9f31b",
+      "size": 127464,
+      "source_url": "https://store.bblcdn.eu/6fd5ca6d935f47e99cf462ad2cd93e68.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Fasteners"
+  ],
+  "category_assignments": [
+    {
+      "id": "fasteners",
+      "label": "Fasteners",
+      "path": [
+        "Hardware",
+        "Fasteners"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[1]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Product Feature"
+    },
+    {
+      "kind": "bullet",
+      "text": "Carbon Steel Socket Head Cap Machine Screws (SHCS)"
+    },
+    {
+      "kind": "bullet",
+      "text": "Nominal thread: M1.6~M5"
+    },
+    {
+      "kind": "bullet",
+      "text": "Strength grade: 4.8"
+    },
+    {
+      "kind": "bullet",
+      "text": "Type of thread: Metric coarse thread"
+    },
+    {
+      "kind": "bullet",
+      "text": "Full thread series"
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" data-mce-style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a data-mce-href=\"https://store.bblcdn.com/s7/default/43333ae5d9934ef3a206d54bd0877528/M1.6_Socket_Head_Cap_Machine_Screws_SHCS.pdf\" data-mce-style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" href=\"https://store.bblcdn.com/s7/default/43333ae5d9934ef3a206d54bd0877528/M1.6_Socket_Head_Cap_Machine_Screws_SHCS.pdf\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\">\n<img alt=\"2D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/1ed6b71b4c814ac3bc34933673003555/2d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/>\n      Specification </a> <a data-mce-href=\"https://store.bblcdn.com/s7/default/1daa7240921b45c488d3a8d5dd29ed9b/M1.6_SHCS_Machine_Screw.zip\" data-mce-style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" href=\"https://store.bblcdn.com/s7/default/1daa7240921b45c488d3a8d5dd29ed9b/M1.6_SHCS_Machine_Screw.zip\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> 3D Model </a></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<h2 class=\"pct_t\"><br/></h2>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" data-mce-style=\"border-color: #ADADAD; font-weight: bold;\" style=\"border-color: #ADADAD; font-weight: bold;\">\n<!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div style=\"text-align: center;\">Product ID</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>L (mm)\n<p>Bolt Length</p>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>D (mm)</div>\n<p>Head Diameter</p>\n</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>H (mm)</div>\n<p>Head Thickness</p>\n</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>k (mm)</div>\n<p>Hexagon Across Flats</p>\n</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>t (mm)</div>\n<p>Groove Depth</p>\n</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Screwdriver Bit<br/>Size\n</div>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; border-color: #ADADAD; text-align: center;\" style=\"padding: 10px!important; border-color: #ADADAD; text-align: center;\">AA021</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; border-color: #ADADAD;\" style=\"padding: 10px!important; border-color: #ADADAD;\">4</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; border-color: #ADADAD;\" style=\"padding: 10px!important; border-color: #ADADAD;\">3</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; border-color: #ADADAD;\" style=\"padding: 10px!important; border-color: #ADADAD;\">1.1</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; border-color: #ADADAD;\" style=\"padding: 10px!important; border-color: #ADADAD;\">1.5</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; border-color: #ADADAD;\" style=\"padding: 10px!important; border-color: #ADADAD;\">0.8</td>\n<td class=\"pct_td\" data-mce-style=\"padding: 10px!important; border-color: #ADADAD;\" style=\"padding: 10px!important; border-color: #ADADAD;\">H1.5</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-mce-style=\"text-align: center; margin-top: 30px;\" style=\"text-align: center; margin-top: 30px;\">*Compliant with the requirements of GB/T 70.1-2008 standard [Equivalent standards: <span data-mce-style=\"font-size: 0.875rem;\" style=\"font-size: 0.875rem;\">ISO 4762, ASME/ANSI B 18.3.1M - 1986 (R1993), DIN EN ISO 12474]</span></p>\n<p data-mce-style=\"text-align: center; margin-top: 30px;\" style=\"text-align: center; margin-top: 30px;\">Forgot the screw specs? <span data-mce-style=\"font-size: 0.875rem;\" style=\"font-size: 0.875rem;\">Just tap the <strong><a href=\"https://makerworld.com/zh/models/14860#profileId-14641\" target=\"_blank\"><span data-mce-style=\"color: #00ae42;\" style=\"color: #00ae42;\"><span style=\"text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><u>Screw Gauge</u></span></span></a> </strong>for sorting help.</span></p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<h2 class=\"pct_t\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Basic Information</h2>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\">\n<!-- 第一条 -->\n<div class=\"pct_ic-p\">\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" data-mce-style=\"padding: 0;\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" data-mce-style=\"width: 100%; margin-top: 0; font-weight: bold;\" style=\"width: 100%; margin-top: 0; font-weight: bold;\">\n<!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; width: 45%; text-align: center;\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Surface Treatment</td>\n<td class=\"pct_td\">No</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; width: 45%; text-align: center;\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Mounting Hole Shape</td>\n<td class=\"pct_td\">Hex socket</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; width: 45%; text-align: center;\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Screw Type</td>\n<td class=\"pct_td\">Complete thread</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 -->\n</div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\">\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" data-mce-style=\"padding: 0;\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" data-mce-style=\"width: 100%; margin-top: 0; font-weight: bold;\" style=\"width: 100%; margin-top: 0; font-weight: bold;\">\n<!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; width: 45%; text-align: center;\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Material</td>\n<td class=\"pct_td\" style=\"height: 19px;\">Carbon steel</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; width: 45%; text-align: center;\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Thread Ridge Type</td>\n<td class=\"pct_td\" style=\"height: 19px;\">Metric coarse</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; width: 45%; text-align: center;\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Color</td>\n<td class=\"pct_td\" style=\"height: 19px;\">Silver</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 -->\n</div>\n</div>\n<!-- 如需添加在此处添加 -->\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Product Feature</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<ul class=\"pct_productFeatureList\">\n<li>\n<p>Carbon Steel Socket Head Cap Machine Screws (SHCS)</p>\n</li>\n<li>\n<p>Nominal thread: M1.6~M5</p>\n</li>\n<li>\n<p>Strength grade: 4.8</p>\n</li>\n<li>\n<p>Type of thread: Metric coarse thread</p>\n</li>\n<li>\n<p>Full thread series</p>\n</li>\n</ul>\n</div>\n</div>",
+  "description_text": "Carbon Steel Socket Head Cap Machine Screws (SHCS)\n\nNominal thread: M1.6~M5\n\nStrength grade: 4.8\n\nType of thread: Metric coarse thread\n\nFull thread series",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "aa021-m1-6-socket-head-cap-machine-screws-shcs-1",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "D (mm) Head Diameter",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:D (mm) Head Diameter",
+        "source_url": "https://us.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=42356928282760"
+      },
+      "raw_value": "3"
+    },
+    {
+      "label": "H (mm) Head Thickness",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:H (mm) Head Thickness",
+        "source_url": "https://us.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=42356928282760"
+      },
+      "raw_value": "1.1"
+    },
+    {
+      "label": "L (mm) Bolt Length",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:L (mm) Bolt Length",
+        "source_url": "https://us.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=42356928282760"
+      },
+      "raw_value": "4"
+    },
+    {
+      "label": "Screwdriver Bit Size",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Screwdriver Bit Size",
+        "source_url": "https://us.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=42356928282760"
+      },
+      "raw_value": "H1.5"
+    }
+  ],
+  "name": "M1.6 Socket Head Cap Machine Screws (SHCS)",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.24",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.43",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.17",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "0.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.25",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.13",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA005",
+    "AA021"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Screw Gauge",
+      "url": "https://makerworld.com/zh/models/14860#profileId-14641"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "41640879095868",
+    "41783286988915",
+    "42356928282760",
+    "44547111157923",
+    "45958756761840",
+    "48684538560860"
+  ],
+  "source_tables": [
+    {
+      "caption": "",
+      "headers": [
+        "Product ID",
+        "L (mm) Bolt Length",
+        "D (mm) Head Diameter",
+        "H (mm) Head Thickness",
+        "k (mm) Hexagon Across Flats",
+        "t (mm) Groove Depth",
+        "Screwdriver Bit Size"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=42356928282760"
+      },
+      "rows": [
+        [
+          "AA021",
+          "4",
+          "3",
+          "1.1",
+          "1.5",
+          "0.8",
+          "H1.5"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=42356928282760"
+      },
+      "rows": [
+        [
+          "Surface Treatment",
+          "No"
+        ],
+        [
+          "Mounting Hole Shape",
+          "Hex socket"
+        ],
+        [
+          "Screw Type",
+          "Complete thread"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=42356928282760"
+      },
+      "rows": [
+        [
+          "Material",
+          "Carbon steel"
+        ],
+        [
+          "Thread Ridge Type",
+          "Metric coarse"
+        ],
+        [
+          "Color",
+          "Silver"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Color": "Silver",
+    "D (mm) Head Diameter": "3",
+    "H (mm) Head Thickness": "1.1",
+    "L (mm) Bolt Length": "4",
+    "Material": "Carbon steel",
+    "Mounting Hole Shape": "Hex socket",
+    "Product ID": "AA021",
+    "Screw Type": "Complete thread",
+    "Screwdriver Bit Size": "H1.5",
+    "Surface Treatment": "No",
+    "Thread Ridge Type": "Metric coarse",
+    "k (mm) Hexagon Across Flats": "1.5",
+    "t (mm) Groove Depth": "0.8"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/c390e61b0d8d40e4928d110a6e1a3729/AA005_563e1859-1d1b-4cba-b730-5ead5a6ae7f7.png",
+      "part_number": "AA021",
+      "price": "1.24",
+      "region": "us",
+      "sku": "42356928282760",
+      "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
+      "url": "https://us.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=42356928282760",
+      "variant_id": "42356928282760"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/f7de3516da0140ff9bd8f30522a08169.png",
+      "part_number": "AA021",
+      "price": "1.43",
+      "region": "ca",
+      "sku": "45958756761840",
+      "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
+      "url": "https://ca.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=45958756761840",
+      "variant_id": "45958756761840"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/18c6c7f6dbf94a1c9259e3b4417dffb0/AA005_563e1859-1d1b-4cba-b730-5ead5a6ae7f7.png",
+      "part_number": "AA021",
+      "price": "1.17",
+      "region": "eu",
+      "sku": "48684538560860",
+      "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
+      "url": "https://eu.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=48684538560860",
+      "variant_id": "48684538560860"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/633d29fcf04a44a48516981006846a81.png",
+      "part_number": "AA021",
+      "price": "0.99",
+      "region": "uk",
+      "sku": "41640879095868",
+      "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
+      "url": "https://uk.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=41640879095868",
+      "variant_id": "41640879095868"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/5db14180723c454f95070d407176fe54.png",
+      "part_number": "AA021",
+      "price": "2.25",
+      "region": "au",
+      "sku": "44547111157923",
+      "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
+      "url": "https://au.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=44547111157923",
+      "variant_id": "44547111157923"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494435608636649472.png",
+      "part_number": "AA021",
+      "price": "1.13",
+      "region": "asia",
+      "sku": "41783286988915",
+      "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
+      "url": "https://asia.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=41783286988915",
+      "variant_id": "41783286988915"
+    }
+  ]
+}

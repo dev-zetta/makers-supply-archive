@@ -1,0 +1,357 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "pocket-rubber-band-racer",
+      "product_id": "8351415369864",
+      "region": "us"
+    },
+    {
+      "handle": "pocket-rubber-band-racer",
+      "product_id": "9022842732784",
+      "region": "ca"
+    },
+    {
+      "handle": "pocket-rubber-band-racer",
+      "product_id": "9582324416860",
+      "region": "eu"
+    },
+    {
+      "handle": "pocket-rubber-band-racer",
+      "product_id": "7787777163324",
+      "region": "uk"
+    },
+    {
+      "handle": "pocket-rubber-band-racer",
+      "product_id": "510731885206007808",
+      "region": "au"
+    },
+    {
+      "handle": "pocket-rubber-band-racer",
+      "product_id": "510731870386802688",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/bf/bfb6521aac03b92aa98116d7f4583dfeadf5a8af4e78371e000681d1707c948e.jpg",
+      "id": "image-1dcfeb921d0f62f3378d",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "f8bc40c8f5c9474f94db799ddb57f3b2.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "bfb6521aac03b92aa98116d7f4583dfeadf5a8af4e78371e000681d1707c948e",
+      "size": 99949,
+      "source_url": "https://store.bblcdn.com/f8bc40c8f5c9474f94db799ddb57f3b2.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9a/9a7bb7bcfd5b32081100d95f5eea1360d3b9fab99f8a0c4406e88fd739da351b.png",
+      "id": "image-3e4cd98684b99b031c9c",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ea9dde88144548098b6a4bb9a96c083b.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9a7bb7bcfd5b32081100d95f5eea1360d3b9fab99f8a0c4406e88fd739da351b",
+      "size": 295908,
+      "source_url": "https://store.bblcdn.com/ea9dde88144548098b6a4bb9a96c083b.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/85/85d0899b4bab4df50d3e3b0d1d990e4558c9f52fecb004754c6297f22999a08f.png",
+      "id": "image-display-79261f94e24a4e57f585",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "bfb6521aac03b92aa98116d7f4583dfeadf5a8af4e78371e000681d1707c948e",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "f8bc40c8f5c9474f94db799ddb57f3b2.catalog.png",
+      "parent_asset_id": "image-1dcfeb921d0f62f3378d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "85d0899b4bab4df50d3e3b0d1d990e4558c9f52fecb004754c6297f22999a08f",
+      "size": 529237,
+      "source_url": "https://store.bblcdn.com/f8bc40c8f5c9474f94db799ddb57f3b2.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ea/ea1308bc51d2d17f4e7145c5b73f53a7fa358d40a6c2a06363a802eaa209a2f7.png",
+      "id": "image-display-3819b273af26abd50f0b",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1601,
+        "source_sha256": "9a7bb7bcfd5b32081100d95f5eea1360d3b9fab99f8a0c4406e88fd739da351b",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ea9dde88144548098b6a4bb9a96c083b.catalog.png",
+      "parent_asset_id": "image-3e4cd98684b99b031c9c",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ea1308bc51d2d17f4e7145c5b73f53a7fa358d40a6c2a06363a802eaa209a2f7",
+      "size": 94952,
+      "source_url": "https://store.bblcdn.com/ea9dde88144548098b6a4bb9a96c083b.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "MR128zz Steel Deep Groove Ball Bearings (6PCS) - EA004",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ra001-rubber-bands",
+      "name": "1.4x20mm Basic Rubber Bands (100PCS) - RA002",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "rb001-o-rings",
+      "name": "OD24x2.5mm O Ring (10PCS) - RB004",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Pocket Rubber Band Racer. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of the Pocket Rubber Band Racer and obtain detailed information, please visit the Pocket Rubber Band Racer on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<p style=\"margin-top: 30px;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-=\"\" data-src=\"https://store.bblcdn.com/s7/default/f5f38d74b72e4165ac086945b2363384/87d62138cf944f4fb6b6bd1cf9b9fdda.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" style=\"width: 100%;\" width=\"300\">\n</video></p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The product contains all the <strong data-mce-fragment=\"1\">non-3D printed</strong> parts for assembling an entirely functional <strong data-mce-fragment=\"1\">Pocket Rubber Band Racer</strong>. To complete the work, you also need to download the <strong data-mce-fragment=\"1\">model files</strong> and <strong data-mce-fragment=\"1\">3D print</strong> the remaining parts.<span data-mce-fragment=\"1\"></span></p>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\"></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"><span data-mce-fragment=\"1\">To download the model files of the <strong data-mce-fragment=\"1\">Pocket Rubber Band Racer</strong></span><span data-mce-fragment=\"1\"> and obtain detailed information, please visit the <strong data-mce-fragment=\"1\">Pocket Rubber Band Racer </strong></span><span data-mce-fragment=\"1\">on </span><a href=\"https://makerworld.com/en/models/601152?from=search#profileId-523438\" rel=\"noopener\"><span data-mce-fragment=\"1\" style=\"color: #00ae42;\"><strong data-mce-fragment=\"1\"><u data-mce-fragment=\"1\">MakerWorld</u></strong></span></a><span data-mce-fragment=\"1\">.</span></div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\" data-mce-fragment=\"1\">In the Box</h3>\n<div class=\"pct pct_mc\" data-mce-fragment=\"1\">\n<div class=\"pct_t-tb\" data-mce-fragment=\"1\">\n<table class=\"pct_tb\" data-mce-fragment=\"1\" style=\"height: 95px;\"><!-- 表头 -->\n<tbody data-mce-fragment=\"1\">\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 483.42px;\"><strong data-mce-fragment=\"1\">Item</strong></td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 48.6285px;\"><strong data-mce-fragment=\"1\">Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 483.42px;\">\n<div data-mce-fragment=\"1\">\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>MR128zz Steel Deep Groove Ball Bearings (6PCS) - EA004</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\" data-mce-fragment=\"1\"></span></td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 48.6285px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 483.42px;\">\n<p>1.4x20mm Basic Rubber Bands (100PCS) - RA002</p>\n</td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 48.6285px;\"><span data-mce-fragment=\"1\">1</span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 483.42px;\">\n<p>OD24x2.5mm O Ring (10PCS) - RB004</p>\n</td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"height: 19px; width: 48.6285px;\"><span data-mce-fragment=\"1\">1</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- 第五条 --></div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Pocket Rubber Band Racer. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Pocket Rubber Band Racer and obtain detailed information, please visit the Pocket Rubber Band Racer on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh022-pocket-rubber-band-racer",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Pocket Rubber Band Racer",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.09",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.8",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.56",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.72",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10.67",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.37",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "EA004",
+    "MR128",
+    "RA002",
+    "RB004",
+    "ZH022"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Pocket Rubber Band Racer",
+      "url": "https://makerworld.com/en/models/601152?from=search#profileId-523438"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42169780633660",
+    "42899858882696",
+    "46577905303792",
+    "49354257006940",
+    "510731870386802692",
+    "510731885214396419"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/pocket-rubber-band-racer?id=42899858882696"
+      },
+      "rows": [
+        [
+          "MR128zz Steel Deep Groove Ball Bearings (6PCS) - EA004",
+          "1"
+        ],
+        [
+          "1.4x20mm Basic Rubber Bands (100PCS) - RA002",
+          "1"
+        ],
+        [
+          "OD24x2.5mm O Ring (10PCS) - RB004",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/4ebfce3a348247979e231d06d0d72a4d/rubber.jpg",
+      "part_number": "ZH022",
+      "price": "6.09",
+      "region": "us",
+      "sku": "42899858882696",
+      "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
+      "url": "https://us.store.bambulab.com/products/pocket-rubber-band-racer?id=42899858882696",
+      "variant_id": "42899858882696"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/4754d02e6e50438a924c966a9e091672.jpg",
+      "part_number": "ZH022",
+      "price": "6.8",
+      "region": "ca",
+      "sku": "46577905303792",
+      "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
+      "url": "https://ca.store.bambulab.com/products/pocket-rubber-band-racer?id=46577905303792",
+      "variant_id": "46577905303792"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/e2e93b3f119642cb8812957b26c8a423/rubber.jpg",
+      "part_number": "ZH022",
+      "price": "5.56",
+      "region": "eu",
+      "sku": "49354257006940",
+      "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
+      "url": "https://eu.store.bambulab.com/products/pocket-rubber-band-racer?id=49354257006940",
+      "variant_id": "49354257006940"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/5022d1e52d2c4501bd8a75b245b36b79.jpg",
+      "part_number": "ZH022",
+      "price": "4.72",
+      "region": "uk",
+      "sku": "42169780633660",
+      "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
+      "url": "https://uk.store.bambulab.com/products/pocket-rubber-band-racer?id=42169780633660",
+      "variant_id": "42169780633660"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/3edcbc79501d442dabdf7724bd583ea3.jpg",
+      "part_number": "ZH022",
+      "price": "10.67",
+      "region": "au",
+      "sku": "510731885214396419",
+      "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
+      "url": "https://au.store.bambulab.com/products/pocket-rubber-band-racer?id=510731885214396419",
+      "variant_id": "510731885214396419"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/f8bc40c8f5c9474f94db799ddb57f3b2.jpg",
+      "part_number": "ZH022",
+      "price": "5.37",
+      "region": "asia",
+      "sku": "510731870386802692",
+      "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
+      "url": "https://asia.store.bambulab.com/products/pocket-rubber-band-racer?id=510731870386802692",
+      "variant_id": "510731870386802692"
+    }
+  ]
+}

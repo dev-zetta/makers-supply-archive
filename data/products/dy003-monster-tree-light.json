@@ -1,0 +1,408 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "monster-tree-light",
+      "product_id": "8344530976904",
+      "region": "us"
+    },
+    {
+      "handle": "monster-tree-light",
+      "product_id": "9012904034544",
+      "region": "ca"
+    },
+    {
+      "handle": "monster-tree-light",
+      "product_id": "9571202105692",
+      "region": "eu"
+    },
+    {
+      "handle": "monster-tree-light",
+      "product_id": "7781050810428",
+      "region": "uk"
+    },
+    {
+      "handle": "monster-tree-light",
+      "product_id": "508190987944996864",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/1f/1ff3c46a07809f0766be937b0d03e55baa47bc8386e77d114b2569759667e9fa.jpg",
+      "id": "image-3d21a7b48f4fe8556f6a",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "TREE.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1ff3c46a07809f0766be937b0d03e55baa47bc8386e77d114b2569759667e9fa",
+      "size": 47613,
+      "source_url": "https://store.bblcdn.eu/s8/default/a60899a376a3421fae49cf1f00d192f8/TREE.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/80/80e7ad2a83602369f8f37f0d91c51e34021e75a99040e2e6d554c8f933cdc77e.jpg",
+      "id": "image-4401306d9a3aa3f90af4",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "TREE3.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "80e7ad2a83602369f8f37f0d91c51e34021e75a99040e2e6d554c8f933cdc77e",
+      "size": 128360,
+      "source_url": "https://store.bblcdn.eu/s8/default/ed124564ec474f28a351286d78664947/TREE3.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/1e/1e8adff355d94457a9c55cbd844b6e95f491f40cc9ba7198ef9e5a0c34d21488.png",
+      "id": "image-4bbd7a964ddf1b0e8ad5",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "flame-1_3f2b65a0-0477-4b8a-b9b7-e36b092f65f6.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1e8adff355d94457a9c55cbd844b6e95f491f40cc9ba7198ef9e5a0c34d21488",
+      "size": 217998,
+      "source_url": "https://store.bblcdn.eu/s8/default/062e30ca12204956b0e7e77dbfc841ff/flame-1_3f2b65a0-0477-4b8a-b9b7-e36b092f65f6.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/26/267069e7b410e1065eb4c13bd2be07341ac5ab60ed1d9bd4884a9df4a893e459.jpg",
+      "id": "image-1938d5186de9b1987334",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "TREE2.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "267069e7b410e1065eb4c13bd2be07341ac5ab60ed1d9bd4884a9df4a893e459",
+      "size": 92197,
+      "source_url": "https://store.bblcdn.eu/s8/default/3960ea1a94ac46a495a9d6ca6664a1d3/TREE2.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e1/e1dab403ec4775d0b0be4d0122d58df8b664ee07a98330288c2bb46de1616537.png",
+      "id": "image-bb5c69d85a0aec81d4c7",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KC018_be12dfad-1ef0-4262-aaad-96ebe11519f3.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e1dab403ec4775d0b0be4d0122d58df8b664ee07a98330288c2bb46de1616537",
+      "size": 123646,
+      "source_url": "https://store.bblcdn.eu/s8/default/c5fde673d9e149bab87695cd58a24e1a/KC018_be12dfad-1ef0-4262-aaad-96ebe11519f3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/8c/8c5aa82ea89bd757653df740518cbf6c8d4536606c41229cf8d5fa7d21887d24.png",
+      "id": "image-display-cc12ea4870aab4c6f37c",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "1ff3c46a07809f0766be937b0d03e55baa47bc8386e77d114b2569759667e9fa",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "TREE.catalog.png",
+      "parent_asset_id": "image-3d21a7b48f4fe8556f6a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8c5aa82ea89bd757653df740518cbf6c8d4536606c41229cf8d5fa7d21887d24",
+      "size": 223150,
+      "source_url": "https://store.bblcdn.eu/s8/default/a60899a376a3421fae49cf1f00d192f8/TREE.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ba/ba66d04f9c224bd37963d1e34804c54ac1eccecba076274c4e844852dd167033.png",
+      "id": "image-display-82ae62c4ab755bafec0c",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "80e7ad2a83602369f8f37f0d91c51e34021e75a99040e2e6d554c8f933cdc77e",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "TREE3.catalog.png",
+      "parent_asset_id": "image-4401306d9a3aa3f90af4",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ba66d04f9c224bd37963d1e34804c54ac1eccecba076274c4e844852dd167033",
+      "size": 636154,
+      "source_url": "https://store.bblcdn.eu/s8/default/ed124564ec474f28a351286d78664947/TREE3.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/06/06f39f3f4c2d749e9e035977819fa4ae59cacdd2f6c62e7ab27e71422db5a0b1.png",
+      "id": "image-display-d6e340ef154d82f53854",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "1e8adff355d94457a9c55cbd844b6e95f491f40cc9ba7198ef9e5a0c34d21488",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "flame-1_3f2b65a0-0477-4b8a-b9b7-e36b092f65f6.catalog.png",
+      "parent_asset_id": "image-4bbd7a964ddf1b0e8ad5",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "06f39f3f4c2d749e9e035977819fa4ae59cacdd2f6c62e7ab27e71422db5a0b1",
+      "size": 69465,
+      "source_url": "https://store.bblcdn.eu/s8/default/062e30ca12204956b0e7e77dbfc841ff/flame-1_3f2b65a0-0477-4b8a-b9b7-e36b092f65f6.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/90/907a6c0e3c07b17191191de67357c4aad2953c7288f7531637b9bd79ed625a85.png",
+      "id": "image-display-ac5433605eb09bc15b3e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "267069e7b410e1065eb4c13bd2be07341ac5ab60ed1d9bd4884a9df4a893e459",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "TREE2.catalog.png",
+      "parent_asset_id": "image-1938d5186de9b1987334",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "907a6c0e3c07b17191191de67357c4aad2953c7288f7531637b9bd79ed625a85",
+      "size": 515377,
+      "source_url": "https://store.bblcdn.eu/s8/default/3960ea1a94ac46a495a9d6ca6664a1d3/TREE2.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e2/e2e98d963c89959206b0973077d82f0b6b7d2372d175b2b9ccc7a5c5817c83ce.png",
+      "id": "image-display-c878ee6121b60c56f3e1",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 202,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "e1dab403ec4775d0b0be4d0122d58df8b664ee07a98330288c2bb46de1616537",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KC018_be12dfad-1ef0-4262-aaad-96ebe11519f3.catalog.png",
+      "parent_asset_id": "image-bb5c69d85a0aec81d4c7",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e2e98d963c89959206b0973077d82f0b6b7d2372d175b2b9ccc7a5c5817c83ce",
+      "size": 105033,
+      "source_url": "https://store.bblcdn.eu/s8/default/c5fde673d9e149bab87695cd58a24e1a/KC018_be12dfad-1ef0-4262-aaad-96ebe11519f3.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "kc008-led-flame-tea-light-candle-set-warm-yellow",
+      "name": "LED Flame Tea Light Candle Set Warm Yellow (12pcs) - KC008",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Monster Tree Light. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of the Monster Tree Light and obtain detailed information, please visit the Monster Tree Light on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The product contains all the <strong data-mce-fragment=\"1\">non-3D printed</strong> parts for assembling an entirely functional <strong data-mce-fragment=\"1\">Monster Tree Light</strong>. To complete the work, you also need to download the <strong data-mce-fragment=\"1\">model files</strong> and <strong data-mce-fragment=\"1\">3D print</strong> the remaining parts.<span data-mce-fragment=\"1\"></span></p>\n<div class=\"pct_st-p\">\n<span data-mce-style=\"text-decoration: underline;\" style=\"text-decoration: underline;\"><strong><em><span data-mce-style=\"color: #e60034; text-decoration: underline;\" style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span data-mce-style=\"color: #e60034; text-decoration: underline;\" style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\"><br/></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">\n<span data-mce-fragment=\"1\">To download the model files of the <strong data-mce-fragment=\"1\">Monster Tree Light</strong></span><span data-mce-fragment=\"1\"> and obtain detailed information, please visit the <strong data-mce-fragment=\"1\">Monster Tree Light </strong></span><span data-mce-fragment=\"1\">on </span><a data-mce-href=\"https://makerworld.com/en/models/604154?from=search#profileId-526806\" href=\"https://makerworld.com/en/models/604154?from=search#profileId-526806\" rel=\"noopener\"><span data-mce-fragment=\"1\" data-mce-style=\"color: #00ae42;\" style=\"color: #00ae42;\"><strong data-mce-fragment=\"1\"><u data-mce-fragment=\"1\">MakerWorld</u></strong></span></a><span data-mce-fragment=\"1\">.</span>\n</div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\"><br/></h3>\n<h3 class=\"pct_st\" data-mce-fragment=\"1\">In the Box</h3>\n<div class=\"pct pct_mc\" data-mce-fragment=\"1\">\n<div class=\"pct_t-tb\" data-mce-fragment=\"1\">\n<table class=\"pct_tb\" data-mce-fragment=\"1\" data-mce-style=\"height: 95px;\" style=\"height: 95px;\">\n<!-- 表头 -->\n<tbody data-mce-fragment=\"1\">\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px;\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 483.42px;\" style=\"height: 19px; width: 483.42px;\"><strong data-mce-fragment=\"1\">Item</strong></td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 48.6285px;\" style=\"height: 19px; width: 48.6285px;\"><strong data-mce-fragment=\"1\">Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px;\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 483.42px;\" style=\"height: 19px; width: 483.42px;\">\n<div data-mce-fragment=\"1\">\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>LED Flame Tea Light Candle Set Warm Yellow (12pcs) - KC008</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\" data-mce-fragment=\"1\"></span>\n</td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 48.6285px;\" style=\"height: 19px; width: 48.6285px;\">1<br data-mce-fragment=\"1\"/>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<br/>\n</div>\n<!-- 第五条 -->\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Monster Tree Light. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Monster Tree Light and obtain detailed information, please visit the Monster Tree Light on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "dy003-monster-tree-light",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Monster Tree Light",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/monster-tree-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.65",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/monster-tree-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10.35",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/monster-tree-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.79",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/monster-tree-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/monster-tree-light?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "DY003",
+    "KC008"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Monster Tree Light",
+      "url": "https://makerworld.com/en/models/604154?from=search#profileId-526806"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42154072277052",
+    "42884692017288",
+    "46552697897200",
+    "49319077445980",
+    "508190987944996868"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/monster-tree-light?id=42884692017288"
+      },
+      "rows": [
+        [
+          "LED Flame Tea Light Candle Set Warm Yellow (12pcs) - KC008",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/ec36b70869184a98b1f66892d12bc231/TREE.jpg",
+      "part_number": "DY003",
+      "price": "10.99",
+      "region": "us",
+      "sku": "42884692017288",
+      "title": "Monster Tree Light - Monster Tree Light - DY003",
+      "url": "https://us.store.bambulab.com/products/monster-tree-light?id=42884692017288",
+      "variant_id": "42884692017288"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/a12580482e564fad9a3e513af45126d1.jpg",
+      "part_number": "DY003",
+      "price": "12.65",
+      "region": "ca",
+      "sku": "46552697897200",
+      "title": "Monster Tree Light - Monster Tree Light - DY003",
+      "url": "https://ca.store.bambulab.com/products/monster-tree-light?id=46552697897200",
+      "variant_id": "46552697897200"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/a60899a376a3421fae49cf1f00d192f8/TREE.jpg",
+      "part_number": "DY003",
+      "price": "10.35",
+      "region": "eu",
+      "sku": "49319077445980",
+      "title": "Monster Tree Light - Monster Tree Light - DY003",
+      "url": "https://eu.store.bambulab.com/products/monster-tree-light?id=49319077445980",
+      "variant_id": "49319077445980"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/7094af2d2d2b488baa5132053995003b.jpg",
+      "part_number": "DY003",
+      "price": "8.79",
+      "region": "uk",
+      "sku": "42154072277052",
+      "title": "Monster Tree Light - Monster Tree Light - DY003",
+      "url": "https://uk.store.bambulab.com/products/monster-tree-light?id=42154072277052",
+      "variant_id": "42154072277052"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/6842e618acd6483b8b67fbc6bbb38312.jpg",
+      "part_number": "DY003",
+      "price": "9.99",
+      "region": "asia",
+      "sku": "508190987944996868",
+      "title": "Monster Tree Light - Monster Tree Light - DY003",
+      "url": "https://asia.store.bambulab.com/products/monster-tree-light?id=508190987944996868",
+      "variant_id": "508190987944996868"
+    }
+  ]
+}

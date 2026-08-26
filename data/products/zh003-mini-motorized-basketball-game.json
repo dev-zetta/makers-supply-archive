@@ -1,0 +1,462 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "mini-motorized-basketball-game",
+      "product_id": "8276762099848",
+      "region": "us"
+    },
+    {
+      "handle": "mini-motorized-basketball-game",
+      "product_id": "8934829883632",
+      "region": "ca"
+    },
+    {
+      "handle": "mini-motorized-basketball-game",
+      "product_id": "9491930710364",
+      "region": "eu"
+    },
+    {
+      "handle": "mini-motorized-basketball-game",
+      "product_id": "7713531068476",
+      "region": "uk"
+    },
+    {
+      "handle": "mini-motorized-basketball-game",
+      "product_id": "8541644521635",
+      "region": "au"
+    },
+    {
+      "handle": "mini-motorized-basketball-game",
+      "product_id": "7707223228531",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/71/71a6a46806d413e0d163e7bb13033144fbbab33bc1050add9fae73733e7c7641.png",
+      "id": "image-fa9c9db5d3cb091ca3aa",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "basketball01.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "71a6a46806d413e0d163e7bb13033144fbbab33bc1050add9fae73733e7c7641",
+      "size": 360297,
+      "source_url": "https://store.bblcdn.eu/s8/default/d8c814c8157548cb8868d4e6dd6e2426/basketball01.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/04/04a840dede76bb38a0f39038c4a81103b173b42a32abe44d731c3380e32d5280.png",
+      "id": "image-2771efcd892366c60713",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "basketball.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "04a840dede76bb38a0f39038c4a81103b173b42a32abe44d731c3380e32d5280",
+      "size": 417738,
+      "source_url": "https://store.bblcdn.eu/s8/default/9fd894c4fb9a4bc091d09d80b06beb48/basketball.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5a/5af39ee5d6e85dcd2c2e5d14b2c2dad49bdca7b9c2f8d82c27b103ca83befbb8.png",
+      "id": "image-display-58ac0fa467561907e3a8",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "71a6a46806d413e0d163e7bb13033144fbbab33bc1050add9fae73733e7c7641",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "basketball01.catalog.png",
+      "parent_asset_id": "image-fa9c9db5d3cb091ca3aa",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5af39ee5d6e85dcd2c2e5d14b2c2dad49bdca7b9c2f8d82c27b103ca83befbb8",
+      "size": 316508,
+      "source_url": "https://store.bblcdn.eu/s8/default/d8c814c8157548cb8868d4e6dd6e2426/basketball01.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9b/9bb7caa836dd11f8ac4bf022546d0586e1629c307bc6a9b47375886b685573e5.png",
+      "id": "image-display-f90ed44c12fd737b3818",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "04a840dede76bb38a0f39038c4a81103b173b42a32abe44d731c3380e32d5280",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "basketball.catalog.png",
+      "parent_asset_id": "image-2771efcd892366c60713",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9bb7caa836dd11f8ac4bf022546d0586e1629c307bc6a9b47375886b685573e5",
+      "size": 141084,
+      "source_url": "https://store.bblcdn.eu/s8/default/9fd894c4fb9a4bc091d09d80b06beb48/basketball.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "bb001-compression-spring",
+      "name": "0.5x5x25 mm Helical Compression Spring ( 5PCS) - BB004",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "da004-brass-dowel-pin",
+      "name": "2x33 mm Brass Dowel Pin (10PCS) - DA006",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ea001-plastic-deep-groove-ball-bearings",
+      "name": "6003 Plastic Deep Groove Ball Bearings (1PCS) - EA001",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ea001-plastic-deep-groove-ball-bearings",
+      "name": "6204 Plastic Deep Groove Ball Bearings (1PCS) - EA002",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ab001-m2-5-stainless-steel-hex-nut",
+      "name": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa005-m2-5-socket-head-cap-machine-screws-shcs",
+      "name": "M2.5x10 SHCS Machine Screw (20PCS) - AA005",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ac001-m2-5-stainless-steel-flat-washer",
+      "name": "M2.5x5x0.5 Stainless Steel Flat Washer (100PCS) - AC001",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "zb001-plastic-balls",
+      "name": "14mm Plastic ball (10PCS) - ZB001",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia005-power-distribution-board-pdb-4-channels",
+      "name": "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia006-self-locking-button-switch-with-sh1-0-connector",
+      "name": "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "kb001-3030-5v-led-board-with-sh1-0-connector",
+      "name": "4 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB001",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ic004-wire-pair-with-sh1-0",
+      "name": "200mm Wire Pair with SH1.0 (5PCS) - IC007",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "la002-n20-reduction-gear-motor",
+      "name": "N20 Reduction Gear Motor 150rpm (1PCS) - LA002",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of Mini Motorized Basketball Game and obtain detailed information, please visit the Mini Motorized Basketball Game on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Overview</h3>\nThis product contains all the necessary hardware components for assembling a <strong>Mini Motorized Basketball Game</strong>. To complete the assembly for an entirely functional piece, users also need to download the model files and 3D print the remaining parts.</div>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\" style=\"text-align: start;\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">To download the model files of <strong>Mini Motorized Basketball Game </strong>and obtain detailed information, please visit the <strong>Mini Motorized Basketball Game</strong> on <a href=\"https://makerworld.com/zh/models/420464?from=search#profileId-323162\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><u>MakerWorld</u></strong></span></a>.</div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n</div>\n<!-- 第三条 -->\n<div class=\"pct_st-p\"></div>\n</div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\">In the Box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 100%; height: 274.313px;\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><strong>Qty</strong></td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-WN9wdvxjroLLKUxZrwrcWzjZnhd\">0.5x5x25 mm Helical Compression Spring ( 5PCS) - BB004</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\">1 </td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">2x33 mm Brass Dowel Pin (10PCS) - DA006</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">6003 Plastic Deep Groove Ball Bearings (1PCS) - EA001</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">6204 Plastic Deep Groove Ball Bearings (1PCS) - EA002</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">M2.5 Stainless Steel Hex Nut (20PCS) - AB001</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">M2.5x10 SHCS Machine Screw (20PCS) - AA005</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">M2.5x5x0.5 Stainless Steel Flat Washer (100PCS) - AC001</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">14mm Plastic ball (10PCS) - ZB001</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">4 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB001</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">200mm Wire Pair with SH1.0 (5PCS) - IC007</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 83.2887%; height: 19.5938px;\">N20 Reduction Gear Motor 150rpm (1PCS) - LA002</td>\n<td class=\"pct_td\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n</tbody>\n</table>\n<span><span></span></span></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"> </div>\n<!-- 第五条 --></div>\n</div>\n</div>",
+  "description_text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of Mini Motorized Basketball Game and obtain detailed information, please visit the Mini Motorized Basketball Game on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh003-mini-motorized-basketball-game",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Mini Motorized Basketball Game",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "45.91",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "53.01",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "43.38",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "36.84",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "83.21",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "41.87",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA005",
+    "AB001",
+    "AC001",
+    "BB004",
+    "DA006",
+    "EA001",
+    "EA002",
+    "IA005",
+    "IA006",
+    "IC007",
+    "KB001",
+    "LA002",
+    "ZB001",
+    "ZH003"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Mini Motorized Basketball Game",
+      "url": "https://makerworld.com/zh/models/420464?from=search#profileId-323162"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42013097001020",
+    "42098595725427",
+    "42724100472968",
+    "44830279860387",
+    "46346343940336",
+    "49074935824732"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/mini-motorized-basketball-game?id=42724100472968"
+      },
+      "rows": [
+        [
+          "0.5x5x25 mm Helical Compression Spring ( 5PCS) - BB004",
+          "1"
+        ],
+        [
+          "2x33 mm Brass Dowel Pin (10PCS) - DA006",
+          "1"
+        ],
+        [
+          "6003 Plastic Deep Groove Ball Bearings (1PCS) - EA001",
+          "1"
+        ],
+        [
+          "6204 Plastic Deep Groove Ball Bearings (1PCS) - EA002",
+          "1"
+        ],
+        [
+          "M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
+          "1"
+        ],
+        [
+          "M2.5x10 SHCS Machine Screw (20PCS) - AA005",
+          "1"
+        ],
+        [
+          "M2.5x5x0.5 Stainless Steel Flat Washer (100PCS) - AC001",
+          "1"
+        ],
+        [
+          "14mm Plastic ball (10PCS) - ZB001",
+          "1"
+        ],
+        [
+          "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+          "1"
+        ],
+        [
+          "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+          "1"
+        ],
+        [
+          "4 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB001",
+          "1"
+        ],
+        [
+          "200mm Wire Pair with SH1.0 (5PCS) - IC007",
+          "1"
+        ],
+        [
+          "N20 Reduction Gear Motor 150rpm (1PCS) - LA002",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/75ad7806b4f14519a1089dbf988f86f4/basketball01.png",
+      "part_number": "ZH003",
+      "price": "45.91",
+      "region": "us",
+      "sku": "42724100472968",
+      "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
+      "url": "https://us.store.bambulab.com/products/mini-motorized-basketball-game?id=42724100472968",
+      "variant_id": "42724100472968"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/56ac5033887c4c2bab75c1c31fc42a13.png",
+      "part_number": "ZH003",
+      "price": "53.01",
+      "region": "ca",
+      "sku": "46346343940336",
+      "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
+      "url": "https://ca.store.bambulab.com/products/mini-motorized-basketball-game?id=46346343940336",
+      "variant_id": "46346343940336"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/d8c814c8157548cb8868d4e6dd6e2426/basketball01.png",
+      "part_number": "ZH003",
+      "price": "43.38",
+      "region": "eu",
+      "sku": "49074935824732",
+      "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
+      "url": "https://eu.store.bambulab.com/products/mini-motorized-basketball-game?id=49074935824732",
+      "variant_id": "49074935824732"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/7ebb14c1aa324fe19d9d0e4916938f19.png",
+      "part_number": "ZH003",
+      "price": "36.84",
+      "region": "uk",
+      "sku": "42013097001020",
+      "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
+      "url": "https://uk.store.bambulab.com/products/mini-motorized-basketball-game?id=42013097001020",
+      "variant_id": "42013097001020"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/7f35428559dc4ab88c457577b4b3a835.png",
+      "part_number": "ZH003",
+      "price": "83.21",
+      "region": "au",
+      "sku": "44830279860387",
+      "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
+      "url": "https://au.store.bambulab.com/products/mini-motorized-basketball-game?id=44830279860387",
+      "variant_id": "44830279860387"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494435985067044864.png",
+      "part_number": "ZH003",
+      "price": "41.87",
+      "region": "asia",
+      "sku": "42098595725427",
+      "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
+      "url": "https://asia.store.bambulab.com/products/mini-motorized-basketball-game?id=42098595725427",
+      "variant_id": "42098595725427"
+    }
+  ]
+}

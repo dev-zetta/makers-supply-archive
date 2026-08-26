@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Maker's Supply Catalog{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', path='/styles.css') }}">
+</head>
+<body class="{% block body_class %}auth-page{% endblock %}">
+  {% block shell %}<main class="auth-card">{% block content %}{% endblock %}</main>{% endblock %}
+  <script type="module" src="{{ url_for('static', path='/catalog.js') }}"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

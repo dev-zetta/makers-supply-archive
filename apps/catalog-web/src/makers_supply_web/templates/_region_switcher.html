@@ -1,0 +1,6 @@
+{% macro region_switcher() -%}
+<form class="global-region" method="get" action="/region">
+  <input type="hidden" name="next" value="{{ global_region_return_url }}">
+  <label><span>Catalog region</span><select name="region" aria-label="Catalog region" data-global-region-switch>{% for value, label in global_region_options %}<option value="{{ value }}" {% if global_region == value %}selected{% endif %}>{{ label }}</option>{% endfor %}</select></label>
+</form>
+{%- endmacro %}

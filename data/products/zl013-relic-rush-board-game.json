@@ -1,0 +1,1430 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "relic-rush-board-game",
+      "product_id": "703125251566784512",
+      "region": "us"
+    },
+    {
+      "handle": "relic-rush-board-game",
+      "product_id": "703124625153236992",
+      "region": "ca"
+    },
+    {
+      "handle": "relic-rush-board-game",
+      "product_id": "703125379287863296",
+      "region": "eu"
+    },
+    {
+      "handle": "relic-rush-board-game",
+      "product_id": "703125079245328384",
+      "region": "uk"
+    },
+    {
+      "handle": "relic-rush-board-game",
+      "product_id": "703122334650089472",
+      "region": "au"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/ad/ad47aaa3bb121bb2939ef7367843bc8f47243d0f49c61c0454eb8e32baea4ea7.png",
+      "id": "image-f6b9b9a17d42cd9b7607",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "0-CoverImage.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ad47aaa3bb121bb2939ef7367843bc8f47243d0f49c61c0454eb8e32baea4ea7",
+      "size": 3886350,
+      "source_url": "https://store.bblcdn.com/s7/default/8d75ab4da51c427781a5345e52bee68f/0-CoverImage.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/85/85342b134bd71ffb5ae1fa4e59f9b7bb82f68503f76b1b3f72239332d7d895d9.png",
+      "id": "image-002cc4d9948ffa72fe6d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Group_1123863537.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "85342b134bd71ffb5ae1fa4e59f9b7bb82f68503f76b1b3f72239332d7d895d9",
+      "size": 4315324,
+      "source_url": "https://store.bblcdn.com/s7/default/d2a5dc531857473c96c058951c40ddd9/Group_1123863537.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/79/792d9165bc941a16544739cf8238327b55edf48971791f34ea6bcad5758a3ad6.png",
+      "id": "image-c93721d8d05abfc1292a",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "007_3.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "792d9165bc941a16544739cf8238327b55edf48971791f34ea6bcad5758a3ad6",
+      "size": 5141004,
+      "source_url": "https://store.bblcdn.com/s7/default/9132c6daa59a4b85b0bf1f8fcaceb6b3/007_3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/05/0555f2d7f59ad46505298a800a0d5142f4abf4be2785e943fc3470e9122b67f2.png",
+      "id": "image-510e717350da67834de6",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "A.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0555f2d7f59ad46505298a800a0d5142f4abf4be2785e943fc3470e9122b67f2",
+      "size": 4882294,
+      "source_url": "https://store.bblcdn.com/s7/default/b027fef82f36484da8d23e21fb08ea3e/A.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a2/a23ed1c84e3ea16f6e9653fc44ecf53aad17c85346d8014fce815e9ebfe85f9d.png",
+      "id": "image-1bbb4063155ea2d206a1",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "E.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a23ed1c84e3ea16f6e9653fc44ecf53aad17c85346d8014fce815e9ebfe85f9d",
+      "size": 3443482,
+      "source_url": "https://store.bblcdn.com/s7/default/3f4483c221164bd590f572a16c1bfb07/E.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5b/5bbcf7ebfbe67fe469300518c02dc353782479dba59e2ef58f15e8244c4778a7.png",
+      "id": "image-627e2d673df65d205e33",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "F.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5bbcf7ebfbe67fe469300518c02dc353782479dba59e2ef58f15e8244c4778a7",
+      "size": 3459281,
+      "source_url": "https://store.bblcdn.com/s7/default/f420aa9994614025b4c389f7011ebc76/F.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/fa/fa6ded8af04bd65a98b1feda17fb751b958bf5d6b52dc71dcba3514c802fb3e1.png",
+      "id": "image-298d9c6a643be8266f61",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "fa6ded8af04bd65a98b1feda17fb751b958bf5d6b52dc71dcba3514c802fb3e1",
+      "size": 5026335,
+      "source_url": "https://store.bblcdn.com/s7/default/7bf2074535c94dcca9665cf7ded4ba1d/B2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7d/7d8c46f5a54a35e15aa7d3ea5a701416cea18b0bae773fd002f489da26d50d06.png",
+      "id": "image-21be05ab6ad77b8bbeb2",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "D.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7d8c46f5a54a35e15aa7d3ea5a701416cea18b0bae773fd002f489da26d50d06",
+      "size": 4018844,
+      "source_url": "https://store.bblcdn.com/s7/default/f758b93387c54d9ca15fa9d0888b9421/D.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f1/f1e06da778f574d059adb39c7d919254b8ac7dfeccda6a001d8f9a589982b648.zip",
+      "id": "archive-87c7b3555b79655ff319",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Relic_Rush.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f1e06da778f574d059adb39c7d919254b8ac7dfeccda6a001d8f9a589982b648",
+      "size": 45127884,
+      "source_url": "https://store.bblcdn.com/s1/default/017d207929ab40d48deca79eb5e18941/Relic_Rush.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/78/78d43d5798a41e00dba4633cdf047ba653c312fa59f0147641ecc5c2ca30c32e.png",
+      "id": "image-display-ed0d38e78d7e89033dbb",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "ad47aaa3bb121bb2939ef7367843bc8f47243d0f49c61c0454eb8e32baea4ea7",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "0-CoverImage.catalog.png",
+      "parent_asset_id": "image-f6b9b9a17d42cd9b7607",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "78d43d5798a41e00dba4633cdf047ba653c312fa59f0147641ecc5c2ca30c32e",
+      "size": 1075175,
+      "source_url": "https://store.bblcdn.com/s7/default/8d75ab4da51c427781a5345e52bee68f/0-CoverImage.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/01/01cfbac496930e37bc2724eb31cbf5bdfb051be11b7cb225e95e9ef85e57c080.png",
+      "id": "image-display-4640ab46566577781298",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1480,
+        "source_sha256": "85342b134bd71ffb5ae1fa4e59f9b7bb82f68503f76b1b3f72239332d7d895d9",
+        "source_width": 1480
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Group_1123863537.catalog.png",
+      "parent_asset_id": "image-002cc4d9948ffa72fe6d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "01cfbac496930e37bc2724eb31cbf5bdfb051be11b7cb225e95e9ef85e57c080",
+      "size": 1123074,
+      "source_url": "https://store.bblcdn.com/s7/default/d2a5dc531857473c96c058951c40ddd9/Group_1123863537.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9e/9ea8d2ec0085cb5a3ce94b0a55c2bfb79e0ec987e3bc6e9508691cafd537fd1d.png",
+      "id": "image-display-1a0e6936d0893b29d790",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "792d9165bc941a16544739cf8238327b55edf48971791f34ea6bcad5758a3ad6",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "007_3.catalog.png",
+      "parent_asset_id": "image-c93721d8d05abfc1292a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9ea8d2ec0085cb5a3ce94b0a55c2bfb79e0ec987e3bc6e9508691cafd537fd1d",
+      "size": 1185343,
+      "source_url": "https://store.bblcdn.com/s7/default/9132c6daa59a4b85b0bf1f8fcaceb6b3/007_3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/34/347b6acaeb6c1d132302c39f46df3af9f12c907f324c29309ea12c0dbf3323d2.png",
+      "id": "image-display-7ace5aeb49e1faf73d13",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "0555f2d7f59ad46505298a800a0d5142f4abf4be2785e943fc3470e9122b67f2",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "A.catalog.png",
+      "parent_asset_id": "image-510e717350da67834de6",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "347b6acaeb6c1d132302c39f46df3af9f12c907f324c29309ea12c0dbf3323d2",
+      "size": 1319247,
+      "source_url": "https://store.bblcdn.com/s7/default/b027fef82f36484da8d23e21fb08ea3e/A.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/14/14efd677ebf8b9a314d0316797dc3280b1b4c3137e730334868ddc42a99088c7.png",
+      "id": "image-display-c938035514073497634d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "a23ed1c84e3ea16f6e9653fc44ecf53aad17c85346d8014fce815e9ebfe85f9d",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "E.catalog.png",
+      "parent_asset_id": "image-1bbb4063155ea2d206a1",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "14efd677ebf8b9a314d0316797dc3280b1b4c3137e730334868ddc42a99088c7",
+      "size": 908341,
+      "source_url": "https://store.bblcdn.com/s7/default/3f4483c221164bd590f572a16c1bfb07/E.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/68/68e863b8aa27c36b24b05d92d7848cedd77469bf1dd64cabf0a2bbeea8f31ab0.png",
+      "id": "image-display-c33b706980367f3c1379",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "5bbcf7ebfbe67fe469300518c02dc353782479dba59e2ef58f15e8244c4778a7",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "F.catalog.png",
+      "parent_asset_id": "image-627e2d673df65d205e33",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "68e863b8aa27c36b24b05d92d7848cedd77469bf1dd64cabf0a2bbeea8f31ab0",
+      "size": 935133,
+      "source_url": "https://store.bblcdn.com/s7/default/f420aa9994614025b4c389f7011ebc76/F.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2d/2d8f295c7f9ee930f46ba557f1d3308a7d28a623c7405b05896d333fdb325bbb.png",
+      "id": "image-display-6bc9260715e35feffeb9",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "fa6ded8af04bd65a98b1feda17fb751b958bf5d6b52dc71dcba3514c802fb3e1",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B2.catalog.png",
+      "parent_asset_id": "image-298d9c6a643be8266f61",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2d8f295c7f9ee930f46ba557f1d3308a7d28a623c7405b05896d333fdb325bbb",
+      "size": 1198165,
+      "source_url": "https://store.bblcdn.com/s7/default/7bf2074535c94dcca9665cf7ded4ba1d/B2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a5/a537cd0db8602a076e959e3dbda2da62aa9300ea0d08c416f1d13716491269af.png",
+      "id": "image-display-a036253769e09eb3f793",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "7d8c46f5a54a35e15aa7d3ea5a701416cea18b0bae773fd002f489da26d50d06",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "D.catalog.png",
+      "parent_asset_id": "image-21be05ab6ad77b8bbeb2",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a537cd0db8602a076e959e3dbda2da62aa9300ea0d08c416f1d13716491269af",
+      "size": 1105098,
+      "source_url": "https://store.bblcdn.com/s7/default/f758b93387c54d9ca15fa9d0888b9421/D.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "mf001-black-nylon-cord",
+      "name": "0.6mm Black Nylon Cord 5m (1pcs) - MF001",
+      "source_url": "https://us.store.bambulab.com/products/black-nylon-cord?id=42731737219208",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "cb001-rectangular-magnet",
+      "name": "20x10x3 mm Rectangular Magnet (10PCS) - CB004",
+      "source_url": "https://us.store.bambulab.com/products/rectangular-magnet?id=42598981959816",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "da004-brass-dowel-pin",
+      "name": "2x22 mm Brass Dowel Pin (20PCS) - DA005",
+      "source_url": "https://us.store.bambulab.com/products/brass-dowel-pin?id=42104554127496",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "MR128zz Steel Deep Groove Ball Bearings (6PCS) - EA004",
+      "source_url": "https://us.store.bambulab.com/products/micro-steel-deep-groove-ball-bearings?id=42504744960136",
+      "variant_quantities": [
+        {
+          "quantity": "3",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa004-bt2-6-socket-head-cap-self-tapping-screw-shcs",
+      "name": "BT2.6x8 SHCS Self Tapping Screw (20PCS) - AA004",
+      "source_url": "https://us.store.bambulab.com/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?id=42102866477192",
+      "variant_quantities": [
+        {
+          "quantity": "4",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x10 SHCS Self Tapping Screw (20PCS) - AA192",
+      "source_url": "https://us.store.bambulab.com/products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=48694574416220",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x8 SHCS Self Tapping Screw (20PCS) - AA094",
+      "source_url": "https://us.store.bambulab.com/products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=48694574383452",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x30 SHCS Self Tapping Screw (5PCS) - AA113",
+      "source_url": "https://us.store.bambulab.com/products/bt3-socket-head-cap-self-tapping-screws-shcs-new?id=48694582870364",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ic004-wire-pair-with-sh1-0",
+      "name": "300mm Wire Pair with SH1.0(2PCS) - XC014",
+      "source_url": "https://us.store.bambulab.com/products/wire-pair-with-sh1-0?id=589257154176921602",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "la027-rubber-tire-4pcs",
+      "name": "Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
+      "source_url": "https://us.store.bambulab.com/products/rubber-tire-4pcs?id=593209120141225986",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "zh090-sh1-0-to-dual-sh1-0-adapter-2pcs",
+      "name": "SH1.0 to Dual SH1.0 Adapter (2PCS) - XA016",
+      "source_url": "https://us.store.bambulab.com/products/sh1-0-to-dual-sh1-0-adapter-2pcs?id=616423030361321474",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ic004-wire-pair-with-sh1-0",
+      "name": "100mm Wire Pair with SH1.0 (5PCS) - IC004",
+      "source_url": "https://us.store.bambulab.com/products/wire-pair-with-sh1-0?id=42122968563848",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x6 SHCS Self Tapping Screw (20PCS) - AA093",
+      "source_url": "https://us.store.bambulab.com/products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=48694574350684",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "2",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "la008-n20-single-shaft-worm-gear-motor",
+      "name": "N20 Single Shaft Worm Gear Motor 25rpm (1PCS) - LA008",
+      "source_url": "https://us.store.bambulab.com/products/n20-single-shaft-worm-gear-motor?id=42123577524360",
+      "variant_quantities": [
+        {
+          "quantity": "3",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "2",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "kb001-3030-5v-led-board-with-sh1-0-connector",
+      "name": "4 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB001",
+      "source_url": "https://us.store.bambulab.com/products/3030-5v-led-board-with-sh1-0-connector?id=47978360242524",
+      "variant_quantities": [
+        {
+          "quantity": "-",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "1",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ia005-power-distribution-board-pdb-4-channels",
+      "name": "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "source_url": "https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=42123476467848",
+      "variant_quantities": [
+        {
+          "quantity": "-",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "1",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ic004-wire-pair-with-sh1-0",
+      "name": "200mm Wire Pair with SH1.0(5PCS) - IC007",
+      "source_url": "https://us.store.bambulab.com/products/wire-pair-with-sh1-0?id=42122988978312",
+      "variant_quantities": [
+        {
+          "quantity": "-",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "1",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ia007-potentiometer-board-with-sh1-0-connector",
+      "name": "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+      "source_url": "https://us.store.bambulab.com/products/potentiometer-board-with-sh1-0-connector?id=42123349753992",
+      "variant_quantities": [
+        {
+          "quantity": "-",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "1",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "cc003-ring-magnets",
+      "name": "10x4x3mm Ring Magnet (5PCS) - CC003",
+      "source_url": "https://us.store.bambulab.com/products/ring-magnets?id=42630720356488",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa005-remote-control-transmitter-shield-1pcs",
+      "name": "Remote Control Transmitter Shield (1PCS) - XA005",
+      "source_url": "https://us.store.bambulab.com/products/remote-control-transmitter-shield-1pcs?id=592951969272397826",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa004-remote-control-receiver-shield-1pcs",
+      "name": "Remote Control Receiver Shield (1PCS) - XA004",
+      "source_url": "https://us.store.bambulab.com/products/remote-control-receiver-shield-1pcs?id=592948726843027458",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa003-multi-function-controller-core-1pcs",
+      "name": "Multi-Function Controller Core (1PCS) - XA003",
+      "source_url": "https://us.store.bambulab.com/products/multi-function-controller-core-1pcs?id=592945165323190274",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "kb003-ws2812-rgb-led-with-idc0-8-4pin-2pcs",
+      "name": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - KB003",
+      "source_url": "https://us.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=54410658611548",
+      "variant_quantities": [
+        {
+          "quantity": "4",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa006-ws2812-led-hub-with-3pin-sh1-0-connector-1pcs",
+      "name": "WS2812 LED Hub with 3Pin SH1.0 Connector (1PCS) - XA006",
+      "source_url": "https://us.store.bambulab.com/products/ws2812-led-hub-with-3pin-sh1-0-connector-1pcs?id=592875330737975298",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa010-three-position-rocker-switch-module-with-3pin-sh1-0-connector-1pcs",
+      "name": "Three-Position Rocker Switch Module with 3Pin SH1.0 Connector (1PCS) - XA010",
+      "source_url": "https://us.store.bambulab.com/products/three-position-rocker-switch-module-with-3pin-sh1-0-connector-1pcs?id=592961586890481666",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xc011-200mm-servo-extension-cable-3pin-2pcs",
+      "name": "200mm Servo Extension Cable 3Pin (2PCS) - XC011",
+      "source_url": "https://us.store.bambulab.com/products/200mm-servo-extension-cable-3pin-2pcs?id=593328884969914371",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa007-power-switch-module-with-2pin-xh2-54-connector-1pcs",
+      "name": "Power Switch Module with 2Pin XH2.54 Connector (1PCS) - XA007",
+      "source_url": "https://us.store.bambulab.com/products/power-switch-module-with-2pin-xh2-54-connector-1pcs?id=593957371298660355",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa008-momentary-button-module-with-2pin-sh1-0-connector-1pcs",
+      "name": "Momentary Button Module with 2Pin SH1.0 Connector (1PCS) - XA008",
+      "source_url": "https://us.store.bambulab.com/products/momentary-button-module-with-2pin-sh1-0-connector-1pcs?id=602277124912295937",
+      "variant_quantities": [
+        {
+          "quantity": "4",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xb003-7-4v-lithium-battery-charger-with-xh2-54-connector-1pcs",
+      "name": "7.4V Lithium Battery Charger with XH2.54 Connector (1PCS) - XB003",
+      "source_url": "https://us.store.bambulab.com/products/7-4v-lithium-battery-charger-with-xh2-54-connector-1pcs?id=593223453326917634",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "pc003-14500-7-4v-800mah-li-ion-battery-1pcs",
+      "name": "14500 7.4V 800mAh Li-ion Battery(1PCS) - PC003",
+      "source_url": "https://us.store.bambulab.com/products/14500-7-4v-800mah-li-ion-battery-1pcs?id=594045837428080642",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa009-single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs",
+      "name": "Single-Axis Joystick Module with 3Pin SH1.0 Connector (1PCS) - XA009",
+      "source_url": "https://us.store.bambulab.com/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?id=592971445957537794",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa167-m2-5-button-head-cap-machine-screws-bhcs-1",
+      "name": "M2.5x6 BHCS Machine Screw (20PCS) - AA050",
+      "source_url": "https://us.store.bambulab.com/products/m2-5-button-head-cap-machine-screws-bhcs-1?id=48671486476636",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "pg001-9g-servo-motor-with-clutch-protection",
+      "name": "9g Positional Digital Servo-180° (1PCS) - PG001",
+      "source_url": "https://us.store.bambulab.com/products/9g-servo-motor-with-clutch-protection?id=42123031019656",
+      "variant_quantities": [
+        {
+          "quantity": "3",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "pg001-9g-servo-motor-with-clutch-protection",
+      "name": "9g Continuous Rotation Digital Servo-360° (1PCS) - PG002",
+      "source_url": "https://us.store.bambulab.com/products/9g-servo-motor-with-clutch-protection?id=42866995691656",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "RC Version"
+        },
+        {
+          "quantity": "-",
+          "variant": "Wire Version"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Step into the race of Relic Rush, a fast-paced, family-friendly board game where interaction, constant motion, and real-time excitement collide. It’s a thrilling game across a board that changes as you play, filled with interactive dangers and delightful surprises."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We recommend checking the project instruction first to see if this is the proper game for you. Find all details on the MakerWorld."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This model is offered as a crowdfunding project. Your purchase involves two steps:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "1. Purchase the necessary parts kit on this page to assemble your model."
+    },
+    {
+      "kind": "paragraph",
+      "text": "2. Get the 3D print files by backing the project on the crowdfunding page."
+    },
+    {
+      "kind": "paragraph",
+      "text": "*Relic Rush is continuously improved based on feedback from our players and makers. The Creator is actively refining models, mechanics, and components based on community feedback. For the latest updates, upgrade files, and additional content, be sure to follow the creator’s page on MakerWorld."
+    },
+    {
+      "kind": "heading",
+      "text": "Fast and Furious"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Everyone takes their turns at once on a board that’s never static. Roll the dice, and if you land on a disaster—trigger it instantly with the custom remote!"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Strategy meets speed: plan your route, time your moves, and outpace the clock before time runs out and catastrophe strikes for all!"
+    },
+    {
+      "kind": "heading",
+      "text": "Traps Keep Everyone Guessing"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The board itself is your opponent. Navigate a landscape where every element can change:"
+    },
+    {
+      "kind": "bullet",
+      "text": "Bridge: a collapse could knock out any players on the bridge and block one of the paths to the relics."
+    },
+    {
+      "kind": "bullet",
+      "text": "Spikes: risking the spikes can provide a faster, but more dangerous path."
+    },
+    {
+      "kind": "bullet",
+      "text": "Stairs: one of the fastest paths to the relics can transform into a player-eliminating slide."
+    },
+    {
+      "kind": "bullet",
+      "text": "Wall: this rotating piece can open or block your path to the relics."
+    },
+    {
+      "kind": "bullet",
+      "text": "River & Lava: time your movement to not get trapped and swept over the edge. Or be risky and climb the vertical lava-fall."
+    },
+    {
+      "kind": "heading",
+      "text": "Two Complete Build Versions"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Choose the experience that fits your style:"
+    },
+    {
+      "kind": "bullet",
+      "text": "CyberBrick Version: contains everything you need to build the game board with servo & motor-controlled interactive elements along with a remote. This is the default version of the game."
+    },
+    {
+      "kind": "bullet",
+      "text": "Wired Version: uses manually-operated traps without a remote control. This reduces the cost of components but still includes a motorized river and lava flow. To keep track of rounds, you can use this free timer app on your phone."
+    },
+    {
+      "kind": "heading",
+      "text": "Custom Remote & Organized Storage"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Build your custom remote and an optional storage container for the player figures, custom dice, relics and other game pieces."
+    },
+    {
+      "kind": "bullet",
+      "text": "Choose between printable and laser-cut versions of each."
+    },
+    {
+      "kind": "bullet",
+      "text": "The storage box stacks with the remote."
+    },
+    {
+      "kind": "bullet",
+      "text": "Includes extra space for future expansion components."
+    },
+    {
+      "kind": "heading",
+      "text": "Made for Makers"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Are you up for a challenge? Relic Rush is a great project for people who enjoy the process of building something complex."
+    },
+    {
+      "kind": "bullet",
+      "text": "360° of detailed design"
+    },
+    {
+      "kind": "bullet",
+      "text": "200+ unique parts."
+    },
+    {
+      "kind": "bullet",
+      "text": "Final weight: 3.5kg+"
+    },
+    {
+      "kind": "bullet",
+      "text": "Full step-by-step assembly guide (takes about 4 hours)"
+    },
+    {
+      "kind": "bullet",
+      "text": "Print in multi-color or paint and detail it yourself."
+    },
+    {
+      "kind": "bullet",
+      "text": "The board is a versatile playspace—create and share your own game modes with the community."
+    },
+    {
+      "kind": "heading",
+      "text": "Remote Control Instruction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Relic Rush Board Game is designed to work with the Remote Control. The creator has uploaded pre-configured settings for immediate play,"
+    },
+    {
+      "kind": "paragraph",
+      "text": "while the CyberBrick App allows full customization of controller functions to match your personal preferences."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Explore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions. Visit Wiki"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Explore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Explore the Product Wiki & Documentation"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Visit Wiki"
+    },
+    {
+      "kind": "heading",
+      "text": "CyberBrick App Connection Tutorial"
+    },
+    {
+      "kind": "paragraph",
+      "text": "*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to the Relic Rush Board Game."
+    },
+    {
+      "kind": "heading",
+      "text": "Important Notices"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product."
+    },
+    {
+      "kind": "bullet",
+      "text": "Intended Users: This product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use."
+    },
+    {
+      "kind": "bullet",
+      "text": "Firmware Safety: Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty."
+    },
+    {
+      "kind": "bullet",
+      "text": "Battery & Charging: DO NOT use chargers with output higher than 5V or 2A. Use only the official battery and charger. Avoid exposing the battery to high temperatures or water."
+    },
+    {
+      "kind": "bullet",
+      "text": "Maintenance & Storage: Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our company is not liable for any equipment damage, failure, fire, or other loss caused by non-compliance with the above requirements."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Please strictly follow the safety instructions for this product."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p style=\"text-align: left;\">Step into the race of Relic Rush, a fast-paced, family-friendly board game where interaction, constant motion, and real-time excitement collide. It’s a thrilling game across a board that changes as you play, filled with interactive dangers and delightful surprises.</p>\n<p></p>\n<p style=\"text-align: left;\">We recommend checking the project instruction first to see if this is the proper game for you. Find all details on the MakerWorld.</p>\n<p></p>\n<p style=\"text-align: left;\"><strong>This model is offered as a crowdfunding project. Your purchase involves two steps:</strong></p>\n<p style=\"text-align: left;\">1. Purchase the necessary parts kit on this page to assemble your model.</p>\n<p style=\"text-align: left;\">2. Get the 3D print files by backing the project on the crowdfunding page.</p>\n<p></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14px;\"><em>*Relic Rush is continuously improved based on feedback from our players and makers. The Creator is actively refining models, mechanics, and components based on community feedback. For the latest updates, upgrade files, and additional content, be sure to follow the <a href=\"https://makerworld.com/en/models/2046733-relic-rush-board-game?from=search#profileId-2208645\"><strong><span style=\"color: #00ae42;\">creator’s page on MakerWorld</span></strong></a>.</em></span></p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_st\" style=\"margin-top: 40px; font-size: 22px;\">Fast and Furious</h3>\n<p>Everyone takes their turns at once on a board that’s never static. Roll the dice, and if you land on a disaster—trigger it instantly with the custom remote!</p>\n<p>Strategy meets speed: plan your route, time your moves, and outpace the clock before time runs out and catastrophe strikes for all!</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<p class=\"pct_p\" style=\"text-align: center; margin-bottom: -40px;\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/2445d876b8a840dbb336435e61890b67/Group_1123863537.png\" height=\"196\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"1427\"/></p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\"><!-- 文案部分3 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left; margin-top: -25px; margin-bottom: 15px; font-size: 22px;\">Traps Keep Everyone Guessing</h3>\n<p>The board itself is your opponent. Navigate a landscape where every element can change:</p>\n<ul>\n<li class=\"pct_p\" style=\"text-align: left; margin-top: 0px; margin-bottom: -3px;\">Bridge: a collapse could knock out any players on the bridge and block one of the paths to the relics.</li>\n<li class=\"pct_p\" style=\"text-align: left; margin-top: 0px; margin-bottom: -3px;\">Spikes: risking the spikes can provide a faster, but more dangerous path.</li>\n<li class=\"pct_p\" style=\"text-align: left; margin-top: 0px; margin-bottom: -3px;\">Stairs: one of the fastest paths to the relics can transform into a player-eliminating slide.</li>\n<li class=\"pct_p\" style=\"text-align: left; margin-top: 0px; margin-bottom: -3px;\">Wall: this rotating piece can open or block your path to the relics.</li>\n<li class=\"pct_p\" style=\"text-align: left; margin-top: 0px; margin-bottom: -3px;\">River &amp; Lava: time your movement to not get trapped and swept over the edge. Or be risky and climb the vertical lava-fall.</li>\n</ul>\n</div>\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" controls=\"controls\" data-mce-=\"\" height=\"375\" loop=\"loop\" muted=\"\" playsinline=\"\" width=\"750\">\n<source src=\"https://store.bblcdn.com/s1/default/ab16eaa86314465ca20d3b0b381d9828/7-MS_Traps.mov\"/></video></div>\n</div>\n</div>\n<div class=\"pct_stpc-ic\"><!-- 卖点三 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left; margin-top: -25px; margin-bottom: 15px; font-size: 22px;\">Two Complete Build Versions</h3>\n<p>Choose the experience that fits your style:</p>\n<ul>\n<li class=\"pct_p\" style=\"text-align: left; margin-top: 10px;\">CyberBrick Version: contains everything you need to build the game board with servo &amp; motor-controlled interactive elements along with a remote. This is the default version of the game.</li>\n<li class=\"pct_p\" style=\"text-align: left;\">Wired Version: uses manually-operated traps without a remote control. This reduces the cost of components but still includes a motorized river and lava flow. To keep track of rounds, you can use this <span style=\"text-decoration: underline;\"><a href=\"https://mkim1.github.io/RelicRush/RelicRushTimerApp.html\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42; text-decoration: underline;\"><strong>free timer app</strong></span></a></span> on your phone. </li>\n</ul>\n</div>\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" controls=\"controls\" data-mce-=\"\" height=\"375\" loop=\"loop\" muted=\"\" playsinline=\"\" width=\"750\">\n<source src=\"https://store.bblcdn.com/s1/default/3c2a0cd8a54048be86eb5fcbaa30c3b2/5-MS_CB-VS-Wired.mov\"/></video></div>\n</div>\n<!--卖点四素材+文案-->\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\"><!-- 文案部分3 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left; margin-top: -10px; margin-bottom: 15px; font-size: 22px;\">Custom Remote &amp; Organized Storage</h3>\n<p>Build your custom remote and an optional storage container for the player figures, custom dice, relics and other game pieces.</p>\n<ul>\n<li class=\"pct_p\" style=\"text-align: left;\">Choose between printable and laser-cut versions of each.</li>\n<li class=\"pct_p\" style=\"text-align: left;\">The storage box stacks with the remote.</li>\n<li class=\"pct_p\" style=\"text-align: left;\">Includes extra space for future expansion components.</li>\n</ul>\n</div>\n<div class=\"pct_ic\"><!-- 素材部分3 --><img alt=\"\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/eb134a72c9124802811569f1902a0673/YourBattlefieldYourRules.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/><img alt=\"\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/4d90ae8f9dc148cd8c4e45fdd16dfe88/6-LaserComponents.png\" height=\"500\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"750\"/></div>\n</div>\n</div>\n<!-- 卖点5-->\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left; margin-top: -10px; margin-bottom: 15px; font-size: 22px;\">Made for Makers</h3>\n<p>Are you up for a challenge? Relic Rush is a great project for people who enjoy the process of building something complex.</p>\n<ul>\n<li class=\"pct_p\" style=\"text-align: left; margin-top: 10px;\">360° of detailed design</li>\n<li class=\"pct_p\" style=\"text-align: left;\">200+ unique parts.</li>\n<li class=\"pct_p\" style=\"text-align: left;\">Final weight: 3.5kg+</li>\n<li class=\"pct_p\" style=\"text-align: left;\">Full step-by-step assembly guide (takes about 4 hours)</li>\n<li class=\"pct_p\" style=\"text-align: left;\">Print in multi-color or paint and detail it yourself.</li>\n<li class=\"pct_p\" style=\"text-align: left;\">The board is a versatile playspace—create and share your own game modes with the community.</li>\n</ul>\n</div>\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" controls=\"controls\" data-mce-=\"\" height=\"375\" loop=\"loop\" muted=\"\" playsinline=\"\" width=\"750\">\n<source src=\"https://store.bblcdn.com/s1/default/934debb629e44ff6952f2ecd3aa6ea25/8-MS_Rotate.mov\"/></video></div>\n</div>\n<!-- 遥控器说明 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<p></p>\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px;\">Remote Control Instruction</h2>\n<p class=\"pct_p\" style=\"text-align: center;\">Relic Rush Board Game is designed to work with the Remote Control. The creator has uploaded pre-configured settings for immediate play,</p>\n<p>while the CyberBrick App allows full customization of controller functions to match your personal preferences.</p>\n</div>\n</div>\n<style>\n        .image-container {\n            display: flex;\n            gap: 30px; \n            justify-content: center; \n            align-items: center; \n            height: auto; \n        }\n        .image-container img {\n            width: 650px;\n            height: flex;\n            object-fit: contain; \n        }\n    </style>\n<div class=\"image-container\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/ccdbe4ee7dde410b893144d8cb799010/9-RR_Store_Remote.png\" height=\"1054\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"1470\"/> <a href=\"https://bambulab.com/en/download/cyberbrick-apps\" rel=\"noopener\" target=\"_blank\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/ef0529d4be0d47dba6424cac8f2022a7/Frame_1123861726.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></a></div>\n</div>\n</div>\n</div>\n<style><!-- Wiki指引 -->\n    body {\n      background: #f6f8fa;\n      margin: 0;\n      font-family: sans-serif;\n      display: flex;\n      justify-content: center;\n    }\n\n    .wiki-wide-card {\n      display: flex;\n      align-items: center;\n      background: #ffffff; /* ✅ 设置为正白背景 */\n      border-radius: 12px;\n      padding: 24px 32px;\n      width: 960px;\n      max-width: 100%;\n      margin: 40px auto;\n      gap: 20px;\n      box-shadow: none; /* ✅ 无阴影 */\n    }\n\n    .wiki-wide-content {\n      flex: 1 1 auto;\n      min-width: 0;\n    }\n\n    .wiki-wide-title {\n      font-size: 24px;\n      font-weight: bold;\n      color: #000000; /* ✅ 黑色标题 */\n      margin: 0 0 6px 0;\n      letter-spacing: 0.01em;\n    }\n\n    .wiki-wide-desc {\n      color: #374151;\n      font-size: 14px;\n      line-height: 1.6;\n      margin: 0;\n    }\n\n    .wiki-wide-btn-wrap {\n      flex-shrink: 0;\n      margin-left: 20px;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n    }\n\n    .wiki-wide-btn {\n      display: inline-flex;\n      align-items: center;\n      justify-content: center;\npadding: 12px 24px;\n      background: #000000; /* ✅ 黑色按钮背景 */\n      color: #ffffff !important; /* ✅ 白色文字 */\n      border-radius: 8px;\n      font-weight: bold;\n      font-size: 1.15em;\n      text-decoration: none !important;\n      border: none;\n      cursor: pointer;\n    }\n\n    .wiki-wide-btn:hover,\n    .wiki-wide-btn:focus,\n    .wiki-wide-btn:visited {\n      background: #222222;\n      text-decoration: none !important;\n    }\n\n    @media (max-width: 900px) {\n      .wiki-wide-card {\n        flex-direction: column;\n        align-items: flex-start;\n        padding: 18px;\n        gap: 18px;\n      }\n\n      .wiki-wide-btn-wrap {\n        margin-left: 0;\n        width: 100%;\n        justify-content: flex-start;\n      }\n    }\n\n    @media (max-width: 540px) {\n      .wiki-wide-card {\n        padding: 16px;\n        border-radius: 10px;\n        gap: 14px;\n      }\n\n      .wiki-wide-title {\n        font-size: 1.1em;\n      }\n\n      .wiki-wide-desc {\n        font-size: 0.95em;\n      }\n\n      .wiki-wide-btn {\n        font-size: 1.05em;\n        width: 100%;\n      }\n    }\n  </style>\n<div class=\"wiki-wide-card\">\n<div class=\"wiki-wide-content\">\n<div class=\"wiki-wide-title\">Explore the Product Wiki &amp; Documentation</div>\n<div class=\"wiki-wide-desc\">Need in-depth assembly guides, troubleshooting, or technical details for this product? <br/>Visit our official Wiki to discover comprehensive resources and answers to all your questions.</div>\n</div>\n<div class=\"wiki-wide-btn-wrap\"><a class=\"wiki-wide-btn\" href=\"https://wiki.bambulab.com/en/cyberbrick\" rel=\"noopener\" target=\"_blank\"> Visit Wiki </a></div>\n</div>\n<div class=\"pct pct_mc\"><!--安装教程-->\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 10px; font-size: 24px; text-align: center;\">Assembly Instructions</h2>\n</div>\n</div>\n</div>\n<!--视频展示--> <div class=\"VideoWrapper\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/cc4TytVBh9M?si=5MK3zBaqr-o0RrmB\" title=\"YouTube video player\" width=\"560\"></iframe></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 10px; font-size: 24px; text-align: center;\">CyberBrick App Connection Tutorial</h2>\n<p style=\"text-align: left; margin-top: 10px; margin-bottom: -40px;\"><span style=\"font-size: 14px;\"><em>*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to the Relic Rush Board Game.</em></span></p>\n</div>\n</div>\n</div>\n<!--视频展示-->\n<div class=\"embed-container\"><div class=\"VideoWrapper\"><iframe allowfullscreen=\"allowfullscreen\" height=\"150\" src=\"https://www.youtube.com/embed/s1DIN1CGpZ0\" width=\"300\"></iframe></div></div>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse; height: 103px;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 26px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 26px;\"><strong>RC Version</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 26px;\"><strong>Wire Version</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/black-nylon-cord?id=42731737219208\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">0.6mm Black Nylon Cord 5m (1pcs) - MF001</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/67d21e8577a74e82a25273debc550e9b/MF001.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/rectangular-magnet?id=42598981959816\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">20x10x3 mm Rectangular Magnet (10PCS) - CB004</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/6aa3cd98d740486eb9641a4bde679e6b/3_88efbbd9-cda9-463c-82ed-d8d323b0d439.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/brass-dowel-pin?id=42104554127496\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">2x22 mm Brass Dowel Pin (20PCS) - DA005</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/d00373d8297b41ada2419bae095660f6/da005_ea8e0c57-86a6-4c85-a2b8-9c912f88d1e3.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/micro-steel-deep-groove-ball-bearings?id=42504744960136\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">MR128zz Steel Deep Groove Ball Bearings (6PCS) - EA004</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/fbf1c55c68454b228ee76faed368884c/FAC036-2_fb819ea3-39c2-41f2-8772-fd5085b4538b.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/bt2-6-socket-head-cap-self-tapping-screw-shcs?id=42102866477192\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">BT2.6x8 SHCS Self Tapping Screw (20PCS) - AA004</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/51170ac21cc7418aa68d21f308fdc6ec/AA004.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">4</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=48694574416220\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">BT2x10 SHCS Self Tapping Screw (20PCS) - AA192</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/68169934adf34df7a51a4530a62d53d0/AA019-28_6ba29abc-4812-4043-987a-76641041c9a3.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=48694574383452\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">BT2x8 SHCS Self Tapping Screw (20PCS) - AA094</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/f4d770d3eb824f6490f9577b497e7d40/AA019-26_0c6d9bfb-1150-4c1d-9361-251841025f2e.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/bt3-socket-head-cap-self-tapping-screws-shcs-new?id=48694582870364\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">BT3x30 SHCS Self Tapping Screw (5PCS) - AA113</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/011ecf9f9eb7488e9961625b437b2390/AA019-17_62670fad-887c-47eb-89cd-8194d4be7053.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/wire-pair-with-sh1-0?id=589257154176921602\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">300mm Wire Pair with SH1.0(2PCS) - XC014</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/cdb4a60477cb47e8b272f579b9c3faec/300mm_Wire_Pair_with_SH1.0_-_XC014.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/rubber-tire-4pcs?id=593209120141225986\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">Ø33.7×13.85mm Rubber Tire (4PCS) - LA027 </a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/ede9fd57110c4e118588040e841c33ab/B-LA027_(2).png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/sh1-0-to-dual-sh1-0-adapter-2pcs?id=616423030361321474\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">SH1.0 to Dual SH1.0 Adapter (2PCS) - XA016 </a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/eb5f6f3b4b4a4db7b3d19f207de16c09/XA016_M.PNG\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/wire-pair-with-sh1-0?id=42122968563848\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">100mm Wire Pair with SH1.0 (5PCS) - IC004</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/a93261a365d548b0ad755c51b292471d/100mm_Wire_Pair_-_IC004.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=48694574350684\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">BT2x6 SHCS Self Tapping Screw (20PCS) - AA093</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/9e49ffc8536f40538e0c46865060b6d1/AA019_722c8005-bb0b-40ab-841d-7ebd0e01184a.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/n20-single-shaft-worm-gear-motor?id=42123577524360\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">N20 Single Shaft Worm Gear Motor 25rpm (1PCS) - LA008</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/6d5b12c219464b1dab66060acd6ea565/N20_Single_Shaft_Worm_Gear_Motor.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/3030-5v-led-board-with-sh1-0-connector?id=47978360242524\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">4 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB001</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/24a311d9e2e34f3a8d2f6b7a1ddc72a3/3030_LED_Board_-_KB001.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/power-distribution-board-pdb-4-channels?id=42123476467848\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/a055ffd48d2a4a7e83ae055e4f0838c7/IA005.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/wire-pair-with-sh1-0?id=42122988978312\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">200mm Wire Pair with SH1.0(5PCS) - IC007</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/bc8acd86637e468f9a9dc05253e088b2/200mm_Wire_Pair_-_IC007.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/potentiometer-board-with-sh1-0-connector?id=42123349753992\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">Potentiometer Board with SH1.0 Connector (2PCS) - IA007</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/fdd2d8674f9e4532b80d169b4558d37a/IA007.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/ring-magnets?id=42630720356488\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">10x4x3mm Ring Magnet (5PCS) - CC003</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/467324d0eb02407dbafa12a20a1b23a9/428be361a579d3cd6b5499734df13e2a_3051b833-932d-4722-b765-602adc0a1397.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/remote-control-transmitter-shield-1pcs?id=592951969272397826\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">Remote Control Transmitter Shield (1PCS) - XA005</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/0a6c10f8ce564d50b20e5c8c7d2d19a7/B-XA005_F.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/remote-control-receiver-shield-1pcs?id=592948726843027458\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">Remote Control Receiver Shield (1PCS) - XA004</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/cd51d3cf33774b00838de14606a79853/B-XA004_F.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/multi-function-controller-core-1pcs?id=592945165323190274\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">Multi-Function Controller Core (1PCS) - XA003</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/29c66904f701458c81e3aeb96add65e5/B-XA003_F.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=54410658611548\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">WS2812 RGB LED with IDC0.8 4PIN (2PCS) - KB003 </a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/cc88c6b08aad44ac885bbf55354c0b2c/B-KB003-B.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">4</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/ws2812-led-hub-with-3pin-sh1-0-connector-1pcs?id=592875330737975298\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">WS2812 LED Hub with 3Pin SH1.0 Connector (1PCS) - XA006</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/81d6c63baf64464e89b76046c7724490/B-XA006-1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/three-position-rocker-switch-module-with-3pin-sh1-0-connector-1pcs?id=592961586890481666\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">Three-Position Rocker Switch Module with 3Pin SH1.0 Connector (1PCS) - XA010</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/1e3dde9e91214fe6b907326feb7f47ec/B-XA010.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/200mm-servo-extension-cable-3pin-2pcs?id=593328884969914371\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">200mm Servo Extension Cable 3Pin (2PCS) - XC011</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/a781b7469ecd4b21972584789b7c9033/zhutu1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/power-switch-module-with-2pin-xh2-54-connector-1pcs?id=593957371298660355\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">Power Switch Module with 2Pin XH2.54 Connector (1PCS) - XA007</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c26f1e60a86045038cc24091743dabe2/image_(4).png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/momentary-button-module-with-2pin-sh1-0-connector-1pcs?id=602277124912295937\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">Momentary Button Module with 2Pin SH1.0 Connector (1PCS) - XA008</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/d62be147397448c19fb14bc357f0487c/image_(8).png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">4</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/7-4v-lithium-battery-charger-with-xh2-54-connector-1pcs?id=593223453326917634\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">7.4V Lithium Battery Charger with XH2.54 Connector (1PCS) - XB003</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/3bdb458f51834db8abd0fd7f296fccfd/img_v3_02lr_1e118c78-fd65-4618-8fda-1747810355ag.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/14500-7-4v-800mah-li-ion-battery-1pcs?id=594045837428080642\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">14500 7.4V 800mAh Li-ion Battery(1PCS) - PC003 </a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/5b3973a1b4254af48748ac15c2136d2d/image.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?id=592971445957537794\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">Single-Axis Joystick Module with 3Pin SH1.0 Connector (1PCS) - XA009 </a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/abd325ec416f416ba3cf0385287e0366/XA009-F.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m2-5-button-head-cap-machine-screws-bhcs-1?id=48671486476636\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">M2.5x6 BHCS Machine Screw (20PCS) - AA050</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/07fca6c862d44080953687665261e2ab/Group_1123860874_34b66fe7-5d3f-4e0f-b838-012fbe9816fa.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/9g-servo-motor-with-clutch-protection?id=42123031019656\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">9g Positional Digital Servo-180° (1PCS) - PG001</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/7a030b6135f94d3e8510e0ba147b077a/9gServoMotorwithClutchProtection-180.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/9g-servo-motor-with-clutch-protection?id=42866995691656\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">9g Continuous Rotation Digital Servo-360° (1PCS) - PG002</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/e12d3517518b46e9addb1b98ed0ee705/9gServoMotor-PG002.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">-</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<h2 class=\"pct_t\" style=\"margin-top: 30px; font-size: 24px;\">Documentation</h2>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">Important Notices</h2>\n<p style=\"text-align: left; padding-left: 24px;\"><strong><span style=\"font-size: 16px;\">To ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product.</span></strong></p>\n<p></p>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\"><strong>Intended Users: </strong>This product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>Firmware Safety: </strong>Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>Battery &amp; Charging: </strong>DO NOT use chargers with output higher than 5V or 2A. Use only the official battery and charger. Avoid exposing the battery to high temperatures or water.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>Maintenance &amp; Storage: </strong>Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.</li>\n</ul>\n<p></p>\n<p class=\"pct_p\" style=\"text-align: center;\">Our company is not liable for any equipment damage, failure, fire, or other loss caused by non-compliance with the above requirements.</p>\n<p>Please strictly follow the safety instructions for this product.</p>\n</div>\n</div>\n</div>",
+  "description_text": "Step into the race of Relic Rush, a fast-paced, family-friendly board game where interaction, constant motion, and real-time excitement collide. It’s a thrilling game across a board that changes as you play, filled with interactive dangers and delightful surprises.\n\nWe recommend checking the project instruction first to see if this is the proper game for you. Find all details on the MakerWorld.\n\nThis model is offered as a crowdfunding project. Your purchase involves two steps:\n\n1. Purchase the necessary parts kit on this page to assemble your model.\n\n2. Get the 3D print files by backing the project on the crowdfunding page.\n\n*Relic Rush is continuously improved based on feedback from our players and makers. The Creator is actively refining models, mechanics, and components based on community feedback. For the latest updates, upgrade files, and additional content, be sure to follow the creator’s page on MakerWorld.\n\nEveryone takes their turns at once on a board that’s never static. Roll the dice, and if you land on a disaster—trigger it instantly with the custom remote!\n\nStrategy meets speed: plan your route, time your moves, and outpace the clock before time runs out and catastrophe strikes for all!\n\nThe board itself is your opponent. Navigate a landscape where every element can change:\n\nBridge: a collapse could knock out any players on the bridge and block one of the paths to the relics.\n\nSpikes: risking the spikes can provide a faster, but more dangerous path.\n\nStairs: one of the fastest paths to the relics can transform into a player-eliminating slide.\n\nWall: this rotating piece can open or block your path to the relics.\n\nRiver & Lava: time your movement to not get trapped and swept over the edge. Or be risky and climb the vertical lava-fall.\n\nChoose the experience that fits your style:\n\nCyberBrick Version: contains everything you need to build the game board with servo & motor-controlled interactive elements along with a remote. This is the default version of the game.\n\nWired Version: uses manually-operated traps without a remote control. This reduces the cost of components but still includes a motorized river and lava flow. To keep track of rounds, you can use this free timer app on your phone.\n\nBuild your custom remote and an optional storage container for the player figures, custom dice, relics and other game pieces.\n\nChoose between printable and laser-cut versions of each.\n\nThe storage box stacks with the remote.\n\nIncludes extra space for future expansion components.\n\nAre you up for a challenge? Relic Rush is a great project for people who enjoy the process of building something complex.\n\n360° of detailed design\n\n200+ unique parts.\n\nFinal weight: 3.5kg+\n\nFull step-by-step assembly guide (takes about 4 hours)\n\nPrint in multi-color or paint and detail it yourself.\n\nThe board is a versatile playspace—create and share your own game modes with the community.\n\nRelic Rush Board Game is designed to work with the Remote Control. The creator has uploaded pre-configured settings for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions. Visit Wiki\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nExplore the Product Wiki & Documentation\n\nNeed in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nVisit Wiki\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to the Relic Rush Board Game.\n\nTo ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product.\n\nIntended Users: This product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use.\n\nFirmware Safety: Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBattery & Charging: DO NOT use chargers with output higher than 5V or 2A. Use only the official battery and charger. Avoid exposing the battery to high temperatures or water.\n\nMaintenance & Storage: Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nOur company is not liable for any equipment damage, failure, fire, or other loss caused by non-compliance with the above requirements.\n\nPlease strictly follow the safety instructions for this product.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zl013-relic-rush-board-game",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Relic Rush Board Game",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "103.2",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/relic-rush-board-game?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "127.2",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/relic-rush-board-game?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "139",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/relic-rush-board-game?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "91.2",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/relic-rush-board-game?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "172",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/relic-rush-board-game?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA004",
+    "AA050",
+    "AA093",
+    "AA094",
+    "AA113",
+    "AA192",
+    "CB004",
+    "CC003",
+    "DA005",
+    "EA004",
+    "IA005",
+    "IA007",
+    "IC004",
+    "IC007",
+    "KB001",
+    "KB003",
+    "LA008",
+    "LA027",
+    "MF001",
+    "MR128",
+    "PC003",
+    "PG001",
+    "PG002",
+    "XA003",
+    "XA004",
+    "XA005",
+    "XA006",
+    "XA007",
+    "XA008",
+    "XA009",
+    "XA010",
+    "XA016",
+    "XB003",
+    "XC011",
+    "XC014",
+    "ZL013",
+    "ZL014"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "crowdfunding campaign",
+      "url": "https://makerworld.com/en/crowdfunding/15-relic-rush-board-game"
+    },
+    {
+      "kind": "makerworld",
+      "title": "View More",
+      "url": "https://makerworld.com/en/models/2046733-relic-rush-board-game?from=search#profileId-2208645"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "703122334658478084",
+    "703122334658478088",
+    "703124625161625601",
+    "703124625161625605",
+    "703125079262105603",
+    "703125079262105607",
+    "703125251579367427",
+    "703125251579367431",
+    "703125379300446211",
+    "703125379304640513"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Name",
+        "RC Version",
+        "Wire Version"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/relic-rush-board-game?id=703125251579367427"
+      },
+      "rows": [
+        [
+          "0.6mm Black Nylon Cord 5m (1pcs) - MF001",
+          "1"
+        ],
+        [
+          "20x10x3 mm Rectangular Magnet (10PCS) - CB004",
+          "1"
+        ],
+        [
+          "2x22 mm Brass Dowel Pin (20PCS) - DA005",
+          "1"
+        ],
+        [
+          "MR128zz Steel Deep Groove Ball Bearings (6PCS) - EA004",
+          "3"
+        ],
+        [
+          "BT2.6x8 SHCS Self Tapping Screw (20PCS) - AA004",
+          "4"
+        ],
+        [
+          "BT2x10 SHCS Self Tapping Screw (20PCS) - AA192",
+          "1"
+        ],
+        [
+          "BT2x8 SHCS Self Tapping Screw (20PCS) - AA094",
+          "2"
+        ],
+        [
+          "BT3x30 SHCS Self Tapping Screw (5PCS) - AA113",
+          "2"
+        ],
+        [
+          "300mm Wire Pair with SH1.0(2PCS) - XC014",
+          "1"
+        ],
+        [
+          "Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
+          "2"
+        ],
+        [
+          "SH1.0 to Dual SH1.0 Adapter (2PCS) - XA016",
+          "1"
+        ],
+        [
+          "100mm Wire Pair with SH1.0 (5PCS) - IC004",
+          "1"
+        ],
+        [
+          "BT2x6 SHCS Self Tapping Screw (20PCS) - AA093",
+          "1",
+          "2"
+        ],
+        [
+          "N20 Single Shaft Worm Gear Motor 25rpm (1PCS) - LA008",
+          "3",
+          "2"
+        ],
+        [
+          "4 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB001",
+          "-",
+          "1"
+        ],
+        [
+          "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+          "-",
+          "1"
+        ],
+        [
+          "200mm Wire Pair with SH1.0(5PCS) - IC007",
+          "-",
+          "1"
+        ],
+        [
+          "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+          "-",
+          "1"
+        ],
+        [
+          "10x4x3mm Ring Magnet (5PCS) - CC003",
+          "1",
+          "-"
+        ],
+        [
+          "Remote Control Transmitter Shield (1PCS) - XA005",
+          "1",
+          "-"
+        ],
+        [
+          "Remote Control Receiver Shield (1PCS) - XA004",
+          "1",
+          "-"
+        ],
+        [
+          "Multi-Function Controller Core (1PCS) - XA003",
+          "2",
+          "-"
+        ],
+        [
+          "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - KB003",
+          "4",
+          "-"
+        ],
+        [
+          "WS2812 LED Hub with 3Pin SH1.0 Connector (1PCS) - XA006",
+          "2",
+          "-"
+        ],
+        [
+          "Three-Position Rocker Switch Module with 3Pin SH1.0 Connector (1PCS) - XA010",
+          "2",
+          "-"
+        ],
+        [
+          "200mm Servo Extension Cable 3Pin (2PCS) - XC011",
+          "1",
+          "-"
+        ],
+        [
+          "Power Switch Module with 2Pin XH2.54 Connector (1PCS) - XA007",
+          "2",
+          "-"
+        ],
+        [
+          "Momentary Button Module with 2Pin SH1.0 Connector (1PCS) - XA008",
+          "4",
+          "-"
+        ],
+        [
+          "7.4V Lithium Battery Charger with XH2.54 Connector (1PCS) - XB003",
+          "1",
+          "-"
+        ],
+        [
+          "14500 7.4V 800mAh Li-ion Battery(1PCS) - PC003",
+          "2",
+          "-"
+        ],
+        [
+          "Single-Axis Joystick Module with 3Pin SH1.0 Connector (1PCS) - XA009",
+          "1",
+          "-"
+        ],
+        [
+          "M2.5x6 BHCS Machine Screw (20PCS) - AA050",
+          "2",
+          "-"
+        ],
+        [
+          "9g Positional Digital Servo-180° (1PCS) - PG001",
+          "3",
+          "-"
+        ],
+        [
+          "9g Continuous Rotation Digital Servo-360° (1PCS) - PG002",
+          "1",
+          "-"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/8d75ab4da51c427781a5345e52bee68f/0-CoverImage.png",
+      "part_number": "ZL013",
+      "price": "103.2",
+      "region": "us",
+      "sku": "703125251579367427",
+      "title": "Relic Rush Board Game - Relic Rush Board Game (CyberBrick RC Version) - ZL013",
+      "url": "https://us.store.bambulab.com/products/relic-rush-board-game?id=703125251579367427",
+      "variant_id": "703125251579367427"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/8d75ab4da51c427781a5345e52bee68f/0-CoverImage.png",
+      "part_number": "ZL014",
+      "price": "41.59",
+      "region": "us",
+      "sku": "703125251579367431",
+      "title": "Relic Rush Board Game - Relic Rush Board Game (Wired Version) - ZL014",
+      "url": "https://us.store.bambulab.com/products/relic-rush-board-game?id=703125251579367431",
+      "variant_id": "703125251579367431"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/cac948b1905541baa6499b6e74f19faa/0-CoverImage.png",
+      "part_number": "ZL013",
+      "price": "127.2",
+      "region": "ca",
+      "sku": "703124625161625601",
+      "title": "Relic Rush Board Game - Relic Rush Board Game (CyberBrick RC Version) - ZL013",
+      "url": "https://ca.store.bambulab.com/products/relic-rush-board-game?id=703124625161625601",
+      "variant_id": "703124625161625601"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/cac948b1905541baa6499b6e74f19faa/0-CoverImage.png",
+      "part_number": "ZL014",
+      "price": "52.79",
+      "region": "ca",
+      "sku": "703124625161625605",
+      "title": "Relic Rush Board Game - Relic Rush Board Game (Wired Version) - ZL014",
+      "url": "https://ca.store.bambulab.com/products/relic-rush-board-game?id=703124625161625605",
+      "variant_id": "703124625161625605"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/f6aadc26eea944749143670e0dde8172/0-CoverImage.png",
+      "part_number": "ZL013",
+      "price": "139",
+      "region": "eu",
+      "sku": "703125379300446211",
+      "title": "Relic Rush Board Game - Relic Rush Board Game (CyberBrick RC Version) - ZL013",
+      "url": "https://eu.store.bambulab.com/products/relic-rush-board-game?id=703125379300446211",
+      "variant_id": "703125379300446211"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/f6aadc26eea944749143670e0dde8172/0-CoverImage.png",
+      "part_number": "ZL014",
+      "price": "57.99",
+      "region": "eu",
+      "sku": "703125379304640513",
+      "title": "Relic Rush Board Game - Relic Rush Board Game (Wired Version) - ZL014",
+      "url": "https://eu.store.bambulab.com/products/relic-rush-board-game?id=703125379304640513",
+      "variant_id": "703125379304640513"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/008be63e2ead44ec9220968aef16f9c6/0-CoverImage.png",
+      "part_number": "ZL013",
+      "price": "91.2",
+      "region": "uk",
+      "sku": "703125079262105603",
+      "title": "Relic Rush Board Game - Relic Rush Board Game (CyberBrick RC Version) - ZL013",
+      "url": "https://uk.store.bambulab.com/products/relic-rush-board-game?id=703125079262105603",
+      "variant_id": "703125079262105603"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/008be63e2ead44ec9220968aef16f9c6/0-CoverImage.png",
+      "part_number": "ZL014",
+      "price": "39.99",
+      "region": "uk",
+      "sku": "703125079262105607",
+      "title": "Relic Rush Board Game - Relic Rush Board Game (Wired Version) - ZL014",
+      "url": "https://uk.store.bambulab.com/products/relic-rush-board-game?id=703125079262105607",
+      "variant_id": "703125079262105607"
+    },
+    {
+      "available": false,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/3779f38567494b61b074de3d57d764de/0-CoverImage.png",
+      "part_number": "ZL013",
+      "price": "172",
+      "region": "au",
+      "sku": "703122334658478084",
+      "title": "Relic Rush Board Game - Relic Rush Board Game (CyberBrick RC Version) - ZL013",
+      "url": "https://au.store.bambulab.com/products/relic-rush-board-game?id=703122334658478084",
+      "variant_id": "703122334658478084"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/3779f38567494b61b074de3d57d764de/0-CoverImage.png",
+      "part_number": "ZL014",
+      "price": "79.99",
+      "region": "au",
+      "sku": "703122334658478088",
+      "title": "Relic Rush Board Game - Relic Rush Board Game (Wired Version) - ZL014",
+      "url": "https://au.store.bambulab.com/products/relic-rush-board-game?id=703122334658478088",
+      "variant_id": "703122334658478088"
+    }
+  ]
+}

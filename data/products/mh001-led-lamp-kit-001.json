@@ -1,0 +1,1387 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "led-lamp-kit-001",
+      "product_id": "7520000704648",
+      "region": "us"
+    },
+    {
+      "handle": "led-lamp-kit-001",
+      "product_id": "8327591231728",
+      "region": "ca"
+    },
+    {
+      "handle": "led-lamp-kit-001",
+      "product_id": "8540748874076",
+      "region": "eu"
+    },
+    {
+      "handle": "led-lamp-kit-001",
+      "product_id": "7153219895356",
+      "region": "uk"
+    },
+    {
+      "handle": "led-lamp-kit-001",
+      "product_id": "8410283442339",
+      "region": "au"
+    },
+    {
+      "handle": "led-lamp-kit-001",
+      "product_id": "9030394511652",
+      "region": "jp"
+    },
+    {
+      "handle": "led-lamp-kit-001",
+      "product_id": "7258362577011",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/0b/0bb33c4bab887fd6f378a9d36c5d6a5e77a28a5d059429bc29be7d7bc562ab8e.png",
+      "id": "image-1d73009a08c1ab9a8883",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "LEDLamp.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0bb33c4bab887fd6f378a9d36c5d6a5e77a28a5d059429bc29be7d7bc562ab8e",
+      "size": 881929,
+      "source_url": "https://store.bblcdn.com/s6/default/3aaf8d45831f41dc9877503360e3b192/LEDLamp.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/73/730eb274f4533cd04499f885370bb4990d1def2bbe383113d7efbeee225b340a.png",
+      "id": "image-6bf19d95f28b6015cf70",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "LEDLamp_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "730eb274f4533cd04499f885370bb4990d1def2bbe383113d7efbeee225b340a",
+      "size": 1977981,
+      "source_url": "https://store.bblcdn.com/s6/default/3b394bc4e1944e08a86910bbc3c08832/LEDLamp_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ee/ee8aeb88a09ac3d491bd2a57129e7c20c13db1ee1863744ef18eee6f5d583b1a.png",
+      "id": "image-3b68a492756906cf8982",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "LEDLampKit-002.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ee8aeb88a09ac3d491bd2a57129e7c20c13db1ee1863744ef18eee6f5d583b1a",
+      "size": 689628,
+      "source_url": "https://store.bblcdn.com/s6/default/12064860cb49490d97a80ba420c650a7/LEDLampKit-002.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/8d/8d2ad14f33910cb4264e2743d331c576420e2ec21ab7ba7a655bc1aae56ac65e.pdf",
+      "id": "document-68e47270631525c2ced3",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "LED_Lamp_Kit-001_Assembly_Guide.pdf",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8d2ad14f33910cb4264e2743d331c576420e2ec21ab7ba7a655bc1aae56ac65e",
+      "size": 10605613,
+      "source_url": "https://store.bblcdn.com/s6/default/69906d725bee44b6b9d6703d5db85b12/LED_Lamp_Kit-001_Assembly_Guide.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/90/90aaa4bc3dc431112d4506b506861fdcf823affc03dda02c97ff19153bc96a58.zip",
+      "id": "archive-9ffc491c8352909810fa",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "MH001_3d_model.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "90aaa4bc3dc431112d4506b506861fdcf823affc03dda02c97ff19153bc96a58",
+      "size": 324239,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/MH001_3d_model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/LED Lamp Kit -MH001.stl",
+      "blob_path": "data/blobs/sha256/6c/6c5fca0168b8dcfd9d713beaf8d7f3f4b1cba45b90d6f8bf854d268c237657b9.stl",
+      "id": "model-d5d564eb0f02d3689969",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "LED Lamp Kit -MH001.stl",
+      "parent_asset_id": "archive-9ffc491c8352909810fa",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "6c5fca0168b8dcfd9d713beaf8d7f3f4b1cba45b90d6f8bf854d268c237657b9",
+      "size": 816184,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/MH001_3d_model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/LED Lamp Kit -MH001.stp",
+      "blob_path": "data/blobs/sha256/b0/b03ed89cc6a8ab7acc22bd4d5717bd29a924d2b022f551ce988d4d83ebe8e2c0.stp",
+      "id": "model-855f1520e247aee038ab",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "LED Lamp Kit -MH001.stp",
+      "parent_asset_id": "archive-9ffc491c8352909810fa",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "b03ed89cc6a8ab7acc22bd4d5717bd29a924d2b022f551ce988d4d83ebe8e2c0",
+      "size": 188330,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/MH001_3d_model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/36/363442621efc6f6828fd3fc922c85ca66917effcf8856afec86f70f827fc9e4f.zip",
+      "id": "archive-0e7a02c804b1c6be3033",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "MH001_Application_Instruction.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "363442621efc6f6828fd3fc922c85ca66917effcf8856afec86f70f827fc9e4f",
+      "size": 1686320,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/MH001_Application_Instruction.zip"
+    },
+    {
+      "archive_member_path": "Application Instruction/LED Lamp Kit-001 Assembly Structure.stl",
+      "blob_path": "data/blobs/sha256/f1/f139586ceaa5fc638f1325094a6f432234eaaf15d8d79fc1fbd7f8a03b49c2d1.stl",
+      "id": "model-7d580830700a3a86660b",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "LED Lamp Kit-001 Assembly Structure.stl",
+      "parent_asset_id": "archive-0e7a02c804b1c6be3033",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f139586ceaa5fc638f1325094a6f432234eaaf15d8d79fc1fbd7f8a03b49c2d1",
+      "size": 1391084,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/MH001_Application_Instruction.zip"
+    },
+    {
+      "archive_member_path": "Application Instruction/LED Lamp Kit-001 Assembly Structure.stp",
+      "blob_path": "data/blobs/sha256/78/78e1dae80c80e39a891793a156b4adb2e61b56cfb0ca1113efae9f675a13a44c.stp",
+      "id": "model-af9ac06b1d1637d692f8",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "LED Lamp Kit-001 Assembly Structure.stp",
+      "parent_asset_id": "archive-0e7a02c804b1c6be3033",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "78e1dae80c80e39a891793a156b4adb2e61b56cfb0ca1113efae9f675a13a44c",
+      "size": 684729,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/MH001_Application_Instruction.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e9/e96dd4e34020e9becd0f410b07ad4b68b4637eedfe5cf6bcb8e30be31658de50.png",
+      "id": "image-display-6fd4740e040ae04ca986",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "0bb33c4bab887fd6f378a9d36c5d6a5e77a28a5d059429bc29be7d7bc562ab8e",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "LEDLamp.catalog.png",
+      "parent_asset_id": "image-1d73009a08c1ab9a8883",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e96dd4e34020e9becd0f410b07ad4b68b4637eedfe5cf6bcb8e30be31658de50",
+      "size": 233424,
+      "source_url": "https://store.bblcdn.com/s6/default/3aaf8d45831f41dc9877503360e3b192/LEDLamp.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/24/2440ae3af292bf0978993e91fdb5dbc7f1a12ce84db201a952690b438a8153c0.png",
+      "id": "image-display-5fec7f1b1724b0a20fe4",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "730eb274f4533cd04499f885370bb4990d1def2bbe383113d7efbeee225b340a",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "LEDLamp_1.catalog.png",
+      "parent_asset_id": "image-6bf19d95f28b6015cf70",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2440ae3af292bf0978993e91fdb5dbc7f1a12ce84db201a952690b438a8153c0",
+      "size": 616968,
+      "source_url": "https://store.bblcdn.com/s6/default/3b394bc4e1944e08a86910bbc3c08832/LEDLamp_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ac/aceb24a5ec5fbfd9c0571b2a1050b78b06daee4565e7c0d2c58e2b3000407215.png",
+      "id": "image-display-bd32fbb10aaa830e1cc9",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "ee8aeb88a09ac3d491bd2a57129e7c20c13db1ee1863744ef18eee6f5d583b1a",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "LEDLampKit-002.catalog.png",
+      "parent_asset_id": "image-3b68a492756906cf8982",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "aceb24a5ec5fbfd9c0571b2a1050b78b06daee4565e7c0d2c58e2b3000407215",
+      "size": 148717,
+      "source_url": "https://store.bblcdn.com/s6/default/12064860cb49490d97a80ba420c650a7/LEDLampKit-002.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "name": "LED Lamp",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "name": "BT3x12 FHCS Self Tapping Screw",
+      "quantity": "2",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "name": "D40mm Double-sided Tape",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[6]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The LED Lamp Kit contains all the necessary hardware components for assembling an LED Lamp. To complete the assembly for an entirely functional piece, users also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "heading",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "1. Please power the device using a USB power supply with the specified voltage."
+    },
+    {
+      "kind": "paragraph",
+      "text": "2. It is recommended for indoor use at room temperature."
+    },
+    {
+      "kind": "paragraph",
+      "text": "3. Wipe with a clean cloth and avoid splashing or immersing in water."
+    },
+    {
+      "kind": "paragraph",
+      "text": "4. BT3x12 SHCS Self Tapping Screw is the alternative to the screws included in the kit."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"><!-- 文案布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<p> </p>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a href=\"https://cdn.shopify.com/s/files/1/0584/7236/6216/files/MH001_3d_model.zip?v=1736767539\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M37.7154 0.802246L54.9999 16.8008V63.3224C54.9999 64.1367 54.3397 64.7969 53.5254 64.7969H5.16076C4.3464 64.7969 3.68623 64.1367 3.68623 63.3224V2.27677C3.68623 1.46241 4.3464 0.802246 5.16076 0.802246H37.7154Z\" fill=\"#60BB18\" fill-rule=\"evenodd\"></path> <path d=\"M5.8981 4.48869C5.8981 3.67433 6.55827 3.01416 7.37263 3.01416H36.5374C36.9344 3.01416 37.3146 3.17423 37.592 3.45817L44.4342 10.4605L52.2567 16.9683C52.5934 17.2485 52.7882 17.6638 52.7882 18.1019V61.1107C52.7882 61.925 52.128 62.5852 51.3136 62.5852H7.37263C6.55827 62.5852 5.8981 61.925 5.8981 61.1107V4.48869Z\" fill=\"white\"> </path> <rect fill=\"#60BB18\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" y=\"24.3948\"></rect> <path d=\"M20.3197 33.5191C20.3197 34.0039 20.2189 34.4239 20.0174 34.7791C19.8158 35.1342 19.5422 35.4246 19.1966 35.6502C18.8558 35.8758 18.4718 36.0414 18.0446 36.147V36.1902C18.8894 36.2958 19.5302 36.555 19.967 36.9678C20.4085 37.3806 20.6293 37.9326 20.6293 38.6238C20.6293 39.2382 20.4781 39.7878 20.1757 40.2725C19.8782 40.7573 19.4174 41.1389 18.7934 41.4173C18.1694 41.6957 17.3654 41.8349 16.3814 41.8349C15.8006 41.8349 15.2582 41.7869 14.7543 41.6909C14.2551 41.5997 13.7847 41.4581 13.3431 41.2661V39.3726C13.7943 39.603 14.2671 39.7782 14.7615 39.8982C15.2558 40.0134 15.7166 40.0709 16.1438 40.0709C16.9406 40.0709 17.4974 39.9342 17.8142 39.6606C18.1358 39.3822 18.2966 38.9934 18.2966 38.4942C18.2966 38.2014 18.2222 37.9542 18.0734 37.7526C17.9246 37.551 17.6654 37.3974 17.2958 37.2918C16.931 37.1862 16.4198 37.1334 15.7622 37.1334H14.9631V35.427H15.7766C16.4246 35.427 16.9166 35.367 17.2526 35.247C17.5934 35.1222 17.8238 34.9543 17.9438 34.7431C18.0686 34.5271 18.131 34.2823 18.131 34.0087C18.131 33.6343 18.0158 33.3415 17.7854 33.1303C17.555 32.9191 17.171 32.8135 16.6334 32.8135C16.2974 32.8135 15.9902 32.8567 15.7118 32.9431C15.4382 33.0247 15.191 33.1255 14.9703 33.2455C14.7495 33.3607 14.5551 33.4735 14.3871 33.5839L13.3575 32.0503C13.7703 31.7527 14.2527 31.5055 14.8047 31.3087C15.3614 31.1119 16.0238 31.0135 16.7918 31.0135C17.8766 31.0135 18.7358 31.2319 19.3694 31.6687C20.003 32.1055 20.3197 32.7223 20.3197 33.5191ZM31.2779 36.327C31.2779 37.5126 31.0499 38.5038 30.5939 39.3006C30.1428 40.0925 29.4876 40.6901 28.6284 41.0933C27.7692 41.4917 26.7348 41.6909 25.5252 41.6909H22.5445V31.1647H25.8492C26.9532 31.1647 27.9108 31.3615 28.722 31.7551C29.5332 32.1439 30.162 32.7223 30.6083 33.4903C31.0547 34.2535 31.2779 35.199 31.2779 36.327ZM28.9596 36.3846C28.9596 35.607 28.8444 34.9687 28.614 34.4695C28.3884 33.9655 28.0524 33.5935 27.606 33.3535C27.1644 33.1135 26.6172 32.9935 25.9644 32.9935H24.7765V39.8478H25.734C26.8236 39.8478 27.6324 39.5574 28.1604 38.9766C28.6932 38.3958 28.9596 37.5318 28.9596 36.3846Z\" fill=\"white\"> </path> <path d=\"M37.6006 18.3492H55.0001L36.1261 0.802246V16.8746C36.1261 17.689 36.7863 18.3492 37.6006 18.3492Z\" fill=\"#60BB18\"> </path> </svg> 3D Model </a> <a href=\"https://cdn.shopify.com/s/files/1/0584/7236/6216/files/MH001_Application_Instruction.zip?v=1736767539\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 65 65\" width=\"65\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M34.7087 0.802246L51.9921 16.7998V63.2344C51.9921 64.0948 51.2946 64.7922 50.4342 64.7922H2.24001C1.37961 64.7922 0.682129 64.0948 0.682129 63.2344V2.36012C0.682129 1.49973 1.37961 0.802246 2.24001 0.802246H34.7087Z\" fill=\"#2172D0\" fill-rule=\"evenodd\"></path> <path d=\"M2.89377 4.57204C2.89377 3.71164 3.59125 3.01416 4.45165 3.01416H33.4957C33.9151 3.01416 34.3168 3.18328 34.6099 3.48327L41.4271 10.46L49.2189 16.9423C49.5747 17.2383 49.7804 17.6771 49.7804 18.1399V61.023C49.7804 61.8834 49.083 62.5809 48.2226 62.5809H4.45164C3.59125 62.5809 2.89377 61.8834 2.89377 61.023V4.57204Z\" fill=\"white\"></path> <path d=\"M34.6774 18.3479H51.9922L33.1196 0.802246V16.79C33.1196 17.6504 33.8171 18.3479 34.6774 18.3479Z\" fill=\"#2172D0\"></path> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"9.99928\" x=\"8.99524\" y=\"16.801\"></rect> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"9.99928\" x=\"8.99524\" y=\"34.7998\"></rect> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"23.9983\" x=\"8.99524\" y=\"25.8005\"></rect> <circle cx=\"44.9022\" cy=\"44.7086\" fill=\"white\" r=\"10.7622\" stroke=\"#2172D0\" stroke-width=\"2.47381\" transform=\"rotate(-49.859 44.9022 44.7086)\"></circle> <path d=\"M60.723 60.9036C61.7674 61.7844 63.3281 61.6517 64.2089 60.6073C65.0897 59.5628 64.957 58.0021 63.9126 57.1214L60.723 60.9036ZM52.2213 53.7341L60.723 60.9036L63.9126 57.1214L55.4109 49.9519L52.2213 53.7341Z\" fill=\"#2172D0\"></path> </svg> Application Instruction</a></p>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"> </p>\n</div>\n<!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Overview</h3>\n<p class=\"pct_p\">The <strong>LED Lamp Kit</strong> contains all the necessary hardware components for assembling an <strong>LED Lamp</strong>. To complete the assembly for an entirely functional piece, users also need to download the model files and 3D print the remaining parts.</p>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<br/>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"><img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://cdn.shopify.com/s/files/1/0584/7236/6216/files/LED_MH001.png?v=1735893977\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 100.089%; height: 215.531px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 19.5938px;\"><strong>Compatible Models</strong></td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 19.5938px;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 19.5938px;\"><b>Model Links</b></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 39.1875px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">LED Lamp</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 39.1875px;\"><span>Lin and Gleason (Bambu Lab)</span></td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 39.1875px;\"><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/31191?from=search#profileId-27822\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"><strong></strong></a><strong><a href=\"https://makerworld.com/models/13717\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">LED Lamp</a></strong></span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 19.5938px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">Arc Reactor MK1</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 19.5938px;\"><span>Mc2.project3D</span></td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 19.5938px;\"><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/31191?from=search#profileId-27822\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"><strong></strong></a><strong><a href=\"https://makerworld.com/models/467861\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Arc Reactor MK1</a></strong></span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 39.1875px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span>Moon Globe for LED Lamp 001</span></div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 39.1875px;\"><span>TBone_427120</span></td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 39.1875px;\"><a href=\"https://makerworld.com/en/models/31191?from=search#profileId-27822\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Moon Globe for LED Lamp 001</span></strong></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 19.5938px;\">lampshade for LED Lamp Kit</td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 19.5938px;\">wuguigui</td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 19.5938px;\"><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/models/467861\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"><strong></strong></a><strong><a href=\"https://makerworld.com/models/20185\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">lampshade for LED Lamp Kit</a></strong></span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 39.1875px;\">Easter Bunny Egg Lamp</td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 39.1875px;\">NUKDDD</td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 39.1875px;\"><a href=\"https://makerworld.com/en/models/190387?from=search#profileId-212894\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Easter Bunny Egg Lamp</span></strong></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 39.1875px;\">Cozy Minecraft Lantern</td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 39.1875px;\">Sakul</td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 39.1875px;\"><a href=\"https://makerworld.com/en/models/161106?from=search#profileId-176775\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span>Cozy Minecraft Lantern</span></strong></span></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 39.1875px;\">Japanese Kumiko Large Lamp LED KIT</td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 39.1875px;\">Foxwood</td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 39.1875px;\"><a href=\"https://makerworld.com/en/models/246236-japanese-kumiko-lamp-large-led-kit-001-foxwood#profileId-262598\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span>Japanese Kumiko Large Lamp LED KIT</span></strong></span></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 39.1875px;\">BellSprout Lamp LED Kit</td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 39.1875px;\">SavageLau</td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 39.1875px;\"><a href=\"https://makerworld.com/en/models/164551-bellsprout-lamp-led-kit-001#profileId-180702\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span>BellSprout Lamp LED Kit</span></strong></span></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 39.1875px;\">Design Lamp - The Wave</td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 39.1875px;\">SJANBERRY DESIGN</td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 39.1875px;\"><a href=\"https://makerworld.com/en/models/2571932-design-lamp-the-wave#profileId-2835385\"><span style=\"color: #00ae42;\"><strong><span>Design Lamp - The Wave</span></strong></span></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 31.0417%; height: 39.1875px;\">Bonsai Desk Lamp</td>\n<td class=\"pct_td\" style=\"width: 31.8998%; height: 39.1875px;\">3dpaintlab</td>\n<td class=\"pct_td\" style=\"width: 33.1134%; height: 39.1875px;\"><a href=\"https://makerworld.com/en/models/2535327-bonsai-desk-lamp?from=search#profileId-2790695\"><span style=\"color: #00ae42;\"><strong><span>Bonsai Desk Lamp</span></strong></span></a></td>\n</tr>\n</tbody>\n</table>\n<br/>\n<h2 class=\"pct_t\" style=\"text-align: center;\">Product Specifications</h2>\n<br/>\n<div class=\"pct_head-ic\">\n<div class=\"pct_ic\"> <!-- 手机端图片 --> <img class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://cdn.shopify.com/s/files/1/0584/7236/6216/files/MH001_18831c7b-f488-4363-9d08-0e218969ae94.png?v=1735886651\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://cdn.shopify.com/s/files/1/0584/7236/6216/files/MH001_18831c7b-f488-4363-9d08-0e218969ae94.png?v=1735886651\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<div class=\"pct pct_mc\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><b>Product Size</b></td>\n<td class=\"pct_td\">D59*H8 mm</td>\n<td class=\"pct_td\"><b>Packaging Size</b></td>\n<td class=\"pct_td\">100*69*35 mm</td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Product Weight</strong></td>\n<td class=\"pct_td\">58 g</td>\n<td class=\"pct_td\"><b>Gross Weight</b></td>\n<td class=\"pct_td\">72 g</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Voltage</strong></td>\n<td class=\"pct_td\">DC 5V</td>\n<td class=\"pct_td\"><strong>Power</strong></td>\n<td class=\"pct_td\">3W</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Cable Length</strong></td>\n<td class=\"pct_td\">1.5 m</td>\n<td class=\"pct_td\"><strong>Color Temperature</strong></td>\n<td class=\"pct_td\">Warm White</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- 第三条 --> <!-- 第四条 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"><br/>\n<h3 class=\"pct_st\" style=\"text-align: center;\">In the Box</h3>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 178px; width: 99.1952%; text-align: center; border-collapse: collapse;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\"><!-- 表格模块 -->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">LED Lamp</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<!-- 表格模块 -->\n<tr class=\"pct_tr\"><!-- 表格模块 -->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">BT3x12 FHCS Self Tapping Screw</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n</tr>\n<!-- 表格模块 -->\n<tr class=\"pct_tr\"><!-- 表格模块 -->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">D40mm Double-sided Tape</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<!-- 表格模块 --></tbody>\n</table>\n</div>\n</div>\n</div>\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Notes</h3>\n<p class=\"pct_p\">1. Please power the device using a USB power supply with the specified voltage.</p>\n<p class=\"pct_p\">2. It is recommended for indoor use at room temperature.</p>\n<p class=\"pct_p\">3. Wipe with a clean cloth and avoid splashing or immersing in water.</p>\n<p class=\"pct_p\">4. <a href=\"../../../collections/self-tapping-screws/products/bt3-socket-head-cap-self-tapping-screws-shcs-new?skr=yes&amp;id=41798755778675\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\">BT3x12 SHCS Self Tapping Screw</span></a> is the alternative to the screws included in the kit.</p>\n</div>\n<div class=\"pct_t-stpc\"></div>\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The LED Lamp Kit contains all the necessary hardware components for assembling an LED Lamp. To complete the assembly for an entirely functional piece, users also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\n1. Please power the device using a USB power supply with the specified voltage.\n\n2. It is recommended for indoor use at room temperature.\n\n3. Wipe with a clean cloth and avoid splashing or immersing in water.\n\n4. BT3x12 SHCS Self Tapping Screw is the alternative to the screws included in the kit.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "mh001-led-lamp-kit-001",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "LED Lamp Kit Collection",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/led-lamp-kit-001?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "16",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/led-lamp-kit-001?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/led-lamp-kit-001?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/led-lamp-kit-001?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "20",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/led-lamp-kit-001?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1980",
+      "region": "jp",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://jp.store.bambulab.com/en/products/led-lamp-kit-001?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/led-lamp-kit-001?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-ZH068",
+    "B-ZH069",
+    "B-ZH145",
+    "B-ZH161",
+    "HK001",
+    "HK002",
+    "HK003",
+    "HK004",
+    "HK005",
+    "MH001",
+    "ZH068",
+    "ZH069",
+    "ZH145",
+    "ZH161"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Moon Globe for LED Lamp 001",
+      "url": "https://makerworld.com/en/models/31191?from=search#profileId-27822"
+    },
+    {
+      "kind": "makerworld",
+      "title": "LED Lamp",
+      "url": "https://makerworld.com/models/13717"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Arc Reactor MK1",
+      "url": "https://makerworld.com/models/467861"
+    },
+    {
+      "kind": "makerworld",
+      "title": "lampshade for LED Lamp Kit",
+      "url": "https://makerworld.com/models/20185"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Easter Bunny Egg Lamp",
+      "url": "https://makerworld.com/en/models/190387?from=search#profileId-212894"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Cozy Minecraft Lantern",
+      "url": "https://makerworld.com/en/models/161106?from=search#profileId-176775"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Japanese Kumiko Large Lamp LED KIT",
+      "url": "https://makerworld.com/en/models/246236-japanese-kumiko-lamp-large-led-kit-001-foxwood#profileId-262598"
+    },
+    {
+      "kind": "makerworld",
+      "title": "BellSprout Lamp LED Kit",
+      "url": "https://makerworld.com/en/models/164551-bellsprout-lamp-led-kit-001#profileId-180702"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Design Lamp - The Wave",
+      "url": "https://makerworld.com/en/models/2571932-design-lamp-the-wave#profileId-2835385"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Bonsai Desk Lamp",
+      "url": "https://makerworld.com/en/models/2535327-bonsai-desk-lamp?from=search#profileId-2790695"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "41123227435068",
+    "41402220019827",
+    "41806987395208",
+    "43160606146696",
+    "43160606179464",
+    "43160606212232",
+    "43160606245000",
+    "43160606277768",
+    "44527627763875",
+    "45529562841328",
+    "47895571595612",
+    "53643890295132",
+    "53643890327900",
+    "53643890360668",
+    "53643890393436",
+    "53643890426204",
+    "545855573965479942",
+    "545855573965479946",
+    "545855573965479950",
+    "545855573965479954",
+    "545855573965479958",
+    "545857735459418118",
+    "545857735459418122",
+    "545857735459418126",
+    "545857735459418130",
+    "545857735459418134",
+    "545858943195983873",
+    "545858943195983877",
+    "545858943195983881",
+    "545858943195983885",
+    "545858943195983889",
+    "545860607514902534",
+    "545860607514902538",
+    "545860607514902542",
+    "545860607514902546",
+    "545860607514902550",
+    "598265646442762240",
+    "598265646442762244",
+    "598267643441983488",
+    "598267643441983492",
+    "598268212886724611",
+    "598268212886724615",
+    "598268617400496131",
+    "598268617400496135",
+    "598268936981520387",
+    "598268936981520391",
+    "598269614670675968",
+    "598269614670675972",
+    "708914361034727425",
+    "736786448780759042",
+    "736824380949606400",
+    "736825096429588482",
+    "736825174373875713",
+    "736825244340768770",
+    "736825343390838786",
+    "751643699066720258",
+    "751656509748203522",
+    "751656579310604290",
+    "751656641394053121",
+    "751656698833707010",
+    "751656775701196802"
+  ],
+  "source_tables": [
+    {
+      "caption": "Overview",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=41806987395208"
+      },
+      "rows": [
+        [
+          "Compatible Models",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "LED Lamp",
+          "Lin and Gleason (Bambu Lab)",
+          "LED Lamp"
+        ],
+        [
+          "Arc Reactor MK1",
+          "Mc2.project3D",
+          "Arc Reactor MK1"
+        ],
+        [
+          "Moon Globe for LED Lamp 001",
+          "TBone_427120",
+          "Moon Globe for LED Lamp 001"
+        ],
+        [
+          "lampshade for LED Lamp Kit",
+          "wuguigui",
+          "lampshade for LED Lamp Kit"
+        ],
+        [
+          "Easter Bunny Egg Lamp",
+          "NUKDDD",
+          "Easter Bunny Egg Lamp"
+        ],
+        [
+          "Cozy Minecraft Lantern",
+          "Sakul",
+          "Cozy Minecraft Lantern"
+        ],
+        [
+          "Japanese Kumiko Large Lamp LED KIT",
+          "Foxwood",
+          "Japanese Kumiko Large Lamp LED KIT"
+        ],
+        [
+          "BellSprout Lamp LED Kit",
+          "SavageLau",
+          "BellSprout Lamp LED Kit"
+        ],
+        [
+          "Design Lamp - The Wave",
+          "SJANBERRY DESIGN",
+          "Design Lamp - The Wave"
+        ],
+        [
+          "Bonsai Desk Lamp",
+          "3dpaintlab",
+          "Bonsai Desk Lamp"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=41806987395208"
+      },
+      "rows": [
+        [
+          "Product Size",
+          "D59*H8 mm",
+          "Packaging Size",
+          "100*69*35 mm"
+        ],
+        [
+          "Product Weight",
+          "58 g",
+          "Gross Weight",
+          "72 g"
+        ],
+        [
+          "Voltage",
+          "DC 5V",
+          "Power",
+          "3W"
+        ],
+        [
+          "Cable Length",
+          "1.5 m",
+          "Color Temperature",
+          "Warm White"
+        ]
+      ]
+    },
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=41806987395208"
+      },
+      "rows": [
+        [
+          "1",
+          "LED Lamp",
+          "1"
+        ],
+        [
+          "2",
+          "BT3x12 FHCS Self Tapping Screw",
+          "2"
+        ],
+        [
+          "3",
+          "D40mm Double-sided Tape",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/eb503d8d5bb548cfaf2bb7b6ccce1d38/LEDLamp_1.png",
+      "part_number": "MH001",
+      "price": "13",
+      "region": "us",
+      "sku": "41806987395208",
+      "title": "LED Lamp Kit Collection - LED Lamp Kit (1PCS) - MH001",
+      "url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=41806987395208",
+      "variant_id": "41806987395208"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/cc2ada140feb4a8bb61f58224ac42697/Frame_1123861650_800x800_4d768bb7-1858-40f7-8c26-03505d66fc30.webp",
+      "part_number": "HK001",
+      "price": "13",
+      "region": "us",
+      "sku": "43160606146696",
+      "title": "LED Lamp Kit Collection - Arc Reactor MK1 for LED Lamp Kit - HK001",
+      "url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=43160606146696",
+      "variant_id": "43160606146696"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/4909a767b2cf4030b1179525cad00177/TREE2_800x800_10e66b9e-f0e0-45f9-ae55-0a7e5757e98e.webp",
+      "part_number": "HK002",
+      "price": "13",
+      "region": "us",
+      "sku": "43160606179464",
+      "title": "LED Lamp Kit Collection - Moon Globe for LED Lamp Kit - HK002",
+      "url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=43160606179464",
+      "variant_id": "43160606179464"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/35cdcedd70294c93bd75b18ae820e535/Frame_1123861647_800x800_002736d3-5a6b-49d1-9346-8e19fb0e73a7.webp",
+      "part_number": "HK003",
+      "price": "13",
+      "region": "us",
+      "sku": "43160606212232",
+      "title": "LED Lamp Kit Collection - Lampshade for LED Lamp Kit - HK003",
+      "url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=43160606212232",
+      "variant_id": "43160606212232"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/fa96405fa81c4241bdcb3f70c426ac8a/Frame_1123861648_800x800_733c7ae6-9166-4e90-9fe9-d79965f58136.webp",
+      "part_number": "HK004",
+      "price": "13",
+      "region": "us",
+      "sku": "43160606245000",
+      "title": "LED Lamp Kit Collection - Easter Bunny Egg Lamp for LED Lamp Kit - HK004",
+      "url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=43160606245000",
+      "variant_id": "43160606245000"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/e2914016f26e4e5daf8b527f0f57a30b/MC_800x800_7a5b2967-cc1f-41e7-9547-5df597cca625.webp",
+      "part_number": "HK005",
+      "price": "13",
+      "region": "us",
+      "sku": "43160606277768",
+      "title": "LED Lamp Kit Collection - Cozy Minecraft Lantern for LED Lamp Kit - HK005",
+      "url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=43160606277768",
+      "variant_id": "43160606277768"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/85d4613a30c042a4b900cc636046bf61/B-ZH068.png",
+      "part_number": "ZH068",
+      "price": "13",
+      "region": "us",
+      "sku": "598268936981520387",
+      "title": "LED Lamp Kit Collection - Japanese Kumiko Large Lamp for LED Kit - ZH068",
+      "url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=598268936981520387",
+      "variant_id": "598268936981520387"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/7a6ef8dc98014cc099f4e1332d9d692f/B-ZH069.png",
+      "part_number": "ZH069",
+      "price": "13",
+      "region": "us",
+      "sku": "598268936981520391",
+      "title": "LED Lamp Kit Collection - BellSprout Lamp for LED Kit - ZH069",
+      "url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=598268936981520391",
+      "variant_id": "598268936981520391"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/c59ca77e045345d68216cdfa4eafea59/B-ZH145.png",
+      "part_number": "ZH145",
+      "price": "13",
+      "region": "us",
+      "sku": "736825343390838786",
+      "title": "LED Lamp Kit Collection - Design Lamp - The Wave - ZH145",
+      "url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=736825343390838786",
+      "variant_id": "736825343390838786"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/df381424c177476f95c1e539641a1d4b/B-ZH161.png",
+      "part_number": "ZH161",
+      "price": "13",
+      "region": "us",
+      "sku": "751656698833707010",
+      "title": "LED Lamp Kit Collection - Bonsai Desk Lamp - ZH161",
+      "url": "https://us.store.bambulab.com/products/led-lamp-kit-001?id=751656698833707010",
+      "variant_id": "751656698833707010"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/964cda1c55a849b79542075dc06cd43c.png",
+      "part_number": "MH001",
+      "price": "16",
+      "region": "ca",
+      "sku": "45529562841328",
+      "title": "LED Lamp Kit Collection - LED Lamp Kit (1pcs) - MH001",
+      "url": "https://ca.store.bambulab.com/products/led-lamp-kit-001?id=45529562841328",
+      "variant_id": "45529562841328"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/8529cae118494fb792deff594b6cc4e2.webp",
+      "part_number": "HK001",
+      "price": "16",
+      "region": "ca",
+      "sku": "545860607514902534",
+      "title": "LED Lamp Kit Collection - Arc Reactor MK1 for LED Lamp Kit - HK001",
+      "url": "https://ca.store.bambulab.com/products/led-lamp-kit-001?id=545860607514902534",
+      "variant_id": "545860607514902534"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/ceb81810002e41d0952370b1e785c00c.webp",
+      "part_number": "HK002",
+      "price": "16",
+      "region": "ca",
+      "sku": "545860607514902538",
+      "title": "LED Lamp Kit Collection - Moon Globe for LED Lamp Kit - HK002",
+      "url": "https://ca.store.bambulab.com/products/led-lamp-kit-001?id=545860607514902538",
+      "variant_id": "545860607514902538"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/14c6d6a8ee6b4be6a75874f9ca6b37fe.webp",
+      "part_number": "HK003",
+      "price": "16",
+      "region": "ca",
+      "sku": "545860607514902542",
+      "title": "LED Lamp Kit Collection - Lampshade for LED Lamp Kit - HK003",
+      "url": "https://ca.store.bambulab.com/products/led-lamp-kit-001?id=545860607514902542",
+      "variant_id": "545860607514902542"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/d35707550fd346eb9e1b25a50b6cbe8b.webp",
+      "part_number": "HK004",
+      "price": "16",
+      "region": "ca",
+      "sku": "545860607514902546",
+      "title": "LED Lamp Kit Collection - Easter Bunny Egg Lamp for LED Lamp Kit - HK004",
+      "url": "https://ca.store.bambulab.com/products/led-lamp-kit-001?id=545860607514902546",
+      "variant_id": "545860607514902546"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/c3e21499c6cc4ce1aabb892f38d12f8f.webp",
+      "part_number": "HK005",
+      "price": "16",
+      "region": "ca",
+      "sku": "545860607514902550",
+      "title": "LED Lamp Kit Collection - Cozy Minecraft Lantern for LED Lamp Kit - HK005",
+      "url": "https://ca.store.bambulab.com/products/led-lamp-kit-001?id=545860607514902550",
+      "variant_id": "545860607514902550"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/513e97071b924b89b8aed2d548b5a135/B-ZH068.png",
+      "part_number": "ZH068",
+      "price": "16",
+      "region": "ca",
+      "sku": "598268617400496131",
+      "title": "LED Lamp Kit Collection - Japanese Kumiko Large Lamp for LED Kit - ZH068",
+      "url": "https://ca.store.bambulab.com/products/led-lamp-kit-001?id=598268617400496131",
+      "variant_id": "598268617400496131"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/290172ac4dcf493787f0d36d173b6bcd/B-ZH069.png",
+      "part_number": "ZH069",
+      "price": "16",
+      "region": "ca",
+      "sku": "598268617400496135",
+      "title": "LED Lamp Kit Collection - BellSprout Lamp for LED Kit - ZH069",
+      "url": "https://ca.store.bambulab.com/products/led-lamp-kit-001?id=598268617400496135",
+      "variant_id": "598268617400496135"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/ff81fa9ab4054bc4bb754693cbf727fe/B-ZH145.png",
+      "part_number": "ZH145",
+      "price": "16",
+      "region": "ca",
+      "sku": "736825174373875713",
+      "title": "LED Lamp Kit Collection - Design Lamp - The Wave - ZH145",
+      "url": "https://ca.store.bambulab.com/products/led-lamp-kit-001?id=736825174373875713",
+      "variant_id": "736825174373875713"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/90a9e5e2073747f8b9f892a51c827786/B-ZH161.png",
+      "part_number": "ZH161",
+      "price": "16",
+      "region": "ca",
+      "sku": "751656579310604290",
+      "title": "LED Lamp Kit Collection - Bonsai Desk Lamp - ZH161",
+      "url": "https://ca.store.bambulab.com/products/led-lamp-kit-001?id=751656579310604290",
+      "variant_id": "751656579310604290"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/d4f5356153534982aa4e6b02098a5606/LEDLamp_1.png",
+      "part_number": "MH001",
+      "price": "13",
+      "region": "eu",
+      "sku": "47895571595612",
+      "title": "LED Lamp Kit Collection - LED Lamp Kit (1pcs) - MH001",
+      "url": "https://eu.store.bambulab.com/products/led-lamp-kit-001?id=47895571595612",
+      "variant_id": "47895571595612"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/594c2fdf7faa4314bb57a9b0dc0dbb12/Frame_1123861650_800x800_fe825946-d6c2-49c4-973b-74ca07312697.webp",
+      "part_number": "HK001",
+      "price": "13",
+      "region": "eu",
+      "sku": "53643890295132",
+      "title": "LED Lamp Kit Collection - Arc Reactor MK1 for LED Lamp Kit - HK001",
+      "url": "https://eu.store.bambulab.com/products/led-lamp-kit-001?id=53643890295132",
+      "variant_id": "53643890295132"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/20d836dd85574794a04fb568b874467a/TREE2_800x800_54d82c9b-8ee8-47eb-a69a-86a47555fb93.webp",
+      "part_number": "HK002",
+      "price": "13",
+      "region": "eu",
+      "sku": "53643890327900",
+      "title": "LED Lamp Kit Collection - Moon Globe for LED Lamp Kit - HK002",
+      "url": "https://eu.store.bambulab.com/products/led-lamp-kit-001?id=53643890327900",
+      "variant_id": "53643890327900"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/68d16e1eee73488ab6f01e0269c731e3/Frame_1123861647_800x800_c8c039d8-33d0-434d-ab54-eda4ca500aa7.webp",
+      "part_number": "HK003",
+      "price": "13",
+      "region": "eu",
+      "sku": "53643890360668",
+      "title": "LED Lamp Kit Collection - Lampshade for LED Lamp Kit - HK003",
+      "url": "https://eu.store.bambulab.com/products/led-lamp-kit-001?id=53643890360668",
+      "variant_id": "53643890360668"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/df4fd8621de34d72910c7be3db54edd9/Frame_1123861648_800x800_70e130fb-1d1b-42c3-b924-ae4df08e5504.webp",
+      "part_number": "HK004",
+      "price": "13",
+      "region": "eu",
+      "sku": "53643890393436",
+      "title": "LED Lamp Kit Collection - Easter Bunny Egg Lamp for LED Lamp Kit - HK004",
+      "url": "https://eu.store.bambulab.com/products/led-lamp-kit-001?id=53643890393436",
+      "variant_id": "53643890393436"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/61caa50c922a4fc38086e1f214b79a70/MC_800x800_b87e039e-2c6a-478e-9d4e-ae50c32314cf.webp",
+      "part_number": "HK005",
+      "price": "13",
+      "region": "eu",
+      "sku": "53643890426204",
+      "title": "LED Lamp Kit Collection - Cozy Minecraft Lantern for LED Lamp Kit - HK005",
+      "url": "https://eu.store.bambulab.com/products/led-lamp-kit-001?id=53643890426204",
+      "variant_id": "53643890426204"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/e7c7e98bb2804a819af4f7fb1771f126/B-ZH068.png",
+      "part_number": "ZH068",
+      "price": "13",
+      "region": "eu",
+      "sku": "598269614670675968",
+      "title": "LED Lamp Kit Collection - Japanese Kumiko Large Lamp for LED Kit - ZH068",
+      "url": "https://eu.store.bambulab.com/products/led-lamp-kit-001?id=598269614670675968",
+      "variant_id": "598269614670675968"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/e9571663a064464b8c7b63843f7e4f29/B-ZH069.png",
+      "part_number": "ZH069",
+      "price": "13",
+      "region": "eu",
+      "sku": "598269614670675972",
+      "title": "LED Lamp Kit Collection - BellSprout Lamp for LED Kit - ZH069",
+      "url": "https://eu.store.bambulab.com/products/led-lamp-kit-001?id=598269614670675972",
+      "variant_id": "598269614670675972"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/1b67714826cf4cfebfdb5b39a2e55153/B-ZH145.png",
+      "part_number": "ZH145",
+      "price": "13",
+      "region": "eu",
+      "sku": "736824380949606400",
+      "title": "LED Lamp Kit Collection - Design Lamp - The Wave - ZH145",
+      "url": "https://eu.store.bambulab.com/products/led-lamp-kit-001?id=736824380949606400",
+      "variant_id": "736824380949606400"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/bf9aa510c72c4efc8eafc99b835d05cd/B-ZH161.png",
+      "part_number": "ZH161",
+      "price": "13",
+      "region": "eu",
+      "sku": "751656775701196802",
+      "title": "LED Lamp Kit Collection - Bonsai Desk Lamp - ZH161",
+      "url": "https://eu.store.bambulab.com/products/led-lamp-kit-001?id=751656775701196802",
+      "variant_id": "751656775701196802"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/a7c52bd9b6d84117bfb0917b85f96602.png",
+      "part_number": "MH001",
+      "price": "11",
+      "region": "uk",
+      "sku": "41123227435068",
+      "title": "LED Lamp Kit Collection - LED Lamp Kit (1pcs) - MH001",
+      "url": "https://uk.store.bambulab.com/products/led-lamp-kit-001?id=41123227435068",
+      "variant_id": "41123227435068"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/f00aa7ce49c243fba277bad08a9181ef.webp",
+      "part_number": "HK001",
+      "price": "11",
+      "region": "uk",
+      "sku": "545858943195983873",
+      "title": "LED Lamp Kit Collection - Arc Reactor MK1 for LED Lamp Kit - HK001",
+      "url": "https://uk.store.bambulab.com/products/led-lamp-kit-001?id=545858943195983873",
+      "variant_id": "545858943195983873"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/d2a8b1d88da1487ba7642d9497002d3d.webp",
+      "part_number": "HK002",
+      "price": "11",
+      "region": "uk",
+      "sku": "545858943195983877",
+      "title": "LED Lamp Kit Collection - Moon Globe for LED Lamp Kit - HK002",
+      "url": "https://uk.store.bambulab.com/products/led-lamp-kit-001?id=545858943195983877",
+      "variant_id": "545858943195983877"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/86fdaa84ff074f889579d83ddd7c1e65.webp",
+      "part_number": "HK003",
+      "price": "11",
+      "region": "uk",
+      "sku": "545858943195983881",
+      "title": "LED Lamp Kit Collection - Lampshade for LED Lamp Kit - HK003",
+      "url": "https://uk.store.bambulab.com/products/led-lamp-kit-001?id=545858943195983881",
+      "variant_id": "545858943195983881"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/71f978c7da5e403e842e32ef8646f3db.webp",
+      "part_number": "HK004",
+      "price": "11",
+      "region": "uk",
+      "sku": "545858943195983885",
+      "title": "LED Lamp Kit Collection - Easter Bunny Egg Lamp for LED Lamp Kit - HK004",
+      "url": "https://uk.store.bambulab.com/products/led-lamp-kit-001?id=545858943195983885",
+      "variant_id": "545858943195983885"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/7bd498c94666484b9aadcc683080dcc4.webp",
+      "part_number": "HK005",
+      "price": "11",
+      "region": "uk",
+      "sku": "545858943195983889",
+      "title": "LED Lamp Kit Collection - Cozy Minecraft Lantern for LED Lamp Kit - HK005",
+      "url": "https://uk.store.bambulab.com/products/led-lamp-kit-001?id=545858943195983889",
+      "variant_id": "545858943195983889"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/64f39c1415f343b0af94cda5354d43ea/B-ZH068.png",
+      "part_number": "ZH068",
+      "price": "11",
+      "region": "uk",
+      "sku": "598268212886724611",
+      "title": "LED Lamp Kit Collection - Japanese Kumiko Large Lamp for LED Kit - ZH068",
+      "url": "https://uk.store.bambulab.com/products/led-lamp-kit-001?id=598268212886724611",
+      "variant_id": "598268212886724611"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/a565dad4b3a64da89173b1f8adbb19f8/B-ZH069.png",
+      "part_number": "ZH069",
+      "price": "11",
+      "region": "uk",
+      "sku": "598268212886724615",
+      "title": "LED Lamp Kit Collection - BellSprout Lamp for LED Kit - ZH069",
+      "url": "https://uk.store.bambulab.com/products/led-lamp-kit-001?id=598268212886724615",
+      "variant_id": "598268212886724615"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/902fb46208854bc585391c2679ab4be1/B-ZH145.png",
+      "part_number": "ZH145",
+      "price": "11",
+      "region": "uk",
+      "sku": "736825244340768770",
+      "title": "LED Lamp Kit Collection - Design Lamp - The Wave - ZH145",
+      "url": "https://uk.store.bambulab.com/products/led-lamp-kit-001?id=736825244340768770",
+      "variant_id": "736825244340768770"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/f602a0798a6247c2971d9d80e52e3e41/B-ZH161.png",
+      "part_number": "ZH161",
+      "price": "11",
+      "region": "uk",
+      "sku": "751656641394053121",
+      "title": "LED Lamp Kit Collection - Bonsai Desk Lamp - ZH161",
+      "url": "https://uk.store.bambulab.com/products/led-lamp-kit-001?id=751656641394053121",
+      "variant_id": "751656641394053121"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/31b91248a10d45a998a7b29ad406d6e1.png",
+      "part_number": "MH001",
+      "price": "20",
+      "region": "au",
+      "sku": "44527627763875",
+      "title": "LED Lamp Kit Collection - LED Lamp Kit (1pcs) - MH001",
+      "url": "https://au.store.bambulab.com/products/led-lamp-kit-001?id=44527627763875",
+      "variant_id": "44527627763875"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/d6bd86323527499d9a7dabd6f030fe58.webp",
+      "part_number": "HK001",
+      "price": "20",
+      "region": "au",
+      "sku": "545857735459418118",
+      "title": "LED Lamp Kit Collection - Arc Reactor MK1 for LED Lamp Kit - HK001",
+      "url": "https://au.store.bambulab.com/products/led-lamp-kit-001?id=545857735459418118",
+      "variant_id": "545857735459418118"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/2b628157be9e408bbe8ff4bb3cbf223c.webp",
+      "part_number": "HK002",
+      "price": "20",
+      "region": "au",
+      "sku": "545857735459418122",
+      "title": "LED Lamp Kit Collection - Moon Globe for LED Lamp Kit - HK002",
+      "url": "https://au.store.bambulab.com/products/led-lamp-kit-001?id=545857735459418122",
+      "variant_id": "545857735459418122"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/01dfd4805efe44cabd94794f3170a7b5.webp",
+      "part_number": "HK003",
+      "price": "20",
+      "region": "au",
+      "sku": "545857735459418126",
+      "title": "LED Lamp Kit Collection - Lampshade for LED Lamp Kit - HK003",
+      "url": "https://au.store.bambulab.com/products/led-lamp-kit-001?id=545857735459418126",
+      "variant_id": "545857735459418126"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/282f68b19e18434386c434542da2e363.webp",
+      "part_number": "HK004",
+      "price": "20",
+      "region": "au",
+      "sku": "545857735459418130",
+      "title": "LED Lamp Kit Collection - Easter Bunny Egg Lamp for LED Lamp Kit - HK004",
+      "url": "https://au.store.bambulab.com/products/led-lamp-kit-001?id=545857735459418130",
+      "variant_id": "545857735459418130"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/7c4214406c3047f983f646b09296d322.webp",
+      "part_number": "HK005",
+      "price": "20",
+      "region": "au",
+      "sku": "545857735459418134",
+      "title": "LED Lamp Kit Collection - Cozy Minecraft Lantern for LED Lamp Kit - HK005",
+      "url": "https://au.store.bambulab.com/products/led-lamp-kit-001?id=545857735459418134",
+      "variant_id": "545857735459418134"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/a9422577c1844f65831618fa1ff95672/B-ZH068.png",
+      "part_number": "ZH068",
+      "price": "20",
+      "region": "au",
+      "sku": "598267643441983488",
+      "title": "LED Lamp Kit Collection - Japanese Kumiko Large Lamp for LED Kit - ZH068",
+      "url": "https://au.store.bambulab.com/products/led-lamp-kit-001?id=598267643441983488",
+      "variant_id": "598267643441983488"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/316207e754914ce2a165512b95c2e5a9/B-ZH069.png",
+      "part_number": "ZH069",
+      "price": "20",
+      "region": "au",
+      "sku": "598267643441983492",
+      "title": "LED Lamp Kit Collection - BellSprout Lamp for LED Kit - ZH069",
+      "url": "https://au.store.bambulab.com/products/led-lamp-kit-001?id=598267643441983492",
+      "variant_id": "598267643441983492"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/f50801699f834162800fc27b6ef74c89/B-ZH145.png",
+      "part_number": "ZH145",
+      "price": "20",
+      "region": "au",
+      "sku": "736825096429588482",
+      "title": "LED Lamp Kit Collection - Design Lamp - The Wave - ZH145",
+      "url": "https://au.store.bambulab.com/products/led-lamp-kit-001?id=736825096429588482",
+      "variant_id": "736825096429588482"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/d49cf6d5a568413a852904a53eff8c37/B-ZH161.png",
+      "part_number": "ZH161",
+      "price": "20",
+      "region": "au",
+      "sku": "751656509748203522",
+      "title": "LED Lamp Kit Collection - Bonsai Desk Lamp - ZH161",
+      "url": "https://au.store.bambulab.com/products/led-lamp-kit-001?id=751656509748203522",
+      "variant_id": "751656509748203522"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "image_url": "https://store.bblcdn.com/s6/default/3aaf8d45831f41dc9877503360e3b192/LEDLamp.png",
+      "price": "1980",
+      "region": "jp",
+      "sku": "708914361034727425",
+      "title": "LEDランプキット001 - スタンダード",
+      "url": "https://jp.store.bambulab.com/products/led-lamp-kit-001?id=708914361034727425",
+      "variant_id": "708914361034727425"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494435206008295424.png",
+      "part_number": "MH001",
+      "price": "12",
+      "region": "asia",
+      "sku": "41402220019827",
+      "title": "LED Lamp Kit Collection - LED Lamp Kit (1pcs) - MH001",
+      "url": "https://asia.store.bambulab.com/products/led-lamp-kit-001?id=41402220019827",
+      "variant_id": "41402220019827"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/91f9d081fec0497087b4002bf6fa0b53.webp",
+      "part_number": "HK001",
+      "price": "12",
+      "region": "asia",
+      "sku": "545855573965479942",
+      "title": "LED Lamp Kit Collection - Arc Reactor MK1 for LED Lamp Kit - HK001",
+      "url": "https://asia.store.bambulab.com/products/led-lamp-kit-001?id=545855573965479942",
+      "variant_id": "545855573965479942"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/0b7c0cab9b664495b91ddedd9f6dd781.webp",
+      "part_number": "HK002",
+      "price": "12",
+      "region": "asia",
+      "sku": "545855573965479946",
+      "title": "LED Lamp Kit Collection - Moon Globe for LED Lamp Kit - HK002",
+      "url": "https://asia.store.bambulab.com/products/led-lamp-kit-001?id=545855573965479946",
+      "variant_id": "545855573965479946"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/5617bc7df54f48c0bfccb597a65456d7.webp",
+      "part_number": "HK003",
+      "price": "12",
+      "region": "asia",
+      "sku": "545855573965479950",
+      "title": "LED Lamp Kit Collection - Lampshade for LED Lamp Kit - HK003",
+      "url": "https://asia.store.bambulab.com/products/led-lamp-kit-001?id=545855573965479950",
+      "variant_id": "545855573965479950"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/eded16916f704cbdb426c9d072d4928a.webp",
+      "part_number": "HK004",
+      "price": "12",
+      "region": "asia",
+      "sku": "545855573965479954",
+      "title": "LED Lamp Kit Collection - Easter Bunny Egg Lamp for LED Lamp Kit - HK004",
+      "url": "https://asia.store.bambulab.com/products/led-lamp-kit-001?id=545855573965479954",
+      "variant_id": "545855573965479954"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/30656d66e69e4fc78e332031bc8c26e1.webp",
+      "part_number": "HK005",
+      "price": "12",
+      "region": "asia",
+      "sku": "545855573965479958",
+      "title": "LED Lamp Kit Collection - Cozy Minecraft Lantern for LED Lamp Kit - HK005",
+      "url": "https://asia.store.bambulab.com/products/led-lamp-kit-001?id=545855573965479958",
+      "variant_id": "545855573965479958"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/6dd003f6935f4d6bb36f59c24f2d4642/B-ZH068.png",
+      "part_number": "ZH068",
+      "price": "12",
+      "region": "asia",
+      "sku": "598265646442762240",
+      "title": "LED Lamp Kit Collection - Japanese Kumiko Large Lamp for LED Kit - ZH068",
+      "url": "https://asia.store.bambulab.com/products/led-lamp-kit-001?id=598265646442762240",
+      "variant_id": "598265646442762240"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/276c4b09b7a240b2beb2ac37b5f44f51/B-ZH069.png",
+      "part_number": "ZH069",
+      "price": "12",
+      "region": "asia",
+      "sku": "598265646442762244",
+      "title": "LED Lamp Kit Collection - BellSprout Lamp for LED Kit - ZH069",
+      "url": "https://asia.store.bambulab.com/products/led-lamp-kit-001?id=598265646442762244",
+      "variant_id": "598265646442762244"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/3234ba02a98644a9b5546cb640c0564f/B-ZH145.png",
+      "part_number": "ZH145",
+      "price": "12",
+      "region": "asia",
+      "sku": "736786448780759042",
+      "title": "LED Lamp Kit Collection - Design Lamp - The Wave - ZH145",
+      "url": "https://asia.store.bambulab.com/products/led-lamp-kit-001?id=736786448780759042",
+      "variant_id": "736786448780759042"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/dd85ec00816f429d853320d053296075/B-ZH161.png",
+      "part_number": "ZH161",
+      "price": "12",
+      "region": "asia",
+      "sku": "751643699066720258",
+      "title": "LED Lamp Kit Collection - Bonsai Desk Lamp - ZH161",
+      "url": "https://asia.store.bambulab.com/products/led-lamp-kit-001?id=751643699066720258",
+      "variant_id": "751643699066720258"
+    }
+  ]
+}

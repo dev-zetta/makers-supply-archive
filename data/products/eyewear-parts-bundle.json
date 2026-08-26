@@ -1,0 +1,381 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "eyewear-parts-bundle",
+      "product_id": "8255708725384",
+      "region": "us"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/f5/f5b0c734b46a03f3281d70294da47f35a8fbfa0e09bf33f29116f80aa1669f9c.png",
+      "id": "image-296d4825f34b9f539b4b",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "A01.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "f5b0c734b46a03f3281d70294da47f35a8fbfa0e09bf33f29116f80aa1669f9c",
+      "size": 971440,
+      "source_url": "https://store.bblcdn.com/s7/default/e55a43ae73d74977b9652c10f9da33f5/A01.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/82/8203f47354197707b5291e7ec56fd5fe829bd570c817e9793a24061b994ad52b.png",
+      "id": "image-bec3b30968fc24414869",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "22_111dbfed-3d8d-4a83-a379-2e60e551c1f4.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8203f47354197707b5291e7ec56fd5fe829bd570c817e9793a24061b994ad52b",
+      "size": 1183233,
+      "source_url": "https://store.bblcdn.com/s7/default/cacea3dc4ce6479485b9c435fc93242e/22_111dbfed-3d8d-4a83-a379-2e60e551c1f4.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b2/b2f3a26a45c673de765fc41c0423d247e401ef23d6dc0e9bf90ec1e9b38aca73.jpg",
+      "id": "image-0181d1c32f3f359e5d74",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "1a0131d637ff5b88f0146384e77220c1_c647fbc1-b6d2-428a-b5bc-a13ab03c9285.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b2f3a26a45c673de765fc41c0423d247e401ef23d6dc0e9bf90ec1e9b38aca73",
+      "size": 240612,
+      "source_url": "https://store.bblcdn.com/s7/default/c8e8a28f9aa6440a82ad46e680f1046e/1a0131d637ff5b88f0146384e77220c1_c647fbc1-b6d2-428a-b5bc-a13ab03c9285.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/8f/8f377d83c32fd02fc5b0947329108f840a3a0e1880cccba99affb472dbbc33fc.png",
+      "id": "image-f7980e75b2bf1b13052d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1_27b70942-5ecc-47a9-a495-efcf9642195f.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8f377d83c32fd02fc5b0947329108f840a3a0e1880cccba99affb472dbbc33fc",
+      "size": 2780379,
+      "source_url": "https://store.bblcdn.com/s7/default/303e98d4ebf34a5396203298fd8abf02/1_27b70942-5ecc-47a9-a495-efcf9642195f.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9b/9b58d83cbf0c62b287cc7d779ad358e6984aeee929345b0f3525268ca4894abb.png",
+      "id": "image-display-8c01aefc0ea271c2b717",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "f5b0c734b46a03f3281d70294da47f35a8fbfa0e09bf33f29116f80aa1669f9c",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "A01.catalog.png",
+      "parent_asset_id": "image-296d4825f34b9f539b4b",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9b58d83cbf0c62b287cc7d779ad358e6984aeee929345b0f3525268ca4894abb",
+      "size": 183773,
+      "source_url": "https://store.bblcdn.com/s7/default/e55a43ae73d74977b9652c10f9da33f5/A01.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/08/08186ac4aaf511a07b3cf62521e717d2b3dd643d689ba978a7013534c912a95a.png",
+      "id": "image-display-53d8921333b023cfe8c4",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "8203f47354197707b5291e7ec56fd5fe829bd570c817e9793a24061b994ad52b",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "22_111dbfed-3d8d-4a83-a379-2e60e551c1f4.catalog.png",
+      "parent_asset_id": "image-bec3b30968fc24414869",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "08186ac4aaf511a07b3cf62521e717d2b3dd643d689ba978a7013534c912a95a",
+      "size": 257939,
+      "source_url": "https://store.bblcdn.com/s7/default/cacea3dc4ce6479485b9c435fc93242e/22_111dbfed-3d8d-4a83-a379-2e60e551c1f4.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/34/34dab7eaf0cc673a432133230b2414bbf954625cfc72d11287ed9aecba1004b1.png",
+      "id": "image-display-156f8fc3bdf3d0028feb",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "b2f3a26a45c673de765fc41c0423d247e401ef23d6dc0e9bf90ec1e9b38aca73",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1a0131d637ff5b88f0146384e77220c1_c647fbc1-b6d2-428a-b5bc-a13ab03c9285.catalog.png",
+      "parent_asset_id": "image-0181d1c32f3f359e5d74",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "34dab7eaf0cc673a432133230b2414bbf954625cfc72d11287ed9aecba1004b1",
+      "size": 725979,
+      "source_url": "https://store.bblcdn.com/s7/default/c8e8a28f9aa6440a82ad46e680f1046e/1a0131d637ff5b88f0146384e77220c1_c647fbc1-b6d2-428a-b5bc-a13ab03c9285.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4a/4adcc3238f9a90c35437684b8f1b7ccaa0ae07f45edf336cc758fb4147bea32b.png",
+      "id": "image-display-1d79112173b46281b1e8",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1300,
+        "source_sha256": "8f377d83c32fd02fc5b0947329108f840a3a0e1880cccba99affb472dbbc33fc",
+        "source_width": 3000
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1_27b70942-5ecc-47a9-a495-efcf9642195f.catalog.png",
+      "parent_asset_id": "image-f7980e75b2bf1b13052d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4adcc3238f9a90c35437684b8f1b7ccaa0ae07f45edf336cc758fb4147bea32b",
+      "size": 218197,
+      "source_url": "https://store.bblcdn.com/s7/default/303e98d4ebf34a5396203298fd8abf02/1_27b70942-5ecc-47a9-a495-efcf9642195f.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "name": "TAC Polarized lens",
+      "quantity": "2",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "name": "M1.4-10 Screws",
+      "quantity": "4",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "name": "Silicon nose pads",
+      "quantity": "4",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "4",
+      "name": "Micro fiber cleaning cloth",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "5",
+      "name": "Foldable case",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Kits & Bundles"
+  ],
+  "category_assignments": [
+    {
+      "id": "kits",
+      "label": "Kits & Bundles",
+      "path": [
+        "Kits & Bundles"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[7]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Eyewear Parts Bundle offers an innovative solution for both enthusiasts and professionals, allowing you to customize your sunglasses in your preferred colors."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This kit includes a variety of essential components, and to complete the assembly, you'll need to download the model files and 3D print the remaining parts. Create your unique personalized sunglasses with ease!"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files and obtain detailed information, please visit the Eyewear Parts Bundle A01 and Eyewear Parts Bundle A02 on Makerworld."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "heading",
+      "text": "Eyewear Parts Bundle A01"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can also use Bambu 3D Effect Sheet to unlock and customize your own Eyewear Parts."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<!-- 标题加文案加大图部分 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_ic\">\n<!-- 手机端图片 --> <img alt=\"Eyewear Parts Bundle\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/303e98d4ebf34a5396203298fd8abf02/1_27b70942-5ecc-47a9-a495-efcf9642195f.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"Eyewear Parts Bundle\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/303e98d4ebf34a5396203298fd8abf02/1_27b70942-5ecc-47a9-a495-efcf9642195f.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The <strong>Eyewear Parts Bundle</strong> offers an innovative solution for both enthusiasts and professionals, allowing you to customize your sunglasses in your preferred colors.</p>\n<p class=\"pct_p\">This kit includes a variety of essential components, and to complete the assembly, you'll need to download the <strong>model files</strong> and <strong>3D print </strong>the remaining parts. Create your unique personalized sunglasses with ease!</p>\n<p class=\"pct_p\"><br/>To download the model files and obtain detailed information, please visit the <span style=\"color: #00ae42;\"><strong><a href=\"https://makerworld.com/zh/models/536774#profileId-453715\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\">Eyewear Parts Bundle A01</a></strong> <span style=\"color: rgb(0, 0, 0);\">and</span> </span><span style=\"color: rgb(0, 174, 66);\"><strong><a href=\"https://makerworld.com/zh/models/536777#profileId-453719\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\">Eyewear Parts Bundle A02</a></strong><strong><a href=\"https://makerworld.com/zh/models/536777#profileId-453719\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\"></a></strong></span> on <strong>Makerworld</strong>.</p>\n<div class=\"pct_st-p\">\n<span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<br/>\n</div>\n</div>\n</div>\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 100%; height: 254.719px;\">\n<!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 38.0874%; height: 19.5938px;\"><strong>Compatible Models</strong></td>\n<td class=\"pct_td\" style=\"width: 18.1626%; height: 19.5938px;\">\n<strong>Creators</strong><br/>\n</td>\n<td class=\"pct_td\" style=\"width: 39.7354%; height: 19.5938px;\"><b>Model Links</b></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 38.0874%; height: 39.1875px;\">Eyewear Parts Bundle A01</td>\n<td class=\"pct_td\" style=\"width: 18.1626%; height: 39.1875px;\">3DD_</td>\n<td class=\"pct_td\" style=\"width: 39.7354%; height: 39.1875px;\">\n<a href=\"https://makerworld.com/en/models/472109#profileId-381869\" target=\"_blank\"><strong><span style=\"color: #00ae42;\"></span></strong></a><span style=\"color: rgb(0, 174, 66);\"><strong><a href=\"https://makerworld.com/zh/models/536774#profileId-453715\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\">Eyewear Parts Bundle A01</a></strong></span>\n</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 38.0874%; height: 19.5938px;\">Eyewear Parts Bundle A02</td>\n<td class=\"pct_td\" style=\"width: 18.1626%; height: 19.5938px;\">3DD_</td>\n<td class=\"pct_td\" style=\"width: 39.7354%; height: 19.5938px;\"><span style=\"color: rgb(0, 174, 66);\"><strong><a href=\"https://makerworld.com/zh/models/536777#profileId-453719\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\">Eyewear Parts Bundle A02</a></strong></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"><br/></div>\n</div>\n  </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<div class=\"pct_t-p\"><br/></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t pct_st\">Eyewear Parts Bundle A02</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_ic\">\n<!-- 手机端图片 --> <img alt=\"A02\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/180e146bb7d244e599d0ecf18cb24c4b/2_e114f373-f68f-4575-ae67-8892b88e0123.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"A02\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/180e146bb7d244e599d0ecf18cb24c4b/2_e114f373-f68f-4575-ae67-8892b88e0123.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/>\n</div>\n</div>\n</div>\n<div class=\"pct_t-p\"><br/></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t pct_st\">Eyewear Parts Bundle A01</h2>\n<p class=\"pct_p\">You can also use Bambu 3D Effect Sheet to unlock and customize your own Eyewear Parts.</p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc\" style=\"padding: 0;\">\n<!-- 不同分辨率分栏数量 pct_grad-分栏数量-设备 --> <!-- 替换下一行 -->\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile\">\n<!-- 第一条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\">\n<!-- 手机端图片 --> <img alt=\"A01\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/a7d563f28ddf4471a538be485b6f7bcd/3_459b5b1c-7a07-472b-84a8-8b7eb5673f0d.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"A01\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/a7d563f28ddf4471a538be485b6f7bcd/3_459b5b1c-7a07-472b-84a8-8b7eb5673f0d.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/>\n</div>\n</div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\">\n<!-- 手机端图片 --> <img alt=\"A01\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/f71809dcf1b94373b332bc553df36854/4_6d193089-2932-48dc-af51-75fc93f4d52c.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"A01\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/f71809dcf1b94373b332bc553df36854/4_6d193089-2932-48dc-af51-75fc93f4d52c.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/>\n</div>\n</div>\n</div>\n<!-- 标题加文案加大图部分 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t pct_st\" style=\"margin-top: 30px;\">Installation Guide</h2>\n</div>\n<div class=\"pct_t-p\"><br/></div>\n<p><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s7/default/6330168cbfcb4d89be96f3cb8295da74/f2ffbd002f1040c494562cf2a5bc13f2.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s7/default/6330168cbfcb4d89be96f3cb8295da74/f2ffbd002f1040c494562cf2a5bc13f2.mp4\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s7/default/f9041878c16948c799344a49229995fc/screenshot-20240712-170010.png\" style=\"width: 100%;\"></video><br/></p>\n</div>\n</div>\n<!-- 文案布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<!-- 第一条 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-- 文案布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h3 class=\"pct_st\">In the Box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 236.364px; width: 100.013%;\">\n<!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 24.4886px;\">\n<td class=\"pct_td\" style=\"height: 24.4886px; width: 16.6098%;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"height: 24.4886px; width: 47.978%;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"height: 24.4886px; width: 11.6402%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 30.2557px;\">\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 16.6098%;\"><strong>1</strong></td>\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 47.978%;\">TAC Polarized lens</td>\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 11.6402%;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 30.2557px;\">\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 16.6098%;\"><strong>2</strong></td>\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 47.978%;\">M1.4-10 Screws</td>\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 11.6402%;\">4</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 30.2557px;\">\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 16.6098%;\"><strong>3</strong></td>\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 47.978%;\">Silicon nose pads</td>\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 11.6402%;\">4</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 30.2557px;\">\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 16.6098%;\"><strong>4</strong></td>\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 47.978%;\">Micro fiber cleaning cloth</td>\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 11.6402%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 30.2557px;\">\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 16.6098%;\"><strong>5</strong></td>\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 47.978%;\">Foldable case</td>\n<td class=\"pct_td\" style=\"height: 30.2557px; width: 11.6402%;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<br/>\n<h3 class=\"pct_st\">Product Specifications</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\"><br/></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\">\n<!-- 表头 -->\n<tbody>\n<!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Packaging Weight</strong></td>\n<td class=\"pct_td\">0.2 kg</td>\n<td class=\"pct_td\"><strong>Packaging Size</strong></td>\n<td class=\"pct_td\">168*72*25mm</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The Eyewear Parts Bundle offers an innovative solution for both enthusiasts and professionals, allowing you to customize your sunglasses in your preferred colors.\n\nThis kit includes a variety of essential components, and to complete the assembly, you'll need to download the model files and 3D print the remaining parts. Create your unique personalized sunglasses with ease!\n\nTo download the model files and obtain detailed information, please visit the Eyewear Parts Bundle A01 and Eyewear Parts Bundle A02 on Makerworld.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nYou can also use Bambu 3D Effect Sheet to unlock and customize your own Eyewear Parts.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "eyewear-parts-bundle",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Eyewear Parts Bundle",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "23.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/eyewear-parts-bundle?skr=yes"
+    }
+  ],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Eyewear Parts Bundle A01",
+      "url": "https://makerworld.com/zh/models/536774#profileId-453715"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Eyewear Parts Bundle A02",
+      "url": "https://makerworld.com/zh/models/536777#profileId-453719"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Eyewear Parts Bundle A01",
+      "url": "https://makerworld.com/en/models/472109#profileId-381869"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42723257155720",
+    "42723257188488"
+  ],
+  "source_tables": [
+    {
+      "caption": "Overview",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/eyewear-parts-bundle?id=42723257155720"
+      },
+      "rows": [
+        [
+          "Compatible Models",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "Eyewear Parts Bundle A01",
+          "3DD_",
+          "Eyewear Parts Bundle A01"
+        ],
+        [
+          "Eyewear Parts Bundle A02",
+          "3DD_",
+          "Eyewear Parts Bundle A02"
+        ]
+      ]
+    },
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/eyewear-parts-bundle?id=42723257155720"
+      },
+      "rows": [
+        [
+          "1",
+          "TAC Polarized lens",
+          "2"
+        ],
+        [
+          "2",
+          "M1.4-10 Screws",
+          "4"
+        ],
+        [
+          "3",
+          "Silicon nose pads",
+          "4"
+        ],
+        [
+          "4",
+          "Micro fiber cleaning cloth",
+          "1"
+        ],
+        [
+          "5",
+          "Foldable case",
+          "1"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/eyewear-parts-bundle?id=42723257155720"
+      },
+      "rows": [
+        [
+          "Packaging Weight",
+          "0.2 kg",
+          "Packaging Size",
+          "168*72*25mm"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/e55a43ae73d74977b9652c10f9da33f5/A01.png",
+      "price": "23.99",
+      "region": "us",
+      "sku": "42723257155720",
+      "title": "Eyewear Parts Bundle - Eyewear Parts Bundle A01",
+      "url": "https://us.store.bambulab.com/products/eyewear-parts-bundle?id=42723257155720",
+      "variant_id": "42723257155720"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/cacea3dc4ce6479485b9c435fc93242e/22_111dbfed-3d8d-4a83-a379-2e60e551c1f4.png",
+      "price": "23.99",
+      "region": "us",
+      "sku": "42723257188488",
+      "title": "Eyewear Parts Bundle - Eyewear Parts Bundle A02",
+      "url": "https://us.store.bambulab.com/products/eyewear-parts-bundle?id=42723257188488",
+      "variant_id": "42723257188488"
+    }
+  ]
+}

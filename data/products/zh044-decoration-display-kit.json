@@ -1,0 +1,510 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "decoration-display-kit",
+      "product_id": "8421490851976",
+      "region": "us"
+    },
+    {
+      "handle": "decoration-display-kit",
+      "product_id": "9110900965616",
+      "region": "ca"
+    },
+    {
+      "handle": "decoration-display-kit",
+      "product_id": "14777707463004",
+      "region": "eu"
+    },
+    {
+      "handle": "decoration-display-kit",
+      "product_id": "536384250971181056",
+      "region": "uk"
+    },
+    {
+      "handle": "decoration-display-kit",
+      "product_id": "536384494481268736",
+      "region": "au"
+    },
+    {
+      "handle": "decoration-display-kit",
+      "product_id": "536348154136342528",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/9d/9d30f7c4bed43b7bfd680aadb491efd49450f8c25dc65019fcb21c082eee939d.png",
+      "id": "image-329b7be04920064b1808",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH044.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9d30f7c4bed43b7bfd680aadb491efd49450f8c25dc65019fcb21c082eee939d",
+      "size": 619864,
+      "source_url": "https://store.bblcdn.eu/s8/default/c468609d8aef483fa17ac026d0c1cddc/ZH044.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/04/045d64339f96ac54af4256f21d0364b3fea61a9376ddb59e946ac8ac165d9580.zip",
+      "id": "archive-e5b896294c345230a3bf",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Decoration_Display_Kit-B-ZH044_Model.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "045d64339f96ac54af4256f21d0364b3fea61a9376ddb59e946ac8ac165d9580",
+      "size": 964981,
+      "source_url": "https://store.bblcdn.com/s7/default/27605784f23f4e838c930bb0ab3665ab/Decoration_Display_Kit-B-ZH044_Model.zip"
+    },
+    {
+      "archive_member_path": "3D-Plastic Button Ornaments For Shoe Charms-B-HB001/12x10x3.5 Plastic Button Ornaments For Shoe Charms - HB001.STEP",
+      "blob_path": "data/blobs/sha256/39/39c55f63af57fef8afa0cbdf5249d9bbf9ff4bc6a5cffd3e312e9fc1244a2ee1.step",
+      "id": "model-0756ef0278c8da350c00",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "12x10x3.5 Plastic Button Ornaments For Shoe Charms - HB001.STEP",
+      "parent_asset_id": "archive-e5b896294c345230a3bf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "39c55f63af57fef8afa0cbdf5249d9bbf9ff4bc6a5cffd3e312e9fc1244a2ee1",
+      "size": 28830,
+      "source_url": "https://store.bblcdn.com/s7/default/27605784f23f4e838c930bb0ab3665ab/Decoration_Display_Kit-B-ZH044_Model.zip"
+    },
+    {
+      "archive_member_path": "3D-Plastic Button Ornaments For Shoe Charms-B-HB001/12x10x3.5 Plastic Button Ornaments For Shoe Charms - HB001.STL",
+      "blob_path": "data/blobs/sha256/04/041f8dc63e6d59a86dd9d2e27a430cd30765b09070bef40343ccec93477d16ed.stl",
+      "id": "model-28dc081a2a5851b3d2ea",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "12x10x3.5 Plastic Button Ornaments For Shoe Charms - HB001.STL",
+      "parent_asset_id": "archive-e5b896294c345230a3bf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "041f8dc63e6d59a86dd9d2e27a430cd30765b09070bef40343ccec93477d16ed",
+      "size": 96584,
+      "source_url": "https://store.bblcdn.com/s7/default/27605784f23f4e838c930bb0ab3665ab/Decoration_Display_Kit-B-ZH044_Model.zip"
+    },
+    {
+      "archive_member_path": "Stainless Steel Eye Bolt with Self-Tapping Thread-B-FC006 -FC007/1.0x4x10 mm Stainless Steel Eye Bolt with Self-Tapping Thread (20PCS) - FC006/1.0x4x10 mm Stainless Steel Eye Bolt-FC006.STEP",
+      "blob_path": "data/blobs/sha256/f3/f3f7fa064d330911d7529c45ca0159713a954f6d1988c1df5e2aad15a9646221.step",
+      "id": "model-e08449fcd5e5884b2e88",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "1.0x4x10 mm Stainless Steel Eye Bolt-FC006.STEP",
+      "parent_asset_id": "archive-e5b896294c345230a3bf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f3f7fa064d330911d7529c45ca0159713a954f6d1988c1df5e2aad15a9646221",
+      "size": 327224,
+      "source_url": "https://store.bblcdn.com/s7/default/27605784f23f4e838c930bb0ab3665ab/Decoration_Display_Kit-B-ZH044_Model.zip"
+    },
+    {
+      "archive_member_path": "Stainless Steel Eye Bolt with Self-Tapping Thread-B-FC006 -FC007/1.0x4x10 mm Stainless Steel Eye Bolt with Self-Tapping Thread (20PCS) - FC006/1.0x4x10 mm Stainless Steel Eye Bolt-FC006.STL",
+      "blob_path": "data/blobs/sha256/f2/f2f5c8f3f3ba0304bc24fc3696138bf9cadb7c78b8c7aabd217c048beb3ce8f0.stl",
+      "id": "model-2a9cf0dd46e14f600632",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "1.0x4x10 mm Stainless Steel Eye Bolt-FC006.STL",
+      "parent_asset_id": "archive-e5b896294c345230a3bf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f2f5c8f3f3ba0304bc24fc3696138bf9cadb7c78b8c7aabd217c048beb3ce8f0",
+      "size": 454484,
+      "source_url": "https://store.bblcdn.com/s7/default/27605784f23f4e838c930bb0ab3665ab/Decoration_Display_Kit-B-ZH044_Model.zip"
+    },
+    {
+      "archive_member_path": "Stainless Steel Eye Bolt with Self-Tapping Thread-B-FC006 -FC007/1.8x8.5x17 mm Stainless Steel Eye Bolt with Self-Tapping Thread (10PCS) - FC007/1.8x8.5x17 mm Stainless Steel Eye Bolt-FC007.STEP",
+      "blob_path": "data/blobs/sha256/59/59e1849d98536ed8fe664c5c3cd2a04cf1d03d314acc17ab5aac4728d61e9f4a.step",
+      "id": "model-274d97ee6a3587fb84a9",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "1.8x8.5x17 mm Stainless Steel Eye Bolt-FC007.STEP",
+      "parent_asset_id": "archive-e5b896294c345230a3bf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "59e1849d98536ed8fe664c5c3cd2a04cf1d03d314acc17ab5aac4728d61e9f4a",
+      "size": 512020,
+      "source_url": "https://store.bblcdn.com/s7/default/27605784f23f4e838c930bb0ab3665ab/Decoration_Display_Kit-B-ZH044_Model.zip"
+    },
+    {
+      "archive_member_path": "Stainless Steel Eye Bolt with Self-Tapping Thread-B-FC006 -FC007/1.8x8.5x17 mm Stainless Steel Eye Bolt with Self-Tapping Thread (10PCS) - FC007/1.8x8.5x17 mm Stainless Steel Eye Bolt-FC007.STL",
+      "blob_path": "data/blobs/sha256/65/6586321dda5ac512829e8b02e6e4e66f397ce468142a2b0ed0b84b9f07a9cb7a.stl",
+      "id": "model-9fb9a9687c9537aa84fc",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "1.8x8.5x17 mm Stainless Steel Eye Bolt-FC007.STL",
+      "parent_asset_id": "archive-e5b896294c345230a3bf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "6586321dda5ac512829e8b02e6e4e66f397ce468142a2b0ed0b84b9f07a9cb7a",
+      "size": 1367284,
+      "source_url": "https://store.bblcdn.com/s7/default/27605784f23f4e838c930bb0ab3665ab/Decoration_Display_Kit-B-ZH044_Model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ec/ec8b1241d3adfc1505eb7b65c5cda11ad6e7550e8b2bc5bb82644ed1e2d4e4d8.png",
+      "id": "image-display-a190a9654fa7bec75dd5",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9d30f7c4bed43b7bfd680aadb491efd49450f8c25dc65019fcb21c082eee939d",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH044.catalog.png",
+      "parent_asset_id": "image-329b7be04920064b1808",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ec8b1241d3adfc1505eb7b65c5cda11ad6e7550e8b2bc5bb82644ed1e2d4e4d8",
+      "size": 162739,
+      "source_url": "https://store.bblcdn.eu/s8/default/c468609d8aef483fa17ac026d0c1cddc/ZH044.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "linked_product_id": "hb001-plastic-button-ornaments-for-shoe-charms",
+      "name": "12x10x3.5 Plastic Button Ornaments For Shoe Charms (50pcs) - HB001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/plastic-button-ornaments-for-shoe-charms?_pos=1&_sid=514a84217&_ss=r&skr=yes",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "linked_product_id": "ma001-split-ring-keychain",
+      "name": "Split Ring Keychain 25mm Silver (10pcs) - MA001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/split-ring-keychain?_pos=1&_sid=725bbc77a&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "linked_product_id": "nc005-adhesive-foam-sponge-strip-roll",
+      "name": "Rectangle 25.4*100mm Dual Lock 3M SJ3550 Reclosable Fastener Mounting Tape (4pcs) - NC001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?_pos=1&_sid=0cbdeb323&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "4",
+      "linked_product_id": "cd008-round-magnetic-stickers",
+      "name": "D15x1.5 mm Round Magnet Sticker (20PCS) - CD008",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/round-magnetic-stickers?_pos=1&_sid=3c9df7dda&_ss=r&variant=42598778765448",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "5",
+      "linked_product_id": "cd001-rectangular-magnetic-stickers",
+      "name": "20x50x1.5 mm Rectangular Magnet Sticker (20PCS) - CD004",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/rectangular-magnetic-stickers?_pos=1&_sid=92bb39c77&_ss=r&variant=42598777028744",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "6",
+      "linked_product_id": "fc001-pc4-m6-pneumatic-connector-for-ptfe-tube",
+      "name": "1.0x4x10 mm Stainless Steel Eye Bolt with Self-Tapping Thread (20PCS) - FC006",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/pc4-m6-pneumatic-connector-for-ptfe-tube?_pos=1&_sid=1f1216db6&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "7",
+      "linked_product_id": "fc006-eye-bolt-with-self-tapping-thread",
+      "name": "1.8x8.5x17 mm Stainless Steel Eye Bolt with Self-Tapping Thread (10PCS) - FC007",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/eye-bolt-with-self-tapping-thread",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This Decoration & Display Kit includes Plastic Button Ornaments For Shoe Charms, Split Ring Keychains, Reclosable Fastener Mounting Tape, Magnet Stickers and Eye Bolts with Self-Tapping Threads, making it ideal for creating personalized shoe decorations, home displays, keychain customizations, and more. It offers flexible solutions for various needs. Whether for home organization, creative decoration, or personalized customization, this set opens up a world of possibilities."
+    },
+    {
+      "kind": "heading",
+      "text": "Application"
+    },
+    {
+      "kind": "bullet",
+      "text": "Plastic Button Ornaments For Shoe Charms: You can design fun 3D model accessories and attach them to the buttons, adding unique style and personalized decorations to your shoes"
+    },
+    {
+      "kind": "bullet",
+      "text": "Reclosable Fastener Mounting Tape: This can be paired with Pixel Puzzle Maker and Make My Lithophane for wall displays, creating personalized artistic decorations. Additionally, its unique mushroom-head design can be combined with the PrintMon Maker to securely hold 3D printed model, ensuring they stay in place for display on desks or in cars, preventing accidental tipping and damage to the models."
+    },
+    {
+      "kind": "bullet",
+      "text": "Split Ring Keychain: These are ideal for creating personalized keychains; creators can design various shapes, such as animals, toys, names, and more to add a personal touch to everyday keys."
+    },
+    {
+      "kind": "bullet",
+      "text": "Magnet Sticker: These stickers are ideal for designing magnetic whiteboard tools for schools, such as letters, numbers, and shapes, making it easier for interactive teaching. They can also be combined with memo clips and other practical items to create adhesive designs for convenient storage and organization. Additionally, magnetic sticker are perfect for creating magnetic chessboards and pieces, adding fun to tabletop games. They can also be used to print personalized fridge magnets, combining creative patterns with magnets to create unique home decorations."
+    },
+    {
+      "kind": "bullet",
+      "text": "Eye Bolt with Self-Tapping Thread: The ring design of the eye bolts with self-tapping thread makes them perfect for use as hooks, easily integrated into the design of hangers, racks, or other hanging items. Additionally, they can be part of personalized accessories, such as keychain charms or small decorative toys, enhancing the functionality and aesthetic of your models."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h1 class=\"pct_t\">Documentation</h1>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><br/><a href=\"https://store.bblcdn.com/s7/default/27605784f23f4e838c930bb0ab3665ab/Decoration_Display_Kit-B-ZH044_Model.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> 3D Model </a></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<p> </p>\n<h3 class=\"pct_st\" style=\"text-align: left;\">Overview</h3>\n<p></p>\n<p class=\"pct_p\"><strong>This Decoration &amp; Display Kit</strong> includes Plastic Button Ornaments For Shoe Charms, Split Ring Keychains, Reclosable Fastener Mounting Tape, Magnet Stickers and Eye Bolts with Self-Tapping Threads, making it ideal for creating personalized shoe decorations, home displays, keychain customizations, and more. It offers flexible solutions for various needs. Whether for home organization, creative decoration, or personalized customization, this set opens up a world of possibilities. </p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h3 class=\"pct_st\" style=\"text-align: left;\"></h3>\n<h3 class=\"pct_st\" style=\"text-align: left;\">Application</h3>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BjvldvnAaoycINxd2bmcCShOnbh\">\n<ul>\n<li class=\"ace-line ace-line old-record-id-BwfmdgWaBoENgux5o5mcfW39nhl\"><strong>Plastic Button Ornaments For Shoe Charms: </strong>You can design fun 3D model accessories and attach them to the buttons, adding unique style and personalized decorations to your shoes</li>\n<li class=\"ace-line ace-line old-record-id-BwfmdgWaBoENgux5o5mcfW39nhl\"><strong>Reclosable Fastener Mounting Tape: </strong>This can be paired with <span style=\"color: #00ae42;\"><strong><a href=\"https://makerworld.com/en/makerlab/pixelPuzzleMaker?from=makerlab\" style=\"color: #00ae42;\">Pixel Puzzle Maker</a></strong></span> and <a href=\"https://makerworld.com/en/makerlab/makeMyLithophane?from=makerlab\"><strong><span style=\"color: #00ae42;\">Make My Lithophane</span></strong></a> for wall displays, creating personalized artistic decorations. Additionally, its unique mushroom-head design can be combined with the<strong><a href=\"https://makerworld.com/en/makerlab/printMonMaker?from=makerlab\"> <span style=\"color: #00ae42;\">PrintMon Maker</span></a> </strong>to securely hold 3D printed model, ensuring they stay in place for display on desks or in cars, preventing accidental tipping and damage to the models.</li>\n<li class=\"ace-line ace-line old-record-id-BwfmdgWaBoENgux5o5mcfW39nhl\"><strong>Split Ring Keychain: </strong>These are ideal for creating personalized keychains; creators can design various shapes, such as animals, toys, names, and more to add a personal touch to everyday keys.</li>\n<li><strong>Magnet Sticker: </strong>These stickers are ideal for designing magnetic whiteboard tools for schools, such as letters, numbers, and shapes, making it easier for interactive teaching. They can also be combined with memo clips and other practical items to create adhesive designs for convenient storage and organization. Additionally, magnetic sticker are perfect for creating magnetic chessboards and pieces, adding fun to tabletop games. They can also be used to print personalized fridge magnets, combining creative patterns with magnets to create unique home decorations.</li>\n<li><strong>Eye Bolt with Self-Tapping Thread: </strong>The ring design of the eye bolts with self-tapping thread makes them perfect for use as hooks, easily integrated into the design of hangers, racks, or other hanging items. Additionally, they can be part of personalized accessories, such as keychain charms or small decorative toys, enhancing the functionality and aesthetic of your models.</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<p> </p>\n<h3 class=\"pct_st\" style=\"text-align: left;\">In the box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 285px; width: 100%; text-align: center; border-collapse: collapse;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><a href=\"https://us.store.bambulab.com/products/plastic-button-ornaments-for-shoe-charms?_pos=1&amp;_sid=514a84217&amp;_ss=r&amp;skr=yes\"><span style=\"color: #00ae42;\">12x10x3.5 Plastic Button Ornaments For Shoe Charms (50pcs) - HB001 </span></a></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/split-ring-keychain?_pos=1&amp;_sid=725bbc77a&amp;_ss=r\" style=\"color: #00ae42;\">Split Ring Keychain 25mm Silver (10pcs) - MA001</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 58.7812px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?_pos=1&amp;_sid=0cbdeb323&amp;_ss=r\" style=\"color: #00ae42;\">Rectangle 25.4*100mm Dual Lock 3M SJ3550 Reclosable Fastener Mounting Tape (4pcs) - NC001</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">4</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/round-magnetic-stickers?_pos=1&amp;_sid=3c9df7dda&amp;_ss=r&amp;variant=42598778765448\" style=\"color: #00ae42;\">D15x1.5 mm Round Magnet Sticker (20PCS) - CD008</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">5</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/rectangular-magnetic-stickers?_pos=1&amp;_sid=92bb39c77&amp;_ss=r&amp;variant=42598777028744\" style=\"color: #00ae42;\">20x50x1.5 mm Rectangular Magnet Sticker (20PCS) - CD004</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">6</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/pc4-m6-pneumatic-connector-for-ptfe-tube?_pos=1&amp;_sid=1f1216db6&amp;_ss=r\" style=\"color: #00ae42;\">1.0x4x10 mm Stainless Steel Eye Bolt with Self-Tapping Thread (20PCS) - FC006</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">7</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/eye-bolt-with-self-tapping-thread\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">1.8x8.5x17 mm Stainless Steel Eye Bolt with Self-Tapping Thread (10PCS) - FC007</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "This Decoration & Display Kit includes Plastic Button Ornaments For Shoe Charms, Split Ring Keychains, Reclosable Fastener Mounting Tape, Magnet Stickers and Eye Bolts with Self-Tapping Threads, making it ideal for creating personalized shoe decorations, home displays, keychain customizations, and more. It offers flexible solutions for various needs. Whether for home organization, creative decoration, or personalized customization, this set opens up a world of possibilities.\n\nPlastic Button Ornaments For Shoe Charms: You can design fun 3D model accessories and attach them to the buttons, adding unique style and personalized decorations to your shoes\n\nReclosable Fastener Mounting Tape: This can be paired with Pixel Puzzle Maker and Make My Lithophane for wall displays, creating personalized artistic decorations. Additionally, its unique mushroom-head design can be combined with the PrintMon Maker to securely hold 3D printed model, ensuring they stay in place for display on desks or in cars, preventing accidental tipping and damage to the models.\n\nSplit Ring Keychain: These are ideal for creating personalized keychains; creators can design various shapes, such as animals, toys, names, and more to add a personal touch to everyday keys.\n\nMagnet Sticker: These stickers are ideal for designing magnetic whiteboard tools for schools, such as letters, numbers, and shapes, making it easier for interactive teaching. They can also be combined with memo clips and other practical items to create adhesive designs for convenient storage and organization. Additionally, magnetic sticker are perfect for creating magnetic chessboards and pieces, adding fun to tabletop games. They can also be used to print personalized fridge magnets, combining creative patterns with magnets to create unique home decorations.\n\nEye Bolt with Self-Tapping Thread: The ring design of the eye bolts with self-tapping thread makes them perfect for use as hooks, easily integrated into the design of hangers, racks, or other hanging items. Additionally, they can be part of personalized accessories, such as keychain charms or small decorative toys, enhancing the functionality and aesthetic of your models.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh044-decoration-display-kit",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Decoration & Display Kit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.06",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/decoration-display-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "21.42",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/decoration-display-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.53",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/decoration-display-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "14.89",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/decoration-display-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "33.63",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/decoration-display-kit?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "16.92",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/decoration-display-kit?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "CD004",
+    "CD008",
+    "FC006",
+    "FC007",
+    "HB001",
+    "MA001",
+    "NC001",
+    "ZH044"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Pixel Puzzle Maker",
+      "url": "https://makerworld.com/en/makerlab/pixelPuzzleMaker?from=makerlab"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Make My Lithophane",
+      "url": "https://makerworld.com/en/makerlab/makeMyLithophane?from=makerlab"
+    },
+    {
+      "kind": "makerworld",
+      "title": "PrintMon Maker",
+      "url": "https://makerworld.com/en/makerlab/printMonMaker?from=makerlab"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "43094403514504",
+    "46817015169264",
+    "53493013447004",
+    "536348154148925442",
+    "536384250983763970",
+    "536384494489657346"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/decoration-display-kit?id=43094403514504"
+      },
+      "rows": [
+        [
+          "1",
+          "12x10x3.5 Plastic Button Ornaments For Shoe Charms (50pcs) - HB001",
+          "1"
+        ],
+        [
+          "2",
+          "Split Ring Keychain 25mm Silver (10pcs) - MA001",
+          "1"
+        ],
+        [
+          "3",
+          "Rectangle 25.4*100mm Dual Lock 3M SJ3550 Reclosable Fastener Mounting Tape (4pcs) - NC001",
+          "1"
+        ],
+        [
+          "4",
+          "D15x1.5 mm Round Magnet Sticker (20PCS) - CD008",
+          "1"
+        ],
+        [
+          "5",
+          "20x50x1.5 mm Rectangular Magnet Sticker (20PCS) - CD004",
+          "1"
+        ],
+        [
+          "6",
+          "1.0x4x10 mm Stainless Steel Eye Bolt with Self-Tapping Thread (20PCS) - FC006",
+          "1"
+        ],
+        [
+          "7",
+          "1.8x8.5x17 mm Stainless Steel Eye Bolt with Self-Tapping Thread (10PCS) - FC007",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/bcb2b9e4d2604f4994780283f869727a/ZH044.png",
+      "part_number": "ZH044",
+      "price": "17.06",
+      "region": "us",
+      "sku": "43094403514504",
+      "title": "Decoration & Display Kit - Decoration & Display Kit - ZH044",
+      "url": "https://us.store.bambulab.com/products/decoration-display-kit?id=43094403514504",
+      "variant_id": "43094403514504"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/8ca881cd10a64fa2bbca3da81f2ec1bb/ZH044.png",
+      "part_number": "ZH044",
+      "price": "21.42",
+      "region": "ca",
+      "sku": "46817015169264",
+      "title": "Decoration & Display Kit - Decoration & Display Kit - ZH044",
+      "url": "https://ca.store.bambulab.com/products/decoration-display-kit?id=46817015169264",
+      "variant_id": "46817015169264"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/c468609d8aef483fa17ac026d0c1cddc/ZH044.png",
+      "part_number": "ZH044",
+      "price": "17.53",
+      "region": "eu",
+      "sku": "53493013447004",
+      "title": "Decoration & Display Kit - Decoration & Display Kit - ZH044",
+      "url": "https://eu.store.bambulab.com/products/decoration-display-kit?id=53493013447004",
+      "variant_id": "53493013447004"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/7041822d16154590b1e5be26721f6a52/ZH044.png",
+      "part_number": "ZH044",
+      "price": "14.89",
+      "region": "uk",
+      "sku": "536384250983763970",
+      "title": "Decoration & Display Kit - Decoration & Display Kit - ZH044",
+      "url": "https://uk.store.bambulab.com/products/decoration-display-kit?id=536384250983763970",
+      "variant_id": "536384250983763970"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/e9c52057f05e4c08a64b01865822a0b3/ZH044.png",
+      "part_number": "ZH044",
+      "price": "33.63",
+      "region": "au",
+      "sku": "536384494489657346",
+      "title": "Decoration & Display Kit - Decoration & Display Kit - ZH044",
+      "url": "https://au.store.bambulab.com/products/decoration-display-kit?id=536384494489657346",
+      "variant_id": "536384494489657346"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/a4651226806e43009a165dbc8963eddd/ZH044.png",
+      "part_number": "ZH044",
+      "price": "16.92",
+      "region": "asia",
+      "sku": "536348154148925442",
+      "title": "Decoration & Display Kit - Decoration & Display Kit - ZH044",
+      "url": "https://store.bambulab.com/products/decoration-display-kit?id=536348154148925442",
+      "variant_id": "536348154148925442"
+    }
+  ]
+}

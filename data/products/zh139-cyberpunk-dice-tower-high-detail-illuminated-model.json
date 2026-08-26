@@ -1,0 +1,577 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "cyberpunk-dice-tower-high-detail-illuminated-model",
+      "product_id": "744027862623088640",
+      "region": "us"
+    },
+    {
+      "handle": "cyberpunk-dice-tower-high-detail-illuminated-model",
+      "product_id": "744027282566946816",
+      "region": "ca"
+    },
+    {
+      "handle": "cyberpunk-dice-tower-high-detail-illuminated-model",
+      "product_id": "744028065652834304",
+      "region": "eu"
+    },
+    {
+      "handle": "cyberpunk-dice-tower-high-detail-illuminated-model",
+      "product_id": "744027579506974720",
+      "region": "uk"
+    },
+    {
+      "handle": "cyberpunk-dice-tower-high-detail-illuminated-model",
+      "product_id": "744026358916243456",
+      "region": "au"
+    },
+    {
+      "handle": "cyberpunk-dice-tower-high-detail-illuminated-model",
+      "product_id": "743324808570748928",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/02/0291d0ab1cfaf3f4848222b02eadd0c259e1656a87aef2fa74b74ca4a179a300.png",
+      "id": "image-ee7464c940ddfff0a3d5",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH139.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0291d0ab1cfaf3f4848222b02eadd0c259e1656a87aef2fa74b74ca4a179a300",
+      "size": 627734,
+      "source_url": "https://store.bblcdn.eu/s4/default/6779384139024f3ca8261a25ab5e5369/B-ZH139.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/84/8471ffd9808242a13303dd1f70d38d1eba9debe4f98a7ef00d0eb4c49fa201a3.png",
+      "id": "image-ee3e3079b3a5cfb0165a",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH157_V.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8471ffd9808242a13303dd1f70d38d1eba9debe4f98a7ef00d0eb4c49fa201a3",
+      "size": 341030,
+      "source_url": "https://store.bblcdn.eu/s4/default/cbce93eb08314d9683ef3f9d44576ed3/B-ZH157_V.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/be/be0406ce6bab4afd64d4dd4417ce04e78a1526e2827724a0661f7730fc4ed879.jpg",
+      "id": "image-6b9ae1929960c017b10d",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "ZH139-pic.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "be0406ce6bab4afd64d4dd4417ce04e78a1526e2827724a0661f7730fc4ed879",
+      "size": 812684,
+      "source_url": "https://store.bblcdn.eu/s4/default/454a300dd140474a87aec1a1bad2467f/ZH139-pic.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/27/27dae45264a634aabed97d842139b47a20ae3ed4f7901b79a0e3c2b75623609e.gif",
+      "id": "image-b6610a713b2509a002e6",
+      "kind": "image",
+      "media_type": "image/gif",
+      "original_filename": "Rotation.gif",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "27dae45264a634aabed97d842139b47a20ae3ed4f7901b79a0e3c2b75623609e",
+      "size": 12893660,
+      "source_url": "https://store.bblcdn.eu/s4/default/d83449b463a74de38eba6a1936629604/Rotation.gif"
+    },
+    {
+      "blob_path": "data/blobs/sha256/36/365023ca3ed089e510ce9115f9eee7f110e2efcc409fe17a50b0c9e9b84675d1.gif",
+      "id": "image-7fd33737bdc264acb796",
+      "kind": "image",
+      "media_type": "image/gif",
+      "original_filename": "DiceRoll.gif",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "365023ca3ed089e510ce9115f9eee7f110e2efcc409fe17a50b0c9e9b84675d1",
+      "size": 18129584,
+      "source_url": "https://store.bblcdn.eu/s4/default/518462b6c0574ec2860e0911124d9c26/DiceRoll.gif"
+    },
+    {
+      "blob_path": "data/blobs/sha256/10/10ab882672b24609f90be29c4569d62d0e7760dee3aeff7ec0a5845082e2f36b.png",
+      "id": "image-display-90a526abe8fc365327d3",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "0291d0ab1cfaf3f4848222b02eadd0c259e1656a87aef2fa74b74ca4a179a300",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH139.catalog.png",
+      "parent_asset_id": "image-ee7464c940ddfff0a3d5",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "10ab882672b24609f90be29c4569d62d0e7760dee3aeff7ec0a5845082e2f36b",
+      "size": 177194,
+      "source_url": "https://store.bblcdn.eu/s4/default/6779384139024f3ca8261a25ab5e5369/B-ZH139.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/26/262c60ae75e3982d8563337c1cc344a833c8ccc970c89205b2b5b4c31274736d.png",
+      "id": "image-display-737d928a715f253a95e9",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "8471ffd9808242a13303dd1f70d38d1eba9debe4f98a7ef00d0eb4c49fa201a3",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH157_V.catalog.png",
+      "parent_asset_id": "image-ee3e3079b3a5cfb0165a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "262c60ae75e3982d8563337c1cc344a833c8ccc970c89205b2b5b4c31274736d",
+      "size": 114729,
+      "source_url": "https://store.bblcdn.eu/s4/default/cbce93eb08314d9683ef3f9d44576ed3/B-ZH157_V.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4b/4b4bc5164478426856b2732a1483ada264206e5a635567b55134e0cef2397bc9.png",
+      "id": "image-display-2b0be1178616d787c668",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "be0406ce6bab4afd64d4dd4417ce04e78a1526e2827724a0661f7730fc4ed879",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH139-pic.catalog.png",
+      "parent_asset_id": "image-6b9ae1929960c017b10d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4b4bc5164478426856b2732a1483ada264206e5a635567b55134e0cef2397bc9",
+      "size": 1112051,
+      "source_url": "https://store.bblcdn.eu/s4/default/454a300dd140474a87aec1a1bad2467f/ZH139-pic.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c4/c49c35555ee23f4136cf23ab55f5f42ba886961aa79cc502593eea4370e825ef.png",
+      "id": "image-display-485b4e641c0add0926a9",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "27dae45264a634aabed97d842139b47a20ae3ed4f7901b79a0e3c2b75623609e",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Rotation.catalog.png",
+      "parent_asset_id": "image-b6610a713b2509a002e6",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c49c35555ee23f4136cf23ab55f5f42ba886961aa79cc502593eea4370e825ef",
+      "size": 498557,
+      "source_url": "https://store.bblcdn.eu/s4/default/d83449b463a74de38eba6a1936629604/Rotation.gif"
+    },
+    {
+      "blob_path": "data/blobs/sha256/84/848571d52af62352d4848f1f8c7de3d038bc3bfbb49ba4418f895e8f3351394c.png",
+      "id": "image-display-b27055b8a6458803706c",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1256,
+        "source_sha256": "365023ca3ed089e510ce9115f9eee7f110e2efcc409fe17a50b0c9e9b84675d1",
+        "source_width": 1256
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "DiceRoll.catalog.png",
+      "parent_asset_id": "image-7fd33737bdc264acb796",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "848571d52af62352d4848f1f8c7de3d038bc3bfbb49ba4418f895e8f3351394c",
+      "size": 948330,
+      "source_url": "https://store.bblcdn.eu/s4/default/518462b6c0574ec2860e0911124d9c26/DiceRoll.gif"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Cyberpunk Dice Tower - High Detail Illuminated Model. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Cyberpunk Dice Tower - High Detail Illuminated Model on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Cyberpunk Dice Tower - High Detail Illuminated Model</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Cyberpunk Dice Tower - High Detail Illuminated Model </strong>on <a href=\"https://makerworld.com/en/models/797538-cyberpunk-dice-tower-high-detail-illuminated-model\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc\">\n<h2 class=\"pct_st\"><span style=\"font-size: 24px;\">In The Box</span></h2>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; height: 243px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 27px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 27px; text-align: center;\">Item Name</td>\n<td class=\"pct_td\" style=\"width: 20%; height: 27px; text-align: center;\">2024 version - ZH139</td>\n<td class=\"pct_td\" style=\"width: 20%; height: 27px; text-align: center;\">2026 version - ZH157</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 60%; height: 18px; text-align: left;\"><a href=\"../../../products/3030-5v-led-board-with-sh1-0-connector?id=42123305189512\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>4 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB001</b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">2</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/wire-pair-with-sh1-0?id=42122988978312\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>200mm Wire Pair with SH1.0(5PCS) - IC007</b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/power-distribution-board-pdb-4-channels\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005</b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">2</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/cob-led-strip-light?id=42799127691400\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>300x1mm COB LED Strip Light (1PCS) - KA009</b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">2</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">2</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/cob-led-strip-light?id=42645878341768\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>200x1mm COB LED Strip Light (1PCS) - KA008</b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/black-nylon-cord\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>0.6mm Black Nylon Cord 5m (1pcs) - MF001</b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/battery-case?id=42122903781512\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>AA Battery Case with PH2.0 Connector (1PCS) - IA003</b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">2</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">/</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/potentiometer-board-with-sh1-0-connector?id=42123349753992\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>Potentiometer Board with SH1.0 Connector (2PCS) - IA007</b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">/</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/sh1-0-to-dual-sh1-0-adapter-2pcs\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>SH1.0 to Dual SH1.0 Adapter (2PCS) </b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">/</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/wire-pair-with-sh1-0?id=42122968563848\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>100mm Wire Pair with SH1.0 (5PCS) - IC004</b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">/</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/self-locking-button-switch-with-sh1-0-connector?id=42123262427272\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b>Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006 </b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">/</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: left;\"><a href=\"../../../products/electric-bubble-maker-kit-01\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><b> Electric Bubble Maker Kit 01 Electric Bubble Maker Kit 01 -ZC006</b></span></a></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">/</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Cyberpunk Dice Tower - High Detail Illuminated Model. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Cyberpunk Dice Tower - High Detail Illuminated Model on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh139-cyberpunk-dice-tower-high-detail-illuminated-model",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Cyberpunk Dice Tower - High Detail Illuminated Model",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "53.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/cyberpunk-dice-tower-high-detail-illuminated-model?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "66.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/cyberpunk-dice-tower-high-detail-illuminated-model?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "57.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/cyberpunk-dice-tower-high-detail-illuminated-model?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "49.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/cyberpunk-dice-tower-high-detail-illuminated-model?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "110.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/cyberpunk-dice-tower-high-detail-illuminated-model?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "48.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/cyberpunk-dice-tower-high-detail-illuminated-model?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-ZH139",
+    "B-ZH157",
+    "IA003",
+    "IA005",
+    "IA006",
+    "IA007",
+    "IC004",
+    "IC007",
+    "KA008",
+    "KA009",
+    "KB001",
+    "MF001",
+    "ZC006",
+    "ZH139",
+    "ZH157"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Cyberpunk Dice Tower High Detail Illuminated Model",
+      "url": "https://makerworld.com/en/models/797538-cyberpunk-dice-tower-high-detail-illuminated-model"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "743324808587526146",
+    "744026358974963714",
+    "744027282583724034",
+    "744027579527946242",
+    "744027862673420290",
+    "744028065673805826",
+    "749111015469432832",
+    "749154241936621570",
+    "749155178733322242",
+    "749155813293797378",
+    "749156368960344066",
+    "749156933559599106"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Name",
+        "2024 version - ZH139",
+        "2026 version - ZH157"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=744027862673420290"
+      },
+      "rows": [
+        [
+          "4 White 3030-LED Board with SH1.0 Connector 5V (2PCS) - KB001",
+          "2",
+          "1"
+        ],
+        [
+          "200mm Wire Pair with SH1.0(5PCS) - IC007",
+          "1",
+          "1"
+        ],
+        [
+          "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+          "2",
+          "1"
+        ],
+        [
+          "300x1mm COB LED Strip Light (1PCS) - KA009",
+          "2",
+          "2"
+        ],
+        [
+          "200x1mm COB LED Strip Light (1PCS) - KA008",
+          "1",
+          "1"
+        ],
+        [
+          "0.6mm Black Nylon Cord 5m (1pcs) - MF001",
+          "1",
+          "1"
+        ],
+        [
+          "AA Battery Case with PH2.0 Connector (1PCS) - IA003",
+          "2",
+          "/"
+        ],
+        [
+          "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+          "1",
+          "/"
+        ],
+        [
+          "SH1.0 to Dual SH1.0 Adapter (2PCS)",
+          "/",
+          "1"
+        ],
+        [
+          "100mm Wire Pair with SH1.0 (5PCS) - IC004",
+          "/",
+          "1"
+        ],
+        [
+          "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+          "/",
+          "1"
+        ],
+        [
+          "Electric Bubble Maker Kit 01 Electric Bubble Maker Kit 01 -ZC006",
+          "/",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/a96b3fa5b0694af982c64ab4d59c2ce3/B-ZH139.png",
+      "part_number": "ZH139",
+      "price": "53.99",
+      "region": "us",
+      "sku": "744027862673420290",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2024 version - ZH139",
+      "url": "https://us.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=744027862673420290",
+      "variant_id": "744027862673420290"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/4d176933cf3b4ddebdeb1f690344ea49/B-ZH157_V.png",
+      "part_number": "ZH157",
+      "price": "51.99",
+      "region": "us",
+      "sku": "749156368960344066",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2026 version - ZH157",
+      "url": "https://us.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=749156368960344066",
+      "variant_id": "749156368960344066"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/57967b483bdc46cea192f4e8c8a07a8e/B-ZH139.png",
+      "part_number": "ZH139",
+      "price": "66.99",
+      "region": "ca",
+      "sku": "744027282583724034",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2024 version - ZH139",
+      "url": "https://ca.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=744027282583724034",
+      "variant_id": "744027282583724034"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/e63077fe8e964670be22ad452ab18a0f/B-ZH157_V.png",
+      "part_number": "ZH157",
+      "price": "62.99",
+      "region": "ca",
+      "sku": "749155178733322242",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2026 version - ZH157",
+      "url": "https://ca.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=749155178733322242",
+      "variant_id": "749155178733322242"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/f27cd3be5a7444e28c64ecf3a609234f/B-ZH139.png",
+      "part_number": "ZH139",
+      "price": "57.99",
+      "region": "eu",
+      "sku": "744028065673805826",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2024 version - ZH139",
+      "url": "https://eu.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=744028065673805826",
+      "variant_id": "744028065673805826"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/4cd227494f21456f8574d442dd77a128/B-ZH157_V.png",
+      "part_number": "ZH157",
+      "price": "52.99",
+      "region": "eu",
+      "sku": "749156933559599106",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2026 version - ZH157",
+      "url": "https://eu.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=749156933559599106",
+      "variant_id": "749156933559599106"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/6779384139024f3ca8261a25ab5e5369/B-ZH139.png",
+      "part_number": "ZH139",
+      "price": "49.99",
+      "region": "uk",
+      "sku": "744027579527946242",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2024 version - ZH139",
+      "url": "https://uk.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=744027579527946242",
+      "variant_id": "744027579527946242"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/cbce93eb08314d9683ef3f9d44576ed3/B-ZH157_V.png",
+      "part_number": "ZH157",
+      "price": "46.99",
+      "region": "uk",
+      "sku": "749155813293797378",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2026 version - ZH157",
+      "url": "https://uk.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=749155813293797378",
+      "variant_id": "749155813293797378"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/99e175ec4c584c9a8bbf3d10f8962d73/B-ZH139.png",
+      "part_number": "ZH139",
+      "price": "110.99",
+      "region": "au",
+      "sku": "744026358974963714",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2024 version - ZH139",
+      "url": "https://au.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=744026358974963714",
+      "variant_id": "744026358974963714"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/666548b297524ee38f3f4535c0f26267/B-ZH157_V.png",
+      "part_number": "ZH157",
+      "price": "99.99",
+      "region": "au",
+      "sku": "749154241936621570",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2026 version - ZH157",
+      "url": "https://au.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=749154241936621570",
+      "variant_id": "749154241936621570"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/2308a53391d84791a8ef9e178b29e916/B-ZH139.png",
+      "part_number": "ZH139",
+      "price": "48.99",
+      "region": "asia",
+      "sku": "743324808587526146",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2024 version - ZH139",
+      "url": "https://asia.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=743324808587526146",
+      "variant_id": "743324808587526146"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/409111eadf3d41f1848924d4ee832fc4/B-ZH157_V.png",
+      "part_number": "ZH157",
+      "price": "46.99",
+      "region": "asia",
+      "sku": "749111015469432832",
+      "title": "Cyberpunk Dice Tower - High Detail Illuminated Model - Cyberpunk Dice Tower 2026 version - ZH157",
+      "url": "https://asia.store.bambulab.com/products/cyberpunk-dice-tower-high-detail-illuminated-model?id=749111015469432832",
+      "variant_id": "749111015469432832"
+    }
+  ]
+}

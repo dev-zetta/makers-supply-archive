@@ -1,0 +1,506 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "electric-coffee-wdt-tool-kit-k013",
+      "product_id": "7854480588936",
+      "region": "us"
+    },
+    {
+      "handle": "electric-coffee-wdt-tool-kit-k013",
+      "product_id": "8538641629424",
+      "region": "ca"
+    },
+    {
+      "handle": "electric-coffee-wdt-tool-kit-k013",
+      "product_id": "8779063066972",
+      "region": "eu"
+    },
+    {
+      "handle": "electric-coffee-wdt-tool-kit-k013",
+      "product_id": "7305602039868",
+      "region": "uk"
+    },
+    {
+      "handle": "electric-coffee-wdt-tool-kit-k013",
+      "product_id": "8251639890083",
+      "region": "au"
+    },
+    {
+      "handle": "electric-coffee-wdt-tool-kit-k013",
+      "product_id": "9897334866212",
+      "region": "jp"
+    },
+    {
+      "handle": "electric-coffee-wdt-tool-kit-k013",
+      "product_id": "7428167532659",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/26/2638cbb11905523b36b54e306fa7d17407eaf9fe4e6d5f68280746f5408a80ac.png",
+      "id": "image-d16e81a1a5340346bebb",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "CP_5c1d8497-de99-4ea8-865b-8c25853eb90d.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2638cbb11905523b36b54e306fa7d17407eaf9fe4e6d5f68280746f5408a80ac",
+      "size": 1626367,
+      "source_url": "https://store.bblcdn.com/s6/default/8e508d3c0ed54c61b0fd35847e4351c3/CP_5c1d8497-de99-4ea8-865b-8c25853eb90d.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c7/c7c15ad935589b72f3a7a66137b9db996d4dffff9a1a8c913cbdbae3fcfa55da.png",
+      "id": "image-9d6f1858545102df8f79",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "CP_41946a8c-5a05-416c-8cbd-0667204abd59.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c7c15ad935589b72f3a7a66137b9db996d4dffff9a1a8c913cbdbae3fcfa55da",
+      "size": 1221787,
+      "source_url": "https://store.bblcdn.com/s6/default/bfd4dd15a0104413b471df61f4e1e084/CP_41946a8c-5a05-416c-8cbd-0667204abd59.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/07/07b8ee704519de2361f34abd111a76b6ea3285f504a876f672f250d8a60ad1ab.png",
+      "id": "image-4be398f521c4e8b59ee4",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "a4390f7fb97472a8db834b9b2fb41318.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "07b8ee704519de2361f34abd111a76b6ea3285f504a876f672f250d8a60ad1ab",
+      "size": 600325,
+      "source_url": "https://store.bblcdn.com/s6/default/d7f92a76547f4265ae1d41ff60ae7757/a4390f7fb97472a8db834b9b2fb41318.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/15/15a5695aaf16d782e1145a65ec876b6acffd98cee1cd939a71cd4419b6222e6b.png",
+      "id": "image-display-6e23344e69bc70c0a463",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "2638cbb11905523b36b54e306fa7d17407eaf9fe4e6d5f68280746f5408a80ac",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "CP_5c1d8497-de99-4ea8-865b-8c25853eb90d.catalog.png",
+      "parent_asset_id": "image-d16e81a1a5340346bebb",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "15a5695aaf16d782e1145a65ec876b6acffd98cee1cd939a71cd4419b6222e6b",
+      "size": 531634,
+      "source_url": "https://store.bblcdn.com/s6/default/8e508d3c0ed54c61b0fd35847e4351c3/CP_5c1d8497-de99-4ea8-865b-8c25853eb90d.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2b/2baf123ddc3eab043f1a391fc6ec6267597aadfaa17c7bee6676911b31f83f12.png",
+      "id": "image-display-f843f7ab68e04ed73015",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1614,
+        "source_sha256": "c7c15ad935589b72f3a7a66137b9db996d4dffff9a1a8c913cbdbae3fcfa55da",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "CP_41946a8c-5a05-416c-8cbd-0667204abd59.catalog.png",
+      "parent_asset_id": "image-9d6f1858545102df8f79",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2baf123ddc3eab043f1a391fc6ec6267597aadfaa17c7bee6676911b31f83f12",
+      "size": 259239,
+      "source_url": "https://store.bblcdn.com/s6/default/bfd4dd15a0104413b471df61f4e1e084/CP_41946a8c-5a05-416c-8cbd-0667204abd59.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/6a/6a24f4a27589c07da7d075f209bed123a2abbe4313b23620a5cf52a4ee14aa20.png",
+      "id": "image-display-6fe84fefa0b7803910a3",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "07b8ee704519de2361f34abd111a76b6ea3285f504a876f672f250d8a60ad1ab",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "a4390f7fb97472a8db834b9b2fb41318.catalog.png",
+      "parent_asset_id": "image-4be398f521c4e8b59ee4",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6a24f4a27589c07da7d075f209bed123a2abbe4313b23620a5cf52a4ee14aa20",
+      "size": 154856,
+      "source_url": "https://store.bblcdn.com/s6/default/d7f92a76547f4265ae1d41ff60ae7757/a4390f7fb97472a8db834b9b2fb41318.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "name": "LiPo Battery",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "name": "Circuit Board",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "linked_product_id": "ea001-plastic-deep-groove-ball-bearings",
+      "name": "6812 Plastic Deep Groove Ball Bearing",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "4",
+      "name": "M1.6x3 Cross Head Machine Screw",
+      "quantity": "4",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "5",
+      "name": "Set Screw",
+      "quantity": "5",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "6",
+      "name": "Gear Motor",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "7",
+      "name": "Needle",
+      "quantity": "12",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Kits & Bundles"
+  ],
+  "category_assignments": [
+    {
+      "id": "kits",
+      "label": "Kits & Bundles",
+      "path": [
+        "Kits & Bundles"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[7]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Electric Coffee WDT Tool Kit contains all the non-3D printed parts for assembling an entirely functional Electric Coffee WDT Tool. To complete the work, you need to download the model files and 3D print the parts. To download the model files and obtain detailed information, please visit the BooKoo Coffee Electric WDT on Makerworld."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "heading",
+      "text": "Note"
+    },
+    {
+      "kind": "paragraph",
+      "text": "1. The needles in the kit are made of stainless steel and have undergone strict sterilization before packaging. It is recommended to sterilize them again before use to ensure food safety. Please be careful not to get injured by the needles when installing them. 2. It is compatible with most 2-ear 58mm coffee portafilters (with ear width within 30mm)."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Overview</h3>\n<p class=\"pct_p\">The <strong>Electric Coffee WDT Tool Kit</strong> contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Electric Coffee WDT Tool</strong>. To complete the work, you need to download the model files and 3D print the parts.<br/>To download the model files and obtain detailed information, please visit the <a href=\"https://makerworld.com/models/112678\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong data-mce-fragment=\"1\">BooKoo Coffee Electric WDT</strong></span></a> on <strong>Makerworld</strong>.</p>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<br/>\n<h3 class=\"pct_st\" style=\"text-align: left;\">Note</h3>\n<p class=\"pct_p\">1. The needles in the kit are made of stainless steel and have undergone <strong>strict sterilization before packaging</strong>. It is recommended to sterilize them again before use to ensure food safety. Please be careful not to get injured by the needles when installing them.<br/>2. It is compatible with most <strong>2-ear 58mm</strong> coffee portafilters (with ear width within 30mm).<strong></strong></p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"height: 33px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 219.948px;\"><strong>Compatible Models</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 72.3785px;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 234.41px;\"><b>Model Links</b></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 14px;\">\n<td class=\"pct_td\" style=\"height: 14px; width: 219.948px;\">BooKoo Coffee Electric WDT</td>\n<td class=\"pct_td\" style=\"height: 14px; width: 72.3785px;\">Bookoo Coffee</td>\n<td class=\"pct_td\" style=\"height: 14px; width: 234.41px;\"><a href=\"https://makerworld.com/models/112678\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong>BooKoo Coffee Electric WDT</strong></span></a></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s7/default/414d4f159db94d008f69ead0a0be4057/319bd429f75746e8a638e2b9a1567de5.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s7/default/414d4f159db94d008f69ead0a0be4057/319bd429f75746e8a638e2b9a1567de5.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s7/default/e83d639e776a478f81b680855db1894d/9da8b9a7f1e7c9fdbbe7b8d9346f8596.png\" style=\"width: 100%;\" width=\"300\"><br/></video></p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Installation</h3>\n<div class=\"embed-container\"><div class=\"VideoWrapper\"><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KnmcBnk_SQo\"></iframe></div></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"><br/>\n<h3 class=\"pct_st\" style=\"text-align: left;\">In the Box</h3>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 285px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 114.774px;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 331.528px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 80.434px;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 114.774px;\"><strong>1</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 331.528px;\">LiPo Battery</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 80.434px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 114.774px;\"><strong>2</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 331.528px;\">Circuit Board</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 80.434px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 114.774px;\"><strong>3</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 331.528px;\">6812 Plastic Deep Groove Ball Bearing</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 80.434px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 114.774px;\"><strong>4</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 331.528px;\">M1.6x3 Cross Head Machine Screw</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 80.434px;\">4</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 114.774px;\"><strong>5</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 331.528px;\">Set Screw</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 80.434px;\">5</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 114.774px;\"><strong>6</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 331.528px;\">Gear Motor</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 80.434px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 114.774px;\"><strong>7</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 331.528px;\">Needle</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 80.434px;\">12</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"><br/>\n<h3 class=\"pct_st\" style=\"text-align: left;\">Product Specifications</h3>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\"></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Packaging Weight</strong></td>\n<td class=\"pct_td\">74 g</td>\n<td class=\"pct_td\"><strong>Packaging Size</strong></td>\n<td class=\"pct_td\">100*85*35 mm</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+  "description_text": "The Electric Coffee WDT Tool Kit contains all the non-3D printed parts for assembling an entirely functional Electric Coffee WDT Tool. To complete the work, you need to download the model files and 3D print the parts. To download the model files and obtain detailed information, please visit the BooKoo Coffee Electric WDT on Makerworld.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\n1. The needles in the kit are made of stainless steel and have undergone strict sterilization before packaging. It is recommended to sterilize them again before use to ensure food safety. Please be careful not to get injured by the needles when installing them. 2. It is compatible with most 2-ear 58mm coffee portafilters (with ear width within 30mm).",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "k013-electric-coffee-wdt-tool-kit-k013",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Electric Coffee WDT Tool Kit-K013",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "38",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "45",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "37",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "31",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "57",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5500",
+      "region": "jp",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://jp.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "35",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "K013"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "BooKoo Coffee Electric WDT",
+      "url": "https://makerworld.com/models/112678"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "41123087646780",
+    "41399871504499",
+    "41834158751880",
+    "44084322369699",
+    "45193745268976",
+    "47743252300124",
+    "49994763501860"
+  ],
+  "source_tables": [
+    {
+      "caption": "Note",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=41834158751880"
+      },
+      "rows": [
+        [
+          "Compatible Models",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "BooKoo Coffee Electric WDT",
+          "Bookoo Coffee",
+          "BooKoo Coffee Electric WDT"
+        ]
+      ]
+    },
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=41834158751880"
+      },
+      "rows": [
+        [
+          "1",
+          "LiPo Battery",
+          "1"
+        ],
+        [
+          "2",
+          "Circuit Board",
+          "1"
+        ],
+        [
+          "3",
+          "6812 Plastic Deep Groove Ball Bearing",
+          "1"
+        ],
+        [
+          "4",
+          "M1.6x3 Cross Head Machine Screw",
+          "4"
+        ],
+        [
+          "5",
+          "Set Screw",
+          "5"
+        ],
+        [
+          "6",
+          "Gear Motor",
+          "1"
+        ],
+        [
+          "7",
+          "Needle",
+          "12"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=41834158751880"
+      },
+      "rows": [
+        [
+          "Packaging Weight",
+          "74 g",
+          "Packaging Size",
+          "100*85*35 mm"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/42233930690a4adeb21c6f20859c7105/CP_5c1d8497-de99-4ea8-865b-8c25853eb90d.png",
+      "part_number": "K013",
+      "price": "38",
+      "region": "us",
+      "sku": "41834158751880",
+      "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
+      "url": "https://us.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=41834158751880",
+      "variant_id": "41834158751880"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/9aaa199a786b489ab43c080ecea74c1e.png",
+      "part_number": "K013",
+      "price": "45",
+      "region": "ca",
+      "sku": "45193745268976",
+      "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
+      "url": "https://ca.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=45193745268976",
+      "variant_id": "45193745268976"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/c017fe0f18c44feaa8cd1f72a779958b/CP_4c066c31-2386-47f8-bae1-b9b9e9c2e204.png",
+      "part_number": "K013",
+      "price": "37",
+      "region": "eu",
+      "sku": "47743252300124",
+      "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
+      "url": "https://eu.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=47743252300124",
+      "variant_id": "47743252300124"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/f6081d75343e4234835f2a65701f7763.png",
+      "part_number": "K013",
+      "price": "31",
+      "region": "uk",
+      "sku": "41123087646780",
+      "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
+      "url": "https://uk.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=41123087646780",
+      "variant_id": "41123087646780"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/e64b9584b9cb4861afe0277f98500350.png",
+      "part_number": "K013",
+      "price": "57",
+      "region": "au",
+      "sku": "44084322369699",
+      "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
+      "url": "https://au.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=44084322369699",
+      "variant_id": "44084322369699"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "image_url": "https://store.bblcdn.com/s6/default/8e508d3c0ed54c61b0fd35847e4351c3/CP_5c1d8497-de99-4ea8-865b-8c25853eb90d.png",
+      "part_number": "K013",
+      "price": "5500",
+      "region": "jp",
+      "sku": "49994763501860",
+      "title": "電動コーヒーWDTツールキット-K013 - 電動コーヒーWDTツールキット（×1点）-K013",
+      "url": "https://jp.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=49994763501860",
+      "variant_id": "49994763501860"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494433572612435968.png",
+      "part_number": "K013",
+      "price": "35",
+      "region": "asia",
+      "sku": "41399871504499",
+      "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
+      "url": "https://asia.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=41399871504499",
+      "variant_id": "41399871504499"
+    }
+  ]
+}

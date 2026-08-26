@@ -1,0 +1,378 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "maker-s-supply-long-nose-pliers",
+      "product_id": "725557209992646656",
+      "region": "us"
+    },
+    {
+      "handle": "maker-s-supply-long-nose-pliers",
+      "product_id": "725556825688322048",
+      "region": "ca"
+    },
+    {
+      "handle": "maker-s-supply-long-nose-pliers",
+      "product_id": "725557786571268096",
+      "region": "eu"
+    },
+    {
+      "handle": "maker-s-supply-long-nose-pliers",
+      "product_id": "725556973525016576",
+      "region": "uk"
+    },
+    {
+      "handle": "maker-s-supply-long-nose-pliers",
+      "product_id": "725556584550375424",
+      "region": "au"
+    },
+    {
+      "handle": "long-nose-pliers",
+      "product_id": "720434060632125440",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/33/3320b3c075b16b468e7c70cf79a344faf3ac1962fbddd23759769e028961fe1f.png",
+      "id": "image-4b6ee16a808c1a575aa5",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA019.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "3320b3c075b16b468e7c70cf79a344faf3ac1962fbddd23759769e028961fe1f",
+      "size": 612758,
+      "source_url": "https://store.bblcdn.eu/s4/default/b538d63b2c934f3a963d2ad2b55674c0/B-QA019.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/cc/cca655ccf4576d1f3f7d182663579a86baa0998e344f914574894a4647c657f5.png",
+      "id": "image-9d5fda7fe77e0e8ca87e",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA019-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "cca655ccf4576d1f3f7d182663579a86baa0998e344f914574894a4647c657f5",
+      "size": 924804,
+      "source_url": "https://store.bblcdn.eu/s4/default/6e778fabf294489fae0cdd3936bcd179/B-QA019-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4e/4ed5bcc679ed119280796e5fb60399fa078af936b49630bd90983b976f1a51cc.png",
+      "id": "image-display-ca4192748d8d1e0b4831",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 2400,
+        "source_sha256": "3320b3c075b16b468e7c70cf79a344faf3ac1962fbddd23759769e028961fe1f",
+        "source_width": 2400
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA019.catalog.png",
+      "parent_asset_id": "image-4b6ee16a808c1a575aa5",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4ed5bcc679ed119280796e5fb60399fa078af936b49630bd90983b976f1a51cc",
+      "size": 57725,
+      "source_url": "https://store.bblcdn.eu/s4/default/b538d63b2c934f3a963d2ad2b55674c0/B-QA019.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/1d/1d6ba1b6e979a4640ade2d116f7001b60f09c9174d52eaf8b185ea9697dcf5a4.png",
+      "id": "image-display-0bc83c2b9121010abc57",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 2400,
+        "source_sha256": "cca655ccf4576d1f3f7d182663579a86baa0998e344f914574894a4647c657f5",
+        "source_width": 2400
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA019-1.catalog.png",
+      "parent_asset_id": "image-9d5fda7fe77e0e8ca87e",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1d6ba1b6e979a4640ade2d116f7001b60f09c9174d52eaf8b185ea9697dcf5a4",
+      "size": 107661,
+      "source_url": "https://store.bblcdn.eu/s4/default/6e778fabf294489fae0cdd3936bcd179/B-QA019-1.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Tools"
+  ],
+  "category_assignments": [
+    {
+      "id": "tools",
+      "label": "Tools",
+      "path": [
+        "Tools"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[8]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Precise Grip for Small Parts and Fine Adjustments"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Small printed components, hardware, and wires can be difficult to hold securely with fingers alone. The long nose pliers provide controlled grip for positioning, adjusting, and handling small parts during assembly, wiring, and other detailed maker tasks."
+    },
+    {
+      "kind": "heading",
+      "text": "Slim Jaws for Better Access and Visibility"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The slim jaw profile makes it easier to reach into narrow spaces while maintaining visibility around the part. This is especially useful when working on compact assemblies, internal structures, or other detailed bench-side tasks that require both access and control."
+    },
+    {
+      "kind": "heading",
+      "text": "Comfortable Control for Repeated Use"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The compact form factor and spring-assisted opening make the pliers easy to handle during repeated bench-side work. This helps reduce effort while maintaining stable control over small parts and fine adjustments."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">Precise Grip for Small Parts and Fine Adjustments</h3>\n<p class=\"pct_p\">Small printed components, hardware, and wires can be difficult to hold securely with fingers alone. The long nose pliers provide controlled grip for positioning, adjusting, and handling small parts during assembly, wiring, and other detailed maker tasks.</p>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/276cb63eb7e84553bdfb362560a2c6f4/1.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/276cb63eb7e84553bdfb362560a2c6f4/1.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<!-- 卖点 2 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Slim Jaws for Better Access and Visibility</h3>\n<p class=\"pct_p\">The slim jaw profile makes it easier to reach into narrow spaces while maintaining visibility around the part. This is especially useful when working on compact assemblies, internal structures, or other detailed bench-side tasks that require both access and control.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/befe8cf62def420692d52f3392afae31/2.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/befe8cf62def420692d52f3392afae31/2.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<!-- 卖点 3 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Comfortable Control for Repeated Use</h3>\n<p class=\"pct_p\">The compact form factor and spring-assisted opening make the pliers easy to handle during repeated bench-side work. This helps reduce effort while maintaining stable control over small parts and fine adjustments.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/0eda6ae96a7d417988f77b4702bbd85d/3.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/0eda6ae96a7d417988f77b4702bbd85d/3.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<p style=\"text-align: left;\"><!--Basic Information--></p>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 60px; font-size: 24px; text-align: center;\">Basic Information</h2>\n<style>\n    .pct_hardware-tableList-t-icpc {\n        padding: '0 20px'\n    }\n\n    .pct_hardware-tableList {\n        width: 100%;\n        row-gap: 15px !important;\n        column-gap: 15px !important;\n    }\n\n    .pct_hardware-tableList .pct_ic-p {\n        overflow: hidden;\n    }\n\n    .pct_hardware-tableList .pct_st-tbc .pct_tb .pct_td {\n        border-color: #ADADAD;\n    }\n\n    @media (min-width: 640px) {\n        .pct_hardware-tableList-t-icpc {\n            padding: 0px !important\n        }\n\n        .pct_hardware-tableList {\n            width: 100%;\n            row-gap: 15px;\n            column-gap: 15px;\n        }\n\n        .pct_hardware-tableList .pct_st-tbc .pct_tb .pct_td {\n            height: 50px;\n        }\n    }\n</style>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc\" style=\"padding: 0;\">\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\"><!--左列表-->\n<div class=\"pct_ic-p\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 45%; margin-top: 0; font-weight: bold;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Tip Thickness</td>\n<td class=\"pct_td\" style=\"height: 19px;\">0.8 mm</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Jaw Length</td>\n<td class=\"pct_td\" style=\"height: 19px;\">25 mm</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">ESD Protection</td>\n<td class=\"pct_td\" style=\"height: 19px;\">Surface resistance &lt;10⁶Ω</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n<!-- 右列表-->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 45%; margin-top: 0; font-weight: bold;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Body Material</td>\n<td class=\"pct_td\" style=\"height: 19px;\">High-carbon alloy steel with nickel-plated ESD coating</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Handle Material</td>\n<td class=\"pct_td\" style=\"height: 19px;\">Anti-slip TPE grip</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Spring-Assisted Opening</td>\n<td class=\"pct_td\" style=\"height: 19px;\">Yes</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "Small printed components, hardware, and wires can be difficult to hold securely with fingers alone. The long nose pliers provide controlled grip for positioning, adjusting, and handling small parts during assembly, wiring, and other detailed maker tasks.\n\nThe slim jaw profile makes it easier to reach into narrow spaces while maintaining visibility around the part. This is especially useful when working on compact assemblies, internal structures, or other detailed bench-side tasks that require both access and control.\n\nThe compact form factor and spring-assisted opening make the pliers easy to handle during repeated bench-side work. This helps reduce effort while maintaining stable control over small parts and fine adjustments.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "b-qa019-maker-s-supply-long-nose-pliers",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "Jaw Length",
+      "numeric_value": "25",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Jaw Length",
+        "source_url": "https://us.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725557210042978306"
+      },
+      "raw_value": "25 mm",
+      "unit": "mm"
+    },
+    {
+      "label": "Tip Thickness",
+      "numeric_value": "0.8",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Tip Thickness",
+        "source_url": "https://us.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725557210042978306"
+      },
+      "raw_value": "0.8 mm",
+      "unit": "mm"
+    }
+  ],
+  "name": "Maker's Supply Long Nose Pliers",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "14.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "21.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "16.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "26.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "14.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/long-nose-pliers?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-QA019"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "720434060686651393",
+    "725556584613289986",
+    "725556825705099266",
+    "725556973583736834",
+    "725557210042978306",
+    "725557786592239618"
+  ],
+  "source_tables": [
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725557210042978306"
+      },
+      "rows": [
+        [
+          "Tip Thickness",
+          "0.8 mm"
+        ],
+        [
+          "Jaw Length",
+          "25 mm"
+        ],
+        [
+          "ESD Protection",
+          "Surface resistance <10⁶Ω"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725557210042978306"
+      },
+      "rows": [
+        [
+          "Body Material",
+          "High-carbon alloy steel with nickel-plated ESD coating"
+        ],
+        [
+          "Handle Material",
+          "Anti-slip TPE grip"
+        ],
+        [
+          "Spring-Assisted Opening",
+          "Yes"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Body Material": "High-carbon alloy steel with nickel-plated ESD coating",
+    "ESD Protection": "Surface resistance <10⁶Ω",
+    "Handle Material": "Anti-slip TPE grip",
+    "Jaw Length": "25 mm",
+    "Spring-Assisted Opening": "Yes",
+    "Tip Thickness": "0.8 mm"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/291ca34f97804ecfbaebf0d41267090e/B-QA019.png",
+      "price": "14.99",
+      "region": "us",
+      "sku": "725557210042978306",
+      "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
+      "url": "https://us.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725557210042978306",
+      "variant_id": "725557210042978306"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/1b722656eebd4cfca20dc6ef8cdf515a/B-QA019.png",
+      "price": "21.99",
+      "region": "ca",
+      "sku": "725556825705099266",
+      "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
+      "url": "https://ca.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725556825705099266",
+      "variant_id": "725556825705099266"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/0fdd1a837e434939b9d19350082fd48c/B-QA019.png",
+      "price": "16.99",
+      "region": "eu",
+      "sku": "725557786592239618",
+      "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
+      "url": "https://eu.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725557786592239618",
+      "variant_id": "725557786592239618"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/b538d63b2c934f3a963d2ad2b55674c0/B-QA019.png",
+      "price": "13.99",
+      "region": "uk",
+      "sku": "725556973583736834",
+      "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
+      "url": "https://uk.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725556973583736834",
+      "variant_id": "725556973583736834"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/553733c94ade4410ab6130b9339fc9b2/B-QA019.png",
+      "price": "26.99",
+      "region": "au",
+      "sku": "725556584613289986",
+      "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
+      "url": "https://au.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725556584613289986",
+      "variant_id": "725556584613289986"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/5df41cb7b758480aa89051cf32dd4569/B-QA019.png",
+      "price": "14.99",
+      "region": "asia",
+      "sku": "720434060686651393",
+      "title": "Long Nose Pliers - Maker's Supply Long Nose Pliers",
+      "url": "https://asia.store.bambulab.com/products/long-nose-pliers?id=720434060686651393",
+      "variant_id": "720434060686651393"
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "tec-9-disc-shooter",
+      "product_id": "8312649744520",
+      "region": "us"
+    },
+    {
+      "handle": "tec-9-disc-shooter",
+      "product_id": "8970108469488",
+      "region": "ca"
+    },
+    {
+      "handle": "tec-9-disc-shooter",
+      "product_id": "9515841880412",
+      "region": "eu"
+    },
+    {
+      "handle": "tec-9-disc-shooter",
+      "product_id": "7745512341564",
+      "region": "uk"
+    },
+    {
+      "handle": "tec-9-disc-shooter",
+      "product_id": "8560896966819",
+      "region": "au"
+    },
+    {
+      "handle": "tec-9-disc-shooter",
+      "product_id": "498373203180253184",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/1e/1e2b71443458c43f889a9c3faff1be519ad7fbd33b64dad614895ec51c8b8b81.png",
+      "id": "image-ef2863d0be78b2f31f93",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH013-QYM3D.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1e2b71443458c43f889a9c3faff1be519ad7fbd33b64dad614895ec51c8b8b81",
+      "size": 1530062,
+      "source_url": "https://store.bblcdn.com/s1/default/d2bde15b89074cdca857418fc062470b/ZH013-QYM3D.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/45/45f3dc18bb8ab80dd4e50269ad79b3e713f41f156e0bce284c5c5d8155102b03.png",
+      "id": "image-722d66e3becce7485757",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "008ce8581660477fbfa18ecbe99b5c10.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "45f3dc18bb8ab80dd4e50269ad79b3e713f41f156e0bce284c5c5d8155102b03",
+      "size": 54848,
+      "source_url": "https://store.bblcdn.com/008ce8581660477fbfa18ecbe99b5c10.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/67/6748de7d7db396a43434cde972f48b6fc59f5ef44d73b6e99fc655a5db0e6ecb.png",
+      "id": "image-8c8c66aeb18e15e2676b",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "885e8db08b354df9b12a07031e126f02.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6748de7d7db396a43434cde972f48b6fc59f5ef44d73b6e99fc655a5db0e6ecb",
+      "size": 189647,
+      "source_url": "https://store.bblcdn.com/885e8db08b354df9b12a07031e126f02.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/35/358204247840f8ac19023d51c1df7bcf48b7bed388c49104ba6035fc3d87ec89.png",
+      "id": "image-display-147fa2bbea228dc5b4b0",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "1e2b71443458c43f889a9c3faff1be519ad7fbd33b64dad614895ec51c8b8b81",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH013-QYM3D.catalog.png",
+      "parent_asset_id": "image-ef2863d0be78b2f31f93",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "358204247840f8ac19023d51c1df7bcf48b7bed388c49104ba6035fc3d87ec89",
+      "size": 370511,
+      "source_url": "https://store.bblcdn.com/s1/default/d2bde15b89074cdca857418fc062470b/ZH013-QYM3D.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b0/b082a7c2ec46ffb5fba15b16060cbfd35053c832c1ef2fed022fe952c747fdab.png",
+      "id": "image-display-cd259f517ea98d74249b",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "45f3dc18bb8ab80dd4e50269ad79b3e713f41f156e0bce284c5c5d8155102b03",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "008ce8581660477fbfa18ecbe99b5c10.catalog.png",
+      "parent_asset_id": "image-722d66e3becce7485757",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b082a7c2ec46ffb5fba15b16060cbfd35053c832c1ef2fed022fe952c747fdab",
+      "size": 47743,
+      "source_url": "https://store.bblcdn.com/008ce8581660477fbfa18ecbe99b5c10.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a8/a8cc89cea1b899d0933234093e90871e7299ff6155f99fe8ae29b2670eb37e27.png",
+      "id": "image-display-6fb6182d8c54bb1cfbdc",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "6748de7d7db396a43434cde972f48b6fc59f5ef44d73b6e99fc655a5db0e6ecb",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "885e8db08b354df9b12a07031e126f02.catalog.png",
+      "parent_asset_id": "image-8c8c66aeb18e15e2676b",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a8cc89cea1b899d0933234093e90871e7299ff6155f99fe8ae29b2670eb37e27",
+      "size": 155830,
+      "source_url": "https://store.bblcdn.com/885e8db08b354df9b12a07031e126f02.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa187-m3-flat-head-cap-machine-screws-fhcs",
+      "name": "M3x25 FHCS Machine Screw (5PCS) - AA090",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ra001-rubber-bands",
+      "name": "1.4x20mm Basic Rubber Bands (100PCS) - RA002",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ra001-rubber-bands",
+      "name": "1.4x28mm Basic Rubber Bands (100PCS) - RA003",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional T-15/ TEC-9 Disc Shooter. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of the T-15/ TEC-9 Disc Shooter and obtain detailed information, please visit the T-15/ TEC-9 Disc Shooter on MakerWorld. The creator @QYM3D has released v2.0 and a mini version of the TEC-9 Disc Shooter, which fixes multiple issues with v1.0 and enhances the user experience."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>T-15/</strong> <strong>TEC-9 Disc Shooter </strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\"></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"><span>To download the model files of the <strong>T-15/</strong> <strong>TEC-9 Disc Shooter</strong> </span><span> and obtain detailed information, please visit the <strong>T-15/</strong> <strong>TEC-9 Disc Shooter</strong> </span><span> on </span><a href=\"https://makerworld.com/en/models/828658#profileId-1102161\"><span style=\"color: #00ae42;\"><strong><u>MakerWorld</u></strong></span></a><span>. The creator<strong>@QYM3D</strong> has released<strong> v2.0</strong> and a <strong>mini version</strong> of the TEC-9 Disc Shooter, which fixes multiple issues with v1.0 and enhances the user experience.</span></div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">In the Box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"height: 95px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>M3x25 FHCS Machine Screw (5PCS) - AA090</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<p>1.4x20mm Basic Rubber Bands (100PCS) - RA002</p>\n</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\"><span>1</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<p>1.4x28mm Basic Rubber Bands (100PCS) - RA003</p>\n</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\"><span>1</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- 第五条 --></div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional T-15/ TEC-9 Disc Shooter. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the T-15/ TEC-9 Disc Shooter and obtain detailed information, please visit the T-15/ TEC-9 Disc Shooter on MakerWorld. The creator @QYM3D has released v2.0 and a mini version of the TEC-9 Disc Shooter, which fixes multiple issues with v1.0 and enhances the user experience.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh013-tec-9-disc-shooter",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "T-15/TEC-9 Disc Shooter",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.24",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.46",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.65",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.1",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.52",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA090",
+    "RA002",
+    "RA003",
+    "ZH013"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "TEC-9 Disc Shooter",
+      "url": "https://makerworld.com/en/models/828658#profileId-1102161"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42084383424572",
+    "42818628485256",
+    "45075497418915",
+    "46455685153008",
+    "49173261713756",
+    "498373203180253188"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/tec-9-disc-shooter?id=42818628485256"
+      },
+      "rows": [
+        [
+          "M3x25 FHCS Machine Screw (5PCS) - AA090",
+          "1"
+        ],
+        [
+          "1.4x20mm Basic Rubber Bands (100PCS) - RA002",
+          "1"
+        ],
+        [
+          "1.4x28mm Basic Rubber Bands (100PCS) - RA003",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/4d618edebce645e5a09a28d359ef5245/TEC-9_Disc_Shooter2.png",
+      "part_number": "ZH013",
+      "price": "4.24",
+      "region": "us",
+      "sku": "42818628485256",
+      "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
+      "url": "https://us.store.bambulab.com/products/tec-9-disc-shooter?id=42818628485256",
+      "variant_id": "42818628485256"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/5145d3bb8bbf45d297fcb55e99681b18.png",
+      "part_number": "ZH013",
+      "price": "4.46",
+      "region": "ca",
+      "sku": "46455685153008",
+      "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
+      "url": "https://ca.store.bambulab.com/products/tec-9-disc-shooter?id=46455685153008",
+      "variant_id": "46455685153008"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/bb410159fd784e1d9f376402ab0ccdf9/TEC-9_Disc_Shooter2.png",
+      "part_number": "ZH013",
+      "price": "3.65",
+      "region": "eu",
+      "sku": "49173261713756",
+      "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
+      "url": "https://eu.store.bambulab.com/products/tec-9-disc-shooter?id=49173261713756",
+      "variant_id": "49173261713756"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/3713d186bcf243399895ff1d6def7b84.png",
+      "part_number": "ZH013",
+      "price": "3.1",
+      "region": "uk",
+      "sku": "42084383424572",
+      "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
+      "url": "https://uk.store.bambulab.com/products/tec-9-disc-shooter?id=42084383424572",
+      "variant_id": "42084383424572"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/bda4ee308cc241f5885a06ba0da5fd6f.png",
+      "part_number": "ZH013",
+      "price": "7",
+      "region": "au",
+      "sku": "45075497418915",
+      "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
+      "url": "https://au.store.bambulab.com/products/tec-9-disc-shooter?id=45075497418915",
+      "variant_id": "45075497418915"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/d2bde15b89074cdca857418fc062470b/ZH013-QYM3D.png",
+      "part_number": "ZH013",
+      "price": "3.52",
+      "region": "asia",
+      "sku": "498373203180253188",
+      "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
+      "url": "https://asia.store.bambulab.com/products/tec-9-disc-shooter?id=498373203180253188",
+      "variant_id": "498373203180253188"
+    }
+  ]
+}

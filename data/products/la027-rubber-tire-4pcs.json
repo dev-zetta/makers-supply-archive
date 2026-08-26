@@ -1,0 +1,344 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "rubber-tire-4pcs",
+      "product_id": "593209120128643072",
+      "region": "us"
+    },
+    {
+      "handle": "rubber-tire-4pcs",
+      "product_id": "593209050332262400",
+      "region": "ca"
+    },
+    {
+      "handle": "rubber-tire-4pcs",
+      "product_id": "14981033460060",
+      "region": "eu"
+    },
+    {
+      "handle": "rubber-tire-4pcs",
+      "product_id": "593208929947078656",
+      "region": "uk"
+    },
+    {
+      "handle": "rubber-tire-4pcs",
+      "product_id": "593208778066026496",
+      "region": "au"
+    },
+    {
+      "handle": "rubber-tire-4pcs",
+      "product_id": "591397353969123328",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/71/7155682064ae21806e0b3381646590cb1cf4008d67610f83af3af368557b8977.png",
+      "id": "image-edd10434b2447130571d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-LA027_(2).png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7155682064ae21806e0b3381646590cb1cf4008d67610f83af3af368557b8977",
+      "size": 636526,
+      "source_url": "https://store.bblcdn.com/s2/default/8685dc5bb3724977893d1864dff15ce5/B-LA027_(2).png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/91/9118cdcbd67a27dae82726666e99ec2fb1ab84e6a2d74a106c39fc5d81478a82.png",
+      "id": "image-6295aeaeaf5f16715145",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-LA027.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9118cdcbd67a27dae82726666e99ec2fb1ab84e6a2d74a106c39fc5d81478a82",
+      "size": 806573,
+      "source_url": "https://store.bblcdn.com/s2/default/8eb6157db2b14c0fa4597a0458bc9f08/B-LA027.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f1/f1f992b825c1ea8be062fd287206da52a46ab5945ad8cfd0a12f3a66eb640812.zip",
+      "id": "archive-6a0f885cafacfa31b4b6",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "33.7x13.85mm_Rubber_Tire-LA027.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f1f992b825c1ea8be062fd287206da52a46ab5945ad8cfd0a12f3a66eb640812",
+      "size": 794129,
+      "source_url": "https://store.bblcdn.com/s1/default/6bbadb600dea4cc0a2a37e7e6adc60f1/33.7x13.85mm_Rubber_Tire-LA027.zip"
+    },
+    {
+      "archive_member_path": "Φ33.7×13.85mm Rubber Tire-LA027/Φ33.7×13.85mm Rubber Tire-LA027.stl",
+      "blob_path": "data/blobs/sha256/dc/dc57e5c8e87dd862b1a901a68b0189f3c8c28a3607289ec3ad135611b62154c0.stl",
+      "id": "model-857844ca668f12562562",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Φ33.7×13.85mm Rubber Tire-LA027.stl",
+      "parent_asset_id": "archive-6a0f885cafacfa31b4b6",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "dc57e5c8e87dd862b1a901a68b0189f3c8c28a3607289ec3ad135611b62154c0",
+      "size": 430484,
+      "source_url": "https://store.bblcdn.com/s1/default/6bbadb600dea4cc0a2a37e7e6adc60f1/33.7x13.85mm_Rubber_Tire-LA027.zip"
+    },
+    {
+      "archive_member_path": "Φ33.7×13.85mm Rubber Tire-LA027/Φ33.7×13.85mm Rubber Tire-LA027.stp",
+      "blob_path": "data/blobs/sha256/a0/a0564c4a977da41179e82e2bb8d6f2c282a59ee3f942bc078ceba36d46d7858c.stp",
+      "id": "model-08fa5af52086aae1cbd4",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Φ33.7×13.85mm Rubber Tire-LA027.stp",
+      "parent_asset_id": "archive-6a0f885cafacfa31b4b6",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a0564c4a977da41179e82e2bb8d6f2c282a59ee3f942bc078ceba36d46d7858c",
+      "size": 3163185,
+      "source_url": "https://store.bblcdn.com/s1/default/6bbadb600dea4cc0a2a37e7e6adc60f1/33.7x13.85mm_Rubber_Tire-LA027.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/36/366f6d64badb61bc253c33b1a934b09b9023e3560ecd39646c0959139e855fed.png",
+      "id": "image-display-444cade2b86b41fe1bd9",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "7155682064ae21806e0b3381646590cb1cf4008d67610f83af3af368557b8977",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-LA027_(2).catalog.png",
+      "parent_asset_id": "image-edd10434b2447130571d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "366f6d64badb61bc253c33b1a934b09b9023e3560ecd39646c0959139e855fed",
+      "size": 190098,
+      "source_url": "https://store.bblcdn.com/s2/default/8685dc5bb3724977893d1864dff15ce5/B-LA027_(2).png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/59/591f12da6d7c43b4fc6842fa1edab77e37887bde7b3225b0c6055417debbceb9.png",
+      "id": "image-display-0eacca350eb58349db93",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9118cdcbd67a27dae82726666e99ec2fb1ab84e6a2d74a106c39fc5d81478a82",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-LA027.catalog.png",
+      "parent_asset_id": "image-6295aeaeaf5f16715145",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "591f12da6d7c43b4fc6842fa1edab77e37887bde7b3225b0c6055417debbceb9",
+      "size": 204599,
+      "source_url": "https://store.bblcdn.com/s2/default/8eb6157db2b14c0fa4597a0458bc9f08/B-LA027.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Motors & Actuators"
+  ],
+  "category_assignments": [
+    {
+      "id": "motors",
+      "label": "Motors & Actuators",
+      "path": [
+        "Electronics",
+        "Motors & Actuators"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[5]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "These 33.7mm rubber tires feature a durable, realistic design and a stylish black finish, perfect for various toy models and RC cars. Their compact size allows for precise control, and easy installation makes them an ideal choice for upgrades or repairs."
+    },
+    {
+      "kind": "heading",
+      "text": "Important Notices"
+    },
+    {
+      "kind": "bullet",
+      "text": "Chemical exposure: Keep the tires away from corrosive chemicals (such as solvents or strong acids) to prevent material degradation."
+    },
+    {
+      "kind": "bullet",
+      "text": "Choking hazard: This product contains small parts. Keep out of reach of children to avoid accidental ingestion."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 30px; margin-bottom: 20px; text-align: center; font-size: 24px;\">Documentation</h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><!--3D模型--><a href=\"https://store.bblcdn.com/s1/default/6bbadb600dea4cc0a2a37e7e6adc60f1/33.7x13.85mm_Rubber_Tire-LA027.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://cdn.shopify.com/s/files/1/0611/4036/9460/files/3d.svg?v=1715161943\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <span>Solid Model</span> </a></p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<p class=\"pct_p\" style=\"text-align: center;\"><span style=\"color: #95a5a6;\"><em>*Solid Model: 3D digital models used to represent the actual dimensions and structural features.</em></span></p>\n</div>\n</div>\n<!--Introduction-->\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px; text-align: left;\">Introduction</h2>\n<!---红字文本替换---->\n<p class=\"pct_p\" style=\"text-align: left;\">These 33.7mm rubber tires feature a durable, realistic design and a stylish black finish, perfect for various toy models and RC cars. Their compact size allows for precise control, and easy installation makes them an ideal choice for upgrades or repairs.</p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 30px; margin-bottom: 20px; text-align: center; font-size: 24px;\">Important Notices</h2>\n<div class=\"pct_padding-in-mobile\">\n<ul>\n<li><strong>Chemical exposure</strong>: Keep the tires away from corrosive chemicals (such as solvents or strong acids) to prevent material degradation.</li>\n<li><strong>Choking hazard</strong>: This product contains small parts. Keep out of reach of children to avoid accidental ingestion.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "These 33.7mm rubber tires feature a durable, realistic design and a stylish black finish, perfect for various toy models and RC cars. Their compact size allows for precise control, and easy installation makes them an ideal choice for upgrades or repairs.\n\nChemical exposure: Keep the tires away from corrosive chemicals (such as solvents or strong acids) to prevent material degradation.\n\nChoking hazard: This product contains small parts. Keep out of reach of children to avoid accidental ingestion.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "la027-rubber-tire-4pcs",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Ø33.7×13.85mm Rubber Tire (4PCS)",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.19",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.69",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.89",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.09",
+      "region": "au",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://au.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.19",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-LA027",
+    "LA027"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "54410671227228",
+    "591397353985900546",
+    "593208778078609410",
+    "593208929959661570",
+    "593209050340651010",
+    "593209120141225986"
+  ],
+  "source_tables": [],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/ede9fd57110c4e118588040e841c33ab/B-LA027_(2).png",
+      "part_number": "LA027",
+      "price": "2.19",
+      "region": "us",
+      "sku": "593209120141225986",
+      "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
+      "url": "https://us.store.bambulab.com/products/rubber-tire-4pcs?id=593209120141225986",
+      "variant_id": "593209120141225986"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/14d9767c2d164eada8808eb744e6fc9d/B-LA027_(2).png",
+      "part_number": "LA027",
+      "price": "2.69",
+      "region": "ca",
+      "sku": "593209050340651010",
+      "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
+      "url": "https://ca.store.bambulab.com/products/rubber-tire-4pcs?id=593209050340651010",
+      "variant_id": "593209050340651010"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/ae636d95f73b4c1199aa02a005b9e9ab/B-LA027_1.png",
+      "price": "1.99",
+      "region": "eu",
+      "sku": "54410671227228",
+      "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS)",
+      "url": "https://eu.store.bambulab.com/products/rubber-tire-4pcs?id=54410671227228",
+      "variant_id": "54410671227228"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/bbf4716f43dd43f58b984b3464d79433/B-LA027_(2).png",
+      "part_number": "LA027",
+      "price": "1.89",
+      "region": "uk",
+      "sku": "593208929959661570",
+      "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
+      "url": "https://uk.store.bambulab.com/products/rubber-tire-4pcs?id=593208929959661570",
+      "variant_id": "593208929959661570"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/8685dc5bb3724977893d1864dff15ce5/B-LA027_(2).png",
+      "part_number": "LA027",
+      "price": "3.09",
+      "region": "au",
+      "sku": "593208778078609410",
+      "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
+      "url": "https://au.store.bambulab.com/products/rubber-tire-4pcs?id=593208778078609410",
+      "variant_id": "593208778078609410"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/abb9b9998fe24b00afbe2de07b74242c/B-LA027_(2).png",
+      "part_number": "LA027",
+      "price": "2.19",
+      "region": "asia",
+      "sku": "591397353985900546",
+      "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
+      "url": "https://asia.store.bambulab.com/products/rubber-tire-4pcs?id=591397353985900546",
+      "variant_id": "591397353985900546"
+    }
+  ]
+}

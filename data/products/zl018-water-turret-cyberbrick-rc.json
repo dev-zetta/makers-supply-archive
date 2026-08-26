@@ -1,0 +1,697 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "water-turret-cyberbrick-rc",
+      "product_id": "704120388268437504",
+      "region": "us"
+    },
+    {
+      "handle": "water-turret-cyberbrick-rc",
+      "product_id": "704177340084035584",
+      "region": "ca"
+    },
+    {
+      "handle": "water-turret-cyberbrick-rc",
+      "product_id": "704162405802037248",
+      "region": "eu"
+    },
+    {
+      "handle": "water-turret-cyberbrick-rc",
+      "product_id": "704164947505319936",
+      "region": "uk"
+    },
+    {
+      "handle": "water-turret-cyberbrick-rc",
+      "product_id": "704177798455197696",
+      "region": "au"
+    },
+    {
+      "handle": "water-turret-cyberbrick-rc",
+      "product_id": "690765776274235392",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/9d/9d3d9f764c984e5afbe3d745b64a3f5f884609bdacc72e7c5924e042f42758ba.png",
+      "id": "image-61cbe166c976eaafda1b",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123867447.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9d3d9f764c984e5afbe3d745b64a3f5f884609bdacc72e7c5924e042f42758ba",
+      "size": 3827386,
+      "source_url": "https://store.bblcdn.com/s1/default/f7050a0da33144a688bd7d4f8a32805e/Frame_1123867447.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e7/e7734aa3f790e77e5b5061342a26a0fa6d70c44f2db3046565fecbc80db71d69.png",
+      "id": "image-08705e87c87ed059cd6a",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Hero_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e7734aa3f790e77e5b5061342a26a0fa6d70c44f2db3046565fecbc80db71d69",
+      "size": 3931813,
+      "source_url": "https://store.bblcdn.com/s1/default/67147dd3500940a59a585e4defea7940/Hero_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/41/4117ec847713fb38d193d3c0f1c2fe952d8762df8427328ac180983762881c62.png",
+      "id": "image-b60cd69048bcc7a64d87",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "E_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4117ec847713fb38d193d3c0f1c2fe952d8762df8427328ac180983762881c62",
+      "size": 4592900,
+      "source_url": "https://store.bblcdn.com/s1/default/be902f3392d04174bfe5bba01454152d/E_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e2/e24ab17d86eb85fa84ea135049ac88f9860dc508ee7738693f9281dedcc8014d.png",
+      "id": "image-8a6de0a57bf0872638ac",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "wt.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e24ab17d86eb85fa84ea135049ac88f9860dc508ee7738693f9281dedcc8014d",
+      "size": 1268652,
+      "source_url": "https://store.bblcdn.com/s1/default/ed846398af534695b8fb40e394b37458/wt.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/8c/8ccba73303505e818f72c1477865acb8de75496677dcddf89ca775eef6a32650.pdf",
+      "id": "document-19c1b2a8b71785da3925",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "Water_Turret_Assembly_Instructions.pdf",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8ccba73303505e818f72c1477865acb8de75496677dcddf89ca775eef6a32650",
+      "size": 16115678,
+      "source_url": "https://store.bblcdn.com/s1/default/915205d67eb74ffcbcd056df297cba3f/Water_Turret_Assembly_Instructions.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/19/19d8badda11233f8a5043faa06672d6571137fa5809e81641c707fab527bdb03.zip",
+      "id": "archive-b6defae35fd08dedd44f",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Water_Turret.zip",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "19d8badda11233f8a5043faa06672d6571137fa5809e81641c707fab527bdb03",
+      "size": 909,
+      "source_url": "https://store.bblcdn.com/s1/default/3ec33a8ef5a941aba624c13b87b13684/Water_Turret.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/fb/fbcfbc50ab7952a397f3bffc5f754ad8aafce7d419283e8437d069dbc2941335.png",
+      "id": "image-display-892a641748e7f6ea9018",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9d3d9f764c984e5afbe3d745b64a3f5f884609bdacc72e7c5924e042f42758ba",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123867447.catalog.png",
+      "parent_asset_id": "image-61cbe166c976eaafda1b",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "fbcfbc50ab7952a397f3bffc5f754ad8aafce7d419283e8437d069dbc2941335",
+      "size": 906164,
+      "source_url": "https://store.bblcdn.com/s1/default/f7050a0da33144a688bd7d4f8a32805e/Frame_1123867447.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ec/ecba528f58a6b13c41fee1464dd12eff1351ac448495a26f9476ee2845b4f0c3.png",
+      "id": "image-display-3e6beaa984fb76668cc1",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e7734aa3f790e77e5b5061342a26a0fa6d70c44f2db3046565fecbc80db71d69",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Hero_1.catalog.png",
+      "parent_asset_id": "image-08705e87c87ed059cd6a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ecba528f58a6b13c41fee1464dd12eff1351ac448495a26f9476ee2845b4f0c3",
+      "size": 937269,
+      "source_url": "https://store.bblcdn.com/s1/default/67147dd3500940a59a585e4defea7940/Hero_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/56/561beb223ec2007ebf9c7c71c6345abbbd31932a7a4e0658e1ea00de28f6c1c3.png",
+      "id": "image-display-e6ad8257bd42b1c77070",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "4117ec847713fb38d193d3c0f1c2fe952d8762df8427328ac180983762881c62",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "E_1.catalog.png",
+      "parent_asset_id": "image-b60cd69048bcc7a64d87",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "561beb223ec2007ebf9c7c71c6345abbbd31932a7a4e0658e1ea00de28f6c1c3",
+      "size": 1203489,
+      "source_url": "https://store.bblcdn.com/s1/default/be902f3392d04174bfe5bba01454152d/E_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/94/94382f3a547e3e0bb8b717d8d213171b1049bbc6d26a1a12e89c636d16edec46.png",
+      "id": "image-display-79a7b2a1cb4897a285bc",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e24ab17d86eb85fa84ea135049ac88f9860dc508ee7738693f9281dedcc8014d",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "wt.catalog.png",
+      "parent_asset_id": "image-8a6de0a57bf0872638ac",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "94382f3a547e3e0bb8b717d8d213171b1049bbc6d26a1a12e89c636d16edec46",
+      "size": 230216,
+      "source_url": "https://store.bblcdn.com/s1/default/ed846398af534695b8fb40e394b37458/wt.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "linked_product_id": "zk003-cyberbrick-hardware-kit",
+      "name": "CyberBrick Beginner Hardware Kit (1 Car, 1 Remote)",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/cyberbrick-hardware-kit?id=573370119103848457",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "linked_product_id": "zc004-electric-water-spray-kit-01",
+      "name": "Electric Water Spray Kit 01",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/electric-water-spray-kit-01?id=622560774483795970",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "linked_product_id": "pg001-9g-servo-motor-with-clutch-protection",
+      "name": "9g Positional Digital Servo-180° (1PCS) - PG001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/9g-servo-motor-with-clutch-protection?id=505284261155450883",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "4",
+      "linked_product_id": "ea032-steel-deep-groove-ball-bearings-1",
+      "name": "6004zz Steel Deep Groove Ball Bearings (2PCS) - EA041",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/steel-deep-groove-ball-bearings-1?id=41895883571315",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "5",
+      "linked_product_id": "ea032-steel-deep-groove-ball-bearings-1",
+      "name": "6702zz Steel Deep Groove Ball Bearings (2PCS) - EA037",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/steel-deep-groove-ball-bearings-1?id=41895883407475",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "6",
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x12 SHCS Self Tapping Screw (20PCS) - AA095",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=41798748668019",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "7",
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x10 SHCS Self Tapping Screw (20PCS) - AA192",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=41798748635251",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "8",
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x6 SHCS Self Tapping Screw (20PCS) - AA093",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=41798748569715",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "9",
+      "linked_product_id": "rc003-silicone-tube",
+      "name": "3x5mm Transparent Silicone Tube 2m (1PCS) - RC021",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/silicone-tube?id=515383607146504194",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Want to be the MVP of your next outdoor party, backyard water fight, or beach day? The CyberBrick Remote-Controlled Water Turret is your go-to for instant fun. Built with CyberBrick’s innovative modular components, this fully remote-controlled turret delivers nonstop action with 360° continuous rotation, adjustable vertical aiming, and an impressive water range of up to 7.5 meters. Designed for builders and players aged 13 and up, it’s easy to assemble, durable enough for outdoor use, and guaranteed to turn any gathering into a splash-filled highlight that everyone will want a turn with."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Find all files and details on its MakerWorld Page."
+    },
+    {
+      "kind": "paragraph",
+      "text": "*For a smooth build, we recommend reviewing the assembly guide first."
+    },
+    {
+      "kind": "heading",
+      "text": "Shoot everywhere with no blind spots"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Spin the turret endlessly to cover every angle, and adjust the barrel up and down for precise targeting."
+    },
+    {
+      "kind": "heading",
+      "text": "Impressive 7.5-Meter Range"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Blast water up to 7.5 meters away, outpacing ordinary water blasters and keeping you competitive even at long distances."
+    },
+    {
+      "kind": "heading",
+      "text": "LED Firing Lights"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Lights up when you shoot, making every splash feel more exciting and fun to watch."
+    },
+    {
+      "kind": "heading",
+      "text": "2-Liter Integrated Water Tank"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This built-in tank holds up to 2 liters of water and also acts as a counterbalance for smooth, stable turret movement. Its large capacity and dense print design help ensure reliable performance during extended play."
+    },
+    {
+      "kind": "heading",
+      "text": "Hassle-Free Use"
+    },
+    {
+      "kind": "bullet",
+      "text": "Includes a custom one-handed controller design and works seamlessly with the official Bambu controller using the default configuration."
+    },
+    {
+      "kind": "bullet",
+      "text": "You can even slip the controller into your pocket for stealthy operation so no one will guess who’s behind the splashes"
+    },
+    {
+      "kind": "heading",
+      "text": "Built for Outdoor Adventures"
+    },
+    {
+      "kind": "bullet",
+      "text": "Recommended to print with Bambu PETG HF for excellent weather resistance (tested with Bambu PLA Basic too), no need to worry about normal outdoor wear."
+    },
+    {
+      "kind": "bullet",
+      "text": "Use bright, non-realistic colors as a safety-first choice to make it clear this is a toy and avoid any confusion during water play."
+    },
+    {
+      "kind": "heading",
+      "text": "Remote Control Instruction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Model is designed to work with the CyberBrick Official Remote. Pre-configured settings have been prepared for immediate play,"
+    },
+    {
+      "kind": "paragraph",
+      "text": "while the CyberBrick App allows full customization of controller functions to match your personal preferences."
+    },
+    {
+      "kind": "paragraph",
+      "text": "* Please visit the CyberBrick Official Standard Remote on Makerworld for more details."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Explore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions. Visit Wiki"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Explore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Explore the Product Wiki & Documentation"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Visit Wiki"
+    },
+    {
+      "kind": "heading",
+      "text": "Important Notices"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product."
+    },
+    {
+      "kind": "bullet",
+      "text": "Intended Users: This product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use."
+    },
+    {
+      "kind": "bullet",
+      "text": "Firmware Safety: Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty."
+    },
+    {
+      "kind": "bullet",
+      "text": "Operational Safety: Do not touch the moving tracks or wheels while the device is operating to prevent pinching injuries."
+    },
+    {
+      "kind": "bullet",
+      "text": "Battery & Charging: DO NOT use chargers with output higher than 5V or 2A, only the officially designated battery and charger must be used. Avoid exposing the battery to high temperatures or water."
+    },
+    {
+      "kind": "bullet",
+      "text": "Maintenance & Storage: Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our company is not liable for any equipment damage, failure, fire, or other loss caused by non-compliance with the above requirements."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Please strictly follow the safety instructions for this product."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p style=\"text-align: left;\">Want to be the MVP of your next outdoor party, backyard water fight, or beach day? The CyberBrick Remote-Controlled Water Turret is your go-to for instant fun. Built with CyberBrick’s innovative modular components, this fully remote-controlled turret delivers nonstop action with 360° continuous rotation, adjustable vertical aiming, and an impressive water range of up to 7.5 meters. Designed for builders and players aged 13 and up, it’s easy to assemble, durable enough for outdoor use, and guaranteed to turn any gathering into a splash-filled highlight that everyone will want a turn with.</p>\n<p style=\"text-align: left;\"><br/>Find all files and details on its <span style=\"color: #00ae42;\"><strong><a href=\"https://makerworld.com/en/models/1409374-remote-controlled-water-turret?from=search#profileId-1462873\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">MakerWorld Page</a></strong></span>.</p>\n<p></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14px;\"><em>*For a smooth build, we recommend reviewing the assembly guide first.</em></span></p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<p style=\"margin-top: 30px;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-=\"\" data-src=\"https://store.bblcdn.com/s1/default/a5fdda3ee95d4e879fe3a9b4e1f5b4bd/111.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" style=\"width: 100%;\" width=\"300\"></video></p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Shoot everywhere with no blind spots</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"BBRnd3ZnMoheF1xBZCMcou9xnR4\">\n<p class=\"pct_p\" style=\"text-align: left;\">Spin the turret endlessly to cover every angle, and adjust the barrel up and down for precise targeting.</p>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s1/default/c26dd6edd83440e4a381c91ba4b845d6/shoot.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s1/default/c26dd6edd83440e4a381c91ba4b845d6/shoot.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s1/default/c26dd6edd83440e4a381c91ba4b845d6/shoot.mp4\" style=\"width: 100%;\" width=\"300\"></video></div>\n</div>\n<div class=\"pct_stpc-ic\"><!-- 第二卖点 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Impressive 7.5-Meter Range</h3>\n<p class=\"pct_p\" style=\"text-align: left;\">Blast water up to 7.5 meters away, outpacing ordinary water blasters and keeping you competitive even at long distances.</p>\n</div>\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s1/default/71eee0cf34db4b298b3c041ad3d2120b/2.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s1/default/71eee0cf34db4b298b3c041ad3d2120b/2.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s1/default/71eee0cf34db4b298b3c041ad3d2120b/2.mp4\" style=\"width: 100%;\" width=\"300\"></video></div>\n</div>\n<!--第三卖点-->\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">LED Firing Lights</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"BBRnd3ZnMoheF1xBZCMcou9xnR4\">\n<p class=\"pct_p\" style=\"text-align: left;\">Lights up when you shoot, making every splash feel more exciting and fun to watch.</p>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s1/default/2a04a23a81894798babacfbdc26e4646/led.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s1/default/2a04a23a81894798babacfbdc26e4646/led.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s1/default/2a04a23a81894798babacfbdc26e4646/led.mp4\" style=\"width: 100%;\" width=\"300\"></video></div>\n</div>\n<div class=\"pct_stpc-ic\"><!-- 第四卖点 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">2-Liter Integrated Water Tank</h3>\n<p class=\"pct_p\" style=\"text-align: left;\">This built-in tank holds up to 2 liters of water and also acts as a counterbalance for smooth, stable turret movement. Its large capacity and dense print design help ensure reliable performance during extended play.</p>\n</div>\n<div class=\"pct_ic\"><img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/74e6e075a8a8471ca8561857685e072c/007.jpg\" height=\"671\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"1006\"/></div>\n</div>\n<!--第五卖点-->\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Hassle-Free Use</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"BBRnd3ZnMoheF1xBZCMcou9xnR4\">\n<ul>\n<li class=\"pct_p\" style=\"text-align: left;\">Includes a custom one-handed controller design and works seamlessly with the official Bambu controller using the default configuration.</li>\n<li class=\"pct_p\" style=\"text-align: left;\">You can even slip the controller into your pocket for stealthy operation so no one will guess who’s behind the splashes</li>\n</ul>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s1/default/1ebae2897a344c68bbb507515036be3b/rc.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s1/default/1ebae2897a344c68bbb507515036be3b/rc.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s1/default/1ebae2897a344c68bbb507515036be3b/rc.mp4\" style=\"width: 100%;\" width=\"300\"></video></div>\n</div>\n<!-- 户外tips -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\" style=\"margin-top: 20px; font-size: 19px;\">Built for Outdoor Adventures</h3>\n<ul>\n<li style=\"text-align: left;\">Recommended to print with Bambu PETG HF for excellent weather resistance (tested with Bambu PLA Basic too), no need to worry about normal outdoor wear.</li>\n<li style=\"text-align: left; margin-bottom: -20px;\">Use bright, non-realistic colors as a safety-first choice to make it clear this is a toy and avoid any confusion during water play.</li>\n</ul>\n</div>\n</div>\n</div>\n<!-- 遥控器说明 --> <!-- 遥控器说明 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<p></p>\n<h2 class=\"pct_t\" style=\"margin-top: 0px; font-size: 24px;\">Remote Control Instruction</h2>\n<p class=\"pct_p\" style=\"text-align: center;\">The Model is designed to work with the CyberBrick Official Remote. Pre-configured settings have been prepared for immediate play,</p>\n<p>while the CyberBrick App allows full customization of controller functions to match your personal preferences.</p>\n<p class=\"pct_p\" style=\"text-align: center;\"><em><span style=\"font-size: 12px;\">* Please visit the <a href=\"https://makerworld.com/en/models/1395991-cyberbrick-official-standard-remote#profileId-1446992\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">CyberBrick Official Standard Remote on Makerworld </span></strong></a> for more details.</span></em></p>\n</div>\n</div>\n<style>\n        .image-container {\n            display: flex;\n            gap: 30px; \n            justify-content: center; \n            align-items: center; \n            height: auto; \n        }\n        .image-container img {\n            width: 650px;\n            height: flex;\n            object-fit: contain; \n        }\n    </style>\n<div class=\"image-container\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/fb99732f96e64b9fad04edf9448f3c98/image_541.png\" height=\"527\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"735\"/> <a href=\"https://bambulab.com/en/download/cyberbrick-apps\" rel=\"noopener\" target=\"_blank\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/925969e9d59947698964464a6cf53a29/Frame_1123861726.jpg\" height=\"466\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"650\"/></a></div>\n</div>\n</div>\n</div>\n<style><!-- Wiki指引 -->\n    body {\n      background: #f6f8fa;\n      margin: 0;\n      font-family: sans-serif;\n      display: flex;\n      justify-content: center;\n    }\n\n    .wiki-wide-card {\n      display: flex;\n      align-items: center;\n      background: #ffffff; /* ✅ 设置为正白背景 */\n      border-radius: 12px;\n      padding: 24px 32px;\n      width: 960px;\n      max-width: 100%;\n      margin: 40px auto;\n      gap: 20px;\n      box-shadow: none; /* ✅ 无阴影 */\n    }\n\n    .wiki-wide-content {\n      flex: 1 1 auto;\n      min-width: 0;\n    }\n\n    .wiki-wide-title {\n      font-size: 24px;\n      font-weight: bold;\n      color: #000000; /* ✅ 黑色标题 */\n      margin: 0 0 6px 0;\n      letter-spacing: 0.01em;\n    }\n\n    .wiki-wide-desc {\n      color: #374151;\n      font-size: 14px;\n      line-height: 1.6;\n      margin: 0;\n    }\n\n    .wiki-wide-btn-wrap {\n      flex-shrink: 0;\n      margin-left: 20px;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n    }\n\n    .wiki-wide-btn {\n      display: inline-flex;\n      align-items: center;\n      justify-content: center;\npadding: 12px 24px;\n      background: #000000; /* ✅ 黑色按钮背景 */\n      color: #ffffff !important; /* ✅ 白色文字 */\n      border-radius: 8px;\n      font-weight: bold;\n      font-size: 1.15em;\n      text-decoration: none !important;\n      border: none;\n      cursor: pointer;\n    }\n\n    .wiki-wide-btn:hover,\n    .wiki-wide-btn:focus,\n    .wiki-wide-btn:visited {\n      background: #222222;\n      text-decoration: none !important;\n    }\n\n    @media (max-width: 900px) {\n      .wiki-wide-card {\n        flex-direction: column;\n        align-items: flex-start;\n        padding: 18px;\n        gap: 18px;\n      }\n\n      .wiki-wide-btn-wrap {\n        margin-left: 0;\n        width: 100%;\n        justify-content: flex-start;\n      }\n    }\n\n    @media (max-width: 540px) {\n      .wiki-wide-card {\n        padding: 16px;\n        border-radius: 10px;\n        gap: 14px;\n      }\n\n      .wiki-wide-title {\n        font-size: 1.1em;\n      }\n\n      .wiki-wide-desc {\n        font-size: 0.95em;\n      }\n\n      .wiki-wide-btn {\n        font-size: 1.05em;\n        width: 100%;\n      }\n    }\n  </style>\n<div class=\"wiki-wide-card\">\n<div class=\"wiki-wide-content\">\n<div class=\"wiki-wide-title\">Explore the Product Wiki &amp; Documentation</div>\n<div class=\"wiki-wide-desc\">Need in-depth assembly guides, troubleshooting, or technical details for this product? <br/>Visit our official Wiki to discover comprehensive resources and answers to all your questions.</div>\n</div>\n<div class=\"wiki-wide-btn-wrap\"><a class=\"wiki-wide-btn\" href=\"https://wiki.bambulab.com/en/cyberbrick\" rel=\"noopener\" target=\"_blank\"> Visit Wiki </a></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 10px; font-size: 24px; text-align: center;\">Assembly instructions</h2>\n<div class=\"VideoWrapper\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/GVUaD4VwcgQ?si=G2eGhYUS-3XhhDHl\" title=\"YouTube video player\" width=\"560\"></iframe></div> <!--视频展示-->\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\"></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 10px; font-size: 24px; text-align: center;\">CyberBrick App Connection Tutorial</h2>\n<!--视频展示-->\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<p style=\"margin-top: 30px;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-=\"\" data-src=\"https://store.bblcdn.com/s1/default/ab33ca5aa9e641ad9416cc0ae5215e99/config.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" style=\"width: 100%;\" width=\"300\"></video></p>\n</div>\n</div>\n<!--In The Box-->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: -20px; font-size: 24px; text-align: center;\">In The Box</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\"><br/>\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse; height: 476px;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; text-align: center; height: 26px;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 26px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 26px;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/cyberbrick-hardware-kit?id=573370119103848457\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">CyberBrick Beginner Hardware Kit (1 Car, 1 Remote)</a></span></strong></p>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/electric-water-spray-kit-01?id=622560774483795970\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Electric Water Spray Kit 01</a></span></strong></p>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/9g-servo-motor-with-clutch-protection?id=505284261155450883\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">9g Positional Digital Servo-180° (1PCS) - PG001</a></span></strong></p>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">4</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/steel-deep-groove-ball-bearings-1?id=41895883571315\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">6004zz Steel Deep Groove Ball Bearings (2PCS) - EA041</a></span></strong></p>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">5</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/steel-deep-groove-ball-bearings-1?id=41895883407475\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">6702zz Steel Deep Groove Ball Bearings (2PCS) - EA037</a></span></strong></p>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">6</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=41798748668019\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">BT2x12 SHCS Self Tapping Screw (20PCS) - AA095</a></span></strong></p>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">7</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=41798748635251\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">BT2x10 SHCS Self Tapping Screw (20PCS) - AA192</a></span></strong></p>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">8</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/bt2-socket-head-cap-self-tapping-screws-shcs-new?id=41798748569715\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">BT2x6 SHCS Self Tapping Screw (20PCS) - AA093</a></span></strong></p>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">9</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/silicone-tube?id=515383607146504194\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">3x5mm Transparent Silicone Tube 2m (1PCS) - RC021</a></span></strong></p>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\"></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; text-align: center; height: 26px;\"><strong>Gift Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 26px;\"><strong>Gift Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 26px;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/extra-rechargeable-battery-upgrade-kit?id=655722877432729602\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Extra Rechargeable Battery Upgrade Kit - ZL003</a></span></strong></p>\n<p><strong><span style=\"color: #00ae42;\"><a href=\"../../products/extra-rechargeable-battery-upgrade-kit?id=655722877432729602\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> (Power Switch Module*1, Li-ion Battery*1 )</a></span></strong></p>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; text-align: center; height: 50px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">Mini Screw Driver Tools Kit</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<h2 class=\"pct_t\" style=\"margin-top: 30px; font-size: 24px;\">Documentation</h2>\n</div>\n</div>\n<div style=\"width: 100%; background-color: #ffffff; padding: 16px; box-sizing: border-box;\">\n<style>\n    .doc-block {\n      max-width: 1920px;\n      margin: 0 auto;\n    }\n\n    .doc-item {\n      display: flex;\n      align-items: center;\n      justify-content: space-between;\n      padding: 20px 0;\n      border-bottom: 1px solid #e5e7eb;\n    }\n\n    .doc-item:last-child {\n      border-bottom: none;\n    }\n\n    .doc-info {\n      display: flex;\n      align-items: center;\n      gap: 16px;\n    }\n\n    .icon-img {\n      width: 40px;\n      height: 40px;\n      object-fit: contain;\n      border-radius: 4px;\n      align-self: flex-start;\n    }\n\n    .text {\n      display: flex;\n      flex-direction: column;\n    }\n\n    .title {\n      font-weight: bold;\n      color: #1f2937;\n      font-size: 18px;\n    }\n\n    .desc {\n      font-size: 14px;\n      color: #6b7280;\n    }\n\n    /* 新增：按钮组容器，用于横向排列两个按钮 */\n    .btn-group {\n      display: flex;\n      gap: 12px; /* 两个按钮之间的间距 */\n      align-items: center;\n    }\n\n    /* 修改：将样式同时应用于 download-btn 和 view-btn */\n    .download-btn, .view-btn {\n      background-color: #00AE42 !important;\n      color: white !important;\n      text-decoration: none !important;\n      padding: 8px 20px;\n      border-radius: 6px;\n      font-weight: bold;\n      font-size: 14px;\n      white-space: nowrap;\n      transition: background-color 0.2s ease;\n      text-align: center;\n    }\n\n    .download-btn:hover, .view-btn:hover {\n      background-color: #00913A;\n    }\n\n    @media (max-width: 768px) {\n      .doc-item {\n        flex-direction: column;\n        align-items: flex-start;\n        gap: 12px;\n      }\n      \n      /* 移动端让按钮组靠左对齐 */\n      .btn-group {\n        align-self: flex-start;\n      }\n    }\n  </style>\n<div class=\"doc-block\">\n<div class=\"doc-item\">\n<div class=\"doc-info\"><img alt=\"User’s Manual\" class=\"icon-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/af72f332be564a17abee81a595430ebd.png\" height=\"40\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"40\"/>\n<div class=\"text\">\n<div class=\"title\" style=\"text-align: left;\">Assembly Guide</div>\n<div class=\"desc\">Step-by-step instructions for a correct and safe installation.</div>\n</div>\n</div>\n<div class=\"btn-group\"><a class=\"view-btn\" href=\"https://makerworld.com/en/models/1409374-remote-controlled-water-turret?from=search#profileId-1462873\" rel=\"noopener\" target=\"_blank\">View More</a> <a class=\"download-btn\" href=\"https://store.bblcdn.com/s1/default/915205d67eb74ffcbcd056df297cba3f/Water_Turret_Assembly_Instructions.pdf\" rel=\"noopener\" target=\"_blank\">Download</a></div>\n</div>\n<div class=\"doc-item\">\n<div class=\"doc-info\"><img alt=\"Application Instruction\" class=\"icon-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s2/default/8e38fa902f9c417d9adcd0b716733c06/1.png\" height=\"72\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"72\"/>\n<div class=\"text\">\n<div class=\"title\" style=\"text-align: left;\">RC Framework</div>\n<div class=\"desc\">Link and configure your remote control and vehicle, open with CyberBrick Apps.</div>\n</div>\n</div>\n<div class=\"btn-group\"><a class=\"view-btn\" href=\"https://makerworld.com/en/models/1409374-remote-controlled-water-turret?from=search#profileId-1462873\" rel=\"noopener\" target=\"_blank\">View More</a> <a class=\"download-btn\" href=\"https://store.bblcdn.com/s1/default/3ec33a8ef5a941aba624c13b87b13684/Water_Turret.zip\" rel=\"noopener\" target=\"_blank\">Download</a></div>\n</div>\n</div>\n</div>\n<!---Important Notices---->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">Important Notices</h2>\n<p style=\"text-align: left; padding-left: 24px;\"><strong><span style=\"font-size: 16px;\">To ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product.</span></strong></p>\n<p></p>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\"><strong>Intended Users: </strong>This product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>Firmware Safety: </strong>Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>Operational Safety: </strong>Do not touch the moving tracks or wheels while the device is operating to prevent pinching injuries.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>Battery &amp; Charging: </strong>DO NOT use chargers with output higher than 5V or 2A, only the officially designated battery and charger must be used. Avoid exposing the battery to high temperatures or water.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>Maintenance &amp; Storage: </strong>Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.</li>\n</ul>\n<p></p>\n<p class=\"pct_p\" style=\"text-align: center;\">Our company is not liable for any equipment damage, failure, fire, or other loss caused by non-compliance with the above requirements.</p>\n<p>Please strictly follow the safety instructions for this product.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "Want to be the MVP of your next outdoor party, backyard water fight, or beach day? The CyberBrick Remote-Controlled Water Turret is your go-to for instant fun. Built with CyberBrick’s innovative modular components, this fully remote-controlled turret delivers nonstop action with 360° continuous rotation, adjustable vertical aiming, and an impressive water range of up to 7.5 meters. Designed for builders and players aged 13 and up, it’s easy to assemble, durable enough for outdoor use, and guaranteed to turn any gathering into a splash-filled highlight that everyone will want a turn with.\n\nFind all files and details on its MakerWorld Page.\n\n*For a smooth build, we recommend reviewing the assembly guide first.\n\nSpin the turret endlessly to cover every angle, and adjust the barrel up and down for precise targeting.\n\nBlast water up to 7.5 meters away, outpacing ordinary water blasters and keeping you competitive even at long distances.\n\nLights up when you shoot, making every splash feel more exciting and fun to watch.\n\nThis built-in tank holds up to 2 liters of water and also acts as a counterbalance for smooth, stable turret movement. Its large capacity and dense print design help ensure reliable performance during extended play.\n\nIncludes a custom one-handed controller design and works seamlessly with the official Bambu controller using the default configuration.\n\nYou can even slip the controller into your pocket for stealthy operation so no one will guess who’s behind the splashes\n\nRecommended to print with Bambu PETG HF for excellent weather resistance (tested with Bambu PLA Basic too), no need to worry about normal outdoor wear.\n\nUse bright, non-realistic colors as a safety-first choice to make it clear this is a toy and avoid any confusion during water play.\n\nThe Model is designed to work with the CyberBrick Official Remote. Pre-configured settings have been prepared for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions. Visit Wiki\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nExplore the Product Wiki & Documentation\n\nNeed in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nVisit Wiki\n\nTo ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product.\n\nIntended Users: This product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use.\n\nFirmware Safety: Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nOperational Safety: Do not touch the moving tracks or wheels while the device is operating to prevent pinching injuries.\n\nBattery & Charging: DO NOT use chargers with output higher than 5V or 2A, only the officially designated battery and charger must be used. Avoid exposing the battery to high temperatures or water.\n\nMaintenance & Storage: Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nOur company is not liable for any equipment damage, failure, fire, or other loss caused by non-compliance with the above requirements.\n\nPlease strictly follow the safety instructions for this product.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zl018-water-turret-cyberbrick-rc",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Water Turret - CyberBrick RC",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "59.49",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/water-turret-cyberbrick-rc?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "76.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/water-turret-cyberbrick-rc?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "60.89",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/water-turret-cyberbrick-rc?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "48.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/water-turret-cyberbrick-rc?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "126",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/water-turret-cyberbrick-rc?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "84.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/water-turret-cyberbrick-rc?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA093",
+    "AA095",
+    "AA192",
+    "EA037",
+    "EA041",
+    "PG001",
+    "RC021",
+    "ZL003",
+    "ZL018"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "View More",
+      "url": "https://makerworld.com/en/models/1409374-remote-controlled-water-turret?from=search#profileId-1462873"
+    },
+    {
+      "kind": "makerworld",
+      "title": "CyberBrick Official Standard Remote on Makerworld",
+      "url": "https://makerworld.com/en/models/1395991-cyberbrick-official-standard-remote#profileId-1446992"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "703086234948575235",
+    "704120388289409026",
+    "704162405814620162",
+    "704164947555651586",
+    "704177340134367234",
+    "704177798471974914"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/water-turret-cyberbrick-rc?id=704120388289409026"
+      },
+      "rows": [
+        [
+          "1",
+          "CyberBrick Beginner Hardware Kit (1 Car, 1 Remote)",
+          "1"
+        ],
+        [
+          "2",
+          "Electric Water Spray Kit 01",
+          "1"
+        ],
+        [
+          "3",
+          "9g Positional Digital Servo-180° (1PCS) - PG001",
+          "1"
+        ],
+        [
+          "4",
+          "6004zz Steel Deep Groove Ball Bearings (2PCS) - EA041",
+          "1"
+        ],
+        [
+          "5",
+          "6702zz Steel Deep Groove Ball Bearings (2PCS) - EA037",
+          "1"
+        ],
+        [
+          "6",
+          "BT2x12 SHCS Self Tapping Screw (20PCS) - AA095",
+          "1"
+        ],
+        [
+          "7",
+          "BT2x10 SHCS Self Tapping Screw (20PCS) - AA192",
+          "1"
+        ],
+        [
+          "8",
+          "BT2x6 SHCS Self Tapping Screw (20PCS) - AA093",
+          "1"
+        ],
+        [
+          "9",
+          "3x5mm Transparent Silicone Tube 2m (1PCS) - RC021",
+          "1"
+        ]
+      ]
+    },
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Gift Number",
+        "Gift Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/water-turret-cyberbrick-rc?id=704120388289409026"
+      },
+      "rows": [
+        [
+          "1",
+          "Extra Rechargeable Battery Upgrade Kit - ZL003 (Power Switch Module*1, Li-ion Battery*1 )",
+          "1"
+        ],
+        [
+          "2",
+          "Mini Screw Driver Tools Kit",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/d404d6c0d5514641869a9c79d79eb07c/Frame_1123867447.png",
+      "part_number": "ZL018",
+      "price": "59.49",
+      "region": "us",
+      "sku": "704120388289409026",
+      "title": "Water Turret - CyberBrick RC - Water Turret - CyberBrick RC - ZL018",
+      "url": "https://us.store.bambulab.com/products/water-turret-cyberbrick-rc?id=704120388289409026",
+      "variant_id": "704120388289409026"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/7e591361a6ef45f2a4304cb79684e646/Frame_1123867447.png",
+      "part_number": "ZL018",
+      "price": "76.99",
+      "region": "ca",
+      "sku": "704177340134367234",
+      "title": "Water Turret - CyberBrick RC - Water Turret - CyberBrick RC - ZL018",
+      "url": "https://ca.store.bambulab.com/products/water-turret-cyberbrick-rc?id=704177340134367234",
+      "variant_id": "704177340134367234"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/6b14a0a93a744d63996ab026799b99e3/Frame_1123867447.png",
+      "part_number": "ZL018",
+      "price": "60.89",
+      "region": "eu",
+      "sku": "704162405814620162",
+      "title": "Water Turret - CyberBrick RC - Water Turret - CyberBrick RC - ZL018",
+      "url": "https://eu.store.bambulab.com/products/water-turret-cyberbrick-rc?id=704162405814620162",
+      "variant_id": "704162405814620162"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/375e1160070143ba8f4f2719f7ce1e09/Frame_1123867447.png",
+      "part_number": "ZL018",
+      "price": "48.99",
+      "region": "uk",
+      "sku": "704164947555651586",
+      "title": "Water Turret - CyberBrick RC - Water Turret - CyberBrick RC - ZL018",
+      "url": "https://uk.store.bambulab.com/products/water-turret-cyberbrick-rc?id=704164947555651586",
+      "variant_id": "704164947555651586"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/270168076d4c4267a7c8f8649a11f591/Frame_1123867447.png",
+      "part_number": "ZL018",
+      "price": "126",
+      "region": "au",
+      "sku": "704177798471974914",
+      "title": "Water Turret - CyberBrick RC - Water Turret - CyberBrick RC - ZL018",
+      "url": "https://au.store.bambulab.com/products/water-turret-cyberbrick-rc?id=704177798471974914",
+      "variant_id": "704177798471974914"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/f7050a0da33144a688bd7d4f8a32805e/Frame_1123867447.png",
+      "part_number": "ZL018",
+      "price": "84.99",
+      "region": "asia",
+      "sku": "703086234948575235",
+      "title": "Water Turret - CyberBrick RC - Water Turret - CyberBrick RC - ZL018",
+      "url": "https://asia.store.bambulab.com/products/water-turret-cyberbrick-rc?id=703086234948575235",
+      "variant_id": "703086234948575235"
+    }
+  ]
+}

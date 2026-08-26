@@ -1,0 +1,451 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "nfc-tag-with-adhesive",
+      "product_id": "8337876451464",
+      "region": "us"
+    },
+    {
+      "handle": "nfc-tag-with-adhesive",
+      "product_id": "9002425483504",
+      "region": "ca"
+    },
+    {
+      "handle": "nfc-tag-with-adhesive",
+      "product_id": "9555416023388",
+      "region": "eu"
+    },
+    {
+      "handle": "nfc-tag-with-adhesive",
+      "product_id": "7773949165628",
+      "region": "uk"
+    },
+    {
+      "handle": "nfc-tag-with-adhesive",
+      "product_id": "8582172967075",
+      "region": "au"
+    },
+    {
+      "handle": "nfc-tag-with-adhesive",
+      "product_id": "505992666711076864",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/24/24ac9599145dd7bb53ddf25fc7d1ef0a2e045b0e4e6428d9140598f74e5d8ac3.png",
+      "id": "image-aab0e76b071d89c7602a",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "987399ebcbca4e25bf98d6250285c315.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "24ac9599145dd7bb53ddf25fc7d1ef0a2e045b0e4e6428d9140598f74e5d8ac3",
+      "size": 221154,
+      "source_url": "https://store.bblcdn.eu/987399ebcbca4e25bf98d6250285c315.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/df/dff8c4b400f1ed77ebc2d18588c0dca700795871ee46b0b1d103d7c014e06088.png",
+      "id": "image-8f94eb2621819942302d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "XD002.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "dff8c4b400f1ed77ebc2d18588c0dca700795871ee46b0b1d103d7c014e06088",
+      "size": 316515,
+      "source_url": "https://store.bblcdn.eu/s4/default/9132f5e5b24c46ad82c745027380c96a/XD002.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/97/97f96e1b9af20c64f420e53c5592a44a3a03a9c77473f20c0a7a12912ba8b68e.png",
+      "id": "image-display-729d59d31730ed8ea9f4",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 202,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "24ac9599145dd7bb53ddf25fc7d1ef0a2e045b0e4e6428d9140598f74e5d8ac3",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "987399ebcbca4e25bf98d6250285c315.catalog.png",
+      "parent_asset_id": "image-aab0e76b071d89c7602a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "97f96e1b9af20c64f420e53c5592a44a3a03a9c77473f20c0a7a12912ba8b68e",
+      "size": 183705,
+      "source_url": "https://store.bblcdn.eu/987399ebcbca4e25bf98d6250285c315.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/85/85d458cff886fe24b8a6f0edffc9df77536141690642427ff629a6262c2eec48.png",
+      "id": "image-display-68f028eb056b1489dfb0",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "dff8c4b400f1ed77ebc2d18588c0dca700795871ee46b0b1d103d7c014e06088",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "XD002.catalog.png",
+      "parent_asset_id": "image-8f94eb2621819942302d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "85d458cff886fe24b8a6f0edffc9df77536141690642427ff629a6262c2eec48",
+      "size": 86534,
+      "source_url": "https://store.bblcdn.eu/s4/default/9132f5e5b24c46ad82c745027380c96a/XD002.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Adhesives & Fasteners"
+  ],
+  "category_assignments": [
+    {
+      "id": "adhesives",
+      "label": "Adhesives & Fasteners",
+      "path": [
+        "Hardware",
+        "Adhesives & Fasteners"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[4]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The NFC Tag with Adhesive is a durable and versatile solution for integrating NFC functionality into a wide range of projects. Featuring a robust plastic or composite material, this tag is designed to withstand various environmental conditions while offering the convenience of an adhesive backing for easy attachment. Its sturdy construction makes it ideal for applications requiring long-term durability, such as embedding in industrial equipment, smart signage, or 3D-printed objects. With its ability to store and transfer data securely, the NFC Tag with Adhesive is a reliable choice for enhancing interactivity and functionality in your designs."
+    },
+    {
+      "kind": "heading",
+      "text": "Product Feature"
+    },
+    {
+      "kind": "bullet",
+      "text": "Wide Compatibility: Fully compatible with most NFC-enabled devices, including smartphones, tablets, and NFC readers."
+    },
+    {
+      "kind": "bullet",
+      "text": "Easy to Use: Durable adhesive backing ensures strong and secure attachment to various surfaces, including 3D-printed objects, metal, plastic, or wood."
+    },
+    {
+      "kind": "bullet",
+      "text": "Durable and Reliable: Built with robust PVC material, designed for long-term use, supporting up to 100,000 read/write cycles and 10 years of data retention."
+    },
+    {
+      "kind": "bullet",
+      "text": "Advanced Security: Features anti-collision technology and unique serial numbers for stable and secure data transmission, ideal for sensitive or critical applications."
+    },
+    {
+      "kind": "bullet",
+      "text": "Versatile Applications: Excellent for embedding in 3D-printed objects, industrial equipment, smart home automation, access control systems, and more."
+    },
+    {
+      "kind": "heading",
+      "text": "Usage Instructions"
+    },
+    {
+      "kind": "bullet",
+      "text": "Prepare Your Device Ensure your device (smartphone, NFC reader, etc.) supports NFC functionality."
+    },
+    {
+      "kind": "bullet",
+      "text": "Write Data Download an NFC programming app like \"NFC Tools.\""
+    },
+    {
+      "kind": "bullet",
+      "text": "Open the app, select the “Write” option, and input the desired data (e.g., URL, text, or commands)."
+    },
+    {
+      "kind": "bullet",
+      "text": "Bring the NFC tag close to the device’s NFC area to complete the writing process."
+    },
+    {
+      "kind": "bullet",
+      "text": "Test Your Tag Test the tag by bringing it near your device to confirm successful data writing."
+    },
+    {
+      "kind": "bullet",
+      "text": "Application Attach or embed the NFC tag to your desired object or location (e.g., 3D printed models, smart devices)."
+    },
+    {
+      "kind": "heading",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "kind": "bullet",
+      "text": "Can I rewrite data on the NFC Tag with Adhesive? Yes, the NTAG215 chip supports multiple rewrites up to 100,000 cycles."
+    },
+    {
+      "kind": "bullet",
+      "text": "Is the NFC Tag with Adhesive waterproof? The NFC Tag with Adhesive is made from PVC material with an adhesive backing, providing basic water resistance. It can withstand light splashes or brief water exposure, but prolonged submersion in water is not recommended."
+    },
+    {
+      "kind": "bullet",
+      "text": "Is it compatible with both Android and iOS devices? Yes, it is compatible with most Android and iOS devices with NFC functionality."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<p> </p>\n<h2 class=\"pct_t\">Introduction</h2>\n<h2 class=\"pct_st\"></h2>\n<p>The <strong>NFC Tag with Adhesive</strong> is a durable and versatile solution for integrating NFC functionality into a wide range of projects. Featuring a robust plastic or composite material, this tag is designed to withstand various environmental conditions while offering the convenience of an adhesive backing for easy attachment. Its sturdy construction makes it ideal for applications requiring long-term durability, such as embedding in industrial equipment, smart signage, or 3D-printed objects. With its ability to store and transfer data securely, the NFC Tag with Adhesive is a reliable choice for enhancing interactivity and functionality in your designs.</p>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"></div>\n<!-- 模型表格 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 100%;\">\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"width: 41.1451%; text-align: center;\"><strong>Models</strong></td>\n<td class=\"pct_td\" style=\"width: 14.0225%; text-align: center;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 44.0972%; text-align: center;\"><strong>Model Links</strong></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"width: 41.1451%;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: center;\">Valentine's Day Heart Box</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 14.0225%; text-align: center;\"><span>@SouthLab</span></td>\n<td class=\"pct_td\" style=\"width: 44.0972%; text-align: center;\"><a href=\"https://makerworld.com/en/models/986267#profileId-961002\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Valentine's Day Heart Box</span></strong></a></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<h3 class=\"pct_st\" style=\"text-align: center;\"></h3>\n<h3 class=\"pct_st\" style=\"text-align: center;\"></h3>\n</div>\n<h2 class=\"pct_t\">Product Feature</h2>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"OXxEd5gtioOUsExeW3ec1JcBnlh\">\n<p style=\"text-align: left;\"> </p>\n<ul class=\"list-bullet1\" style=\"text-align: left;\">\n<li class=\"ace-line ace-line old-record-id-Le6SddfgeoOsOxx9FbkcXJhPnse\" data-list=\"bullet\"><strong>Wide Compatibility: </strong>Fully compatible with most NFC-enabled devices, including smartphones, tablets, and NFC readers.</li>\n<li class=\"ace-line ace-line old-record-id-KBzddAv1no6gu1xMVr8cbf3Jn4c\" data-list=\"bullet\"><strong>Easy to Use:</strong> Durable adhesive backing ensures strong and secure attachment to various surfaces, including 3D-printed objects, metal, plastic, or wood.</li>\n<li class=\"ace-line ace-line old-record-id-C7ACd0kGbo31IjxVolmca9l6nTf\" data-list=\"bullet\"><strong>Durable and Reliable: </strong>Built with robust PVC material, designed for long-term use, supporting up to 100,000 read/write cycles and 10 years of data retention.</li>\n<li class=\"ace-line ace-line old-record-id-RoJqddxgJoenInxxBbUcA3pznoh\" data-list=\"bullet\"><strong>Advanced Security: </strong>Features anti-collision technology and unique serial numbers for stable and secure data transmission, ideal for sensitive or critical applications.</li>\n<li class=\"ace-line ace-line old-record-id-SnQCdnflPo02ttxI4nicsCbsnLe\" data-list=\"bullet\"><strong>Versatile Applications: </strong>Excellent for embedding in 3D-printed objects, industrial equipment, smart home automation, access control systems, and more.</li>\n</ul>\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_t\">Usage Instructions</h2>\n<h2 class=\"pct_st\"></h2>\n<ol>\n<li>\n<p><strong>Prepare Your Device</strong><br/>Ensure your device (smartphone, NFC reader, etc.) supports NFC functionality.</p>\n</li>\n<li>\n<p><strong> Write Data</strong><br/>Download an NFC programming app like \"NFC Tools.\"</p>\n</li>\n<li><strong>Open the app, select the “Write” option, and input the desired data (e.g., URL, text, or commands).</strong></li>\n<li><strong>Bring the NFC tag close to the device’s NFC area to complete the writing process.</strong></li>\n<li><strong> Test Your Tag<br/></strong>Test the tag by bringing it near your device to confirm successful data writing.</li>\n<li><strong> Application</strong><br/>Attach or embed the NFC tag to your desired object or location (e.g., 3D printed models, smart devices).</li>\n</ol>\n<p> </p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<h2 class=\"pct_t\">Basic Information</h2>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\" style=\"width: 100%;\"><!-- 第一条 -->\n<div class=\"pct_ic-p\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Chip Type</td>\n<td class=\"pct_td\" style=\"width: 54.9048%;\">NTAG215</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Operating Temperature</td>\n<td class=\"pct_td\" style=\"width: 54.9048%;\">-25°C to 55°C</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Read Range</td>\n<td class=\"pct_td\" style=\"width: 54.9048%;\">0-5CM</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Data Retention</td>\n<td class=\"pct_td\" style=\"width: 54.9048%;\">10 years</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 --></div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\"><!-- 表头 -->\n<tbody>\n<tr>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Read Durability</td>\n<td class=\"pct_td\">100,000 cycles</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Material</td>\n<td class=\"pct_td\">PVC with Adhesive Backing</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Frequency</td>\n<td class=\"pct_td\">13.56MHZ</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Quantity</td>\n<td class=\"pct_td\">20 PCS</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 --></div>\n</div>\n<!-- 如需添加在此处添加 --></div>\n</div>\n</div>\n<!-- 标题加文案结束 --></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Frequently Asked Questions</h2>\n<p> </p>\n<ol>\n<li>\n<p><strong>Can I rewrite data on the NFC Tag with Adhesive?</strong><br/>Yes, the NTAG215 chip supports multiple rewrites up to 100,000 cycles.</p>\n</li>\n<li>\n<p><strong> Is the NFC Tag with Adhesive waterproof?</strong><br/>The NFC Tag with Adhesive is made from PVC material with an adhesive backing, providing basic water resistance. It can withstand light splashes or brief water exposure, but prolonged submersion in water is not recommended.</p>\n</li>\n<li><strong>Is it compatible with both Android and iOS devices?</strong><br/>Yes, it is compatible with most Android and iOS devices with NFC functionality.</li>\n</ol>\n</div>\n</div>\n<!-- 标题加文案结束 -->\n<p> </p>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The NFC Tag with Adhesive is a durable and versatile solution for integrating NFC functionality into a wide range of projects. Featuring a robust plastic or composite material, this tag is designed to withstand various environmental conditions while offering the convenience of an adhesive backing for easy attachment. Its sturdy construction makes it ideal for applications requiring long-term durability, such as embedding in industrial equipment, smart signage, or 3D-printed objects. With its ability to store and transfer data securely, the NFC Tag with Adhesive is a reliable choice for enhancing interactivity and functionality in your designs.\n\nWide Compatibility: Fully compatible with most NFC-enabled devices, including smartphones, tablets, and NFC readers.\n\nEasy to Use: Durable adhesive backing ensures strong and secure attachment to various surfaces, including 3D-printed objects, metal, plastic, or wood.\n\nDurable and Reliable: Built with robust PVC material, designed for long-term use, supporting up to 100,000 read/write cycles and 10 years of data retention.\n\nAdvanced Security: Features anti-collision technology and unique serial numbers for stable and secure data transmission, ideal for sensitive or critical applications.\n\nVersatile Applications: Excellent for embedding in 3D-printed objects, industrial equipment, smart home automation, access control systems, and more.\n\nPrepare Your Device Ensure your device (smartphone, NFC reader, etc.) supports NFC functionality.\n\nWrite Data Download an NFC programming app like \"NFC Tools.\"\n\nOpen the app, select the “Write” option, and input the desired data (e.g., URL, text, or commands).\n\nBring the NFC tag close to the device’s NFC area to complete the writing process.\n\nTest Your Tag Test the tag by bringing it near your device to confirm successful data writing.\n\nApplication Attach or embed the NFC tag to your desired object or location (e.g., 3D printed models, smart devices).\n\nCan I rewrite data on the NFC Tag with Adhesive? Yes, the NTAG215 chip supports multiple rewrites up to 100,000 cycles.\n\nIs the NFC Tag with Adhesive waterproof? The NFC Tag with Adhesive is made from PVC material with an adhesive backing, providing basic water resistance. It can withstand light splashes or brief water exposure, but prolonged submersion in water is not recommended.\n\nIs it compatible with both Android and iOS devices? Yes, it is compatible with most Android and iOS devices with NFC functionality.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "xd002-nfc-tag-with-adhesive",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "NFC Tag with Adhesive (20pcs)",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.69",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.85",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.24",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.15",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.89",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "XD002"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Valentine's Day Heart Box",
+      "url": "https://makerworld.com/en/models/986267#profileId-961002"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42140425060412",
+    "42872074240136",
+    "45158805864611",
+    "46530740912368",
+    "49285033427292",
+    "505992666711076868"
+  ],
+  "source_tables": [
+    {
+      "caption": "",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/nfc-tag-with-adhesive?id=42872074240136"
+      },
+      "rows": [
+        [
+          "Models",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "Valentine's Day Heart Box",
+          "@SouthLab",
+          "Valentine's Day Heart Box"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/nfc-tag-with-adhesive?id=42872074240136"
+      },
+      "rows": [
+        [
+          "Chip Type",
+          "NTAG215"
+        ],
+        [
+          "Operating Temperature",
+          "-25°C to 55°C"
+        ],
+        [
+          "Read Range",
+          "0-5CM"
+        ],
+        [
+          "Data Retention",
+          "10 years"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/nfc-tag-with-adhesive?id=42872074240136"
+      },
+      "rows": [
+        [
+          "Read Durability",
+          "100,000 cycles"
+        ],
+        [
+          "Material",
+          "PVC with Adhesive Backing"
+        ],
+        [
+          "Frequency",
+          "13.56MHZ"
+        ],
+        [
+          "Quantity",
+          "20 PCS"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Chip Type": "NTAG215",
+    "Data Retention": "10 years",
+    "Frequency": "13.56MHZ",
+    "Material": "PVC with Adhesive Backing",
+    "Operating Temperature": "-25°C to 55°C",
+    "Quantity": "20 PCS",
+    "Read Durability": "100,000 cycles",
+    "Read Range": "0-5CM"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/eeae5774e3004e7594e659b1dd8578a8/8301.png",
+      "part_number": "XD002",
+      "price": "7.69",
+      "region": "us",
+      "sku": "42872074240136",
+      "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
+      "url": "https://us.store.bambulab.com/products/nfc-tag-with-adhesive?id=42872074240136",
+      "variant_id": "42872074240136"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/0285f16385124662ac9f38a48b78ca6f.png",
+      "part_number": "XD002",
+      "price": "8.85",
+      "region": "ca",
+      "sku": "46530740912368",
+      "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
+      "url": "https://ca.store.bambulab.com/products/nfc-tag-with-adhesive?id=46530740912368",
+      "variant_id": "46530740912368"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/06e5f553f60a4acf9d361747303b9088/8301.png",
+      "part_number": "XD002",
+      "price": "7.24",
+      "region": "eu",
+      "sku": "49285033427292",
+      "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
+      "url": "https://eu.store.bambulab.com/products/nfc-tag-with-adhesive?id=49285033427292",
+      "variant_id": "49285033427292"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/987399ebcbca4e25bf98d6250285c315.png",
+      "part_number": "XD002",
+      "price": "6.15",
+      "region": "uk",
+      "sku": "42140425060412",
+      "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
+      "url": "https://uk.store.bambulab.com/products/nfc-tag-with-adhesive?id=42140425060412",
+      "variant_id": "42140425060412"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/f382f8cb573445599248b66669d05259/xd002bianti.png",
+      "part_number": "XD002",
+      "price": "13.89",
+      "region": "au",
+      "sku": "45158805864611",
+      "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
+      "url": "https://au.store.bambulab.com/products/nfc-tag-with-adhesive?id=45158805864611",
+      "variant_id": "45158805864611"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/f245ba1c42804e6785dd2467c4d2eb14.png",
+      "part_number": "XD002",
+      "price": "6.99",
+      "region": "asia",
+      "sku": "505992666711076868",
+      "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
+      "url": "https://asia.store.bambulab.com/products/nfc-tag-with-adhesive?id=505992666711076868",
+      "variant_id": "505992666711076868"
+    }
+  ]
+}

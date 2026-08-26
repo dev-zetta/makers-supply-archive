@@ -1,0 +1,334 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "blv-ams-ams-2-riser-for-x1c-p1s-v3-1",
+      "product_id": "646492827436838912",
+      "region": "us"
+    },
+    {
+      "handle": "blv-ams-ams-2-riser-for-x1c-p1s-v3-1",
+      "product_id": "646494032343904256",
+      "region": "ca"
+    },
+    {
+      "handle": "blv-ams-ams-2-riser-for-x1c-p1s-v3-1",
+      "product_id": "646493607139647488",
+      "region": "eu"
+    },
+    {
+      "handle": "blv-ams-ams-2-riser-for-x1c-p1s-v3-1",
+      "product_id": "646494881735962624",
+      "region": "uk"
+    },
+    {
+      "handle": "blv-ams-ams-2-riser-for-x1c-p1s-v3-1",
+      "product_id": "646495237441634304",
+      "region": "au"
+    },
+    {
+      "handle": "blv-ams-ams-2-riser-for-x1c-p1s-v3-1",
+      "product_id": "646488448847147008",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/86/861e21b6d4c3e061929008efe48a43a14e74cc499cd2cea3f0ef16169245cab8.png",
+      "id": "image-30c8cc58aa650a92658a",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH099_F.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "861e21b6d4c3e061929008efe48a43a14e74cc499cd2cea3f0ef16169245cab8",
+      "size": 1322352,
+      "source_url": "https://store.bblcdn.com/s5/default/6ad352c75cfd4f2698242e1b4dca0774/B-ZH099_F.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/25/254a51e3d267c908520f15cfd82822a7d5d7acc82f25a133418d37f5d1e6e58f.png",
+      "id": "image-56185c3a7101681b96e4",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH099.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "254a51e3d267c908520f15cfd82822a7d5d7acc82f25a133418d37f5d1e6e58f",
+      "size": 1014516,
+      "source_url": "https://store.bblcdn.com/s5/default/03c974c2fc0c4e21b85b73cba28edb68/B-ZH099.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9b/9b75237c55b88e2a0845079f53eed6c3d659b52d618b40900ee70dc8db0d5f02.png",
+      "id": "image-display-d35b318d222a0554bf21",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "861e21b6d4c3e061929008efe48a43a14e74cc499cd2cea3f0ef16169245cab8",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH099_F.catalog.png",
+      "parent_asset_id": "image-30c8cc58aa650a92658a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9b75237c55b88e2a0845079f53eed6c3d659b52d618b40900ee70dc8db0d5f02",
+      "size": 350167,
+      "source_url": "https://store.bblcdn.com/s5/default/6ad352c75cfd4f2698242e1b4dca0774/B-ZH099_F.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/80/80f204174ca1c63c2293506d2cb27f3593adb22f2db6fecd238e785729e6b3d1.png",
+      "id": "image-display-9d28adb2bace0818ac53",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "254a51e3d267c908520f15cfd82822a7d5d7acc82f25a133418d37f5d1e6e58f",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH099.catalog.png",
+      "parent_asset_id": "image-56185c3a7101681b96e4",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "80f204174ca1c63c2293506d2cb27f3593adb22f2db6fecd238e785729e6b3d1",
+      "size": 245042,
+      "source_url": "https://store.bblcdn.com/s5/default/03c974c2fc0c4e21b85b73cba28edb68/B-ZH099.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "ka004-6500k-white-led-light-strip",
+      "name": "6500K White LED Light Strip",
+      "quantity": "1 pcs",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional BLV - AMS / AMS 2 Riser for X1C / P1S v3.1. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the BLV - AMS / AMS 2 Riser for X1C / P1S v3.1 on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>BLV - AMS / AMS 2 Riser for X1C / P1S v3.1</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>BLV - AMS / AMS 2 Riser for X1C / P1S v3.1</strong> on <a href=\"https://makerworld.com/en/models/19535-blv-ams-ams-2-riser-for-x1c-p1s-v3-1#profileId-19420\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">6500K White LED Light Strip</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1 pcs</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional BLV - AMS / AMS 2 Riser for X1C / P1S v3.1. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the BLV - AMS / AMS 2 Riser for X1C / P1S v3.1 on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh099-blv-ams-ams-2-riser-for-x1c-p1s-v3-1",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "BLV - AMS / AMS 2 Riser for X1C / P1S v3.1",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "20.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://ca.store.bambulab.com/en/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "33.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-ZH099",
+    "ZH099"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Blv Ams Ams 2 Riser For X1c P1s V3 1",
+      "url": "https://makerworld.com/en/models/19535-blv-ams-ams-2-riser-for-x1c-p1s-v3-1#profileId-19420"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "646488448863924226",
+    "646492827449421826",
+    "646493607152230402",
+    "646494032352292866",
+    "646494881752739842",
+    "646495237458411522"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?id=646492827449421826"
+      },
+      "rows": [
+        [
+          "6500K White LED Light Strip",
+          "1 pcs"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/35b31da5c363421daa7e213c391e10db/B-ZH099_F.png",
+      "part_number": "ZH099",
+      "price": "17.99",
+      "region": "us",
+      "sku": "646492827449421826",
+      "title": "BLV - AMS / AMS 2 Riser for X1C / P1S v3.1 - BLV - AMS / AMS 2 Riser for X1C / P1S - ZH099",
+      "url": "https://us.store.bambulab.com/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?id=646492827449421826",
+      "variant_id": "646492827449421826"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/6ad352c75cfd4f2698242e1b4dca0774/B-ZH099_F.png",
+      "part_number": "ZH099",
+      "price": "20.99",
+      "region": "ca",
+      "sku": "646494032352292866",
+      "title": "BLV - AMS / AMS 2 Riser for X1C / P1S v3.1 - BLV - AMS / AMS 2 Riser for X1C / P1S - ZH099",
+      "url": "https://ca.store.bambulab.com/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?id=646494032352292866",
+      "variant_id": "646494032352292866"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/824ff218052e4b0ea47866afe41fdcea/B-ZH099_F.png",
+      "part_number": "ZH099",
+      "price": "17.99",
+      "region": "eu",
+      "sku": "646493607152230402",
+      "title": "BLV - AMS / AMS 2 Riser for X1C / P1S v3.1 - BLV - AMS / AMS 2 Riser for X1C / P1S - ZH099",
+      "url": "https://eu.store.bambulab.com/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?id=646493607152230402",
+      "variant_id": "646493607152230402"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/39339236146746dca5691d75048a3256/B-ZH099_F.png",
+      "part_number": "ZH099",
+      "price": "15.99",
+      "region": "uk",
+      "sku": "646494881752739842",
+      "title": "BLV - AMS / AMS 2 Riser for X1C / P1S v3.1 - BLV - AMS / AMS 2 Riser for X1C / P1S - ZH099",
+      "url": "https://uk.store.bambulab.com/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?id=646494881752739842",
+      "variant_id": "646494881752739842"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/e2a37884b44f4a31b4b1498a87c3b458/B-ZH099_F.png",
+      "part_number": "ZH099",
+      "price": "33.99",
+      "region": "au",
+      "sku": "646495237458411522",
+      "title": "BLV - AMS / AMS 2 Riser for X1C / P1S v3.1 - BLV - AMS / AMS 2 Riser for X1C / P1S - ZH099",
+      "url": "https://au.store.bambulab.com/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?id=646495237458411522",
+      "variant_id": "646495237458411522"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/cf1eb989c81d4bb7b0b06dc345b2cff4/B-ZH099_F.png",
+      "part_number": "ZH099",
+      "price": "15.99",
+      "region": "asia",
+      "sku": "646488448863924226",
+      "title": "BLV - AMS / AMS 2 Riser for X1C / P1S v3.1 - BLV - AMS / AMS 2 Riser for X1C / P1S - ZH099",
+      "url": "https://asia.store.bambulab.com/products/blv-ams-ams-2-riser-for-x1c-p1s-v3-1?id=646488448863924226",
+      "variant_id": "646488448863924226"
+    }
+  ]
+}

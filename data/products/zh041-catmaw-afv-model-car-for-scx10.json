@@ -1,0 +1,563 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "catmaw-afv-model-car-for-scx10",
+      "product_id": "8409370820744",
+      "region": "us"
+    },
+    {
+      "handle": "catmaw-afv-model-car-for-scx10",
+      "product_id": "9082350371056",
+      "region": "ca"
+    },
+    {
+      "handle": "catmaw-afv-model-car-for-scx10",
+      "product_id": "9670302368092",
+      "region": "eu"
+    },
+    {
+      "handle": "catmaw-afv-model-car-for-scx10",
+      "product_id": "7837391487036",
+      "region": "uk"
+    },
+    {
+      "handle": "catmaw-afv-model-car-for-scx10",
+      "product_id": "528106233652920320",
+      "region": "au"
+    },
+    {
+      "handle": "catmaw-afv-model-car-for-scx10",
+      "product_id": "528088976995368960",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/67/678fb70ef36318221064772009a2dd872738a9da2237e71a117575103f2b7724.png",
+      "id": "image-a8ebd38df6be0916948b",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Car-3.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "678fb70ef36318221064772009a2dd872738a9da2237e71a117575103f2b7724",
+      "size": 975063,
+      "source_url": "https://store.bblcdn.eu/s8/default/b2659b67ecc4404eb3e82d7f19f0a40b/Car-3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c2/c2793f6abaa105a08463e8349c06a5417a3c1f2f2588f6c7e4981aade2d26f34.png",
+      "id": "image-ee4bef69adeb0d53f134",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH041.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c2793f6abaa105a08463e8349c06a5417a3c1f2f2588f6c7e4981aade2d26f34",
+      "size": 80200,
+      "source_url": "https://store.bblcdn.eu/s8/default/d011a1b356e642dbb02356a74a7d4002/B-ZH041.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/15/15a48ce055d087243529bee8ae7f6ce2c027f0ab8920152c7ae7717d637c824e.png",
+      "id": "image-2ddefdae9378c3693a15",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Car-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "15a48ce055d087243529bee8ae7f6ce2c027f0ab8920152c7ae7717d637c824e",
+      "size": 977791,
+      "source_url": "https://store.bblcdn.eu/s8/default/231d2a9e3af243b5af1e20b316963aaa/Car-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5f/5f202eee485ae1ea54dc42e47ec79583cd26b26cce76399872f70e833fe4b798.png",
+      "id": "image-db207efa43c3e2305795",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Car-2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5f202eee485ae1ea54dc42e47ec79583cd26b26cce76399872f70e833fe4b798",
+      "size": 843325,
+      "source_url": "https://store.bblcdn.eu/s8/default/61c5260f31184157b4c88350fd00f1e8/Car-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a2/a29e988fa5fa77d5098c6ff57f0345aad779f17b314fa4791cb2069d6698ae91.png",
+      "id": "image-display-05abdc436f0e4e7375ac",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "678fb70ef36318221064772009a2dd872738a9da2237e71a117575103f2b7724",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Car-3.catalog.png",
+      "parent_asset_id": "image-a8ebd38df6be0916948b",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a29e988fa5fa77d5098c6ff57f0345aad779f17b314fa4791cb2069d6698ae91",
+      "size": 849567,
+      "source_url": "https://store.bblcdn.eu/s8/default/b2659b67ecc4404eb3e82d7f19f0a40b/Car-3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/de/de967311896bc1732d7dde42dc73a8b47d34730e80159dd1e02b0e64f44ddf19.png",
+      "id": "image-display-980888a072246eb3404d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "c2793f6abaa105a08463e8349c06a5417a3c1f2f2588f6c7e4981aade2d26f34",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH041.catalog.png",
+      "parent_asset_id": "image-ee4bef69adeb0d53f134",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "de967311896bc1732d7dde42dc73a8b47d34730e80159dd1e02b0e64f44ddf19",
+      "size": 77170,
+      "source_url": "https://store.bblcdn.eu/s8/default/d011a1b356e642dbb02356a74a7d4002/B-ZH041.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/89/8949095d727feb98e68a8e645e0bbdc3733be814581057ec49b9fdf07cd1b0a0.png",
+      "id": "image-display-358355815936efe66540",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "15a48ce055d087243529bee8ae7f6ce2c027f0ab8920152c7ae7717d637c824e",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Car-1.catalog.png",
+      "parent_asset_id": "image-2ddefdae9378c3693a15",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8949095d727feb98e68a8e645e0bbdc3733be814581057ec49b9fdf07cd1b0a0",
+      "size": 856392,
+      "source_url": "https://store.bblcdn.eu/s8/default/231d2a9e3af243b5af1e20b316963aaa/Car-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/29/295e8454e263d5c6fea202222e5957ffe96d1c627f007c9e7d42cb8e5a29a1bb.png",
+      "id": "image-display-46242290128d52c451c2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "5f202eee485ae1ea54dc42e47ec79583cd26b26cce76399872f70e833fe4b798",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Car-2.catalog.png",
+      "parent_asset_id": "image-db207efa43c3e2305795",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "295e8454e263d5c6fea202222e5957ffe96d1c627f007c9e7d42cb8e5a29a1bb",
+      "size": 737345,
+      "source_url": "https://store.bblcdn.eu/s8/default/61c5260f31184157b4c88350fd00f1e8/Car-2.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "ca001-round-magnet",
+      "name": "4x2 mm Round Magnet (20PCS) - CA001",
+      "quantity": "3",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x6 SHCS Self Tapping Screw (20PCS) - AA093",
+      "quantity": "5",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x8 SHCS Self Tapping Screw (20PCS) - AA094",
+      "quantity": "5",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x12 SHCS Self Tapping Screw (20PCS) - AA095",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x16 SHCS Self Tapping Screw (20PCS) - AA096",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x20 SHCS Self Tapping Screw (10PCS) - AA097",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x6 SHCS Self Tapping Screw (20PCS) - AA107",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x8 SHCS Self Tapping Screw (20PCS) - AA108",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x12 SHCS Self Tapping Screw (20PCS) - AA109",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x20 SHCS Self Tapping Screw (10PCS) - AA111",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x25 SHCS Self Tapping Screw (5PCS) - AA112",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x30 SHCS Self Tapping Screw (5PCS) - AA113",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x5 SHCS Self Tapping Screw (20PCS) - AA191",
+      "quantity": "2",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa191-bt2-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2x10 SHCS Self Tapping Screw (20PCS) - AA192",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x10 SHCS Self Tapping Screw (20PCS) - AA200",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa212-bt2-button-head-cap-self-tapping-screw-bhcs",
+      "name": "BT2x4 BHCS Self Tapping Screw (20PCS) - AA212",
+      "quantity": "9",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of Catmaw AFV - Model Car For SCX10 and obtain detailed information, please visit the Catmaw AFV - Model Car For SCX10 on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Overview</h3>\nThis product contains all the necessary hardware components for assembling a <strong>Catmaw AFV - Model Car For SCX10</strong>. To complete the assembly for an entirely functional piece, users also need to download the model files and 3D print the remaining parts.</div>\n<div class=\"pct_st-p\"><br/></div>\n<div class=\"pct_st-p\">\n<span data-mce-style=\"text-decoration: underline;\" style=\"text-decoration: underline;\"><strong><em><span data-mce-style=\"color: #e60034; text-decoration: underline;\" style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span data-mce-style=\"color: #e60034; text-decoration: underline;\" style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\" data-mce-style=\"text-align: start;\" style=\"text-align: start;\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"><br/></div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">To download the model files of <strong>Catmaw AFV - Model Car For SCX10 </strong>and obtain detailed information, please visit the <strong>Catmaw AFV - Model Car For SCX10</strong> on <a data-mce-href=\"https://makerworld.com/en/models/621348?from=search#profileId-545386\" href=\"https://makerworld.com/en/models/621348?from=search#profileId-545386\" target=\"_blank\"><span data-mce-style=\"color: #00ae42;\" style=\"color: #00ae42;\"><strong><u>MakerWorld</u></strong></span></a>.</div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"><br/></div>\n</div>\n<!-- 第三条 -->\n<div class=\"pct_st-p\"><br/></div>\n</div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\">In the Box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" data-mce-style=\"width: 100%; height: 274.313px;\" style=\"width: 100%; height: 274.313px;\">\n<!-- 表头 -->\n<tbody>\n<!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><strong>Qty</strong></td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">\n<meta charset=\"utf-8\"/>\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-WN9wdvxjroLLKUxZrwrcWzjZnhd\">4x2 mm Round Magnet (20PCS) - CA001</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span>\n</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\">3<br/>\n</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT2x6 SHCS Self Tapping Screw (20PCS) - AA093</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>5</span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT2x8 SHCS Self Tapping Screw (20PCS) - AA094</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>5</span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT2x12 SHCS Self Tapping Screw (20PCS) - AA095</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT2x16 SHCS Self Tapping Screw (20PCS) - AA096</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT2x20 SHCS Self Tapping Screw (10PCS) - AA097</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT3x6 SHCS Self Tapping Screw (20PCS) - AA107</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT3x8 SHCS Self Tapping Screw (20PCS) - AA108</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT3x12 SHCS Self Tapping Screw (20PCS) - AA109</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT3x20 SHCS Self Tapping Screw (10PCS) - AA111</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT3x25 SHCS Self Tapping Screw (5PCS) - AA112</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT3x30 SHCS Self Tapping Screw (5PCS) - AA113</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT2x5 SHCS Self Tapping Screw (20PCS) - AA191</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>2</span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT2x10 SHCS Self Tapping Screw (20PCS) - AA192</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT3x10 SHCS Self Tapping Screw (20PCS) - AA200</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>1 </span></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 83.2887%; height: 19.5938px;\" style=\"width: 83.2887%; height: 19.5938px;\">BT2x4 BHCS Self Tapping Screw (20PCS) - AA212</td>\n<td class=\"pct_td\" data-mce-style=\"width: 13.7916%; height: 19.5938px;\" style=\"width: 13.7916%; height: 19.5938px;\"><span>9 </span></td>\n</tr>\n</tbody>\n</table>\n<span><span></span></span>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-p\"><br/></div>\n<div class=\"pct_st-p\"> </div>\n<!-- 第五条 -->\n</div>\n</div>\n</div>",
+  "description_text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of Catmaw AFV - Model Car For SCX10 and obtain detailed information, please visit the Catmaw AFV - Model Car For SCX10 on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh041-catmaw-afv-model-car-for-scx10",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Catmaw AFV - Model Car For SCX10",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "39.64",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "45.63",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "37.34",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "31.71",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "71.63",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "36.04",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA093",
+    "AA094",
+    "AA095",
+    "AA096",
+    "AA097",
+    "AA107",
+    "AA108",
+    "AA109",
+    "AA111",
+    "AA112",
+    "AA113",
+    "AA191",
+    "AA192",
+    "AA200",
+    "AA212",
+    "CA001",
+    "ZH041"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Catmaw AFV - Model Car For SCX10",
+      "url": "https://makerworld.com/en/models/621348?from=search#profileId-545386"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42301528408124",
+    "43045288116360",
+    "46740550385904",
+    "49635638215004",
+    "528088977016340482",
+    "528106233678086146"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=43045288116360"
+      },
+      "rows": [
+        [
+          "4x2 mm Round Magnet (20PCS) - CA001",
+          "3"
+        ],
+        [
+          "BT2x6 SHCS Self Tapping Screw (20PCS) - AA093",
+          "5"
+        ],
+        [
+          "BT2x8 SHCS Self Tapping Screw (20PCS) - AA094",
+          "5"
+        ],
+        [
+          "BT2x12 SHCS Self Tapping Screw (20PCS) - AA095",
+          "1"
+        ],
+        [
+          "BT2x16 SHCS Self Tapping Screw (20PCS) - AA096",
+          "1"
+        ],
+        [
+          "BT2x20 SHCS Self Tapping Screw (10PCS) - AA097",
+          "1"
+        ],
+        [
+          "BT3x6 SHCS Self Tapping Screw (20PCS) - AA107",
+          "1"
+        ],
+        [
+          "BT3x8 SHCS Self Tapping Screw (20PCS) - AA108",
+          "1"
+        ],
+        [
+          "BT3x12 SHCS Self Tapping Screw (20PCS) - AA109",
+          "1"
+        ],
+        [
+          "BT3x20 SHCS Self Tapping Screw (10PCS) - AA111",
+          "1"
+        ],
+        [
+          "BT3x25 SHCS Self Tapping Screw (5PCS) - AA112",
+          "1"
+        ],
+        [
+          "BT3x30 SHCS Self Tapping Screw (5PCS) - AA113",
+          "1"
+        ],
+        [
+          "BT2x5 SHCS Self Tapping Screw (20PCS) - AA191",
+          "2"
+        ],
+        [
+          "BT2x10 SHCS Self Tapping Screw (20PCS) - AA192",
+          "1"
+        ],
+        [
+          "BT3x10 SHCS Self Tapping Screw (20PCS) - AA200",
+          "1"
+        ],
+        [
+          "BT2x4 BHCS Self Tapping Screw (20PCS) - AA212",
+          "9"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/cd4c83cffdff4253a87af2fce2b34759/Car-3.png",
+      "part_number": "ZH041",
+      "price": "39.64",
+      "region": "us",
+      "sku": "43045288116360",
+      "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
+      "url": "https://us.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=43045288116360",
+      "variant_id": "43045288116360"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/5918cb9157ce421ba72ba304c57cf32c.png",
+      "part_number": "ZH041",
+      "price": "45.63",
+      "region": "ca",
+      "sku": "46740550385904",
+      "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
+      "url": "https://ca.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=46740550385904",
+      "variant_id": "46740550385904"
+    },
+    {
+      "available": false,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/b2659b67ecc4404eb3e82d7f19f0a40b/Car-3.png",
+      "part_number": "ZH041",
+      "price": "37.34",
+      "region": "eu",
+      "sku": "49635638215004",
+      "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
+      "url": "https://eu.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=49635638215004",
+      "variant_id": "49635638215004"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/af07f1865254465b824ef5e07ae45eb7.png",
+      "part_number": "ZH041",
+      "price": "31.71",
+      "region": "uk",
+      "sku": "42301528408124",
+      "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
+      "url": "https://uk.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=42301528408124",
+      "variant_id": "42301528408124"
+    },
+    {
+      "available": false,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/e3671ff13d26473d8e91f32fb717c1ec.png",
+      "part_number": "ZH041",
+      "price": "71.63",
+      "region": "au",
+      "sku": "528106233678086146",
+      "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
+      "url": "https://au.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=528106233678086146",
+      "variant_id": "528106233678086146"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/d5f84d9918f14c2997e29b9c86ea628f.png",
+      "part_number": "ZH041",
+      "price": "36.04",
+      "region": "asia",
+      "sku": "528088977016340482",
+      "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
+      "url": "https://asia.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=528088977016340482",
+      "variant_id": "528088977016340482"
+    }
+  ]
+}

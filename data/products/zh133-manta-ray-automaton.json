@@ -1,0 +1,367 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "manta-ray-automaton",
+      "product_id": "721595978332741632",
+      "region": "us"
+    },
+    {
+      "handle": "manta-ray-automaton",
+      "product_id": "721518491596926976",
+      "region": "ca"
+    },
+    {
+      "handle": "manta-ray-automaton",
+      "product_id": "721520451675422720",
+      "region": "eu"
+    },
+    {
+      "handle": "manta-ray-automaton",
+      "product_id": "721515754137427968",
+      "region": "uk"
+    },
+    {
+      "handle": "manta-ray-automaton",
+      "product_id": "721514294062059520",
+      "region": "au"
+    },
+    {
+      "handle": "manta-ray-automaton",
+      "product_id": "721512823239340032",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/de/de98ead942b889928e6b42830c113083457c11c4498f620074c8f229fca47894.png",
+      "id": "image-13fdc6fe989d3347eb3b",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "manta.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "de98ead942b889928e6b42830c113083457c11c4498f620074c8f229fca47894",
+      "size": 871994,
+      "source_url": "https://store.bblcdn.com/s5/default/e61cdcde26034d72be8727c256e49cdc/manta.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/05/0581fcd1717694e34c3e47d89525f92a8de8647479cdb2c29e297b0406fb8b7e.png",
+      "id": "image-fc5be791768397c19e2f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH133.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0581fcd1717694e34c3e47d89525f92a8de8647479cdb2c29e297b0406fb8b7e",
+      "size": 170873,
+      "source_url": "https://store.bblcdn.com/s5/default/6b852cdc67bc4837ae8ed0e62e2523d5/B-ZH133.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/69/6925e923c35260702bfd4af29dd9c0a6e85ef9b2127817e8195fcf41bc5625c3.gif",
+      "id": "image-c8dd7dd482d1ed47e0a1",
+      "kind": "image",
+      "media_type": "image/gif",
+      "original_filename": "manta.gif.gif",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6925e923c35260702bfd4af29dd9c0a6e85ef9b2127817e8195fcf41bc5625c3",
+      "size": 7812073,
+      "source_url": "https://store.bblcdn.com/s5/default/cf5a4bb826464131a8662b74b950b381/manta.gif.gif"
+    },
+    {
+      "blob_path": "data/blobs/sha256/11/11986e098ab68b43d5c4329bcc6d821c7aabf2b7c6557660191063ed5736e48f.png",
+      "id": "image-display-95f948abbcb67cb2705e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "de98ead942b889928e6b42830c113083457c11c4498f620074c8f229fca47894",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "manta.catalog.png",
+      "parent_asset_id": "image-13fdc6fe989d3347eb3b",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "11986e098ab68b43d5c4329bcc6d821c7aabf2b7c6557660191063ed5736e48f",
+      "size": 373307,
+      "source_url": "https://store.bblcdn.com/s5/default/e61cdcde26034d72be8727c256e49cdc/manta.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/03/033d34094c4de474a0bbb67f54522686b5317abda6b7473193118e2600f383d1.png",
+      "id": "image-display-780ae45d4222d3d90e88",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "0581fcd1717694e34c3e47d89525f92a8de8647479cdb2c29e297b0406fb8b7e",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH133.catalog.png",
+      "parent_asset_id": "image-fc5be791768397c19e2f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "033d34094c4de474a0bbb67f54522686b5317abda6b7473193118e2600f383d1",
+      "size": 140413,
+      "source_url": "https://store.bblcdn.com/s5/default/6b852cdc67bc4837ae8ed0e62e2523d5/B-ZH133.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/3e/3e1019c365363b13436b7a556e751fdd216b1db3d09fe0f298b8575be0f0a1f0.png",
+      "id": "image-display-f162b596a8825df536fa",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 400,
+        "source_sha256": "6925e923c35260702bfd4af29dd9c0a6e85ef9b2127817e8195fcf41bc5625c3",
+        "source_width": 400
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "manta.gif.catalog.png",
+      "parent_asset_id": "image-c8dd7dd482d1ed47e0a1",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "3e1019c365363b13436b7a556e751fdd216b1db3d09fe0f298b8575be0f0a1f0",
+      "size": 469568,
+      "source_url": "https://store.bblcdn.com/s5/default/cf5a4bb826464131a8662b74b950b381/manta.gif.gif"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "la001-tt-motor-dc5v-59rpm-ccw-single-axis",
+      "name": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes&id=42106729398408&modelId=2180303",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia002-usb-speed-controller-compatible-with-tt-motor",
+      "name": "USB Speed Controller(1PCS) - IA002",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/usb-speed-controller-compatible-with-tt-motor?skr=yes&id=42122867048584&modelId=2180303",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Manta ray automaton - manual/motor on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the  <strong>Manta ray automaton - manual/motor</strong>  on <a href=\"https://makerworld.com/en/models/2180303-manta-ray-automaton-manual-motor?from=search#profileId-2366303\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><a href=\"../../products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes&amp;id=42106729398408&amp;modelId=2180303\" rel=\"noopener\" target=\"_blank\">TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001</a></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><a href=\"../../products/usb-speed-controller-compatible-with-tt-motor?skr=yes&amp;id=42122867048584&amp;modelId=2180303\" rel=\"noopener\" target=\"_blank\">USB Speed Controller(1PCS) - IA002</a></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+  "description_text": "To download the model files please visit the Manta ray automaton - manual/motor on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh133-manta-ray-automaton",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Manta ray automaton",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.48",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/manta-ray-automaton?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.98",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://ca.store.bambulab.com/en/products/manta-ray-automaton?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.48",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/manta-ray-automaton?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10.98",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/manta-ray-automaton?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "26.98",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/manta-ray-automaton?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.48",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/manta-ray-automaton?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "IA002",
+    "LA001",
+    "ZH133"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Manta Ray Automaton Manual Motor",
+      "url": "https://makerworld.com/en/models/2180303-manta-ray-automaton-manual-motor?from=search#profileId-2366303"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "721512823281283074",
+    "721514294120779778",
+    "721515754187759618",
+    "721518491613704194",
+    "721520451688005634",
+    "721595978370490370"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/manta-ray-automaton?id=721595978370490370"
+      },
+      "rows": [
+        [
+          "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001",
+          "1"
+        ],
+        [
+          "USB Speed Controller(1PCS) - IA002",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/3a073e9c5ecf4c749f2ed53c5b1f37d0/manta.png",
+      "part_number": "ZH133",
+      "price": "12.48",
+      "region": "us",
+      "sku": "721595978370490370",
+      "title": "Manta ray automaton - Manta ray automato - ZH133",
+      "url": "https://us.store.bambulab.com/products/manta-ray-automaton?id=721595978370490370",
+      "variant_id": "721595978370490370"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/e61cdcde26034d72be8727c256e49cdc/manta.png",
+      "part_number": "ZH133",
+      "price": "15.98",
+      "region": "ca",
+      "sku": "721518491613704194",
+      "title": "Manta ray automaton - Manta ray automato - ZH133",
+      "url": "https://ca.store.bambulab.com/products/manta-ray-automaton?id=721518491613704194",
+      "variant_id": "721518491613704194"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/94548fd8e6104f18a750a6f6da7927cf/manta.png",
+      "part_number": "ZH133",
+      "price": "13.48",
+      "region": "eu",
+      "sku": "721520451688005634",
+      "title": "Manta ray automaton - Manta ray automato - ZH133",
+      "url": "https://eu.store.bambulab.com/products/manta-ray-automaton?id=721520451688005634",
+      "variant_id": "721520451688005634"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/1e685de3cf0c472b8531649a75f55f35/manta.png",
+      "part_number": "ZH133",
+      "price": "10.98",
+      "region": "uk",
+      "sku": "721515754187759618",
+      "title": "Manta ray automaton - Manta ray automato - ZH133",
+      "url": "https://uk.store.bambulab.com/products/manta-ray-automaton?id=721515754187759618",
+      "variant_id": "721515754187759618"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/1424e283ece3420894daeb4f36b9af5b/manta.png",
+      "part_number": "ZH133",
+      "price": "26.98",
+      "region": "au",
+      "sku": "721514294120779778",
+      "title": "Manta ray automaton - Manta ray automato - ZH133",
+      "url": "https://au.store.bambulab.com/products/manta-ray-automaton?id=721514294120779778",
+      "variant_id": "721514294120779778"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/0611191b38ff4fe5a928f7447ef4b32c/manta.png",
+      "part_number": "ZH133",
+      "price": "11.48",
+      "region": "asia",
+      "sku": "721512823281283074",
+      "title": "Manta ray automaton - Manta ray automato - ZH133",
+      "url": "https://asia.store.bambulab.com/products/manta-ray-automaton?id=721512823281283074",
+      "variant_id": "721512823281283074"
+    }
+  ]
+}

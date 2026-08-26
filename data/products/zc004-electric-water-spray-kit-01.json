@@ -1,0 +1,856 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "electric-water-spray-kit-01",
+      "product_id": "8384163807368",
+      "region": "us"
+    },
+    {
+      "handle": "electric-water-spray-kit-01",
+      "product_id": "9046190457072",
+      "region": "ca"
+    },
+    {
+      "handle": "electric-water-spray-kit-01",
+      "product_id": "9615042740572",
+      "region": "eu"
+    },
+    {
+      "handle": "electric-water-spray-kit-01",
+      "product_id": "7805606985788",
+      "region": "uk"
+    },
+    {
+      "handle": "electric-water-spray-kit-01",
+      "product_id": "517235538040311808",
+      "region": "au"
+    },
+    {
+      "handle": "electric-water-spray-kit-01",
+      "product_id": "517235105601449984",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/45/45e933e490716576c651dbf3f6a2e07d1e44de59bf523008b8b37e7963fade4a.png",
+      "id": "image-20637d8138c333037526",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "01_29cc1119-2c2f-41f5-8f00-9ac49d3feb7b.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "45e933e490716576c651dbf3f6a2e07d1e44de59bf523008b8b37e7963fade4a",
+      "size": 308196,
+      "source_url": "https://store.bblcdn.com/s7/default/a4ed87cf798348419f653f1973955bd5/01_29cc1119-2c2f-41f5-8f00-9ac49d3feb7b.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b9/b970839622723848e26eeb0b2587a492403b71c76fc885e0546b44c4a09b5044.png",
+      "id": "image-f644e01f63a68e7b98dd",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123862464-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b970839622723848e26eeb0b2587a492403b71c76fc885e0546b44c4a09b5044",
+      "size": 1395426,
+      "source_url": "https://store.bblcdn.com/s7/default/5e97132ab25c4ea1b7e19e49fdd4d928/Frame_1123862464-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/01/01a06d8b40ce4763f3d2c210de5c72795787d17ec99d5a2682a1061ecb7b13ec.png",
+      "id": "image-488c8ea482eb91656bf6",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123862464.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "01a06d8b40ce4763f3d2c210de5c72795787d17ec99d5a2682a1061ecb7b13ec",
+      "size": 1263456,
+      "source_url": "https://store.bblcdn.com/s7/default/7494cf81b2a548bc85fba2c0c77449b4/Frame_1123862464.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/8c/8c0efadd57ca31f0f748c94ad4c61c72e787124dd86ecce20ecb0568dd2f20fa.png",
+      "id": "image-b8ba7c10744a531b2f07",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123862465_da59bce2-c6a7-42b6-aa29-e51bcf971ec1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8c0efadd57ca31f0f748c94ad4c61c72e787124dd86ecce20ecb0568dd2f20fa",
+      "size": 1162664,
+      "source_url": "https://store.bblcdn.com/s7/default/9654367c98eb4229940afd6f7a0a0dfa/Frame_1123862465_da59bce2-c6a7-42b6-aa29-e51bcf971ec1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/90/90f18c6813a9ad65ede7ae67fb4b6bccec584f4887864408552b9f39efa76eab.png",
+      "id": "image-ac70d3d730184c9a32da",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123862465-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "90f18c6813a9ad65ede7ae67fb4b6bccec584f4887864408552b9f39efa76eab",
+      "size": 1430719,
+      "source_url": "https://store.bblcdn.com/s7/default/ffcd14b96c2b4f78b4894ebafb1d10d1/Frame_1123862465-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/6f/6fca8a08ae960cd43f684852a17c9570ee96a2a05a54a75d4ce609c10a880a54.zip",
+      "id": "archive-4522fa0a3ae7fac9aa28",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Electric_Water_Spray_Kit_01.zip",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6fca8a08ae960cd43f684852a17c9570ee96a2a05a54a75d4ce609c10a880a54",
+      "size": 1176976,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Electric_Water_Spray_Kit_01.zip"
+    },
+    {
+      "archive_member_path": "Electric Water Spray Kit 01/Electric Water Spray Kit 01.stp",
+      "blob_path": "data/blobs/sha256/95/95b9fce44e31ae659c79824ac4c124192b6bac0416f9bd28d5b45c4b9a5fa060.stp",
+      "id": "model-c1fe81d1734d4f315bbf",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Electric Water Spray Kit 01.stp",
+      "parent_asset_id": "archive-4522fa0a3ae7fac9aa28",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "95b9fce44e31ae659c79824ac4c124192b6bac0416f9bd28d5b45c4b9a5fa060",
+      "size": 5380988,
+      "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Electric_Water_Spray_Kit_01.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/fc/fcf0ab159b7b5730afc229e6fd95b0a407ad31bc8d699c63ab3fdf51257f00a1.png",
+      "id": "image-display-bc14af6e3ff6f73bec62",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1601,
+        "source_sha256": "45e933e490716576c651dbf3f6a2e07d1e44de59bf523008b8b37e7963fade4a",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "01_29cc1119-2c2f-41f5-8f00-9ac49d3feb7b.catalog.png",
+      "parent_asset_id": "image-20637d8138c333037526",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "fcf0ab159b7b5730afc229e6fd95b0a407ad31bc8d699c63ab3fdf51257f00a1",
+      "size": 92069,
+      "source_url": "https://store.bblcdn.com/s7/default/a4ed87cf798348419f653f1973955bd5/01_29cc1119-2c2f-41f5-8f00-9ac49d3feb7b.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7e/7e85b0fb4937a56e9f6ee0233228bbe22dd72658b3d30289c58853b8a091c53d.png",
+      "id": "image-display-7be05f5acc7f398004ea",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "b970839622723848e26eeb0b2587a492403b71c76fc885e0546b44c4a09b5044",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123862464-1.catalog.png",
+      "parent_asset_id": "image-f644e01f63a68e7b98dd",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7e85b0fb4937a56e9f6ee0233228bbe22dd72658b3d30289c58853b8a091c53d",
+      "size": 1229539,
+      "source_url": "https://store.bblcdn.com/s7/default/5e97132ab25c4ea1b7e19e49fdd4d928/Frame_1123862464-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/6d/6d296c3f3aec3b4cf0a5b06265c5fafed7390386b10b3b78b65a268e79450c8f.png",
+      "id": "image-display-2a0b49d4ea5ba3ed4084",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "01a06d8b40ce4763f3d2c210de5c72795787d17ec99d5a2682a1061ecb7b13ec",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123862464.catalog.png",
+      "parent_asset_id": "image-488c8ea482eb91656bf6",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6d296c3f3aec3b4cf0a5b06265c5fafed7390386b10b3b78b65a268e79450c8f",
+      "size": 1140935,
+      "source_url": "https://store.bblcdn.com/s7/default/7494cf81b2a548bc85fba2c0c77449b4/Frame_1123862464.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/69/6983c5f14f3842b05089aa6b44b4702c71879c6acaef1e4ea33f29b0f78bdc9f.png",
+      "id": "image-display-8ada919a891a40e0c475",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "8c0efadd57ca31f0f748c94ad4c61c72e787124dd86ecce20ecb0568dd2f20fa",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123862465_da59bce2-c6a7-42b6-aa29-e51bcf971ec1.catalog.png",
+      "parent_asset_id": "image-b8ba7c10744a531b2f07",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6983c5f14f3842b05089aa6b44b4702c71879c6acaef1e4ea33f29b0f78bdc9f",
+      "size": 1013672,
+      "source_url": "https://store.bblcdn.com/s7/default/9654367c98eb4229940afd6f7a0a0dfa/Frame_1123862465_da59bce2-c6a7-42b6-aa29-e51bcf971ec1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a2/a2621ff3c0ca29fea756069d119606925ab3dbd2c51f37ec2df3d72a6ada7095.png",
+      "id": "image-display-4d8f276291e5b814e908",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "90f18c6813a9ad65ede7ae67fb4b6bccec584f4887864408552b9f39efa76eab",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123862465-1.catalog.png",
+      "parent_asset_id": "image-ac70d3d730184c9a32da",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a2621ff3c0ca29fea756069d119606925ab3dbd2c51f37ec2df3d72a6ada7095",
+      "size": 1253127,
+      "source_url": "https://store.bblcdn.com/s7/default/ffcd14b96c2b4f78b4894ebafb1d10d1/Frame_1123862465-1.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "name": "Water Sprayer Gearbox Module - S06",
+      "variant_quantities": [
+        {
+          "quantity": "1 pcs",
+          "variant": "Electric Water Spray Kit 01 - ZC004"
+        },
+        {
+          "quantity": "1 pcs",
+          "variant": "T-10 Water Toy Gun - ZH054"
+        }
+      ]
+    },
+    {
+      "name": "18650 7.4V 2200mAh Li-ion Battery",
+      "variant_quantities": [
+        {
+          "quantity": "1 pcs",
+          "variant": "Electric Water Spray Kit 01 - ZC004"
+        },
+        {
+          "quantity": "1 pcs",
+          "variant": "T-10 Water Toy Gun - ZH054"
+        }
+      ]
+    },
+    {
+      "name": "USB Charger for 7.4V 18650 Battery with PH2.0 Connector",
+      "variant_quantities": [
+        {
+          "quantity": "1 pcs",
+          "variant": "Electric Water Spray Kit 01 - ZC004"
+        },
+        {
+          "quantity": "1 pcs",
+          "variant": "T-10 Water Toy Gun - ZH054"
+        }
+      ]
+    },
+    {
+      "name": "Water Pump",
+      "variant_quantities": [
+        {
+          "quantity": "1 pcs",
+          "variant": "Electric Water Spray Kit 01 - ZC004"
+        },
+        {
+          "quantity": "1 pcs",
+          "variant": "T-10 Water Toy Gun - ZH054"
+        }
+      ]
+    },
+    {
+      "name": "150mm Y Type PH2.0 Adapter",
+      "variant_quantities": [
+        {
+          "quantity": "1 pcs",
+          "variant": "Electric Water Spray Kit 01 - ZC004"
+        },
+        {
+          "quantity": "1 pcs",
+          "variant": "T-10 Water Toy Gun - ZH054"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa187-m3-flat-head-cap-machine-screws-fhcs",
+      "name": "M3x16 FHCS Machine Screw (10PCS) - AA088",
+      "variant_quantities": [
+        {
+          "quantity": "-",
+          "variant": "Electric Water Spray Kit 01 - ZC004"
+        },
+        {
+          "quantity": "2 pcs",
+          "variant": "T-10 Water Toy Gun - ZH054"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "rc003-silicone-tube",
+      "name": "3x5mm Transparent Silicone Tube 2m (1PCS) - RC021",
+      "variant_quantities": [
+        {
+          "quantity": "-",
+          "variant": "Electric Water Spray Kit 01 - ZC004"
+        },
+        {
+          "quantity": "1 pcs",
+          "variant": "T-10 Water Toy Gun - ZH054"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Kits & Bundles"
+  ],
+  "category_assignments": [
+    {
+      "id": "kits",
+      "label": "Kits & Bundles",
+      "path": [
+        "Kits & Bundles"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[7]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Electric Water Spray Kit 01 contains all the non-3D printed hardware components necessary to assemble the Electric Water Toy Gun. The electric water gun mechanism allows for continuous shooting, with a pulsing water flow activated by pulling the trigger. The mechanism features a simulated recoil function for added fun. The kit also includes a water pump that automatically draws water from open sources into the tank, reducing the need for users to detach it for refills."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The kit does not include the required silicone tubes; you can purchase the appropriate length based on your specific needs ( 3x5mm Transparent 2m (1PCS) - RC021 ). To complete the design, you need to download the model files and 3D print the parts."
+    },
+    {
+      "kind": "heading",
+      "text": "Considerations for The Kit"
+    },
+    {
+      "kind": "bullet",
+      "text": "Do not operate the Water Toy Gun without water, it may damage the internal components and render it non-functional."
+    },
+    {
+      "kind": "bullet",
+      "text": "The switch and battery are not waterproof, do not submerge the kit directly in water."
+    },
+    {
+      "kind": "bullet",
+      "text": "The required silicone tube is not included, you can purchase and cut the silicone tube as you need."
+    },
+    {
+      "kind": "bullet",
+      "text": "The mechanism includes a simulated recoil feature. Please be cautious of the interference between the housing and the recoil slider."
+    },
+    {
+      "kind": "bullet",
+      "text": "Please note that there may be small oil stains on the gearbox surface. These stains are mainly from the residual lubricants used to protect the internal gears during manufacturing. These stains do not affect the product's sealing performance or normal use, and are not a fault or quality issue."
+    },
+    {
+      "kind": "heading",
+      "text": "Warning of Lithium Battery"
+    },
+    {
+      "kind": "bullet",
+      "text": "This product utilizes a replaceable rechargeable lithium battery."
+    },
+    {
+      "kind": "bullet",
+      "text": "Adult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging."
+    },
+    {
+      "kind": "bullet",
+      "text": "Ensure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion."
+    },
+    {
+      "kind": "bullet",
+      "text": "Regularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired."
+    },
+    {
+      "kind": "bullet",
+      "text": "Choking Hazard: Contains small parts; not suitable for children under 3 years of age."
+    },
+    {
+      "kind": "bullet",
+      "text": "Improper disposal of this product may harm the environment - please recycle responsibly."
+    },
+    {
+      "kind": "heading",
+      "text": "Charging Precautions"
+    },
+    {
+      "kind": "bullet",
+      "text": "Use only the officially supplied charger. The charger is not a toy."
+    },
+    {
+      "kind": "bullet",
+      "text": "The USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging."
+    },
+    {
+      "kind": "bullet",
+      "text": "If the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge."
+    },
+    {
+      "kind": "heading",
+      "text": "Lithium Battery Safety Precautions"
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT disassemble, crush, or mechanically abuse the battery pack."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT dispose of the battery pack in fire."
+    },
+    {
+      "kind": "bullet",
+      "text": "Exercise extreme caution when handling an overheated battery pack."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<p style=\"margin-top: 30px;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-src=\"https://cdn.shopify.com/videos/c/o/v/9d12aea440144bea9708021adfc7d9e6.mov\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" style=\"width: 100%;\" width=\"300\">\n</video></p>\n</div>\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a href=\"https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Electric_Water_Spray_Kit_01.zip?v=1728904673\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://cdn.shopify.com/s/files/1/0611/4036/9460/files/3d.svg?v=1715161943\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <span>3D Model</span> </a></p>\n</div>\n<div class=\"pct pct_mc\"><br/><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Overview</h3>\n<br/>\n<p class=\"pct_p\">The <strong>Electric Water Spray Kit 01</strong> contains all the <strong>non-3D printed</strong> hardware components necessary to assemble the <strong>Electric Water Toy Gun</strong>. The electric water gun mechanism allows for continuous shooting, with a pulsing water flow activated by pulling the trigger. The mechanism features a simulated recoil function for added fun. The kit also includes a water pump that automatically draws water from open sources into the tank, reducing the need for users to detach it for refills.</p>\n<p class=\"pct_p\"><img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://cdn.shopify.com/s/files/1/0584/7236/6216/files/dfdf866d4d1efa8a1721e793143c4832.jpg?v=1735522894\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></p>\n<p class=\"pct_p\">The kit does not include the required silicone tubes; you can purchase the appropriate length based on your specific needs (<a href=\"../../../products/silicone-tube?id=515383607146504194\" style=\"color: green; font-weight: bold;\"><span style=\"color: #2dc26b;\">3x5mm Transparent 2m (1PCS) - RC021</span></a>). To complete the design, you need to download the model files and 3D print the parts.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"><br/>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"></div>\n<!-- 模型表格 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 99.9987%; height: 50px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; text-align: center; height: 25px;\"><strong>Models</strong></td>\n<td class=\"pct_td\" style=\"width: 12.7413%; text-align: center; height: 25px;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; text-align: center; height: 25px;\"><strong>Model Links</strong></td>\n<td class=\"pct_td\" style=\"width: 12.7413%; text-align: center; height: 25px;\"><strong>Need Other Accessories</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 25px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: center;\">T-10 Water Toy Gun</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 12.7413%; text-align: center; height: 25px;\"><span>@QYM3D</span></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; text-align: center; height: 25px;\"><a href=\"https://makerworld.com/en/models/896448?from=search#profileId-854581\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">T-10 Water Toy Gun</span></strong></a></td>\n<td class=\"pct_td\" style=\"width: 12.7413%; text-align: center; height: 25px;\"><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/896448?from=search#profileId-854581\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"><strong>YES</strong></a></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc\">\n<h2 class=\"pct_st\"><span style=\"margin-top: 20px; font-size: 24px;\">What's In The Box</span></h2>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 27px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 27px; text-align: center;\">Item Name</td>\n<td class=\"pct_td\" style=\"width: 20%; height: 27px; text-align: center;\">Electric Water Spray Kit 01 - ZC004</td>\n<td class=\"pct_td\" style=\"width: 20%; height: 27px; text-align: center;\">T-10 Water Toy Gun - ZH054</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #00ae42;\"><b>Water Sprayer Gearbox Module - S06</b></span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #00ae42;\"><b>18650 7.4V 2200mAh Li-ion Battery</b></span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #00ae42;\"><b>USB Charger for 7.4V 18650 Battery with PH2.0 Connector</b></span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #00ae42;\"><b>Water Pump</b></span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #00ae42;\"><b>150mm Y Type PH2.0 Adapter</b></span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #00ae42;\"><b>M3x16 FHCS Machine Screw (10PCS) - AA088</b></span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">-</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">2 pcs</span></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 18px;\">\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #00ae42;\"><b>3x5mm Transparent Silicone Tube 2m (1PCS) - RC021</b></span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">-</span></td>\n<td class=\"pct_td\" style=\"width: 20%; height: 18px; text-align: center;\"><span style=\"color: #000000;\">1 pcs</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<p></p>\n<!-- table布局 --></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tb\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\">Difference between <a class=\"link rich-text-anchor __anchor-intercept-flag__ text-content-link\" data-eleid=\"10\" data-lark-link=\"true\" href=\"../../../products/electric-water-spray-kit-02?skr=yes\" rel=\"noopener\" target=\"_blank\"><span class=\"text-only\" data-eleid=\"3\"><span style=\"text-decoration: underline;\"><span><span style=\"color: #00ae42;\"><strong>Electric Water Spray Kit 02 </strong></span></span></span></span></a> And This Kit</h2>\n<table class=\"pct_tb\" style=\"border-color: #adadad; font-weight: bold;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; text-align: center; padding: 10px !important;\">\n<div>Product </div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; padding: 10px !important; text-align: center;\">\n<div style=\"text-align: center;\"></div>\nElectric Water Spray Kit 01</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; padding: 10px !important; text-align: center;\">\n<div style=\"text-align: center;\"></div>\nElectric Water Spray Kit 02</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; padding: 10px !important;\">Size</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important;\">5.3 x 2.95 x 20.5  CM</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important;\">3.27 x 2.49 x 15.7 CM</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; padding: 10px !important;\">Auto-fill </td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important;\">Yes</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important;\">No</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; padding: 10px !important;\">Voltage</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important;\">7.4 V</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important;\">3.7 V</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; padding: 10px !important;\">Range</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important;\">10 M</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border-color: #adadad; padding: 10px !important;\">7-8 M</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; padding: 10px !important;\">Rate of Fire</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important;\">2 round/s</td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border-color: #adadad; padding: 10px !important;\">8 round/s</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; padding: 10px !important;\">Silicone tube &amp; screw</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important;\">\n<p>Purchased separately</p>\n<a href=\"../../../products/silicone-tube?id=515383607146504194\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\"> 3x5mm Transparent 2m (1PCS)</span></strong></a></td>\n<td class=\"pct_td\" colspan=\"2\" style=\"border-color: #adadad; padding: 10px !important;\">Included</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p></p>\n<div class=\"pct pct_mc\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\" style=\"font-size: 24px; text-align: center;\">Product Specification</h2>\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 100%;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><b>Color</b></td>\n<td class=\"pct_td\">Black</td>\n<td class=\"pct_td\"><b>Current</b></td>\n<td class=\"pct_td\">1 A+0.5 A (Gearbox+Pump)</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><b>Material</b></td>\n<td class=\"pct_td\">Metal and plastic</td>\n<td class=\"pct_td\"><b>Voltage</b></td>\n<td class=\"pct_td\">7.4 V</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><b>Range</b></td>\n<td class=\"pct_td\">10 m</td>\n<td class=\"pct_td\"><b>Packaging Size</b></td>\n<td class=\"pct_td\">87*57*220 mm</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><b>Rate of Fire</b></td>\n<td class=\"pct_td\">2 round/s</td>\n<td class=\"pct_td\"><b>Packaging Weight</b></td>\n<td class=\"pct_td\">278.5 g</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<p></p>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"font-size: 24px; text-align: center;\">Important Notices</h2>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Considerations for The Kit</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">Do not operate the Water Toy Gun without water, it may damage the internal components and render it non-functional.</li>\n<li style=\"text-align: left; font-size: 16px;\">The switch and battery are not waterproof, do not submerge the kit directly in water.</li>\n<li style=\"text-align: left; font-size: 16px;\">The required silicone tube is not included, you can purchase and cut the silicone tube as you need.</li>\n<li style=\"text-align: left; font-size: 16px;\">The mechanism includes a simulated recoil feature. Please be cautious of the interference between the housing and the recoil slider.</li>\n<li style=\"text-align: left; font-size: 16px;\">Please note that there may be small oil stains on the gearbox surface. These stains are mainly from the residual lubricants used to protect the internal gears during manufacturing. These stains do not affect the product's sealing performance or normal use, and are not a fault or quality issue.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Warning of Lithium Battery</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">This product utilizes a replaceable rechargeable lithium battery.</li>\n<li style=\"text-align: left; font-size: 16px;\">Adult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.</li>\n<li style=\"text-align: left; font-size: 16px;\">Ensure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.</li>\n<li style=\"text-align: left; font-size: 16px;\">Regularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.</li>\n<li style=\"text-align: left; font-size: 16px;\">Choking Hazard: Contains small parts; not suitable for children under 3 years of age.</li>\n<li style=\"text-align: left; font-size: 16px;\">Improper disposal of this product may harm the environment - please recycle responsibly.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Charging Precautions</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">Use only the officially supplied charger. The charger is not a toy.</li>\n<li style=\"text-align: left; font-size: 16px;\">The USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> charge the battery pack if it is overheating. Allow it to cool down completely before recharging.</li>\n<li style=\"text-align: left; font-size: 16px;\">If the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Lithium Battery Safety Precautions</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> disassemble, crush, or mechanically abuse the battery pack.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> dispose of the battery pack in fire.</li>\n<li style=\"text-align: left; font-size: 16px;\">Exercise extreme caution when handling an overheated battery pack.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The Electric Water Spray Kit 01 contains all the non-3D printed hardware components necessary to assemble the Electric Water Toy Gun. The electric water gun mechanism allows for continuous shooting, with a pulsing water flow activated by pulling the trigger. The mechanism features a simulated recoil function for added fun. The kit also includes a water pump that automatically draws water from open sources into the tank, reducing the need for users to detach it for refills.\n\nThe kit does not include the required silicone tubes; you can purchase the appropriate length based on your specific needs ( 3x5mm Transparent 2m (1PCS) - RC021 ). To complete the design, you need to download the model files and 3D print the parts.\n\nDo not operate the Water Toy Gun without water, it may damage the internal components and render it non-functional.\n\nThe switch and battery are not waterproof, do not submerge the kit directly in water.\n\nThe required silicone tube is not included, you can purchase and cut the silicone tube as you need.\n\nThe mechanism includes a simulated recoil feature. Please be cautious of the interference between the housing and the recoil slider.\n\nPlease note that there may be small oil stains on the gearbox surface. These stains are mainly from the residual lubricants used to protect the internal gears during manufacturing. These stains do not affect the product's sealing performance or normal use, and are not a fault or quality issue.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zc004-electric-water-spray-kit-01",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Electric Water Spray Kit 01",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "18.69",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/electric-water-spray-kit-01?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "21.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/electric-water-spray-kit-01?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/electric-water-spray-kit-01?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "14.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/electric-water-spray-kit-01?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "33.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/electric-water-spray-kit-01?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "16.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/electric-water-spray-kit-01?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA088",
+    "RC021",
+    "ZC004",
+    "ZH054"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "T-10 Water Toy Gun",
+      "url": "https://makerworld.com/en/models/896448?from=search#profileId-854581"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "622556903793008642",
+    "622556903793008646",
+    "622557556460888066",
+    "622557556460888070",
+    "622558055447928834",
+    "622558055447928838",
+    "622558442672119810",
+    "622558442672119814",
+    "622558647001845762",
+    "622558647001845766",
+    "622560774483795970",
+    "622560774487990274"
+  ],
+  "source_tables": [
+    {
+      "caption": "Overview",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/electric-water-spray-kit-01?id=622556903793008642"
+      },
+      "rows": [
+        [
+          "Models",
+          "Creators",
+          "Model Links",
+          "Need Other Accessories"
+        ],
+        [
+          "T-10 Water Toy Gun",
+          "@QYM3D",
+          "T-10 Water Toy Gun",
+          "YES"
+        ]
+      ]
+    },
+    {
+      "caption": "What's In The Box",
+      "headers": [
+        "Item Name",
+        "Electric Water Spray Kit 01 - ZC004",
+        "T-10 Water Toy Gun - ZH054"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/electric-water-spray-kit-01?id=622556903793008642"
+      },
+      "rows": [
+        [
+          "Water Sprayer Gearbox Module - S06",
+          "1 pcs",
+          "1 pcs"
+        ],
+        [
+          "18650 7.4V 2200mAh Li-ion Battery",
+          "1 pcs",
+          "1 pcs"
+        ],
+        [
+          "USB Charger for 7.4V 18650 Battery with PH2.0 Connector",
+          "1 pcs",
+          "1 pcs"
+        ],
+        [
+          "Water Pump",
+          "1 pcs",
+          "1 pcs"
+        ],
+        [
+          "150mm Y Type PH2.0 Adapter",
+          "1 pcs",
+          "1 pcs"
+        ],
+        [
+          "M3x16 FHCS Machine Screw (10PCS) - AA088",
+          "-",
+          "2 pcs"
+        ],
+        [
+          "3x5mm Transparent Silicone Tube 2m (1PCS) - RC021",
+          "-",
+          "1 pcs"
+        ]
+      ]
+    },
+    {
+      "caption": "Difference between Electric Water Spray Kit 02 And This Kit",
+      "headers": [
+        "Product",
+        "Electric Water Spray Kit 01",
+        "Electric Water Spray Kit 02"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/electric-water-spray-kit-01?id=622556903793008642"
+      },
+      "rows": [
+        [
+          "Size",
+          "5.3 x 2.95 x 20.5  CM",
+          "3.27 x 2.49 x 15.7 CM"
+        ],
+        [
+          "Auto-fill",
+          "Yes",
+          "No"
+        ],
+        [
+          "Voltage",
+          "7.4 V",
+          "3.7 V"
+        ],
+        [
+          "Range",
+          "10 M",
+          "7-8 M"
+        ],
+        [
+          "Rate of Fire",
+          "2 round/s",
+          "8 round/s"
+        ],
+        [
+          "Silicone tube & screw",
+          "Purchased separately 3x5mm Transparent 2m (1PCS)",
+          "Included"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specification",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:3",
+        "source_url": "https://us.store.bambulab.com/products/electric-water-spray-kit-01?id=622556903793008642"
+      },
+      "rows": [
+        [
+          "Color",
+          "Black",
+          "Current",
+          "1 A+0.5 A (Gearbox+Pump)"
+        ],
+        [
+          "Material",
+          "Metal and plastic",
+          "Voltage",
+          "7.4 V"
+        ],
+        [
+          "Range",
+          "10 m",
+          "Packaging Size",
+          "87*57*220 mm"
+        ],
+        [
+          "Rate of Fire",
+          "2 round/s",
+          "Packaging Weight",
+          "278.5 g"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/a4ed87cf798348419f653f1973955bd5/01_29cc1119-2c2f-41f5-8f00-9ac49d3feb7b.png",
+      "part_number": "ZC004",
+      "price": "18.69",
+      "region": "us",
+      "sku": "622556903793008642",
+      "title": "Electric Water Spray Kit 01 - Electric Water Spray Kit 01 - ZC004",
+      "url": "https://us.store.bambulab.com/products/electric-water-spray-kit-01?id=622556903793008642",
+      "variant_id": "622556903793008642"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/5e97132ab25c4ea1b7e19e49fdd4d928/Frame_1123862464-1.png",
+      "part_number": "ZH054",
+      "price": "19.99",
+      "region": "us",
+      "sku": "622556903793008646",
+      "title": "Electric Water Spray Kit 01 - T-10 Water Toy Gun - ZH054",
+      "url": "https://us.store.bambulab.com/products/electric-water-spray-kit-01?id=622556903793008646",
+      "variant_id": "622556903793008646"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/191f0f567f044cfba0f675efc485a656.png",
+      "part_number": "ZC004",
+      "price": "21.99",
+      "region": "ca",
+      "sku": "622557556460888066",
+      "title": "Electric Water Spray Kit 01 - Electric Water Spray Kit 01 - ZC004",
+      "url": "https://ca.store.bambulab.com/products/electric-water-spray-kit-01?id=622557556460888066",
+      "variant_id": "622557556460888066"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/d8a97635ddb54e548ca0a4317f83785f.png",
+      "part_number": "ZH054",
+      "price": "24.99",
+      "region": "ca",
+      "sku": "622557556460888070",
+      "title": "Electric Water Spray Kit 01 - T-10 Water Toy Gun - ZH054",
+      "url": "https://ca.store.bambulab.com/products/electric-water-spray-kit-01?id=622557556460888070",
+      "variant_id": "622557556460888070"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/4dd079741d2c4017b91fbddfaa04b328/01_29cc1119-2c2f-41f5-8f00-9ac49d3feb7b.png",
+      "part_number": "ZC004",
+      "price": "17.99",
+      "region": "eu",
+      "sku": "622558442672119810",
+      "title": "Electric Water Spray Kit 01 - Electric Water Spray Kit 01 - ZC004",
+      "url": "https://eu.store.bambulab.com/products/electric-water-spray-kit-01?id=622558442672119810",
+      "variant_id": "622558442672119810"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/0a489f9c84c346b4ba71fd90dc98ab29/Frame_1123862464-1.png",
+      "part_number": "ZH054",
+      "price": "19.99",
+      "region": "eu",
+      "sku": "622558442672119814",
+      "title": "Electric Water Spray Kit 01 - T-10 Water Toy Gun - ZH054",
+      "url": "https://eu.store.bambulab.com/products/electric-water-spray-kit-01?id=622558442672119814",
+      "variant_id": "622558442672119814"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/e9951164c2f44440bc2c562a7adfeec4.png",
+      "part_number": "ZC004",
+      "price": "14.99",
+      "region": "uk",
+      "sku": "622558055447928834",
+      "title": "Electric Water Spray Kit 01 - Electric Water Spray Kit 01 - ZC004",
+      "url": "https://uk.store.bambulab.com/products/electric-water-spray-kit-01?id=622558055447928834",
+      "variant_id": "622558055447928834"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/e9f28fd86aed444d8344dd79fa181168.png",
+      "part_number": "ZH054",
+      "price": "16.99",
+      "region": "uk",
+      "sku": "622558055447928838",
+      "title": "Electric Water Spray Kit 01 - T-10 Water Toy Gun - ZH054",
+      "url": "https://uk.store.bambulab.com/products/electric-water-spray-kit-01?id=622558055447928838",
+      "variant_id": "622558055447928838"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/6faa45f89d9a4d47b982a3d99b424bde.png",
+      "part_number": "ZC004",
+      "price": "33.99",
+      "region": "au",
+      "sku": "622558647001845762",
+      "title": "Electric Water Spray Kit 01 - Electric Water Spray Kit 01 - ZC004",
+      "url": "https://au.store.bambulab.com/products/electric-water-spray-kit-01?id=622558647001845762",
+      "variant_id": "622558647001845762"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/dd8836605dbc42f2b2363bf9861b7704.png",
+      "part_number": "ZH054",
+      "price": "37.99",
+      "region": "au",
+      "sku": "622558647001845766",
+      "title": "Electric Water Spray Kit 01 - T-10 Water Toy Gun - ZH054",
+      "url": "https://au.store.bambulab.com/products/electric-water-spray-kit-01?id=622558647001845766",
+      "variant_id": "622558647001845766"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/fc53b32c2ddd4cfb83e3f9f22cda77dc.png",
+      "part_number": "ZC004",
+      "price": "16.99",
+      "region": "asia",
+      "sku": "622560774483795970",
+      "title": "Electric Water Spray Kit 01 - Electric Water Spray Kit 01 - ZC004",
+      "url": "https://asia.store.bambulab.com/products/electric-water-spray-kit-01?id=622560774483795970",
+      "variant_id": "622560774483795970"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/26b1142bfa204a00a695776c2d7c295a.png",
+      "part_number": "ZH054",
+      "price": "19.99",
+      "region": "asia",
+      "sku": "622560774487990274",
+      "title": "Electric Water Spray Kit 01 - T-10 Water Toy Gun - ZH054",
+      "url": "https://asia.store.bambulab.com/products/electric-water-spray-kit-01?id=622560774487990274",
+      "variant_id": "622560774487990274"
+    }
+  ]
+}

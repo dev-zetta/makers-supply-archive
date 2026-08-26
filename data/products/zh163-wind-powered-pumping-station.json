@@ -1,0 +1,382 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "wind-powered-pumping-station",
+      "product_id": "753378678737903616",
+      "region": "us"
+    },
+    {
+      "handle": "wind-powered-pumping-station",
+      "product_id": "753380330775564288",
+      "region": "ca"
+    },
+    {
+      "handle": "wind-powered-pumping-station",
+      "product_id": "753377626164506624",
+      "region": "eu"
+    },
+    {
+      "handle": "wind-powered-pumping-station",
+      "product_id": "753379856381358080",
+      "region": "uk"
+    },
+    {
+      "handle": "wind-powered-pumping-station",
+      "product_id": "753383794989780992",
+      "region": "au"
+    },
+    {
+      "handle": "wind-powered-pumping-station",
+      "product_id": "751643645878751232",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/85/85a6cf92424ddfcaf15bfb143067f692fcdaea1de544513c17a864dcdb559126.png",
+      "id": "image-4eaf85fbc735484da687",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH163.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "85a6cf92424ddfcaf15bfb143067f692fcdaea1de544513c17a864dcdb559126",
+      "size": 3902302,
+      "source_url": "https://store.bblcdn.com/s5/default/a6e2aeeddc194a4ab93201ce3026c94e/ZH163.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7c/7c0f22047a417a8980239596b2d214d26c7d5d1c555d910f5b4e86ed0c88ba60.png",
+      "id": "image-0459819e45b3243b0a19",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH163_V.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7c0f22047a417a8980239596b2d214d26c7d5d1c555d910f5b4e86ed0c88ba60",
+      "size": 279436,
+      "source_url": "https://store.bblcdn.com/s5/default/60ebdf04af30471a892206f383a7e1f1/B-ZH163_V.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c1/c193572b44792d3f213d5e8ca54b8bc28b84bc924737b41f378febb442b4d951.png",
+      "id": "image-display-843a603fe9b800668f20",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "85a6cf92424ddfcaf15bfb143067f692fcdaea1de544513c17a864dcdb559126",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH163.catalog.png",
+      "parent_asset_id": "image-4eaf85fbc735484da687",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c193572b44792d3f213d5e8ca54b8bc28b84bc924737b41f378febb442b4d951",
+      "size": 1015278,
+      "source_url": "https://store.bblcdn.com/s5/default/a6e2aeeddc194a4ab93201ce3026c94e/ZH163.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c7/c762448ad4f2ce2a26cbf131c0dac892e2d4e9b050e511ea50e7de96015a3bcb.png",
+      "id": "image-display-542b5a04c9aea3cbcac1",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "7c0f22047a417a8980239596b2d214d26c7d5d1c555d910f5b4e86ed0c88ba60",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH163_V.catalog.png",
+      "parent_asset_id": "image-0459819e45b3243b0a19",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c762448ad4f2ce2a26cbf131c0dac892e2d4e9b050e511ea50e7de96015a3bcb",
+      "size": 85750,
+      "source_url": "https://store.bblcdn.com/s5/default/60ebdf04af30471a892206f383a7e1f1/B-ZH163_V.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "rc003-silicone-tube",
+      "name": "Silicone Tube 3x5mm Transparent 2m (1PCS) - RC021",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/silicone-tube?skr=yes&id=42952361934984&modelId=2680429",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ptfe-tubes",
+      "name": "PTFE Tube (530mm*2PCS + 30mm*2PCS)",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/ptfe-tubes?skr=yes&id=723049025637523605&modelId=2680429",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "Micro Steel Deep Groove Ball Bearing MR128ZZ (6PCS) - EA004",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/micro-steel-deep-groove-ball-bearings?skr=yes&id=42504744960136&modelId=2680429",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "Micro Steel Deep Groove Ball Bearing MR85ZZ (6PCS) - EA013",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/micro-steel-deep-groove-ball-bearings?skr=yes&id=42504744566920&modelId=2680429",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa217-bt2-5-button-head-cap-self-tapping-screw-bhcs",
+      "name": "BT2.5x8 BHCS Self Tapping Screw (20PCS) - AA136",
+      "quantity": "4",
+      "source_url": "https://us.store.bambulab.com/products/bt2-5-button-head-cap-self-tapping-screw-bhcs?skr=yes&id=42382283210888&modelId=2680429",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Wind-powered Pumping Station - Wind Pump. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Wind-powered Pumping Station - Wind Pump on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Wind-powered Pumping Station - Wind Pump</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Wind-powered Pumping Station - Wind Pump</strong> on <a href=\"https://makerworld.com/en/models/2680429-wind-powered-pumping-station-wind-pump?from=search#profileId-2968456\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/silicone-tube?skr=yes&amp;id=42952361934984&amp;modelId=2680429\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Silicone Tube 3x5mm Transparent 2m (1PCS) - RC021</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/ptfe-tubes?skr=yes&amp;id=723049025637523605&amp;modelId=2680429\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> PTFE Tube (530mm*2PCS + 30mm*2PCS)</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/micro-steel-deep-groove-ball-bearings?skr=yes&amp;id=42504744960136&amp;modelId=2680429\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Micro Steel Deep Groove Ball Bearing MR128ZZ (6PCS) - EA004</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/micro-steel-deep-groove-ball-bearings?skr=yes&amp;id=42504744566920&amp;modelId=2680429\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Micro Steel Deep Groove Ball Bearing MR85ZZ (6PCS) - EA013</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/bt2-5-button-head-cap-self-tapping-screw-bhcs?skr=yes&amp;id=42382283210888&amp;modelId=2680429\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">BT2.5x8 BHCS Self Tapping Screw (20PCS) - AA136</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">4</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Wind-powered Pumping Station - Wind Pump. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Wind-powered Pumping Station - Wind Pump on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh163-wind-powered-pumping-station",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Wind-powered Pumping Station",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "19.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://ca.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "18.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "16.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "26.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA136",
+    "EA004",
+    "EA013",
+    "RC021",
+    "ZH163"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Wind Powered Pumping Station Wind Pump",
+      "url": "https://makerworld.com/en/models/2680429-wind-powered-pumping-station-wind-pump?from=search#profileId-2968456"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "751643645920694274",
+    "753377626185478144",
+    "753378678763069442",
+    "753379856427495424",
+    "753380330796535808",
+    "753383795044306946"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/wind-powered-pumping-station?id=753378678763069442"
+      },
+      "rows": [
+        [
+          "Silicone Tube 3x5mm Transparent 2m (1PCS) - RC021",
+          "1"
+        ],
+        [
+          "PTFE Tube (530mm*2PCS + 30mm*2PCS)",
+          "1"
+        ],
+        [
+          "Micro Steel Deep Groove Ball Bearing MR128ZZ (6PCS) - EA004",
+          "1"
+        ],
+        [
+          "Micro Steel Deep Groove Ball Bearing MR85ZZ (6PCS) - EA013",
+          "1"
+        ],
+        [
+          "BT2.5x8 BHCS Self Tapping Screw (20PCS) - AA136",
+          "4"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/d47ebdc91bd54180992c9884b8cdc411/ZH163.png",
+      "part_number": "ZH163",
+      "price": "17.99",
+      "region": "us",
+      "sku": "753378678763069442",
+      "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
+      "url": "https://us.store.bambulab.com/products/wind-powered-pumping-station?id=753378678763069442",
+      "variant_id": "753378678763069442"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/a6e2aeeddc194a4ab93201ce3026c94e/ZH163.png",
+      "part_number": "ZH163",
+      "price": "19.99",
+      "region": "ca",
+      "sku": "753380330796535808",
+      "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
+      "url": "https://ca.store.bambulab.com/products/wind-powered-pumping-station?id=753380330796535808",
+      "variant_id": "753380330796535808"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/29f8db6c840c4ffcb031b53e0462443e/ZH163.png",
+      "part_number": "ZH163",
+      "price": "18.99",
+      "region": "eu",
+      "sku": "753377626185478144",
+      "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
+      "url": "https://eu.store.bambulab.com/products/wind-powered-pumping-station?id=753377626185478144",
+      "variant_id": "753377626185478144"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/b7cff58c5a24406e955586c592a0dc2b/ZH163.png",
+      "part_number": "ZH163",
+      "price": "16.99",
+      "region": "uk",
+      "sku": "753379856427495424",
+      "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
+      "url": "https://uk.store.bambulab.com/products/wind-powered-pumping-station?id=753379856427495424",
+      "variant_id": "753379856427495424"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/c77e340ca74d416d8e54a44a0cc72905/ZH163.png",
+      "part_number": "ZH163",
+      "price": "26.99",
+      "region": "au",
+      "sku": "753383795044306946",
+      "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
+      "url": "https://au.store.bambulab.com/products/wind-powered-pumping-station?id=753383795044306946",
+      "variant_id": "753383795044306946"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/4997e39cdb16441e93c0c4a97cfed1f0/ZH163.png",
+      "part_number": "ZH163",
+      "price": "15.99",
+      "region": "asia",
+      "sku": "751643645920694274",
+      "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
+      "url": "https://asia.store.bambulab.com/products/wind-powered-pumping-station?id=751643645920694274",
+      "variant_id": "751643645920694274"
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "textured-helmet-collection",
+      "product_id": "8337986027656",
+      "region": "us"
+    },
+    {
+      "handle": "textured-helmet-collection",
+      "product_id": "9002574151920",
+      "region": "ca"
+    },
+    {
+      "handle": "textured-helmet-collection",
+      "product_id": "9555571179868",
+      "region": "eu"
+    },
+    {
+      "handle": "textured-helmet-collection",
+      "product_id": "7774130470972",
+      "region": "uk"
+    },
+    {
+      "handle": "textured-helmet-collection",
+      "product_id": "8582173032611",
+      "region": "au"
+    },
+    {
+      "handle": "textured-helmet-collection",
+      "product_id": "506026344380116992",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/fe/fe339d27d529f9e8cc77fac915340a713bbf19c7fff866abae53e048c15a094f.jpg",
+      "id": "image-f807a822806bd621cbc5",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "2-1.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "fe339d27d529f9e8cc77fac915340a713bbf19c7fff866abae53e048c15a094f",
+      "size": 92465,
+      "source_url": "https://store.bblcdn.com/s7/default/75b8a53e4c644d018a23a38d2f848ead/2-1.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/bf/bfd2ce34962cc301b74ea0219cab178771574951f45edaae49a37e522e98a981.jpg",
+      "id": "image-7f883e366bef32a20e5a",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "2_476b717e-0268-4d75-9702-ef0442b88a7a.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "bfd2ce34962cc301b74ea0219cab178771574951f45edaae49a37e522e98a981",
+      "size": 162384,
+      "source_url": "https://store.bblcdn.com/s7/default/1a69ab7f2e6a488a8e203b8edaa34039/2_476b717e-0268-4d75-9702-ef0442b88a7a.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/df/dfb259b4fabf7489f053c78435dea34856f13d8bc64bfb81cc26664ec669286c.png",
+      "id": "image-c91f5bf07d3091d384eb",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "deadpool.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "dfb259b4fabf7489f053c78435dea34856f13d8bc64bfb81cc26664ec669286c",
+      "size": 329801,
+      "source_url": "https://store.bblcdn.com/s7/default/c18567b8310c4f81a5bdf8b876169432/deadpool.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/28/284a7a695b02111ee25ad3151cdc13c4ab0947bc64475d088fd5b1e5c586e60a.png",
+      "id": "image-fd952a9aec12b3ece8cb",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-DY001.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "284a7a695b02111ee25ad3151cdc13c4ab0947bc64475d088fd5b1e5c586e60a",
+      "size": 268298,
+      "source_url": "https://store.bblcdn.com/s7/default/7f8da2eb9d8b4504bef7cc0695d2cc37/B-DY001.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/1d/1d268eccec1d821858c9e14aad7f1736d5c0a78cc255eb52f9423e46cad72d27.png",
+      "id": "image-display-9db43f5d0268271abebf",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1200,
+        "source_sha256": "fe339d27d529f9e8cc77fac915340a713bbf19c7fff866abae53e048c15a094f",
+        "source_width": 1202
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "2-1.catalog.png",
+      "parent_asset_id": "image-f807a822806bd621cbc5",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1d268eccec1d821858c9e14aad7f1736d5c0a78cc255eb52f9423e46cad72d27",
+      "size": 220185,
+      "source_url": "https://store.bblcdn.com/s7/default/75b8a53e4c644d018a23a38d2f848ead/2-1.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/fe/fec6b6f2233d098e69ff794f63dfc0004892b512db4bc104b234f856696cb90c.png",
+      "id": "image-display-285436ba355d9459e6dc",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1200,
+        "source_sha256": "bfd2ce34962cc301b74ea0219cab178771574951f45edaae49a37e522e98a981",
+        "source_width": 1202
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "2_476b717e-0268-4d75-9702-ef0442b88a7a.catalog.png",
+      "parent_asset_id": "image-7f883e366bef32a20e5a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "fec6b6f2233d098e69ff794f63dfc0004892b512db4bc104b234f856696cb90c",
+      "size": 332810,
+      "source_url": "https://store.bblcdn.com/s7/default/1a69ab7f2e6a488a8e203b8edaa34039/2_476b717e-0268-4d75-9702-ef0442b88a7a.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ed/ed2622f301a3e955d5782dc672224b04f77959358969722fa3a757b64a5be93e.png",
+      "id": "image-display-875de7bcd7c587616913",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "dfb259b4fabf7489f053c78435dea34856f13d8bc64bfb81cc26664ec669286c",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "deadpool.catalog.png",
+      "parent_asset_id": "image-c91f5bf07d3091d384eb",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ed2622f301a3e955d5782dc672224b04f77959358969722fa3a757b64a5be93e",
+      "size": 107422,
+      "source_url": "https://store.bblcdn.com/s7/default/c18567b8310c4f81a5bdf8b876169432/deadpool.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/58/5891c890a4056502829508fe823c791bc0c0599ab6f9a92aebd2199623e25a8c.png",
+      "id": "image-display-a5addb44b4581ab012c3",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "284a7a695b02111ee25ad3151cdc13c4ab0947bc64475d088fd5b1e5c586e60a",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-DY001.catalog.png",
+      "parent_asset_id": "image-fd952a9aec12b3ece8cb",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5891c890a4056502829508fe823c791bc0c0599ab6f9a92aebd2199623e25a8c",
+      "size": 95354,
+      "source_url": "https://store.bblcdn.com/s7/default/7f8da2eb9d8b4504bef7cc0695d2cc37/B-DY001.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling various functional Textured Helmet Collection. To complete the work, you also need to download the Textured Helmet Collection and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\"><!-- 第一条 -->\n<div class=\"pct_st-p\"></div>\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The product contains all the <strong data-mce-fragment=\"1\">non-3D printed</strong> parts for assembling various functional <strong data-mce-fragment=\"1\">Textured Helmet Collection. </strong>To complete the work, you also need to download the <strong data-mce-fragment=\"1\">Textured Helmet Collection</strong> and  <strong data-mce-fragment=\"1\">3D print</strong> the remaining parts.</p>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\"></span></em></strong></span></div>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 99.9987%; height: 125.5px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.5833px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 19.5833px;\"><strong> Models</strong></td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 19.5833px;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 19.5833px;\"><b>Model Links</b></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 47.1667px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 47.1667px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>Wolverine D3 Textured Helmet</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 47.1667px;\"><span>Budwin</span></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 47.1667px;\"><a href=\"https://makerworld.com/en/models/572411#profileId-495164\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Wolverine D3 Textured Helmet</span></strong></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5833px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 19.5833px;\">Deadpool Comic Style Textured Helmet</td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 19.5833px;\"><span>Budwin</span></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 19.5833px;\"><a href=\"https://makerworld.com/en/models/574035?from=search#profileId-497011\"><strong><span style=\"color: #00ae42;\">Deadpool Comic Style Textured Helmet</span></strong></a></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\" style=\"padding: 0;\">\n<h2 class=\"pct_t\">In the Box</h2>\n<div class=\"pct pct_mc\" data-mce-fragment=\"1\">\n<div class=\"pct_t-tb\" data-mce-fragment=\"1\"><span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\" data-mce-fragment=\"1\"></span>\n<table class=\"pct_tb\" data-mce-fragment=\"1\"><!-- 表头 -->\n<tbody data-mce-fragment=\"1\">\n<tr class=\"pct_tr\" data-mce-fragment=\"1\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"width: 80%;\"><strong data-mce-fragment=\"1\">Item <span>for Wolverine D3 Textured Helmet</span></strong></td>\n<td class=\"pct_td\" data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"width: 80%;\">\n<ul>\n<li>\n<p>D8x2 mm Round Magnet (20PCS) - CA005</p>\n</li>\n</ul>\n</td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"width: 20%;\"> 2</td>\n</tr>\n</tbody>\n</table>\n<table class=\"pct_tb\" style=\"width: 100.062%;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"width: 80%;\"><strong data-mce-fragment=\"1\">Item <span>for Deadpool Comic Style Textured Helmet</span></strong></td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"width: 20%;\"><strong data-mce-fragment=\"1\">Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"width: 79.6995%;\">\n<ul>\n<li>\n<p>D8x2 mm Round Magnet (20PCS) - CA005</p>\n</li>\n</ul>\n</td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" style=\"width: 20.0167%;\"> 4</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<ul></ul>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling various functional Textured Helmet Collection. To complete the work, you also need to download the Textured Helmet Collection and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh016-textured-helmet-collection",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Textured Helmet Collection",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.7",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.56",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.37",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.56",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10.29",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.18",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "CA005",
+    "ZH016",
+    "ZH017"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Wolverine D3 Textured Helmet",
+      "url": "https://makerworld.com/en/models/572411#profileId-495164"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Deadpool Comic Style Textured Helmet",
+      "url": "https://makerworld.com/en/models/574035?from=search#profileId-497011"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42140696936508",
+    "42140696969276",
+    "42872191123592",
+    "42872191156360",
+    "45158805930147",
+    "45158805962915",
+    "46531136487664",
+    "46531136520432",
+    "49285511250268",
+    "49285511283036",
+    "506026344380116997",
+    "506028111534567426"
+  ],
+  "source_tables": [
+    {
+      "caption": "Overview",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/textured-helmet-collection?id=42872191123592"
+      },
+      "rows": [
+        [
+          "Models",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "Wolverine D3 Textured Helmet",
+          "Budwin",
+          "Wolverine D3 Textured Helmet"
+        ],
+        [
+          "Deadpool Comic Style Textured Helmet",
+          "Budwin",
+          "Deadpool Comic Style Textured Helmet"
+        ]
+      ]
+    },
+    {
+      "caption": "In the Box",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/textured-helmet-collection?id=42872191123592"
+      },
+      "rows": [
+        [
+          "Item for Wolverine D3 Textured Helmet",
+          "Qty"
+        ],
+        [
+          "D8x2 mm Round Magnet (20PCS) - CA005",
+          "2"
+        ]
+      ]
+    },
+    {
+      "caption": "In the Box",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/textured-helmet-collection?id=42872191123592"
+      },
+      "rows": [
+        [
+          "Item for Deadpool Comic Style Textured Helmet",
+          "Qty"
+        ],
+        [
+          "D8x2 mm Round Magnet (20PCS) - CA005",
+          "4"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "D8x2 mm Round Magnet (20PCS) - CA005": "2",
+    "Item for Deadpool Comic Style Textured Helmet": "Qty",
+    "Item for Wolverine D3 Textured Helmet": "Qty"
+  },
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/75b8a53e4c644d018a23a38d2f848ead/2-1.jpg",
+      "part_number": "ZH016",
+      "price": "5.7",
+      "region": "us",
+      "sku": "42872191123592",
+      "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
+      "url": "https://us.store.bambulab.com/products/textured-helmet-collection?id=42872191123592",
+      "variant_id": "42872191123592"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/1a69ab7f2e6a488a8e203b8edaa34039/2_476b717e-0268-4d75-9702-ef0442b88a7a.jpg",
+      "part_number": "ZH017",
+      "price": "11.4",
+      "region": "us",
+      "sku": "42872191156360",
+      "title": "Textured Helmet Collection - Deadpool Comic Style Textured Helmet - ZH017",
+      "url": "https://us.store.bambulab.com/products/textured-helmet-collection?id=42872191156360",
+      "variant_id": "42872191156360"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/e280eb3e4d6f431f8e0fa4874c3daf7a.jpg",
+      "part_number": "ZH016",
+      "price": "6.56",
+      "region": "ca",
+      "sku": "46531136487664",
+      "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
+      "url": "https://ca.store.bambulab.com/products/textured-helmet-collection?id=46531136487664",
+      "variant_id": "46531136487664"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/dc7771cdf266407a8db512900d1896a6.jpg",
+      "part_number": "ZH017",
+      "price": "13.12",
+      "region": "ca",
+      "sku": "46531136520432",
+      "title": "Textured Helmet Collection - Deadpool Comic Style Textured Helmet - ZH017",
+      "url": "https://ca.store.bambulab.com/products/textured-helmet-collection?id=46531136520432",
+      "variant_id": "46531136520432"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/f01f791ade5f45c681070c134c2235a2/2-1.jpg",
+      "part_number": "ZH016",
+      "price": "5.37",
+      "region": "eu",
+      "sku": "49285511250268",
+      "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
+      "url": "https://eu.store.bambulab.com/products/textured-helmet-collection?id=49285511250268",
+      "variant_id": "49285511250268"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/dc4db90fc8c04818b97e7d0a9e8d582c/2_476b717e-0268-4d75-9702-ef0442b88a7a.jpg",
+      "part_number": "ZH017",
+      "price": "10.74",
+      "region": "eu",
+      "sku": "49285511283036",
+      "title": "Textured Helmet Collection - Deadpool Comic Style Textured Helmet - ZH017",
+      "url": "https://eu.store.bambulab.com/products/textured-helmet-collection?id=49285511283036",
+      "variant_id": "49285511283036"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/0c0939f82ed7484888dd048657d27753.jpg",
+      "part_number": "ZH016",
+      "price": "4.56",
+      "region": "uk",
+      "sku": "42140696936508",
+      "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
+      "url": "https://uk.store.bambulab.com/products/textured-helmet-collection?id=42140696936508",
+      "variant_id": "42140696936508"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/a1122e13b84c4d2d9ecdc18c7ad67472.jpg",
+      "part_number": "ZH017",
+      "price": "9.12",
+      "region": "uk",
+      "sku": "42140696969276",
+      "title": "Textured Helmet Collection - Deadpool Comic Style Textured Helmet - ZH017",
+      "url": "https://uk.store.bambulab.com/products/textured-helmet-collection?id=42140696969276",
+      "variant_id": "42140696969276"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/719ed5adc1be40f7b24330301f4083b0.jpg",
+      "part_number": "ZH016",
+      "price": "10.29",
+      "region": "au",
+      "sku": "45158805930147",
+      "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
+      "url": "https://au.store.bambulab.com/products/textured-helmet-collection?id=45158805930147",
+      "variant_id": "45158805930147"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/7a930c4c326c4b2bbcd1206961cb9b90.jpg",
+      "part_number": "ZH017",
+      "price": "20.58",
+      "region": "au",
+      "sku": "45158805962915",
+      "title": "Textured Helmet Collection - Deadpool Comic Style Textured Helmet -ZH017",
+      "url": "https://au.store.bambulab.com/products/textured-helmet-collection?id=45158805962915",
+      "variant_id": "45158805962915"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/4d3867b5c6eb426a8ccc15eaf725a258.jpg",
+      "part_number": "ZH016",
+      "price": "5.18",
+      "region": "asia",
+      "sku": "506026344380116997",
+      "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
+      "url": "https://asia.store.bambulab.com/products/textured-helmet-collection?id=506026344380116997",
+      "variant_id": "506026344380116997"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/a8d32bc50f5a4392a31671bf0430703e.jpg",
+      "part_number": "ZH017",
+      "price": "10.36",
+      "region": "asia",
+      "sku": "506028111534567426",
+      "title": "Textured Helmet Collection - Deadpool Textured Helmet -ZH017",
+      "url": "https://asia.store.bambulab.com/products/textured-helmet-collection?id=506028111534567426",
+      "variant_id": "506028111534567426"
+    }
+  ]
+}

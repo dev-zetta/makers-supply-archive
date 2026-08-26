@@ -1,0 +1,17 @@
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.coverage
+htmlcov/
+.staging/
+.state/
+.tools/
+dist/
+node_modules/
+playwright-report/
+test-results/
+catalog.sqlite

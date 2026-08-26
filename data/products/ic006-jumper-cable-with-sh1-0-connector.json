@@ -1,0 +1,407 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "jumper-cable-with-sh1-0-connector",
+      "product_id": "7975658225800",
+      "region": "us"
+    },
+    {
+      "handle": "jumper-cable-with-sh1-0-connector",
+      "product_id": "8650976461040",
+      "region": "ca"
+    },
+    {
+      "handle": "jumper-cable-with-sh1-0-connector",
+      "product_id": "8855704666460",
+      "region": "eu"
+    },
+    {
+      "handle": "jumper-cable-with-sh1-0-connector",
+      "product_id": "7390447894588",
+      "region": "uk"
+    },
+    {
+      "handle": "jumper-cable-with-sh1-0-connector",
+      "product_id": "8312090919075",
+      "region": "au"
+    },
+    {
+      "handle": "jumper-cable-with-sh1-0-connector",
+      "product_id": "7491335651443",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/47/47484312deb63448dff5cb46bd869fb39cb10bfb2bc7a013acbf95b1a3a49ba1.png",
+      "id": "image-316a3988071a0e382f4f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "71f535245a0f4344a42654d3b40e1332.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "47484312deb63448dff5cb46bd869fb39cb10bfb2bc7a013acbf95b1a3a49ba1",
+      "size": 108228,
+      "source_url": "https://store.bblcdn.com/71f535245a0f4344a42654d3b40e1332.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/0b/0bf63d4bac0fe0b649a06bb9af927e63d757e71a50198507dae3c12fb7b59bf2.png",
+      "id": "image-ee3b6b098f2a9ffb697d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "5690e262a94a4e1b93bf17eb3626ec27.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0bf63d4bac0fe0b649a06bb9af927e63d757e71a50198507dae3c12fb7b59bf2",
+      "size": 76277,
+      "source_url": "https://store.bblcdn.com/5690e262a94a4e1b93bf17eb3626ec27.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/71/71dcbb53ba7cf09a57760840df14416703331f880d06428de6dbef1f64aa5120.pdf",
+      "id": "document-4581df3c97c5de15dbe8",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "Jumper_Cable_with_SH1.0_Connector.pdf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "71dcbb53ba7cf09a57760840df14416703331f880d06428de6dbef1f64aa5120",
+      "size": 1120229,
+      "source_url": "https://store.bblcdn.com/s7/default/5084cdc7569e4732aa0938265a86ab1c/Jumper_Cable_with_SH1.0_Connector.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f2/f2db79c617ef7b212ee8a75d25ae8f70789ba03f1e668f0c245a8796be0dbf77.zip",
+      "id": "archive-ee8a0fe7cb9fc4052ad7",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Jumper_Cable_with_SH1.0_Connector.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f2db79c617ef7b212ee8a75d25ae8f70789ba03f1e668f0c245a8796be0dbf77",
+      "size": 69336,
+      "source_url": "https://store.bblcdn.com/s7/default/d2f473660f8d460d809807c0c3a39fe1/Jumper_Cable_with_SH1.0_Connector.zip"
+    },
+    {
+      "archive_member_path": "Jumper Cable with SH1.0 Connector/jumper_connector_sh1_IC006.stl",
+      "blob_path": "data/blobs/sha256/f7/f7b43f229c0f032d684b6882974580d9f0c9f773baef287e9142d80500d6364b.stl",
+      "id": "model-b85e927962cb48bb683d",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "jumper_connector_sh1_IC006.stl",
+      "parent_asset_id": "archive-ee8a0fe7cb9fc4052ad7",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f7b43f229c0f032d684b6882974580d9f0c9f773baef287e9142d80500d6364b",
+      "size": 146684,
+      "source_url": "https://store.bblcdn.com/s7/default/d2f473660f8d460d809807c0c3a39fe1/Jumper_Cable_with_SH1.0_Connector.zip"
+    },
+    {
+      "archive_member_path": "Jumper Cable with SH1.0 Connector/jumper_connector_sh1_IC006.stp",
+      "blob_path": "data/blobs/sha256/ef/efd43c268b47c92db37e0eb3557bb84ea1a3c85c91a5065461ca5f3835ed11bb.stp",
+      "id": "model-eba0e67ad8b27fb5f643",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "jumper_connector_sh1_IC006.stp",
+      "parent_asset_id": "archive-ee8a0fe7cb9fc4052ad7",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "efd43c268b47c92db37e0eb3557bb84ea1a3c85c91a5065461ca5f3835ed11bb",
+      "size": 177695,
+      "source_url": "https://store.bblcdn.com/s7/default/d2f473660f8d460d809807c0c3a39fe1/Jumper_Cable_with_SH1.0_Connector.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c3/c34e9da55ae02de4fdbaf4d8e1e2ccde866c0dd5667867f0586f109b368357e0.png",
+      "id": "image-display-9c598ce75779d0fbcebe",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "47484312deb63448dff5cb46bd869fb39cb10bfb2bc7a013acbf95b1a3a49ba1",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "71f535245a0f4344a42654d3b40e1332.catalog.png",
+      "parent_asset_id": "image-316a3988071a0e382f4f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c34e9da55ae02de4fdbaf4d8e1e2ccde866c0dd5667867f0586f109b368357e0",
+      "size": 64327,
+      "source_url": "https://store.bblcdn.com/71f535245a0f4344a42654d3b40e1332.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/36/3640f6b9aa9217f347aa5a4503908018614013a39c488adf1d809ea0e024a4b7.png",
+      "id": "image-display-ca8c57dec156ede6c3c4",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "0bf63d4bac0fe0b649a06bb9af927e63d757e71a50198507dae3c12fb7b59bf2",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "5690e262a94a4e1b93bf17eb3626ec27.catalog.png",
+      "parent_asset_id": "image-ee3b6b098f2a9ffb697d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "3640f6b9aa9217f347aa5a4503908018614013a39c488adf1d809ea0e024a4b7",
+      "size": 22325,
+      "source_url": "https://store.bblcdn.com/5690e262a94a4e1b93bf17eb3626ec27.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[6]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Instruction"
+    },
+    {
+      "kind": "bullet",
+      "text": "Used in conjunction with a power distribution board, it connects the SW0-4 of the power distribution board to connect the corresponding switch channels, thereby achieving the function of maintaining power in the corresponding channels."
+    },
+    {
+      "kind": "heading",
+      "text": "Consideration"
+    },
+    {
+      "kind": "bullet",
+      "text": "Please hold the connector when plugging and unplugging, and avoid pulling the wires forcefully to avoid the wires being detached from the connector."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc product-specification-table-small-padding\">\n<h2 class=\"pct_t\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Product Specifications</h2>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"border-color: #ADADAD; font-weight: bold;\">\n<!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold; text-align: center;\">\n<div>Product ID</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Connector Model</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Wire Gauge Size\n<div></div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Outer Diameter\n<div>\n<p>(mm) </p>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Rated Voltage (V)</div>\n<p>(V)</p>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Color\n<div></div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Material</div>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #ADADAD; text-align: center;\">IC006</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">SH1.0-2P</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">30 AWG</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">0.8</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">5V</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">Black</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">PVC</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Instruction</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<ul>\n<li>\n<p>Used in conjunction with a power distribution board, it connects the SW0-4 of the power distribution board to connect the corresponding switch channels, thereby achieving the function of maintaining power in the corresponding channels.</p>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Consideration</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<ul>\n<li>\n<p>Please hold the connector when plugging and unplugging, and avoid pulling the wires forcefully to avoid the wires being detached from the connector.</p>\n</li>\n</ul>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Downloads</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a href=\"https://store.bblcdn.com/s7/default/5084cdc7569e4732aa0938265a86ab1c/Jumper_Cable_with_SH1.0_Connector.pdf\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path clip-rule=\"evenodd\" d=\"M37.7155 0.802246L55.0002 16.8009V63.3224C55.0002 64.1367 54.34 64.7969 53.5256 64.7969H5.16103C4.34667 64.7969 3.6865 64.1367 3.6865 63.3224V2.27677C3.6865 1.46241 4.34667 0.802246 5.16103 0.802246H37.7155Z\" fill=\"#DF322F\" fill-rule=\"evenodd\"></path> <path d=\"M5.89828 4.48869C5.89828 3.67433 6.55845 3.01416 7.37281 3.01416H36.5375C36.9345 3.01416 37.3147 3.17423 37.5922 3.45817L44.4344 10.4605L52.2569 16.9683C52.5936 17.2485 52.7884 17.6638 52.7884 18.1019V61.1107C52.7884 61.925 52.1282 62.5852 51.3138 62.5852H7.37281C6.55845 62.5852 5.89828 61.925 5.89828 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#DF322F\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" x=\"0.000193596\" y=\"24.3948\"></rect> <path d=\"M12.9688 31.1647C14.3272 31.1647 15.3184 31.4575 15.9423 32.0431C16.5663 32.6239 16.8783 33.4255 16.8783 34.4479C16.8783 34.9087 16.8087 35.3502 16.6695 35.7726C16.5303 36.1902 16.3023 36.5622 15.9855 36.8886C15.6735 37.215 15.256 37.4742 14.7328 37.6662C14.2096 37.8534 13.564 37.947 12.796 37.947H11.8384V41.6909H9.60647V31.1647H12.9688ZM12.8536 32.9935H11.8384V36.1182H12.5728C12.9904 36.1182 13.3528 36.063 13.66 35.9526C13.9672 35.8422 14.2048 35.6694 14.3728 35.4342C14.5408 35.199 14.6248 34.8967 14.6248 34.5271C14.6248 34.0087 14.4808 33.6247 14.1928 33.3751C13.9048 33.1207 13.4584 32.9935 12.8536 32.9935ZM27.5989 36.327C27.5989 37.5126 27.3709 38.5038 26.9149 39.3006C26.4637 40.0925 25.8085 40.6901 24.9494 41.0933C24.0902 41.4917 23.0558 41.6909 21.8462 41.6909H18.8655V31.1647H22.1702C23.2742 31.1647 24.2318 31.3615 25.043 31.7551C25.8541 32.1439 26.4829 32.7223 26.9293 33.4903C27.3757 34.2535 27.5989 35.199 27.5989 36.327ZM25.2806 36.3846C25.2806 35.607 25.1654 34.9687 24.935 34.4695C24.7094 33.9655 24.3734 33.5935 23.927 33.3535C23.4854 33.1135 22.9382 32.9935 22.2854 32.9935H21.0974V39.8478H22.055C23.1446 39.8478 23.9534 39.5574 24.4814 38.9766C25.0142 38.3958 25.2806 37.5318 25.2806 36.3846ZM31.9764 41.6909H29.7805V31.1647H35.8139V32.9935H31.9764V35.7078H35.5475V37.5294H31.9764V41.6909Z\" fill=\"white\"></path> <path d=\"M37.6009 18.3492H55.0004L36.1264 0.802246V16.8746C36.1264 17.689 36.7866 18.3492 37.6009 18.3492Z\" fill=\"#DF322F\"></path> </svg> 2D Drawing </a> <a href=\"https://store.bblcdn.com/s7/default/d2f473660f8d460d809807c0c3a39fe1/Jumper_Cable_with_SH1.0_Connector.zip\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path clip-rule=\"evenodd\" d=\"M37.7154 0.802246L54.9999 16.8008V63.3224C54.9999 64.1367 54.3397 64.7969 53.5254 64.7969H5.16076C4.3464 64.7969 3.68623 64.1367 3.68623 63.3224V2.27677C3.68623 1.46241 4.3464 0.802246 5.16076 0.802246H37.7154Z\" fill=\"#60BB18\" fill-rule=\"evenodd\"></path> <path d=\"M5.8981 4.48869C5.8981 3.67433 6.55827 3.01416 7.37263 3.01416H36.5374C36.9344 3.01416 37.3146 3.17423 37.592 3.45817L44.4342 10.4605L52.2567 16.9683C52.5934 17.2485 52.7882 17.6638 52.7882 18.1019V61.1107C52.7882 61.925 52.128 62.5852 51.3136 62.5852H7.37263C6.55827 62.5852 5.8981 61.925 5.8981 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#60BB18\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" y=\"24.3948\"></rect> <path d=\"M20.3197 33.5191C20.3197 34.0039 20.2189 34.4239 20.0174 34.7791C19.8158 35.1342 19.5422 35.4246 19.1966 35.6502C18.8558 35.8758 18.4718 36.0414 18.0446 36.147V36.1902C18.8894 36.2958 19.5302 36.555 19.967 36.9678C20.4085 37.3806 20.6293 37.9326 20.6293 38.6238C20.6293 39.2382 20.4781 39.7878 20.1757 40.2725C19.8782 40.7573 19.4174 41.1389 18.7934 41.4173C18.1694 41.6957 17.3654 41.8349 16.3814 41.8349C15.8006 41.8349 15.2582 41.7869 14.7543 41.6909C14.2551 41.5997 13.7847 41.4581 13.3431 41.2661V39.3726C13.7943 39.603 14.2671 39.7782 14.7615 39.8982C15.2558 40.0134 15.7166 40.0709 16.1438 40.0709C16.9406 40.0709 17.4974 39.9342 17.8142 39.6606C18.1358 39.3822 18.2966 38.9934 18.2966 38.4942C18.2966 38.2014 18.2222 37.9542 18.0734 37.7526C17.9246 37.551 17.6654 37.3974 17.2958 37.2918C16.931 37.1862 16.4198 37.1334 15.7622 37.1334H14.9631V35.427H15.7766C16.4246 35.427 16.9166 35.367 17.2526 35.247C17.5934 35.1222 17.8238 34.9543 17.9438 34.7431C18.0686 34.5271 18.131 34.2823 18.131 34.0087C18.131 33.6343 18.0158 33.3415 17.7854 33.1303C17.555 32.9191 17.171 32.8135 16.6334 32.8135C16.2974 32.8135 15.9902 32.8567 15.7118 32.9431C15.4382 33.0247 15.191 33.1255 14.9703 33.2455C14.7495 33.3607 14.5551 33.4735 14.3871 33.5839L13.3575 32.0503C13.7703 31.7527 14.2527 31.5055 14.8047 31.3087C15.3614 31.1119 16.0238 31.0135 16.7918 31.0135C17.8766 31.0135 18.7358 31.2319 19.3694 31.6687C20.003 32.1055 20.3197 32.7223 20.3197 33.5191ZM31.2779 36.327C31.2779 37.5126 31.0499 38.5038 30.5939 39.3006C30.1428 40.0925 29.4876 40.6901 28.6284 41.0933C27.7692 41.4917 26.7348 41.6909 25.5252 41.6909H22.5445V31.1647H25.8492C26.9532 31.1647 27.9108 31.3615 28.722 31.7551C29.5332 32.1439 30.162 32.7223 30.6083 33.4903C31.0547 34.2535 31.2779 35.199 31.2779 36.327ZM28.9596 36.3846C28.9596 35.607 28.8444 34.9687 28.614 34.4695C28.3884 33.9655 28.0524 33.5935 27.606 33.3535C27.1644 33.1135 26.6172 32.9935 25.9644 32.9935H24.7765V39.8478H25.734C26.8236 39.8478 27.6324 39.5574 28.1604 38.9766C28.6932 38.3958 28.9596 37.5318 28.9596 36.3846Z\" fill=\"white\"></path> <path d=\"M37.6006 18.3492H55.0001L36.1261 0.802246V16.8746C36.1261 17.689 36.7863 18.3492 37.6006 18.3492Z\" fill=\"#60BB18\"></path> </svg> 3D Document </a></p>\n</div>\n<!-- 查看PDF结束 -->\n</div>",
+  "description_text": "Used in conjunction with a power distribution board, it connects the SW0-4 of the power distribution board to connect the corresponding switch channels, thereby achieving the function of maintaining power in the corresponding channels.\n\nPlease hold the connector when plugging and unplugging, and avoid pulling the wires forcefully to avoid the wires being detached from the connector.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "ic006-jumper-cable-with-sh1-0-connector",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "Outer Diameter (mm)",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Outer Diameter (mm)",
+        "source_url": "https://us.store.bambulab.com/products/jumper-cable-with-sh1-0-connector?id=42123084890248"
+      },
+      "raw_value": "0.8"
+    },
+    {
+      "label": "Wire Gauge Size",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Wire Gauge Size",
+        "source_url": "https://us.store.bambulab.com/products/jumper-cable-with-sh1-0-connector?id=42123084890248"
+      },
+      "raw_value": "30 AWG"
+    }
+  ],
+  "name": "Jumper Cable with SH1.0 Connector",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.2",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/jumper-cable-with-sh1-0-connector?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/jumper-cable-with-sh1-0-connector?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.49",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/jumper-cable-with-sh1-0-connector?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.49",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/jumper-cable-with-sh1-0-connector?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://au.store.bambulab.com/en/products/jumper-cable-with-sh1-0-connector?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "0.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/jumper-cable-with-sh1-0-connector?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "IC006"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "41367703879740",
+    "41588992999539",
+    "42123084890248",
+    "44314306871459",
+    "45672493482224",
+    "47978225664348"
+  ],
+  "source_tables": [
+    {
+      "caption": "Product Specifications",
+      "headers": [
+        "Product ID",
+        "Connector Model",
+        "Wire Gauge Size",
+        "Outer Diameter (mm)",
+        "Rated Voltage (V) (V)",
+        "Color",
+        "Material"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/jumper-cable-with-sh1-0-connector?id=42123084890248"
+      },
+      "rows": [
+        [
+          "IC006",
+          "SH1.0-2P",
+          "30 AWG",
+          "0.8",
+          "5V",
+          "Black",
+          "PVC"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Color": "Black",
+    "Connector Model": "SH1.0-2P",
+    "Material": "PVC",
+    "Outer Diameter (mm)": "0.8",
+    "Product ID": "IC006",
+    "Rated Voltage (V) (V)": "5V",
+    "Wire Gauge Size": "30 AWG"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/9ec586e85809439d95108947d8f322c7/JumperCable-IC006.png",
+      "part_number": "IC006",
+      "price": "1.2",
+      "region": "us",
+      "sku": "42123084890248",
+      "title": "Jumper Cable with SH1.0 Connector - Jumper Cable with SH1.0 Connector (5PCS) - IC006",
+      "url": "https://us.store.bambulab.com/products/jumper-cable-with-sh1-0-connector?id=42123084890248",
+      "variant_id": "42123084890248"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/84e5120e4ae94a84b10531d56d71c536.png",
+      "part_number": "IC006",
+      "price": "1.99",
+      "region": "ca",
+      "sku": "45672493482224",
+      "title": "Jumper Cable with SH1.0 Connector - Jumper Cable with SH1.0 Connector (5PCS) - IC006",
+      "url": "https://ca.store.bambulab.com/products/jumper-cable-with-sh1-0-connector?id=45672493482224",
+      "variant_id": "45672493482224"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/aa19d8372b174d0fa130a0fdec19d5fd/JumperCable-IC006.png",
+      "part_number": "IC006",
+      "price": "1.49",
+      "region": "eu",
+      "sku": "47978225664348",
+      "title": "Jumper Cable with SH1.0 Connector - Jumper Cable with SH1.0 Connector (5PCS) - IC006",
+      "url": "https://eu.store.bambulab.com/products/jumper-cable-with-sh1-0-connector?id=47978225664348",
+      "variant_id": "47978225664348"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/4ba2c1d4f5404c3b8601f9f25a28f6f9.png",
+      "part_number": "IC006",
+      "price": "1.49",
+      "region": "uk",
+      "sku": "41367703879740",
+      "title": "Jumper Cable with SH1.0 Connector - Jumper Cable with SH1.0 Connector (5PCS) - IC006",
+      "url": "https://uk.store.bambulab.com/products/jumper-cable-with-sh1-0-connector?id=41367703879740",
+      "variant_id": "41367703879740"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/71f535245a0f4344a42654d3b40e1332.png",
+      "part_number": "IC006",
+      "price": "3.99",
+      "region": "au",
+      "sku": "44314306871459",
+      "title": "Jumper Cable with SH1.0 Connector - Jumper Cable with SH1.0 Connector (5PCS) - IC006",
+      "url": "https://au.store.bambulab.com/products/jumper-cable-with-sh1-0-connector?id=44314306871459",
+      "variant_id": "44314306871459"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494434450421207040.png",
+      "part_number": "IC006",
+      "price": "0.99",
+      "region": "asia",
+      "sku": "41588992999539",
+      "title": "Jumper Cable with SH1.0 Connector - Jumper Cable with SH1.0 Connector (5PCS) - IC006",
+      "url": "https://asia.store.bambulab.com/products/jumper-cable-with-sh1-0-connector?id=41588992999539",
+      "variant_id": "41588992999539"
+    }
+  ]
+}

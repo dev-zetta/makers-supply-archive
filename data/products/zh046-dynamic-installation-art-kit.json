@@ -1,0 +1,814 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "dynamic-installation-art-kit",
+      "product_id": "8421589155976",
+      "region": "us"
+    },
+    {
+      "handle": "dynamic-installation-art-kit",
+      "product_id": "9109946007792",
+      "region": "ca"
+    },
+    {
+      "handle": "dynamic-installation-art-kit",
+      "product_id": "14778171982172",
+      "region": "eu"
+    },
+    {
+      "handle": "dynamic-installation-art-kit",
+      "product_id": "535738832952426496",
+      "region": "uk"
+    },
+    {
+      "handle": "dynamic-installation-art-kit",
+      "product_id": "536382788292976640",
+      "region": "au"
+    },
+    {
+      "handle": "dynamic-installation-art-kit",
+      "product_id": "536379802597462016",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/09/0959b73c08b9a5a646eae76c036115364f9617486f1acf184748648f447cf04e.png",
+      "id": "image-9631f68c49aae56fc8f0",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH046.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0959b73c08b9a5a646eae76c036115364f9617486f1acf184748648f447cf04e",
+      "size": 543292,
+      "source_url": "https://store.bblcdn.com/s7/default/aea3c01e9994400891f6f8945b4f10d2/ZH046.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/53/53eea2c2e4c42c8b750b57b84890eaa24cabddc91e8a10d055a743caa31d71ae.png",
+      "id": "image-b0e1deece197464c5d04",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH046_2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "53eea2c2e4c42c8b750b57b84890eaa24cabddc91e8a10d055a743caa31d71ae",
+      "size": 234602,
+      "source_url": "https://store.bblcdn.com/s7/default/6df838aca5e84c778bc04b4eeffecc6b/ZH046_2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ce/cebfc207accf1439f5b0e086c135cb8dd21970a8d767db5a8fa68eee4eca908e.zip",
+      "id": "archive-ed0efbdff58a616c8121",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Dynamic_Installation_Art_Kit-B-ZH046_Specification.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "cebfc207accf1439f5b0e086c135cb8dd21970a8d767db5a8fa68eee4eca908e",
+      "size": 6414702,
+      "source_url": "https://store.bblcdn.com/s7/default/3ca3bd809cd34eb2a52398d3030975a9/Dynamic_Installation_Art_Kit-B-ZH046_Specification.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/23/2312f549a3ab03dda89dfc510666d3297b0c3be8619d2a57b81a793897a671f8.zip",
+      "id": "archive-3b053c1ceadbe92cdff3",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Dynamic_Installation_Art_Kit-B-ZH046_Model.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "2312f549a3ab03dda89dfc510666d3297b0c3be8619d2a57b81a793897a671f8",
+      "size": 4631768,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "1 Power Distribution Board -IA005/Power Distribution Board -IA005.stl",
+      "blob_path": "data/blobs/sha256/1e/1e1e5de7ad632b6ab955a7ca887c596d623e1f945a3f275579c0691fa75ef803.stl",
+      "id": "model-6ac840d10cba7886c823",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Power Distribution Board -IA005.stl",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "1e1e5de7ad632b6ab955a7ca887c596d623e1f945a3f275579c0691fa75ef803",
+      "size": 2069984,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "1 Power Distribution Board -IA005/Power Distribution Board -IA005.stp",
+      "blob_path": "data/blobs/sha256/8b/8b27a2c606b6d7ef00666c8aec801829a019f49cdf3b60c158666ed23880ca58.stp",
+      "id": "model-383bfb68fb4895ba2856",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Power Distribution Board -IA005.stp",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "8b27a2c606b6d7ef00666c8aec801829a019f49cdf3b60c158666ed23880ca58",
+      "size": 5576148,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "10 USB Speed Controller-IA002/USB Speed Controller-IA002.stl",
+      "blob_path": "data/blobs/sha256/9e/9ed028045bc020eb23ecad8cc448a4017081ae45dd7e4a022992532b9e84f16b.stl",
+      "id": "model-e1d13a91f7a7cfe4c483",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "USB Speed Controller-IA002.stl",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "9ed028045bc020eb23ecad8cc448a4017081ae45dd7e4a022992532b9e84f16b",
+      "size": 1395584,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "10 USB Speed Controller-IA002/USB Speed Controller-IA002.stp",
+      "blob_path": "data/blobs/sha256/f2/f271905dea5f49ffbdb796ac4dc55303bfe5275b6babc2b4a80ab7ecf336b7e0.stp",
+      "id": "model-99fb3b7e9fe12efc2f54",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "USB Speed Controller-IA002.stp",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f271905dea5f49ffbdb796ac4dc55303bfe5275b6babc2b4a80ab7ecf336b7e0",
+      "size": 194026,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "2 Self-Locking Button Switch with SH1.0 Connector-IA006/Self-Locking Button Switch - IA006.stl",
+      "blob_path": "data/blobs/sha256/d3/d3d49acd428f989bd581c7a640f78b80b57584f0338fc2390c9df1c3c38966ca.stl",
+      "id": "model-08b3b66f2eb427562f38",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Self-Locking Button Switch - IA006.stl",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "d3d49acd428f989bd581c7a640f78b80b57584f0338fc2390c9df1c3c38966ca",
+      "size": 285184,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "2 Self-Locking Button Switch with SH1.0 Connector-IA006/Self-Locking Button Switch - IA006.stp",
+      "blob_path": "data/blobs/sha256/15/1593ce0dc95f818be6d9484a04aaef1a52eb94cc51640de2157109a6fbd7a037.stp",
+      "id": "model-6b79060ae3fe38db7479",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Self-Locking Button Switch - IA006.stp",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "1593ce0dc95f818be6d9484a04aaef1a52eb94cc51640de2157109a6fbd7a037",
+      "size": 1691512,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "3 Potentiometer Board with SH1.0 Connector-IA007/potentiometer_board-sh1_0_new.stl",
+      "blob_path": "data/blobs/sha256/05/0535c563594a2112249f2c27432a79beb7ba10895c80c1c847c53eb83ab90a2f.stl",
+      "id": "model-e5b833790e1e3736bfb0",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "potentiometer_board-sh1_0_new.stl",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "0535c563594a2112249f2c27432a79beb7ba10895c80c1c847c53eb83ab90a2f",
+      "size": 1397984,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "3 Potentiometer Board with SH1.0 Connector-IA007/potentiometer_board-sh1_0_new.stp",
+      "blob_path": "data/blobs/sha256/11/115df8ae294daffa396808eccae51cb4d522ea7270d8a0a2815f7da22fc26473.stp",
+      "id": "model-e48c7e5ac0266f3c886e",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "potentiometer_board-sh1_0_new.stp",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "115df8ae294daffa396808eccae51cb4d522ea7270d8a0a2815f7da22fc26473",
+      "size": 4026158,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "4 N20 Reduction Gear Motor-LA002/N20 Reduction Gear Motor - LA002 LA003 LA004.stl",
+      "blob_path": "data/blobs/sha256/9e/9ebda895754fca37cf721d08fa16cffa72cf420f90b8a5c247d16a2e5050c858.stl",
+      "id": "model-1fed5bb2a23d9a29738d",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "N20 Reduction Gear Motor - LA002 LA003 LA004.stl",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "9ebda895754fca37cf721d08fa16cffa72cf420f90b8a5c247d16a2e5050c858",
+      "size": 1362284,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "4 N20 Reduction Gear Motor-LA002/N20 Reduction Gear Motor - LA002 LA003 LA004.stp",
+      "blob_path": "data/blobs/sha256/a1/a1c050512ee57a55ae7472487b47786c781571589ae63eb935ffb3c4acb993f0.stp",
+      "id": "model-933df3a7db376c1016a4",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "N20 Reduction Gear Motor - LA002 LA003 LA004.stp",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a1c050512ee57a55ae7472487b47786c781571589ae63eb935ffb3c4acb993f0",
+      "size": 370521,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "5 N20 Dual Shaft Worm Gear Motor-LA009/N20 Dual Shaft Worm - LA009.stl",
+      "blob_path": "data/blobs/sha256/e0/e057295498966b1439938491e99ee38b704291d63751cd6483f713a887c3f2bd.stl",
+      "id": "model-c6adadf555dcd8cd716c",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "N20 Dual Shaft Worm - LA009.stl",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "e057295498966b1439938491e99ee38b704291d63751cd6483f713a887c3f2bd",
+      "size": 1675184,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "5 N20 Dual Shaft Worm Gear Motor-LA009/N20 Dual Shaft Worm - LA009.stp",
+      "blob_path": "data/blobs/sha256/fe/fe341fe966a28cb8331938a94f073c2d1df7107932b8d31e10914b569a143fc0.stp",
+      "id": "model-a5d223df5a312be5394f",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "N20 Dual Shaft Worm - LA009.stp",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "fe341fe966a28cb8331938a94f073c2d1df7107932b8d31e10914b569a143fc0",
+      "size": 371565,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "6 3030 5V Board LED with SH1.0 Connector-KB002/3030 5V Board LED - KB002.stl",
+      "blob_path": "data/blobs/sha256/fb/fb9b7a4b9c552502b6210e51a1c31511f1df509a6e09882633e296d9ef969e4a.stl",
+      "id": "model-f045b62fc053decc7993",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "3030 5V Board LED - KB002.stl",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "fb9b7a4b9c552502b6210e51a1c31511f1df509a6e09882633e296d9ef969e4a",
+      "size": 391184,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "6 3030 5V Board LED with SH1.0 Connector-KB002/3030 5V Board LED - KB002.stp",
+      "blob_path": "data/blobs/sha256/a1/a1f7e500e78d348aacb019f99af23f02e6236246cd4b94093d95894cac35227c.stp",
+      "id": "model-96c193c6b8eea49579df",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "3030 5V Board LED - KB002.stp",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a1f7e500e78d348aacb019f99af23f02e6236246cd4b94093d95894cac35227c",
+      "size": 831888,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "7 1 Wire Slip Ring 12.5mm with SH1.0 Connector-XA007/1 Wire Slip Ring 12.5mm with SH1.0 Connector - XA001.stl",
+      "blob_path": "data/blobs/sha256/0d/0d99b9b600045f59c63686a414d93f070f547200307e47b3281b34e710735433.stl",
+      "id": "model-7f51b42a0e9035be830f",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "1 Wire Slip Ring 12.5mm with SH1.0 Connector - XA001.stl",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "0d99b9b600045f59c63686a414d93f070f547200307e47b3281b34e710735433",
+      "size": 79884,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "7 1 Wire Slip Ring 12.5mm with SH1.0 Connector-XA007/1 Wire Slip Ring 12.5mm with SH1.0 Connector - XA001.stp",
+      "blob_path": "data/blobs/sha256/e1/e1cdd117d1a1e99d9d34861ecaafb254302085d831e2240f6a455127fdf7e9ca.stp",
+      "id": "model-9ee76591f94810d9ee7c",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "1 Wire Slip Ring 12.5mm with SH1.0 Connector - XA001.stp",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "e1cdd117d1a1e99d9d34861ecaafb254302085d831e2240f6a455127fdf7e9ca",
+      "size": 289065,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "8 7mm Round Magnetic Connector With SH1.0 Connector-XE003/7mm Round Magnetic Connector With SH1.0 Connector-XE003.stl",
+      "blob_path": "data/blobs/sha256/e5/e586d2262198d092124a6d69506c8e6d8c9e2968308fe47e6f6b07ab8f53c841.stl",
+      "id": "model-7f40f68dc50287158ff3",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "7mm Round Magnetic Connector With SH1.0 Connector-XE003.stl",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "e586d2262198d092124a6d69506c8e6d8c9e2968308fe47e6f6b07ab8f53c841",
+      "size": 313584,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "8 7mm Round Magnetic Connector With SH1.0 Connector-XE003/7mm Round Magnetic Connector With SH1.0 Connector-XE003.stp",
+      "blob_path": "data/blobs/sha256/ab/abcfdc2e1dd02e956baf3676e5b318f236b67c6c317b3eefb84df4b4cd16e537.stp",
+      "id": "model-7e3d47c8fba94e91335c",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "7mm Round Magnetic Connector With SH1.0 Connector-XE003.stp",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "abcfdc2e1dd02e956baf3676e5b318f236b67c6c317b3eefb84df4b4cd16e537",
+      "size": 722531,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "9 TT Motor (DC5V 59RPM CCW Single Axis)-LA001/TT Motor - LA001.stl",
+      "blob_path": "data/blobs/sha256/aa/aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c.stl",
+      "id": "model-e55b762a27743c205126",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "TT Motor - LA001.stl",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c",
+      "size": 4143684,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "archive_member_path": "9 TT Motor (DC5V 59RPM CCW Single Axis)-LA001/TT Motor - LA001.stp",
+      "blob_path": "data/blobs/sha256/a0/a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c.stp",
+      "id": "model-e32213984bbfc0b7af63",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "TT Motor - LA001.stp",
+      "parent_asset_id": "archive-3b053c1ceadbe92cdff3",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c",
+      "size": 199317,
+      "source_url": "https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ca/cac8c6f34ee2e765633f8ca1cca5fe37528d9d9ae61a552b428cf31aac06d7bb.zip",
+      "id": "archive-33447f7213b546b0be10",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Dynamic_Installation_Art_Kit-B-ZH046_Application.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "cac8c6f34ee2e765633f8ca1cca5fe37528d9d9ae61a552b428cf31aac06d7bb",
+      "size": 12345206,
+      "source_url": "https://store.bblcdn.com/s7/default/f7c7a7da6bc14d5cb6653619e477a771/Dynamic_Installation_Art_Kit-B-ZH046_Application.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/84/844a3de4f99ea164346817844beef5d7da579818469238609045b9e12eb17fcc.png",
+      "id": "image-display-b75e7f26ca0697d5698d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "0959b73c08b9a5a646eae76c036115364f9617486f1acf184748648f447cf04e",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH046.catalog.png",
+      "parent_asset_id": "image-9631f68c49aae56fc8f0",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "844a3de4f99ea164346817844beef5d7da579818469238609045b9e12eb17fcc",
+      "size": 131196,
+      "source_url": "https://store.bblcdn.com/s7/default/aea3c01e9994400891f6f8945b4f10d2/ZH046.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d2/d2767ba7264fbc7531cdd58e78daff059a4ce982f1a3adb3e964e9ac7280e6d0.png",
+      "id": "image-display-fea2f7c1a8d8100bfb69",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "53eea2c2e4c42c8b750b57b84890eaa24cabddc91e8a10d055a743caa31d71ae",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH046_2.catalog.png",
+      "parent_asset_id": "image-b0e1deece197464c5d04",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d2767ba7264fbc7531cdd58e78daff059a4ce982f1a3adb3e964e9ac7280e6d0",
+      "size": 73080,
+      "source_url": "https://store.bblcdn.com/s7/default/6df838aca5e84c778bc04b4eeffecc6b/ZH046_2.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "linked_product_id": "ia005-power-distribution-board-pdb-4-channels",
+      "name": "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels?_pos=1&_sid=81279781c&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "linked_product_id": "ia006-self-locking-button-switch-with-sh1-0-connector",
+      "name": "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?_pos=1&_sid=0fc618045&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "linked_product_id": "ia007-potentiometer-board-with-sh1-0-connector",
+      "name": "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/potentiometer-board-with-sh1-0-connector?_pos=2&_sid=d8679cde6&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "4",
+      "linked_product_id": "la001-tt-motor-dc5v-59rpm-ccw-single-axis",
+      "name": "TT Motor DC5V 59RPM CCW Single Axis-LA001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?_pos=1&_sid=bd3d161ee&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "5",
+      "linked_product_id": "la002-n20-reduction-gear-motor",
+      "name": "N20 Reduction Gear Motor-LA002",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/n20-reduction-gear-motor?_pos=1&_sid=6533b75a0&_ss=r&variant=42122646585480",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "6",
+      "linked_product_id": "kb001-3030-5v-led-board-with-sh1-0-connector",
+      "name": "1White 3030-LED Board with SH1.0 Connector 5V-KB002",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/3030-5v-led-board-with-sh1-0-connector?_pos=1&_sid=da69fa849&_ss=r&variant=42123305222280",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "7",
+      "linked_product_id": "la009-n20-dual-shaft-worm-gear-motor",
+      "name": "N20 Dual Shaft Worm Gear Motor 130rpm-LA009",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/n20-dual-shaft-worm-gear-motor?_pos=1&_sid=153d19323&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "8",
+      "linked_product_id": "ia002-usb-speed-controller-compatible-with-tt-motor",
+      "name": "USB Speed Controller-Compatible with TT motor-IA002",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/usb-speed-controller-compatible-with-tt-motor?_pos=1&_sid=4f7e33ce6&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "9",
+      "linked_product_id": "xa001-1-wire-slip-ring-12-5mm-with-sh1-0-connector",
+      "name": "1 Wire Slip Ring 12.5mm with SH1.0 Connector-XA001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?_pos=1&_sid=0ea7a4b6f&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "10",
+      "linked_product_id": "xe003-7mm-round-magnetic-connector-with-sh1-0-connector-2pair",
+      "name": "7mm Round Magnetic Connector With SH1.0 Connector-XE003",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?_pos=1&_sid=d547b3cb1&_ss=r",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This Dynamic Installation Art Kit is designed to help creators and art enthusiasts create exquisite interactive art pieces or dynamic mechanical devices, such as automata devices, tourbillon models, marble run models, and rotating display stands."
+    },
+    {
+      "kind": "heading",
+      "text": "Kit Includes:"
+    },
+    {
+      "kind": "bullet",
+      "text": "A variety of motors: Different models to meet varying load and speed requirements, ensuring your devices are both stable and versatile."
+    },
+    {
+      "kind": "bullet",
+      "text": "LED lights: Add visual appeal to your creations, producing unique lighting effects—especially suitable for display stands and interactive art installations."
+    },
+    {
+      "kind": "bullet",
+      "text": "Slip ring: Provide stable power transmission while supporting continuous 360-degree rotation, achieving seamless dynamic effects."
+    },
+    {
+      "kind": "bullet",
+      "text": "Magnetic connectors: Offer a creative way to connect and disconnect power with a snap, serving as both an electrical connector and a switch."
+    },
+    {
+      "kind": "bullet",
+      "text": "Motor speed controller: Pair with TT motors to easily adjust motor speed and precisely control the movement of your devices."
+    },
+    {
+      "kind": "bullet",
+      "text": "Power distribution board set: Connect switches, potentiometers, N20 motors, LED lights, slip rings, and magnetic connectors for flexible assembly and control."
+    },
+    {
+      "kind": "heading",
+      "text": "Applications:"
+    },
+    {
+      "kind": "bullet",
+      "text": "Automata devices: Create artistic automated mechanical devices, combining LED lighting and fine-tuned motor adjustments to showcase intricate motion patterns."
+    },
+    {
+      "kind": "bullet",
+      "text": "Tourbillon models: Design and craft elegant tourbillon mechanisms, achieving graceful rotation effects with speed controllers."
+    },
+    {
+      "kind": "bullet",
+      "text": "Marble run models: Use motors to drive automatic and continuous marble movement, making fun and engaging mechanical toys."
+    },
+    {
+      "kind": "bullet",
+      "text": "Rotating display stands: Add dynamic flair to your 3D-printed figures or art pieces, making your displays more captivating."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a href=\"https://store.bblcdn.com/s7/default/3ca3bd809cd34eb2a52398d3030975a9/Dynamic_Installation_Art_Kit-B-ZH046_Specification.zip\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"><img alt=\"2D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/1ed6b71b4c814ac3bc34933673003555/2d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> Specification</a><a href=\"https://store.bblcdn.com/s7/default/96e122e067f444a089eec4ce2127a764/Dynamic_Installation_Art_Kit-B-ZH046_Model.zip\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path clip-rule=\"evenodd\" d=\"M37.7154 0.802246L54.9999 16.8008V63.3224C54.9999 64.1367 54.3397 64.7969 53.5254 64.7969H5.16076C4.3464 64.7969 3.68623 64.1367 3.68623 63.3224V2.27677C3.68623 1.46241 4.3464 0.802246 5.16076 0.802246H37.7154Z\" fill=\"#60BB18\" fill-rule=\"evenodd\"></path> <path d=\"M5.8981 4.48869C5.8981 3.67433 6.55827 3.01416 7.37263 3.01416H36.5374C36.9344 3.01416 37.3146 3.17423 37.592 3.45817L44.4342 10.4605L52.2567 16.9683C52.5934 17.2485 52.7882 17.6638 52.7882 18.1019V61.1107C52.7882 61.925 52.128 62.5852 51.3136 62.5852H7.37263C6.55827 62.5852 5.8981 61.925 5.8981 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#60BB18\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" y=\"24.3948\"></rect> <path d=\"M20.3197 33.5191C20.3197 34.0039 20.2189 34.4239 20.0174 34.7791C19.8158 35.1342 19.5422 35.4246 19.1966 35.6502C18.8558 35.8758 18.4718 36.0414 18.0446 36.147V36.1902C18.8894 36.2958 19.5302 36.555 19.967 36.9678C20.4085 37.3806 20.6293 37.9326 20.6293 38.6238C20.6293 39.2382 20.4781 39.7878 20.1757 40.2725C19.8782 40.7573 19.4174 41.1389 18.7934 41.4173C18.1694 41.6957 17.3654 41.8349 16.3814 41.8349C15.8006 41.8349 15.2582 41.7869 14.7543 41.6909C14.2551 41.5997 13.7847 41.4581 13.3431 41.2661V39.3726C13.7943 39.603 14.2671 39.7782 14.7615 39.8982C15.2558 40.0134 15.7166 40.0709 16.1438 40.0709C16.9406 40.0709 17.4974 39.9342 17.8142 39.6606C18.1358 39.3822 18.2966 38.9934 18.2966 38.4942C18.2966 38.2014 18.2222 37.9542 18.0734 37.7526C17.9246 37.551 17.6654 37.3974 17.2958 37.2918C16.931 37.1862 16.4198 37.1334 15.7622 37.1334H14.9631V35.427H15.7766C16.4246 35.427 16.9166 35.367 17.2526 35.247C17.5934 35.1222 17.8238 34.9543 17.9438 34.7431C18.0686 34.5271 18.131 34.2823 18.131 34.0087C18.131 33.6343 18.0158 33.3415 17.7854 33.1303C17.555 32.9191 17.171 32.8135 16.6334 32.8135C16.2974 32.8135 15.9902 32.8567 15.7118 32.9431C15.4382 33.0247 15.191 33.1255 14.9703 33.2455C14.7495 33.3607 14.5551 33.4735 14.3871 33.5839L13.3575 32.0503C13.7703 31.7527 14.2527 31.5055 14.8047 31.3087C15.3614 31.1119 16.0238 31.0135 16.7918 31.0135C17.8766 31.0135 18.7358 31.2319 19.3694 31.6687C20.003 32.1055 20.3197 32.7223 20.3197 33.5191ZM31.2779 36.327C31.2779 37.5126 31.0499 38.5038 30.5939 39.3006C30.1428 40.0925 29.4876 40.6901 28.6284 41.0933C27.7692 41.4917 26.7348 41.6909 25.5252 41.6909H22.5445V31.1647H25.8492C26.9532 31.1647 27.9108 31.3615 28.722 31.7551C29.5332 32.1439 30.162 32.7223 30.6083 33.4903C31.0547 34.2535 31.2779 35.199 31.2779 36.327ZM28.9596 36.3846C28.9596 35.607 28.8444 34.9687 28.614 34.4695C28.3884 33.9655 28.0524 33.5935 27.606 33.3535C27.1644 33.1135 26.6172 32.9935 25.9644 32.9935H24.7765V39.8478H25.734C26.8236 39.8478 27.6324 39.5574 28.1604 38.9766C28.6932 38.3958 28.9596 37.5318 28.9596 36.3846Z\" fill=\"white\"></path> <path d=\"M37.6006 18.3492H55.0001L36.1261 0.802246V16.8746C36.1261 17.689 36.7863 18.3492 37.6006 18.3492Z\" fill=\"#60BB18\"></path> </svg> 3D Model </a> <a href=\"https://store.bblcdn.com/s7/default/f7c7a7da6bc14d5cb6653619e477a771/Dynamic_Installation_Art_Kit-B-ZH046_Application.zip\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 65 65\" width=\"65\" xmlns=\"http://www.w3.org/2000/svg\"> <path clip-rule=\"evenodd\" d=\"M34.7087 0.802246L51.9921 16.7998V63.2344C51.9921 64.0948 51.2946 64.7922 50.4342 64.7922H2.24001C1.37961 64.7922 0.682129 64.0948 0.682129 63.2344V2.36012C0.682129 1.49973 1.37961 0.802246 2.24001 0.802246H34.7087Z\" fill=\"#2172D0\" fill-rule=\"evenodd\"></path> <path d=\"M2.89377 4.57204C2.89377 3.71164 3.59125 3.01416 4.45165 3.01416H33.4957C33.9151 3.01416 34.3168 3.18328 34.6099 3.48327L41.4271 10.46L49.2189 16.9423C49.5747 17.2383 49.7804 17.6771 49.7804 18.1399V61.023C49.7804 61.8834 49.083 62.5809 48.2226 62.5809H4.45164C3.59125 62.5809 2.89377 61.8834 2.89377 61.023V4.57204Z\" fill=\"white\"></path> <path d=\"M34.6774 18.3479H51.9922L33.1196 0.802246V16.79C33.1196 17.6504 33.8171 18.3479 34.6774 18.3479Z\" fill=\"#2172D0\"></path> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"9.99928\" x=\"8.99524\" y=\"16.801\"></rect> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"9.99928\" x=\"8.99524\" y=\"34.7998\"></rect> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"23.9983\" x=\"8.99524\" y=\"25.8005\"></rect> <circle cx=\"44.9022\" cy=\"44.7086\" fill=\"white\" r=\"10.7622\" stroke=\"#2172D0\" stroke-width=\"2.47381\" transform=\"rotate(-49.859 44.9022 44.7086)\"></circle> <path d=\"M60.723 60.9036C61.7674 61.7844 63.3281 61.6517 64.2089 60.6073C65.0897 59.5628 64.957 58.0021 63.9126 57.1214L60.723 60.9036ZM52.2213 53.7341L60.723 60.9036L63.9126 57.1214L55.4109 49.9519L52.2213 53.7341Z\" fill=\"#2172D0\"></path> </svg> Application Instruction</a></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<p> </p>\n<h3 class=\"pct_st\" style=\"text-align: left;\">Overview</h3>\n<p><br/></p>\n<p class=\"pct_p\">This Dynamic Installation Art Kit is designed to help creators and art enthusiasts create exquisite interactive art pieces or dynamic mechanical devices, such as automata devices, tourbillon models, marble run models, and rotating display stands.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h3 class=\"pct_st\" style=\"text-align: left;\"><br/></h3>\n<br/>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BjvldvnAaoycINxd2bmcCShOnbh\">\n<h3 class=\"ace-line ace-line old-record-id-BwfmdgWaBoENgux5o5mcfW39nhl\"><strong>Kit Includes:</strong></h3>\n<ul>\n<li>\n<strong>A variety of motors: </strong>Different models to meet varying load and speed requirements, ensuring your devices are both stable and versatile.</li>\n<li>\n<strong>LED lights: </strong>Add visual appeal to your creations, producing unique lighting effects—especially suitable for display stands and interactive art installations.</li>\n<li>\n<strong>Slip ring:</strong> Provide stable power transmission while supporting continuous 360-degree rotation, achieving seamless dynamic effects.</li>\n<li>\n<strong>Magnetic connectors: </strong>Offer a creative way to connect and disconnect power with a snap, serving as both an electrical connector and a switch.</li>\n<li>\n<strong>Motor speed controller:</strong> Pair with TT motors to easily adjust motor speed and precisely control the movement of your devices.</li>\n<li>\n<strong>Power distribution board set:</strong> Connect switches, potentiometers, N20 motors, LED lights, slip rings, and magnetic connectors for flexible assembly and control.</li>\n</ul>\n<h3 class=\"ace-line ace-line old-record-id-BwfmdgWaBoENgux5o5mcfW39nhl\"><strong>Applications:</strong></h3>\n<ul>\n<li>\n<strong>Automata devices: </strong>Create artistic automated mechanical devices, combining LED lighting and fine-tuned motor adjustments to showcase intricate motion patterns.</li>\n<li>\n<strong>Tourbillon models: </strong>Design and craft elegant tourbillon mechanisms, achieving graceful rotation effects with speed controllers.</li>\n<li>\n<strong>Marble run models: </strong>Use motors to drive automatic and continuous marble movement, making fun and engaging mechanical toys.</li>\n<li>\n<strong>Rotating display stands:</strong> Add dynamic flair to your 3D-printed figures or art pieces, making your displays more captivating.<strong></strong>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 285px; width: 100%; text-align: center; border-collapse: collapse;\">\n<!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels?_pos=1&amp;_sid=81279781c&amp;_ss=r\" style=\"color: rgb(0, 174, 66);\">Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?_pos=1&amp;_sid=0fc618045&amp;_ss=r\" style=\"color: rgb(0, 174, 66);\">Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/potentiometer-board-with-sh1-0-connector?_pos=2&amp;_sid=d8679cde6&amp;_ss=r\" style=\"color: rgb(0, 174, 66);\">Potentiometer Board with SH1.0 Connector (2PCS) - IA007</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">4</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?_pos=1&amp;_sid=bd3d161ee&amp;_ss=r\" style=\"color: rgb(0, 174, 66);\">TT Motor DC5V 59RPM CCW Single Axis-LA001</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">5</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/n20-reduction-gear-motor?_pos=1&amp;_sid=6533b75a0&amp;_ss=r&amp;variant=42122646585480\" style=\"color: rgb(0, 174, 66);\">N20 Reduction Gear Motor-LA002</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">6</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/3030-5v-led-board-with-sh1-0-connector?_pos=1&amp;_sid=da69fa849&amp;_ss=r&amp;variant=42123305222280\" style=\"color: rgb(0, 174, 66);\">1White 3030-LED Board with SH1.0 Connector 5V-KB002</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">7</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/n20-dual-shaft-worm-gear-motor?_pos=1&amp;_sid=153d19323&amp;_ss=r\" style=\"color: rgb(0, 174, 66);\">N20 Dual Shaft Worm Gear Motor 130rpm-LA009</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">8</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/usb-speed-controller-compatible-with-tt-motor?_pos=1&amp;_sid=4f7e33ce6&amp;_ss=r\" style=\"color: rgb(0, 174, 66);\">USB Speed Controller-Compatible with TT motor-IA002</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">9</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?_pos=1&amp;_sid=0ea7a4b6f&amp;_ss=r\" style=\"color: rgb(0, 174, 66);\">1 Wire Slip Ring 12.5mm with SH1.0 Connector-XA001</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">10</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\"><span style=\"color: rgb(0, 174, 66);\"><a href=\"https://us.store.bambulab.com/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?_pos=1&amp;_sid=d547b3cb1&amp;_ss=r\" style=\"color: rgb(0, 174, 66);\">7mm Round Magnetic Connector With SH1.0 Connector-XE003</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+  "description_text": "This Dynamic Installation Art Kit is designed to help creators and art enthusiasts create exquisite interactive art pieces or dynamic mechanical devices, such as automata devices, tourbillon models, marble run models, and rotating display stands.\n\nA variety of motors: Different models to meet varying load and speed requirements, ensuring your devices are both stable and versatile.\n\nLED lights: Add visual appeal to your creations, producing unique lighting effects—especially suitable for display stands and interactive art installations.\n\nSlip ring: Provide stable power transmission while supporting continuous 360-degree rotation, achieving seamless dynamic effects.\n\nMagnetic connectors: Offer a creative way to connect and disconnect power with a snap, serving as both an electrical connector and a switch.\n\nMotor speed controller: Pair with TT motors to easily adjust motor speed and precisely control the movement of your devices.\n\nPower distribution board set: Connect switches, potentiometers, N20 motors, LED lights, slip rings, and magnetic connectors for flexible assembly and control.\n\nAutomata devices: Create artistic automated mechanical devices, combining LED lighting and fine-tuned motor adjustments to showcase intricate motion patterns.\n\nTourbillon models: Design and craft elegant tourbillon mechanisms, achieving graceful rotation effects with speed controllers.\n\nMarble run models: Use motors to drive automatic and continuous marble movement, making fun and engaging mechanical toys.\n\nRotating display stands: Add dynamic flair to your 3D-printed figures or art pieces, making your displays more captivating.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh046-dynamic-installation-art-kit",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Dynamic Installation Art Kit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "50.35",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/dynamic-installation-art-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "58.12",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/dynamic-installation-art-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "47.55",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/dynamic-installation-art-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "40.38",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/dynamic-installation-art-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "91.22",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/dynamic-installation-art-kit?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "45.9",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/dynamic-installation-art-kit?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "IA002",
+    "IA005",
+    "IA006",
+    "IA007",
+    "KB002",
+    "LA001",
+    "LA002",
+    "LA009",
+    "XA001",
+    "XE003",
+    "ZH046"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "43094618439816",
+    "46814144856304",
+    "53495294722396",
+    "535738832965009410",
+    "536379802605850626",
+    "536382788301365250"
+  ],
+  "source_tables": [
+    {
+      "caption": "Applications:",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/dynamic-installation-art-kit?id=43094618439816"
+      },
+      "rows": [
+        [
+          "1",
+          "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+          "1"
+        ],
+        [
+          "2",
+          "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+          "1"
+        ],
+        [
+          "3",
+          "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+          "1"
+        ],
+        [
+          "4",
+          "TT Motor DC5V 59RPM CCW Single Axis-LA001",
+          "1"
+        ],
+        [
+          "5",
+          "N20 Reduction Gear Motor-LA002",
+          "1"
+        ],
+        [
+          "6",
+          "1White 3030-LED Board with SH1.0 Connector 5V-KB002",
+          "1"
+        ],
+        [
+          "7",
+          "N20 Dual Shaft Worm Gear Motor 130rpm-LA009",
+          "1"
+        ],
+        [
+          "8",
+          "USB Speed Controller-Compatible with TT motor-IA002",
+          "1"
+        ],
+        [
+          "9",
+          "1 Wire Slip Ring 12.5mm with SH1.0 Connector-XA001",
+          "1"
+        ],
+        [
+          "10",
+          "7mm Round Magnetic Connector With SH1.0 Connector-XE003",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/aea3c01e9994400891f6f8945b4f10d2/ZH046.png",
+      "part_number": "ZH046",
+      "price": "50.35",
+      "region": "us",
+      "sku": "43094618439816",
+      "title": "Dynamic Installation Art Kit - Dynamic Installation Art Kit-ZH046",
+      "url": "https://us.store.bambulab.com/products/dynamic-installation-art-kit?id=43094618439816",
+      "variant_id": "43094618439816"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/641135dfc2dd40619b2412ef8352a948/ZH046.png",
+      "part_number": "ZH046",
+      "price": "58.12",
+      "region": "ca",
+      "sku": "46814144856304",
+      "title": "Dynamic Installation Art Kit - Dynamic Installation Art Kit-ZH046",
+      "url": "https://ca.store.bambulab.com/products/dynamic-installation-art-kit?id=46814144856304",
+      "variant_id": "46814144856304"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/8b99c8a7a25d40098f10e0f07401a69e/ZH046.png",
+      "part_number": "ZH046",
+      "price": "47.55",
+      "region": "eu",
+      "sku": "53495294722396",
+      "title": "Dynamic Installation Art Kit - Dynamic Installation Art Kit-ZH046",
+      "url": "https://eu.store.bambulab.com/products/dynamic-installation-art-kit?id=53495294722396",
+      "variant_id": "53495294722396"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/b66d173c006448bfb281346f62c54b7b/ZH046.png",
+      "part_number": "ZH046",
+      "price": "40.38",
+      "region": "uk",
+      "sku": "535738832965009410",
+      "title": "Dynamic Installation Art Kit - Dynamic Installation Art Kit-ZH046",
+      "url": "https://uk.store.bambulab.com/products/dynamic-installation-art-kit?id=535738832965009410",
+      "variant_id": "535738832965009410"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/be9103e75f1d436d8e6917ad434d8947/ZH046.png",
+      "part_number": "ZH046",
+      "price": "91.22",
+      "region": "au",
+      "sku": "536382788301365250",
+      "title": "Dynamic Installation Art Kit - Dynamic Installation Art Kit - ZH046",
+      "url": "https://au.store.bambulab.com/products/dynamic-installation-art-kit?id=536382788301365250",
+      "variant_id": "536382788301365250"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/fe4ce4eec6654eb88eeeae5eedb5e6f1/ZH046.png",
+      "part_number": "ZH046",
+      "price": "45.9",
+      "region": "asia",
+      "sku": "536379802605850626",
+      "title": "Dynamic Installation Art Kit - Dynamic Installation Art Kit - ZH046",
+      "url": "https://store.bambulab.com/products/dynamic-installation-art-kit?id=536379802605850626",
+      "variant_id": "536379802605850626"
+    }
+  ]
+}

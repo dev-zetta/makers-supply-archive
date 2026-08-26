@@ -1,0 +1,525 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "ancient-wizard-vs-flaming-shadow-book-nook",
+      "product_id": "736816794682060800",
+      "region": "us"
+    },
+    {
+      "handle": "ancient-wizard-vs-flaming-shadow-book-nook",
+      "product_id": "736815728694300672",
+      "region": "ca"
+    },
+    {
+      "handle": "ancient-wizard-vs-flaming-shadow-book-nook",
+      "product_id": "736817401606778880",
+      "region": "eu"
+    },
+    {
+      "handle": "ancient-wizard-vs-flaming-shadow-book-nook",
+      "product_id": "736816601012686848",
+      "region": "uk"
+    },
+    {
+      "handle": "ancient-wizard-vs-flaming-shadow-book-nook",
+      "product_id": "736814390371774464",
+      "region": "au"
+    },
+    {
+      "handle": "ancient-wizard-vs-flaming-shadow-book-nook",
+      "product_id": "736813229723377664",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/75/758712eae30e761679266ccc8d788a6a3ab46e963160af1a4e518a8c30061611.png",
+      "id": "image-85b186ebf47fcfec0ce6",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH137-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "758712eae30e761679266ccc8d788a6a3ab46e963160af1a4e518a8c30061611",
+      "size": 206622,
+      "source_url": "https://store.bblcdn.com/s7/default/190c0f1788814c68b90861f8211677f1/B-ZH137-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/00/00e02102ac88a997653c35a8a2353d7c76e67757917ed3e8ccd72cefbf1d2c0b.png",
+      "id": "image-6b3672e5391e7cce853c",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH167.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "00e02102ac88a997653c35a8a2353d7c76e67757917ed3e8ccd72cefbf1d2c0b",
+      "size": 140595,
+      "source_url": "https://store.bblcdn.com/s7/default/b0fe366129bc40478139d1d13ed4074d/B-ZH167.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/fc/fc15dc4fdf0a68208e7e367ea8c6cd91d09db688bf16b756ee1e2135e75b4d66.png",
+      "id": "image-601abd3d66b1db8916ae",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH137-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "fc15dc4fdf0a68208e7e367ea8c6cd91d09db688bf16b756ee1e2135e75b4d66",
+      "size": 958615,
+      "source_url": "https://store.bblcdn.com/s7/default/3d565a7e27b6480f885405e2f65f0b27/B-ZH137-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/69/690969fd651570e37080f7aff259386628729b6cdc4df6ed9351e00f607129fb.png",
+      "id": "image-display-910f93721a349db4c23b",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "758712eae30e761679266ccc8d788a6a3ab46e963160af1a4e518a8c30061611",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH137-1.catalog.png",
+      "parent_asset_id": "image-85b186ebf47fcfec0ce6",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "690969fd651570e37080f7aff259386628729b6cdc4df6ed9351e00f607129fb",
+      "size": 59697,
+      "source_url": "https://store.bblcdn.com/s7/default/190c0f1788814c68b90861f8211677f1/B-ZH137-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/3c/3ccce01e0d020ed1215fbd55df0fa927e85b5b963e86c8f8bf2622921b470f88.png",
+      "id": "image-display-558d3e210b5360c3ede7",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "00e02102ac88a997653c35a8a2353d7c76e67757917ed3e8ccd72cefbf1d2c0b",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH167.catalog.png",
+      "parent_asset_id": "image-6b3672e5391e7cce853c",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "3ccce01e0d020ed1215fbd55df0fa927e85b5b963e86c8f8bf2622921b470f88",
+      "size": 121002,
+      "source_url": "https://store.bblcdn.com/s7/default/b0fe366129bc40478139d1d13ed4074d/B-ZH167.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/17/17f92f11f64ae8f1f7a63e5bc75e275077ad61034b7af1abb15c597ec833a4bd.png",
+      "id": "image-display-a17f4e5521c010eab4f5",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "fc15dc4fdf0a68208e7e367ea8c6cd91d09db688bf16b756ee1e2135e75b4d66",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH137-1.catalog.png",
+      "parent_asset_id": "image-601abd3d66b1db8916ae",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "17f92f11f64ae8f1f7a63e5bc75e275077ad61034b7af1abb15c597ec833a4bd",
+      "size": 840172,
+      "source_url": "https://store.bblcdn.com/s7/default/3d565a7e27b6480f885405e2f65f0b27/B-ZH137-1.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "ic004-wire-pair-with-sh1-0",
+      "name": "300mm Wire Pair with SH1.0(2PCS) - XC014",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Battery version"
+        },
+        {
+          "quantity": "1",
+          "variant": "USB version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa014-sh1-0-to-ph2-0-power-adapter-board",
+      "name": "SH1.0 to PH2.0 Power Adapter Board (2PCS) - XA014",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Battery version"
+        },
+        {
+          "quantity": "1",
+          "variant": "USB version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ia003-battery-case",
+      "name": "AA Battery Case with PH2.0 Connector (1PCS) - IA003",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Battery version"
+        },
+        {
+          "quantity": "/",
+          "variant": "USB version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ka007-cob-led-strip-light",
+      "name": "300x1mm COB LED Strip Light (1PCS) - KA009",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Battery version"
+        },
+        {
+          "quantity": "1",
+          "variant": "USB version"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ic001-usb-a-power-cable-with-ph2-0-connector",
+      "name": "USB-A Power Cable with PH2.0 Connector (1PCS) - IC001",
+      "variant_quantities": [
+        {
+          "quantity": "/",
+          "variant": "Battery version"
+        },
+        {
+          "quantity": "1",
+          "variant": "USB version"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Ancient Wizard vs. Flaming Shadow Book Nook on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the  <strong>Ancient Wizard vs. Flaming Shadow Book Nook</strong>  on <a href=\"https://makerworld.com/en/models/2285636-gandalf-vs-balrog-book-nook-lord-of-the-rings#profileId-2493097\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n<p class=\"pct_p\"></p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\"><!-- 参数部分 -->\n<thead class=\"pct_th\">\n<tr><!-- 表头内容支持修改 -->\n<td class=\"pct_td\" style=\"text-align: center;\">Item Name</td>\n<td class=\"pct_td\" style=\"text-align: center;\">Battery version</td>\n<td class=\"pct_td\" style=\"text-align: center;\">USB version</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 20%;\">300mm Wire Pair with SH1.0(2PCS) - XC014</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 40%;\">1</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 40%;\">1</td>\n</tr>\n<tr class=\"pct_tr\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 20%;\">SH1.0 to PH2.0 Power Adapter Board (2PCS) - XA014</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 40%;\">1</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 40%;\">1</td>\n</tr>\n<tr class=\"pct_tr\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 20%;\">AA Battery Case with PH2.0 Connector (1PCS) - IA003</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 40%;\">1</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 40%;\">/</td>\n</tr>\n<tr class=\"pct_tr\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 20%;\">300x1mm COB LED Strip Light (1PCS) - KA009</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 40%;\">1</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 40%;\">1</td>\n</tr>\n<tr class=\"pct_tr\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 20%;\">USB-A Power Cable with PH2.0 Connector (1PCS) - IC001</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 40%;\">/</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 40%;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "To download the model files please visit the Ancient Wizard vs. Flaming Shadow Book Nook on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh137-ancient-wizard-vs-flaming-shadow-book-nook",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Ancient Wizard vs. Flaming Shadow Book Nook",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/ancient-wizard-vs-flaming-shadow-book-nook?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "19.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/ancient-wizard-vs-flaming-shadow-book-nook?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/ancient-wizard-vs-flaming-shadow-book-nook?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/ancient-wizard-vs-flaming-shadow-book-nook?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "30.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/ancient-wizard-vs-flaming-shadow-book-nook?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "14.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/ancient-wizard-vs-flaming-shadow-book-nook?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-ZH137",
+    "B-ZH167",
+    "IA003",
+    "IC001",
+    "KA009",
+    "XA014",
+    "XC014",
+    "ZH137",
+    "ZH167"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Gandalf Vs Balrog Book Nook Lord Of The Rings",
+      "url": "https://makerworld.com/en/models/2285636-gandalf-vs-balrog-book-nook-lord-of-the-rings#profileId-2493097"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "736813229777903618",
+    "736814390392745986",
+    "736815728715272194",
+    "736816601037852674",
+    "736816794698838016",
+    "736817401623556098",
+    "753147369927729154",
+    "753843208943812610",
+    "753844366151241730",
+    "753844990423375874",
+    "753846055292612609",
+    "753846583027998722"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Name",
+        "Battery version",
+        "USB version"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=736816794698838016"
+      },
+      "rows": [
+        [
+          "300mm Wire Pair with SH1.0(2PCS) - XC014",
+          "1",
+          "1"
+        ],
+        [
+          "SH1.0 to PH2.0 Power Adapter Board (2PCS) - XA014",
+          "1",
+          "1"
+        ],
+        [
+          "AA Battery Case with PH2.0 Connector (1PCS) - IA003",
+          "1",
+          "/"
+        ],
+        [
+          "300x1mm COB LED Strip Light (1PCS) - KA009",
+          "1",
+          "1"
+        ],
+        [
+          "USB-A Power Cable with PH2.0 Connector (1PCS) - IC001",
+          "/",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/190c0f1788814c68b90861f8211677f1/B-ZH137-1.png",
+      "part_number": "ZH137",
+      "price": "15.99",
+      "region": "us",
+      "sku": "736816794698838016",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - USB version - ZH137",
+      "url": "https://us.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=736816794698838016",
+      "variant_id": "736816794698838016"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/b0fe366129bc40478139d1d13ed4074d/B-ZH167.png",
+      "part_number": "ZH167",
+      "price": "14.99",
+      "region": "us",
+      "sku": "753846583027998722",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - Battery version - ZH167",
+      "url": "https://us.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=753846583027998722",
+      "variant_id": "753846583027998722"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/91cefd83a08546eeb5dc5032bc7e0c30/B-ZH137-1.png",
+      "part_number": "ZH137",
+      "price": "19.99",
+      "region": "ca",
+      "sku": "736815728715272194",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - USB version - ZH137",
+      "url": "https://ca.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=736815728715272194",
+      "variant_id": "736815728715272194"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/d2f361cd856b4f0985848be9f629eaf1/B-ZH167.png",
+      "part_number": "ZH167",
+      "price": "18.99",
+      "region": "ca",
+      "sku": "753844990423375874",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - Battery version - ZH167",
+      "url": "https://ca.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=753844990423375874",
+      "variant_id": "753844990423375874"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/1d0be697a89a4df3ad788b7e512b4ee4/B-ZH137-02.png",
+      "part_number": "ZH137",
+      "price": "15.99",
+      "region": "eu",
+      "sku": "736817401623556098",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - USB version - ZH137",
+      "url": "https://eu.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=736817401623556098",
+      "variant_id": "736817401623556098"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/e2bfa57e55a84a6e8474f15ed4646ddf/B-ZH137-01.png",
+      "part_number": "ZH167",
+      "price": "14.99",
+      "region": "eu",
+      "sku": "753843208943812610",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - Battery version - ZH167",
+      "url": "https://eu.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=753843208943812610",
+      "variant_id": "753843208943812610"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/0da6e8a0590f4f55b37b90c23fae271e/B-ZH137-1.png",
+      "part_number": "ZH137",
+      "price": "13.99",
+      "region": "uk",
+      "sku": "736816601037852674",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - USB version - ZH137",
+      "url": "https://uk.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=736816601037852674",
+      "variant_id": "736816601037852674"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/c7a8e9345dbb4364a56ace0b43a3daf4/B-ZH167.png",
+      "part_number": "ZH167",
+      "price": "12.99",
+      "region": "uk",
+      "sku": "753846055292612609",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - Battery version - ZH167",
+      "url": "https://uk.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=753846055292612609",
+      "variant_id": "753846055292612609"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/c8f1305d07f04535b524117ab955b549/B-ZH137-1.png",
+      "part_number": "ZH137",
+      "price": "30.99",
+      "region": "au",
+      "sku": "736814390392745986",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - USB version - ZH137",
+      "url": "https://au.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=736814390392745986",
+      "variant_id": "736814390392745986"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/c74f4515fb364b3bbb5fb3e61dc8fb48/B-ZH167.png",
+      "part_number": "ZH167",
+      "price": "29.99",
+      "region": "au",
+      "sku": "753844366151241730",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - Battery version - ZH167",
+      "url": "https://au.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=753844366151241730",
+      "variant_id": "753844366151241730"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/13d4e848309e4b8eb54332b976c6ecb7/B-ZH137-1-1.png",
+      "part_number": "ZH137",
+      "price": "14.99",
+      "region": "asia",
+      "sku": "736813229777903618",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - USB version - ZH137",
+      "url": "https://asia.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=736813229777903618",
+      "variant_id": "736813229777903618"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/83f4e870523b49d6aa00684aff1281a4/B-ZH137-1-2.png",
+      "part_number": "ZH167",
+      "price": "13.99",
+      "region": "asia",
+      "sku": "753147369927729154",
+      "title": "Ancient Wizard vs. Flaming Shadow Book Nook - Battery version - ZH167",
+      "url": "https://asia.store.bambulab.com/products/ancient-wizard-vs-flaming-shadow-book-nook?id=753147369927729154",
+      "variant_id": "753147369927729154"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "m2-5-stainless-steel-hex-nut",
+      "product_id": "7968002113672",
+      "region": "us"
+    },
+    {
+      "handle": "m2-5-stainless-steel-hex-nut",
+      "product_id": "8642657747184",
+      "region": "ca"
+    },
+    {
+      "handle": "m2-5-stainless-steel-hex-nut",
+      "product_id": "8849622892892",
+      "region": "eu"
+    },
+    {
+      "handle": "m2-5-stainless-steel-hex-nut",
+      "product_id": "7353314541628",
+      "region": "uk"
+    },
+    {
+      "handle": "m2-5-stainless-steel-hex-nut",
+      "product_id": "8263140016291",
+      "region": "au"
+    },
+    {
+      "handle": "m2-5-stainless-steel-hex-nut",
+      "product_id": "7485045178483",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/cb/cb94165645c6f8746d4a79b38b46b822b68eaa7c8d721e2d3b0efe135f767dd6.png",
+      "id": "image-5df75015a3f6886451ff",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "AB001.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "cb94165645c6f8746d4a79b38b46b822b68eaa7c8d721e2d3b0efe135f767dd6",
+      "size": 183747,
+      "source_url": "https://store.bblcdn.com/s7/default/eef82afd862441d79bd542ed92ee69e5/AB001.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2f/2f649eec93850548790872393e22da07b6a8961a072f1276a676729ddc50881f.png",
+      "id": "image-e6d67cc45ea904a197c2",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Nut-M2.5.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2f649eec93850548790872393e22da07b6a8961a072f1276a676729ddc50881f",
+      "size": 350712,
+      "source_url": "https://store.bblcdn.com/s7/default/b75f8e0820dc48248084af1220d98361/Nut-M2.5.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/35/35800283ff185ea5e0a82b92a7b02d7c9245e2661b279e7aaca1024e24af56c5.pdf",
+      "id": "document-2d68f80409bd7d21cad0",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "M2.5_Stainless_Steel_Hex_Nut.pdf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "35800283ff185ea5e0a82b92a7b02d7c9245e2661b279e7aaca1024e24af56c5",
+      "size": 863280,
+      "source_url": "https://store.bblcdn.com/s7/default/93db05124ae54b12acff53d5bba0b78e/M2.5_Stainless_Steel_Hex_Nut.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a1/a1328be404e85736e6f5756a9d8f08675813638cd9a6bcbf3fc6ec5873b1e4f6.zip",
+      "id": "archive-86740fc9057395261d77",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "M2.5_Stainless_Steel_Hex_Nut.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a1328be404e85736e6f5756a9d8f08675813638cd9a6bcbf3fc6ec5873b1e4f6",
+      "size": 160306,
+      "source_url": "https://store.bblcdn.com/s7/default/b80118f46edc429295fae5b82622cec3/M2.5_Stainless_Steel_Hex_Nut.zip"
+    },
+    {
+      "archive_member_path": "M2.5 Stainless Steel Hex Nut/M2.5 Stainless Steel Hex Nut - AB001.stl",
+      "blob_path": "data/blobs/sha256/c1/c12664b24d932dfb9bf3955ebc03e89de67e6de392e8535e7a3e5eab98bef187.stl",
+      "id": "model-feaa013c4d53f7b85529",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "M2.5 Stainless Steel Hex Nut - AB001.stl",
+      "parent_asset_id": "archive-86740fc9057395261d77",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "c12664b24d932dfb9bf3955ebc03e89de67e6de392e8535e7a3e5eab98bef187",
+      "size": 811884,
+      "source_url": "https://store.bblcdn.com/s7/default/b80118f46edc429295fae5b82622cec3/M2.5_Stainless_Steel_Hex_Nut.zip"
+    },
+    {
+      "archive_member_path": "M2.5 Stainless Steel Hex Nut/M2.5 Stainless Steel Hex Nut - AB001.stp",
+      "blob_path": "data/blobs/sha256/14/1414ea9a50fbefd7ed9a4db8f33f4874e36b4d2d788cc2a5fddfa40ecb846f6e.stp",
+      "id": "model-92b0d57ab5fcc88130ca",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "M2.5 Stainless Steel Hex Nut - AB001.stp",
+      "parent_asset_id": "archive-86740fc9057395261d77",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "1414ea9a50fbefd7ed9a4db8f33f4874e36b4d2d788cc2a5fddfa40ecb846f6e",
+      "size": 68300,
+      "source_url": "https://store.bblcdn.com/s7/default/b80118f46edc429295fae5b82622cec3/M2.5_Stainless_Steel_Hex_Nut.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/fb/fb72e61d43d52cd86ae860e61958b882bd86e7a4080d77e320f9a45dc50ad954.png",
+      "id": "image-display-c61b770d2cdc0d42da58",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "cb94165645c6f8746d4a79b38b46b822b68eaa7c8d721e2d3b0efe135f767dd6",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "AB001.catalog.png",
+      "parent_asset_id": "image-5df75015a3f6886451ff",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "fb72e61d43d52cd86ae860e61958b882bd86e7a4080d77e320f9a45dc50ad954",
+      "size": 93284,
+      "source_url": "https://store.bblcdn.com/s7/default/eef82afd862441d79bd542ed92ee69e5/AB001.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2f/2fd2402ffd1d2fc7efcb7e946fc0704a1b3270e0075123917c0713ee8123cfd6.png",
+      "id": "image-display-1a082331f8d6ca6cc404",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "2f649eec93850548790872393e22da07b6a8961a072f1276a676729ddc50881f",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Nut-M2.5.catalog.png",
+      "parent_asset_id": "image-e6d67cc45ea904a197c2",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2fd2402ffd1d2fc7efcb7e946fc0704a1b3270e0075123917c0713ee8123cfd6",
+      "size": 109608,
+      "source_url": "https://store.bblcdn.com/s7/default/b75f8e0820dc48248084af1220d98361/Nut-M2.5.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Fasteners"
+  ],
+  "category_assignments": [
+    {
+      "id": "fasteners",
+      "label": "Fasteners",
+      "path": [
+        "Hardware",
+        "Fasteners"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[1]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "* Compliant with the requirements of GB /T 6170 - 2015 standard [Equivalent standards: ISO 4032 - 2012, ASME/ANSI B 18.2.4.1M - 2007, DIN EN ISO 4032 - 2013]"
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<h2 class=\"pct_t\"><br/></h2>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"border-color: #ADADAD; font-weight: bold;\">\n<!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div style=\"text-align: center;\">Product ID</div>\n</td>\n<td class=\"pct_td\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>M (mm)</div>\n<p>Nominal Diameter</p>\n</td>\n<td class=\"pct_td\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>P (mm)\n<p>Thread Pitch</p>\n</div>\n</td>\n<td class=\"pct_td\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>H (mm)\n<p>Wrench Size</p>\n</div>\n</td>\n<td class=\"pct_td\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>k (mm)</div>\n<p>Thickness</p>\n</td>\n<td class=\"pct_td\" style=\"padding: 10px!important; background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>e (mm)</div>\n<p>Across Corners</p>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important; text-align: center;\">AB001</td>\n<td class=\"pct_td\" style=\"padding: 10px!important; border-color: #ADADAD;\">2.5</td>\n<td class=\"pct_td\" style=\"padding: 10px!important; border-color: #ADADAD;\">0.45</td>\n<td class=\"pct_td\" style=\"padding: 10px!important; border-color: #ADADAD;\">5</td>\n<td class=\"pct_td\" style=\"padding: 10px!important; border-color: #ADADAD;\">1.7</td>\n<td class=\"pct_td\" style=\"padding: 10px!important; border-color: #ADADAD;\">5.8</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p data-mce-style=\"text-align: center; margin-top: 30px;\" style=\"text-align: center; margin-top: 30px;\">* Compliant with the requirements of GB /T 6170 - 2015 standard [Equivalent standards: ISO 4032 - 2012, ASME/ANSI B 18.2.4.1M - 2007, DIN EN ISO 4032 - 2013]</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<h2 class=\"pct_t\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Basic Information</h2>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\">\n<!-- 第一条 -->\n<div class=\"pct_ic-p\">\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\">\n<!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Surface Treatment</td>\n<td class=\"pct_td\">No</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Fastener Type</td>\n<td class=\"pct_td\">Hex</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Quantity</td>\n<td class=\"pct_td\">20 pcs</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 -->\n</div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\">\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\">\n<!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Material</td>\n<td class=\"pct_td\">Stainless steel</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Thread Ridge Type</td>\n<td class=\"pct_td\">Metric coarse</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Package Weight</td>\n<td class=\"pct_td\">Silver</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 -->\n</div>\n</div>\n<!-- 如需添加在此处添加 -->\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Downloads</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a href=\"https://store.bblcdn.com/s7/default/93db05124ae54b12acff53d5bba0b78e/M2.5_Stainless_Steel_Hex_Nut.pdf\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path clip-rule=\"evenodd\" d=\"M37.7155 0.802246L55.0002 16.8009V63.3224C55.0002 64.1367 54.34 64.7969 53.5256 64.7969H5.16103C4.34667 64.7969 3.6865 64.1367 3.6865 63.3224V2.27677C3.6865 1.46241 4.34667 0.802246 5.16103 0.802246H37.7155Z\" fill=\"#DF322F\" fill-rule=\"evenodd\"></path> <path d=\"M5.89828 4.48869C5.89828 3.67433 6.55845 3.01416 7.37281 3.01416H36.5375C36.9345 3.01416 37.3147 3.17423 37.5922 3.45817L44.4344 10.4605L52.2569 16.9683C52.5936 17.2485 52.7884 17.6638 52.7884 18.1019V61.1107C52.7884 61.925 52.1282 62.5852 51.3138 62.5852H7.37281C6.55845 62.5852 5.89828 61.925 5.89828 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#DF322F\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" x=\"0.000193596\" y=\"24.3948\"></rect> <path d=\"M12.9688 31.1647C14.3272 31.1647 15.3184 31.4575 15.9423 32.0431C16.5663 32.6239 16.8783 33.4255 16.8783 34.4479C16.8783 34.9087 16.8087 35.3502 16.6695 35.7726C16.5303 36.1902 16.3023 36.5622 15.9855 36.8886C15.6735 37.215 15.256 37.4742 14.7328 37.6662C14.2096 37.8534 13.564 37.947 12.796 37.947H11.8384V41.6909H9.60647V31.1647H12.9688ZM12.8536 32.9935H11.8384V36.1182H12.5728C12.9904 36.1182 13.3528 36.063 13.66 35.9526C13.9672 35.8422 14.2048 35.6694 14.3728 35.4342C14.5408 35.199 14.6248 34.8967 14.6248 34.5271C14.6248 34.0087 14.4808 33.6247 14.1928 33.3751C13.9048 33.1207 13.4584 32.9935 12.8536 32.9935ZM27.5989 36.327C27.5989 37.5126 27.3709 38.5038 26.9149 39.3006C26.4637 40.0925 25.8085 40.6901 24.9494 41.0933C24.0902 41.4917 23.0558 41.6909 21.8462 41.6909H18.8655V31.1647H22.1702C23.2742 31.1647 24.2318 31.3615 25.043 31.7551C25.8541 32.1439 26.4829 32.7223 26.9293 33.4903C27.3757 34.2535 27.5989 35.199 27.5989 36.327ZM25.2806 36.3846C25.2806 35.607 25.1654 34.9687 24.935 34.4695C24.7094 33.9655 24.3734 33.5935 23.927 33.3535C23.4854 33.1135 22.9382 32.9935 22.2854 32.9935H21.0974V39.8478H22.055C23.1446 39.8478 23.9534 39.5574 24.4814 38.9766C25.0142 38.3958 25.2806 37.5318 25.2806 36.3846ZM31.9764 41.6909H29.7805V31.1647H35.8139V32.9935H31.9764V35.7078H35.5475V37.5294H31.9764V41.6909Z\" fill=\"white\"></path> <path d=\"M37.6009 18.3492H55.0004L36.1264 0.802246V16.8746C36.1264 17.689 36.7866 18.3492 37.6009 18.3492Z\" fill=\"#DF322F\"></path> </svg> 2D Drawing </a> <a href=\"https://store.bblcdn.com/s7/default/b80118f46edc429295fae5b82622cec3/M2.5_Stainless_Steel_Hex_Nut.zip\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path clip-rule=\"evenodd\" d=\"M37.7154 0.802246L54.9999 16.8008V63.3224C54.9999 64.1367 54.3397 64.7969 53.5254 64.7969H5.16076C4.3464 64.7969 3.68623 64.1367 3.68623 63.3224V2.27677C3.68623 1.46241 4.3464 0.802246 5.16076 0.802246H37.7154Z\" fill=\"#60BB18\" fill-rule=\"evenodd\"></path> <path d=\"M5.8981 4.48869C5.8981 3.67433 6.55827 3.01416 7.37263 3.01416H36.5374C36.9344 3.01416 37.3146 3.17423 37.592 3.45817L44.4342 10.4605L52.2567 16.9683C52.5934 17.2485 52.7882 17.6638 52.7882 18.1019V61.1107C52.7882 61.925 52.128 62.5852 51.3136 62.5852H7.37263C6.55827 62.5852 5.8981 61.925 5.8981 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#60BB18\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" y=\"24.3948\"></rect> <path d=\"M20.3197 33.5191C20.3197 34.0039 20.2189 34.4239 20.0174 34.7791C19.8158 35.1342 19.5422 35.4246 19.1966 35.6502C18.8558 35.8758 18.4718 36.0414 18.0446 36.147V36.1902C18.8894 36.2958 19.5302 36.555 19.967 36.9678C20.4085 37.3806 20.6293 37.9326 20.6293 38.6238C20.6293 39.2382 20.4781 39.7878 20.1757 40.2725C19.8782 40.7573 19.4174 41.1389 18.7934 41.4173C18.1694 41.6957 17.3654 41.8349 16.3814 41.8349C15.8006 41.8349 15.2582 41.7869 14.7543 41.6909C14.2551 41.5997 13.7847 41.4581 13.3431 41.2661V39.3726C13.7943 39.603 14.2671 39.7782 14.7615 39.8982C15.2558 40.0134 15.7166 40.0709 16.1438 40.0709C16.9406 40.0709 17.4974 39.9342 17.8142 39.6606C18.1358 39.3822 18.2966 38.9934 18.2966 38.4942C18.2966 38.2014 18.2222 37.9542 18.0734 37.7526C17.9246 37.551 17.6654 37.3974 17.2958 37.2918C16.931 37.1862 16.4198 37.1334 15.7622 37.1334H14.9631V35.427H15.7766C16.4246 35.427 16.9166 35.367 17.2526 35.247C17.5934 35.1222 17.8238 34.9543 17.9438 34.7431C18.0686 34.5271 18.131 34.2823 18.131 34.0087C18.131 33.6343 18.0158 33.3415 17.7854 33.1303C17.555 32.9191 17.171 32.8135 16.6334 32.8135C16.2974 32.8135 15.9902 32.8567 15.7118 32.9431C15.4382 33.0247 15.191 33.1255 14.9703 33.2455C14.7495 33.3607 14.5551 33.4735 14.3871 33.5839L13.3575 32.0503C13.7703 31.7527 14.2527 31.5055 14.8047 31.3087C15.3614 31.1119 16.0238 31.0135 16.7918 31.0135C17.8766 31.0135 18.7358 31.2319 19.3694 31.6687C20.003 32.1055 20.3197 32.7223 20.3197 33.5191ZM31.2779 36.327C31.2779 37.5126 31.0499 38.5038 30.5939 39.3006C30.1428 40.0925 29.4876 40.6901 28.6284 41.0933C27.7692 41.4917 26.7348 41.6909 25.5252 41.6909H22.5445V31.1647H25.8492C26.9532 31.1647 27.9108 31.3615 28.722 31.7551C29.5332 32.1439 30.162 32.7223 30.6083 33.4903C31.0547 34.2535 31.2779 35.199 31.2779 36.327ZM28.9596 36.3846C28.9596 35.607 28.8444 34.9687 28.614 34.4695C28.3884 33.9655 28.0524 33.5935 27.606 33.3535C27.1644 33.1135 26.6172 32.9935 25.9644 32.9935H24.7765V39.8478H25.734C26.8236 39.8478 27.6324 39.5574 28.1604 38.9766C28.6932 38.3958 28.9596 37.5318 28.9596 36.3846Z\" fill=\"white\"></path> <path d=\"M37.6006 18.3492H55.0001L36.1261 0.802246V16.8746C36.1261 17.689 36.7863 18.3492 37.6006 18.3492Z\" fill=\"#60BB18\"></path> </svg> 3D Document</a></p>\n</div>",
+  "description_text": "* Compliant with the requirements of GB /T 6170 - 2015 standard [Equivalent standards: ISO 4032 - 2012, ASME/ANSI B 18.2.4.1M - 2007, DIN EN ISO 4032 - 2013]",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "ab001-m2-5-stainless-steel-hex-nut",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "H (mm) Wrench Size",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:H (mm) Wrench Size",
+        "source_url": "https://us.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=42102811590792"
+      },
+      "raw_value": "5"
+    },
+    {
+      "label": "M (mm) Nominal Diameter",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:M (mm) Nominal Diameter",
+        "source_url": "https://us.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=42102811590792"
+      },
+      "raw_value": "2.5"
+    },
+    {
+      "label": "P (mm) Thread Pitch",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:P (mm) Thread Pitch",
+        "source_url": "https://us.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=42102811590792"
+      },
+      "raw_value": "0.45"
+    },
+    {
+      "label": "k (mm) Thickness",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:k (mm) Thickness",
+        "source_url": "https://us.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=42102811590792"
+      },
+      "raw_value": "1.7"
+    }
+  ],
+  "name": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.64",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.49",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.49",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.49",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AB001"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "41313556201532",
+    "41566954618995",
+    "42102811590792",
+    "44121554878627",
+    "45647561621744",
+    "47966831083868"
+  ],
+  "source_tables": [
+    {
+      "caption": "",
+      "headers": [
+        "Product ID",
+        "M (mm) Nominal Diameter",
+        "P (mm) Thread Pitch",
+        "H (mm) Wrench Size",
+        "k (mm) Thickness",
+        "e (mm) Across Corners"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=42102811590792"
+      },
+      "rows": [
+        [
+          "AB001",
+          "2.5",
+          "0.45",
+          "5",
+          "1.7",
+          "5.8"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=42102811590792"
+      },
+      "rows": [
+        [
+          "Surface Treatment",
+          "No"
+        ],
+        [
+          "Fastener Type",
+          "Hex"
+        ],
+        [
+          "Quantity",
+          "20 pcs"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=42102811590792"
+      },
+      "rows": [
+        [
+          "Material",
+          "Stainless steel"
+        ],
+        [
+          "Thread Ridge Type",
+          "Metric coarse"
+        ],
+        [
+          "Package Weight",
+          "Silver"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Fastener Type": "Hex",
+    "H (mm) Wrench Size": "5",
+    "M (mm) Nominal Diameter": "2.5",
+    "Material": "Stainless steel",
+    "P (mm) Thread Pitch": "0.45",
+    "Package Weight": "Silver",
+    "Product ID": "AB001",
+    "Quantity": "20 pcs",
+    "Surface Treatment": "No",
+    "Thread Ridge Type": "Metric coarse",
+    "e (mm) Across Corners": "5.8",
+    "k (mm) Thickness": "1.7"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/eef82afd862441d79bd542ed92ee69e5/AB001.png",
+      "part_number": "AB001",
+      "price": "1.64",
+      "region": "us",
+      "sku": "42102811590792",
+      "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
+      "url": "https://us.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=42102811590792",
+      "variant_id": "42102811590792"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/99eaec67c9974deca175fdfc5524074f.png",
+      "part_number": "AB001",
+      "price": "1.99",
+      "region": "ca",
+      "sku": "45647561621744",
+      "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
+      "url": "https://ca.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=45647561621744",
+      "variant_id": "45647561621744"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/fd29498ee8c64f5aa9cfe922509a7c2c/Nut-M2.5.png",
+      "part_number": "AB001",
+      "price": "2.49",
+      "region": "eu",
+      "sku": "47966831083868",
+      "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
+      "url": "https://eu.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=47966831083868",
+      "variant_id": "47966831083868"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/f1b1fc77984e4625abf1ec4de7a400fb.png",
+      "part_number": "AB001",
+      "price": "2.49",
+      "region": "uk",
+      "sku": "41313556201532",
+      "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
+      "url": "https://uk.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=41313556201532",
+      "variant_id": "41313556201532"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/0c5b999b94d34d5f867867cd12b652dc.png",
+      "part_number": "AB001",
+      "price": "3.99",
+      "region": "au",
+      "sku": "44121554878627",
+      "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
+      "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=44121554878627",
+      "variant_id": "44121554878627"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494435459063238656.png",
+      "part_number": "AB001",
+      "price": "1.49",
+      "region": "asia",
+      "sku": "41566954618995",
+      "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
+      "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=41566954618995",
+      "variant_id": "41566954618995"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "categories": {
+    "adhesives": {"label": "Adhesives & Fasteners", "path": ["Hardware", "Adhesives & Fasteners"]},
+    "bearings": {"label": "Bearings & Motion", "path": ["Hardware", "Bearings & Motion"]},
+    "electronics": {"label": "Electronics", "path": ["Electronics"]},
+    "fasteners": {"label": "Fasteners", "path": ["Hardware", "Fasteners"]},
+    "kits": {"label": "Kits & Bundles", "path": ["Kits & Bundles"]},
+    "magnets": {"label": "Magnets", "path": ["Hardware", "Magnets"]},
+    "mechanical": {"label": "Mechanical Components", "path": ["Hardware", "Mechanical Components"]},
+    "models": {"label": "Maker's Supply Models", "path": ["Maker's Supply Models"]},
+    "motors": {"label": "Motors & Actuators", "path": ["Electronics", "Motors & Actuators"]},
+    "tools": {"label": "Tools", "path": ["Tools"]},
+    "uncategorized": {"label": "Uncategorized", "path": ["Uncategorized"]}
+  },
+  "rules": [
+    {"pattern": "(?:^| )(?:dy|zh|zl)\\d{3}|diy framework", "category": "models"},
+    {"pattern": "(?:^| )(?:aa|ab|ac|ad)\\d{3}|screw|nut|washer|insert", "category": "fasteners"},
+    {"pattern": "(?:^| )(?:ea|eb|ed|fa|fb|rd)\\d{3}|bearing|belt|bushing|spring", "category": "bearings"},
+    {"pattern": "(?:^| )(?:ca|cb|cc|cd)\\d{3}|magnet", "category": "magnets"},
+    {"pattern": "(?:^| )(?:nb|nc)\\d{3}|adhesive|tape|sticker", "category": "adhesives"},
+    {"pattern": "(?:^| )(?:la|pg)\\d{3}|motor|actuator|push-rod|servo", "category": "motors"},
+    {"pattern": "(?:^| )(?:ia|ic|ja|jb|ka|kb|kc|pd|pc|pj|xa|xb|xc|xd|xf)\\d{3}|led|board|cable|battery|charger|controller|power adapter|thermometer", "category": "electronics"},
+    {"pattern": "(?:^| )(?:k\\d{3}|mh\\d{3}|zc\\d{3})|kit|bundle", "category": "kits"},
+    {"pattern": "(?:^| )(?:qa|b-qa)\\d{3}|tool|cutter|cutting mat|pliers|tweezers|soldering|scraper", "category": "tools"},
+    {"pattern": "(?:^| )(?:da|fc|ha|hb|hc|ma|mb|md|mf|ra|rb|rc|yf|zb)\\d{3}|ptfe|pvc sheet", "category": "mechanical"}
+  ],
+  "managed_tags": ["kit"],
+  "tag_rules": [
+    {
+      "pattern": "\\b(?:kit|bundle)\\b|all the non-3d printed parts for assembling|compatible hardware kits",
+      "tag": "kit"
+    }
+  ]
+}

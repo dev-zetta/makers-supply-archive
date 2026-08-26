@@ -1,0 +1,447 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "turntable-kit",
+      "product_id": "8438309519496",
+      "region": "us"
+    },
+    {
+      "handle": "turntable-kit",
+      "product_id": "544059333063065600",
+      "region": "ca"
+    },
+    {
+      "handle": "turntable-kit",
+      "product_id": "14809001394524",
+      "region": "eu"
+    },
+    {
+      "handle": "turntable-kit",
+      "product_id": "544059138080563200",
+      "region": "uk"
+    },
+    {
+      "handle": "turntable-kit",
+      "product_id": "544058789025009664",
+      "region": "au"
+    },
+    {
+      "handle": "turntable-kit",
+      "product_id": "544056418540208128",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/bb/bb1ad8f721f042c5dbe48b4f9e31d82dc20d36f6072478fa4471f48e33454757.png",
+      "id": "image-43f0d1d7019e37aa9f01",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH043.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "bb1ad8f721f042c5dbe48b4f9e31d82dc20d36f6072478fa4471f48e33454757",
+      "size": 285367,
+      "source_url": "https://store.bblcdn.com/s2/default/c3a10ad2b0834a80a5a0c7a87d2bb923/ZH043.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9f/9ff6ce052833cccaec5451c2863b7f026f2a601a56909d36a105afc06ab77983.jpg",
+      "id": "image-dab7841eac46f51dd2af",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "B-ZH043.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9ff6ce052833cccaec5451c2863b7f026f2a601a56909d36a105afc06ab77983",
+      "size": 468857,
+      "source_url": "https://store.bblcdn.com/s2/default/af838bc35fe049adb5c530b4aa4f9237/B-ZH043.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ce/ce39e91a4b11f49fb243816ac23379cce291119c635e36ab4a5832e7a7d3f34e.png",
+      "id": "image-display-a5bc4a094697192bf3ad",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 829,
+        "source_sha256": "bb1ad8f721f042c5dbe48b4f9e31d82dc20d36f6072478fa4471f48e33454757",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH043.catalog.png",
+      "parent_asset_id": "image-43f0d1d7019e37aa9f01",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ce39e91a4b11f49fb243816ac23379cce291119c635e36ab4a5832e7a7d3f34e",
+      "size": 228071,
+      "source_url": "https://store.bblcdn.com/s2/default/c3a10ad2b0834a80a5a0c7a87d2bb923/ZH043.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/de/de78187356dc3a614d3878f41ed811fd425603264a8a5c1de58732c9091ab257.png",
+      "id": "image-display-5c164e7f1ea33ad8abed",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9ff6ce052833cccaec5451c2863b7f026f2a601a56909d36a105afc06ab77983",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH043.catalog.png",
+      "parent_asset_id": "image-dab7841eac46f51dd2af",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "de78187356dc3a614d3878f41ed811fd425603264a8a5c1de58732c9091ab257",
+      "size": 163213,
+      "source_url": "https://store.bblcdn.com/s2/default/af838bc35fe049adb5c530b4aa4f9237/B-ZH043.jpg"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "name": "Charger Board",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "name": "902525 3.7V 500mAh LiPo Battery",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "linked_product_id": "la002-n20-reduction-gear-motor",
+      "name": "N20 Reduction Gear Motor 500rpm",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "4",
+      "name": "M1.6x3 Cross Head Machine Screw",
+      "quantity": "5",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "5",
+      "name": "608zz P5 Steel Deep Groove Ball Bearings",
+      "quantity": "2",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Your PrintMon, Your Stage! Ever dreamed of adding your own twist to a popular animation? With PrintMon Maker, you can turn those ideas into reality and transform them into real, tangible creations! No 3D modeling skills are required—this AI-powered generator helps you hatch your one-of-a-kind PrintMon effortlessly."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To showcase your unique creation, pair it with our Turntable Kit—the perfect stage for your PrintMon. Designed with rechargeable components and 608ZZ bearings, this kit ensures smooth, quiet rotations while enhancing load-bearing capacity. The turntable supports 360-degree rotation, bringing your design to life and making every angle shine."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Start creating your own PrintMon today with PrintMon Maker, and let the Turntable Kit elevate your creations to the next level!"
+    },
+    {
+      "kind": "heading",
+      "text": "Considerations"
+    },
+    {
+      "kind": "bullet",
+      "text": "Please ensure that the motherboard battery and output interface are connected correctly according to the markings. Incorrect connections may affect device usage and charging."
+    },
+    {
+      "kind": "bullet",
+      "text": "Please use within the rated power."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<p style=\"margin-top: 30px;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-=\"\" data-src=\"https://store.bblcdn.com/s7/default/acdfbe0737d142d8ad5060567be71e5f/dd6373aded1c4ff1886468a54377cd61.mp4\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" style=\"width: 100%;\">\n</video></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\"><br/></div>\n</div>\n<div class=\"pct pct_mc\">\n<!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Overview</h3>\n<p>Your PrintMon, Your Stage! Ever dreamed of adding your own twist to a popular animation? With<span style=\"color: #0000aa;\"> <strong><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/makerlab/printMonMaker?from=makersupply\" style=\"color: #00ae42;\">PrintMon Maker,</a></span></strong></span> you can turn those ideas into reality and transform them into real, tangible creations! No 3D modeling skills are required—this AI-powered generator helps you hatch your one-of-a-kind PrintMon effortlessly.</p>\n<p> </p>\n<p>To showcase your unique creation, pair it with our Turntable Kit—the perfect stage for your PrintMon. Designed with rechargeable components and 608ZZ bearings, this kit ensures smooth, quiet rotations while enhancing load-bearing capacity. The turntable supports 360-degree rotation, bringing your design to life and making every angle shine.</p>\n<p> </p>\n<p>Start creating your own PrintMon today with<strong><span style=\"color: #00ae42;\"> <a href=\"https://makerworld.com/makerlab/printMonMaker?from=makersupply\" style=\"color: #00ae42;\">PrintMon Maker</a>,</span></strong> and let the Turntable Kit elevate your creations to the next level!</p>\n</div>\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 99.9987%; height: 125.5px;\">\n<!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.5833px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 19.5833px;\"><strong> Models</strong></td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 19.5833px;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 19.5833px;\"><b>Model Links</b></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 47.1667px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 47.1667px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">Fantasy Creatures Display Turntable</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 47.1667px;\"><span>@parkeryaojj</span></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 47.1667px;\"><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/731602#profileId-663167\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"><strong><span>Fantasy Creatures Display Turntable</span></strong></a></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/27d5c94c9d8c4f7c83d64e4d4dff4995/charge.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/><br/>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<h3 class=\"pct_st\" style=\"text-align: center;\">Product Specification</h3>\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 100%;\">\n<!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.6023px;\">\n<td class=\"pct_td\" style=\"height: 19.6023px;\"><b>Packaging Size</b></td>\n<td class=\"pct_td\" style=\"height: 19.6023px;\">60x60x30 mm</td>\n<td class=\"pct_td\" style=\"height: 19.6023px;\"><b>Packaging Weight</b></td>\n<td class=\"pct_td\" style=\"height: 19.6023px;\">34.3 g</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.6023px;\">\n<td class=\"pct_td\" style=\"height: 19.6023px;\"><b>Current</b></td>\n<td class=\"pct_td\" style=\"height: 19.6023px;\">1 A</td>\n<td class=\"pct_td\" style=\"height: 19.6023px;\"><b>Voltage</b></td>\n<td class=\"pct_td\" style=\"height: 19.6023px;\">5 V</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.6023px;\">\n<td class=\"pct_td\" style=\"height: 19.6023px;\"><b>Charger Board Size</b></td>\n<td class=\"pct_td\" style=\"height: 19.6023px;\">25x25.2 mm</td>\n<td class=\"pct_td\" style=\"height: 19.6023px;\"><b>Capacity</b></td>\n<td class=\"pct_td\" style=\"height: 19.6023px;\">500 mAh</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<p> </p>\n<p> </p>\n</div>\n</div>\n<h3 class=\"pct_st\" style=\"text-align: center;\">In the Box</h3>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 285px; width: 100%; text-align: center; border-collapse: collapse;\">\n<!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item </strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">Charger Board</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">902525 3.7V 500mAh LiPo Battery</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">N20 Reduction Gear Motor 500rpm</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">4</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">M1.6x3 Cross Head Machine Screw</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">5</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">5</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">608zz P5 Steel Deep Groove Ball Bearings</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<p> </p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h3 class=\"pct_st\" style=\"text-align: center;\">Considerations</h3>\n<p> </p>\n<ul>\n<li>\n<p>Please ensure that the motherboard battery and output interface are connected correctly according to the markings. Incorrect connections may affect device usage and charging. </p>\n</li>\n<li>\n<p>Please use within the rated power.</p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "Your PrintMon, Your Stage! Ever dreamed of adding your own twist to a popular animation? With PrintMon Maker, you can turn those ideas into reality and transform them into real, tangible creations! No 3D modeling skills are required—this AI-powered generator helps you hatch your one-of-a-kind PrintMon effortlessly.\n\nTo showcase your unique creation, pair it with our Turntable Kit—the perfect stage for your PrintMon. Designed with rechargeable components and 608ZZ bearings, this kit ensures smooth, quiet rotations while enhancing load-bearing capacity. The turntable supports 360-degree rotation, bringing your design to life and making every angle shine.\n\nStart creating your own PrintMon today with PrintMon Maker, and let the Turntable Kit elevate your creations to the next level!\n\nPlease ensure that the motherboard battery and output interface are connected correctly according to the markings. Incorrect connections may affect device usage and charging.\n\nPlease use within the rated power.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh043-turntable-kit",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Turntable Kit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "21.74",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/turntable-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "24.8",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/turntable-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "20.3",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/turntable-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.24",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/turntable-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "38.93",
+      "region": "au",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://au.store.bambulab.com/en/products/turntable-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "19.59",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/turntable-kit?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "ZH043"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "PrintMon Maker",
+      "url": "https://makerworld.com/makerlab/printMonMaker?from=makersupply"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Fantasy Creatures Display Turntable",
+      "url": "https://makerworld.com/en/models/731602#profileId-663167"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "43148404916360",
+    "53620515930460",
+    "544056418552791042",
+    "544058789033398274",
+    "544059138093146114",
+    "544059333075648514"
+  ],
+  "source_tables": [
+    {
+      "caption": "Overview",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/turntable-kit?id=43148404916360"
+      },
+      "rows": [
+        [
+          "Models",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "Fantasy Creatures Display Turntable",
+          "@parkeryaojj",
+          "Fantasy Creatures Display Turntable"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specification",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/turntable-kit?id=43148404916360"
+      },
+      "rows": [
+        [
+          "Packaging Size",
+          "60x60x30 mm",
+          "Packaging Weight",
+          "34.3 g"
+        ],
+        [
+          "Current",
+          "1 A",
+          "Voltage",
+          "5 V"
+        ],
+        [
+          "Charger Board Size",
+          "25x25.2 mm",
+          "Capacity",
+          "500 mAh"
+        ]
+      ]
+    },
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item Number",
+        "Item",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/turntable-kit?id=43148404916360"
+      },
+      "rows": [
+        [
+          "1",
+          "Charger Board",
+          "1"
+        ],
+        [
+          "2",
+          "902525 3.7V 500mAh LiPo Battery",
+          "1"
+        ],
+        [
+          "3",
+          "N20 Reduction Gear Motor 500rpm",
+          "1"
+        ],
+        [
+          "4",
+          "M1.6x3 Cross Head Machine Screw",
+          "5"
+        ],
+        [
+          "5",
+          "608zz P5 Steel Deep Groove Ball Bearings",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/2207e5ae61f94e999dc0a2f418f86983/ZH043_1ddd2fbf-8022-44ed-8bfe-08529c3c9eef.png",
+      "part_number": "ZH043",
+      "price": "21.74",
+      "region": "us",
+      "sku": "43148404916360",
+      "title": "Turntable Kit - Turntable Kits - ZH043",
+      "url": "https://us.store.bambulab.com/products/turntable-kit?id=43148404916360",
+      "variant_id": "43148404916360"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/088e164177734131aef7d35c781d4fe2/ZH043.png",
+      "part_number": "ZH043",
+      "price": "24.8",
+      "region": "ca",
+      "sku": "544059333075648514",
+      "title": "Turntable Kit - Turntable Kits - ZH043",
+      "url": "https://ca.store.bambulab.com/products/turntable-kit?id=544059333075648514",
+      "variant_id": "544059333075648514"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/9806da6c11804b639ea5260d1fb3fab2/ZH043_d9d4ba49-4753-4096-bcc4-6023a5a88101.png",
+      "part_number": "ZH043",
+      "price": "20.3",
+      "region": "eu",
+      "sku": "53620515930460",
+      "title": "Turntable Kit - Turntable Kits - ZH043",
+      "url": "https://eu.store.bambulab.com/products/turntable-kit?id=53620515930460",
+      "variant_id": "53620515930460"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/1ca78b799543402cab07e8d008788905/ZH043.png",
+      "part_number": "ZH043",
+      "price": "17.24",
+      "region": "uk",
+      "sku": "544059138093146114",
+      "title": "Turntable Kit - Turntable Kits - ZH043",
+      "url": "https://uk.store.bambulab.com/products/turntable-kit?id=544059138093146114",
+      "variant_id": "544059138093146114"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/c3a10ad2b0834a80a5a0c7a87d2bb923/ZH043.png",
+      "part_number": "ZH043",
+      "price": "38.93",
+      "region": "au",
+      "sku": "544058789033398274",
+      "title": "Turntable Kit - Turntable Kits - ZH043",
+      "url": "https://au.store.bambulab.com/products/turntable-kit?id=544058789033398274",
+      "variant_id": "544058789033398274"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/a347be504c1442e38e38b507e6ec7eb8/ZH043.png",
+      "part_number": "ZH043",
+      "price": "19.59",
+      "region": "asia",
+      "sku": "544056418552791042",
+      "title": "Turntable Kit - Turntable Kits - ZH043",
+      "url": "https://asia.store.bambulab.com/products/turntable-kit?id=544056418552791042",
+      "variant_id": "544056418552791042"
+    }
+  ]
+}

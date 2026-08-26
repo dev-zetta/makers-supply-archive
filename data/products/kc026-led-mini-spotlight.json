@@ -1,0 +1,617 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "led-mini-spotlight",
+      "product_id": "715069008243515392",
+      "region": "us"
+    },
+    {
+      "handle": "led-mini-spotlight",
+      "product_id": "715068172774014976",
+      "region": "ca"
+    },
+    {
+      "handle": "led-mini-spotlight",
+      "product_id": "715069647646982144",
+      "region": "eu"
+    },
+    {
+      "handle": "led-mini-spotlight",
+      "product_id": "715068717394362368",
+      "region": "uk"
+    },
+    {
+      "handle": "led-mini-spotlight",
+      "product_id": "715067837137043456",
+      "region": "au"
+    },
+    {
+      "handle": "led-mini-spotlight",
+      "product_id": "715060965107654656",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/9b/9ba2fbea54690de5441ea8e3409a81a9a21905df7f20a86d3f35d150d6c95577.png",
+      "id": "image-adb6e8d490354857507f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-KC026-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9ba2fbea54690de5441ea8e3409a81a9a21905df7f20a86d3f35d150d6c95577",
+      "size": 492399,
+      "source_url": "https://store.bblcdn.com/s2/default/eafb5e5a449c4f0ca2752560ccc16076/B-KC026-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e9/e9f86ea99c6ccce3d70d7ca488477c24d1e9cc54818884348f2be44cc2a0e8a5.png",
+      "id": "image-d3b0fbb6a4b1529ffa49",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-KC027-1_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e9f86ea99c6ccce3d70d7ca488477c24d1e9cc54818884348f2be44cc2a0e8a5",
+      "size": 645889,
+      "source_url": "https://store.bblcdn.com/s2/default/d0a89e78334e492aa8442adeb4ef5449/B-KC027-1_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/29/29ec2073fb5bdf45f9b0a3d5f61333f74ba7a99839f6a692bd92292d6b202b9f.png",
+      "id": "image-0481cdbe011d9bf5a1dc",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-KC026-2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "29ec2073fb5bdf45f9b0a3d5f61333f74ba7a99839f6a692bd92292d6b202b9f",
+      "size": 292436,
+      "source_url": "https://store.bblcdn.com/s2/default/116a332ce15d489892f01d1a1995b2b7/B-KC026-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/27/27a34307e24ca1aac6bf764ee23905b7836c6298d293569746445e545922b6a0.png",
+      "id": "image-9e9646d3e1324170fe46",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-KC027-4_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "27a34307e24ca1aac6bf764ee23905b7836c6298d293569746445e545922b6a0",
+      "size": 542228,
+      "source_url": "https://store.bblcdn.com/s2/default/9c5c051b50c84571812d34fb2b7ede95/B-KC027-4_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f7/f7a58504da3a428acaacd973761dfe754550a87c77dc19e0b17a8ffe3582ff46.zip",
+      "id": "archive-ad5b7fb465b3115fc3a2",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "LED_Mini_Spotlight_model_KC026.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f7a58504da3a428acaacd973761dfe754550a87c77dc19e0b17a8ffe3582ff46",
+      "size": 823254,
+      "source_url": "https://store.bblcdn.com/s1/default/0ab860f8f8f64393a0b7c6312fded84b/LED_Mini_Spotlight_model_KC026.zip"
+    },
+    {
+      "archive_member_path": "LED Mini Spotlight_model_KC026.STEP",
+      "blob_path": "data/blobs/sha256/5e/5e4d861d05536830cb2527ce3a41ae4e46a816f4bad38df1b703b4a1c213e9d5.step",
+      "id": "model-ba029c063b834e8b10e7",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "LED Mini Spotlight_model_KC026.STEP",
+      "parent_asset_id": "archive-ad5b7fb465b3115fc3a2",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "5e4d861d05536830cb2527ce3a41ae4e46a816f4bad38df1b703b4a1c213e9d5",
+      "size": 167783,
+      "source_url": "https://store.bblcdn.com/s1/default/0ab860f8f8f64393a0b7c6312fded84b/LED_Mini_Spotlight_model_KC026.zip"
+    },
+    {
+      "archive_member_path": "LED Mini Spotlight_model_KC026.stl",
+      "blob_path": "data/blobs/sha256/3f/3fe676a3cc202412cf630b21333aadb5322d29dd29bf60c35d8fefabae325316.stl",
+      "id": "model-dd7a35fa55ef069ff469",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "LED Mini Spotlight_model_KC026.stl",
+      "parent_asset_id": "archive-ad5b7fb465b3115fc3a2",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "3fe676a3cc202412cf630b21333aadb5322d29dd29bf60c35d8fefabae325316",
+      "size": 2162184,
+      "source_url": "https://store.bblcdn.com/s1/default/0ab860f8f8f64393a0b7c6312fded84b/LED_Mini_Spotlight_model_KC026.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d6/d677ab6307a86b8cf0af159154b5b1138465da9959dede432e3ce957cb29b55d.png",
+      "id": "image-display-564d8bfab14b59337359",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9ba2fbea54690de5441ea8e3409a81a9a21905df7f20a86d3f35d150d6c95577",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-KC026-1.catalog.png",
+      "parent_asset_id": "image-adb6e8d490354857507f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d677ab6307a86b8cf0af159154b5b1138465da9959dede432e3ce957cb29b55d",
+      "size": 104399,
+      "source_url": "https://store.bblcdn.com/s2/default/eafb5e5a449c4f0ca2752560ccc16076/B-KC026-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/23/23e0ed71da9295a9f9df392829cc55dc2decb55d01965da39101072b4340c6b2.png",
+      "id": "image-display-9d4635ff66d559b649bd",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e9f86ea99c6ccce3d70d7ca488477c24d1e9cc54818884348f2be44cc2a0e8a5",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-KC027-1_1.catalog.png",
+      "parent_asset_id": "image-d3b0fbb6a4b1529ffa49",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "23e0ed71da9295a9f9df392829cc55dc2decb55d01965da39101072b4340c6b2",
+      "size": 147294,
+      "source_url": "https://store.bblcdn.com/s2/default/d0a89e78334e492aa8442adeb4ef5449/B-KC027-1_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2e/2ee38936615869ce00376a4d8d1a2a2a655f0f72c248f4bab3e31b06e93dbd81.png",
+      "id": "image-display-1a707b97d8ff62b96456",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "29ec2073fb5bdf45f9b0a3d5f61333f74ba7a99839f6a692bd92292d6b202b9f",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-KC026-2.catalog.png",
+      "parent_asset_id": "image-0481cdbe011d9bf5a1dc",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2ee38936615869ce00376a4d8d1a2a2a655f0f72c248f4bab3e31b06e93dbd81",
+      "size": 71592,
+      "source_url": "https://store.bblcdn.com/s2/default/116a332ce15d489892f01d1a1995b2b7/B-KC026-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b1/b1fe2320d8edb2bafd3ba06376991bf06ae89a5700ca328833b08730d42e2c99.png",
+      "id": "image-display-01473dbd230e0d251a61",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "27a34307e24ca1aac6bf764ee23905b7836c6298d293569746445e545922b6a0",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-KC027-4_1.catalog.png",
+      "parent_asset_id": "image-9e9646d3e1324170fe46",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b1fe2320d8edb2bafd3ba06376991bf06ae89a5700ca328833b08730d42e2c99",
+      "size": 131194,
+      "source_url": "https://store.bblcdn.com/s2/default/9c5c051b50c84571812d34fb2b7ede95/B-KC027-4_1.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[6]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The LED Mini Spotlight is a professional-grade lighting solution designed to perfectly showcase your 3D printed masterpieces with precision and clarity. Designed to bring museum-quality illumination to your desktop, it is the ideal choice for highlighting intricate details in model display cabinets, protective cases, and custom DIY Maker projects. Whether you are showcasing a complex architectural print or a detailed figure, this spotlight provides the perfect focused ambiance."
+    },
+    {
+      "kind": "heading",
+      "text": "Product Feature"
+    },
+    {
+      "kind": "bullet",
+      "text": "Precision 25° Beam Angle: Equipped with a high-quality optical lens that provides a concentrated 25° beam, ensuring your models are illuminated with precision and zero light leakage."
+    },
+    {
+      "kind": "bullet",
+      "text": "Premium Aluminum Build: Crafted with a sleek black aluminum alloy housing, offering superior durability and excellent heat dissipation for long-term use."
+    },
+    {
+      "kind": "bullet",
+      "text": "Integrated Control: Features an inline switch on a 1.5-meter cable, allowing for easy operation without disconnecting the USB power source."
+    },
+    {
+      "kind": "heading",
+      "text": "Considerations"
+    },
+    {
+      "kind": "bullet",
+      "text": "Power Supply: Ensure use with a standard DC 5V power adapter or USB port. Excessive voltage may damage the internal circuitry."
+    },
+    {
+      "kind": "bullet",
+      "text": "Indoor Use Only: This product is not waterproof; please use it in a dry, indoor environment."
+    },
+    {
+      "kind": "bullet",
+      "text": "Installation: When mounting in enclosed display cases, ensure there is adequate ventilation to assist with the aluminum housing's natural heat dissipation."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct_t-p\">\n<div style=\"width: 100%; background-color: #ffffff; box-sizing: border-box;\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px; text-align: center;\">Documentation</h2>\n<style>\n    .doc-block {\n      max-width: 1920px;\n      margin: 0 auto;\n    }\n\n    .doc-item {\n      display: flex;\n      align-items: center;\n      justify-content: space-between;\n      padding: 20px 0;\n      border-bottom: 1px solid #e5e7eb;\n    }\n\n    .doc-item:last-child {\n      border-bottom: none;\n    }\n\n    .doc-info {\n      display: flex;\n      align-items: center;\n      gap: 16px;\n    }\n\n    .icon-img {\n      width: 40px;\n      height: 40px;\n      object-fit: contain;\n      border-radius: 4px;\nalign-self: flex-start;\n    }\n\n    .text {\n      display: flex;\n      flex-direction: column;\n    }\n\n    .title {\n      font-weight: bold;\n      color: #1f2937;\n      font-size: 18px;\n      text-align: left;\n    }\n\n    .desc {\n      font-size: 14px;\n      color: #6b7280;\n    }\n\n    .download-btn {\n      background-color: #00AE42 !important;\n      color: white !important;\n      text-decoration: none !important;\n      padding: 8px 20px;\n      border-radius: 6px;\n      font-weight: bold;\n      font-size: 14px;\n      white-space: nowrap;\n      transition: background-color 0.2s ease;\n    }\n\n    .download-btn:hover {\n      background-color: #00913A;\n    }\n\n    @media (max-width: 768px) {\n      .doc-item {\n        flex-direction: column;\n        align-items: flex-start;\n        gap: 12px;\n      }\n\n      .download-btn {\n        align-self: flex-start;\n      }\n    }\n  </style>\n<!--Solid Model 模型压缩包-->\n<div class=\"doc-item\">\n<div class=\"doc-info\"><img alt=\"3D Model\" class=\"icon-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c09f0bcff3184a679d3beb705f2ddd6f/Download.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/>\n<div class=\"text\">\n<div class=\"title\">Solid Model</div>\n<div class=\"desc\">3D Files with Structure and Dimensions.</div>\n</div>\n</div>\n<a class=\"download-btn\" href=\"https://store.bblcdn.com/s1/default/0ab860f8f8f64393a0b7c6312fded84b/LED_Mini_Spotlight_model_KC026.zip\" rel=\"noopener\" target=\"_blank\">Download</a></div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_t-p\">\n<h2 style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: Center;\">Introduction</h2>\n<p style=\"text-align: left; font-size: 16px;\"><strong>The LED Mini Spotlight</strong> is a professional-grade lighting solution designed to perfectly showcase your 3D printed masterpieces with precision and clarity. Designed to bring museum-quality illumination to your desktop, it is the ideal choice for highlighting intricate details in model display cabinets, protective cases, and custom DIY Maker projects. Whether you are showcasing a complex architectural print or a detailed figure, this spotlight provides the perfect focused ambiance.</p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">Product Feature</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">Precision 25° Beam Angle: Equipped with a high-quality optical lens that provides a concentrated 25° beam, ensuring your models are illuminated with precision and zero light leakage.</li>\n<li style=\"text-align: left; font-size: 16px;\">Premium Aluminum Build: Crafted with a sleek black aluminum alloy housing, offering superior durability and excellent heat dissipation for long-term use.</li>\n<li style=\"text-align: left; font-size: 16px;\">Integrated Control: Features an inline switch on a 1.5-meter cable, allowing for easy operation without disconnecting the USB power source.</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px; text-align: center;\">Product Specifications</h2>\n<!--图片展示-->\n<div class=\"pct_ic\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/19c4413dd1594623a6cfb3aaf863b020/B-KC020.png\" height=\"1160\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"3430\"/></div>\n<style>\n    .pct_hardware-tableList-t-icpc {\n        padding: '0 20px'\n    }\n\n    .pct_hardware-tableList {\n        width: 100%;\n        row-gap: 15px !important;\n        column-gap: 15px !important;\n    }\n\n    .pct_hardware-tableList .pct_ic-p {\n        overflow: hidden;\n    }\n\n    .pct_hardware-tableList .pct_st-tbc .pct_tb .pct_td {\n        border-color: #ADADAD;\n    }\n\n    @media (min-width: 640px) {\n        .pct_hardware-tableList-t-icpc {\n            padding: 0px !important\n        }\n\n        .pct_hardware-tableList {\n            width: 100%;\n            row-gap: 15px;\n            column-gap: 15px;\n        }\n\n        .pct_hardware-tableList .pct_st-tbc .pct_tb .pct_td {\n            height: 50px;\n        }\n    }\n</style>\n<!--基础信息补充模块-->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_t-p\">\n<div class=\"pct_padding-in-mobile\">\n<div class=\"pct_st-p\">\n<table class=\"pct_tb\" style=\"border-color: #adadad; font-weight: bold; height: 55px;\">\n<thead class=\"pct_th\">\n<tr style=\"height: 40px;\"><!--单元格模块 增加单元格复制整个<td></td>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; text-align: center; height: 40px; padding: 10px !important;\">Product ID</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; text-align: center; height: 40px; padding: 10px !important;\">H(mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; text-align: center; height: 40px; padding: 10px !important;\">M (mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; text-align: center; height: 40px; padding: 10px !important;\">Y (mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; text-align: center; height: 40px; padding: 10px !important;\">L (mm)</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 15px;\"><!--单元格模块 增加单元格复制整个<td></td>部分即可-->\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; padding: 10px !important;\">KC026</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; padding: 10px !important;\">40.5</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; padding: 10px !important;\">45</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; padding: 10px !important;\">40</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; padding: 10px !important;\">690</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 15px;\"><!--单元格模块 增加单元格复制整个<td></td>部分即可-->\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; padding: 10px !important;\">KC027</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; padding: 10px !important;\">39</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; padding: 10px !important;\">36</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; padding: 10px !important;\">45</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; padding: 10px !important;\">714</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc\" style=\"padding: 0;\">\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\"><!--左列表-->\n<div class=\"pct_ic-p\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 45%; margin-top: 0; font-weight: bold;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Material</td>\n<td class=\"pct_td\" style=\"height: 19px;\">Black Aluminum Alloy</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Interface</td>\n<td class=\"pct_td\" style=\"height: 19px;\">USB Type-A with Switch</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Input Voltage</td>\n<td class=\"pct_td\" style=\"height: 19px;\">DC 5V</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Dimensions</td>\n<td class=\"pct_td\" style=\"height: 19px;\">Height: 40.5 mm; Base: Ø30 mm</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n<!-- 右列表-->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 45%; margin-top: 0; font-weight: bold;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Power Consumption</td>\n<td class=\"pct_td\" style=\"height: 19px;\">0.5W</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Light Strip Current</td>\n<td class=\"pct_td\" style=\"height: 19px;\">\n<p>KC026 0.1 A; KC027 0.2 A</p>\n</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Color Temperature (CCT)</td>\n<td class=\"pct_td\" style=\"height: 19px;\">3000K-3200K</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Circuit Configuration</td>\n<td class=\"pct_td\" style=\"height: 19px;\">1pcs Resistor</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\"><img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/fde769a097db448e83c11a0409b5daf7/remote_control_instruction.jpg\" height=\"1200\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"3000\"/></h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">Considerations</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">Power Supply: Ensure use with a standard DC 5V power adapter or USB port. Excessive voltage may damage the internal circuitry.</li>\n<li style=\"text-align: left; font-size: 16px;\">Indoor Use Only: This product is not waterproof; please use it in a dry, indoor environment.</li>\n<li style=\"text-align: left; font-size: 16px;\">Installation: When mounting in enclosed display cases, ensure there is adequate ventilation to assist with the aluminum housing's natural heat dissipation.</li>\n</ul>\n</div>\n</div>\n</div>",
+  "description_text": "The LED Mini Spotlight is a professional-grade lighting solution designed to perfectly showcase your 3D printed masterpieces with precision and clarity. Designed to bring museum-quality illumination to your desktop, it is the ideal choice for highlighting intricate details in model display cabinets, protective cases, and custom DIY Maker projects. Whether you are showcasing a complex architectural print or a detailed figure, this spotlight provides the perfect focused ambiance.\n\nPrecision 25° Beam Angle: Equipped with a high-quality optical lens that provides a concentrated 25° beam, ensuring your models are illuminated with precision and zero light leakage.\n\nPremium Aluminum Build: Crafted with a sleek black aluminum alloy housing, offering superior durability and excellent heat dissipation for long-term use.\n\nIntegrated Control: Features an inline switch on a 1.5-meter cable, allowing for easy operation without disconnecting the USB power source.\n\nPower Supply: Ensure use with a standard DC 5V power adapter or USB port. Excessive voltage may damage the internal circuitry.\n\nIndoor Use Only: This product is not waterproof; please use it in a dry, indoor environment.\n\nInstallation: When mounting in enclosed display cases, ensure there is adequate ventilation to assist with the aluminum housing's natural heat dissipation.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "kc026-led-mini-spotlight",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "Dimensions",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Dimensions",
+        "source_url": "https://us.store.bambulab.com/products/led-mini-spotlight?id=715069008260292610"
+      },
+      "raw_value": "Height: 40.5 mm; Base: Ø30 mm"
+    }
+  ],
+  "name": "LED Mini Spotlight",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://au.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-KC026",
+    "B-KC027",
+    "KC026",
+    "KC027"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "715060965124431874",
+    "715067837158014978",
+    "715068172786597890",
+    "715068717415333890",
+    "715069008260292610",
+    "715069647663759362",
+    "749114786233171970",
+    "750513987017691138",
+    "750514090570719233",
+    "750514144853098498",
+    "750514205610123266",
+    "750514359264030721"
+  ],
+  "source_tables": [
+    {
+      "caption": "Product Specifications",
+      "headers": [
+        "Product ID",
+        "H(mm)",
+        "M (mm)",
+        "Y (mm)",
+        "L (mm)"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/led-mini-spotlight?id=715069008260292610"
+      },
+      "rows": [
+        [
+          "KC026",
+          "40.5",
+          "45",
+          "40",
+          "690"
+        ],
+        [
+          "KC027",
+          "39",
+          "36",
+          "45",
+          "714"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/led-mini-spotlight?id=715069008260292610"
+      },
+      "rows": [
+        [
+          "Material",
+          "Black Aluminum Alloy"
+        ],
+        [
+          "Interface",
+          "USB Type-A with Switch"
+        ],
+        [
+          "Input Voltage",
+          "DC 5V"
+        ],
+        [
+          "Dimensions",
+          "Height: 40.5 mm; Base: Ø30 mm"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/led-mini-spotlight?id=715069008260292610"
+      },
+      "rows": [
+        [
+          "Power Consumption",
+          "0.5W"
+        ],
+        [
+          "Light Strip Current",
+          "KC026 0.1 A; KC027 0.2 A"
+        ],
+        [
+          "Color Temperature (CCT)",
+          "3000K-3200K"
+        ],
+        [
+          "Circuit Configuration",
+          "1pcs Resistor"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Circuit Configuration": "1pcs Resistor",
+    "Color Temperature (CCT)": "3000K-3200K",
+    "Dimensions": "Height: 40.5 mm; Base: Ø30 mm",
+    "Input Voltage": "DC 5V",
+    "Interface": "USB Type-A with Switch",
+    "Light Strip Current": "KC026 0.1 A; KC027 0.2 A",
+    "Material": "Black Aluminum Alloy",
+    "Power Consumption": "0.5W"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/d93cb68ec1ff4b5c83dc435ff75f996d/B-KC026-1.png",
+      "part_number": "KC026",
+      "price": "6.99",
+      "region": "us",
+      "sku": "715069008260292610",
+      "title": "LED Mini Spotlight - Warm White (KC026)",
+      "url": "https://us.store.bambulab.com/products/led-mini-spotlight?id=715069008260292610",
+      "variant_id": "715069008260292610"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/9f48e7b3484440c4b8337ffe0b7efcaa/B-KC027-1_1.png",
+      "part_number": "KC027",
+      "price": "8.99",
+      "region": "us",
+      "sku": "750514205610123266",
+      "title": "LED Mini Spotlight - RGB ( KC027 )",
+      "url": "https://us.store.bambulab.com/products/led-mini-spotlight?id=750514205610123266",
+      "variant_id": "750514205610123266"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/5a5315bc00624e258c7cd2d00171d069/B-KC026-1.png",
+      "part_number": "KC026",
+      "price": "9.99",
+      "region": "ca",
+      "sku": "715068172786597890",
+      "title": "LED Mini Spotlight - Warm White (KC026)",
+      "url": "https://ca.store.bambulab.com/products/led-mini-spotlight?id=715068172786597890",
+      "variant_id": "715068172786597890"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/9a595f1357744f51bbf7ec145df975ef/B-KC027-1_1.png",
+      "part_number": "KC027",
+      "price": "12.99",
+      "region": "ca",
+      "sku": "750514090570719233",
+      "title": "LED Mini Spotlight - RGB ( KC027 )",
+      "url": "https://ca.store.bambulab.com/products/led-mini-spotlight?id=750514090570719233",
+      "variant_id": "750514090570719233"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/fb73422297674276bede3432a8c932c2/B-KC026-1.png",
+      "part_number": "KC026",
+      "price": "7.99",
+      "region": "eu",
+      "sku": "715069647663759362",
+      "title": "LED Mini Spotlight - Warm White (KC026)",
+      "url": "https://eu.store.bambulab.com/products/led-mini-spotlight?id=715069647663759362",
+      "variant_id": "715069647663759362"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/0151906e17ba44c5a2c53b87514a7132/B-KC027-1_1.png",
+      "part_number": "KC027",
+      "price": "8.99",
+      "region": "eu",
+      "sku": "750514359264030721",
+      "title": "LED Mini Spotlight - RGB ( KC027 )",
+      "url": "https://eu.store.bambulab.com/products/led-mini-spotlight?id=750514359264030721",
+      "variant_id": "750514359264030721"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/5f418361d83246eabd38f986013cdcdd/B-KC026-1.png",
+      "part_number": "KC026",
+      "price": "6.99",
+      "region": "uk",
+      "sku": "715068717415333890",
+      "title": "LED Mini Spotlight - Warm White (KC026)",
+      "url": "https://uk.store.bambulab.com/products/led-mini-spotlight?id=715068717415333890",
+      "variant_id": "715068717415333890"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/b2673a10e79a4fa2bdd92f5a9c400a2d/B-KC027-1_1.png",
+      "part_number": "KC027",
+      "price": "7.99",
+      "region": "uk",
+      "sku": "750514144853098498",
+      "title": "LED Mini Spotlight - RGB ( KC027 )",
+      "url": "https://uk.store.bambulab.com/products/led-mini-spotlight?id=750514144853098498",
+      "variant_id": "750514144853098498"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/eafb5e5a449c4f0ca2752560ccc16076/B-KC026-1.png",
+      "part_number": "KC026",
+      "price": "10.99",
+      "region": "au",
+      "sku": "715067837158014978",
+      "title": "LED Mini Spotlight - Warm White (KC026)",
+      "url": "https://au.store.bambulab.com/products/led-mini-spotlight?id=715067837158014978",
+      "variant_id": "715067837158014978"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/d0a89e78334e492aa8442adeb4ef5449/B-KC027-1_1.png",
+      "part_number": "KC027",
+      "price": "13.99",
+      "region": "au",
+      "sku": "750513987017691138",
+      "title": "LED Mini Spotlight - RGB ( KC027 )",
+      "url": "https://au.store.bambulab.com/products/led-mini-spotlight?id=750513987017691138",
+      "variant_id": "750513987017691138"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/abd0ecb02faa4157b31fc7ab16026eb9/B-KC026-1.png",
+      "part_number": "KC026",
+      "price": "6.99",
+      "region": "asia",
+      "sku": "715060965124431874",
+      "title": "LED Mini Spotlight - Warm White ( KC026 )",
+      "url": "https://asia.store.bambulab.com/products/led-mini-spotlight?id=715060965124431874",
+      "variant_id": "715060965124431874"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/11aebfb199b7436b809cd33aef34caa2/B-KC027-1_1.png",
+      "part_number": "KC027",
+      "price": "8.99",
+      "region": "asia",
+      "sku": "749114786233171970",
+      "title": "LED Mini Spotlight - RGB ( KC027 )",
+      "url": "https://asia.store.bambulab.com/products/led-mini-spotlight?id=749114786233171970",
+      "variant_id": "749114786233171970"
+    }
+  ]
+}

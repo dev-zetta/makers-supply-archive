@@ -1,0 +1,545 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "orbitails-egg-vending-machine",
+      "product_id": "741067811393163264",
+      "region": "us"
+    },
+    {
+      "handle": "orbitails-egg-vending-machine",
+      "product_id": "741085844288929792",
+      "region": "ca"
+    },
+    {
+      "handle": "orbitails-egg-vending-machine",
+      "product_id": "741085638838779904",
+      "region": "eu"
+    },
+    {
+      "handle": "orbitails-egg-vending-machine",
+      "product_id": "741086348111790080",
+      "region": "uk"
+    },
+    {
+      "handle": "orbitails-egg-vending-machine",
+      "product_id": "741087345076191232",
+      "region": "au"
+    },
+    {
+      "handle": "orbitails-egg-vending-machine",
+      "product_id": "740833279124242432",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/e8/e8ce3739eea88326f699b1bb24f1afaaa7842116401ceecc11627bde2ef03c6e.png",
+      "id": "image-d2e8f465eddfc979284d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH148.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e8ce3739eea88326f699b1bb24f1afaaa7842116401ceecc11627bde2ef03c6e",
+      "size": 2363638,
+      "source_url": "https://store.bblcdn.eu/s8/default/5cb9f699e22d44068153a02e436cf1ba/ZH148.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/61/61723f3c9df81da6a20963a8785ff5063bbd4bc4ee9c78e9711bc2b0920c5288.png",
+      "id": "image-f0c7474b0a65008221e5",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH148_V.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "61723f3c9df81da6a20963a8785ff5063bbd4bc4ee9c78e9711bc2b0920c5288",
+      "size": 461103,
+      "source_url": "https://store.bblcdn.eu/s8/default/b45e373d2ae940ad9df5b0ed54c8f3bf/ZH148_V.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/db/dbee13ce8d286117c50497f71d133e3b4ab30ae862ba721d8853f50c0a9d4e31.gif",
+      "id": "image-ba4577dd2f2c2ddeec8f",
+      "kind": "image",
+      "media_type": "image/gif",
+      "original_filename": "ZH148_1.gif",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "dbee13ce8d286117c50497f71d133e3b4ab30ae862ba721d8853f50c0a9d4e31",
+      "size": 11793325,
+      "source_url": "https://store.bblcdn.eu/s8/default/9b65237dfb8c47de8735f1813cb25f13/ZH148_1.gif"
+    },
+    {
+      "blob_path": "data/blobs/sha256/11/1130dab310ec8c668a7ca842da43b47fac0ff7fea1e3ad8bd8767a4b18e4a88c.gif",
+      "id": "image-17cafe086bbc080e9a6a",
+      "kind": "image",
+      "media_type": "image/gif",
+      "original_filename": "ZH148_2.gif",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1130dab310ec8c668a7ca842da43b47fac0ff7fea1e3ad8bd8767a4b18e4a88c",
+      "size": 13152075,
+      "source_url": "https://store.bblcdn.eu/s8/default/e253be6ba14a4399b7ff44fca8a857b4/ZH148_2.gif"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e8/e8f3521715b4654821a65434f9c4b861250367681a1237623043375d89de2210.gif",
+      "id": "image-1aff4ea8ecd524b87e95",
+      "kind": "image",
+      "media_type": "image/gif",
+      "original_filename": "ZH148_3.gif",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e8f3521715b4654821a65434f9c4b861250367681a1237623043375d89de2210",
+      "size": 13586279,
+      "source_url": "https://store.bblcdn.eu/s8/default/bedbfd19f6cb474ab37f61aa1d18caf8/ZH148_3.gif"
+    },
+    {
+      "blob_path": "data/blobs/sha256/67/677a78873c470bb288ecf32ee4a24a302b3e701d756e760ea0debb344d59b8c1.png",
+      "id": "image-display-a39a305fce5bd134fc77",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e8ce3739eea88326f699b1bb24f1afaaa7842116401ceecc11627bde2ef03c6e",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH148.catalog.png",
+      "parent_asset_id": "image-d2e8f465eddfc979284d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "677a78873c470bb288ecf32ee4a24a302b3e701d756e760ea0debb344d59b8c1",
+      "size": 728166,
+      "source_url": "https://store.bblcdn.eu/s8/default/5cb9f699e22d44068153a02e436cf1ba/ZH148.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/cf/cfabf3522d717a137372e48cc37084e61cede5107ab06aa5d2449d326c4af952.png",
+      "id": "image-display-39567237c50a3ee631aa",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "61723f3c9df81da6a20963a8785ff5063bbd4bc4ee9c78e9711bc2b0920c5288",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH148_V.catalog.png",
+      "parent_asset_id": "image-f0c7474b0a65008221e5",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "cfabf3522d717a137372e48cc37084e61cede5107ab06aa5d2449d326c4af952",
+      "size": 106111,
+      "source_url": "https://store.bblcdn.eu/s8/default/b45e373d2ae940ad9df5b0ed54c8f3bf/ZH148_V.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/69/691dc696a5eb6c0767c1e3fd7e4a2b969c53380a4ce041302dc43b44abcb5a77.png",
+      "id": "image-display-98bd3d9cc5357ff5dba2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 640,
+        "source_sha256": "dbee13ce8d286117c50497f71d133e3b4ab30ae862ba721d8853f50c0a9d4e31",
+        "source_width": 640
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH148_1.catalog.png",
+      "parent_asset_id": "image-ba4577dd2f2c2ddeec8f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "691dc696a5eb6c0767c1e3fd7e4a2b969c53380a4ce041302dc43b44abcb5a77",
+      "size": 738870,
+      "source_url": "https://store.bblcdn.eu/s8/default/9b65237dfb8c47de8735f1813cb25f13/ZH148_1.gif"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b8/b8fceeaa274b6589c4cef74650c92c544bc0bacc571a8bb051fba192b7548c6b.png",
+      "id": "image-display-d148a84bd3aaea8c4ade",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 640,
+        "source_sha256": "1130dab310ec8c668a7ca842da43b47fac0ff7fea1e3ad8bd8767a4b18e4a88c",
+        "source_width": 640
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH148_2.catalog.png",
+      "parent_asset_id": "image-17cafe086bbc080e9a6a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b8fceeaa274b6589c4cef74650c92c544bc0bacc571a8bb051fba192b7548c6b",
+      "size": 779600,
+      "source_url": "https://store.bblcdn.eu/s8/default/e253be6ba14a4399b7ff44fca8a857b4/ZH148_2.gif"
+    },
+    {
+      "blob_path": "data/blobs/sha256/37/37f0af697966b5794b001e07cbcfc2fd9bc9068fd869e06221b2685f56627463.png",
+      "id": "image-display-0dc8f42cd427b50879ca",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 640,
+        "source_sha256": "e8f3521715b4654821a65434f9c4b861250367681a1237623043375d89de2210",
+        "source_width": 640
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH148_3.catalog.png",
+      "parent_asset_id": "image-1aff4ea8ecd524b87e95",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "37f0af697966b5794b001e07cbcfc2fd9bc9068fd869e06221b2685f56627463",
+      "size": 772131,
+      "source_url": "https://store.bblcdn.eu/s8/default/bedbfd19f6cb474ab37f61aa1d18caf8/ZH148_3.gif"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "kc020-mini-waterproof-rgb-led-tea-lights-with-remote-control",
+      "name": "Mini Waterproof RGB LED Tea Lights with Remote Control (6PCS) - KC020",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/mini-waterproof-rgb-led-tea-lights-with-remote-control?id=43142114017416",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "y-shape-led-light-with-magnetic-control-switch",
+      "name": "Y Shape LED Light with Magnetic Control Switch White (1PCS) - KC012",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/y-shape-led-light-with-magnetic-control-switch?id=42866681020552",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "hc001-clear-acrylic-rigid-tubes",
+      "name": "100x94x220 mm Clear Acrylic Rigid Round Tube (1PCS) - HC005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/clear-acrylic-rigid-tubes?id=42723391668360",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa187-m3-flat-head-cap-machine-screws-fhcs",
+      "name": "M3x16 FHCS Machine Screw (10PCS) - AA088",
+      "quantity": "3",
+      "source_url": "https://us.store.bambulab.com/products/m3-flat-head-cap-machine-screws-fhcs?id=42376310259848",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa064-m4-button-head-cap-machine-screws-bhcs",
+      "name": "M4x16 BHCS Machine Screw (5PCS) - AA067",
+      "quantity": "3",
+      "source_url": "https://us.store.bambulab.com/products/m4-button-head-cap-machine-screws-bhcs?id=42349836894344",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ab003-hex-nut",
+      "name": "M3 Carbon Steel Hex Nut (20PCS) - AB005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/hex-nut?id=42410684022920",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ra001-rubber-bands",
+      "name": "0.9x16mm Black Rubber Bands (100PCS) - RA010",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/rubber-bands?id=42623495798920",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ca001-round-magnet",
+      "name": "D4x2 mm Round Magnet (20PCS) - CA001",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/round-magnet?id=42102911074440",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ca001-round-magnet",
+      "name": "D5x2 mm Round Magnet (20PCS) - CA003",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/round-magnet?id=42424856313992",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ca001-round-magnet",
+      "name": "D8x2 mm Round Magnet (20PCS) - CA005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/round-magnet?id=42424856477832",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Orbitails Egg Vending Machine. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Orbitails Egg Vending Machine on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Orbitails Egg Vending Machine</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Orbitails Egg Vending Machine</strong> on <a href=\"https://makerworld.com/en/collections/13978498-orbitails\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/mini-waterproof-rgb-led-tea-lights-with-remote-control?id=43142114017416\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Mini Waterproof RGB LED Tea Lights with Remote Control (6PCS) - KC020</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/y-shape-led-light-with-magnetic-control-switch?id=42866681020552\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Y Shape LED Light with Magnetic Control Switch White (1PCS) - KC012</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/clear-acrylic-rigid-tubes?id=42723391668360\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">100x94x220 mm Clear Acrylic Rigid Round Tube (1PCS) - HC005</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/m3-flat-head-cap-machine-screws-fhcs?id=42376310259848\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x16 FHCS Machine Screw (10PCS) - AA088</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/m4-button-head-cap-machine-screws-bhcs?id=42349836894344\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M4x16 BHCS Machine Screw (5PCS) - AA067</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/hex-nut?id=42410684022920\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3 Carbon Steel Hex Nut (20PCS) - AB005</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/rubber-bands?id=42623495798920\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">0.9x16mm Black Rubber Bands (100PCS) - RA010</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/round-magnet?id=42102911074440\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">D4x2 mm Round Magnet (20PCS) - CA001</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/round-magnet?id=42424856313992\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">D5x2 mm Round Magnet (20PCS) - CA003</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\"><span style=\"color: #00ae42;\"><a href=\"../../products/round-magnet?id=42424856477832\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">D8x2 mm Round Magnet (20PCS) - CA005</a></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Orbitails Egg Vending Machine. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Orbitails Egg Vending Machine on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh148-orbitails-egg-vending-machine",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Orbitails Egg Vending Machine",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "45.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/orbitails-egg-vending-machine?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "52.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/orbitails-egg-vending-machine?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "45.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/orbitails-egg-vending-machine?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "36.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/orbitails-egg-vending-machine?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "81.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/orbitails-egg-vending-machine?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "41.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/orbitails-egg-vending-machine?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA067",
+    "AA088",
+    "AB005",
+    "CA001",
+    "CA003",
+    "CA005",
+    "HC005",
+    "KC012",
+    "KC020",
+    "RA010",
+    "ZH148"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Orbitails",
+      "url": "https://makerworld.com/en/collections/13978498-orbitails"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "740833279145213954",
+    "741067811439300608",
+    "741085638855557122",
+    "741085844305707010",
+    "741086348128567298",
+    "741087345122328578"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/orbitails-egg-vending-machine?id=741067811439300608"
+      },
+      "rows": [
+        [
+          "Mini Waterproof RGB LED Tea Lights with Remote Control (6PCS) - KC020",
+          "1"
+        ],
+        [
+          "Y Shape LED Light with Magnetic Control Switch White (1PCS) - KC012",
+          "1"
+        ],
+        [
+          "100x94x220 mm Clear Acrylic Rigid Round Tube (1PCS) - HC005",
+          "1"
+        ],
+        [
+          "M3x16 FHCS Machine Screw (10PCS) - AA088",
+          "3"
+        ],
+        [
+          "M4x16 BHCS Machine Screw (5PCS) - AA067",
+          "3"
+        ],
+        [
+          "M3 Carbon Steel Hex Nut (20PCS) - AB005",
+          "1"
+        ],
+        [
+          "0.9x16mm Black Rubber Bands (100PCS) - RA010",
+          "2"
+        ],
+        [
+          "D4x2 mm Round Magnet (20PCS) - CA001",
+          "2"
+        ],
+        [
+          "D5x2 mm Round Magnet (20PCS) - CA003",
+          "1"
+        ],
+        [
+          "D8x2 mm Round Magnet (20PCS) - CA005",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/e9f7cf0f34cc400bab5585df390f9130/ZH148.png",
+      "part_number": "ZH148",
+      "price": "45.99",
+      "region": "us",
+      "sku": "741067811439300608",
+      "title": "Orbitails Egg Vending Machine - Orbitails Egg Vending Machine - ZH148",
+      "url": "https://us.store.bambulab.com/products/orbitails-egg-vending-machine?id=741067811439300608",
+      "variant_id": "741067811439300608"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/5f1ce95e3d9d46e7a45303adff70a232/ZH148.png",
+      "part_number": "ZH148",
+      "price": "52.99",
+      "region": "ca",
+      "sku": "741085844305707010",
+      "title": "Orbitails Egg Vending Machine - Orbitails Egg Vending Machine - ZH148",
+      "url": "https://ca.store.bambulab.com/products/orbitails-egg-vending-machine?id=741085844305707010",
+      "variant_id": "741085844305707010"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/5cb9f699e22d44068153a02e436cf1ba/ZH148.png",
+      "part_number": "ZH148",
+      "price": "45.99",
+      "region": "eu",
+      "sku": "741085638855557122",
+      "title": "Orbitails Egg Vending Machine - Orbitails Egg Vending Machine - ZH148",
+      "url": "https://eu.store.bambulab.com/products/orbitails-egg-vending-machine?id=741085638855557122",
+      "variant_id": "741085638855557122"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/11610396cb3b45e180bec677a385ed33/ZH148.png",
+      "part_number": "ZH148",
+      "price": "36.99",
+      "region": "uk",
+      "sku": "741086348128567298",
+      "title": "Orbitails Egg Vending Machine - Orbitails Egg Vending Machine - ZH148",
+      "url": "https://uk.store.bambulab.com/products/orbitails-egg-vending-machine?id=741086348128567298",
+      "variant_id": "741086348128567298"
+    },
+    {
+      "available": false,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/0108e5915e6e4996951fb26a60fc3a49/ZH148.png",
+      "part_number": "ZH148",
+      "price": "81.99",
+      "region": "au",
+      "sku": "741087345122328578",
+      "title": "Orbitails Egg Vending Machine - Orbitails Egg Vending Machine - ZH148",
+      "url": "https://au.store.bambulab.com/products/orbitails-egg-vending-machine?id=741087345122328578",
+      "variant_id": "741087345122328578"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/61fd5c20583145f8ba968564ce6a134e/ZH148.png",
+      "part_number": "ZH148",
+      "price": "41.99",
+      "region": "asia",
+      "sku": "740833279145213954",
+      "title": "Orbitails Egg Vending Machine - Orbitails Egg Vending Machine - ZH148",
+      "url": "https://asia.store.bambulab.com/products/orbitails-egg-vending-machine?id=740833279145213954",
+      "variant_id": "740833279145213954"
+    }
+  ]
+}

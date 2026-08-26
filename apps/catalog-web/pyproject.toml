@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "makers-supply-web"
+version = "1.0.0"
+description = "Visual browser and parts-list manager for Maker's Supply Archive"
+requires-python = ">=3.12"
+dependencies = [
+  "anyio>=4.4,<4.10",
+  "argon2-cffi>=23.1,<26",
+  "fastapi>=0.115,<0.116",
+  "jinja2>=3.1,<4",
+  "makers-supply-archive",
+  "python-multipart>=0.0.9,<1",
+  "uvicorn[standard]>=0.30,<0.35",
+]
+
+[project.scripts]
+makers-supply-web = "makers_supply_web.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/makers_supply_web"]
+
+[tool.uv.sources]
+makers-supply-archive = { workspace = true }

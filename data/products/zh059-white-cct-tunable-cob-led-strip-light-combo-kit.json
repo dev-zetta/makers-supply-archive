@@ -1,0 +1,514 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "white-cct-tunable-cob-led-strip-light-combo-kit",
+      "product_id": "571114870357217280",
+      "region": "us"
+    },
+    {
+      "handle": "white-cct-tunable-cob-led-strip-light-combo-kit",
+      "product_id": "572908063370301440",
+      "region": "ca"
+    },
+    {
+      "handle": "white-cct-tunable-cob-led-strip-light-combo-kit",
+      "product_id": "14909920674140",
+      "region": "eu"
+    },
+    {
+      "handle": "white-cct-tunable-cob-led-strip-light-combo-kit",
+      "product_id": "572908579860856832",
+      "region": "uk"
+    },
+    {
+      "handle": "white-cct-tunable-cob-led-strip-light-combo-kit",
+      "product_id": "572910320117407744",
+      "region": "au"
+    },
+    {
+      "handle": "white-cct-tunable-cob-led-strip-light-combo-kit",
+      "product_id": "572910979827601408",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/d0/d0fa49789063374639778c811c166e5fb75573e4135029a91fe29e589762bcf9.png",
+      "id": "image-04d01fc279c968bb9fea",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KA003-XC008-XB005.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d0fa49789063374639778c811c166e5fb75573e4135029a91fe29e589762bcf9",
+      "size": 194619,
+      "source_url": "https://store.bblcdn.eu/s8/default/a62d32298a1546c1ba30479f94c71c59/KA003-XC008-XB005.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c8/c819b1d62af3e332b681317ebee56619d062488bf7e24aa0832262d478d3eab9.png",
+      "id": "image-display-71670a4cec9296b4073d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "d0fa49789063374639778c811c166e5fb75573e4135029a91fe29e589762bcf9",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KA003-XC008-XB005.catalog.png",
+      "parent_asset_id": "image-04d01fc279c968bb9fea",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c819b1d62af3e332b681317ebee56619d062488bf7e24aa0832262d478d3eab9",
+      "size": 172741,
+      "source_url": "https://store.bblcdn.eu/s8/default/a62d32298a1546c1ba30479f94c71c59/KA003-XC008-XB005.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "linked_product_id": "ka003-white-cct-tunable-cob-led-strip-light",
+      "name": "White CCT Tunable COB LED Strip Light",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light?id=41632090259592",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "linked_product_id": "xb004-ac-dc-power-adapter",
+      "name": "24V 2A AC to DC Power Adapter",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/ac-dc-power-adapter?id=43187140231304",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "linked_product_id": "xc008-dc5521-female-to-2pin-solderless-quick-connector",
+      "name": "DC5521 Female to 2PIN Solderless Quick Connector",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/dc5521-female-to-2pin-solderless-quick-connector?id=43231642550408",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Instruction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This COB LED Strip Light Combo Kit offers a seamless DIY lighting experience. The set includes high-quality White CCT Tunable COB LED Strip Light, Solderless Quick Connector, and a 24V Power Adapter. Simply connect the components to control and switch between various lighting modes. Whether you're a beginner or an experienced maker, you can use this all-in-one kit to ccreate lighting projects effortlessly."
+    },
+    {
+      "kind": "heading",
+      "text": "Tunable White COB LED Strip Light"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This LED light strip offers adjustable white light with a color temperature range from warm white to cool white (2700K-6500K). You can automatically select the appropriate mode based on your own model design. It fulfills your various needs, providing you with more possibilities for your creations."
+    },
+    {
+      "kind": "heading",
+      "text": "Illuminate Your Printing Journey"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Experience enhanced visibility of the printing process with the internal illumination provided by this LED light strip. Watch as your models come to life layer by layer, with improved clarity and precision. Perfect for detailed observation and capturing stunning visuals, this lighting solution takes your printing experience to the next level."
+    },
+    {
+      "kind": "heading",
+      "text": "Consideration"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Power Safety 1. Always disconnect the power supply before starting any installation to prevent electric shock or short circuits."
+    },
+    {
+      "kind": "paragraph",
+      "text": "2. Ensure you are using the correct voltage as specified on the product to avoid damage, overheating, or potential fire hazards."
+    },
+    {
+      "kind": "paragraph",
+      "text": "3. Total connected length must not exceed 3 meters with the included adapter, as doing so triggers overload protection and will result in an abnormal power supply."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Cutting & Bending 1. Cut only along the predefined cut marks to maintain electrical continuity and proper function. Cutting in the wrong place may lead to circuit failure."
+    },
+    {
+      "kind": "paragraph",
+      "text": "2. Avoid bending or twisting the lamp strip over very short distances, as this can damage internal wiring and compromise durability."
+    },
+    {
+      "kind": "paragraph",
+      "text": "3. If bending is required, do so gradually and within the recommended bending radius to prevent breakage."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Soldering & Heat Protection 1. Use a soldering iron with appropriate temperature control when attaching wiring heads to avoid overheating components."
+    },
+    {
+      "kind": "paragraph",
+      "text": "2. Keep the luminescent colloid (LEDs and surrounding encapsulation) away from excessive heat, as high temperatures can cause burns, discoloration, or reduced lifespan."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Operational Integrity 1. Follow the manufacturer’s guidelines for installation and usage to ensure the strip functions correctly and lasts as intended."
+    },
+    {
+      "kind": "paragraph",
+      "text": "2. Improper handling, excessive bending, or exposure to incompatible environmental conditions may compromise the product’s performance and safety."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\"></h2>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\" style=\"text-align: left;\">Instruction</h2>\n<h2 class=\"pct_st\"></h2>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BraMdd9z6owwkNxjI3McPYx2nsb\">\n<div class=\"old-record-id-FaACdSbwHo7BVoxUPdKcnkF5nce\">This COB LED Strip Light Combo Kit offers a seamless DIY lighting experience. The set includes high-quality <span style=\"color: #2dc26b;\"><a href=\"../../../products/white-cct-tunable-cob-led-strip-light?id=41632090259592\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">White CCT Tunable COB LED Strip Light</a></span>,<span style=\"color: #2dc26b;\"> <a href=\"../../../products/dc5521-female-to-2pin-solderless-quick-connector?id=43231642550408\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">Solderless Quick Connector</a></span>, and a <span style=\"color: #2dc26b;\"><a href=\"../../../products/ac-dc-power-adapter?id=43187140231304\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">24V Power Adapter</a></span>. Simply connect the components to control and switch between various lighting modes. Whether you're a beginner or an experienced maker, you can use this all-in-one kit to ccreate lighting projects effortlessly.</div>\n<div class=\"old-record-id-FaACdSbwHo7BVoxUPdKcnkF5nce\"></div>\n<div class=\"old-record-id-FaACdSbwHo7BVoxUPdKcnkF5nce\"></div>\n</div>\n<br/>\n<p><img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/b03833aa086a4d959fcccbe68038d0b3/cob.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Tunable White COB LED Strip Light</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"BBRnd3ZnMoheF1xBZCMcou9xnR4\">\n<div class=\"ace-line ace-line old-record-id-MwYVdBZPjoDc7mxOh7ucPqgwn6a\">This LED light strip offers adjustable white light with a color temperature range from warm white to cool white (2700K-6500K). You can automatically select the appropriate mode based on your own model design. It fulfills your various needs, providing you with more possibilities for your creations.</div>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\">\n<p style=\"margin-top: 30px;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-fragment=\"1\" data-mce-src=\"https://store.bblcdn.com/s7/default/2f28acb75ae54df8a7fd7427ddbeb650/35853f30676e492fb86fe04653d7e0de.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s7/default/2f28acb75ae54df8a7fd7427ddbeb650/35853f30676e492fb86fe04653d7e0de.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s7/default/7a12be7894154b4985ab00a1c49d41c9/banner.png\" style=\"width: 100%;\" width=\"300\"></video></p>\n</div>\n</div>\n<!-- 第二条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Illuminate Your Printing Journey</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"BBRnd3ZnMoheF1xBZCMcou9xnR4\">\n<div class=\"ace-line ace-line old-record-id-MwYVdBZPjoDc7mxOh7ucPqgwn6a\">Experience enhanced visibility of the printing process with the internal illumination provided by this LED light strip. Watch as your models come to life layer by layer, with improved clarity and precision. Perfect for detailed observation and capturing stunning visuals, this lighting solution takes your printing experience to the next level.</div>\n<div class=\"ace-line ace-line old-record-id-MwYVdBZPjoDc7mxOh7ucPqgwn6a\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/eeb8f8097840404c94e6411d53dc1231/20240103-143120.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/eeb8f8097840404c94e6411d53dc1231/20240103-143120.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n</div>\n<h2 class=\"pct_t\" style=\"text-align: center;\"><br/><br/><!-- table-row --></h2>\n<div class=\"pct pct_mc\">\n<div class=\"pct_table-row\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 100%;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" colspan=\"2\">Product Specification</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Type of Strip</td>\n<td class=\"pct_td\">COB (chip on board)</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">IC type</td>\n<td class=\"pct_td\">16703</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">LED Model</td>\n<td class=\"pct_td\">2835</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Led Quantity</td>\n<td class=\"pct_td\">2160 LEDs (432 LEDs/M)</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Length</td>\n<td class=\"pct_td\">16.4ft/5m</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 100%;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" colspan=\"2\">Product Specification</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<p>Input Voltage</p>\n<p>Power</p>\n</td>\n<td class=\"pct_td\">\n<p>DC24V</p>\n<p>16.3W/m</p>\n</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">LED Strip Width</td>\n<td class=\"pct_td\">12 mm</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Color</td>\n<td class=\"pct_td\">Dual temperature</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Color Temperature</td>\n<td class=\"pct_td\">2700K-6500K</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">FPCB Color</td>\n<td class=\"pct_td\">White</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 100%;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" colspan=\"2\">Product Specification</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Operating Temperature</td>\n<td class=\"pct_td\">-4℉~104℉（-20℃~+40℃ ）</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Control Distance</td>\n<td class=\"pct_td\">20-30M</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Battery Type</td>\n<td class=\"pct_td\">CR2025</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Cutting Unit</td>\n<td class=\"pct_td\">16.7 cm</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Waterproof</td>\n<td class=\"pct_td\">IP 20</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\"></h3>\n</div>\n</div>\n</div>\n<h2 class=\"pct_t\" style=\"text-align: center;\">Installation </h2>\n<br/>\n<h2 class=\"pct_st\"><img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/2b381c9243714459acb9b8efebcd29ad/zh059_guidance_-_update_.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></h2>\n<h2 class=\"pct_t\" style=\"text-align: left;\"></h2>\n<h2 class=\"pct_t\" style=\"text-align: center;\">Light Touch Panel Controller Instructions</h2>\n<p></p>\n<br/>\n<h2 class=\"pct_t\" style=\"text-align: left;\"><img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/bfedc25d9a1742ff83549f86f7eb953c/Instruction.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></h2>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BraMdd9z6owwkNxjI3McPYx2nsb\"></div>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BraMdd9z6owwkNxjI3McPYx2nsb\">\n<h2 class=\"pct_t\" style=\"text-align: left;\"></h2>\n<h2 class=\"pct_t\" style=\"text-align: center;\">In the Box</h2>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 200px; width: 100%; text-align: center; border-collapse: collapse;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 19.9269%;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 59.9634%;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 19.9269%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; width: 19.9269%;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; width: 59.9634%;\"><span style=\"color: #2dc26b;\"><a href=\"../../../products/white-cct-tunable-cob-led-strip-light?id=41632090259592\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">White CCT Tunable COB LED Strip Light</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; width: 19.9269%;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; width: 19.9269%;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; width: 59.9634%;\"><span style=\"color: #2dc26b;\"><a href=\"../../../products/ac-dc-power-adapter?id=43187140231304\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\">24V 2A AC to DC Power Adapter</a></span></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; width: 19.9269%;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; width: 19.9269%;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; width: 59.9634%;\"><a href=\"../../../products/dc5521-female-to-2pin-solderless-quick-connector?id=43231642550408\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #2dc26b;\">DC5521 Female to 2PIN Solderless Quick Connector</span></a></td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; width: 19.9269%;\">1</td>\n</tr>\n</tbody>\n</table>\n<h2 class=\"pct_t\" style=\"text-align: left;\"></h2>\n</div>\n</div>\n</div>\n<h2 class=\"pct_t\" style=\"text-align: center;\">Consideration</h2>\n<p></p>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BraMdd9z6owwkNxjI3McPYx2nsb\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BraMdd9z6owwkNxjI3McPYx2nsb\">\n<p><strong>Power Safety</strong><br/>1. Always disconnect the power supply before starting any installation to prevent electric shock or short circuits.</p>\n<p>2. Ensure you are using the correct voltage as specified on the product to avoid damage, overheating, or potential fire hazards.</p>\n<p>3. Total connected length must not exceed 3 meters with the included adapter, as doing so triggers overload protection and will result in an abnormal power supply.</p>\n<p><strong>Cutting &amp; Bending</strong><br/>1. Cut only along the predefined cut marks to maintain electrical continuity and proper function. Cutting in the wrong place may lead to circuit failure.</p>\n<p>2. Avoid bending or twisting the lamp strip over very short distances, as this can damage internal wiring and compromise durability.</p>\n<p>3. If bending is required, do so gradually and within the recommended bending radius to prevent breakage.</p>\n<p><strong>Soldering &amp; Heat Protection</strong><br/>1. Use a soldering iron with appropriate temperature control when attaching wiring heads to avoid overheating components.</p>\n<p>2. Keep the luminescent colloid (LEDs and surrounding encapsulation) away from excessive heat, as high temperatures can cause burns, discoloration, or reduced lifespan.</p>\n<p><strong>Operational Integrity</strong><br/>1. Follow the manufacturer’s guidelines for installation and usage to ensure the strip functions correctly and lasts as intended.</p>\n<p>2. Improper handling, excessive bending, or exposure to incompatible environmental conditions may compromise the product’s performance and safety.</p>\n</div>\n</div>\n</div>\n</div>\n<p class=\"pct_t\"></p>\n</div>",
+  "description_text": "This COB LED Strip Light Combo Kit offers a seamless DIY lighting experience. The set includes high-quality White CCT Tunable COB LED Strip Light, Solderless Quick Connector, and a 24V Power Adapter. Simply connect the components to control and switch between various lighting modes. Whether you're a beginner or an experienced maker, you can use this all-in-one kit to ccreate lighting projects effortlessly.\n\nThis LED light strip offers adjustable white light with a color temperature range from warm white to cool white (2700K-6500K). You can automatically select the appropriate mode based on your own model design. It fulfills your various needs, providing you with more possibilities for your creations.\n\nExperience enhanced visibility of the printing process with the internal illumination provided by this LED light strip. Watch as your models come to life layer by layer, with improved clarity and precision. Perfect for detailed observation and capturing stunning visuals, this lighting solution takes your printing experience to the next level.\n\nPower Safety 1. Always disconnect the power supply before starting any installation to prevent electric shock or short circuits.\n\n2. Ensure you are using the correct voltage as specified on the product to avoid damage, overheating, or potential fire hazards.\n\n3. Total connected length must not exceed 3 meters with the included adapter, as doing so triggers overload protection and will result in an abnormal power supply.\n\nCutting & Bending 1. Cut only along the predefined cut marks to maintain electrical continuity and proper function. Cutting in the wrong place may lead to circuit failure.\n\n2. Avoid bending or twisting the lamp strip over very short distances, as this can damage internal wiring and compromise durability.\n\n3. If bending is required, do so gradually and within the recommended bending radius to prevent breakage.\n\nSoldering & Heat Protection 1. Use a soldering iron with appropriate temperature control when attaching wiring heads to avoid overheating components.\n\n2. Keep the luminescent colloid (LEDs and surrounding encapsulation) away from excessive heat, as high temperatures can cause burns, discoloration, or reduced lifespan.\n\nOperational Integrity 1. Follow the manufacturer’s guidelines for installation and usage to ensure the strip functions correctly and lasts as intended.\n\n2. Improper handling, excessive bending, or exposure to incompatible environmental conditions may compromise the product’s performance and safety.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh059-white-cct-tunable-cob-led-strip-light-combo-kit",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "LED Strip Width",
+      "numeric_value": "12",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:LED Strip Width",
+        "source_url": "https://us.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=571114870361411587"
+      },
+      "raw_value": "12 mm",
+      "unit": "mm"
+    },
+    {
+      "label": "Length",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Length",
+        "source_url": "https://us.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=571114870361411587"
+      },
+      "raw_value": "16.4ft/5m"
+    }
+  ],
+  "name": "White CCT Tunable COB LED Strip Light Combo Kit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "59.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light-combo-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "75.96",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light-combo-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "62.15",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light-combo-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "52.78",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light-combo-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "119.22",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light-combo-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "59.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light-combo-kit?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "KA003",
+    "XB005",
+    "XC008",
+    "ZH059"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "54084033315164",
+    "571114870361411587",
+    "572908063382884354",
+    "572908579902799874",
+    "572910320129990658",
+    "572910979840184322"
+  ],
+  "source_tables": [
+    {
+      "caption": "",
+      "headers": [
+        "Product Specification"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=571114870361411587"
+      },
+      "rows": [
+        [
+          "Type of Strip",
+          "COB (chip on board)"
+        ],
+        [
+          "IC type",
+          "16703"
+        ],
+        [
+          "LED Model",
+          "2835"
+        ],
+        [
+          "Led Quantity",
+          "2160 LEDs (432 LEDs/M)"
+        ],
+        [
+          "Length",
+          "16.4ft/5m"
+        ]
+      ]
+    },
+    {
+      "caption": "",
+      "headers": [
+        "Product Specification"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=571114870361411587"
+      },
+      "rows": [
+        [
+          "Input Voltage Power",
+          "DC24V 16.3W/m"
+        ],
+        [
+          "LED Strip Width",
+          "12 mm"
+        ],
+        [
+          "Color",
+          "Dual temperature"
+        ],
+        [
+          "Color Temperature",
+          "2700K-6500K"
+        ],
+        [
+          "FPCB Color",
+          "White"
+        ]
+      ]
+    },
+    {
+      "caption": "",
+      "headers": [
+        "Product Specification"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=571114870361411587"
+      },
+      "rows": [
+        [
+          "Operating Temperature",
+          "-4℉~104℉（-20℃~+40℃ ）"
+        ],
+        [
+          "Control Distance",
+          "20-30M"
+        ],
+        [
+          "Battery Type",
+          "CR2025"
+        ],
+        [
+          "Cutting Unit",
+          "16.7 cm"
+        ],
+        [
+          "Waterproof",
+          "IP 20"
+        ]
+      ]
+    },
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:3",
+        "source_url": "https://us.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=571114870361411587"
+      },
+      "rows": [
+        [
+          "1",
+          "White CCT Tunable COB LED Strip Light",
+          "1"
+        ],
+        [
+          "2",
+          "24V 2A AC to DC Power Adapter",
+          "1"
+        ],
+        [
+          "3",
+          "DC5521 Female to 2PIN Solderless Quick Connector",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Battery Type": "CR2025",
+    "Color": "Dual temperature",
+    "Color Temperature": "2700K-6500K",
+    "Control Distance": "20-30M",
+    "Cutting Unit": "16.7 cm",
+    "FPCB Color": "White",
+    "IC type": "16703",
+    "Input Voltage Power": "DC24V 16.3W/m",
+    "LED Model": "2835",
+    "LED Strip Width": "12 mm",
+    "Led Quantity": "2160 LEDs (432 LEDs/M)",
+    "Length": "16.4ft/5m",
+    "Operating Temperature": "-4℉~104℉（-20℃~+40℃ ）",
+    "Type of Strip": "COB (chip on board)",
+    "Waterproof": "IP 20"
+  },
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/fcf660eef33946fb9269c7e92b9d4da4/KA003-XC008-XB005.png",
+      "part_number": "ZH059",
+      "price": "59.99",
+      "region": "us",
+      "sku": "571114870361411587",
+      "title": "White CCT Tunable COB LED Strip Light Combo Kit - White CCT Tunable COB LED Strip Light Combo Kit - ZH059",
+      "url": "https://us.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=571114870361411587",
+      "variant_id": "571114870361411587"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/6f24a74fbff74bdc9b79456da11d132d/KA003-XC008-XB005.png",
+      "part_number": "ZH059",
+      "price": "75.96",
+      "region": "ca",
+      "sku": "572908063382884354",
+      "title": "White CCT Tunable COB LED Strip Light Combo Kit - White CCT Tunable COB LED Strip Light Combo Kit - ZH059",
+      "url": "https://ca.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=572908063382884354",
+      "variant_id": "572908063382884354"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/a62d32298a1546c1ba30479f94c71c59/KA003-XC008-XB005.png",
+      "part_number": "ZH059",
+      "price": "62.15",
+      "region": "eu",
+      "sku": "54084033315164",
+      "title": "White CCT Tunable COB LED Strip Light Combo Kit - White CCT Tunable COB LED Strip Light Combo Kit - ZH059",
+      "url": "https://eu.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=54084033315164",
+      "variant_id": "54084033315164"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/4f704f1ff8794fb2b603f7b7bbc6df10/ZH059.png",
+      "part_number": "ZH059",
+      "price": "52.78",
+      "region": "uk",
+      "sku": "572908579902799874",
+      "title": "White CCT Tunable COB LED Strip Light Combo Kit - White CCT Tunable COB LED Strip Light Combo Kit - ZH059",
+      "url": "https://uk.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=572908579902799874",
+      "variant_id": "572908579902799874"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/937d8f943f8e4bf483ed8dc14a1c7932/KA003-XC008-XB005.png",
+      "part_number": "ZH059",
+      "price": "119.22",
+      "region": "au",
+      "sku": "572910320129990658",
+      "title": "White CCT Tunable COB LED Strip Light Combo Kit - White CCT Tunable COB LED Strip Light Combo Kit - ZH059",
+      "url": "https://au.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=572910320129990658",
+      "variant_id": "572910320129990658"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/7c4e3f99d24b419aa6ddfecd8e30c3bd/KA003-XC008-XB005.png",
+      "part_number": "ZH059",
+      "price": "59.99",
+      "region": "asia",
+      "sku": "572910979840184322",
+      "title": "White CCT Tunable COB LED Strip Light Combo Kit - White CCT Tunable COB LED Strip Light Combo Kit - ZH059",
+      "url": "https://asia.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light-combo-kit?id=572910979840184322",
+      "variant_id": "572910979840184322"
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "nfc-tag-sticker",
+      "product_id": "8337936220296",
+      "region": "us"
+    },
+    {
+      "handle": "nfc-tag-sticker",
+      "product_id": "9006451130608",
+      "region": "ca"
+    },
+    {
+      "handle": "nfc-tag-sticker",
+      "product_id": "9561451888988",
+      "region": "eu"
+    },
+    {
+      "handle": "nfc-tag-sticker",
+      "product_id": "7776427704380",
+      "region": "uk"
+    },
+    {
+      "handle": "nfc-tag-sticker",
+      "product_id": "8582172901539",
+      "region": "au"
+    },
+    {
+      "handle": "nfc-tag-sticker",
+      "product_id": "506948087502155776",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/9b/9b45af9888463baeb8d1a91dff6ef75ddcdd6b38510c9da9246c29ea9d8a2a87.png",
+      "id": "image-389ddbb4617946433f09",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "8b3d5f9f1734433693aa31779d53dc2a.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9b45af9888463baeb8d1a91dff6ef75ddcdd6b38510c9da9246c29ea9d8a2a87",
+      "size": 190872,
+      "source_url": "https://store.bblcdn.eu/s8/default/081203d7209b4eab9d6c67ac5e976000/8b3d5f9f1734433693aa31779d53dc2a.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/20/202a72f241f1fe4f5673fb856a7cfd638f7bbc123dc25614d84c58cd3af3df75.png",
+      "id": "image-2313d1f9ed82ac2e4261",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "XD001_d3235796-7d13-4fb7-96e9-8c41a71c3f42.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "202a72f241f1fe4f5673fb856a7cfd638f7bbc123dc25614d84c58cd3af3df75",
+      "size": 751961,
+      "source_url": "https://store.bblcdn.eu/s8/default/e56bf8188dd141dead2a00a6bc9288dd/XD001_d3235796-7d13-4fb7-96e9-8c41a71c3f42.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/75/7504f224bf9c91ae308831caf72260cd5ae4088f642e9c9587ff4f41f02f9e71.png",
+      "id": "image-display-efe89031e63452bcef21",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 202,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "9b45af9888463baeb8d1a91dff6ef75ddcdd6b38510c9da9246c29ea9d8a2a87",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "8b3d5f9f1734433693aa31779d53dc2a.catalog.png",
+      "parent_asset_id": "image-389ddbb4617946433f09",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7504f224bf9c91ae308831caf72260cd5ae4088f642e9c9587ff4f41f02f9e71",
+      "size": 160721,
+      "source_url": "https://store.bblcdn.eu/s8/default/081203d7209b4eab9d6c67ac5e976000/8b3d5f9f1734433693aa31779d53dc2a.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ef/efea7a1f4c8062216c9fb3e147f111d29c80c02db06fc07d7bb8283c61aebdaf.png",
+      "id": "image-display-f4efe3dd1b2ac315973f",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "202a72f241f1fe4f5673fb856a7cfd638f7bbc123dc25614d84c58cd3af3df75",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "XD001_d3235796-7d13-4fb7-96e9-8c41a71c3f42.catalog.png",
+      "parent_asset_id": "image-2313d1f9ed82ac2e4261",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "efea7a1f4c8062216c9fb3e147f111d29c80c02db06fc07d7bb8283c61aebdaf",
+      "size": 174524,
+      "source_url": "https://store.bblcdn.eu/s8/default/e56bf8188dd141dead2a00a6bc9288dd/XD001_d3235796-7d13-4fb7-96e9-8c41a71c3f42.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Adhesives & Fasteners"
+  ],
+  "category_assignments": [
+    {
+      "id": "adhesives",
+      "label": "Adhesives & Fasteners",
+      "path": [
+        "Hardware",
+        "Adhesives & Fasteners"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[4]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "NFC (Near Field Communication) tag stickers combine the functionality of NFC tags with a lightweight, adhesive-backed design, making them ideal for quick and versatile applications. Commonly used for contactless payments, access control, and product tracking, NFC tag stickers are particularly well-suited for embedding in 3D printing projects. They can store data such as model settings or usage instructions and can be easily affixed to 3D-printed objects. This makes them a practical and efficient choice for enhancing the interactivity and functionality of your designs."
+    },
+    {
+      "kind": "heading",
+      "text": "Product Feature"
+    },
+    {
+      "kind": "bullet",
+      "text": "Wide Compatibility: Fully compatible with most NFC-enabled devices, including smartphones, tablets, and NFC readers."
+    },
+    {
+      "kind": "bullet",
+      "text": "Easy to Use: Durable adhesive backing ensures strong and secure attachment to various surfaces, including 3D-printed objects, metal, plastic, or wood."
+    },
+    {
+      "kind": "bullet",
+      "text": "Lightweight and Compact: Ultra-thin and lightweight design, ideal for temporary or low-impact applications, with up to 100,000 read/write cycles and 10 years of data retention."
+    },
+    {
+      "kind": "bullet",
+      "text": "Cost-Effective Solution: Offers a budget-friendly option for adding NFC functionality to projects requiring less durability or short-term use."
+    },
+    {
+      "kind": "bullet",
+      "text": "Versatile Applications: Perfect for product labeling, ticketing, promotional campaigns, or interactive marketing materials."
+    },
+    {
+      "kind": "heading",
+      "text": "Usage Instructions"
+    },
+    {
+      "kind": "bullet",
+      "text": "Prepare Your Device Ensure your device (smartphone, NFC reader, etc.) supports NFC functionality."
+    },
+    {
+      "kind": "bullet",
+      "text": "Write Data Download an NFC programming app like \"NFC Tools.\""
+    },
+    {
+      "kind": "bullet",
+      "text": "Open the app, select the “Write” option, and input the desired data (e.g., URL, text, or commands)."
+    },
+    {
+      "kind": "bullet",
+      "text": "Bring the NFC tag close to the device’s NFC area to complete the writing process."
+    },
+    {
+      "kind": "bullet",
+      "text": "Test Your Tag Test the tag by bringing it near your device to confirm successful data writing."
+    },
+    {
+      "kind": "bullet",
+      "text": "Application Attach or embed the NFC tag to your desired object or location (e.g., 3D printed models, smart devices)."
+    },
+    {
+      "kind": "heading",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "kind": "bullet",
+      "text": "Can I rewrite data on the NFC tag Sticker? Yes, the NTAG215 chip supports multiple rewrites up to 100,000 cycles."
+    },
+    {
+      "kind": "bullet",
+      "text": "Is the NFC tag Sticker waterproof? The PVC material provides basic water resistance, but it’s recommended to avoid prolonged exposure to water."
+    },
+    {
+      "kind": "bullet",
+      "text": "Is it compatible with both Android and iOS devices? Yes, it is compatible with most Android and iOS devices with NFC functionality."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<p> </p>\n<h2 class=\"pct_t\">Introduction</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<p><strong>NFC (Near Field Communication) tag stickers </strong>combine the functionality of NFC tags with a lightweight, adhesive-backed design, making them ideal for quick and versatile applications. Commonly used for contactless payments, access control, and product tracking, NFC tag stickers are particularly well-suited for embedding in 3D printing projects. They can store data such as model settings or usage instructions and can be easily affixed to 3D-printed objects. This makes them a practical and efficient choice for enhancing the interactivity and functionality of your designs.</p>\n<p><br/></p>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"><br/></div>\n<!-- 模型表格 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 100%;\">\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"width: 41.1451%; text-align: center;\"><strong>Models</strong></td>\n<td class=\"pct_td\" style=\"width: 14.0225%; text-align: center;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 44.0972%; text-align: center;\"><strong>Model Links</strong></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"width: 41.1451%;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: center;\">Valentine's Day Heart Box</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 14.0225%; text-align: center;\"><span>@SouthLab</span></td>\n<td class=\"pct_td\" style=\"width: 44.0972%; text-align: center;\"><a href=\"https://makerworld.com/en/models/986267#profileId-961002\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Valentine's Day Heart Box</span></strong></a></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<h3 class=\"pct_st\" style=\"text-align: center;\"><br/></h3>\n<h3 class=\"pct_st\" style=\"text-align: center;\"><br/></h3>\n</div>\n<h2 class=\"pct_t\">Product Feature</h2>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"OXxEd5gtioOUsExeW3ec1JcBnlh\">\n<p style=\"text-align: left;\"> </p>\n<ul class=\"list-bullet1\" start=\"1\" style=\"text-align: left;\">\n<li class=\"ace-line ace-line old-record-id-Le6SddfgeoOsOxx9FbkcXJhPnse\" data-list=\"bullet\">\n<strong>Wide Compatibility: </strong>Fully compatible with most NFC-enabled devices, including smartphones, tablets, and NFC readers.</li>\n<li class=\"ace-line ace-line old-record-id-KBzddAv1no6gu1xMVr8cbf3Jn4c\" data-list=\"bullet\">\n<strong>Easy to Use:</strong> Durable adhesive backing ensures strong and secure attachment to various surfaces, including 3D-printed objects, metal, plastic, or wood.</li>\n<li class=\"ace-line ace-line old-record-id-C7ACd0kGbo31IjxVolmca9l6nTf\" data-list=\"bullet\">\n<strong>Lightweight and Compact:</strong> Ultra-thin and lightweight design, ideal for temporary or low-impact applications, with up to 100,000 read/write cycles and 10 years of data retention.</li>\n<li class=\"ace-line ace-line old-record-id-RoJqddxgJoenInxxBbUcA3pznoh\" data-list=\"bullet\">\n<strong>Cost-Effective Solution: </strong>Offers a budget-friendly option for adding NFC functionality to projects requiring less durability or short-term use.</li>\n<li class=\"ace-line ace-line old-record-id-SnQCdnflPo02ttxI4nicsCbsnLe\" data-list=\"bullet\">\n<strong>Versatile Applications: </strong>Perfect for product labeling, ticketing, promotional campaigns, or interactive marketing materials.</li>\n</ul>\n<h2 class=\"pct_t\"><br/></h2>\n<h2 class=\"pct_t\">Usage Instructions</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<ol>\n<li>\n<p><strong>Prepare Your Device</strong><br/>Ensure your device (smartphone, NFC reader, etc.) supports NFC functionality.<br/></p>\n</li>\n<li>\n<p><strong> Write Data</strong><br/>Download an NFC programming app like \"NFC Tools.\"<br/></p>\n</li>\n<li>\n<strong>Open the app, select the “Write” option, and input the desired data (e.g., URL, text, or commands).</strong><br/>\n</li>\n<li><strong>Bring the NFC tag close to the device’s NFC area to complete the writing process.</strong></li>\n<li>\n<strong> Test Your Tag<br/></strong>Test the tag by bringing it near your device to confirm successful data writing.</li>\n<li>\n<strong> Application</strong><br/>Attach or embed the NFC tag to your desired object or location (e.g., 3D printed models, smart devices).</li>\n</ol>\n<p> </p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<h2 class=\"pct_t\">Basic Information</h2>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\" style=\"width: 100%;\">\n<!-- 第一条 -->\n<div class=\"pct_ic-p\">\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\">\n<!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Chip Type</td>\n<td class=\"pct_td\" style=\"width: 54.9048%;\">NTAG215</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Operating Temperature<br/>\n</td>\n<td class=\"pct_td\" style=\"width: 54.9048%;\">-25°C to 55°C</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Read Range<br/>\n</td>\n<td class=\"pct_td\" style=\"width: 54.9048%;\">0-5CM</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Data Retention</td>\n<td class=\"pct_td\" style=\"width: 54.9048%;\">10 years</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 -->\n</div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\">\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\">\n<!-- 表头 -->\n<tbody>\n<tr>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Read Durability</td>\n<td class=\"pct_td\">100,000 cycles</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Material</td>\n<td class=\"pct_td\">PVC </td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Frequency</td>\n<td class=\"pct_td\">13.56MHZ</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Quantity</td>\n<td class=\"pct_td\">20 PCS</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 -->\n</div>\n</div>\n<!-- 如需添加在此处添加 -->\n</div>\n</div>\n</div>\n<!-- 标题加文案结束 -->\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_t\">Frequently Asked Questions</h2>\n<p> </p>\n<ol>\n<li>\n<p><strong>Can I rewrite data on the NFC tag Sticker?</strong><br/>Yes, the NTAG215 chip supports multiple rewrites up to 100,000 cycles.<br/></p>\n</li>\n<li>\n<p><strong> Is the NFC tag Sticker waterproof?</strong><br/>The PVC material provides basic water resistance, but it’s recommended to avoid prolonged exposure to water.<br/></p>\n</li>\n<li>\n<strong>Is it compatible with both Android and iOS devices?</strong><br/>Yes, it is compatible with most Android and iOS devices with NFC functionality.</li>\n</ol>\n</div>\n</div>\n<!-- 标题加文案结束 -->\n<p> </p>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "NFC (Near Field Communication) tag stickers combine the functionality of NFC tags with a lightweight, adhesive-backed design, making them ideal for quick and versatile applications. Commonly used for contactless payments, access control, and product tracking, NFC tag stickers are particularly well-suited for embedding in 3D printing projects. They can store data such as model settings or usage instructions and can be easily affixed to 3D-printed objects. This makes them a practical and efficient choice for enhancing the interactivity and functionality of your designs.\n\nWide Compatibility: Fully compatible with most NFC-enabled devices, including smartphones, tablets, and NFC readers.\n\nEasy to Use: Durable adhesive backing ensures strong and secure attachment to various surfaces, including 3D-printed objects, metal, plastic, or wood.\n\nLightweight and Compact: Ultra-thin and lightweight design, ideal for temporary or low-impact applications, with up to 100,000 read/write cycles and 10 years of data retention.\n\nCost-Effective Solution: Offers a budget-friendly option for adding NFC functionality to projects requiring less durability or short-term use.\n\nVersatile Applications: Perfect for product labeling, ticketing, promotional campaigns, or interactive marketing materials.\n\nPrepare Your Device Ensure your device (smartphone, NFC reader, etc.) supports NFC functionality.\n\nWrite Data Download an NFC programming app like \"NFC Tools.\"\n\nOpen the app, select the “Write” option, and input the desired data (e.g., URL, text, or commands).\n\nBring the NFC tag close to the device’s NFC area to complete the writing process.\n\nTest Your Tag Test the tag by bringing it near your device to confirm successful data writing.\n\nApplication Attach or embed the NFC tag to your desired object or location (e.g., 3D printed models, smart devices).\n\nCan I rewrite data on the NFC tag Sticker? Yes, the NTAG215 chip supports multiple rewrites up to 100,000 cycles.\n\nIs the NFC tag Sticker waterproof? The PVC material provides basic water resistance, but it’s recommended to avoid prolonged exposure to water.\n\nIs it compatible with both Android and iOS devices? Yes, it is compatible with most Android and iOS devices with NFC functionality.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "xd001-nfc-tag-sticker",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "NFC Tag Sticker (20pcs)",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.59",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.58",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.21",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.27",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.9",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "XD001"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Valentine's Day Heart Box",
+      "url": "https://makerworld.com/en/models/986267#profileId-961002"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42144903331900",
+    "42872107270280",
+    "45158805766307",
+    "46540090507504",
+    "49298217501020",
+    "506948087502155780"
+  ],
+  "source_tables": [
+    {
+      "caption": "",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/nfc-tag-sticker?id=42872107270280"
+      },
+      "rows": [
+        [
+          "Models",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "Valentine's Day Heart Box",
+          "@SouthLab",
+          "Valentine's Day Heart Box"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/nfc-tag-sticker?id=42872107270280"
+      },
+      "rows": [
+        [
+          "Chip Type",
+          "NTAG215"
+        ],
+        [
+          "Operating Temperature",
+          "-25°C to 55°C"
+        ],
+        [
+          "Read Range",
+          "0-5CM"
+        ],
+        [
+          "Data Retention",
+          "10 years"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/nfc-tag-sticker?id=42872107270280"
+      },
+      "rows": [
+        [
+          "Read Durability",
+          "100,000 cycles"
+        ],
+        [
+          "Material",
+          "PVC"
+        ],
+        [
+          "Frequency",
+          "13.56MHZ"
+        ],
+        [
+          "Quantity",
+          "20 PCS"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Chip Type": "NTAG215",
+    "Data Retention": "10 years",
+    "Frequency": "13.56MHZ",
+    "Material": "PVC",
+    "Operating Temperature": "-25°C to 55°C",
+    "Quantity": "20 PCS",
+    "Read Durability": "100,000 cycles",
+    "Read Range": "0-5CM"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/44c5a769c1694c9cb481dabc35be6bee/XD001_39a8a895-dba9-4064-bff5-0cd90289c378.png",
+      "part_number": "XD001",
+      "price": "6.59",
+      "region": "us",
+      "sku": "42872107270280",
+      "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
+      "url": "https://us.store.bambulab.com/products/nfc-tag-sticker?id=42872107270280",
+      "variant_id": "42872107270280"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/d45cfc0008604497b09b49a663b7d9de.png",
+      "part_number": "XD001",
+      "price": "7.58",
+      "region": "ca",
+      "sku": "46540090507504",
+      "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
+      "url": "https://ca.store.bambulab.com/products/nfc-tag-sticker?id=46540090507504",
+      "variant_id": "46540090507504"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/081203d7209b4eab9d6c67ac5e976000/8b3d5f9f1734433693aa31779d53dc2a.png",
+      "part_number": "XD001",
+      "price": "6.21",
+      "region": "eu",
+      "sku": "49298217501020",
+      "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
+      "url": "https://eu.store.bambulab.com/products/nfc-tag-sticker?id=49298217501020",
+      "variant_id": "49298217501020"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/8897ecccdeaa486fab1f8f7616318c5f/8b3d5f9f1734433693aa31779d53dc2a.png",
+      "part_number": "XD001",
+      "price": "5.27",
+      "region": "uk",
+      "sku": "42144903331900",
+      "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
+      "url": "https://uk.store.bambulab.com/products/nfc-tag-sticker?id=42144903331900",
+      "variant_id": "42144903331900"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/3ac8934ec93d49618c6c8bec9d94e12f.png",
+      "part_number": "XD001",
+      "price": "11.9",
+      "region": "au",
+      "sku": "45158805766307",
+      "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
+      "url": "https://au.store.bambulab.com/products/nfc-tag-sticker?id=45158805766307",
+      "variant_id": "45158805766307"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/8b3d5f9f1734433693aa31779d53dc2a.png",
+      "part_number": "XD001",
+      "price": "5.99",
+      "region": "asia",
+      "sku": "506948087502155780",
+      "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
+      "url": "https://asia.store.bambulab.com/products/nfc-tag-sticker?id=506948087502155780",
+      "variant_id": "506948087502155780"
+    }
+  ]
+}

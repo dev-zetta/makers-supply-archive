@@ -1,0 +1,373 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "heat-stake-nut-tool-tip-set-1pcs",
+      "product_id": "599495792361742336",
+      "region": "us"
+    },
+    {
+      "handle": "heat-stake-nut-tool-tip-set-1pcs",
+      "product_id": "599495103676243968",
+      "region": "ca"
+    },
+    {
+      "handle": "heat-stake-nut-tool-tip-set-1pcs",
+      "product_id": "599505840091881472",
+      "region": "eu"
+    },
+    {
+      "handle": "heat-stake-nut-tool-tip-set-1pcs",
+      "product_id": "599496101178748928",
+      "region": "uk"
+    },
+    {
+      "handle": "heat-stake-nut-tool-tip-set-1pcs",
+      "product_id": "599494797472145408",
+      "region": "au"
+    },
+    {
+      "handle": "heat-stake-nut-tool-tip-set-1pcs",
+      "product_id": "599489609047613440",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/d3/d3bd2593e827a2fbd629cd1deb488ed54d2414edef953cee21b7004115f0b452.png",
+      "id": "image-c81b363751a0b7797990",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "zhutu.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d3bd2593e827a2fbd629cd1deb488ed54d2414edef953cee21b7004115f0b452",
+      "size": 1408251,
+      "source_url": "https://store.bblcdn.eu/s8/default/deb393dad09d49138887a8d077e5c86e/zhutu.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ba/ba7e58ee3bd8ea3f6d8dcc948bc324fc0dd4524a96e8df0b9ee5642e69c32204.png",
+      "id": "image-b181d0de94e570900244",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "bianti.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ba7e58ee3bd8ea3f6d8dcc948bc324fc0dd4524a96e8df0b9ee5642e69c32204",
+      "size": 405590,
+      "source_url": "https://store.bblcdn.eu/s8/default/3462325702f84d0e8a722e823d7e61f5/bianti.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/70/70686f1ca1925334483f79edbc0d9a146be7d7f08dfa7898b38d5ca349c8b6d2.png",
+      "id": "image-display-16412c5ffb701df69224",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "d3bd2593e827a2fbd629cd1deb488ed54d2414edef953cee21b7004115f0b452",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "zhutu.catalog.png",
+      "parent_asset_id": "image-c81b363751a0b7797990",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "70686f1ca1925334483f79edbc0d9a146be7d7f08dfa7898b38d5ca349c8b6d2",
+      "size": 244702,
+      "source_url": "https://store.bblcdn.eu/s8/default/deb393dad09d49138887a8d077e5c86e/zhutu.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ab/abea85204f3684807278702088526188f5502353b1477c1f11457203529a1571.png",
+      "id": "image-display-8b247f7bba2c65164ce8",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "ba7e58ee3bd8ea3f6d8dcc948bc324fc0dd4524a96e8df0b9ee5642e69c32204",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "bianti.catalog.png",
+      "parent_asset_id": "image-b181d0de94e570900244",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "abea85204f3684807278702088526188f5502353b1477c1f11457203529a1571",
+      "size": 91257,
+      "source_url": "https://store.bblcdn.eu/s8/default/3462325702f84d0e8a722e823d7e61f5/bianti.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Fasteners"
+  ],
+  "category_assignments": [
+    {
+      "id": "fasteners",
+      "label": "Fasteners",
+      "path": [
+        "Hardware",
+        "Fasteners"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[1]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Stronger Threads for Functional 3D Prints"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Printed plastic threads can wear out or strip over time, especially in parts that are assembled and disassembled repeatedly. Brass heat-set inserts provide durable metal threads, helping improve assembly strength and making printed parts more suitable for repeated fastening."
+    },
+    {
+      "kind": "heading",
+      "text": "Multiple Sizes for Common Insert Standards"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<h2 class=\"pct_t\"></h2>\n<!-- 第一条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Stronger Threads for Functional 3D Prints</h3>\n<p class=\"pct_p\">Printed plastic threads can wear out or strip over time, especially in parts that are assembled and disassembled repeatedly. Brass heat-set inserts provide durable metal threads, helping improve assembly strength and making printed parts more suitable for repeated fastening.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/494bc397318246cabe06ba1155b3efe3/11.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/494bc397318246cabe06ba1155b3efe3/11.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<!-- 第三条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Multiple Sizes for Common Insert Standards</h3>\n<p class=\"pct_p\">The included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c6fa662995fa4247b8f20c1caf5b90f2/B-QA004_banner_3_1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c6fa662995fa4247b8f20c1caf5b90f2/B-QA004_banner_3_1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<h3 class=\"pct_st\"><span style=\"font-size: 24px;\">Heat-Stake Nut Tool Tip Set</span></h3>\n<div class=\"pct_tbc\">\n<div class=\"TableWrapper\">\n<table class=\"pct_tb\" style=\"height: 477px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 27px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 102.637px; height: 27px;\">Size</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 125.35px; height: 27px;\">Tip Diameter (mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 241.488px; height: 27px;\">Total Length (mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 83.425px; height: 27px;\">Quantity</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 161.7px; height: 27px;\">Material</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M2</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n<td class=\"pct_td\" rowspan=\"8\" style=\"text-align: center; height: 450px; width: 161.7px;\">Brass</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M2.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M3</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">16.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M4</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">6.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">17.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">17.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M6</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M8</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">9</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">Handle</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">6.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">34</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "Printed plastic threads can wear out or strip over time, especially in parts that are assembled and disassembled repeatedly. Brass heat-set inserts provide durable metal threads, helping improve assembly strength and making printed parts more suitable for repeated fastening.\n\nThe included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "heat-stake-nut-tool-tip-set-1pcs",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Heat-Stake Nut Tool Tip Set",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/heat-stake-nut-tool-tip-set-1pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/heat-stake-nut-tool-tip-set-1pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/heat-stake-nut-tool-tip-set-1pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/heat-stake-nut-tool-tip-set-1pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/heat-stake-nut-tool-tip-set-1pcs?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/heat-stake-nut-tool-tip-set-1pcs?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-QA004"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "599489609060196354",
+    "599494797488922626",
+    "599495103684632578",
+    "599495792374325250",
+    "599496101187137538",
+    "599505840104464386",
+    "730555715076890626"
+  ],
+  "source_tables": [
+    {
+      "caption": "Heat-Stake Nut Tool Tip Set",
+      "headers": [
+        "Size",
+        "Tip Diameter (mm)",
+        "Total Length (mm)",
+        "Quantity",
+        "Material"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/heat-stake-nut-tool-tip-set-1pcs?id=599495792374325250"
+      },
+      "rows": [
+        [
+          "M2",
+          "7",
+          "12",
+          "1",
+          "Brass"
+        ],
+        [
+          "M2.5",
+          "7",
+          "12",
+          "1"
+        ],
+        [
+          "M3",
+          "7",
+          "16.5",
+          "1"
+        ],
+        [
+          "M4",
+          "6.5",
+          "17.5",
+          "1"
+        ],
+        [
+          "M5",
+          "7",
+          "17.5",
+          "1"
+        ],
+        [
+          "M6",
+          "7",
+          "12.5",
+          "1"
+        ],
+        [
+          "M8",
+          "9",
+          "12.5",
+          "1"
+        ],
+        [
+          "Handle",
+          "6.5",
+          "34",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/9288cbf29b884374a9371a91a91463a7/zhutu.png",
+      "price": "4.99",
+      "region": "us",
+      "sku": "599495792374325250",
+      "title": "Heat-Stake Nut Tool Tip Set - Heat-Stake Nut Tool Tip Set",
+      "url": "https://us.store.bambulab.com/products/heat-stake-nut-tool-tip-set-1pcs?id=599495792374325250",
+      "variant_id": "599495792374325250"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/d97cfd168c694be4a63ea4569efe700b/B-QA004.png",
+      "price": "115",
+      "region": "us",
+      "sku": "730555715076890626",
+      "title": "Heat-Stake Nut Tool Tip Set - 100W USB-C Smart Soldering Iron Kit",
+      "url": "https://us.store.bambulab.com/products/heat-stake-nut-tool-tip-set-1pcs?id=730555715076890626",
+      "variant_id": "730555715076890626"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/0de1a851be284bde830fd9224b30a253/zhutu.png",
+      "price": "6.99",
+      "region": "ca",
+      "sku": "599495103684632578",
+      "title": "Heat-Stake Nut Tool Tip Set - Heat-Stake Nut Tool Tip Set",
+      "url": "https://ca.store.bambulab.com/products/heat-stake-nut-tool-tip-set-1pcs?id=599495103684632578",
+      "variant_id": "599495103684632578"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/deb393dad09d49138887a8d077e5c86e/zhutu.png",
+      "price": "5.99",
+      "region": "eu",
+      "sku": "599505840104464386",
+      "title": "Heat-Stake Nut Tool Tip Set - Heat-Stake Nut Tool Tip Set",
+      "url": "https://eu.store.bambulab.com/products/heat-stake-nut-tool-tip-set-1pcs?id=599505840104464386",
+      "variant_id": "599505840104464386"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/b4fee39292384516bb54619df3133bc5/zhutu.png",
+      "price": "4.99",
+      "region": "uk",
+      "sku": "599496101187137538",
+      "title": "Heat-Stake Nut Tool Tip Set - Heat-Stake Nut Tool Tip Set",
+      "url": "https://uk.store.bambulab.com/products/heat-stake-nut-tool-tip-set-1pcs?id=599496101187137538",
+      "variant_id": "599496101187137538"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/6a07f5c20d2f450ba3d1cb354715d3ce/zhutu.png",
+      "price": "9.99",
+      "region": "au",
+      "sku": "599494797488922626",
+      "title": "Heat-Stake Nut Tool Tip Set - Heat-Stake Nut Tool Tip Set",
+      "url": "https://au.store.bambulab.com/products/heat-stake-nut-tool-tip-set-1pcs?id=599494797488922626",
+      "variant_id": "599494797488922626"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/984a2e1f20b54a65b80d8438c3cffec9/zhutu.png",
+      "price": "4.99",
+      "region": "asia",
+      "sku": "599489609060196354",
+      "title": "Heat-Stake Nut Tool Tip Set - Heat-Stake Nut Tool Tip Set",
+      "url": "https://asia.store.bambulab.com/products/heat-stake-nut-tool-tip-set-1pcs?id=599489609060196354",
+      "variant_id": "599489609060196354"
+    }
+  ]
+}

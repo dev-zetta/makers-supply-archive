@@ -1,0 +1,381 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "led-light-strip-256rgb-5050led-815mm",
+      "product_id": "575446243088236544",
+      "region": "us"
+    },
+    {
+      "handle": "led-light-strip-256rgb-5050led-815mm",
+      "product_id": "575445928319946752",
+      "region": "ca"
+    },
+    {
+      "handle": "led-light-strip-256rgb-5050led-815mm",
+      "product_id": "14913202585948",
+      "region": "eu"
+    },
+    {
+      "handle": "led-light-strip-256rgb-5050led-815mm",
+      "product_id": "575445815263531008",
+      "region": "uk"
+    },
+    {
+      "handle": "led-light-strip-256rgb-5050led-815mm",
+      "product_id": "575445553626968064",
+      "region": "au"
+    },
+    {
+      "handle": "led-light-strip-256rgb-5050led-815mm",
+      "product_id": "574465157658202112",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/e6/e63b40d40b0e46810ae5caf1dee05c1968d992c32e6c5bf3a9ed348bba410738.png",
+      "id": "image-7456e9af2492f38895d6",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KA010.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e63b40d40b0e46810ae5caf1dee05c1968d992c32e6c5bf3a9ed348bba410738",
+      "size": 90228,
+      "source_url": "https://store.bblcdn.eu/s4/default/ee546d42696d42449a04f9508b638f43/KA010.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/eb/eb28b19e542a537734ffa892be978c727a51b6af786dc88f9114560ace5468ac.png",
+      "id": "image-f2d1922099b83bdcf7e5",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1-4.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "eb28b19e542a537734ffa892be978c727a51b6af786dc88f9114560ace5468ac",
+      "size": 199521,
+      "source_url": "https://store.bblcdn.eu/s4/default/e741358f09644af39beed9575caf90fe/1-4.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a2/a26db41261017206d3f97f9e7309e9b3b692153d23f9b0e752ca6cef88a5c73f.png",
+      "id": "image-display-8713c0402be637ec6aec",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e63b40d40b0e46810ae5caf1dee05c1968d992c32e6c5bf3a9ed348bba410738",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KA010.catalog.png",
+      "parent_asset_id": "image-7456e9af2492f38895d6",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a26db41261017206d3f97f9e7309e9b3b692153d23f9b0e752ca6cef88a5c73f",
+      "size": 37388,
+      "source_url": "https://store.bblcdn.eu/s4/default/ee546d42696d42449a04f9508b638f43/KA010.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/42/42a24aae622b6aca3f8536f0462d84ef1f9acbe463ca0774cc6ac21a3cc01f0b.png",
+      "id": "image-display-c6a96c356c797aeb6ab2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "eb28b19e542a537734ffa892be978c727a51b6af786dc88f9114560ace5468ac",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1-4.catalog.png",
+      "parent_asset_id": "image-f2d1922099b83bdcf7e5",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "42a24aae622b6aca3f8536f0462d84ef1f9acbe463ca0774cc6ac21a3cc01f0b",
+      "size": 169932,
+      "source_url": "https://store.bblcdn.eu/s4/default/e741358f09644af39beed9575caf90fe/1-4.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[6]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Instruction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This LED Light Strip features 5050 RGB LEDs, it has 256 light beads in a 815-mm length. This strip delivers vibrant, customizable lighting that is great for DIY electronics, home decor, and creative projects. It can be used with the Motion-Activated Sound and Light Props Kit-01 & 02 to create your unique model projects."
+    },
+    {
+      "kind": "heading",
+      "text": "Considerations"
+    },
+    {
+      "kind": "bullet",
+      "text": "If it is used with the Motion-Activated Sound and Light Props Kit-01 & 02， you need to adjust the number of control light beads to 128 in the APP."
+    },
+    {
+      "kind": "bullet",
+      "text": "Always disconnect the power supply before starting any installation to prevent electric shock or short circuits."
+    },
+    {
+      "kind": "bullet",
+      "text": "Ensure the input voltage matches the specified DC 3.7v-4.2v to prevent damage or reduced lifespan."
+    },
+    {
+      "kind": "bullet",
+      "text": "Do not exceed the recommended operating current to ensure optimal performance and product longevity."
+    },
+    {
+      "kind": "bullet",
+      "text": "Keep away from moisture and excessive heat sources."
+    },
+    {
+      "kind": "bullet",
+      "text": "Keep out of reach of children. This product is not a toy and should be handled responsibly."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\"></h2>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\" style=\"text-align: left;\">Instruction</h2>\n<h2 class=\"pct_st\"></h2>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"BraMdd9z6owwkNxjI3McPYx2nsb\">\n<div class=\"old-record-id-FaACdSbwHo7BVoxUPdKcnkF5nce\">This LED Light Strip features 5050 RGB LEDs, it has 256 light beads in a 815-mm length. This strip delivers vibrant, customizable lighting that is great for DIY electronics, home decor, and creative projects. <br/>It can be used with the <span style=\"color: #2dc26b;\"><a href=\"https://us.store.bambulab.com/products/motion-activated-sound-and-light-props-kit\" rel=\"noopener\" style=\"color: #2dc26b;\" target=\"_blank\"><span style=\"color: #00ae42;\">Motion-Activated Sound and Light Props Kit-01 &amp; 02</span></a></span> to create your unique model projects.</div>\n</div>\n<p> </p>\n</div>\n</div>\n<table class=\"pct_tb\" style=\"border-color: #adadad; font-weight: bold; height: 120px; width: 111.864%;\"><!-- 物品清单布局 --><!-- 标题加文案结æ�?--> <!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 40px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; text-align: center; height: 40px; width: 13.6939%; padding: 10px !important;\">\n<div>Product ID</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 40px; width: 16.6547%; padding: 10px !important;\">\n<div>LED Model </div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 40px; width: 12.5836%; padding: 10px !important;\"> Light Bead Quantity</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 40px; width: 13.1387%; padding: 10px !important;\">Strip Length</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 40px; width: 15.1743%; padding: 10px !important;\">Strip Width</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 40px; width: 18.1101%; padding: 10px !important;\">Input Voltage</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 40px; width: 8.90757%; padding: 10px !important;\"> Operating Current</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 15px;\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 15px; width: 13.6939%; padding: 10px !important;\">\n<div data-docx-has-block-data=\"true\" data-lark-html-role=\"root\" data-page-id=\"OsAldE1cUoGAUQxg1D4cwL9Xnqc\">KA010</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"isCut\":false,\"rootId\":\"OsAldE1cUoGAUQxg1D4cwL9Xnqc\",\"parentId\":\"Jv7edlcdSoYT8oxfY2acfhh8nMd\",\"blockIds\":[24],\"recordIds\":[\"Jv7edlcdSoYT8oxfY2acfhh8nMd\"],\"recordMap\":{\"HIMvdTUHFosGN7xpx5Mc7Lpgn6c\":{\"id\":\"HIMvdTUHFosGN7xpx5Mc7Lpgn6c\",\"snapshot\":{\"type\":\"table_cell\",\"parent_id\":\"Jv7edlcdSoYT8oxfY2acfhh8nMd\",\"comments\":[],\"revisions\":[],\"locked\":false,\"hidden\":false,\"author\":\"7436941571142926338\",\"children\":[\"UxSYdVqIBoTDzwxOesCcjEdLn8d\"]}},\"UxSYdVqIBoTDzwxOesCcjEdLn8d\":{\"id\":\"UxSYdVqIBoTDzwxOesCcjEdLn8d\",\"snapshot\":{\"type\":\"text\",\"parent_id\":\"HIMvdTUHFosGN7xpx5Mc7Lpgn6c\",\"comments\":[],\"revisions\":[],\"locked\":false,\"hidden\":false,\"author\":\"7436941571142926338\",\"children\":[],\"text\":{\"apool\":{\"nextNum\":1,\"numToAttrib\":{\"0\":[\"author\",\"7436941571142926338\"]}},\"initialAttributedTexts\":{\"attribs\":{\"0\":\"*0+5\"},\"text\":{\"0\":\"XC007\"}}},\"align\":\"\",\"folded\":false}},\"Jv7edlcdSoYT8oxfY2acfhh8nMd\":{\"id\":\"Jv7edlcdSoYT8oxfY2acfhh8nMd\",\"snapshot\":{\"type\":\"table\",\"parent_id\":\"doxcnnmPS5xpd2MWHR0W0j7WKhh\",\"comments\":[],\"revisions\":[],\"locked\":false,\"hidden\":false,\"author\":\"7436941571142926338\",\"columns_id\":[\"col7f7a9381-f53c-47e4-ad14-cc4758202344\"],\"rows_id\":[\"row898b76a3-a089-4a71-b01c-487178d73591\"],\"column_set\":{\"col4308bf48-8e88-411e-bb04-42e6ba44ff32\":{\"column_width\":100},\"col5814e3c0-9745-491f-bca0-9ab26a391c16\":{\"column_width\":201},\"col746f609e-d6af-4b10-b47b-1e98c5e06fe4\":{\"column_width\":144},\"col7f7a9381-f53c-47e4-ad14-cc4758202344\":{\"column_width\":100},\"col9920888e-24f8-4a36-a839-454c419e152b\":{\"column_width\":168},\"cold72b2dc6-f411-44f6-b740-b8b380e78512\":{\"column_width\":152}},\"cell_set\":{\"row1fa4efb4-e7e0-4df4-a200-706cdc2d71e5col4308bf48-8e88-411e-bb04-42e6ba44ff32\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"AfLRdL5HEojy13xsG3ccLQMJnxe\"},\"row1fa4efb4-e7e0-4df4-a200-706cdc2d71e5col5814e3c0-9745-491f-bca0-9ab26a391c16\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"LB07db60ZofWpYxuSdYcOGrZnzc\"},\"row1fa4efb4-e7e0-4df4-a200-706cdc2d71e5col746f609e-d6af-4b10-b47b-1e98c5e06fe4\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"N94Jd0MYMoQDpTxa80FcA37VnOg\"},\"row1fa4efb4-e7e0-4df4-a200-706cdc2d71e5col7f7a9381-f53c-47e4-ad14-cc4758202344\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"D6rBdnenBonzbQxnGxYcnezYnmd\"},\"row1fa4efb4-e7e0-4df4-a200-706cdc2d71e5col9920888e-24f8-4a36-a839-454c419e152b\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"UsyYdjpsEogK1lxIUHrc8elPn3f\"},\"row1fa4efb4-e7e0-4df4-a200-706cdc2d71e5cold72b2dc6-f411-44f6-b740-b8b380e78512\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"MVQ7dTMsVogW3exykjucZhwYnGd\"},\"row898b76a3-a089-4a71-b01c-487178d73591col4308bf48-8e88-411e-bb04-42e6ba44ff32\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"DGkwdaEhuowodqxF10CcIAivnfg\"},\"row898b76a3-a089-4a71-b01c-487178d73591col5814e3c0-9745-491f-bca0-9ab26a391c16\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"PiLQdqS2jozdY8xjNrFcKhkonSd\"},\"row898b76a3-a089-4a71-b01c-487178d73591col746f609e-d6af-4b10-b47b-1e98c5e06fe4\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"VuJLdbwhSoEmWqxN256cdEVknId\"},\"row898b76a3-a089-4a71-b01c-487178d73591col7f7a9381-f53c-47e4-ad14-cc4758202344\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"HIMvdTUHFosGN7xpx5Mc7Lpgn6c\"},\"row898b76a3-a089-4a71-b01c-487178d73591col9920888e-24f8-4a36-a839-454c419e152b\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"QvGSdWjUpoqoAPxFrYAc3mQAnPg\"},\"row898b76a3-a089-4a71-b01c-487178d73591cold72b2dc6-f411-44f6-b740-b8b380e78512\":{\"merge_info\":{\"row_span\":1,\"col_span\":1},\"block_id\":\"WUAhd3rzvobtEdxBCWIcg2MDn8g\"}}}}},\"payloadMap\":{\"UxSYdVqIBoTDzwxOesCcjEdLn8d\":{\"level\":1}},\"extra\":{\"channel\":\"saas\",\"pasteRandomId\":\"92b532dd-cf3b-4101-bccc-696e13787733\",\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"selection\":[{\"id\":24,\"type\":\"block\",\"recordId\":\"HIMvdTUHFosGN7xpx5Mc7Lpgn6c\"}],\"pasteFlag\":\"72557e45-58df-453a-9aa8-adb004c90403\"}' data-lark-record-format=\"docx/record\"></span></td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 16.6547%; padding: 10px !important;\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"OsAldE1cUoGAUQxg1D4cwL9Xnqc\">\n<div class=\"ace-line ace-line old-record-id-E2TsdMkJuoukcexwn4Uckptnnqf\">5050 RGB</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"isCut\":false,\"rootId\":\"OsAldE1cUoGAUQxg1D4cwL9Xnqc\",\"parentId\":\"QvGSdWjUpoqoAPxFrYAc3mQAnPg\",\"blockIds\":[56],\"recordIds\":[\"E2TsdMkJuoukcexwn4Uckptnnqf\"],\"recordMap\":{\"E2TsdMkJuoukcexwn4Uckptnnqf\":{\"id\":\"E2TsdMkJuoukcexwn4Uckptnnqf\",\"snapshot\":{\"type\":\"text\",\"parent_id\":\"QvGSdWjUpoqoAPxFrYAc3mQAnPg\",\"comments\":[],\"revisions\":[],\"locked\":false,\"hidden\":false,\"author\":\"7436941571142926338\",\"children\":[],\"text\":{\"apool\":{\"nextNum\":1,\"numToAttrib\":{\"0\":[\"author\",\"7436941571142926338\"]}},\"initialAttributedTexts\":{\"attribs\":{\"0\":\"*0+d\"},\"text\":{\"0\":\"ZH1.5 - SH1.0\"}}},\"align\":\"\",\"folded\":false}},\"QvGSdWjUpoqoAPxFrYAc3mQAnPg\":{\"id\":\"QvGSdWjUpoqoAPxFrYAc3mQAnPg\",\"snapshot\":{\"type\":\"table_cell\",\"parent_id\":\"Jv7edlcdSoYT8oxfY2acfhh8nMd\",\"comments\":[],\"revisions\":[],\"locked\":false,\"hidden\":false,\"author\":\"7436941571142926338\",\"children\":[\"E2TsdMkJuoukcexwn4Uckptnnqf\"]}}},\"payloadMap\":{\"E2TsdMkJuoukcexwn4Uckptnnqf\":{\"level\":1}},\"extra\":{\"channel\":\"saas\",\"pasteRandomId\":\"7063923b-b852-4ff4-b2c2-721894e94b0a\",\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"selection\":[{\"id\":56,\"type\":\"block\",\"recordId\":\"E2TsdMkJuoukcexwn4Uckptnnqf\"}],\"pasteFlag\":\"72557e45-58df-453a-9aa8-adb004c90403\"}' data-lark-record-format=\"docx/record\"></span></td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 12.5836%; padding: 10px !important;\">256</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 13.1387%; padding: 10px !important;\">815mm</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 15.1743%; padding: 10px !important;\">10 mm</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 18.1101%; padding: 10px !important;\">DC 3.7v-4.2v</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 15px; width: 8.90757%; padding: 10px !important;\">≤2.5A</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\" style=\"text-align: left;\"></h2>\n<h2 class=\"pct_t\" style=\"text-align: left;\">Considerations</h2>\n<p> </p>\n<ul>\n<li>If it is used with the <span style=\"color: #00ae42;\"><a href=\"https://us.store.bambulab.com/products/motion-activated-sound-and-light-props-kit\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Motion-Activated Sound and Light Props Kit-01 &amp; 02，</a></span>you need to adjust the number of control light beads to 128 in the APP.</li>\n<li>Always disconnect the power supply before starting any installation to prevent electric shock or short circuits.</li>\n<li>Ensure the input voltage matches the specified DC 3.7v-4.2v to prevent damage or reduced lifespan.</li>\n<li>Do not exceed the recommended operating current to ensure optimal performance and product longevity.</li>\n<li>Keep away from moisture and excessive heat sources.</li>\n<li>Keep out of reach of children. This product is not a toy and should be handled responsibly.</li>\n</ul>\n</div>\n</div>",
+  "description_text": "This LED Light Strip features 5050 RGB LEDs, it has 256 light beads in a 815-mm length. This strip delivers vibrant, customizable lighting that is great for DIY electronics, home decor, and creative projects. It can be used with the Motion-Activated Sound and Light Props Kit-01 & 02 to create your unique model projects.\n\nIf it is used with the Motion-Activated Sound and Light Props Kit-01 & 02， you need to adjust the number of control light beads to 128 in the APP.\n\nAlways disconnect the power supply before starting any installation to prevent electric shock or short circuits.\n\nEnsure the input voltage matches the specified DC 3.7v-4.2v to prevent damage or reduced lifespan.\n\nDo not exceed the recommended operating current to ensure optimal performance and product longevity.\n\nKeep away from moisture and excessive heat sources.\n\nKeep out of reach of children. This product is not a toy and should be handled responsibly.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "ka010-led-light-strip-256rgb-5050led-815mm",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "Strip Length",
+      "numeric_value": "815",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Strip Length",
+        "source_url": "https://us.store.bambulab.com/products/led-light-strip-256rgb-5050led-815mm?id=575446243113402370"
+      },
+      "raw_value": "815mm",
+      "unit": "mm"
+    },
+    {
+      "label": "Strip Width",
+      "numeric_value": "10",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Strip Width",
+        "source_url": "https://us.store.bambulab.com/products/led-light-strip-256rgb-5050led-815mm?id=575446243113402370"
+      },
+      "raw_value": "10 mm",
+      "unit": "mm"
+    }
+  ],
+  "name": "LED light strip 256RGB 5050LED 815MM",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/led-light-strip-256rgb-5050led-815mm?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/led-light-strip-256rgb-5050led-815mm?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/led-light-strip-256rgb-5050led-815mm?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/led-light-strip-256rgb-5050led-815mm?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "23.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/led-light-strip-256rgb-5050led-815mm?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/led-light-strip-256rgb-5050led-815mm?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "KA010"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "54102287221084",
+    "574465157662396419",
+    "575445553639550978",
+    "575445815288696834",
+    "575445928349306882",
+    "575446243113402370"
+  ],
+  "source_tables": [
+    {
+      "caption": "",
+      "headers": [
+        "Product ID",
+        "LED Model",
+        "Light Bead Quantity",
+        "Strip Length",
+        "Strip Width",
+        "Input Voltage",
+        "Operating Current"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/led-light-strip-256rgb-5050led-815mm?id=575446243113402370"
+      },
+      "rows": [
+        [
+          "KA010",
+          "5050 RGB",
+          "256",
+          "815mm",
+          "10 mm",
+          "DC 3.7v-4.2v",
+          "≤2.5A"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Input Voltage": "DC 3.7v-4.2v",
+    "LED Model": "5050 RGB",
+    "Light Bead Quantity": "256",
+    "Operating Current": "≤2.5A",
+    "Product ID": "KA010",
+    "Strip Length": "815mm",
+    "Strip Width": "10 mm"
+  },
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/3290d241e5ba4090a96bdb992a9529f1/KA010.png",
+      "part_number": "KA010",
+      "price": "12",
+      "region": "us",
+      "sku": "575446243113402370",
+      "title": "LED light strip 256RGB 5050LED 815MM - LED light strip 256RGB 5050LED 815MM(1PCS)-KA010",
+      "url": "https://us.store.bambulab.com/products/led-light-strip-256rgb-5050led-815mm?id=575446243113402370",
+      "variant_id": "575446243113402370"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/13e0b228180e4492997f52ad99f72767/KA010.png",
+      "part_number": "KA010",
+      "price": "15.99",
+      "region": "ca",
+      "sku": "575445928349306882",
+      "title": "LED light strip 256RGB 5050LED 815MM - LED light strip 256RGB 5050LED 815MM(1PCS)-KA010",
+      "url": "https://ca.store.bambulab.com/products/led-light-strip-256rgb-5050led-815mm?id=575445928349306882",
+      "variant_id": "575445928349306882"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/e4080f49e8f34f4fb5d81bcdfde86395/KA010.png",
+      "part_number": "KA010",
+      "price": "12.99",
+      "region": "eu",
+      "sku": "54102287221084",
+      "title": "LED light strip 256RGB 5050LED 815MM - LED light strip 256RGB 5050LED 815MM(1PCS)-KA010",
+      "url": "https://eu.store.bambulab.com/products/led-light-strip-256rgb-5050led-815mm?id=54102287221084",
+      "variant_id": "54102287221084"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/ee546d42696d42449a04f9508b638f43/KA010.png",
+      "part_number": "KA010",
+      "price": "10.99",
+      "region": "uk",
+      "sku": "575445815288696834",
+      "title": "LED light strip 256RGB 5050LED 815MM - LED light strip 256RGB 5050LED 815MM(1PCS)-KA010",
+      "url": "https://uk.store.bambulab.com/products/led-light-strip-256rgb-5050led-815mm?id=575445815288696834",
+      "variant_id": "575445815288696834"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/82b00e9bdb254269b5c88f8912a275c4/KA010.png",
+      "part_number": "KA010",
+      "price": "23.99",
+      "region": "au",
+      "sku": "575445553639550978",
+      "title": "LED light strip 256RGB 5050LED 815MM - LED light strip 256RGB 5050LED 815MM(1PCS)-KA010",
+      "url": "https://au.store.bambulab.com/products/led-light-strip-256rgb-5050led-815mm?id=575445553639550978",
+      "variant_id": "575445553639550978"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/a37b69398f5c44a19464fbf254eeeb2d/KA010.png",
+      "part_number": "KA010",
+      "price": "12",
+      "region": "asia",
+      "sku": "574465157662396419",
+      "title": "LED light strip 256RGB 5050LED 815MM - LED light strip 256RGB 5050LED 815MM(1PCS)-KA010",
+      "url": "https://asia.store.bambulab.com/products/led-light-strip-256rgb-5050led-815mm?id=574465157662396419",
+      "variant_id": "574465157662396419"
+    }
+  ]
+}

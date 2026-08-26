@@ -1,0 +1,552 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "engine-model-components-kit-005",
+      "product_id": "7527279526024",
+      "region": "us"
+    },
+    {
+      "handle": "engine-model-components-kit-005",
+      "product_id": "8327593361648",
+      "region": "ca"
+    },
+    {
+      "handle": "engine-model-components-kit-005",
+      "product_id": "8540762636636",
+      "region": "eu"
+    },
+    {
+      "handle": "engine-model-components-kit-005",
+      "product_id": "7153220485180",
+      "region": "uk"
+    },
+    {
+      "handle": "engine-model-components-kit-005",
+      "product_id": "8074973118627",
+      "region": "au"
+    },
+    {
+      "handle": "engine-model-components-kit-005",
+      "product_id": "9030417285412",
+      "region": "jp"
+    },
+    {
+      "handle": "engine-model-components-kit-005",
+      "product_id": "7258365722739",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/74/7457d31e0ff1c60d679e60fae00761144c04345bc42e33e90c84aa99d1ddadd3.png",
+      "id": "image-cd6a82f10dd8556a4ce3",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "EngineModel.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7457d31e0ff1c60d679e60fae00761144c04345bc42e33e90c84aa99d1ddadd3",
+      "size": 1043844,
+      "source_url": "https://store.bblcdn.com/s6/default/5149a393a19e4e8a8b0ceb6869b60a35/EngineModel.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/62/62d94839ab45c8b2fd72ddf4ae22d84578f053990fbbcab91e0072c1675dad26.png",
+      "id": "image-7929c7571d1b0b9ad57f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "EngineModel_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "62d94839ab45c8b2fd72ddf4ae22d84578f053990fbbcab91e0072c1675dad26",
+      "size": 3704793,
+      "source_url": "https://store.bblcdn.com/s6/default/04cf862868844974a0929941afd0eeb6/EngineModel_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c1/c1712acd15cfc4bdef62fd121d009df136158e079ac660e3d198d45828e9c2f3.jpg",
+      "id": "image-95f2440b12c9c134c58d",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "EngineModel_a194f416-68b7-49b4-8788-6162cdb9ca8b.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c1712acd15cfc4bdef62fd121d009df136158e079ac660e3d198d45828e9c2f3",
+      "size": 46114,
+      "source_url": "https://store.bblcdn.com/s6/default/a72f86656c8547b1bc91453d05b0c345/EngineModel_a194f416-68b7-49b4-8788-6162cdb9ca8b.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2b/2b66b4989fbe9d76546fd2cd248e6f25b49a1c34068eabe73f061a9805b73b71.zip",
+      "id": "archive-ecbcee4626f135f65bec",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Engine_Model_Components_Kit_-MH005_Model.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "2b66b4989fbe9d76546fd2cd248e6f25b49a1c34068eabe73f061a9805b73b71",
+      "size": 981182,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/0.5x7x12mm - BB005/0.5x7x12 mm - BB005.stl",
+      "blob_path": "data/blobs/sha256/58/588769e8c12acfec4247ced48dde6add189a48e98d3e6e8612e67e8947e4feef.stl",
+      "id": "model-89b864019efca5817d80",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "0.5x7x12 mm - BB005.stl",
+      "parent_asset_id": "archive-ecbcee4626f135f65bec",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "588769e8c12acfec4247ced48dde6add189a48e98d3e6e8612e67e8947e4feef",
+      "size": 132584,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/0.5x7x12mm - BB005/0.5x7x12 mm - BB005.stp",
+      "blob_path": "data/blobs/sha256/93/930390b4139d9470649640c0913bb4c28fbe139d94d7041d6c32b31ceb764202.stp",
+      "id": "model-cc6a84124b69361ca7fe",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "0.5x7x12 mm - BB005.stp",
+      "parent_asset_id": "archive-ecbcee4626f135f65bec",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "930390b4139d9470649640c0913bb4c28fbe139d94d7041d6c32b31ceb764202",
+      "size": 160542,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/BT2.6x8 SHCS -AA004/BT2.6x8 SHCS -AA004.stl",
+      "blob_path": "data/blobs/sha256/a7/a79fe7cd525d384ce6581b85768b1e050a020590294f93635bb52ca8a0dfb814.stl",
+      "id": "model-692fe7e191ac20bcbb1d",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "BT2.6x8 SHCS -AA004.stl",
+      "parent_asset_id": "archive-ecbcee4626f135f65bec",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a79fe7cd525d384ce6581b85768b1e050a020590294f93635bb52ca8a0dfb814",
+      "size": 188384,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/BT2.6x8 SHCS -AA004/BT2.6x8 SHCS -AA004.stp",
+      "blob_path": "data/blobs/sha256/0c/0ca32a85823b1c13d3c89f0d4b74a77f861846491567b0d6ce3521a1b2b6295e.stp",
+      "id": "model-8d1527324e88a11afa8d",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "BT2.6x8 SHCS -AA004.stp",
+      "parent_asset_id": "archive-ecbcee4626f135f65bec",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "0ca32a85823b1c13d3c89f0d4b74a77f861846491567b0d6ce3521a1b2b6295e",
+      "size": 133465,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/D4x2mm - CA001/4x2mm - CA001.stl",
+      "blob_path": "data/blobs/sha256/63/63d4635c778da1b8e521faae9b418e182bd290b35b7a62e3a13fc90d7b66b98b.stl",
+      "id": "model-fedfde7aeba0220426c9",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "4x2mm - CA001.stl",
+      "parent_asset_id": "archive-ecbcee4626f135f65bec",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "63d4635c778da1b8e521faae9b418e182bd290b35b7a62e3a13fc90d7b66b98b",
+      "size": 162684,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/D4x2mm - CA001/4x2mm - CA001.stp",
+      "blob_path": "data/blobs/sha256/17/17fe4b9a0c6b015ce13266a64c337efb1b32c3151890e37f4fb711fbe50bf968.stp",
+      "id": "model-0d55de18466e3daaec68",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "4x2mm - CA001.stp",
+      "parent_asset_id": "archive-ecbcee4626f135f65bec",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "17fe4b9a0c6b015ce13266a64c337efb1b32c3151890e37f4fb711fbe50bf968",
+      "size": 27647,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/M3 Socket Head Cap Machine Screws (SHCS)/M3x23 SHCS - AA003/M3x23 SHCS - AA003.stl",
+      "blob_path": "data/blobs/sha256/d8/d879032581b81692262758f60aab20767d16fa222b5ac73d99c1990f1126c5f8.stl",
+      "id": "model-06f37daecab26e105562",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "M3x23 SHCS - AA003.stl",
+      "parent_asset_id": "archive-ecbcee4626f135f65bec",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "d879032581b81692262758f60aab20767d16fa222b5ac73d99c1990f1126c5f8",
+      "size": 736984,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/M3 Socket Head Cap Machine Screws (SHCS)/M3x23 SHCS - AA003/M3x23 SHCS - AA003.stp",
+      "blob_path": "data/blobs/sha256/75/7534a25c3eb13f6bb65f9b3a418d4903694388b93e52a50ba75741deeeb7ffdf.stp",
+      "id": "model-9cc9e511f9b2caeaa0e6",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "M3x23 SHCS - AA003.stp",
+      "parent_asset_id": "archive-ecbcee4626f135f65bec",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "7534a25c3eb13f6bb65f9b3a418d4903694388b93e52a50ba75741deeeb7ffdf",
+      "size": 86399,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/TT Motor (DC5V 59RPM CCW Single Axis)/TT Motor - LA001.stl",
+      "blob_path": "data/blobs/sha256/aa/aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c.stl",
+      "id": "model-ef4ed99e8e3f7a47aba6",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "TT Motor - LA001.stl",
+      "parent_asset_id": "archive-ecbcee4626f135f65bec",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c",
+      "size": 4143684,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "archive_member_path": "3D Model/TT Motor (DC5V 59RPM CCW Single Axis)/TT Motor - LA001.stp",
+      "blob_path": "data/blobs/sha256/a0/a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c.stp",
+      "id": "model-90fbbe123dd8f571bfc9",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "TT Motor - LA001.stp",
+      "parent_asset_id": "archive-ecbcee4626f135f65bec",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c",
+      "size": 199317,
+      "source_url": "https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/31/3178e05267bf759e230c0d29b6103ab5aa0d6dcf71f4e95a905e6068c7e634e7.png",
+      "id": "image-display-ec6c702e8da827168b92",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "7457d31e0ff1c60d679e60fae00761144c04345bc42e33e90c84aa99d1ddadd3",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "EngineModel.catalog.png",
+      "parent_asset_id": "image-cd6a82f10dd8556a4ce3",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "3178e05267bf759e230c0d29b6103ab5aa0d6dcf71f4e95a905e6068c7e634e7",
+      "size": 236745,
+      "source_url": "https://store.bblcdn.com/s6/default/5149a393a19e4e8a8b0ceb6869b60a35/EngineModel.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a2/a2459c2fa827e938e3102481f74bd171e9d8f439bef30fe483619eb9a473350b.png",
+      "id": "image-display-d720fdb17d4f0c8f6941",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "62d94839ab45c8b2fd72ddf4ae22d84578f053990fbbcab91e0072c1675dad26",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "EngineModel_1.catalog.png",
+      "parent_asset_id": "image-7929c7571d1b0b9ad57f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a2459c2fa827e938e3102481f74bd171e9d8f439bef30fe483619eb9a473350b",
+      "size": 957605,
+      "source_url": "https://store.bblcdn.com/s6/default/04cf862868844974a0929941afd0eeb6/EngineModel_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/68/68c0baa1878784ca076474f96aedd9636b03e0dc02890d9b36480d31c616d150.png",
+      "id": "image-display-3fb233e90070f50412de",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "c1712acd15cfc4bdef62fd121d009df136158e079ac660e3d198d45828e9c2f3",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "EngineModel_a194f416-68b7-49b4-8788-6162cdb9ca8b.catalog.png",
+      "parent_asset_id": "image-95f2440b12c9c134c58d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "68c0baa1878784ca076474f96aedd9636b03e0dc02890d9b36480d31c616d150",
+      "size": 74564,
+      "source_url": "https://store.bblcdn.com/s6/default/a72f86656c8547b1bc91453d05b0c345/EngineModel_a194f416-68b7-49b4-8788-6162cdb9ca8b.jpg"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Kits & Bundles"
+  ],
+  "category_assignments": [
+    {
+      "id": "kits",
+      "label": "Kits & Bundles",
+      "path": [
+        "Kits & Bundles"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[7]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of Engine Model and obtain detailed information, please visit the Engine Model on MakerWorld"
+    },
+    {
+      "kind": "heading",
+      "text": "Notes"
+    },
+    {
+      "kind": "bullet",
+      "text": "Please power the device using a USB power supply with the specified voltage."
+    },
+    {
+      "kind": "bullet",
+      "text": "Please test the operation of the mechanism by rotating the control handle before powering. After powering, verify the operational status of the motor and be cautious to prevent motor blockage."
+    },
+    {
+      "kind": "bullet",
+      "text": "It is recommended to use indoors at room temperature."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><!-- 3D Model --><a href=\"https://store.bblcdn.com/s7/default/aab7c5fc4e2744139471dd0377100066/Engine_Model_Components_Kit_-MH005_Model.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <span>3D Model</span> </a></p>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<!-- 文案布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<p> </p>\n<h3 class=\"pct_st\">Overview</h3>\nThe <strong>Engine Model Components Kit</strong> contains all the necessary hardware components for assembling an <strong>Engine Model</strong>. To complete the assembly for an entirely functional piece, users also need to download the model files and 3D print the remaining parts.</div>\n<div class=\"pct_st-p\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">To download the model files of <strong>Engine Model</strong> and obtain detailed information, please visit the <strong>Engine Model</strong> on <a href=\"https://makerworld.com/en/models/14267\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><u>MakerWorld</u></strong></span></a></div>\n</div>\n<img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-mce-fragment=\"1\" data-src=\"https://store.bblcdn.com/s7/default/d6d38afd84bc473798754248b61458cf/EngineModel_7c4ff9e4-5dec-48c5-8e0c-900e95ffd919.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n<div class=\"pct_st-p\"></div>\n<br/><!-- 第三条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Installation</h3>\n</div>\n</div>\n</div>\n<div class=\"embed-container\"><div class=\"VideoWrapper\"><iframe src=\"https://www.youtube.com/embed//wv3qnfMbuko\"></iframe></div></div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\"><strong>In the Box</strong></h3>\n<ol>\n<li><span><span>TT Motor (DC5V 59RPM CCW Single Axis) * 1</span></span></li>\n<li> BT2.6x8 SHCS Self Tapping Screw * 58±4 (44 pcs for assembly, remaining extras can be kept as spares)</li>\n<li> M3x23 SHCS Machine Screw * 2</li>\n<li> 4x2 mm Round Magnet * 16</li>\n<li> 0.5x7x12 mm Helical Compression Spring * 4</li>\n</ol>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"> </div>\n<!-- 第五条 -->\n<h3 class=\"pct_st\">Notes</h3>\n<ol>\n<li><span style=\"color: #000000;\">Please power the device using a USB power supply with the specified voltage.</span></li>\n<li> Please test the operation of the mechanism by rotating the control handle before powering. After powering, verify the operational status of the motor and be cautious to prevent motor blockage.</li>\n<li> <span style=\"color: #000000;\">It is recommended to use indoors at room temperature.</span></li>\n</ol>\n<span style=\"color: #000000;\"></span><span style=\"color: #000000;\"></span></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\"></div>\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\"></div>\n<div class=\"pct pct_mc\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\" style=\"text-align: center;\">Product Specifications</h2>\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Voltage</strong></td>\n<td class=\"pct_td\">DC 5V</td>\n<td class=\"pct_td\"><b>Packaging Size</b></td>\n<td class=\"pct_td\">100*69*35 mm</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-TVTQdZPuioGJLexWAldc5MqgnLd\"><strong>Product Weight</strong></div>\n</div>\n<strong><span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Voltage\"},\"attribs\":{\"0\":\"*0+7\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":171,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":7},\"recordId\":\"TVTQdZPuioGJLexWAldc5MqgnLd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></strong></td>\n<td class=\"pct_td\">79 g</td>\n<td class=\"pct_td\"><strong>Gross Weight</strong></td>\n<td class=\"pct_td\">93 g</td>\n</tr>\n<!-- 第三行 --></tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button></p>\n</div>",
+  "description_text": "To download the model files of Engine Model and obtain detailed information, please visit the Engine Model on MakerWorld\n\nPlease power the device using a USB power supply with the specified voltage.\n\nPlease test the operation of the mechanism by rotating the control handle before powering. After powering, verify the operational status of the motor and be cautious to prevent motor blockage.\n\nIt is recommended to use indoors at room temperature.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "mh005-engine-model-components-kit-005",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Engine Model Components Kit 005",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/engine-model-components-kit-005?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/engine-model-components-kit-005?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/engine-model-components-kit-005?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/engine-model-components-kit-005?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/engine-model-components-kit-005?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1650",
+      "region": "jp",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://jp.store.bambulab.com/en/products/engine-model-components-kit-005?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/engine-model-components-kit-005?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "MH005"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Engine Model",
+      "url": "https://makerworld.com/en/models/14267"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "41123227926588",
+    "41402221199475",
+    "41806962688136",
+    "44239533015203",
+    "45529584697584",
+    "47895575757148",
+    "708906548470779905"
+  ],
+  "source_tables": [
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/engine-model-components-kit-005?id=41806962688136"
+      },
+      "rows": [
+        [
+          "Voltage",
+          "DC 5V",
+          "Packaging Size",
+          "100*69*35 mm"
+        ],
+        [
+          "Product Weight",
+          "79 g",
+          "Gross Weight",
+          "93 g"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/496f51484fbe4227abe0a83389380c4e/EngineModel_1.png",
+      "part_number": "MH005",
+      "price": "11",
+      "region": "us",
+      "sku": "41806962688136",
+      "title": "Engine Model Components Kit 005 - Engine Model Components Kit (1pcs)-MH005",
+      "url": "https://us.store.bambulab.com/products/engine-model-components-kit-005?id=41806962688136",
+      "variant_id": "41806962688136"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/9be1989f18754cc180359fb4d3e05776.png",
+      "part_number": "MH005",
+      "price": "13",
+      "region": "ca",
+      "sku": "45529584697584",
+      "title": "Engine Model Components Kit 005 - Engine Model Components Kit (1pcs)-MH005",
+      "url": "https://ca.store.bambulab.com/products/engine-model-components-kit-005?id=45529584697584",
+      "variant_id": "45529584697584"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/8d74a9f38b6147c69ee3123e2ced2018/EngineModel_1.png",
+      "part_number": "MH005",
+      "price": "11",
+      "region": "eu",
+      "sku": "47895575757148",
+      "title": "Engine Model Components Kit 005 - Engine Model Components Kit (1pcs)-MH005",
+      "url": "https://eu.store.bambulab.com/products/engine-model-components-kit-005?id=47895575757148",
+      "variant_id": "47895575757148"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/727eb0e1c9ab4dbe8d6c2bc3efdf56b1.png",
+      "part_number": "MH005",
+      "price": "10",
+      "region": "uk",
+      "sku": "41123227926588",
+      "title": "Engine Model Components Kit 005 - Engine Model Components Kit (1pcs)-MH005",
+      "url": "https://uk.store.bambulab.com/products/engine-model-components-kit-005?id=41123227926588",
+      "variant_id": "41123227926588"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/768b014c0ef74d628323566f83f2c055.png",
+      "part_number": "MH005",
+      "price": "17",
+      "region": "au",
+      "sku": "44239533015203",
+      "title": "Engine Model Components Kit 005 - Engine Model Components Kit (1pcs)-MH005",
+      "url": "https://au.store.bambulab.com/products/engine-model-components-kit-005?id=44239533015203",
+      "variant_id": "44239533015203"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "image_url": "https://store.bblcdn.com/s6/default/5149a393a19e4e8a8b0ceb6869b60a35/EngineModel.png",
+      "price": "1650",
+      "region": "jp",
+      "sku": "708906548470779905",
+      "title": "エンジンモデルコンポーネントキット005 - スタンダード",
+      "url": "https://jp.store.bambulab.com/products/engine-model-components-kit-005?id=708906548470779905",
+      "variant_id": "708906548470779905"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494432843461709824.png",
+      "part_number": "MH005",
+      "price": "10",
+      "region": "asia",
+      "sku": "41402221199475",
+      "title": "Engine Model Components Kit 005 - Engine Model Components Kit (1pcs)-MH005",
+      "url": "https://asia.store.bambulab.com/products/engine-model-components-kit-005?id=41402221199475",
+      "variant_id": "41402221199475"
+    }
+  ]
+}

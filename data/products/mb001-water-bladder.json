@@ -1,0 +1,581 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "water-bladder",
+      "product_id": "8337019633800",
+      "region": "us"
+    },
+    {
+      "handle": "water-bladder",
+      "product_id": "9000694644976",
+      "region": "ca"
+    },
+    {
+      "handle": "water-bladder",
+      "product_id": "9548060164444",
+      "region": "eu"
+    },
+    {
+      "handle": "water-bladder",
+      "product_id": "7772690481212",
+      "region": "uk"
+    },
+    {
+      "handle": "water-bladder",
+      "product_id": "8577134166179",
+      "region": "au"
+    },
+    {
+      "handle": "water-bladder",
+      "product_id": "505172405065625600",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/c5/c5953edd79edcff6aa6e902f91282abb33a1ea20a56ff4358e59d93bd0faf3ef.png",
+      "id": "image-c6f038c0ba110ba61d66",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "7b0d634e4ca34ddf906690755b327806.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c5953edd79edcff6aa6e902f91282abb33a1ea20a56ff4358e59d93bd0faf3ef",
+      "size": 374229,
+      "source_url": "https://store.bblcdn.com/7b0d634e4ca34ddf906690755b327806.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/36/3631e2adfa9e0ffb96f2ff9e54cf1f7c54b8d29b02103850fb00d48e74617353.png",
+      "id": "image-84b2493deb19765e8919",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "c568b52113a648e79303b5291c489067.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "3631e2adfa9e0ffb96f2ff9e54cf1f7c54b8d29b02103850fb00d48e74617353",
+      "size": 1360793,
+      "source_url": "https://store.bblcdn.com/c568b52113a648e79303b5291c489067.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c7/c79c65a4c1dc770d92367a5f79526981eb790c5f619e258307085293f0c91e6f.png",
+      "id": "image-de410c21462943d6c742",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "9d9d0ce458c34e469c595400b071952b.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c79c65a4c1dc770d92367a5f79526981eb790c5f619e258307085293f0c91e6f",
+      "size": 82650,
+      "source_url": "https://store.bblcdn.com/9d9d0ce458c34e469c595400b071952b.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/55/5591ba9b662ea3db7a06f38a87855fc167f520b6c9b291785187e4f7ed02ad6e.png",
+      "id": "image-b696a2a4ab71ae40531a",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "MB001.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5591ba9b662ea3db7a06f38a87855fc167f520b6c9b291785187e4f7ed02ad6e",
+      "size": 669425,
+      "source_url": "https://store.bblcdn.com/s2/default/a87db0a5420b4ba3b76824f76ff527ff/MB001.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a3/a3b8a09dde7f724aa6ca36a4acad54aa7e518324cce3860bb7f1c2633da748ed.zip",
+      "id": "archive-3713fea6e6d878d9c425",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Water_Bladder.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a3b8a09dde7f724aa6ca36a4acad54aa7e518324cce3860bb7f1c2633da748ed",
+      "size": 3658726,
+      "source_url": "https://store.bblcdn.com/s7/default/08301fccb66d4d748f278bba078bf1b0/Water_Bladder.zip"
+    },
+    {
+      "archive_member_path": "Water Bladder/Water Bladder B-MB001.stl",
+      "blob_path": "data/blobs/sha256/e5/e57f02ad8a2718a6364a1d0a07cd7294455316029233319ad241baa26f4b34aa.stl",
+      "id": "model-a48869c2be122240f75e",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Water Bladder B-MB001.stl",
+      "parent_asset_id": "archive-3713fea6e6d878d9c425",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "e57f02ad8a2718a6364a1d0a07cd7294455316029233319ad241baa26f4b34aa",
+      "size": 8159384,
+      "source_url": "https://store.bblcdn.com/s7/default/08301fccb66d4d748f278bba078bf1b0/Water_Bladder.zip"
+    },
+    {
+      "archive_member_path": "Water Bladder/Water Bladder B-MB001.stp",
+      "blob_path": "data/blobs/sha256/c0/c0cb2a278523f1ac77ee219d56eec4af83bfbce940791259182f764a8b7ec88e.stp",
+      "id": "model-efff4f1157e3e4e11d42",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Water Bladder B-MB001.stp",
+      "parent_asset_id": "archive-3713fea6e6d878d9c425",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "c0cb2a278523f1ac77ee219d56eec4af83bfbce940791259182f764a8b7ec88e",
+      "size": 904226,
+      "source_url": "https://store.bblcdn.com/s7/default/08301fccb66d4d748f278bba078bf1b0/Water_Bladder.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4c/4c7edbead1bcf8c30747edc76382512b215f292f2cb1a43369a41b6fd237f8e0.png",
+      "id": "image-display-2f3d93914cd2d952712f",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "c5953edd79edcff6aa6e902f91282abb33a1ea20a56ff4358e59d93bd0faf3ef",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "7b0d634e4ca34ddf906690755b327806.catalog.png",
+      "parent_asset_id": "image-c6f038c0ba110ba61d66",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4c7edbead1bcf8c30747edc76382512b215f292f2cb1a43369a41b6fd237f8e0",
+      "size": 85098,
+      "source_url": "https://store.bblcdn.com/7b0d634e4ca34ddf906690755b327806.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/96/96b658ee003849d275633c536a33f39433e6faf4ba5ccdbdcf73f83db9215b72.png",
+      "id": "image-display-bbdb07992725e8d77788",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "3631e2adfa9e0ffb96f2ff9e54cf1f7c54b8d29b02103850fb00d48e74617353",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "c568b52113a648e79303b5291c489067.catalog.png",
+      "parent_asset_id": "image-84b2493deb19765e8919",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "96b658ee003849d275633c536a33f39433e6faf4ba5ccdbdcf73f83db9215b72",
+      "size": 1174733,
+      "source_url": "https://store.bblcdn.com/c568b52113a648e79303b5291c489067.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a0/a02bb769cdf683f748568b596f845bebf1a8da6a35cac552094b50ede690f174.png",
+      "id": "image-display-a21e9b02de2213655157",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 202,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "c79c65a4c1dc770d92367a5f79526981eb790c5f619e258307085293f0c91e6f",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "9d9d0ce458c34e469c595400b071952b.catalog.png",
+      "parent_asset_id": "image-de410c21462943d6c742",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a02bb769cdf683f748568b596f845bebf1a8da6a35cac552094b50ede690f174",
+      "size": 67984,
+      "source_url": "https://store.bblcdn.com/9d9d0ce458c34e469c595400b071952b.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/1e/1e9ab74a931233dd06397b878f98b3c586ab9652844492c639a6dbf7974b948f.png",
+      "id": "image-display-570f5c65ea28a25477d6",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "5591ba9b662ea3db7a06f38a87855fc167f520b6c9b291785187e4f7ed02ad6e",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "MB001.catalog.png",
+      "parent_asset_id": "image-b696a2a4ab71ae40531a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1e9ab74a931233dd06397b878f98b3c586ab9652844492c639a6dbf7974b948f",
+      "size": 556771,
+      "source_url": "https://store.bblcdn.com/s2/default/a87db0a5420b4ba3b76824f76ff527ff/MB001.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Mechanical Components"
+  ],
+  "category_assignments": [
+    {
+      "id": "mechanical",
+      "label": "Mechanical Components",
+      "path": [
+        "Hardware",
+        "Mechanical Components"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[9]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This eco-friendly water bladder is designed to be lightweight and foldable, saving space and making it ideal for outdoor activities or everyday use. Made from TPU, the material boasts excellent wear resistance, durability in low temperatures, and superior flexibility. It is also safe and free from harmful substances, offering a reliable and healthy choice for hydration."
+    },
+    {
+      "kind": "heading",
+      "text": "Product Feature"
+    },
+    {
+      "kind": "bullet",
+      "text": "Lightweight, Foldable, and Space-Saving: Compact and lightweight design that folds for easy storage, saving space—perfect for outdoor adventures, hiking, and daily use."
+    },
+    {
+      "kind": "bullet",
+      "text": "Durable, Leak-Proof, and Secure Threaded Design: Made with high-strength TPU material and a threaded interface for a leak-proof and durable design, ensuring a worry-free experience."
+    },
+    {
+      "kind": "bullet",
+      "text": "Eco-Friendly, Safe, and Comfortable to Handle: Made from eco-friendly TPU and silicone materials, it is soft, flexible, and comfortable to use, making it suitable for various environments."
+    },
+    {
+      "kind": "heading",
+      "text": "Considerations"
+    },
+    {
+      "kind": "bullet",
+      "text": "Avoid Long-Term Liquid Storage. Long-term liquid storage may lead to bacterial growth. Clean and air-dry the bladder after each use."
+    },
+    {
+      "kind": "bullet",
+      "text": "The water bladder is not suitable for sugary drinks, as they can promote bacterial growth, mold, and odors, nor is it recommended for alcoholic beverages, which may affect the seal."
+    },
+    {
+      "kind": "bullet",
+      "text": "Additionally, avoid using hot liquids, as they can damage the water bladder, reduce its lifespan, or cause burns."
+    },
+    {
+      "kind": "heading",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "kind": "bullet",
+      "text": "What should I do if the water bladder has an odor when first used? While the material of the water bladder is odorless, a slight smell may develop due to prolonged storage or sealing. To remove the odor, soak the bladder in a solution of lemon water or saline water for about an hour. Afterward, clean it thoroughly with warm water and let it air dry completely."
+    },
+    {
+      "kind": "bullet",
+      "text": "Can the water bladder hold boiling water? The water bladder is designed to hold warm water, but it is recommended to keep the temperature below 55°C (131°F). Introducing boiling water (100°C or 212°F) may cause deformation, thermal damage, or reduce the product's lifespan."
+    },
+    {
+      "kind": "bullet",
+      "text": "What is the best way to clean the water bladder? Hand-wash the water bladder with warm water and a mild detergent. Avoid using a dishwasher, as high temperatures may damage the material. After washing, ensure the bladder is air-dried completely to prevent moisture buildup and potential mold growth."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\"></h2>\n<p> </p>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a href=\"https://store.bblcdn.com/s7/default/08301fccb66d4d748f278bba078bf1b0/Water_Bladder.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"><img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> 3D Model </a></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<p> </p>\n<h2 class=\"pct_t\">Introduction</h2>\n<h2 class=\"pct_st\"></h2>\n<p>This eco-friendly water bladder is designed to be lightweight and foldable, saving space and making it ideal for outdoor activities or everyday use. Made from TPU, the material boasts excellent wear resistance, durability in low temperatures, and superior flexibility. It is also safe and free from harmful substances, offering a reliable and healthy choice for hydration.</p>\n<p> </p>\n<p> </p>\n<h2 class=\"pct_t\" style=\"text-align: center;\">Product Feature</h2>\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"V1EsdH1SWoZjxaxlwzpcRSchnqh\">\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-IESydTIkjoRMLpxFaopc4M00nZc\" data-list=\"bullet\">\n<div><strong>Lightweight, Foldable, and Space-Saving</strong>: Compact and lightweight design that folds for easy storage, saving space—perfect for outdoor adventures, hiking, and daily use.</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-M7ovdF1ONoKGKnxEEK0cc5C1nCg\" data-list=\"bullet\">\n<div><strong>Durable, Leak-Proof, and Secure Threaded Design</strong>: Made with high-strength TPU material and a threaded interface for a leak-proof and durable design, ensuring a worry-free experience.</div>\n</li>\n<li class=\"ace-line ace-line old-record-id-MjvRdHZ5soCnxRxiDY3cdYlHnRc\" data-list=\"bullet\">\n<div><strong>Eco-Friendly, Safe, and Comfortable to Handle</strong>: Made from eco-friendly TPU and silicone materials, it is soft, flexible, and comfortable to use, making it suitable for various environments.</div>\n</li>\n</ul>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 99.9987%; height: 125.5px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.5833px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 19.5833px;\"><strong> Models</strong></td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 19.5833px;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 19.5833px;\"><b>Model Links</b></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 47.1667px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 47.1667px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">Mushroom Bottle</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 47.1667px;\">\n<p>wuguigui</p>\n</td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 47.1667px;\"><a href=\"https://makerworld.com/en/models/707864?from=search#profileId-638000\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Mushroom Bottle</span></strong></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 47.1667px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 47.1667px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">Trailblazer's Scarlet Gourd</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 47.1667px;\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"Kurvd84oLoTYrYx6ldHcoTFFnZc\">\n<div class=\"ace-line ace-line old-record-id-Yr7odFx8MoboTNxM4qtckijAnvg\">DaDaLand</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 47.1667px;\"><strong><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/707864?from=search#profileId-638000\" rel=\"noopener\" target=\"_blank\"></a><a href=\"https://makerworld.com/en/models/606439?from=search#profileId-531272\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Trailblazer's Scarlet Gourd</a></span></strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p> </p>\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_t\">Product Specification</h2>\n<table class=\"pct_tb\" style=\"border-color: #adadad; font-weight: bold;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 55px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; text-align: center; padding: 10px !important; height: 55px; width: 180.449px;\">\n<div>Product ID</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; padding: 10px !important; height: 55px; width: 159.023px;\">\n<div><span></span><span></span><span>L (cm)</span></div>\n<p><span></span><span></span><span>Length</span></p>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; padding: 10px !important; height: 55px; width: 159.023px;\">\n<div><span></span><span></span><span>W (cm)</span></div>\n<p><span></span><span></span><span>Width</span></p>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; padding: 10px !important; width: 180.449px;\"><span></span><span></span><span>MB001</span></td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important; width: 159.023px;\">22.8</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; padding: 10px !important; width: 159.023px;\">9</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<h2 class=\"pct_st\"></h2>\n<p> </p>\n<h2 class=\"pct_t\">Basic Information</h2>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\"><!-- 第一条 -->\n<div class=\"pct_ic-p\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0px; font-weight: bold; height: 58.7814px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><span>Temperature</span></td>\n<td class=\"pct_td\" style=\"width: 54.8413%;\"><span>-20℃ to 55℃</span></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><span></span><span></span><span>Weight</span></td>\n<td class=\"pct_td\" style=\"width: 54.8413%;\"><span></span><span></span><span>50 g</span></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><span></span><span></span><span>Mouth Type</span></td>\n<td class=\"pct_td\" style=\"width: 54.8413%;\"><span></span><span></span>Pull-out Silicone Mouth</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 --></div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\"><!-- 表头 -->\n<tbody>\n<tr>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><span></span><span></span><span>Color</span></td>\n<td class=\"pct_td\"><span></span><span></span><span>Gray </span></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><span></span><span></span><span>Material</span></td>\n<td class=\"pct_td\"><span></span><span></span><span>TPU (Body) + Silicone ( Mouthpiece)</span></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><span></span><span></span><span>Capacity</span></td>\n<td class=\"pct_td\"><span></span><span></span><span>350 ML</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 --></div>\n</div>\n<!-- 如需添加在此处添加 --></div>\n</div>\n</div>\n<!-- 标题加文案结束 --></div>\n<!-- 如需添加在此处添加 --></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<div data-docx-has-block-data=\"false\" data-lark-html-role=\"root\" data-page-id=\"V1EsdH1SWoZjxaxlwzpcRSchnqh\"></div>\n<p> </p>\n<h2 class=\"pct_t\">Considerations</h2>\n<p> </p>\n<div class=\"pct_st-p\">\n<ul class=\"list-bullet1\">\n<li class=\"ace-line ace-line old-record-id-C7ACd0kGbo31IjxVolmca9l6nTf\" data-list=\"bullet\">Avoid Long-Term Liquid Storage. Long-term liquid storage may lead to bacterial growth. Clean and air-dry the bladder after each use.</li>\n<li class=\"ace-line ace-line old-record-id-RoJqddxgJoenInxxBbUcA3pznoh\" data-list=\"bullet\">The water bladder is not suitable for sugary drinks, as they can promote bacterial growth, mold, and odors, nor is it recommended for alcoholic beverages, which may affect the seal. </li>\n<li class=\"ace-line ace-line old-record-id-SnQCdnflPo02ttxI4nicsCbsnLe\" data-list=\"bullet\">Additionally, avoid using hot liquids, as they can damage the water bladder, reduce its lifespan, or cause burns.</li>\n</ul>\n<p> </p>\n<h2 class=\"pct_t\">Frequently Asked Questions</h2>\n<p> </p>\n<ol>\n<li>\n<p><strong>What should I do if the water bladder has an odor when first used?</strong><br/>While the material of the water bladder is odorless, a slight smell may develop due to prolonged storage or sealing. To remove the odor, soak the bladder in a solution of lemon water or saline water for about an hour. Afterward, clean it thoroughly with warm water and let it air dry completely.</p>\n</li>\n<li>\n<p><strong>Can the water bladder hold boiling water?</strong><br/>The water bladder is designed to hold warm water, but it is recommended to keep the temperature below 55°C (131°F). Introducing boiling water (100°C or 212°F) may cause deformation, thermal damage, or reduce the product's lifespan.</p>\n</li>\n<li><strong> What is the best way to clean the water bladder?</strong><br/>Hand-wash the water bladder with warm water and a mild detergent. Avoid using a dishwasher, as high temperatures may damage the material. After washing, ensure the bladder is air-dried completely to prevent moisture buildup and potential mold growth.</li>\n</ol>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<p> </p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\"></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<p> </p>\n</div>\n</div>",
+  "description_text": "This eco-friendly water bladder is designed to be lightweight and foldable, saving space and making it ideal for outdoor activities or everyday use. Made from TPU, the material boasts excellent wear resistance, durability in low temperatures, and superior flexibility. It is also safe and free from harmful substances, offering a reliable and healthy choice for hydration.\n\nLightweight, Foldable, and Space-Saving: Compact and lightweight design that folds for easy storage, saving space—perfect for outdoor adventures, hiking, and daily use.\n\nDurable, Leak-Proof, and Secure Threaded Design: Made with high-strength TPU material and a threaded interface for a leak-proof and durable design, ensuring a worry-free experience.\n\nEco-Friendly, Safe, and Comfortable to Handle: Made from eco-friendly TPU and silicone materials, it is soft, flexible, and comfortable to use, making it suitable for various environments.\n\nAvoid Long-Term Liquid Storage. Long-term liquid storage may lead to bacterial growth. Clean and air-dry the bladder after each use.\n\nThe water bladder is not suitable for sugary drinks, as they can promote bacterial growth, mold, and odors, nor is it recommended for alcoholic beverages, which may affect the seal.\n\nAdditionally, avoid using hot liquids, as they can damage the water bladder, reduce its lifespan, or cause burns.\n\nWhat should I do if the water bladder has an odor when first used? While the material of the water bladder is odorless, a slight smell may develop due to prolonged storage or sealing. To remove the odor, soak the bladder in a solution of lemon water or saline water for about an hour. Afterward, clean it thoroughly with warm water and let it air dry completely.\n\nCan the water bladder hold boiling water? The water bladder is designed to hold warm water, but it is recommended to keep the temperature below 55°C (131°F). Introducing boiling water (100°C or 212°F) may cause deformation, thermal damage, or reduce the product's lifespan.\n\nWhat is the best way to clean the water bladder? Hand-wash the water bladder with warm water and a mild detergent. Avoid using a dishwasher, as high temperatures may damage the material. After washing, ensure the bladder is air-dried completely to prevent moisture buildup and potential mold growth.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "mb001-water-bladder",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "L (cm) Length",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:L (cm) Length",
+        "source_url": "https://us.store.bambulab.com/products/water-bladder?id=42869972402312"
+      },
+      "raw_value": "22.8"
+    },
+    {
+      "label": "W (cm) Width",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:W (cm) Width",
+        "source_url": "https://us.store.bambulab.com/products/water-bladder?id=42869972402312"
+      },
+      "raw_value": "9"
+    }
+  ],
+  "name": "Water Bladder",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.39",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/water-bladder?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17.71",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/water-bladder?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "14.49",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/water-bladder?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.31",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/water-bladder?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "27.8",
+      "region": "au",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://au.store.bambulab.com/en/products/water-bladder?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/water-bladder?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "MB001"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Mushroom Bottle",
+      "url": "https://makerworld.com/en/models/707864?from=search#profileId-638000"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Trailblazer's Scarlet Gourd",
+      "url": "https://makerworld.com/en/models/606439?from=search#profileId-531272"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42138004226108",
+    "42869972402312",
+    "45147370586275",
+    "46527073911024",
+    "49267161923932",
+    "505172405069819905"
+  ],
+  "source_tables": [
+    {
+      "caption": "Product Feature",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/water-bladder?id=42869972402312"
+      },
+      "rows": [
+        [
+          "Models",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "Mushroom Bottle",
+          "wuguigui",
+          "Mushroom Bottle"
+        ],
+        [
+          "Trailblazer's Scarlet Gourd",
+          "DaDaLand",
+          "Trailblazer's Scarlet Gourd"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specification",
+      "headers": [
+        "Product ID",
+        "L (cm) Length",
+        "W (cm) Width"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/water-bladder?id=42869972402312"
+      },
+      "rows": [
+        [
+          "MB001",
+          "22.8",
+          "9"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/water-bladder?id=42869972402312"
+      },
+      "rows": [
+        [
+          "Temperature",
+          "-20℃ to 55℃"
+        ],
+        [
+          "Weight",
+          "50 g"
+        ],
+        [
+          "Mouth Type",
+          "Pull-out Silicone Mouth"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:3",
+        "source_url": "https://us.store.bambulab.com/products/water-bladder?id=42869972402312"
+      },
+      "rows": [
+        [
+          "Color",
+          "Gray"
+        ],
+        [
+          "Material",
+          "TPU (Body) + Silicone ( Mouthpiece)"
+        ],
+        [
+          "Capacity",
+          "350 ML"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Capacity": "350 ML",
+    "Color": "Gray",
+    "L (cm) Length": "22.8",
+    "Material": "TPU (Body) + Silicone ( Mouthpiece)",
+    "Mouth Type": "Pull-out Silicone Mouth",
+    "Product ID": "MB001",
+    "Temperature": "-20℃ to 55℃",
+    "W (cm) Width": "9",
+    "Weight": "50 g"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/ec2dd2f0dd6a4a259bbf3d34b9f4fd8c/4444507.png",
+      "part_number": "MB001",
+      "price": "15.39",
+      "region": "us",
+      "sku": "42869972402312",
+      "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
+      "url": "https://us.store.bambulab.com/products/water-bladder?id=42869972402312",
+      "variant_id": "42869972402312"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/d0913cfdb1c942bcabfe571dbb4896d5.png",
+      "part_number": "MB001",
+      "price": "17.71",
+      "region": "ca",
+      "sku": "46527073911024",
+      "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
+      "url": "https://ca.store.bambulab.com/products/water-bladder?id=46527073911024",
+      "variant_id": "46527073911024"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/9bfd959b17984349b9342c6ee0da108e/4444507.png",
+      "part_number": "MB001",
+      "price": "14.49",
+      "region": "eu",
+      "sku": "49267161923932",
+      "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
+      "url": "https://eu.store.bambulab.com/products/water-bladder?id=49267161923932",
+      "variant_id": "49267161923932"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/ee3edf3d50ae498c8292c36118145d1a.png",
+      "part_number": "MB001",
+      "price": "12.31",
+      "region": "uk",
+      "sku": "42138004226108",
+      "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
+      "url": "https://uk.store.bambulab.com/products/water-bladder?id=42138004226108",
+      "variant_id": "42138004226108"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/7b0d634e4ca34ddf906690755b327806.png",
+      "part_number": "MB001",
+      "price": "27.8",
+      "region": "au",
+      "sku": "45147370586275",
+      "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
+      "url": "https://au.store.bambulab.com/products/water-bladder?id=45147370586275",
+      "variant_id": "45147370586275"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/d335c1b042444731b8f57e14b247bff6.png",
+      "part_number": "MB001",
+      "price": "13.99",
+      "region": "asia",
+      "sku": "505172405069819905",
+      "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
+      "url": "https://asia.store.bambulab.com/products/water-bladder?id=505172405069819905",
+      "variant_id": "505172405069819905"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "halloween-ghost-night-light",
+      "product_id": "8351079956616",
+      "region": "us"
+    },
+    {
+      "handle": "halloween-ghost-night-light",
+      "product_id": "9021791437040",
+      "region": "ca"
+    },
+    {
+      "handle": "halloween-ghost-night-light",
+      "product_id": "9580948062556",
+      "region": "eu"
+    },
+    {
+      "handle": "halloween-ghost-night-light",
+      "product_id": "7786793992252",
+      "region": "uk"
+    },
+    {
+      "handle": "halloween-ghost-night-light",
+      "product_id": "510356783938686976",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/f4/f43118a711f7de56ad0c099702e9b6375ddd7f1d5c3ec1fcf247f4dd48ecb081.jpg",
+      "id": "image-c26c2ef963b7c6f293ea",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "68bb7f22ab404c1b9afb28e5f164ed0e.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "f43118a711f7de56ad0c099702e9b6375ddd7f1d5c3ec1fcf247f4dd48ecb081",
+      "size": 124491,
+      "source_url": "https://store.bblcdn.com/s5/default/68bb7f22ab404c1b9afb28e5f164ed0e.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d2/d2f210d55180d34cdab429bc93daea6526c4a141fb2b1bc12ab53649a8fa220b.png",
+      "id": "image-10a1df7f152a39783115",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "2612fa0ea1ce43a5bf37f0b5fa399947.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d2f210d55180d34cdab429bc93daea6526c4a141fb2b1bc12ab53649a8fa220b",
+      "size": 216742,
+      "source_url": "https://store.bblcdn.com/s5/default/2612fa0ea1ce43a5bf37f0b5fa399947.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5d/5deb80e2a5711b1d368f236eee14cb2fe3c081bce5eb16af3b0b413dda5931c0.png",
+      "id": "image-display-1c6192f17ed48f7b9641",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "f43118a711f7de56ad0c099702e9b6375ddd7f1d5c3ec1fcf247f4dd48ecb081",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "68bb7f22ab404c1b9afb28e5f164ed0e.catalog.png",
+      "parent_asset_id": "image-c26c2ef963b7c6f293ea",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5deb80e2a5711b1d368f236eee14cb2fe3c081bce5eb16af3b0b413dda5931c0",
+      "size": 669773,
+      "source_url": "https://store.bblcdn.com/s5/default/68bb7f22ab404c1b9afb28e5f164ed0e.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/45/450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037.png",
+      "id": "image-display-0a4a0deb75141d9fe847",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1601,
+        "source_sha256": "d2f210d55180d34cdab429bc93daea6526c4a141fb2b1bc12ab53649a8fa220b",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "2612fa0ea1ce43a5bf37f0b5fa399947.catalog.png",
+      "parent_asset_id": "image-10a1df7f152a39783115",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037",
+      "size": 69316,
+      "source_url": "https://store.bblcdn.com/s5/default/2612fa0ea1ce43a5bf37f0b5fa399947.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "kc008-led-flame-tea-light-candle-set-warm-yellow",
+      "name": "LED Flame Tea Light Candle Set Warm Yellow (12pcs) - KC008",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Halloween Ghost Night Light. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of the Halloween Ghost Night Light and obtain detailed information, please visit the Halloween Ghost Night Light on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The product contains all the <strong data-mce-fragment=\"1\">non-3D printed</strong> parts for assembling an entirely functional <strong data-mce-fragment=\"1\">Halloween Ghost Night Light</strong>. To complete the work, you also need to download the <strong data-mce-fragment=\"1\">model files</strong> and <strong data-mce-fragment=\"1\">3D print</strong> the remaining parts.<span data-mce-fragment=\"1\"></span></p>\n<div class=\"pct_st-p\">\n<span data-mce-style=\"text-decoration: underline;\" style=\"text-decoration: underline;\"><strong><em><span data-mce-style=\"color: #e60034; text-decoration: underline;\" style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span data-mce-style=\"color: #e60034; text-decoration: underline;\" style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\"><br/></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">\n<span data-mce-fragment=\"1\">To download the model files of the <strong data-mce-fragment=\"1\">Halloween Ghost Night Light</strong></span><span data-mce-fragment=\"1\"> and obtain detailed information, please visit the <strong data-mce-fragment=\"1\">Halloween Ghost Night Light </strong></span><span data-mce-fragment=\"1\">on </span><a data-mce-href=\"https://makerworld.com/zh/models/591656?from=search#profileId-513397\" href=\"https://makerworld.com/zh/models/591656?from=search#profileId-513397\" rel=\"noopener\"><span data-mce-fragment=\"1\" data-mce-style=\"color: #00ae42;\" style=\"color: #00ae42;\"><strong data-mce-fragment=\"1\"><u data-mce-fragment=\"1\">MakerWorld</u></strong></span></a><span data-mce-fragment=\"1\">.</span>\n</div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\"><br/></h3>\n<h3 class=\"pct_st\" data-mce-fragment=\"1\">In the Box</h3>\n<div class=\"pct pct_mc\" data-mce-fragment=\"1\">\n<div class=\"pct_t-tb\" data-mce-fragment=\"1\">\n<table class=\"pct_tb\" data-mce-fragment=\"1\" data-mce-style=\"height: 95px;\" style=\"height: 95px;\">\n<!-- 表头 -->\n<tbody data-mce-fragment=\"1\">\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px;\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 483.42px;\" style=\"height: 19px; width: 483.42px;\"><strong data-mce-fragment=\"1\">Item</strong></td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 48.6285px;\" style=\"height: 19px; width: 48.6285px;\"><strong data-mce-fragment=\"1\">Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px;\" style=\"height: 19px;\">\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 483.42px;\" style=\"height: 19px; width: 483.42px;\">\n<div data-mce-fragment=\"1\">\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>LED Flame Tea Light Candle Set Warm Yellow (12pcs) - KC008</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\" data-mce-fragment=\"1\"></span>\n</td>\n<td class=\"pct_td\" data-mce-fragment=\"1\" data-mce-style=\"height: 19px; width: 48.6285px;\" style=\"height: 19px; width: 48.6285px;\">1<br data-mce-fragment=\"1\"/>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<br/>\n</div>\n<!-- 第五条 -->\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Halloween Ghost Night Light. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Halloween Ghost Night Light and obtain detailed information, please visit the Halloween Ghost Night Light on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "dy006-halloween-ghost-night-light",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Halloween Ghost Night Light",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/halloween-ghost-night-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "12.65",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://ca.store.bambulab.com/en/products/halloween-ghost-night-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10.35",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/halloween-ghost-night-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.79",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/halloween-ghost-night-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/halloween-ghost-night-light?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "DY006",
+    "KC008"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Halloween Ghost Night Light",
+      "url": "https://makerworld.com/zh/models/591656?from=search#profileId-513397"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42167566499900",
+    "42898989351048",
+    "46574699675888",
+    "49349029036380",
+    "510356783938686980"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/halloween-ghost-night-light?id=42898989351048"
+      },
+      "rows": [
+        [
+          "LED Flame Tea Light Candle Set Warm Yellow (12pcs) - KC008",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/3df25fd0d2444f20bd35860e9d5d3ee7/light-5_6b3092f7-b9a0-4e90-958b-9f36c786375e.jpg",
+      "part_number": "DY006",
+      "price": "10.99",
+      "region": "us",
+      "sku": "42898989351048",
+      "title": "Halloween Ghost Night Light - Halloween Ghost Night Light - DY006",
+      "url": "https://us.store.bambulab.com/products/halloween-ghost-night-light?id=42898989351048",
+      "variant_id": "42898989351048"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/68bb7f22ab404c1b9afb28e5f164ed0e.jpg",
+      "part_number": "DY006",
+      "price": "12.65",
+      "region": "ca",
+      "sku": "46574699675888",
+      "title": "Halloween Ghost Night Light - Halloween Ghost Night Light - DY006",
+      "url": "https://ca.store.bambulab.com/products/halloween-ghost-night-light?id=46574699675888",
+      "variant_id": "46574699675888"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/ce171dea9832432e83b9ceb08afc012b/light-5_6b3092f7-b9a0-4e90-958b-9f36c786375e.jpg",
+      "part_number": "DY006",
+      "price": "10.35",
+      "region": "eu",
+      "sku": "49349029036380",
+      "title": "Halloween Ghost Night Light - Halloween Ghost Night Light - DY006",
+      "url": "https://eu.store.bambulab.com/products/halloween-ghost-night-light?id=49349029036380",
+      "variant_id": "49349029036380"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/42b027fab45c41acafaf3ebba2328f50.jpg",
+      "part_number": "DY006",
+      "price": "8.79",
+      "region": "uk",
+      "sku": "42167566499900",
+      "title": "Halloween Ghost Night Light - Halloween Ghost Night Light - DY006",
+      "url": "https://uk.store.bambulab.com/products/halloween-ghost-night-light?id=42167566499900",
+      "variant_id": "42167566499900"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/b9c1c759c24d44c6ae829936651b7363.jpg",
+      "part_number": "DY006",
+      "price": "9.99",
+      "region": "asia",
+      "sku": "510356783938686980",
+      "title": "Halloween Ghost Night Light - Halloween Ghost Night Light - DY006",
+      "url": "https://asia.store.bambulab.com/products/halloween-ghost-night-light?id=510356783938686980",
+      "variant_id": "510356783938686980"
+    }
+  ]
+}

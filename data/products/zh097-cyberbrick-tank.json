@@ -1,0 +1,509 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "cyberbrick-tank",
+      "product_id": "640105792317300736",
+      "region": "us"
+    },
+    {
+      "handle": "cyberbrick-tank",
+      "product_id": "640060542094397440",
+      "region": "ca"
+    },
+    {
+      "handle": "cyberbrick-tank",
+      "product_id": "640106736033546240",
+      "region": "eu"
+    },
+    {
+      "handle": "cyberbrick-tank",
+      "product_id": "640107132424515584",
+      "region": "uk"
+    },
+    {
+      "handle": "cyberbrick-tank",
+      "product_id": "640107699299172352",
+      "region": "au"
+    },
+    {
+      "handle": "cyberbrick-tank",
+      "product_id": "640108182882873344",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/21/2116fe2f9a0e0bdf6a92d18d86a98da35d213cf67e73d5916fce877f6afb52d0.jpg",
+      "id": "image-63a2647ac31b96ffbfc2",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "ZH097_(2).jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2116fe2f9a0e0bdf6a92d18d86a98da35d213cf67e73d5916fce877f6afb52d0",
+      "size": 212119,
+      "source_url": "https://store.bblcdn.com/s5/default/05252b7047b5495fb10e6e87b2f5cd18/ZH097_(2).jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7b/7b21d5ef052bf47ec7d787423f7708ed0ce4e69af0de7ed5fce718f9fa4d9c30.png",
+      "id": "image-d47b1868bb8af253c989",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Group_1312317894.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7b21d5ef052bf47ec7d787423f7708ed0ce4e69af0de7ed5fce718f9fa4d9c30",
+      "size": 2113373,
+      "source_url": "https://store.bblcdn.com/s5/default/84e674029e32454aaded20c8da234667/Group_1312317894.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/8f/8f5d103fd01da1d96f4b4f292c5089fa5438f50882bb517922efd607be7cb0fd.png",
+      "id": "image-display-13d129bad8a72ca6a0b2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "2116fe2f9a0e0bdf6a92d18d86a98da35d213cf67e73d5916fce877f6afb52d0",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH097_(2).catalog.png",
+      "parent_asset_id": "image-63a2647ac31b96ffbfc2",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8f5d103fd01da1d96f4b4f292c5089fa5438f50882bb517922efd607be7cb0fd",
+      "size": 636799,
+      "source_url": "https://store.bblcdn.com/s5/default/05252b7047b5495fb10e6e87b2f5cd18/ZH097_(2).jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/3e/3ed874cbc268a1f91fbfe5de23ef310ecd30abf1918d01a5fcbbedcfbba72140.png",
+      "id": "image-display-7f1fea46643c2cfff475",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "7b21d5ef052bf47ec7d787423f7708ed0ce4e69af0de7ed5fce718f9fa4d9c30",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Group_1312317894.catalog.png",
+      "parent_asset_id": "image-d47b1868bb8af253c989",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "3ed874cbc268a1f91fbfe5de23ef310ecd30abf1918d01a5fcbbedcfbba72140",
+      "size": 618159,
+      "source_url": "https://store.bblcdn.com/s5/default/84e674029e32454aaded20c8da234667/Group_1312317894.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "linked_product_id": "zk003-cyberbrick-hardware-kit",
+      "name": "CyberBrick Ultimate Hardware Kit -ZK003 (2 Remotes, 2 Cars)",
+      "quantity": "1",
+      "source_url": "https://store.bambulab.com/products/cyberbrick-hardware-kit?id=593289489201844227&skr=yes",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "linked_product_id": "zb001-plastic-balls",
+      "name": "14mm Plastic ball (10PCS) - ZB001",
+      "quantity": "2",
+      "source_url": "https://store.bambulab.com/products/plastic-balls?id=45651257491696",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "linked_product_id": "ra001-rubber-bands",
+      "name": "1.4x20mm Basic Rubber Bands (100PCS) - RA002",
+      "quantity": "1",
+      "source_url": "https://store.bambulab.com/products/rubber-bands?id=46239016583408",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Precision 360° Maneuverability"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Navigate tight spaces and outflank opponents with ease. The tank pivots on its axis, offering full rotational control without needing forward momentum. Pinpoint positioning is key to victory."
+    },
+    {
+      "kind": "heading",
+      "text": "Firepower on the Move"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Maintain offensive pressure even while repositioning. The CyberBrick Tank fires 14mm Plastic balls accurately while in motion, keeping targets suppressed as you advance or retreat. Never break your attack rhythm."
+    },
+    {
+      "kind": "heading",
+      "text": "Target Acquisition and Engagement"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Lock onto your objectives and unleash a precise strike. Watch balls fly straight and true, hitting designated targets with satisfying impact. Practice your aim and become a master gunner."
+    },
+    {
+      "kind": "heading",
+      "text": "Rapid-Fire Plastic ball Blaster"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Overwhelm your rivals with a relentless barrage of balls. The integrated blaster fires continuously, ensuring a steady stream of projectiles. Keep the pressure on from start to finish."
+    },
+    {
+      "kind": "heading",
+      "text": "Custom Battlefield Creation"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Design your own tactical arenas with included target and anti-tank obstacle models. Set up challenging scenarios, practice advanced maneuvers, and perfect your strategy. The battlefield is yours to command."
+    },
+    {
+      "kind": "heading",
+      "text": "Remote Control Instruction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Mini Tank is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,"
+    },
+    {
+      "kind": "paragraph",
+      "text": "while the CyberBrick App allows full customization of controller functions to match your personal preferences."
+    },
+    {
+      "kind": "paragraph",
+      "text": "* Please visit the CyberBrick Official Standard Remote on Makerworld for more details."
+    },
+    {
+      "kind": "heading",
+      "text": "CyberBrick App Connection Tutorial"
+    },
+    {
+      "kind": "paragraph",
+      "text": "*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model."
+    },
+    {
+      "kind": "heading",
+      "text": "Core Safety Rules"
+    },
+    {
+      "kind": "bullet",
+      "text": "This product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT touch the moving parts while the device is operating to prevent pinching injuries."
+    },
+    {
+      "kind": "bullet",
+      "text": "Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty."
+    },
+    {
+      "kind": "bullet",
+      "text": "Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards."
+    },
+    {
+      "kind": "heading",
+      "text": "Warning of Lithium Battery"
+    },
+    {
+      "kind": "bullet",
+      "text": "This product utilizes a replaceable rechargeable lithium battery."
+    },
+    {
+      "kind": "bullet",
+      "text": "Adult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging."
+    },
+    {
+      "kind": "bullet",
+      "text": "Ensure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion."
+    },
+    {
+      "kind": "bullet",
+      "text": "Regularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired."
+    },
+    {
+      "kind": "bullet",
+      "text": "Choking Hazard: Contains small parts; not suitable for children under 3 years of age."
+    },
+    {
+      "kind": "bullet",
+      "text": "Improper disposal of this product may harm the environment - please recycle responsibly."
+    },
+    {
+      "kind": "heading",
+      "text": "Charging Precautions"
+    },
+    {
+      "kind": "bullet",
+      "text": "Use only the officially supplied charger. The charger is not a toy."
+    },
+    {
+      "kind": "bullet",
+      "text": "The USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging."
+    },
+    {
+      "kind": "bullet",
+      "text": "If the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge."
+    },
+    {
+      "kind": "heading",
+      "text": "Lithium Battery Safety Precautions"
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT disassemble, crush, or mechanically abuse the battery pack."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT dispose of the battery pack in fire."
+    },
+    {
+      "kind": "bullet",
+      "text": "Exercise extreme caution when handling an overheated battery pack."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Precision 360° Maneuverability</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"module-content\">\n<p class=\"pct_p\" style=\"text-align: left;\">Navigate tight spaces and outflank opponents with ease. The tank pivots on its axis, offering full rotational control without needing forward momentum. Pinpoint positioning is key to victory.</p>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s1/default/5291949cf05c451aaf065609b199ead9/360Turn_in_place.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s1/default/5291949cf05c451aaf065609b199ead9/360Turn_in_place.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s1/default/5291949cf05c451aaf065609b199ead9/360Turn_in_place.mp4\" style=\"width: 100%;\" width=\"300\"></video></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\"><!-- 左图右文案 -->\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_ic\"><!-- 素材部分 --><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s1/default/c212051b98684c0283876b60e0056d27/Shooting_while_moving.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s1/default/c212051b98684c0283876b60e0056d27/Shooting_while_moving.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s1/default/c212051b98684c0283876b60e0056d27/Shooting_while_moving.mp4\" style=\"width: 100%;\" width=\"300\"></video></div>\n<div style=\"flex: 1; min-width: 0; margin-left: 60px; max-width: 480px; box-sizing: border-box;\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Firepower on the Move</h3>\n<p class=\"pct_p\" style=\"text-align: left;\">Maintain offensive pressure even while repositioning. The CyberBrick Tank fires 14mm Plastic balls accurately while in motion, keeping targets suppressed as you advance or retreat. Never break your attack rhythm.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Target Acquisition and Engagement</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"module-content\">\n<p class=\"pct_p\" style=\"text-align: left;\">Lock onto your objectives and unleash a precise strike. Watch balls fly straight and true, hitting designated targets with satisfying impact. Practice your aim and become a master gunner.</p>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s1/default/ac81881ec7a146b7b348c3f0401cb69e/Shoot_target.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s1/default/ac81881ec7a146b7b348c3f0401cb69e/Shoot_target.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s1/default/ac81881ec7a146b7b348c3f0401cb69e/Shoot_target.mp4\" style=\"width: 100%;\" width=\"300\"></video></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\"><!-- 左图右文案 -->\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_ic\"><!-- 素材部分 --><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s1/default/e12726e0f46842daa8932557863f2855/Continuous_shoot.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s1/default/e12726e0f46842daa8932557863f2855/Continuous_shoot.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s1/default/e12726e0f46842daa8932557863f2855/Continuous_shoot.mp4\" style=\"width: 100%;\" width=\"300\"></video></div>\n<div style=\"flex: 1; min-width: 0; margin-left: 60px; max-width: 480px; box-sizing: border-box;\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Rapid-Fire Plastic ball Blaster</h3>\n<p class=\"pct_p\" style=\"text-align: left;\">Overwhelm your rivals with a relentless barrage of balls. The integrated blaster fires continuously, ensuring a steady stream of projectiles. Keep the pressure on from start to finish.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Custom Battlefield Creation</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"module-content\">\n<p class=\"pct_p\" style=\"text-align: left;\">Design your own tactical arenas with included target and anti-tank obstacle models. Set up challenging scenarios, practice advanced maneuvers, and perfect your strategy. The battlefield is yours to command.</p>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s1/default/80d69fe68a4d43e9bd295de5c287b93f/Building_your_own_battlefield_withTargetandAnti-tank_obstaclemodels.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s1/default/80d69fe68a4d43e9bd295de5c287b93f/Building_your_own_battlefield_withTargetandAnti-tank_obstaclemodels.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s1/default/80d69fe68a4d43e9bd295de5c287b93f/Building_your_own_battlefield_withTargetandAnti-tank_obstaclemodels.mp4\" style=\"width: 100%;\" width=\"300\"></video></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<p></p>\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px;\">Remote Control Instruction</h2>\n<p class=\"pct_p\" style=\"text-align: center;\">The Mini Tank is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,</p>\n<p>while the CyberBrick App allows full customization of controller functions to match your personal preferences.</p>\n<p class=\"pct_p\" style=\"text-align: center;\"><em><span style=\"font-size: 12px;\">* Please visit the <a href=\"https://makerworld.com/en/models/1395991-cyberbrick-official-standard-remote#profileId-1446992\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">CyberBrick Official Standard Remote on Makerworld </span></strong></a> for more details.</span></em></p>\n</div>\n</div>\n<style>\n        .image-container {\n            display: flex;\n            gap: 30px; \n            justify-content: center; \n            align-items: center; \n            height: auto; \n        }\n        .image-container img {\n            width: 650px;\n            height: flex;\n            object-fit: contain; \n        }\n    </style>\n<div class=\"image-container\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/72b382fc3f5b4c23bc94f72a70a1a48f/Remote_1.png\" height=\"525\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"735\"/> <a href=\"https://bambulab.com/en/download/cyberbrick-apps\" rel=\"noopener\" target=\"_blank\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c0005c4136f047f381587536e51aa957/Frame_1123867446.jpg\" height=\"527\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"735\"/></a></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 10px; font-size: 24px; text-align: center;\">CyberBrick App Connection Tutorial</h2>\n<p style=\"text-align: left; margin-top: 10px; margin-bottom: -40px;\"><span style=\"font-size: 14px;\"><em>*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.</em></span></p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<h1 class=\"pct_t\" style=\"text-align: center;\">In the Box</h1>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"height: 285px; width: 100%; text-align: center; border-collapse: collapse;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.6px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span style=\"color: #00ae42;\"><a href=\"https://store.bambulab.com/products/cyberbrick-hardware-kit?id=593289489201844227&amp;skr=yes\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">CyberBrick Ultimate Hardware Kit -ZK003 (2 Remotes, 2 Cars)</a></span></div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.6px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span style=\"color: #00ae42;\"><a href=\"https://store.bambulab.com/products/plastic-balls?id=45651257491696\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">14mm Plastic ball (10PCS) - ZB001</a></span></div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.6px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span style=\"color: #00ae42;\"><a href=\"https://store.bambulab.com/products/rubber-bands?id=46239016583408\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">1.4x20mm Basic Rubber Bands (100PCS) - RA002</a></span></div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"font-size: 24px; margin-top: 40px; text-align: center;\">Important Notices</h2>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Core Safety Rules</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">This product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> touch the moving parts while the device is operating to prevent pinching injuries.</li>\n<li style=\"text-align: left; font-size: 16px;\">Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.</li>\n<li style=\"text-align: left; font-size: 16px;\">Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Warning of Lithium Battery</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">This product utilizes a replaceable rechargeable lithium battery.</li>\n<li style=\"text-align: left; font-size: 16px;\">Adult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.</li>\n<li style=\"text-align: left; font-size: 16px;\">Ensure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.</li>\n<li style=\"text-align: left; font-size: 16px;\">Regularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.</li>\n<li style=\"text-align: left; font-size: 16px;\">Choking Hazard: Contains small parts; not suitable for children under 3 years of age.</li>\n<li style=\"text-align: left; font-size: 16px;\">Improper disposal of this product may harm the environment - please recycle responsibly.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Charging Precautions</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">Use only the officially supplied charger. The charger is not a toy.</li>\n<li style=\"text-align: left; font-size: 16px;\">The USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. <strong>DO NOT</strong> use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> charge the battery pack if it is overheating. Allow it to cool down completely before recharging.</li>\n<li style=\"text-align: left; font-size: 16px;\">If the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Lithium Battery Safety Precautions</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> disassemble, crush, or mechanically abuse the battery pack.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> dispose of the battery pack in fire.</li>\n<li style=\"text-align: left; font-size: 16px;\">Exercise extreme caution when handling an overheated battery pack.</li>\n</ul>\n</div>\n</div>\n</div>",
+  "description_text": "Navigate tight spaces and outflank opponents with ease. The tank pivots on its axis, offering full rotational control without needing forward momentum. Pinpoint positioning is key to victory.\n\nMaintain offensive pressure even while repositioning. The CyberBrick Tank fires 14mm Plastic balls accurately while in motion, keeping targets suppressed as you advance or retreat. Never break your attack rhythm.\n\nLock onto your objectives and unleash a precise strike. Watch balls fly straight and true, hitting designated targets with satisfying impact. Practice your aim and become a master gunner.\n\nOverwhelm your rivals with a relentless barrage of balls. The integrated blaster fires continuously, ensuring a steady stream of projectiles. Keep the pressure on from start to finish.\n\nDesign your own tactical arenas with included target and anti-tank obstacle models. Set up challenging scenarios, practice advanced maneuvers, and perfect your strategy. The battlefield is yours to command.\n\nThe Mini Tank is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh097-cyberbrick-tank",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "CyberBrick Tank",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "62.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/cyberbrick-tank?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "84",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://ca.store.bambulab.com/en/products/cyberbrick-tank?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "65.79",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/cyberbrick-tank?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "54.59",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/cyberbrick-tank?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "126",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/cyberbrick-tank?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "62.29",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/cyberbrick-tank?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "RA002",
+    "ZB001",
+    "ZH097",
+    "ZK003"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Download Models on MakerWorld ↗",
+      "url": "https://makerworld.com/en/models/1491187-cyberbrick-tank?from=search#profileId-1558647"
+    },
+    {
+      "kind": "makerworld",
+      "title": "CyberBrick Official Standard Remote on Makerworld",
+      "url": "https://makerworld.com/en/models/1395991-cyberbrick-official-standard-remote#profileId-1446992"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "640060542106980354",
+    "640105792329883650",
+    "640106736050323456",
+    "640107132441292800",
+    "640107699311755266",
+    "640108182895456258"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/cyberbrick-tank?id=640105792329883650"
+      },
+      "rows": [
+        [
+          "1",
+          "CyberBrick Ultimate Hardware Kit -ZK003 (2 Remotes, 2 Cars)",
+          "1"
+        ],
+        [
+          "2",
+          "14mm Plastic ball (10PCS) - ZB001",
+          "2"
+        ],
+        [
+          "3",
+          "1.4x20mm Basic Rubber Bands (100PCS) - RA002",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/16aa826f5fc9460c8a680a7dcfe61bd4/ZH097_(2).jpg",
+      "part_number": "ZH097",
+      "price": "62.99",
+      "region": "us",
+      "sku": "640105792329883650",
+      "title": "CyberBrick Tank - CyberBrick Tank - ZH097",
+      "url": "https://us.store.bambulab.com/products/cyberbrick-tank?id=640105792329883650",
+      "variant_id": "640105792329883650"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/05252b7047b5495fb10e6e87b2f5cd18/ZH097_(2).jpg",
+      "part_number": "ZH097",
+      "price": "84",
+      "region": "ca",
+      "sku": "640060542106980354",
+      "title": "CyberBrick Tank - CyberBrick Tank - ZH097",
+      "url": "https://ca.store.bambulab.com/products/cyberbrick-tank?id=640060542106980354",
+      "variant_id": "640060542106980354"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/0ddad371c1c142abbc48bc92afcc6280/ZH097_(2).jpg",
+      "part_number": "ZH097",
+      "price": "65.79",
+      "region": "eu",
+      "sku": "640106736050323456",
+      "title": "CyberBrick Tank - CyberBrick Tank - ZH097",
+      "url": "https://eu.store.bambulab.com/products/cyberbrick-tank?id=640106736050323456",
+      "variant_id": "640106736050323456"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/d4c12b2e07204548915dcb0093fc2858/ZH097_(2).jpg",
+      "part_number": "ZH097",
+      "price": "54.59",
+      "region": "uk",
+      "sku": "640107132441292800",
+      "title": "CyberBrick Tank - CyberBrick Tank - ZH097",
+      "url": "https://uk.store.bambulab.com/products/cyberbrick-tank?id=640107132441292800",
+      "variant_id": "640107132441292800"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/6344117a03ee47259f3daff9629d6e2a/Group_1312317894.png",
+      "part_number": "ZH097",
+      "price": "126",
+      "region": "au",
+      "sku": "640107699311755266",
+      "title": "CyberBrick Tank - CyberBrick Tank - ZH097",
+      "url": "https://au.store.bambulab.com/products/cyberbrick-tank?id=640107699311755266",
+      "variant_id": "640107699311755266"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/a088ffa89c2d4731b9a60ef0a425781f/ZH097_(2).jpg",
+      "part_number": "ZH097",
+      "price": "62.29",
+      "region": "asia",
+      "sku": "640108182895456258",
+      "title": "CyberBrick Tank - CyberBrick Tank - ZH097",
+      "url": "https://asia.store.bambulab.com/products/cyberbrick-tank?id=640108182895456258",
+      "variant_id": "640108182895456258"
+    }
+  ]
+}

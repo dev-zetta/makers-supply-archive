@@ -1,0 +1,357 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
+      "product_id": "574483047805652992",
+      "region": "us"
+    },
+    {
+      "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
+      "product_id": "575456943134597120",
+      "region": "ca"
+    },
+    {
+      "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
+      "product_id": "14917811339612",
+      "region": "eu"
+    },
+    {
+      "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
+      "product_id": "575456597896974336",
+      "region": "uk"
+    },
+    {
+      "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
+      "product_id": "575456195600191488",
+      "region": "au"
+    },
+    {
+      "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
+      "product_id": "575455845891854336",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/e0/e04a23bf4393ffd4e24708d35ee895342c45850e607a39a2e815873e97bbbbae.png",
+      "id": "image-bf8eedfcfc43918f914a",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH064-2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e04a23bf4393ffd4e24708d35ee895342c45850e607a39a2e815873e97bbbbae",
+      "size": 2292641,
+      "source_url": "https://store.bblcdn.eu/s4/default/d032436c4c6d4cad83327de349340a1f/B-ZH064-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/8c/8c73c7c4374b75404732a3ef47c515c79c3dd8210fb69226ecfa7040696d78bc.png",
+      "id": "image-cc3c59316802676fa53f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH064-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8c73c7c4374b75404732a3ef47c515c79c3dd8210fb69226ecfa7040696d78bc",
+      "size": 355552,
+      "source_url": "https://store.bblcdn.eu/s4/default/f21cbf86a6334a1285307efaa5ac81fd/B-ZH064-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/41/4156c39849b98b208b084ebac3c867a2fcbbf530885f46cb32ac4974bdef27b1.png",
+      "id": "image-display-b767d0e59ac444664888",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e04a23bf4393ffd4e24708d35ee895342c45850e607a39a2e815873e97bbbbae",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH064-2.catalog.png",
+      "parent_asset_id": "image-bf8eedfcfc43918f914a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4156c39849b98b208b084ebac3c867a2fcbbf530885f46cb32ac4974bdef27b1",
+      "size": 616162,
+      "source_url": "https://store.bblcdn.eu/s4/default/d032436c4c6d4cad83327de349340a1f/B-ZH064-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/58/58874c5e39edf2d33a4d3b645cfa334a43502e35a15c0d275f06a880bbe616c2.png",
+      "id": "image-display-ee41500ed8487ce7752a",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "8c73c7c4374b75404732a3ef47c515c79c3dd8210fb69226ecfa7040696d78bc",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH064-1.catalog.png",
+      "parent_asset_id": "image-cc3c59316802676fa53f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "58874c5e39edf2d33a4d3b645cfa334a43502e35a15c0d275f06a880bbe616c2",
+      "size": 97033,
+      "source_url": "https://store.bblcdn.eu/s4/default/f21cbf86a6334a1285307efaa5ac81fd/B-ZH064-1.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x6 BHCS Machine Screw (20PCS) - AA057",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa183-m2-5-flat-head-cap-machine-screws-fhcs-1",
+      "name": "M2.5x10 FHCS Machine Screw (20PCS) - AA184",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa199-bt3-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT3x10 SHCS Self Tapping Screw (20PCS) - AA200",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional P1S/X1 Door Hinge 180/270° - V3 Adjustable. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the P1S/X1 Door Hinge 180/270° - V3 Adjustable on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Overview</h3>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>P1S/X1 Door Hinge 180/270° - V3 Adjustable.</strong> To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct_st-p\"></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">To download the model files please visit the <strong>P1S/X1 Door Hinge 180/270° - V3 Adjustable</strong>on <a href=\"https://makerworld.com/en/models/632764-p1s-x1-door-hinge-180-270deg-v3-adjustable?from=search#profileId-557788\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\" style=\"text-align: left;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/cd4ca583c9da47f297af7ea128bb82c4/B-ZH064-3.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" style=\"width: 100%;\" width=\"300\"></video></h3>\n<p> </p>\n<h3 class=\"pct_st\">In the Box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"height: 95px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>M3x6 BHCS Machine Screw (20PCS) - AA057</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>M2.5x10 FHCS Machine Screw (20PCS) - AA184</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px; width: 483.42px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">\n<p>BT3x10 SHCS Self Tapping Screw (20PCS) - AA200</p>\n</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 48.6285px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- 第五条 --></div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional P1S/X1 Door Hinge 180/270° - V3 Adjustable. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the P1S/X1 Door Hinge 180/270° - V3 Adjustable on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh064-p1s-x1-door-hinge-180-270-v3-adjustable",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "P1S/X1 Door Hinge 180/270° - V3 Adjustable",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.18",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.66",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.74",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.89",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA057",
+    "AA184",
+    "AA200",
+    "B-ZH064",
+    "ZH064"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "P1s X1 Door Hinge 180 270deg V3 Adjustable",
+      "url": "https://makerworld.com/en/models/632764-p1s-x1-door-hinge-180-270deg-v3-adjustable?from=search#profileId-557788"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "54119206093148",
+    "574483047839207426",
+    "575455845904437250",
+    "575456195625357314",
+    "575456597917945858",
+    "575456943151374338"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=574483047839207426"
+      },
+      "rows": [
+        [
+          "M3x6 BHCS Machine Screw (20PCS) - AA057",
+          "1"
+        ],
+        [
+          "M2.5x10 FHCS Machine Screw (20PCS) - AA184",
+          "1"
+        ],
+        [
+          "BT3x10 SHCS Self Tapping Screw (20PCS) - AA200",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/153fc5698e7243eda8a8be5c7dc39ab3/B-ZH064-2.png",
+      "part_number": "ZH064",
+      "price": "3.18",
+      "region": "us",
+      "sku": "574483047839207426",
+      "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door Hinge 180/270° - V3 Adjustable - ZH064",
+      "url": "https://us.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=574483047839207426",
+      "variant_id": "574483047839207426"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/b97fa305724248219fcce3719a9d0f0c/B-ZH064-2.png",
+      "part_number": "ZH064",
+      "price": "3.66",
+      "region": "ca",
+      "sku": "575456943151374338",
+      "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door Hinge 180/270° - V3 Adjustable - ZH064",
+      "url": "https://ca.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=575456943151374338",
+      "variant_id": "575456943151374338"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/f22b0a8fe8084adeb9a2549bb3d839c5/B-ZH064-2.png",
+      "part_number": "ZH064",
+      "price": "2.99",
+      "region": "eu",
+      "sku": "54119206093148",
+      "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door hinge 180/270° - V3 adjustable - ZH064",
+      "url": "https://eu.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=54119206093148",
+      "variant_id": "54119206093148"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/d032436c4c6d4cad83327de349340a1f/B-ZH064-2.png",
+      "part_number": "ZH064",
+      "price": "2.99",
+      "region": "uk",
+      "sku": "575456597917945858",
+      "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door Hinge 180/270° - V3 Adjustable - ZH064",
+      "url": "https://uk.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=575456597917945858",
+      "variant_id": "575456597917945858"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/45fca0ae4cc349ac869320b70de0c637/B-ZH064-2.png",
+      "part_number": "ZH064",
+      "price": "5.74",
+      "region": "au",
+      "sku": "575456195625357314",
+      "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door Hinge 180/270° - V3 Adjustable - ZH064",
+      "url": "https://au.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=575456195625357314",
+      "variant_id": "575456195625357314"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/acb5c4ea401d43e39f101a0cc728c45a/B-ZH064-2.png",
+      "part_number": "ZH064",
+      "price": "2.89",
+      "region": "asia",
+      "sku": "575455845904437250",
+      "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door Hinge 180/270° - V3 Adjustable - ZH064",
+      "url": "https://asia.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=575455845904437250",
+      "variant_id": "575455845904437250"
+    }
+  ]
+}

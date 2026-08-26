@@ -1,0 +1,376 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "black-nylon-cord",
+      "product_id": "8280136188040",
+      "region": "us"
+    },
+    {
+      "handle": "black-nylon-cord",
+      "product_id": "8931016802544",
+      "region": "ca"
+    },
+    {
+      "handle": "black-nylon-cord",
+      "product_id": "9487543861596",
+      "region": "eu"
+    },
+    {
+      "handle": "black-nylon-cord",
+      "product_id": "7709512040508",
+      "region": "uk"
+    },
+    {
+      "handle": "black-nylon-cord",
+      "product_id": "8538429685923",
+      "region": "au"
+    },
+    {
+      "handle": "black-nylon-cord",
+      "product_id": "7690188947571",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/9e/9ea67a20e91a6f3d42f1b248462cfaaec66250680d518c8f7ddf9f159b956ee5.png",
+      "id": "image-be8cdde2eff8161747cf",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "8cf9a7193d2d40e4bc5785c521ef5f96.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9ea67a20e91a6f3d42f1b248462cfaaec66250680d518c8f7ddf9f159b956ee5",
+      "size": 64887,
+      "source_url": "https://store.bblcdn.eu/8cf9a7193d2d40e4bc5785c521ef5f96.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5b/5b2bf10815db502aab89c4b7a0d6d002267ee264099a7e4b33a00d098c7b8f36.png",
+      "id": "image-0d77ab9822f3cbd9f628",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "a01b7236df9247ccb9f3354f5c35fc90.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5b2bf10815db502aab89c4b7a0d6d002267ee264099a7e4b33a00d098c7b8f36",
+      "size": 197109,
+      "source_url": "https://store.bblcdn.eu/a01b7236df9247ccb9f3354f5c35fc90.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/76/76b69c4b5dfff043203eb8c7427ed6ab6ffa6870532864e08e19abff9da2ec87.png",
+      "id": "image-display-ed0c4e629083b7ecbd34",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 202,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "9ea67a20e91a6f3d42f1b248462cfaaec66250680d518c8f7ddf9f159b956ee5",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "8cf9a7193d2d40e4bc5785c521ef5f96.catalog.png",
+      "parent_asset_id": "image-be8cdde2eff8161747cf",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "76b69c4b5dfff043203eb8c7427ed6ab6ffa6870532864e08e19abff9da2ec87",
+      "size": 51723,
+      "source_url": "https://store.bblcdn.eu/8cf9a7193d2d40e4bc5785c521ef5f96.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f1/f1f32c4945f44fcf9775e2632c5d29c4f6e76e08c2913d727466b8953e764327.png",
+      "id": "image-display-0721eed9fb696e0ae9d8",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "5b2bf10815db502aab89c4b7a0d6d002267ee264099a7e4b33a00d098c7b8f36",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "a01b7236df9247ccb9f3354f5c35fc90.catalog.png",
+      "parent_asset_id": "image-0d77ab9822f3cbd9f628",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "f1f32c4945f44fcf9775e2632c5d29c4f6e76e08c2913d727466b8953e764327",
+      "size": 52536,
+      "source_url": "https://store.bblcdn.eu/a01b7236df9247ccb9f3354f5c35fc90.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Mechanical Components"
+  ],
+  "category_assignments": [
+    {
+      "id": "mechanical",
+      "label": "Mechanical Components",
+      "path": [
+        "Hardware",
+        "Mechanical Components"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[9]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Introduction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Nylon rope is a highly durable and versatile material widely used in 3D printing models. It can be used to connect and secure different parts, providing reliable mechanical strength and flexibility, especially for complex models that require flexible connections. In addition, the flexibility and high-quality material properties of this nylon rope allow it to withstand prolonged stress without deforming or breaking, making it ideal for use in 3D printed components that need to be moved or movable, such as joints, pulley systems, and adjustable sections."
+    },
+    {
+      "kind": "heading",
+      "text": "Product Feature"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Neatly stored for your convenience | Durable and Strong: High-quality nylon for lasting use | Perfect for all crafting levels"
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<div class=\"pct_tbc\">\n<h2 class=\"pct_t\"><br/></h2>\n<p> </p>\n<h2 class=\"pct_t\">Product Specifications</h2>\n<table class=\"pct_tb\" data-mce-style=\"border-color: #ADADAD; font-weight: bold;\" style=\"border-color: #ADADAD; font-weight: bold;\">\n<!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold; text-align: center;\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold; text-align: center;\">\n<div>Product ID</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>H (mm)</div>\n<p>Diameter</p>\n</td>\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>L (m)</div>\n<p>Length</p>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" data-mce-style=\"border-color: #ADADAD; text-align: center;\" style=\"border-color: #ADADAD; text-align: center;\">MF001</td>\n<td class=\"pct_td\" data-mce-style=\"border-color: #ADADAD;\" style=\"border-color: #ADADAD;\">0.6</td>\n<td class=\"pct_td\" data-mce-style=\"border-color: #ADADAD;\" style=\"border-color: #ADADAD;\">5</td>\n</tr>\n</tbody>\n<tbody></tbody>\n</table>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\"><br/></div>\n</div>\n<!-- table布局 --><!-- 物品清单布局 -->\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<p> </p>\n<h2 class=\"pct_t\">Introduction</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<p>Nylon rope is a highly durable and versatile material widely used in 3D printing models. It can be used to connect and secure different parts, providing reliable mechanical strength and flexibility, especially for complex models that require flexible connections. In addition, the flexibility and high-quality material properties of this nylon rope allow it to withstand prolonged stress without deforming or breaking, making it ideal for use in 3D printed components that need to be moved or movable, such as joints, pulley systems, and adjustable sections.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<p> </p>\n<p> </p>\n<h2 class=\"pct_t\">Basic Information</h2>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\">\n<!-- 第一条 -->\n<div class=\"pct_ic-p\">\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" data-mce-style=\"padding: 0;\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" data-mce-style=\"width: 100%; margin-top: 0; font-weight: bold;\" style=\"width: 100%; margin-top: 0; font-weight: bold;\">\n<!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; width: 45%; text-align: center;\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">\n<meta charset=\"utf-8\"/>Material<br/>\n</td>\n<td class=\"pct_td\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<meta charset=\"utf-8\"/>Nylon<br/>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 -->\n</div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\">\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" data-mce-style=\"padding: 0;\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" data-mce-style=\"width: 100%; margin-top: 0; font-weight: bold;\" style=\"width: 100%; margin-top: 0; font-weight: bold;\">\n<!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"background-color: #c7c7c7; width: 45%; text-align: center;\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Color</td>\n<td class=\"pct_td\" data-mce-style=\"height: 19.5938px; width: 54.797%;\" style=\"height: 19.5938px; width: 54.797%;\">\n<meta charset=\"utf-8\"/> <span></span><span></span><span>Black</span>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 -->\n</div>\n</div>\n<!-- 如需添加在此处添加 -->\n</div>\n</div>\n</div>\n<!-- 标题加文案结束 --> <!-- 标题加文案结束 -->\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<p> </p>\n<p> </p>\n<h2 class=\"pct_t\">Product Feature</h2>\n<h2 class=\"pct_st\"><br/></h2>\n<p data-mce-style=\"text-align: center;\" style=\"text-align: center;\"><meta charset=\"utf-8\"/>Neatly stored for your convenience       |       Durable and Strong: High-quality nylon for lasting use      |       Perfect for all crafting levels</p>\n<p data-mce-style=\"text-align: center;\" style=\"text-align: center;\"> </p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\"><br/></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "Nylon rope is a highly durable and versatile material widely used in 3D printing models. It can be used to connect and secure different parts, providing reliable mechanical strength and flexibility, especially for complex models that require flexible connections. In addition, the flexibility and high-quality material properties of this nylon rope allow it to withstand prolonged stress without deforming or breaking, making it ideal for use in 3D printed components that need to be moved or movable, such as joints, pulley systems, and adjustable sections.\n\nNeatly stored for your convenience | Durable and Strong: High-quality nylon for lasting use | Perfect for all crafting levels",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "mf001-black-nylon-cord",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "H (mm) Diameter",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:H (mm) Diameter",
+        "source_url": "https://us.store.bambulab.com/products/black-nylon-cord?id=42731737219208"
+      },
+      "raw_value": "0.6"
+    },
+    {
+      "label": "L (m) Length",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:L (m) Length",
+        "source_url": "https://us.store.bambulab.com/products/black-nylon-cord?id=42731737219208"
+      },
+      "raw_value": "5"
+    }
+  ],
+  "name": "Black Nylon Cord",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.31",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.51",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.23",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.05",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.37",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1.19",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "MF001"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "42005247230012",
+    "42072565940339",
+    "42731737219208",
+    "44811684511907",
+    "46329631703280",
+    "49058911682908"
+  ],
+  "source_tables": [
+    {
+      "caption": "Product Specifications",
+      "headers": [
+        "Product ID",
+        "H (mm) Diameter",
+        "L (m) Length"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/black-nylon-cord?id=42731737219208"
+      },
+      "rows": [
+        [
+          "MF001",
+          "0.6",
+          "5"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/black-nylon-cord?id=42731737219208"
+      },
+      "rows": [
+        [
+          "Material",
+          "Nylon"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/black-nylon-cord?id=42731737219208"
+      },
+      "rows": [
+        [
+          "Color",
+          "Black"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Color": "Black",
+    "H (mm) Diameter": "0.6",
+    "L (m) Length": "5",
+    "Material": "Nylon",
+    "Product ID": "MF001"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/67d21e8577a74e82a25273debc550e9b/MF001.png",
+      "part_number": "MF001",
+      "price": "1.31",
+      "region": "us",
+      "sku": "42731737219208",
+      "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
+      "url": "https://us.store.bambulab.com/products/black-nylon-cord?id=42731737219208",
+      "variant_id": "42731737219208"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/1d3c5760b1884446b293075f3eaf4aa4.png",
+      "part_number": "MF001",
+      "price": "1.51",
+      "region": "ca",
+      "sku": "46329631703280",
+      "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
+      "url": "https://ca.store.bambulab.com/products/black-nylon-cord?id=46329631703280",
+      "variant_id": "46329631703280"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/b724cc3cb7144c72baacf53362d885ab/MF001.png",
+      "part_number": "MF001",
+      "price": "1.23",
+      "region": "eu",
+      "sku": "49058911682908",
+      "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
+      "url": "https://eu.store.bambulab.com/products/black-nylon-cord?id=49058911682908",
+      "variant_id": "49058911682908"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/8cf9a7193d2d40e4bc5785c521ef5f96.png",
+      "part_number": "MF001",
+      "price": "1.05",
+      "region": "uk",
+      "sku": "42005247230012",
+      "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
+      "url": "https://uk.store.bambulab.com/products/black-nylon-cord?id=42005247230012",
+      "variant_id": "42005247230012"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/1638cbf260e840f4bb2f9dd5be079883.png",
+      "part_number": "MF001",
+      "price": "2.37",
+      "region": "au",
+      "sku": "44811684511907",
+      "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
+      "url": "https://au.store.bambulab.com/products/black-nylon-cord?id=44811684511907",
+      "variant_id": "44811684511907"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494435092502040576.png",
+      "part_number": "MF001",
+      "price": "1.19",
+      "region": "asia",
+      "sku": "42072565940339",
+      "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
+      "url": "https://asia.store.bambulab.com/products/black-nylon-cord?id=42072565940339",
+      "variant_id": "42072565940339"
+    }
+  ]
+}

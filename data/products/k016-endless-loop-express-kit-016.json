@@ -1,0 +1,476 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "endless-loop-express-kit-016",
+      "product_id": "8374139879560",
+      "region": "us"
+    },
+    {
+      "handle": "endless-loop-express-kit-016",
+      "product_id": "9025329266928",
+      "region": "ca"
+    },
+    {
+      "handle": "endless-loop-express-kit-016",
+      "product_id": "9585255973212",
+      "region": "eu"
+    },
+    {
+      "handle": "endless-loop-express-kit-016",
+      "product_id": "7790067941436",
+      "region": "uk"
+    },
+    {
+      "handle": "endless-loop-express-kit-016",
+      "product_id": "511417521088983040",
+      "region": "au"
+    },
+    {
+      "handle": "endless-loop-express-kit-016",
+      "product_id": "9897336701220",
+      "region": "jp"
+    },
+    {
+      "handle": "endless-loop-express-kit-016",
+      "product_id": "512877073597767680",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/ed/ed1c6651f301e5e81995e4c1e14f3b2fdccb82db42cefb758e9086d55c1f7e99.png",
+      "id": "image-461ee0d93ade3f8f3b0d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1_bb2407bf-9ed5-4f41-9ceb-6622921a8e87.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ed1c6651f301e5e81995e4c1e14f3b2fdccb82db42cefb758e9086d55c1f7e99",
+      "size": 672619,
+      "source_url": "https://store.bblcdn.com/s6/default/23182fc2813f48aeb27afe4677708a95/1_bb2407bf-9ed5-4f41-9ceb-6622921a8e87.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/86/862297afbf26bddad2bb8c4e0fb8f94703cbe70bfb13532f5b44cdd7a2a28edc.pdf",
+      "id": "document-19914f0192f59cd6ca20",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "Endless_Loop_Express_Kit-K016.pdf",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "862297afbf26bddad2bb8c4e0fb8f94703cbe70bfb13532f5b44cdd7a2a28edc",
+      "size": 428155,
+      "source_url": "https://store.bblcdn.com/s6/default/9c44fa8289c0457585391e84d9caf2f5/Endless_Loop_Express_Kit-K016.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/eb/eba78f51280b815f6f2e485c8a8251cb4365354c1e559be2b3a5dd7c73698233.zip",
+      "id": "archive-d245c7de0bf907db99a1",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Endless_Loop_Express_for_X1C.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "eba78f51280b815f6f2e485c8a8251cb4365354c1e559be2b3a5dd7c73698233",
+      "size": 15212676,
+      "source_url": "https://store.bblcdn.com/s7/default/a2e14aa838d74b8981474235fd3af3f1/Endless_Loop_Express_for_X1C.zip"
+    },
+    {
+      "archive_member_path": "Endless Loop Express for X1C.3mf",
+      "blob_path": "data/blobs/sha256/0b/0b9d5d4e11db65f1abcb70aaa94e47a16c1e4c2b7af38e74178f2a2a7bb9b212.3mf",
+      "id": "model-6076e89cbb4e2850cd46",
+      "kind": "model",
+      "media_type": "application/vnd.ms-3mfdocument",
+      "original_filename": "Endless Loop Express for X1C.3mf",
+      "parent_asset_id": "archive-d245c7de0bf907db99a1",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "0b9d5d4e11db65f1abcb70aaa94e47a16c1e4c2b7af38e74178f2a2a7bb9b212",
+      "size": 15315507,
+      "source_url": "https://store.bblcdn.com/s7/default/a2e14aa838d74b8981474235fd3af3f1/Endless_Loop_Express_for_X1C.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/86/862297afbf26bddad2bb8c4e0fb8f94703cbe70bfb13532f5b44cdd7a2a28edc.pdf",
+      "id": "document-438e95c449d0068a388e",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "Endless_Loop_Express_Kit-K016.pdf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "862297afbf26bddad2bb8c4e0fb8f94703cbe70bfb13532f5b44cdd7a2a28edc",
+      "size": 428155,
+      "source_url": "https://store.bblcdn.com/s7/default/ed9318ec4e97459b93575a822155b94d/Endless_Loop_Express_Kit-K016.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/39/397010d546381bc7e27532746cb6c9d7ee797c4691dce942b943f12db779dddc.png",
+      "id": "image-display-f01658869a278762d3dd",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "ed1c6651f301e5e81995e4c1e14f3b2fdccb82db42cefb758e9086d55c1f7e99",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1_bb2407bf-9ed5-4f41-9ceb-6622921a8e87.catalog.png",
+      "parent_asset_id": "image-461ee0d93ade3f8f3b0d",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "397010d546381bc7e27532746cb6c9d7ee797c4691dce942b943f12db779dddc",
+      "size": 203879,
+      "source_url": "https://store.bblcdn.com/s6/default/23182fc2813f48aeb27afe4677708a95/1_bb2407bf-9ed5-4f41-9ceb-6622921a8e87.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "la009-n20-dual-shaft-worm-gear-motor",
+      "name": "N20 Dual Shaft Worm Gear Motor 130rpm",
+      "quantity": "1 PCS",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia008-aaa-battery-spring-contact-plate-with-ph2-0-connector",
+      "name": "AAA Battery Spring Contact Plate with PH2.0 Connector",
+      "quantity": "1 PCS",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia006-self-locking-button-switch-with-sh1-0-connector",
+      "name": "Self-Locking Button Switch",
+      "quantity": "1 PCS",
+      "variant_quantities": []
+    },
+    {
+      "name": "M2x6 FHCS (Machine Screw)",
+      "quantity": "19 PCS",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ca001-round-magnet",
+      "name": "D4x2 mm Round Magnet",
+      "quantity": "2 PCS",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "xc003-100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire",
+      "name": "100mm Y type PH2.0 to Dual SH1.0 Conversion Wire",
+      "quantity": "1 PCS",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Kits & Bundles"
+  ],
+  "category_assignments": [
+    {
+      "id": "kits",
+      "label": "Kits & Bundles",
+      "path": [
+        "Kits & Bundles"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[7]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of Endless Loop Express and obtain detailed information, please visit the Endless Loop Express on MakerWorld."
+    },
+    {
+      "kind": "heading",
+      "text": "Installation"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Please refer to the installation manual for the assembly of Endless Loop Express."
+    },
+    {
+      "kind": "heading",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "1. Please note that the Endless Loop Express does not come with batteries. Please bring your own AAA battery to power the Endless Loop Express."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\"><!-- 第一条 -->\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">3D Model</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a href=\"https://store.bblcdn.com/s7/default/a2e14aa838d74b8981474235fd3af3f1/Endless_Loop_Express_for_X1C.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M37.7154 0.802246L54.9999 16.8008V63.3224C54.9999 64.1367 54.3397 64.7969 53.5254 64.7969H5.16076C4.3464 64.7969 3.68623 64.1367 3.68623 63.3224V2.27677C3.68623 1.46241 4.3464 0.802246 5.16076 0.802246H37.7154Z\" fill=\"#60BB18\" fill-rule=\"evenodd\"></path> <path d=\"M5.8981 4.48869C5.8981 3.67433 6.55827 3.01416 7.37263 3.01416H36.5374C36.9344 3.01416 37.3146 3.17423 37.592 3.45817L44.4342 10.4605L52.2567 16.9683C52.5934 17.2485 52.7882 17.6638 52.7882 18.1019V61.1107C52.7882 61.925 52.128 62.5852 51.3136 62.5852H7.37263C6.55827 62.5852 5.8981 61.925 5.8981 61.1107V4.48869Z\" fill=\"white\"> </path> <rect fill=\"#60BB18\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" y=\"24.3948\"></rect> <path d=\"M20.3197 33.5191C20.3197 34.0039 20.2189 34.4239 20.0174 34.7791C19.8158 35.1342 19.5422 35.4246 19.1966 35.6502C18.8558 35.8758 18.4718 36.0414 18.0446 36.147V36.1902C18.8894 36.2958 19.5302 36.555 19.967 36.9678C20.4085 37.3806 20.6293 37.9326 20.6293 38.6238C20.6293 39.2382 20.4781 39.7878 20.1757 40.2725C19.8782 40.7573 19.4174 41.1389 18.7934 41.4173C18.1694 41.6957 17.3654 41.8349 16.3814 41.8349C15.8006 41.8349 15.2582 41.7869 14.7543 41.6909C14.2551 41.5997 13.7847 41.4581 13.3431 41.2661V39.3726C13.7943 39.603 14.2671 39.7782 14.7615 39.8982C15.2558 40.0134 15.7166 40.0709 16.1438 40.0709C16.9406 40.0709 17.4974 39.9342 17.8142 39.6606C18.1358 39.3822 18.2966 38.9934 18.2966 38.4942C18.2966 38.2014 18.2222 37.9542 18.0734 37.7526C17.9246 37.551 17.6654 37.3974 17.2958 37.2918C16.931 37.1862 16.4198 37.1334 15.7622 37.1334H14.9631V35.427H15.7766C16.4246 35.427 16.9166 35.367 17.2526 35.247C17.5934 35.1222 17.8238 34.9543 17.9438 34.7431C18.0686 34.5271 18.131 34.2823 18.131 34.0087C18.131 33.6343 18.0158 33.3415 17.7854 33.1303C17.555 32.9191 17.171 32.8135 16.6334 32.8135C16.2974 32.8135 15.9902 32.8567 15.7118 32.9431C15.4382 33.0247 15.191 33.1255 14.9703 33.2455C14.7495 33.3607 14.5551 33.4735 14.3871 33.5839L13.3575 32.0503C13.7703 31.7527 14.2527 31.5055 14.8047 31.3087C15.3614 31.1119 16.0238 31.0135 16.7918 31.0135C17.8766 31.0135 18.7358 31.2319 19.3694 31.6687C20.003 32.1055 20.3197 32.7223 20.3197 33.5191ZM31.2779 36.327C31.2779 37.5126 31.0499 38.5038 30.5939 39.3006C30.1428 40.0925 29.4876 40.6901 28.6284 41.0933C27.7692 41.4917 26.7348 41.6909 25.5252 41.6909H22.5445V31.1647H25.8492C26.9532 31.1647 27.9108 31.3615 28.722 31.7551C29.5332 32.1439 30.162 32.7223 30.6083 33.4903C31.0547 34.2535 31.2779 35.199 31.2779 36.327ZM28.9596 36.3846C28.9596 35.607 28.8444 34.9687 28.614 34.4695C28.3884 33.9655 28.0524 33.5935 27.606 33.3535C27.1644 33.1135 26.6172 32.9935 25.9644 32.9935H24.7765V39.8478H25.734C26.8236 39.8478 27.6324 39.5574 28.1604 38.9766C28.6932 38.3958 28.9596 37.5318 28.9596 36.3846Z\" fill=\"white\"> </path> <path d=\"M37.6006 18.3492H55.0001L36.1261 0.802246V16.8746C36.1261 17.689 36.7863 18.3492 37.6006 18.3492Z\" fill=\"#60BB18\"> </path> </svg></a></p>\n</div>\n<!-- 查看PDF结束 -->\n<p> </p>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<!-- 文案布局 -->\n<div class=\"pct pct_mc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Overview</h3>\nThe <strong>Endless Loop Express Model Components Kit</strong> contains all the necessary hardware components for assembling a <strong>desktop train model</strong>. To complete the assembly for an entirely functional piece, users also need to download the model files and 3D print the remaining parts.</div>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Model</strong></td>\n<td class=\"pct_td\"><strong>Creator</strong></td>\n<td class=\"pct_td\"><b>Model Link</b></td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-WN9wdvxjroLLKUxZrwrcWzjZnhd\">Endless Loop Express</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\">IMD_Q.</td>\n<td class=\"pct_td\"><strong><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/431820?from=search#profileId-348512\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Endless Loop Express</a></span></strong></td>\n</tr>\n</tbody>\n</table>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\" style=\"text-align: start;\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">To download the model files of <strong>Endless Loop Express </strong>and obtain detailed information, please visit the <strong>Endless Loop Express</strong> on <a href=\"https://makerworld.com/en/models/431820?from=search#profileId-348512\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><u>MakerWorld</u></strong></span></a>.</div>\n<br/><span data-mce-fragment=\"1\"><img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/8e81e4ee58ee4f1fb405a9d126b851d1/1a0131d637ff5b88f0146384e77220c1_498aebf3-2382-4cf3-9a66-0b4acf37dbc2.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></span></div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"><span data-mce-fragment=\"1\"></span></div>\n<!-- 图片部分 -->\n<div class=\"pct_ic\" style=\"flex: 3;\"><!-- 手机端图片 -->\n<p><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/s7/default/949c07de0ecb4af6b317e0249eef26f5/629e62c200fd43d79f70020b9708f2cd.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/s7/default/949c07de0ecb4af6b317e0249eef26f5/629e62c200fd43d79f70020b9708f2cd.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/s7/default/a2f839f1ee6c4638b06fa8b8d2b9f97e/11_e85cbe6a-e44b-44f6-a85d-0b28d852d362.png\" style=\"width: 100%;\" width=\"300\"></video></p>\n</div>\n<br/>\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Installation</h3>\n</div>\n</div>\n<p class=\"pct_p\">Please refer to the <span style=\"color: #00ae42;\"><strong><a href=\"https://store.bblcdn.com/s7/default/ed9318ec4e97459b93575a822155b94d/Endless_Loop_Express_Kit-K016.pdf\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">installation manual</a></strong></span> for the assembly of <strong>Endless Loop Express</strong>.</p>\n</div>\n</div>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"></div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\">In the Box</h3>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Item</strong></td>\n<td class=\"pct_td\"><strong>Qty</strong></td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-WN9wdvxjroLLKUxZrwrcWzjZnhd\">N20 Dual Shaft Worm Gear Motor 130rpm</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\">1 PCS</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">AAA Battery Spring Contact Plate with PH2.0 Connector</td>\n<td class=\"pct_td\"><span>1 PCS</span></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Self-Locking Button Switch</td>\n<td class=\"pct_td\"><span>1 PCS</span></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">M2x6 FHCS (Machine Screw)</td>\n<td class=\"pct_td\"><span>19 PCS</span></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">D4x2 mm Round Magnet</td>\n<td class=\"pct_td\"><span>2 PCS</span></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">100mm Y type PH2.0 to Dual SH1.0 Conversion Wire</td>\n<td class=\"pct_td\"><span>1 PCS</span></td>\n</tr>\n</tbody>\n</table>\n<span><span></span></span></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"> </div>\n<!-- 第五条 -->\n<h3 class=\"pct_st\">Notes</h3>\n<div class=\"pct pct_mc\" data-mce-fragment=\"1\">1.<span data-mce-fragment=\"1\"> </span><span data-mce-fragment=\"1\">Please note that the Endless Loop Express <strong>does not come with batteries</strong>. Please bring your own AAA battery to power the Endless Loop Express.</span></div>\n</div>\n</div>\n</div>\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\" style=\"text-align: center;\"></h2>\n<h2 class=\"pct_t\" style=\"text-align: center;\">Product Specifications</h2>\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><b>Packaging Size</b></td>\n<td class=\"pct_td\">70*100*35 mm</td>\n<td class=\"pct_td\"><strong>Product Weight</strong></td>\n<td class=\"pct_td\"><span>36.9 g</span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<p><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button></p>\n</div>",
+  "description_text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of Endless Loop Express and obtain detailed information, please visit the Endless Loop Express on MakerWorld.\n\nPlease refer to the installation manual for the assembly of Endless Loop Express.\n\n1. Please note that the Endless Loop Express does not come with batteries. Please bring your own AAA battery to power the Endless Loop Express.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "k016-endless-loop-express-kit-016",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Endless Loop Express Kit 016",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.4",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/endless-loop-express-kit-016?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "18",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/endless-loop-express-kit-016?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/endless-loop-express-kit-016?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/endless-loop-express-kit-016?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "23",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/endless-loop-express-kit-016?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2310",
+      "region": "jp",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://jp.store.bambulab.com/en/products/endless-loop-express-kit-016?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "14",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/endless-loop-express-kit-016?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "K016"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Endless Loop Express",
+      "url": "https://makerworld.com/en/models/431820?from=search#profileId-348512"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "42174433624124",
+    "42933397389448",
+    "46584751489264",
+    "49364096909660",
+    "49994769236260",
+    "511417521093177347",
+    "512877073601961985"
+  ],
+  "source_tables": [
+    {
+      "caption": "Overview",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/endless-loop-express-kit-016?id=42933397389448"
+      },
+      "rows": [
+        [
+          "Model",
+          "Creator",
+          "Model Link"
+        ],
+        [
+          "Endless Loop Express",
+          "IMD_Q.",
+          "Endless Loop Express"
+        ]
+      ]
+    },
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/endless-loop-express-kit-016?id=42933397389448"
+      },
+      "rows": [
+        [
+          "N20 Dual Shaft Worm Gear Motor 130rpm",
+          "1 PCS"
+        ],
+        [
+          "AAA Battery Spring Contact Plate with PH2.0 Connector",
+          "1 PCS"
+        ],
+        [
+          "Self-Locking Button Switch",
+          "1 PCS"
+        ],
+        [
+          "M2x6 FHCS (Machine Screw)",
+          "19 PCS"
+        ],
+        [
+          "D4x2 mm Round Magnet",
+          "2 PCS"
+        ],
+        [
+          "100mm Y type PH2.0 to Dual SH1.0 Conversion Wire",
+          "1 PCS"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/endless-loop-express-kit-016?id=42933397389448"
+      },
+      "rows": [
+        [
+          "Packaging Size",
+          "70*100*35 mm",
+          "Product Weight",
+          "36.9 g"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/def057c65c794e6e84cbb54c3a96fab6/1_bb2407bf-9ed5-4f41-9ceb-6622921a8e87.png",
+      "part_number": "K016",
+      "price": "15.4",
+      "region": "us",
+      "sku": "42933397389448",
+      "title": "Endless Loop Express Kit 016 - Endless Loop Express Kit (1pcs) - K016",
+      "url": "https://us.store.bambulab.com/products/endless-loop-express-kit-016?id=42933397389448",
+      "variant_id": "42933397389448"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/aba6e021380c45b3a52036317ad3085e.png",
+      "part_number": "K016",
+      "price": "18",
+      "region": "ca",
+      "sku": "46584751489264",
+      "title": "Endless Loop Express Kit 016 - Endless Loop Express Kit (1pcs) - K016",
+      "url": "https://ca.store.bambulab.com/products/endless-loop-express-kit-016?id=46584751489264",
+      "variant_id": "46584751489264"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/07754cdeeae1423eaf0da1381a9cdb49/1_74f8e73e-027d-42a5-9739-ce89d336d217.png",
+      "part_number": "K016",
+      "price": "15",
+      "region": "eu",
+      "sku": "49364096909660",
+      "title": "Endless Loop Express Kit 016 - Endless Loop Express Kit (1pcs) - K016",
+      "url": "https://eu.store.bambulab.com/products/endless-loop-express-kit-016?id=49364096909660",
+      "variant_id": "49364096909660"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/ac817227b7224f22b4e8ab900f71b031.png",
+      "part_number": "K016",
+      "price": "13",
+      "region": "uk",
+      "sku": "42174433624124",
+      "title": "Endless Loop Express Kit 016 - Endless Loop Express Kit (1pcs) - K016",
+      "url": "https://uk.store.bambulab.com/products/endless-loop-express-kit-016?id=42174433624124",
+      "variant_id": "42174433624124"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/44aa34176eed482b870ac5b039870cde.png",
+      "part_number": "K016",
+      "price": "23",
+      "region": "au",
+      "sku": "511417521093177347",
+      "title": "Endless Loop Express Kit 016 - Endless Loop Express Kit (1pcs) - K016",
+      "url": "https://au.store.bambulab.com/products/endless-loop-express-kit-016?id=511417521093177347",
+      "variant_id": "511417521093177347"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "image_url": "https://store.bblcdn.com/s6/default/23182fc2813f48aeb27afe4677708a95/1_bb2407bf-9ed5-4f41-9ceb-6622921a8e87.png",
+      "part_number": "K016",
+      "price": "2310",
+      "region": "jp",
+      "sku": "49994769236260",
+      "title": "エンドレスループエクスプレスモデルキット（鉄道模型）K016  - エンドレスループエクスプレスモデルキット（1点）K016 ",
+      "url": "https://jp.store.bambulab.com/products/endless-loop-express-kit-016?id=49994769236260",
+      "variant_id": "49994769236260"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/6411b387092844ab80f7618c460d241f.png",
+      "part_number": "K016",
+      "price": "14",
+      "region": "asia",
+      "sku": "512877073601961985",
+      "title": "Endless Loop Express Kit 016 - Endless Loop Express Kit (1pcs) - K016",
+      "url": "https://asia.store.bambulab.com/products/endless-loop-express-kit-016?id=512877073601961985",
+      "variant_id": "512877073601961985"
+    }
+  ]
+}

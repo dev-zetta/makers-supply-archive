@@ -1,0 +1,23 @@
+services:
+  catalog-web:
+    build:
+      context: ../..
+      dockerfile: apps/catalog-web/Dockerfile
+    restart: unless-stopped
+    environment:
+      MAKERS_SUPPLY_ROOT: /archive
+      MAKERS_SUPPLY_CATALOG_DB: /archive/dist/makers-supply.sqlite
+      MAKERS_SUPPLY_STATE_DB: /state/catalog-web.sqlite
+      MAKERS_SUPPLY_SECRET_KEY: ${MAKERS_SUPPLY_SECRET_KEY:?set a long random secret}
+      MAKERS_SUPPLY_SECURE_COOKIES: "1"
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - ../..:/archive:ro
+      - catalog-state:/state
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m,mode=1777
+
+volumes:
+  catalog-state:

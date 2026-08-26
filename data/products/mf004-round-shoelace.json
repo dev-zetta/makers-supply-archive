@@ -1,0 +1,611 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "round-shoelace",
+      "product_id": "581020705316466688",
+      "region": "us"
+    },
+    {
+      "handle": "round-shoelace",
+      "product_id": "581023216745779200",
+      "region": "ca"
+    },
+    {
+      "handle": "round-shoelace",
+      "product_id": "14937884426588",
+      "region": "eu"
+    },
+    {
+      "handle": "round-shoelace",
+      "product_id": "581024630244503552",
+      "region": "uk"
+    },
+    {
+      "handle": "round-shoelace",
+      "product_id": "581023523225100288",
+      "region": "au"
+    },
+    {
+      "handle": "round-shoelace",
+      "product_id": "581024199055220736",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/c9/c9242c52b4ae3d9bfe4dd0eba97f145c8b479de051aacd232a52cd845c8baa76.png",
+      "id": "image-759c30cef3faf5bf684e",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_2.PNG",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c9242c52b4ae3d9bfe4dd0eba97f145c8b479de051aacd232a52cd845c8baa76",
+      "size": 1049306,
+      "source_url": "https://store.bblcdn.com/s1/default/47f26c978777458fa9a2f29566a07a14/whale_2.PNG"
+    },
+    {
+      "blob_path": "data/blobs/sha256/61/616854a2dc1775b9bd6adfc4feb503ef50615213f878d1c030ca425f7d720b96.png",
+      "id": "image-5c0c851a03bad29c8358",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_3.PNG",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "616854a2dc1775b9bd6adfc4feb503ef50615213f878d1c030ca425f7d720b96",
+      "size": 773348,
+      "source_url": "https://store.bblcdn.com/s1/default/59071f288ae24dba954713eb9a350995/whale_3.PNG"
+    },
+    {
+      "blob_path": "data/blobs/sha256/20/206f877d45c69e48aebb0cff9d30977d37124c75d793dbba410989f73fc1fa94.png",
+      "id": "image-8464cd765b2569ded1e1",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "206f877d45c69e48aebb0cff9d30977d37124c75d793dbba410989f73fc1fa94",
+      "size": 4429429,
+      "source_url": "https://store.bblcdn.com/s1/default/2f3e90045cda40a7b932ea6cff4c3b1e/whale_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/04/04efa14d274ba0bc0982fb28929f87c94331c7e4922335b4f3792b6336376955.png",
+      "id": "image-929c9e8d17dd01a63b5e",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_6.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "04efa14d274ba0bc0982fb28929f87c94331c7e4922335b4f3792b6336376955",
+      "size": 4777127,
+      "source_url": "https://store.bblcdn.com/s1/default/5961ab299e9342fd96048a3a251ae301/whale_6.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b4/b4a65c7ddfdb8beedcbd0414642b76b18603e1ab2b1f8d3a7556b7d2400841b6.png",
+      "id": "image-8e46f2ca9bc171839219",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_5.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b4a65c7ddfdb8beedcbd0414642b76b18603e1ab2b1f8d3a7556b7d2400841b6",
+      "size": 4149039,
+      "source_url": "https://store.bblcdn.com/s1/default/7b4ce4e025d74297b53a6056fe583da2/whale_5.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d6/d6c5cf434f457e4a34ab3d706d614c4a4d315233e0579b2f33e274a7e7101597.png",
+      "id": "image-e39b288a416dabab2f93",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_7.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d6c5cf434f457e4a34ab3d706d614c4a4d315233e0579b2f33e274a7e7101597",
+      "size": 3665001,
+      "source_url": "https://store.bblcdn.com/s1/default/aa6eb1c4dde2406f8736326d0007e924/whale_7.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/66/666a1abc7ae315e77ddfa3b878329df875d836c68b31f5c9462bbded4ede3aea.png",
+      "id": "image-display-20c2edb36fe3c431c26e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1280,
+        "source_sha256": "c9242c52b4ae3d9bfe4dd0eba97f145c8b479de051aacd232a52cd845c8baa76",
+        "source_width": 1280
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_2.catalog.png",
+      "parent_asset_id": "image-759c30cef3faf5bf684e",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "666a1abc7ae315e77ddfa3b878329df875d836c68b31f5c9462bbded4ede3aea",
+      "size": 427166,
+      "source_url": "https://store.bblcdn.com/s1/default/47f26c978777458fa9a2f29566a07a14/whale_2.PNG"
+    },
+    {
+      "blob_path": "data/blobs/sha256/11/11d3dece046b655d21a4f677cec0682a23f687eac941beb3cff6e59809b18af2.png",
+      "id": "image-display-483fe47d02fc459caa1a",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1280,
+        "source_sha256": "616854a2dc1775b9bd6adfc4feb503ef50615213f878d1c030ca425f7d720b96",
+        "source_width": 1280
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_3.catalog.png",
+      "parent_asset_id": "image-5c0c851a03bad29c8358",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "11d3dece046b655d21a4f677cec0682a23f687eac941beb3cff6e59809b18af2",
+      "size": 298250,
+      "source_url": "https://store.bblcdn.com/s1/default/59071f288ae24dba954713eb9a350995/whale_3.PNG"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a6/a60e8d051acfc09b918ba6ede34778a1f5433d1108cd8015f0884e6c637f43ce.png",
+      "id": "image-display-e0bd700fc261432ca39a",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "206f877d45c69e48aebb0cff9d30977d37124c75d793dbba410989f73fc1fa94",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_1.catalog.png",
+      "parent_asset_id": "image-8464cd765b2569ded1e1",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a60e8d051acfc09b918ba6ede34778a1f5433d1108cd8015f0884e6c637f43ce",
+      "size": 1181010,
+      "source_url": "https://store.bblcdn.com/s1/default/2f3e90045cda40a7b932ea6cff4c3b1e/whale_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/bb/bb60525b467c8e3a334ab36460bce3df3882a7e50497a963b65b3b20260c4557.png",
+      "id": "image-display-00b8d70f0f813cbe1fcb",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "04efa14d274ba0bc0982fb28929f87c94331c7e4922335b4f3792b6336376955",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_6.catalog.png",
+      "parent_asset_id": "image-929c9e8d17dd01a63b5e",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "bb60525b467c8e3a334ab36460bce3df3882a7e50497a963b65b3b20260c4557",
+      "size": 1243354,
+      "source_url": "https://store.bblcdn.com/s1/default/5961ab299e9342fd96048a3a251ae301/whale_6.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/1d/1dd11efcc2a339a0687c3af40baec65de7042644ac0e43c2d0527e43acbf9207.png",
+      "id": "image-display-f04594810b9cecb43523",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "b4a65c7ddfdb8beedcbd0414642b76b18603e1ab2b1f8d3a7556b7d2400841b6",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_5.catalog.png",
+      "parent_asset_id": "image-8e46f2ca9bc171839219",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1dd11efcc2a339a0687c3af40baec65de7042644ac0e43c2d0527e43acbf9207",
+      "size": 1063685,
+      "source_url": "https://store.bblcdn.com/s1/default/7b4ce4e025d74297b53a6056fe583da2/whale_5.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ca/ca45bf96fda4e07dc23ba8fccf2668ec32ab4972f98ad84eb094efb568d7a4ce.png",
+      "id": "image-display-13668f67f2fbba7a558f",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "d6c5cf434f457e4a34ab3d706d614c4a4d315233e0579b2f33e274a7e7101597",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "whale_7.catalog.png",
+      "parent_asset_id": "image-e39b288a416dabab2f93",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ca45bf96fda4e07dc23ba8fccf2668ec32ab4972f98ad84eb094efb568d7a4ce",
+      "size": 939042,
+      "source_url": "https://store.bblcdn.com/s1/default/aa6eb1c4dde2406f8736326d0007e924/whale_7.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Mechanical Components"
+  ],
+  "category_assignments": [
+    {
+      "id": "mechanical",
+      "label": "Mechanical Components",
+      "path": [
+        "Hardware",
+        "Mechanical Components"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[9]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Round Shoelace, designed for 3D-printed footwear, features a snag-resistant weave. Two styles are available: the Normal version uses 100% abrasion-resistant polyester for daily wear, while the Reflective version incorporates light-reactive strips that create striking flashes under direct lighting, making it ideal for night runs or parties. Both versions thread smoothly through printed eyelets and lock securely."
+    },
+    {
+      "kind": "heading",
+      "text": "Product Feature"
+    },
+    {
+      "kind": "bullet",
+      "text": "Dual-Color Style Options: Classic Black/White and Reflective Black/White variants to adapt to different styling scenarios."
+    },
+    {
+      "kind": "bullet",
+      "text": "Anti-Slip Durable Weave: Cross-woven high-density polyester fibers with heat-sealed reinforced tips ensure secure fastening without loosening."
+    },
+    {
+      "kind": "bullet",
+      "text": "Universal Fit Design: 100cm length compatible with various shoe eyelet systems, making lacing and adjustment effortless."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 40px; font-size: 24px;\">Overview</h2>\n<p class=\"pct_p\" style=\"text-align: left;\">The <strong>Round Shoelace</strong>, designed for 3D-printed footwear, features a snag-resistant weave. Two styles are available: the Normal version uses 100% abrasion-resistant polyester for daily wear, while the Reflective version incorporates light-reactive strips that create striking flashes under direct lighting, making it ideal for night runs or parties. Both versions thread smoothly through printed eyelets and lock securely.</p>\n</div>\n</div>\n<p class=\"pct_p\" style=\"text-align: center;\"></p>\n<p class=\"pct_p\" style=\"text-align: center;\"><img class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/de0a3d859af04836b976958b28f9c8db/whale_4.JPEG\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></p>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 27px;\">\n<td class=\"pct_td\" style=\"width: 16.8028%; height: 27px; text-align: center;\"><strong>Models</strong></td>\n<td class=\"pct_td\" style=\"width: 19.7959%; height: 27px;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 25.0455%; height: 27px;\"><strong>Model Links</strong></td>\n<td class=\"pct_td\" style=\"width: 23.7801%; height: 27px;\"><strong>Need Other Accessories</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"width: 16.8028%; height: 25px; text-align: center;\"><strong>Whaleberry</strong></td>\n<td class=\"pct_td\" style=\"width: 19.7959%; height: 25px;\"><strong>@CloudBerry</strong></td>\n<td class=\"pct_td\" style=\"width: 25.0455%; height: 25px;\"><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/zh/models/1229146-whaleberry#profileId-1247594\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"><strong>Whaleberry</strong></a></span></td>\n<td class=\"pct_td\" style=\"width: 23.7801%; height: 25px;\"><strong>No</strong></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- 表格对齐样式 -->\n<style>\n    .pct_hardware-tableList-t-icpc {\n        padding: '0 20px'\n    }\n\n    .pct_hardware-tableList {\n        width: 100%;\n        row-gap: 15px !important;\n        column-gap: 15px !important;\n    }\n\n    .pct_hardware-tableList .pct_ic-p {\n        overflow: hidden;\n    }\n\n    .pct_hardware-tableList .pct_st-tbc .pct_tb .pct_td {\n        border-color: #ADADAD;\n    }\n\n    @media (min-width: 640px) {\n        .pct_hardware-tableList-t-icpc {\n            padding: 0px !important\n        }\n\n        .pct_hardware-tableList {\n            width: 100%;\n            row-gap: 15px;\n            column-gap: 15px;\n        }\n\n        .pct_hardware-tableList .pct_st-tbc .pct_tb .pct_td {\n            height: 50px;\n        }\n    }\n</style>\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<h2 class=\"pct_t\" style=\"margin-top: 30px; font-size: 24px;\">Basic Information</h2>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\"><!-- 左列 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 45%; margin-top: 0; font-weight: bold;\">\n<tbody><!-- 模块开头-->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Length</td>\n<td class=\"pct_td\">1m</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Quantity</td>\n<td class=\"pct_td\">\n<p>Normal: Black &amp; White</p>\n<p>Reflective: Black &amp; White</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n<!-- 右列 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 45%; margin-top: 0; font-weight: bold;\">\n<tbody><!-- 模块开头-->\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Weight</td>\n<td class=\"pct_td\" style=\"height: 19px;\">2 Pairs per set</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Material</td>\n<td class=\"pct_td\" style=\"height: 19px;\">\n<p>Normal: 100% polyester thread</p>\n<p>Reflective: 72% polyester thread + 28% reflective thread</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<h2 class=\"pct_t\" style=\"margin-top: 40px; margin-bottom: 20px; font-size: 24px;\">Product Feature</h2>\n<ul>\n<li class=\"pct_p\" style=\"text-align: left;\"><strong>Dual-Color Style Options: </strong>Classic Black/White and Reflective Black/White variants to adapt to different styling scenarios.</li>\n<li class=\"pct_p\" style=\"text-align: left;\"><strong>Anti-Slip Durable Weave:</strong> Cross-woven high-density polyester fibers with heat-sealed reinforced tips ensure secure fastening without loosening.</li>\n<li class=\"pct_p\" style=\"text-align: left;\"><strong>Universal Fit Design: </strong>100cm length compatible with various shoe eyelet systems, making lacing and adjustment effortless.</li>\n</ul>\n</div>\n</div>",
+  "description_text": "The Round Shoelace, designed for 3D-printed footwear, features a snag-resistant weave. Two styles are available: the Normal version uses 100% abrasion-resistant polyester for daily wear, while the Reflective version incorporates light-reactive strips that create striking flashes under direct lighting, making it ideal for night runs or parties. Both versions thread smoothly through printed eyelets and lock securely.\n\nDual-Color Style Options: Classic Black/White and Reflective Black/White variants to adapt to different styling scenarios.\n\nAnti-Slip Durable Weave: Cross-woven high-density polyester fibers with heat-sealed reinforced tips ensure secure fastening without loosening.\n\nUniversal Fit Design: 100cm length compatible with various shoe eyelet systems, making lacing and adjustment effortless.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "mf004-round-shoelace",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "Length",
+      "numeric_value": "1",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Length",
+        "source_url": "https://us.store.bambulab.com/products/round-shoelace?id=581020705324855299"
+      },
+      "raw_value": "1m",
+      "unit": "m"
+    }
+  ],
+  "name": "Round Shoelace",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://us.store.bambulab.com/en/products/round-shoelace?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/round-shoelace?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/round-shoelace?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/round-shoelace?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/round-shoelace?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/round-shoelace?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "MF004",
+    "MF005"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Whaleberry",
+      "url": "https://makerworld.com/zh/models/1229146-whaleberry#profileId-1247594"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "54208750944604",
+    "54208750977372",
+    "581020705324855299",
+    "581020705324855303",
+    "581023216754167811",
+    "581023216754167815",
+    "581023523233488899",
+    "581023523233488903",
+    "581024199063609347",
+    "581024199063609351",
+    "581024630257086467",
+    "581024630257086471"
+  ],
+  "source_tables": [
+    {
+      "caption": "Overview",
+      "headers": [
+        "Models",
+        "Creators",
+        "Model Links",
+        "Need Other Accessories"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/round-shoelace?id=581020705324855299"
+      },
+      "rows": [
+        [
+          "Whaleberry",
+          "@CloudBerry",
+          "Whaleberry",
+          "No"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/round-shoelace?id=581020705324855299"
+      },
+      "rows": [
+        [
+          "Length",
+          "1m"
+        ],
+        [
+          "Quantity",
+          "Normal: Black & White Reflective: Black & White"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/round-shoelace?id=581020705324855299"
+      },
+      "rows": [
+        [
+          "Weight",
+          "2 Pairs per set"
+        ],
+        [
+          "Material",
+          "Normal: 100% polyester thread Reflective: 72% polyester thread + 28% reflective thread"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Creators": "@CloudBerry",
+    "Length": "1m",
+    "Material": "Normal: 100% polyester thread Reflective: 72% polyester thread + 28% reflective thread",
+    "Model Links": "Whaleberry",
+    "Models": "Whaleberry",
+    "Need Other Accessories": "No",
+    "Quantity": "Normal: Black & White Reflective: Black & White",
+    "Weight": "2 Pairs per set"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/24e2b923689a42b3b4b25ac8dc828ff9/whale_2.PNG",
+      "part_number": "MF004",
+      "price": "4.99",
+      "region": "us",
+      "sku": "581020705324855299",
+      "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
+      "url": "https://us.store.bambulab.com/products/round-shoelace?id=581020705324855299",
+      "variant_id": "581020705324855299"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/8c937f0bc292456e9ecc5772573336d6/whale_3.PNG",
+      "part_number": "MF005",
+      "price": "2.99",
+      "region": "us",
+      "sku": "581020705324855303",
+      "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
+      "url": "https://us.store.bambulab.com/products/round-shoelace?id=581020705324855303",
+      "variant_id": "581020705324855303"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/f8e661e5cd5244598372e903f7ac2fe4/whale_2.PNG",
+      "part_number": "MF004",
+      "price": "6.99",
+      "region": "ca",
+      "sku": "581023216754167811",
+      "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
+      "url": "https://ca.store.bambulab.com/products/round-shoelace?id=581023216754167811",
+      "variant_id": "581023216754167811"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/29cd7115ab214d388699c0a293a06ebf/whale_3.PNG",
+      "part_number": "MF005",
+      "price": "3.99",
+      "region": "ca",
+      "sku": "581023216754167815",
+      "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
+      "url": "https://ca.store.bambulab.com/products/round-shoelace?id=581023216754167815",
+      "variant_id": "581023216754167815"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/eaed5878e61b4d11a8e1bbb6f4f4fa71/1-4_25d7ca8c-c74b-45d7-95b4-09d75abf4c10.png",
+      "part_number": "MF004",
+      "price": "5.99",
+      "region": "eu",
+      "sku": "54208750944604",
+      "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
+      "url": "https://eu.store.bambulab.com/products/round-shoelace?id=54208750944604",
+      "variant_id": "54208750944604"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/16d58636950249728a6c18e77c7d0980/1-4-1_19e0ef73-e51d-403b-b208-05b14d77630c.png",
+      "part_number": "MF005",
+      "price": "3.99",
+      "region": "eu",
+      "sku": "54208750977372",
+      "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
+      "url": "https://eu.store.bambulab.com/products/round-shoelace?id=54208750977372",
+      "variant_id": "54208750977372"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/787580ffbbb0474f89a3b01aad0519f7/whale_2.PNG",
+      "part_number": "MF004",
+      "price": "4.99",
+      "region": "uk",
+      "sku": "581024630257086467",
+      "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
+      "url": "https://uk.store.bambulab.com/products/round-shoelace?id=581024630257086467",
+      "variant_id": "581024630257086467"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/57d02ed3d153439d9a8a238f36827e9e/whale_3.PNG",
+      "part_number": "MF005",
+      "price": "2.99",
+      "region": "uk",
+      "sku": "581024630257086471",
+      "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
+      "url": "https://uk.store.bambulab.com/products/round-shoelace?id=581024630257086471",
+      "variant_id": "581024630257086471"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/96850c34e72e45f5aea1c3e169cb2f09/whale_2.PNG",
+      "part_number": "MF004",
+      "price": "9.99",
+      "region": "au",
+      "sku": "581023523233488899",
+      "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
+      "url": "https://au.store.bambulab.com/products/round-shoelace?id=581023523233488899",
+      "variant_id": "581023523233488899"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/5405805267c64addb0393b9390883b52/whale_3.PNG",
+      "part_number": "MF005",
+      "price": "5.99",
+      "region": "au",
+      "sku": "581023523233488903",
+      "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
+      "url": "https://au.store.bambulab.com/products/round-shoelace?id=581023523233488903",
+      "variant_id": "581023523233488903"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/47f26c978777458fa9a2f29566a07a14/whale_2.PNG",
+      "part_number": "MF004",
+      "price": "4.99",
+      "region": "asia",
+      "sku": "581024199063609347",
+      "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
+      "url": "https://asia.store.bambulab.com/products/round-shoelace?id=581024199063609347",
+      "variant_id": "581024199063609347"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/59071f288ae24dba954713eb9a350995/whale_3.PNG",
+      "part_number": "MF005",
+      "price": "2.99",
+      "region": "asia",
+      "sku": "581024199063609351",
+      "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
+      "url": "https://asia.store.bambulab.com/products/round-shoelace?id=581024199063609351",
+      "variant_id": "581024199063609351"
+    }
+  ]
+}

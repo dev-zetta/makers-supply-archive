@@ -1,0 +1,346 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "coffee-dispenser",
+      "product_id": "744066177917284352",
+      "region": "us"
+    },
+    {
+      "handle": "coffee-dispenser",
+      "product_id": "744065153983508480",
+      "region": "ca"
+    },
+    {
+      "handle": "coffee-dispenser",
+      "product_id": "744066879217762304",
+      "region": "eu"
+    },
+    {
+      "handle": "coffee-dispenser",
+      "product_id": "744065428088979456",
+      "region": "uk"
+    },
+    {
+      "handle": "coffee-dispenser",
+      "product_id": "744064529020411904",
+      "region": "au"
+    },
+    {
+      "handle": "coffee-dispenser",
+      "product_id": "744040094383501312",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/55/553033970d74aadd24163dcad430fa3f1d350fe01713681fbca221b2a1724a3d.png",
+      "id": "image-5471ad4140f5a054b415",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH143-2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "553033970d74aadd24163dcad430fa3f1d350fe01713681fbca221b2a1724a3d",
+      "size": 908082,
+      "source_url": "https://store.bblcdn.com/s1/default/d2a717bb3ae44bf885adfbfd61b6af86/B-ZH143-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e4/e4ae8b5c619af75d2d0531a05921903e0f7123b5bad11bc25ba887e5795bf452.png",
+      "id": "image-2d0184dc760c212271d8",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH143-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e4ae8b5c619af75d2d0531a05921903e0f7123b5bad11bc25ba887e5795bf452",
+      "size": 282603,
+      "source_url": "https://store.bblcdn.com/s1/default/1ed83a1fe64c4c9588d289ec7a4f5460/B-ZH143-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b4/b447d6ecde0fa0afcb948ccd61cd381c07e2425b6323ad80e3d187238a43e3cd.png",
+      "id": "image-display-f0fd3076c7760c93cd7d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "553033970d74aadd24163dcad430fa3f1d350fe01713681fbca221b2a1724a3d",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH143-2.catalog.png",
+      "parent_asset_id": "image-5471ad4140f5a054b415",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b447d6ecde0fa0afcb948ccd61cd381c07e2425b6323ad80e3d187238a43e3cd",
+      "size": 769762,
+      "source_url": "https://store.bblcdn.com/s1/default/d2a717bb3ae44bf885adfbfd61b6af86/B-ZH143-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e3/e3d0f96d32cbe114c6a39ed713f5ae3780e78919a69d69070f7791f9751193b1.png",
+      "id": "image-display-541a1439ade12d37342d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e4ae8b5c619af75d2d0531a05921903e0f7123b5bad11bc25ba887e5795bf452",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH143-1.catalog.png",
+      "parent_asset_id": "image-2d0184dc760c212271d8",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e3d0f96d32cbe114c6a39ed713f5ae3780e78919a69d69070f7791f9751193b1",
+      "size": 83790,
+      "source_url": "https://store.bblcdn.com/s1/default/1ed83a1fe64c4c9588d289ec7a4f5460/B-ZH143-1.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa158-m3-socket-head-cap-machine-screws-shcs-1",
+      "name": "M3x8 SHCS Machine Screw (20PCS) - AA037",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "bb001-compression-spring",
+      "name": "Compression Spring 0.5x7x12 mm (10PCS) - BB005",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Coffee Dispenser. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Coffee Dispenser on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Coffee Dispenser</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Coffee Dispenser</strong>  on <a href=\"https://makerworld.com/en/models/1549980-nescafe-gold-coffee-dispenser#profileId-1627853\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">M3x8 SHCS Machine Screw (20PCS) - AA037</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">Compression Spring 0.5x7x12 mm (10PCS) - BB005</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Coffee Dispenser. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Coffee Dispenser on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh143-coffee-dispenser",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Coffee Dispenser",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.7",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.23",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.6",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "3.35",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.93",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "2.47",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA037",
+    "B-ZH143",
+    "BB005",
+    "ZH143"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Nescafe Gold Coffee Dispenser",
+      "url": "https://makerworld.com/en/models/1549980-nescafe-gold-coffee-dispenser#profileId-1627853"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "744040094496747522",
+    "744064529070743554",
+    "744065154000285698",
+    "744065428114145282",
+    "744066177929867266",
+    "744066879238733826"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/coffee-dispenser?id=744066177929867266"
+      },
+      "rows": [
+        [
+          "M3x8 SHCS Machine Screw (20PCS) - AA037",
+          "1"
+        ],
+        [
+          "Compression Spring 0.5x7x12 mm (10PCS) - BB005",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/709eaeb86e1f435abd7951ba185a8043/B-ZH143-2.png",
+      "part_number": "ZH143",
+      "price": "2.7",
+      "region": "us",
+      "sku": "744066177929867266",
+      "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
+      "url": "https://us.store.bambulab.com/products/coffee-dispenser?id=744066177929867266",
+      "variant_id": "744066177929867266"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/e04cc8e02a9c4224826f4b24af03ddf9/B-ZH143-2.png",
+      "part_number": "ZH143",
+      "price": "3.23",
+      "region": "ca",
+      "sku": "744065154000285698",
+      "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
+      "url": "https://ca.store.bambulab.com/products/coffee-dispenser?id=744065154000285698",
+      "variant_id": "744065154000285698"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/696f263d100446f5a9abea0e766f08d1/B-ZH143-2.png",
+      "part_number": "ZH143",
+      "price": "3.6",
+      "region": "eu",
+      "sku": "744066879238733826",
+      "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
+      "url": "https://eu.store.bambulab.com/products/coffee-dispenser?id=744066879238733826",
+      "variant_id": "744066879238733826"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/e9e7ca56dc16479eaeb1ccedfe1e5423/B-ZH143-2.png",
+      "part_number": "ZH143",
+      "price": "3.35",
+      "region": "uk",
+      "sku": "744065428114145282",
+      "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
+      "url": "https://uk.store.bambulab.com/products/coffee-dispenser?id=744065428114145282",
+      "variant_id": "744065428114145282"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/840dfc39424d431284f999a973d2d8f1/B-ZH143-2.png",
+      "part_number": "ZH143",
+      "price": "5.93",
+      "region": "au",
+      "sku": "744064529070743554",
+      "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
+      "url": "https://au.store.bambulab.com/products/coffee-dispenser?id=744064529070743554",
+      "variant_id": "744064529070743554"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/d2a717bb3ae44bf885adfbfd61b6af86/B-ZH143-2.png",
+      "part_number": "ZH143",
+      "price": "2.47",
+      "region": "asia",
+      "sku": "744040094496747522",
+      "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
+      "url": "https://asia.store.bambulab.com/products/coffee-dispenser?id=744040094496747522",
+      "variant_id": "744040094496747522"
+    }
+  ]
+}

@@ -1,0 +1,772 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "desktop-ornament-components-kit",
+      "product_id": "8421598986376",
+      "region": "us"
+    },
+    {
+      "handle": "desktop-ornament-components-kit",
+      "product_id": "9111249617136",
+      "region": "ca"
+    },
+    {
+      "handle": "desktop-ornament-components-kit",
+      "product_id": "14778201702748",
+      "region": "eu"
+    },
+    {
+      "handle": "desktop-ornament-components-kit",
+      "product_id": "536377849933447168",
+      "region": "uk"
+    },
+    {
+      "handle": "desktop-ornament-components-kit",
+      "product_id": "536375503540125696",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/92/929bd17027f96356ddd374b5218fbe0df4acfe581ba516947821f24069222d6b.png",
+      "id": "image-356e9ea58e27585b6ecb",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH047_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "929bd17027f96356ddd374b5218fbe0df4acfe581ba516947821f24069222d6b",
+      "size": 369431,
+      "source_url": "https://store.bblcdn.eu/s4/default/888d671750e24fc7aeaea7707d859cfe/ZH047_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d0/d0fde5fd0caa1585487983a7b82b7c5452e729580805e92c5931551bde6805b8.png",
+      "id": "image-56155d7e2e5129c87f2f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH047_2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d0fde5fd0caa1585487983a7b82b7c5452e729580805e92c5931551bde6805b8",
+      "size": 596592,
+      "source_url": "https://store.bblcdn.eu/s4/default/25c72763ec8e4e9ab5c4693db270ea37/ZH047_2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f2/f2cf48d0ce8299becc6516e702e3acfba209010a3d25095d28b98eb830e87d9f.png",
+      "id": "image-62c191f5205cd632feba",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH047_3.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "f2cf48d0ce8299becc6516e702e3acfba209010a3d25095d28b98eb830e87d9f",
+      "size": 554198,
+      "source_url": "https://store.bblcdn.eu/s4/default/9aace758e4ca45c68ace10ee7b7e2542/ZH047_3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/3e/3e4cc562ea4f2765ef5e28b5c621fc704ff7cf08251ad924930842edad51f43d.zip",
+      "id": "archive-a89cd6d38064f98381f4",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Desktop_Ornament_Components_Kit-B-ZH047_Model.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "3e4cc562ea4f2765ef5e28b5c621fc704ff7cf08251ad924930842edad51f43d",
+      "size": 4032864,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "1 Clock Components Kit-MH011/Clock Components Kit-MH011.step",
+      "blob_path": "data/blobs/sha256/87/8715a5a069f150a32ad1dffe2d758c869f5ae7560f00767b0e33a90fdb7074be.step",
+      "id": "model-833bc887d718d02a8ea8",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Clock Components Kit-MH011.step",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "8715a5a069f150a32ad1dffe2d758c869f5ae7560f00767b0e33a90fdb7074be",
+      "size": 3075254,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "1 Clock Components Kit-MH011/Clock Components Kit-MH011.stl",
+      "blob_path": "data/blobs/sha256/36/36d8f2c17c5ef6b2a33ea6512f6044f8f3346f516469eff167ad7e5e3fdf2bee.stl",
+      "id": "model-ffe595ec6ec56278ffbb",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Clock Components Kit-MH011.stl",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "36d8f2c17c5ef6b2a33ea6512f6044f8f3346f516469eff167ad7e5e3fdf2bee",
+      "size": 1400584,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "2 LED Lamp Kit-MH001/LED Lamp Kit-001 Design Guide-MH001.stl",
+      "blob_path": "data/blobs/sha256/f1/f139586ceaa5fc638f1325094a6f432234eaaf15d8d79fc1fbd7f8a03b49c2d1.stl",
+      "id": "model-3684dd71edb6567ef762",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "LED Lamp Kit-001 Design Guide-MH001.stl",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f139586ceaa5fc638f1325094a6f432234eaaf15d8d79fc1fbd7f8a03b49c2d1",
+      "size": 1391084,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "2 LED Lamp Kit-MH001/LED Lamp Kit-001 Design Guide-MH001.stp",
+      "blob_path": "data/blobs/sha256/78/78e1dae80c80e39a891793a156b4adb2e61b56cfb0ca1113efae9f675a13a44c.stp",
+      "id": "model-cd1c950c524431af31bd",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "LED Lamp Kit-001 Design Guide-MH001.stp",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "78e1dae80c80e39a891793a156b4adb2e61b56cfb0ca1113efae9f675a13a44c",
+      "size": 684729,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "3 LED Flame Tea Light Candle Set-KC008/LED Flame Tea Light Candle Set Warm Yellow-KC008.stl",
+      "blob_path": "data/blobs/sha256/63/63dcc4e9be343b51de4b188a1d88765ff9938952f60d4dadab921fe73355c7b7.stl",
+      "id": "model-44f88f6e067291793f67",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "LED Flame Tea Light Candle Set Warm Yellow-KC008.stl",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "63dcc4e9be343b51de4b188a1d88765ff9938952f60d4dadab921fe73355c7b7",
+      "size": 60884,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "3 LED Flame Tea Light Candle Set-KC008/LED Flame Tea Light Candle Set Warm Yellow-KC008.stp",
+      "blob_path": "data/blobs/sha256/d7/d7be4c683b5848af2617957a825032e4f3f6023132a8f1143a0929492615a979.stp",
+      "id": "model-1a99370d385a3513ce7b",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "LED Flame Tea Light Candle Set Warm Yellow-KC008.stp",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "d7be4c683b5848af2617957a825032e4f3f6023132a8f1143a0929492615a979",
+      "size": 161843,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "4 Remote Controlled 16-color RGBW Puck Lights-KC007/Remote Controlled 16-color RGBW Puck Lights-KC007.stl",
+      "blob_path": "data/blobs/sha256/d2/d2d1e2c3f5f38690ebdb13c59f6eb9a7e6176b0548214a86b2cdee563e727f6d.stl",
+      "id": "model-d20530aca8a375baa0cf",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Remote Controlled 16-color RGBW Puck Lights-KC007.stl",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "d2d1e2c3f5f38690ebdb13c59f6eb9a7e6176b0548214a86b2cdee563e727f6d",
+      "size": 83784,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "4 Remote Controlled 16-color RGBW Puck Lights-KC007/Remote Controlled 16-color RGBW Puck Lights-KC007.stp",
+      "blob_path": "data/blobs/sha256/9c/9c256ec1b92a1f3d7dbf923deb4eaacbc6d3746c7301c78ca119175813a66a2e.stp",
+      "id": "model-855282ebc2028b37de1c",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Remote Controlled 16-color RGBW Puck Lights-KC007.stp",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "9c256ec1b92a1f3d7dbf923deb4eaacbc6d3746c7301c78ca119175813a66a2e",
+      "size": 53455,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "5 100mm Y type PH2.0 to Dual SH1.0 Conversion Wire-XC003/100mm Y type PH2.0 to Dual SH1.0 Conversion Wire - XC003.stl",
+      "blob_path": "data/blobs/sha256/8f/8f558c38e9fcb5bb8bcf64d7f7c0646f91200f08a460d2583e8e28399d2025b3.stl",
+      "id": "model-1b0a2a51f29218c0b5f3",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "100mm Y type PH2.0 to Dual SH1.0 Conversion Wire - XC003.stl",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "8f558c38e9fcb5bb8bcf64d7f7c0646f91200f08a460d2583e8e28399d2025b3",
+      "size": 2205884,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "5 100mm Y type PH2.0 to Dual SH1.0 Conversion Wire-XC003/100mm Y type PH2.0 to Dual SH1.0 Conversion Wire - XC003.stp",
+      "blob_path": "data/blobs/sha256/7d/7d5be4141fd2d47c5f21f7a11643a7cadd495894b28df0e6a79f5734af1290c4.stp",
+      "id": "model-d3d3d75459d65fe1c7cc",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "100mm Y type PH2.0 to Dual SH1.0 Conversion Wire - XC003.stp",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "7d5be4141fd2d47c5f21f7a11643a7cadd495894b28df0e6a79f5734af1290c4",
+      "size": 1352443,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "6 USB-A Power Cable with PH2.0 Connector-IC001/USB-A Power Cable with PH2.0 Connector-IC001.stl",
+      "blob_path": "data/blobs/sha256/55/55ba1076b9478e5221e65d6b8be5a7f6e2b84aa4326d8a63789eacdb43eca895.stl",
+      "id": "model-5e489c0456d9ddbd4149",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "USB-A Power Cable with PH2.0 Connector-IC001.stl",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "55ba1076b9478e5221e65d6b8be5a7f6e2b84aa4326d8a63789eacdb43eca895",
+      "size": 148584,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "6 USB-A Power Cable with PH2.0 Connector-IC001/USB-A Power Cable with PH2.0 Connector-IC001.stp",
+      "blob_path": "data/blobs/sha256/77/77ec287240625473e5f3ed98191f0c4a44655c42935e9b0a721af608bf6cc68b.stp",
+      "id": "model-d2e2275072ae1c0a1c4c",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "USB-A Power Cable with PH2.0 Connector-IC001.stp",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "77ec287240625473e5f3ed98191f0c4a44655c42935e9b0a721af608bf6cc68b",
+      "size": 55302,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "7 Potentiometer Board with SH1.0 Connector-IA007/potentiometer_board-sh1_0_new.stl",
+      "blob_path": "data/blobs/sha256/05/0535c563594a2112249f2c27432a79beb7ba10895c80c1c847c53eb83ab90a2f.stl",
+      "id": "model-d596fd8ab743d46d3b7c",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "potentiometer_board-sh1_0_new.stl",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "0535c563594a2112249f2c27432a79beb7ba10895c80c1c847c53eb83ab90a2f",
+      "size": 1397984,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "7 Potentiometer Board with SH1.0 Connector-IA007/potentiometer_board-sh1_0_new.stp",
+      "blob_path": "data/blobs/sha256/11/115df8ae294daffa396808eccae51cb4d522ea7270d8a0a2815f7da22fc26473.stp",
+      "id": "model-1839ece994bce1a5719c",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "potentiometer_board-sh1_0_new.stp",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "115df8ae294daffa396808eccae51cb4d522ea7270d8a0a2815f7da22fc26473",
+      "size": 4026158,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "8 COB LED Strip Light-KA009/300x1mm - KA009.stl",
+      "blob_path": "data/blobs/sha256/71/71c74d9760d8a34e1a770024e3935e8e4c006df07ff7767717c799c64daaec4f.stl",
+      "id": "model-ca06d807b022a24b810a",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "300x1mm - KA009.stl",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "71c74d9760d8a34e1a770024e3935e8e4c006df07ff7767717c799c64daaec4f",
+      "size": 208584,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "8 COB LED Strip Light-KA009/300x1mm - KA009.stp",
+      "blob_path": "data/blobs/sha256/6b/6b8032b3c9a5be749be4355807e13451b14726c379fa232c3e508aa7466b82c3.stp",
+      "id": "model-d7e1abfd00d7e8ce2b5b",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "300x1mm - KA009.stp",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "6b8032b3c9a5be749be4355807e13451b14726c379fa232c3e508aa7466b82c3",
+      "size": 1892488,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "9 40x36x126mm Clear Acrylic Rigid Tubes-HC003/40x36x126mm - HC003.stl",
+      "blob_path": "data/blobs/sha256/31/313d8ab3a48a574f64d4b118eb7d19e56c835a39a57b8eed7a1c32bc707318b5.stl",
+      "id": "model-6abecdfb7790a6536782",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "40x36x126mm - HC003.stl",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "313d8ab3a48a574f64d4b118eb7d19e56c835a39a57b8eed7a1c32bc707318b5",
+      "size": 66084,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "archive_member_path": "9 40x36x126mm Clear Acrylic Rigid Tubes-HC003/40x36x126mm - HC003.stp",
+      "blob_path": "data/blobs/sha256/f6/f6de2d799a23c6e6208be6c57a2cd9e606afcfe52a252f9de0e823416478515e.stp",
+      "id": "model-f4754c484abfdc71d0f0",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "40x36x126mm - HC003.stp",
+      "parent_asset_id": "archive-a89cd6d38064f98381f4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f6de2d799a23c6e6208be6c57a2cd9e606afcfe52a252f9de0e823416478515e",
+      "size": 25091,
+      "source_url": "https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/8a/8a3dfe8c0801cfe259304ed72f812a9ea2d3b3115c06058a631a9b2c8556fb51.zip",
+      "id": "archive-f66f085af139c0c435b2",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Desktop_Ornament_Components_Kit-B-ZH047_Application_Instruction.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "8a3dfe8c0801cfe259304ed72f812a9ea2d3b3115c06058a631a9b2c8556fb51",
+      "size": 2581003,
+      "source_url": "https://store.bblcdn.com/s7/default/52a7d9ade69045bb8e9fccc76656ff4b/Desktop_Ornament_Components_Kit-B-ZH047_Application_Instruction.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/20/20e7a2217f7b71779eefa5f11e5a187dbc4c93bded47970f71d598a7a47f2f6d.png",
+      "id": "image-display-55b38c8eb2407bf22ef3",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "929bd17027f96356ddd374b5218fbe0df4acfe581ba516947821f24069222d6b",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH047_1.catalog.png",
+      "parent_asset_id": "image-356e9ea58e27585b6ecb",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "20e7a2217f7b71779eefa5f11e5a187dbc4c93bded47970f71d598a7a47f2f6d",
+      "size": 107010,
+      "source_url": "https://store.bblcdn.eu/s4/default/888d671750e24fc7aeaea7707d859cfe/ZH047_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/3e/3e1eb7bbfca5c8f8eaf4d516c00deb4ea7b3702c31ddfbfc28dd9520b92b6581.png",
+      "id": "image-display-693943d48ead8bdf0844",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "d0fde5fd0caa1585487983a7b82b7c5452e729580805e92c5931551bde6805b8",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH047_2.catalog.png",
+      "parent_asset_id": "image-56155d7e2e5129c87f2f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "3e1eb7bbfca5c8f8eaf4d516c00deb4ea7b3702c31ddfbfc28dd9520b92b6581",
+      "size": 137070,
+      "source_url": "https://store.bblcdn.eu/s4/default/25c72763ec8e4e9ab5c4693db270ea37/ZH047_2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/4a/4ae1fd304fd823d3e5f9542085c2581105831e314b865e45eb74b72ed356cad3.png",
+      "id": "image-display-1e10ca8e21a4d7e0ff15",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "f2cf48d0ce8299becc6516e702e3acfba209010a3d25095d28b98eb830e87d9f",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH047_3.catalog.png",
+      "parent_asset_id": "image-62c191f5205cd632feba",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4ae1fd304fd823d3e5f9542085c2581105831e314b865e45eb74b72ed356cad3",
+      "size": 133958,
+      "source_url": "https://store.bblcdn.eu/s4/default/9aace758e4ca45c68ace10ee7b7e2542/ZH047_3.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "linked_product_id": "clock-components-kit-011",
+      "name": "Clock Components Kit 011",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/clock-components-kit-011",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "linked_product_id": "mh001-led-lamp-kit-001",
+      "name": "LED Lamp Kit 001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/led-lamp-kit-001?_pos=1&_sid=a5841cb84&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "linked_product_id": "kc008-led-flame-tea-light-candle-set-warm-yellow",
+      "name": "LED Flame Tea Light Candle Set Warm Yellow (12pcs) - KC008",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/led-flame-tea-light-candle-set-warm-yellow?_pos=1&_sid=018355029&_ss=r&variant=42738890604680",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "4",
+      "linked_product_id": "kc007-remote-controlled-16-color-rgbw-puck-lights",
+      "name": "Remote Controlled 16-color RGBW Puck Lights (2pcs) - KC007",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/remote-controlled-16-color-rgbw-puck-lights?_pos=1&_sid=7ab723c82&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "5",
+      "linked_product_id": "k014-piano-music-box-winding-kit",
+      "name": "Piano Music Box Bottom Winding Kit - K014",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/piano-music-box-winding-kit?_pos=1&_sid=5c797ec6d&_ss=r&variant=42832088203400",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "6",
+      "linked_product_id": "nc005-adhesive-foam-sponge-strip-roll",
+      "name": "20x0.5mm Adhesive Foam Sponge Strip Roll 5m (1pcs) - NC005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?_pos=1&_sid=a8cbb1af5&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "7",
+      "linked_product_id": "xc003-100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire",
+      "name": "100mm Y Type PH2.0 to Dual SH1.0 Conversion Wire (2PCS) - XC003",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?_pos=1&_sid=6c7b32eb7&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "8",
+      "linked_product_id": "ic001-usb-a-power-cable-with-ph2-0-connector",
+      "name": "USB-A Power Cable with PH2.0 Connector (1PCS) - IC001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/usb-a-power-cable-with-ph2-0-connector?_pos=1&_sid=6b415667c&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "9",
+      "linked_product_id": "ia007-potentiometer-board-with-sh1-0-connector",
+      "name": "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/potentiometer-board-with-sh1-0-connector?_pos=1&_sid=a61f4b5d0&_ss=r",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "10",
+      "linked_product_id": "ka007-cob-led-strip-light",
+      "name": "300x1mm COB LED Strip Light (1PCS) - KA009",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/cob-led-strip-light?_pos=1&_sid=c31adac16&_ss=r&variant=42799127691400",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "11",
+      "linked_product_id": "hc001-clear-acrylic-rigid-tubes",
+      "name": "40x36x126 mm Clear Acrylic Rigid Round Tube (2pcs) - HC003",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/clear-acrylic-rigid-tubes?_pos=1&_sid=28cffa149&_ss=r&variant=42723391733896",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Desktop Ornament Components Kit is designed to bring endless possibilities and personalized creativity to your tabletop. The kit includes a wide variety of electronic and mechanical parts that can be easily assembled with 3D-printed models to create different styles of desktop decorations. Whether you want to craft a playful clock, an ambient lamp, a music box, or any unique tabletop decor, this set of components will meet your needs and help bring your creative ideas to life."
+    },
+    {
+      "kind": "heading",
+      "text": "Applications"
+    },
+    {
+      "kind": "bullet",
+      "text": "DIY Desktop Clock: Create a one-of-a-kind personalized clock by combining clock components with a custom 3D-printed frame."
+    },
+    {
+      "kind": "bullet",
+      "text": "Mood Lighting: Use LED strips and RGB lights to craft vibrant, dynamic lighting effects that enhance the ambiance of any room."
+    },
+    {
+      "kind": "bullet",
+      "text": "Romantic Candlelight: The LED candlelight kit provides a warm and cozy glow, perfectly mimicking the gentle flicker of real candlelight."
+    },
+    {
+      "kind": "bullet",
+      "text": "Music Box Ornament: Easily assemble a charming and melodious music box with the included Piano Music Box Winding Kit."
+    },
+    {
+      "kind": "bullet",
+      "text": "Artistic Light Decor: Combine an acrylic cylinder, adjustable COB light strips, and power components to design a minimalist and elegant art lamp with customizable lighting effects."
+    },
+    {
+      "kind": "bullet",
+      "text": "Adhesive Foam Roll: Securely attach and stabilize tabletop ornaments on any flat surface for a firm and steady display."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"><br/></h2>\n<h2 class=\"pct_st\"><br/></h2>\n<h1 class=\"pct_t\">Documentation</h1>\n<h2 class=\"pct_st\"><br/></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" data-mce-style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a data-mce-href=\"https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip\" data-mce-style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" href=\"https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"></a> <a data-mce-href=\"https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip\" data-mce-style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" href=\"https://store.bblcdn.com/s7/default/d4fcca492feb4f34ba1d6f9386ba36f7/Desktop_Ornament_Components_Kit-B-ZH047_Model.zip\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path clip-rule=\"evenodd\" d=\"M37.7154 0.802246L54.9999 16.8008V63.3224C54.9999 64.1367 54.3397 64.7969 53.5254 64.7969H5.16076C4.3464 64.7969 3.68623 64.1367 3.68623 63.3224V2.27677C3.68623 1.46241 4.3464 0.802246 5.16076 0.802246H37.7154Z\" fill=\"#60BB18\" fill-rule=\"evenodd\"></path> <path d=\"M5.8981 4.48869C5.8981 3.67433 6.55827 3.01416 7.37263 3.01416H36.5374C36.9344 3.01416 37.3146 3.17423 37.592 3.45817L44.4342 10.4605L52.2567 16.9683C52.5934 17.2485 52.7882 17.6638 52.7882 18.1019V61.1107C52.7882 61.925 52.128 62.5852 51.3136 62.5852H7.37263C6.55827 62.5852 5.8981 61.925 5.8981 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#60BB18\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" y=\"24.3948\"></rect> <path d=\"M20.3197 33.5191C20.3197 34.0039 20.2189 34.4239 20.0174 34.7791C19.8158 35.1342 19.5422 35.4246 19.1966 35.6502C18.8558 35.8758 18.4718 36.0414 18.0446 36.147V36.1902C18.8894 36.2958 19.5302 36.555 19.967 36.9678C20.4085 37.3806 20.6293 37.9326 20.6293 38.6238C20.6293 39.2382 20.4781 39.7878 20.1757 40.2725C19.8782 40.7573 19.4174 41.1389 18.7934 41.4173C18.1694 41.6957 17.3654 41.8349 16.3814 41.8349C15.8006 41.8349 15.2582 41.7869 14.7543 41.6909C14.2551 41.5997 13.7847 41.4581 13.3431 41.2661V39.3726C13.7943 39.603 14.2671 39.7782 14.7615 39.8982C15.2558 40.0134 15.7166 40.0709 16.1438 40.0709C16.9406 40.0709 17.4974 39.9342 17.8142 39.6606C18.1358 39.3822 18.2966 38.9934 18.2966 38.4942C18.2966 38.2014 18.2222 37.9542 18.0734 37.7526C17.9246 37.551 17.6654 37.3974 17.2958 37.2918C16.931 37.1862 16.4198 37.1334 15.7622 37.1334H14.9631V35.427H15.7766C16.4246 35.427 16.9166 35.367 17.2526 35.247C17.5934 35.1222 17.8238 34.9543 17.9438 34.7431C18.0686 34.5271 18.131 34.2823 18.131 34.0087C18.131 33.6343 18.0158 33.3415 17.7854 33.1303C17.555 32.9191 17.171 32.8135 16.6334 32.8135C16.2974 32.8135 15.9902 32.8567 15.7118 32.9431C15.4382 33.0247 15.191 33.1255 14.9703 33.2455C14.7495 33.3607 14.5551 33.4735 14.3871 33.5839L13.3575 32.0503C13.7703 31.7527 14.2527 31.5055 14.8047 31.3087C15.3614 31.1119 16.0238 31.0135 16.7918 31.0135C17.8766 31.0135 18.7358 31.2319 19.3694 31.6687C20.003 32.1055 20.3197 32.7223 20.3197 33.5191ZM31.2779 36.327C31.2779 37.5126 31.0499 38.5038 30.5939 39.3006C30.1428 40.0925 29.4876 40.6901 28.6284 41.0933C27.7692 41.4917 26.7348 41.6909 25.5252 41.6909H22.5445V31.1647H25.8492C26.9532 31.1647 27.9108 31.3615 28.722 31.7551C29.5332 32.1439 30.162 32.7223 30.6083 33.4903C31.0547 34.2535 31.2779 35.199 31.2779 36.327ZM28.9596 36.3846C28.9596 35.607 28.8444 34.9687 28.614 34.4695C28.3884 33.9655 28.0524 33.5935 27.606 33.3535C27.1644 33.1135 26.6172 32.9935 25.9644 32.9935H24.7765V39.8478H25.734C26.8236 39.8478 27.6324 39.5574 28.1604 38.9766C28.6932 38.3958 28.9596 37.5318 28.9596 36.3846Z\" fill=\"white\"></path> <path d=\"M37.6006 18.3492H55.0001L36.1261 0.802246V16.8746C36.1261 17.689 36.7863 18.3492 37.6006 18.3492Z\" fill=\"#60BB18\"></path> </svg> 3D Model </a> <a data-mce-href=\"https://store.bblcdn.com/s7/default/52a7d9ade69045bb8e9fccc76656ff4b/Desktop_Ornament_Components_Kit-B-ZH047_Application_Instruction.zip\" data-mce-style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" href=\"https://store.bblcdn.com/s7/default/52a7d9ade69045bb8e9fccc76656ff4b/Desktop_Ornament_Components_Kit-B-ZH047_Application_Instruction.zip\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 65 65\" width=\"65\" xmlns=\"http://www.w3.org/2000/svg\"> <path clip-rule=\"evenodd\" d=\"M34.7087 0.802246L51.9921 16.7998V63.2344C51.9921 64.0948 51.2946 64.7922 50.4342 64.7922H2.24001C1.37961 64.7922 0.682129 64.0948 0.682129 63.2344V2.36012C0.682129 1.49973 1.37961 0.802246 2.24001 0.802246H34.7087Z\" fill=\"#2172D0\" fill-rule=\"evenodd\"></path> <path d=\"M2.89377 4.57204C2.89377 3.71164 3.59125 3.01416 4.45165 3.01416H33.4957C33.9151 3.01416 34.3168 3.18328 34.6099 3.48327L41.4271 10.46L49.2189 16.9423C49.5747 17.2383 49.7804 17.6771 49.7804 18.1399V61.023C49.7804 61.8834 49.083 62.5809 48.2226 62.5809H4.45164C3.59125 62.5809 2.89377 61.8834 2.89377 61.023V4.57204Z\" fill=\"white\"></path> <path d=\"M34.6774 18.3479H51.9922L33.1196 0.802246V16.79C33.1196 17.6504 33.8171 18.3479 34.6774 18.3479Z\" fill=\"#2172D0\"></path> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"9.99928\" x=\"8.99524\" y=\"16.801\"></rect> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"9.99928\" x=\"8.99524\" y=\"34.7998\"></rect> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"23.9983\" x=\"8.99524\" y=\"25.8005\"></rect> <circle cx=\"44.9022\" cy=\"44.7086\" fill=\"white\" r=\"10.7622\" stroke=\"#2172D0\" stroke-width=\"2.47381\" transform=\"rotate(-49.859 44.9022 44.7086)\"></circle> <path d=\"M60.723 60.9036C61.7674 61.7844 63.3281 61.6517 64.2089 60.6073C65.0897 59.5628 64.957 58.0021 63.9126 57.1214L60.723 60.9036ZM52.2213 53.7341L60.723 60.9036L63.9126 57.1214L55.4109 49.9519L52.2213 53.7341Z\" fill=\"#2172D0\"></path> </svg> Application Instruction</a></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<!-- 第一条 -->\n<div class=\"pct_st-p\"><br/></div>\n<div class=\"pct_st-p\"><br/></div>\n<h3 class=\"pct_st\">Overview</h3>\n<p> </p>\n<p class=\"pct_p\">The <strong data-mce-fragment=\"1\">Desktop Ornament Components Kit</strong> is designed to bring endless possibilities and personalized creativity to your tabletop. The kit includes a wide variety of electronic and mechanical parts that can be easily assembled with 3D-printed models to create different styles of desktop decorations. Whether you want to craft a playful clock, an ambient lamp, a music box, or any unique tabletop decor, this set of components will meet your needs and help bring your creative ideas to life.</p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"><br/></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<!-- 第一条 -->\n<div class=\"pct_st-p\"><br/></div>\n<h3 class=\"pct_st\">Applications</h3>\n<p class=\"pct_p\"> </p>\n<ul>\n<li>\n<strong data-mce-fragment=\"1\">DIY Desktop Clock:</strong> Create a one-of-a-kind personalized clock by combining clock components with a custom 3D-printed frame.</li>\n</ul>\n</div>\n<div class=\"pct_padding-in-mobile\">\n<ul>\n<li>\n<strong data-mce-fragment=\"1\">Mood Lighting:</strong> Use LED strips and RGB lights to craft vibrant, dynamic lighting effects that enhance the ambiance of any room.</li>\n</ul>\n</div>\n<div class=\"pct_padding-in-mobile\">\n<ul>\n<li>\n<strong data-mce-fragment=\"1\">Romantic Candlelight:</strong> The LED candlelight kit provides a warm and cozy glow, perfectly mimicking the gentle flicker of real candlelight.</li>\n</ul>\n</div>\n<div class=\"pct_padding-in-mobile\">\n<ul>\n<li>\n<strong data-mce-fragment=\"1\">Music Box Ornament: </strong> Easily assemble a charming and melodious music box with the included Piano Music Box Winding Kit.</li>\n</ul>\n</div>\n<div class=\"pct_padding-in-mobile\">\n<ul>\n<li>\n<strong data-mce-fragment=\"1\">Artistic Light Decor:</strong> Combine an acrylic cylinder, adjustable COB light strips, and power components to design a minimalist and elegant art lamp with customizable lighting effects.</li>\n</ul>\n</div>\n<div class=\"pct_padding-in-mobile\">\n<ul>\n<li>\n<strong data-mce-fragment=\"1\">Adhesive Foam Roll:</strong> Securely attach and stabilize tabletop ornaments on any flat surface for a firm and steady display.</li>\n</ul>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\"><br/></div>\n<div class=\"pct_t-tb\"><br/></div>\n<div class=\"pct_t-tb\"><br/></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<h3 class=\"pct_st\" data-mce-style=\"text-align: center;\" style=\"text-align: center;\">In the Box</h3>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" data-mce-style=\"width: 100.061%; height: 254.719px;\" style=\"width: 100.061%; height: 254.719px;\">\n<!-- 表头 -->\n<thead class=\"pct_th\">\n<tr data-mce-style=\"height: 39.1875px;\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 40px;\" style=\"width: 40px;\">Item Number</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 39.1875px;\" style=\"width: 82.0526%; height: 39.1875px;\">Item Name</td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 39.1875px;\" style=\"width: 5.09829%; height: 39.1875px;\">Qty</td>\n</tr>\n</thead>\n<tbody>\n<!-- 第一行 -->\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">1</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\"><strong><a data-mce-href=\"https://us.store.bambulab.com/products/clock-components-kit-011\" href=\"https://us.store.bambulab.com/products/clock-components-kit-011\" rel=\"noopener\" target=\"_blank\" title=\"Clock Components Kit 011\"><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\">Clock Components Kit 011</span></a></strong></td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n<!-- 第二行 -->\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">2</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\"><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><strong><a data-mce-href=\"https://us.store.bambulab.com/products/led-lamp-kit-001?_pos=1&amp;_sid=a5841cb84&amp;_ss=r\" data-mce-style=\"color: rgb(0, 174, 66);\" href=\"https://us.store.bambulab.com/products/led-lamp-kit-001?_pos=1&amp;_sid=a5841cb84&amp;_ss=r\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\" title=\"LED Lamp Kit 001\">LED Lamp Kit 001</a></strong></span></td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">3</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\">\n<span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/></span>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><strong><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><a data-mce-href=\"https://us.store.bambulab.com/products/led-flame-tea-light-candle-set-warm-yellow?_pos=1&amp;_sid=018355029&amp;_ss=r&amp;variant=42738890604680\" data-mce-style=\"color: rgb(0, 174, 66);\" href=\"https://us.store.bambulab.com/products/led-flame-tea-light-candle-set-warm-yellow?_pos=1&amp;_sid=018355029&amp;_ss=r&amp;variant=42738890604680\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\" title=\"LED Flame Tea Light Candle Set Warm Yellow (12pcs) - KC008\">LED Flame Tea Light Candle Set Warm Yellow (12pcs) - KC008</a></span></strong></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n<!-- 第四行 -->\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">4</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><a data-mce-href=\"https://us.store.bambulab.com/products/remote-controlled-16-color-rgbw-puck-lights?_pos=1&amp;_sid=7ab723c82&amp;_ss=r\" href=\"https://us.store.bambulab.com/products/remote-controlled-16-color-rgbw-puck-lights?_pos=1&amp;_sid=7ab723c82&amp;_ss=r\" rel=\"noopener\" target=\"_blank\" title=\"Remote Controlled 16-color RGBW Puck Lights (2pcs) - KC007\"><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><strong>Remote Controlled 16-color RGBW Puck Lights (2pcs) - KC007</strong></span></a></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">5</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><strong><a data-mce-href=\"https://us.store.bambulab.com/products/piano-music-box-winding-kit?_pos=1&amp;_sid=5c797ec6d&amp;_ss=r&amp;variant=42832088203400\" data-mce-style=\"color: rgb(0, 174, 66);\" href=\"https://us.store.bambulab.com/products/piano-music-box-winding-kit?_pos=1&amp;_sid=5c797ec6d&amp;_ss=r&amp;variant=42832088203400\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\" title=\"Piano Music Box Bottom Winding Kit - K014\">Piano Music Box Bottom Winding Kit - K014</a></strong></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">6</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><strong><a data-mce-href=\"https://us.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?_pos=1&amp;_sid=a8cbb1af5&amp;_ss=r\" data-mce-style=\"color: rgb(0, 174, 66);\" href=\"https://us.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?_pos=1&amp;_sid=a8cbb1af5&amp;_ss=r\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\" title=\"20x0.5mm Adhesive Foam Sponge Strip Roll 5m (1pcs) - NC005\">20x0.5mm Adhesive Foam Sponge Strip Roll 5m (1pcs) - NC005</a></strong></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">7</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><strong><a data-mce-href=\"https://us.store.bambulab.com/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?_pos=1&amp;_sid=6c7b32eb7&amp;_ss=r\" data-mce-style=\"color: rgb(0, 174, 66);\" href=\"https://us.store.bambulab.com/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?_pos=1&amp;_sid=6c7b32eb7&amp;_ss=r\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\" title=\"100mm Y Type PH2.0 to Dual SH1.0 Conversion Wire (2PCS) - XC003\">100mm Y Type PH2.0 to Dual SH1.0 Conversion Wire (2PCS) - XC003 </a></strong></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">8</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><strong><a data-mce-href=\"https://us.store.bambulab.com/products/usb-a-power-cable-with-ph2-0-connector?_pos=1&amp;_sid=6b415667c&amp;_ss=r\" data-mce-style=\"color: rgb(0, 174, 66);\" href=\"https://us.store.bambulab.com/products/usb-a-power-cable-with-ph2-0-connector?_pos=1&amp;_sid=6b415667c&amp;_ss=r\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\" title=\"USB-A Power Cable with PH2.0 Connector (1PCS) - IC001\">USB-A Power Cable with PH2.0 Connector (1PCS) - IC001</a></strong></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">9</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><strong><a data-mce-href=\"https://us.store.bambulab.com/products/potentiometer-board-with-sh1-0-connector?_pos=1&amp;_sid=a61f4b5d0&amp;_ss=r\" data-mce-style=\"color: rgb(0, 174, 66);\" href=\"https://us.store.bambulab.com/products/potentiometer-board-with-sh1-0-connector?_pos=1&amp;_sid=a61f4b5d0&amp;_ss=r\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\" title=\"Potentiometer Board with SH1.0 Connector (2PCS) - IA007\">Potentiometer Board with SH1.0 Connector (2PCS) - IA007</a></strong></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">10</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\">\n<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><strong><a data-mce-href=\"https://us.store.bambulab.com/products/cob-led-strip-light?_pos=1&amp;_sid=c31adac16&amp;_ss=r&amp;variant=42799127691400\" data-mce-style=\"color: rgb(0, 174, 66);\" href=\"https://us.store.bambulab.com/products/cob-led-strip-light?_pos=1&amp;_sid=c31adac16&amp;_ss=r&amp;variant=42799127691400\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\" title=\"300x1mm COB LED Strip Light (1PCS) - KA009\">300x1mm COB LED Strip Light (1PCS) - KA009</a></strong></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" data-mce-style=\"height: 19.5938px;\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" data-mce-style=\"width: 7.28597%; height: 19.5938px;\" style=\"width: 7.28597%; height: 19.5938px;\">11</td>\n<td class=\"pct_td\" data-mce-style=\"width: 82.0526%; height: 19.5938px;\" style=\"width: 82.0526%; height: 19.5938px;\">\n<strong><meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/></strong>\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\"><span data-mce-style=\"color: rgb(0, 174, 66);\" style=\"color: rgb(0, 174, 66);\"><strong><a data-mce-href=\"https://us.store.bambulab.com/products/clear-acrylic-rigid-tubes?_pos=1&amp;_sid=28cffa149&amp;_ss=r&amp;variant=42723391733896\" data-mce-style=\"color: rgb(0, 174, 66);\" href=\"https://us.store.bambulab.com/products/clear-acrylic-rigid-tubes?_pos=1&amp;_sid=28cffa149&amp;_ss=r&amp;variant=42723391733896\" rel=\"noopener\" style=\"color: rgb(0, 174, 66);\" target=\"_blank\" title=\"40x36x126 mm Clear Acrylic Rigid Round Tube (2pcs) - HC003\">40x36x126 mm Clear Acrylic Rigid Round Tube (2pcs) - HC003 </a></strong></span></div>\n</div>\n</td>\n<td class=\"pct_td\" data-mce-style=\"width: 5.09829%; height: 19.5938px;\" style=\"width: 5.09829%; height: 19.5938px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+  "description_text": "The Desktop Ornament Components Kit is designed to bring endless possibilities and personalized creativity to your tabletop. The kit includes a wide variety of electronic and mechanical parts that can be easily assembled with 3D-printed models to create different styles of desktop decorations. Whether you want to craft a playful clock, an ambient lamp, a music box, or any unique tabletop decor, this set of components will meet your needs and help bring your creative ideas to life.\n\nDIY Desktop Clock: Create a one-of-a-kind personalized clock by combining clock components with a custom 3D-printed frame.\n\nMood Lighting: Use LED strips and RGB lights to craft vibrant, dynamic lighting effects that enhance the ambiance of any room.\n\nRomantic Candlelight: The LED candlelight kit provides a warm and cozy glow, perfectly mimicking the gentle flicker of real candlelight.\n\nMusic Box Ornament: Easily assemble a charming and melodious music box with the included Piano Music Box Winding Kit.\n\nArtistic Light Decor: Combine an acrylic cylinder, adjustable COB light strips, and power components to design a minimalist and elegant art lamp with customizable lighting effects.\n\nAdhesive Foam Roll: Securely attach and stabilize tabletop ornaments on any flat surface for a firm and steady display.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh047-desktop-ornament-components-kit",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Desktop Ornament Components Kit",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "70.25",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/desktop-ornament-components-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "77.77",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/desktop-ornament-components-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "63.63",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/desktop-ornament-components-kit?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "54.04",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/desktop-ornament-components-kit?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "61.42",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/desktop-ornament-components-kit?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "HC003",
+    "IA007",
+    "IC001",
+    "K014",
+    "KA009",
+    "KC007",
+    "KC008",
+    "NC005",
+    "XC003",
+    "ZH047"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "43090678841480",
+    "46817731379440",
+    "53495386603868",
+    "536375503548514306",
+    "536377849946030082"
+  ],
+  "source_tables": [
+    {
+      "caption": "In the Box",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/desktop-ornament-components-kit?id=43090678841480"
+      },
+      "rows": [
+        [
+          "1",
+          "Clock Components Kit 011",
+          "1"
+        ],
+        [
+          "2",
+          "LED Lamp Kit 001",
+          "1"
+        ],
+        [
+          "3",
+          "LED Flame Tea Light Candle Set Warm Yellow (12pcs) - KC008",
+          "1"
+        ],
+        [
+          "4",
+          "Remote Controlled 16-color RGBW Puck Lights (2pcs) - KC007",
+          "1"
+        ],
+        [
+          "5",
+          "Piano Music Box Bottom Winding Kit - K014",
+          "1"
+        ],
+        [
+          "6",
+          "20x0.5mm Adhesive Foam Sponge Strip Roll 5m (1pcs) - NC005",
+          "1"
+        ],
+        [
+          "7",
+          "100mm Y Type PH2.0 to Dual SH1.0 Conversion Wire (2PCS) - XC003",
+          "1"
+        ],
+        [
+          "8",
+          "USB-A Power Cable with PH2.0 Connector (1PCS) - IC001",
+          "1"
+        ],
+        [
+          "9",
+          "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+          "1"
+        ],
+        [
+          "10",
+          "300x1mm COB LED Strip Light (1PCS) - KA009",
+          "1"
+        ],
+        [
+          "11",
+          "40x36x126 mm Clear Acrylic Rigid Round Tube (2pcs) - HC003",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/6cfede0e86714404bf7592942dce1c57/ZH047_1.png",
+      "part_number": "ZH047",
+      "price": "70.25",
+      "region": "us",
+      "sku": "43090678841480",
+      "title": "Desktop Ornament Components Kit - Desktop Ornament Components Kit - ZH047",
+      "url": "https://us.store.bambulab.com/products/desktop-ornament-components-kit?id=43090678841480",
+      "variant_id": "43090678841480"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/9d3faf9f63d84e2fb5e0cd72ac5b596e/ZH047_1.png",
+      "part_number": "ZH047",
+      "price": "77.77",
+      "region": "ca",
+      "sku": "46817731379440",
+      "title": "Desktop Ornament Components Kit - Desktop Ornament Components Kit - ZH047",
+      "url": "https://ca.store.bambulab.com/products/desktop-ornament-components-kit?id=46817731379440",
+      "variant_id": "46817731379440"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/40b99dbf95e14f2ea39ecf0d1666038f/ZH0471.png",
+      "part_number": "ZH047",
+      "price": "63.63",
+      "region": "eu",
+      "sku": "53495386603868",
+      "title": "Desktop Ornament Components Kit - Desktop Ornament Components Kit - ZH047",
+      "url": "https://eu.store.bambulab.com/products/desktop-ornament-components-kit?id=53495386603868",
+      "variant_id": "53495386603868"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/888d671750e24fc7aeaea7707d859cfe/ZH047_1.png",
+      "part_number": "ZH047",
+      "price": "54.04",
+      "region": "uk",
+      "sku": "536377849946030082",
+      "title": "Desktop Ornament Components Kit - Desktop Ornament Components Kit - ZH047",
+      "url": "https://uk.store.bambulab.com/products/desktop-ornament-components-kit?id=536377849946030082",
+      "variant_id": "536377849946030082"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/48bffafdfd30403385e6a07d45e23b72/ZH047_1.png",
+      "part_number": "ZH047",
+      "price": "61.42",
+      "region": "asia",
+      "sku": "536375503548514306",
+      "title": "Desktop Ornament Components Kit - Desktop Ornament Components Kit - ZH047",
+      "url": "https://store.bambulab.com/products/desktop-ornament-components-kit?id=536375503548514306",
+      "variant_id": "536375503548514306"
+    }
+  ]
+}

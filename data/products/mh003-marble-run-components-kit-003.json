@@ -1,0 +1,464 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "marble-run-components-kit-003",
+      "product_id": "7527243841672",
+      "region": "us"
+    },
+    {
+      "handle": "marble-run-components-kit-003",
+      "product_id": "8327592607984",
+      "region": "ca"
+    },
+    {
+      "handle": "marble-run-components-kit-003",
+      "product_id": "8540760179036",
+      "region": "eu"
+    },
+    {
+      "handle": "marble-run-components-kit-003",
+      "product_id": "7153220321340",
+      "region": "uk"
+    },
+    {
+      "handle": "marble-run-components-kit-003",
+      "product_id": "8074972397731",
+      "region": "au"
+    },
+    {
+      "handle": "marble-run-components-kit-003",
+      "product_id": "9030411551012",
+      "region": "jp"
+    },
+    {
+      "handle": "marble-run-components-kit-003",
+      "product_id": "7258365427827",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/5b/5b245ad31c80bae7ba152695dc40bfe0f52ccf6847c8b8b8a2e1ae30cff8331e.png",
+      "id": "image-70ae2cb1e3adc2c7dd05",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "MarbleRun_85521cc8-ee76-4292-abc9-e93f5bcc9b90.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5b245ad31c80bae7ba152695dc40bfe0f52ccf6847c8b8b8a2e1ae30cff8331e",
+      "size": 988539,
+      "source_url": "https://store.bblcdn.com/s6/default/40924fe72a2b45bb82759d2c99da602e/MarbleRun_85521cc8-ee76-4292-abc9-e93f5bcc9b90.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/1b/1ba7e9fbe1839453f45849a8e4f5af11a8f3845cd8c06a9221de527cabd56271.jpg",
+      "id": "image-491aacd6b89e142f920e",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "20231205-140634.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1ba7e9fbe1839453f45849a8e4f5af11a8f3845cd8c06a9221de527cabd56271",
+      "size": 241744,
+      "source_url": "https://store.bblcdn.com/s6/default/8475047cbfb44502bad1a36a049c2acf/20231205-140634.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/34/349fa79193233d9b5d6a3c23a14d6b31b8a17aef43a4fc68149880348246fb93.png",
+      "id": "image-54b0a555419a1ed384e3",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "MarbleRun.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "349fa79193233d9b5d6a3c23a14d6b31b8a17aef43a4fc68149880348246fb93",
+      "size": 561815,
+      "source_url": "https://store.bblcdn.com/s6/default/b5267dbe63364581b65def4e48f12960/MarbleRun.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/bb/bb31e3e9de6b9fa9e48cc41ce9f56b50f0b26f2c947476cccd8d2ceb71cd3510.zip",
+      "id": "archive-75aa3c030cabf47c19e4",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Marble_Run_Components_Kit_-_MH003_Model.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "bb31e3e9de6b9fa9e48cc41ce9f56b50f0b26f2c947476cccd8d2ceb71cd3510",
+      "size": 725992,
+      "source_url": "https://store.bblcdn.com/s7/default/185eb3afbc3c4e06b1356c0a530aef44/Marble_Run_Components_Kit_-_MH003_Model.zip"
+    },
+    {
+      "archive_member_path": "14mm Plastic Ball Model-ZB001/14mm Plastic Ball-ZB001.stl",
+      "blob_path": "data/blobs/sha256/a7/a72e335c0be9711a4eaae6a69c4063e88d5fafa4b77b954fc0b0efef4ae6465f.stl",
+      "id": "model-3ba39d390bab2ffeaa89",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "14mm Plastic Ball-ZB001.stl",
+      "parent_asset_id": "archive-75aa3c030cabf47c19e4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a72e335c0be9711a4eaae6a69c4063e88d5fafa4b77b954fc0b0efef4ae6465f",
+      "size": 1459587,
+      "source_url": "https://store.bblcdn.com/s7/default/185eb3afbc3c4e06b1356c0a530aef44/Marble_Run_Components_Kit_-_MH003_Model.zip"
+    },
+    {
+      "archive_member_path": "14mm Plastic Ball Model-ZB001/14mm Plastic Ball-ZB001.stp",
+      "blob_path": "data/blobs/sha256/58/584e3dfa59e711a4be9a1bce69aebb0f0ca3da36d5bf9d6e9cda188443f2b1e6.stp",
+      "id": "model-d9118ebd41d56f2dc33b",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "14mm Plastic Ball-ZB001.stp",
+      "parent_asset_id": "archive-75aa3c030cabf47c19e4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "584e3dfa59e711a4be9a1bce69aebb0f0ca3da36d5bf9d6e9cda188443f2b1e6",
+      "size": 18222,
+      "source_url": "https://store.bblcdn.com/s7/default/185eb3afbc3c4e06b1356c0a530aef44/Marble_Run_Components_Kit_-_MH003_Model.zip"
+    },
+    {
+      "archive_member_path": "TT_Motor_DC5V_59RPM_CCW_Single_Axis Model B-LA001/TT Motor - LA001.stl",
+      "blob_path": "data/blobs/sha256/aa/aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c.stl",
+      "id": "model-728c72f5a33be16d3b66",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "TT Motor - LA001.stl",
+      "parent_asset_id": "archive-75aa3c030cabf47c19e4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c",
+      "size": 4143684,
+      "source_url": "https://store.bblcdn.com/s7/default/185eb3afbc3c4e06b1356c0a530aef44/Marble_Run_Components_Kit_-_MH003_Model.zip"
+    },
+    {
+      "archive_member_path": "TT_Motor_DC5V_59RPM_CCW_Single_Axis Model B-LA001/TT Motor - LA001.stp",
+      "blob_path": "data/blobs/sha256/a0/a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c.stp",
+      "id": "model-cec2a8281ef6177f12ae",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "TT Motor - LA001.stp",
+      "parent_asset_id": "archive-75aa3c030cabf47c19e4",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c",
+      "size": 199317,
+      "source_url": "https://store.bblcdn.com/s7/default/185eb3afbc3c4e06b1356c0a530aef44/Marble_Run_Components_Kit_-_MH003_Model.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e1/e1c8d8e0e96dc96529ee925dffcc2585f72b5233fdc9481d2187b7c3220d1501.png",
+      "id": "image-display-2102d8a44931be4aea67",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1614,
+        "source_sha256": "5b245ad31c80bae7ba152695dc40bfe0f52ccf6847c8b8b8a2e1ae30cff8331e",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "MarbleRun_85521cc8-ee76-4292-abc9-e93f5bcc9b90.catalog.png",
+      "parent_asset_id": "image-70ae2cb1e3adc2c7dd05",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e1c8d8e0e96dc96529ee925dffcc2585f72b5233fdc9481d2187b7c3220d1501",
+      "size": 218769,
+      "source_url": "https://store.bblcdn.com/s6/default/40924fe72a2b45bb82759d2c99da602e/MarbleRun_85521cc8-ee76-4292-abc9-e93f5bcc9b90.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e3/e39cec60b5c711ae5a06bbd3afe65645599dbdcb7affe76b4743624ba5c99bb7.png",
+      "id": "image-display-b4b3bfc18403c3184056",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "1ba7e9fbe1839453f45849a8e4f5af11a8f3845cd8c06a9221de527cabd56271",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "20231205-140634.catalog.png",
+      "parent_asset_id": "image-491aacd6b89e142f920e",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "e39cec60b5c711ae5a06bbd3afe65645599dbdcb7affe76b4743624ba5c99bb7",
+      "size": 789931,
+      "source_url": "https://store.bblcdn.com/s6/default/8475047cbfb44502bad1a36a049c2acf/20231205-140634.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/29/29fced6437436cb25112cbb790f4938833a6cb29f536177f22e2c70f9ac3a4c5.png",
+      "id": "image-display-60c39c2d4b030b39555b",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "349fa79193233d9b5d6a3c23a14d6b31b8a17aef43a4fc68149880348246fb93",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "MarbleRun.catalog.png",
+      "parent_asset_id": "image-54b0a555419a1ed384e3",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "29fced6437436cb25112cbb790f4938833a6cb29f536177f22e2c70f9ac3a4c5",
+      "size": 150475,
+      "source_url": "https://store.bblcdn.com/s6/default/b5267dbe63364581b65def4e48f12960/MarbleRun.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Kits & Bundles"
+  ],
+  "category_assignments": [
+    {
+      "id": "kits",
+      "label": "Kits & Bundles",
+      "path": [
+        "Kits & Bundles"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[7]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files of Marble Run and obtain detailed information, please visit the Marble Run on MakerWorld."
+    },
+    {
+      "kind": "heading",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "2. It is recommended to use indoors at room temperature."
+    },
+    {
+      "kind": "paragraph",
+      "text": "3. The product contains small parts. Please take precautions to prevent children from inhaling or swallowing them."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><!-- 3D Model --><a href=\"https://store.bblcdn.com/s7/default/185eb3afbc3c4e06b1356c0a530aef44/Marble_Run_Components_Kit_-_MH003_Model.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <span>3D Model</span> </a></p>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<!-- 文案布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Overview</h3>\nThe <strong>Marble Run Components Kit</strong> contains all the necessary hardware components for assembling a <strong>Marble Run</strong>. To complete the assembly for an entirely functional piece, users also need to download the model files and 3D print the remaining parts.</div>\n<div class=\"pct_st-p\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\"></div>\n<div class=\"ace-line ace-line old-record-id-K4OCdHYOOop5aGxqeiFcWXYnnXe\">To download the model files of <strong>Marble Run</strong> and obtain detailed information, please visit the <strong>Marble Run</strong> on <a href=\"https://makerworld.com/en/models/14265\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><u>MakerWorld</u></strong></span></a>.</div>\n</div>\n<img alt=\"\" class=\"product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse aspect-video max-h-[400px]\" data-lazy=\"false\" data-mce-fragment=\"1\" data-src=\"https://store.bblcdn.com/s7/default/7cd83e99fc7a49b4b979d78b699b6fba/MarbleRun_7935c21b-4134-4b44-92ce-37017868af27.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> </div>\n<div class=\"pct_st-p\"></div>\n<br/><!-- 第三条 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Installation</h3>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-p\">\n<div class=\"embed-container\"><div class=\"VideoWrapper\"><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" src=\"https://www.youtube.com/embed//8_Su9jdzgNA\"></iframe></div></div>\n</div>\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"></div>\n<!-- 第四条 -->\n<h3 class=\"pct_st\">In the Box</h3>\n<span><span>1. Motor * 1 (USB)</span></span></div>\n<div class=\"pct pct_mc\">2. Marble * 10 (5 Colors)</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-p\"></div>\n<div class=\"pct_st-p\"> </div>\n<!-- 第五条 -->\n<h3 class=\"pct_st\">Notes</h3>\n1. Please power the device using a USB power supply with the specified voltage. Please ensure that the conveyor belt is pre-folded smoothly. After power is applied, confirm the operational status of the motor and take precautions to prevent motor blockage.</div>\n<div class=\"pct pct_mc\">2. It is recommended to use indoors at room temperature.</div>\n<div class=\"pct pct_mc\">3. <span style=\"color: #ff2a00;\"><strong>The product contains small parts. Please take precautions to prevent children from inhaling or swallowing them.</strong></span></div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\"></div>\n<div class=\"pct_t-stpc\"></div>\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\"></div>\n<div class=\"pct pct_mc\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\" style=\"text-align: center;\">Product Specifications</h2>\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\"><strong>Voltage</strong></td>\n<td class=\"pct_td\">DC 5V</td>\n<td class=\"pct_td\"><b>Packaging Size</b></td>\n<td class=\"pct_td\">100*69*35 mm</td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-WN9wdvxjroLLKUxZrwrcWzjZnhd\"><strong>Product Weight</strong></div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\">63 g</td>\n<td class=\"pct_td\"><b>Gross Weight</b></td>\n<td class=\"pct_td\">77 g</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button><button id=\"paste-helper-id\" style=\"width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;\"></button></p>\n</div>",
+  "description_text": "To download the model files of Marble Run and obtain detailed information, please visit the Marble Run on MakerWorld.\n\n2. It is recommended to use indoors at room temperature.\n\n3. The product contains small parts. Please take precautions to prevent children from inhaling or swallowing them.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "mh003-marble-run-components-kit-003",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Marble Run Components Kit 003",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/marble-run-components-kit-003?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/marble-run-components-kit-003?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/marble-run-components-kit-003?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/marble-run-components-kit-003?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "17",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/marble-run-components-kit-003?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "1649",
+      "region": "jp",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://jp.store.bambulab.com/en/products/marble-run-components-kit-003?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "10",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/marble-run-components-kit-003?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "MH003"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Marble Run",
+      "url": "https://makerworld.com/en/models/14265"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "41123227893820",
+    "41402220839027",
+    "41806867693704",
+    "44239533899939",
+    "45529576964336",
+    "47895576117596",
+    "708910567647469569"
+  ],
+  "source_tables": [
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/marble-run-components-kit-003?id=41806867693704"
+      },
+      "rows": [
+        [
+          "Voltage",
+          "DC 5V",
+          "Packaging Size",
+          "100*69*35 mm"
+        ],
+        [
+          "Product Weight",
+          "63 g",
+          "Gross Weight",
+          "77 g"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/b07f970a273e4ba895eb431f205a1afe/20231205-140634.jpg",
+      "part_number": "MH003",
+      "price": "11",
+      "region": "us",
+      "sku": "41806867693704",
+      "title": "Marble Run Components Kit 003 - Marble Run Components Kit (1pcs) - MH003",
+      "url": "https://us.store.bambulab.com/products/marble-run-components-kit-003?id=41806867693704",
+      "variant_id": "41806867693704"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/06fb8b92dab84f059ac4408bddfb0f58.jpg",
+      "part_number": "MH003",
+      "price": "13",
+      "region": "ca",
+      "sku": "45529576964336",
+      "title": "Marble Run Components Kit 003 - Marble Run Components Kit (1pcs) - MH003",
+      "url": "https://ca.store.bambulab.com/products/marble-run-components-kit-003?id=45529576964336",
+      "variant_id": "45529576964336"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/5492991023584a1293fe33b3e412139e/20231205-140634.jpg",
+      "part_number": "MH003",
+      "price": "11",
+      "region": "eu",
+      "sku": "47895576117596",
+      "title": "Marble Run Components Kit 003 - Marble Run Components Kit (1pcs) - MH003",
+      "url": "https://eu.store.bambulab.com/products/marble-run-components-kit-003?id=47895576117596",
+      "variant_id": "47895576117596"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/6a1b4e00a1ab4e28aa954465ed4699de.jpg",
+      "part_number": "MH003",
+      "price": "10",
+      "region": "uk",
+      "sku": "41123227893820",
+      "title": "Marble Run Components Kit 003 - Marble Run Components Kit - MH003",
+      "url": "https://uk.store.bambulab.com/products/marble-run-components-kit-003?id=41123227893820",
+      "variant_id": "41123227893820"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/97a8cc9a27cf4e6498f6dcd1c8622213.jpg",
+      "part_number": "MH003",
+      "price": "17",
+      "region": "au",
+      "sku": "44239533899939",
+      "title": "Marble Run Components Kit 003 - Marble Run Components Kit (1pcs) - MH003",
+      "url": "https://au.store.bambulab.com/products/marble-run-components-kit-003?id=44239533899939",
+      "variant_id": "44239533899939"
+    },
+    {
+      "available": true,
+      "currency": "JPY",
+      "image_url": "https://store.bblcdn.com/s6/default/40924fe72a2b45bb82759d2c99da602e/MarbleRun_85521cc8-ee76-4292-abc9-e93f5bcc9b90.png",
+      "price": "1649",
+      "region": "jp",
+      "sku": "708910567647469569",
+      "title": "マーブルランコンポーネントキット 003 - スタンダード",
+      "url": "https://jp.store.bambulab.com/products/marble-run-components-kit-003?id=708910567647469569",
+      "variant_id": "708910567647469569"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494434930467688448.jpg",
+      "part_number": "MH003",
+      "price": "10",
+      "region": "asia",
+      "sku": "41402220839027",
+      "title": "Marble Run Components Kit 003 - Marble Run Components Kit (1pcs) - MH003",
+      "url": "https://asia.store.bambulab.com/products/marble-run-components-kit-003?id=41402220839027",
+      "variant_id": "41402220839027"
+    }
+  ]
+}

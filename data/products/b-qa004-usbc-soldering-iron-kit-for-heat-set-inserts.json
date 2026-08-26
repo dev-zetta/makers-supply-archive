@@ -1,0 +1,661 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts",
+      "product_id": "599453663258394624",
+      "region": "us"
+    },
+    {
+      "handle": "usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts",
+      "product_id": "621587008444583936",
+      "region": "ca"
+    },
+    {
+      "handle": "usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts",
+      "product_id": "621587261510578176",
+      "region": "eu"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/70/708bfaa74b244ffdf03bcb305de2f527bef30a4a42c0e8d8b7e2f53fda8c74d1.png",
+      "id": "image-3ef009aac8ed88cfd719",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA004_main_image_1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "708bfaa74b244ffdf03bcb305de2f527bef30a4a42c0e8d8b7e2f53fda8c74d1",
+      "size": 1220279,
+      "source_url": "https://store.bblcdn.eu/s8/default/ab1c220bcaa54dce89d39132f62d081a/B-QA004_main_image_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/10/10fea3dc3f133c01c5cef350b4e08a20d9d0c010dc38bd478a98a11be81896aa.png",
+      "id": "image-e30c392116d4e66ffa45",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1312317877.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "10fea3dc3f133c01c5cef350b4e08a20d9d0c010dc38bd478a98a11be81896aa",
+      "size": 731256,
+      "source_url": "https://store.bblcdn.eu/s8/default/814a896328af4fd7a6ab6b144ac459b8/Frame_1312317877.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d2/d25267246a500a5295f64045d9a55f78c41673d4a836219a9fd74891855a2dfe.png",
+      "id": "image-23e8a246cdc31c217e68",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA004_main_image_2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d25267246a500a5295f64045d9a55f78c41673d4a836219a9fd74891855a2dfe",
+      "size": 1171450,
+      "source_url": "https://store.bblcdn.eu/s8/default/ba5412596d104338b0d30869527a0799/B-QA004_main_image_2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/00/00c5e9c07836bcd0bce2c9299025db80228e90766a780d8103982d7af160b9e8.png",
+      "id": "image-ecb92aa9109b183908fe",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA004_parts.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "00c5e9c07836bcd0bce2c9299025db80228e90766a780d8103982d7af160b9e8",
+      "size": 1439815,
+      "source_url": "https://store.bblcdn.eu/s8/default/66156bc033644a3a90d192b338f4dca3/B-QA004_parts.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/85/8551e0d861622fccc86b2fdd5690be292813d53e9574c3658fe4211414acc159.png",
+      "id": "image-6a381633c5db0ab24889",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA008.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8551e0d861622fccc86b2fdd5690be292813d53e9574c3658fe4211414acc159",
+      "size": 3047141,
+      "source_url": "https://store.bblcdn.eu/s8/default/aa13e598f0fa4875b7b2c05d24fd48ca/B-QA008.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ec/ecf5691e9f025bb9037eafa90cac6186e73c6f0173a1778cbaf4c1f399bfc291.zip",
+      "id": "archive-277ef218363c8ff88028",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "HS-02.zip",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ecf5691e9f025bb9037eafa90cac6186e73c6f0173a1778cbaf4c1f399bfc291",
+      "size": 676276,
+      "source_url": "https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip"
+    },
+    {
+      "archive_member_path": "tip.stl",
+      "blob_path": "data/blobs/sha256/71/7153d844dbd9b1f209e5054c424fef7a5e4a11cdf01b21708cdb3443325e6276.stl",
+      "id": "model-ff96b7e992fd48e172fa",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "tip.stl",
+      "parent_asset_id": "archive-277ef218363c8ff88028",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "7153d844dbd9b1f209e5054c424fef7a5e4a11cdf01b21708cdb3443325e6276",
+      "size": 332684,
+      "source_url": "https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip"
+    },
+    {
+      "archive_member_path": "Assembly.stl",
+      "blob_path": "data/blobs/sha256/57/575a6c89e05452e340c32748b8841f6bdb611903c3f3801492d599ebb96933a3.stl",
+      "id": "model-e5c4dd4e33da700b6fed",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "Assembly.stl",
+      "parent_asset_id": "archive-277ef218363c8ff88028",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "575a6c89e05452e340c32748b8841f6bdb611903c3f3801492d599ebb96933a3",
+      "size": 1241984,
+      "source_url": "https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip"
+    },
+    {
+      "archive_member_path": "Assembly.stp",
+      "blob_path": "data/blobs/sha256/ae/aed8163e865a2f31ca24f22d4db396aadb756a6c03420f26eb3b95d54e5e779e.stp",
+      "id": "model-3760465901e9d370c88e",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Assembly.stp",
+      "parent_asset_id": "archive-277ef218363c8ff88028",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "aed8163e865a2f31ca24f22d4db396aadb756a6c03420f26eb3b95d54e5e779e",
+      "size": 536555,
+      "source_url": "https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip"
+    },
+    {
+      "archive_member_path": "tip.stp",
+      "blob_path": "data/blobs/sha256/04/045cbc011824471a72a799ce0d2994027142f449e055569f08b1e19d2a62eaed.stp",
+      "id": "model-f2f85db8288233bfbb47",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "tip.stp",
+      "parent_asset_id": "archive-277ef218363c8ff88028",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "045cbc011824471a72a799ce0d2994027142f449e055569f08b1e19d2a62eaed",
+      "size": 53430,
+      "source_url": "https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9d/9d05311b21d0bab0115ab9c80e747472112ef9f140203bfb66163b8a0905945c.png",
+      "id": "image-display-008d602d3f8b6e170975",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "708bfaa74b244ffdf03bcb305de2f527bef30a4a42c0e8d8b7e2f53fda8c74d1",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA004_main_image_1.catalog.png",
+      "parent_asset_id": "image-3ef009aac8ed88cfd719",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9d05311b21d0bab0115ab9c80e747472112ef9f140203bfb66163b8a0905945c",
+      "size": 259664,
+      "source_url": "https://store.bblcdn.eu/s8/default/ab1c220bcaa54dce89d39132f62d081a/B-QA004_main_image_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/48/485f76ef7b749d1e2a582a020fd2469db872bccde3974bcf8c0f5e84c1dec699.png",
+      "id": "image-display-6e1b1c330242e82f6bcb",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 744,
+        "source_sha256": "10fea3dc3f133c01c5cef350b4e08a20d9d0c010dc38bd478a98a11be81896aa",
+        "source_width": 742
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1312317877.catalog.png",
+      "parent_asset_id": "image-e30c392116d4e66ffa45",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "485f76ef7b749d1e2a582a020fd2469db872bccde3974bcf8c0f5e84c1dec699",
+      "size": 666186,
+      "source_url": "https://store.bblcdn.eu/s8/default/814a896328af4fd7a6ab6b144ac459b8/Frame_1312317877.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/8c/8c85b8c73dfc2607f49a44f046fea53b2017dcbea6ee723bfca8cf513c691b5b.png",
+      "id": "image-display-f9b2eb3ac8004055c9b1",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "d25267246a500a5295f64045d9a55f78c41673d4a836219a9fd74891855a2dfe",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA004_main_image_2.catalog.png",
+      "parent_asset_id": "image-23e8a246cdc31c217e68",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "8c85b8c73dfc2607f49a44f046fea53b2017dcbea6ee723bfca8cf513c691b5b",
+      "size": 274085,
+      "source_url": "https://store.bblcdn.eu/s8/default/ba5412596d104338b0d30869527a0799/B-QA004_main_image_2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c0/c02e65df0cd4d2009102a734e10f437f8814f75ac864cd72c219517a30823a50.png",
+      "id": "image-display-82e0f5f52504b466fa10",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "00c5e9c07836bcd0bce2c9299025db80228e90766a780d8103982d7af160b9e8",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA004_parts.catalog.png",
+      "parent_asset_id": "image-ecb92aa9109b183908fe",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c02e65df0cd4d2009102a734e10f437f8814f75ac864cd72c219517a30823a50",
+      "size": 337494,
+      "source_url": "https://store.bblcdn.eu/s8/default/66156bc033644a3a90d192b338f4dca3/B-QA004_parts.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d7/d72024eb2c4d0d64256c540d24652f817b8eb07d15a7e3d970bdb6566f785906.png",
+      "id": "image-display-7b2cb18188676e9669be",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 2400,
+        "source_sha256": "8551e0d861622fccc86b2fdd5690be292813d53e9574c3658fe4211414acc159",
+        "source_width": 2400
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA008.catalog.png",
+      "parent_asset_id": "image-6a381633c5db0ab24889",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d72024eb2c4d0d64256c540d24652f817b8eb07d15a7e3d970bdb6566f785906",
+      "size": 246118,
+      "source_url": "https://store.bblcdn.eu/s8/default/aa13e598f0fa4875b7b2c05d24fd48ca/B-QA008.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "item_number": "1",
+      "name": "HS-02A Soldering Iron (with KU tip pre-installed)",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "2",
+      "name": "HS-02A Heat Set Insert Tip",
+      "quantity": "2",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "3",
+      "name": "Soldering Iron Handle",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "4",
+      "name": "Heat-Set Inserts",
+      "quantity": "7",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "5",
+      "name": "100W PD Adapter (US & EU plug)",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "6",
+      "name": "1.2m Type-C to Type-C Cable",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "7",
+      "name": "Cleaning Sponge with Holder",
+      "quantity": "1",
+      "variant_quantities": []
+    },
+    {
+      "item_number": "8",
+      "name": "Premium Travel Case",
+      "quantity": "1",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Fasteners"
+  ],
+  "category_assignments": [
+    {
+      "id": "fasteners",
+      "label": "Fasteners",
+      "path": [
+        "Hardware",
+        "Fasteners"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[1]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Stronger Threads for Functional 3D Prints"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Printed plastic threads can wear out or strip over time, especially in parts that are assembled and disassembled repeatedly. Brass heat-set inserts provide durable metal threads, helping improve assembly strength and making printed parts more suitable for repeated fastening."
+    },
+    {
+      "kind": "heading",
+      "text": "Dedicated Tips for Direct Heat-Insert Installation"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The 100W USB‑C Smart Soldering Iron Kit includes two custom tips designed specifically for heat-set insert installation, allowing inserts to be installed directly with fast heating and accurate control. This provides a cleaner and more reliable way to add threaded metal fastening points to printed parts."
+    },
+    {
+      "kind": "heading",
+      "text": "Multiple Sizes for Common Insert Standards"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies."
+    },
+    {
+      "kind": "heading",
+      "text": "Straighter Installation with Better Control"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Compared with using a standard soldering tip directly, dedicated insert tips help guide heat-set inserts more steadily during installation. This reduces the risk of tilting, slipping, or uneven insertion, which is especially important for printed parts that require accurate alignment and secure fastening."
+    },
+    {
+      "kind": "heading",
+      "text": "Fast USB‑C Heating with Accurate Temperature Control"
+    },
+    {
+      "kind": "paragraph",
+      "text": "With USB‑C PD/QC input, the soldering iron supports fast heat-up and accurate temperature control in a compact form factor. A temperature range of 100–450°C ±5°C and a heat-up time of 2 seconds at 100W make it suitable for both soldering tasks and heat-insert installation."
+    },
+    {
+      "kind": "paragraph",
+      "text": "3D Model"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Includes a 3D model file of the soldering iron for holder or fixture design."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<h2 class=\"pct_t\"></h2>\n<!-- 第一条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Stronger Threads for Functional 3D Prints</h3>\n<p class=\"pct_p\">Printed plastic threads can wear out or strip over time, especially in parts that are assembled and disassembled repeatedly. Brass heat-set inserts provide durable metal threads, helping improve assembly strength and making printed parts more suitable for repeated fastening.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/494bc397318246cabe06ba1155b3efe3/11.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/494bc397318246cabe06ba1155b3efe3/11.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<!-- 第二条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Dedicated Tips for Direct Heat-Insert Installation</h3>\n<p class=\"pct_p\">The 100W USB‑C Smart Soldering Iron Kit includes two custom tips designed specifically for heat-set insert installation, allowing inserts to be installed directly with fast heating and accurate control. This provides a cleaner and more reliable way to add threaded metal fastening points to printed parts.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/57cf4d0a89294e56b4904ffbbfc907ad/22.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/57cf4d0a89294e56b4904ffbbfc907ad/22.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<!-- 第三条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Multiple Sizes for Common Insert Standards</h3>\n<p class=\"pct_p\">The included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c6fa662995fa4247b8f20c1caf5b90f2/B-QA004_banner_3_1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c6fa662995fa4247b8f20c1caf5b90f2/B-QA004_banner_3_1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<!-- 第四条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Straighter Installation with Better Control</h3>\n<p class=\"pct_p\">Compared with using a standard soldering tip directly, dedicated insert tips help guide heat-set inserts more steadily during installation. This reduces the risk of tilting, slipping, or uneven insertion, which is especially important for printed parts that require accurate alignment and secure fastening.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/3c4f344cde264314b3a7e3d4c8b5adb2/44.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/3c4f344cde264314b3a7e3d4c8b5adb2/44.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<br/><br/><br/><!-- 第五条 --><!-- 标题加文案加大图部分 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\"><span style=\"font-size: 18px;\">Fast USB‑C Heating with Accurate Temperature Control</span></h3>\n<p class=\"pct_p\" style=\"text-align: left;\">With USB‑C PD/QC input, the soldering iron supports fast heat-up and accurate temperature control in a compact form factor. A temperature range of 100–450°C ±5°C and a heat-up time of 2 seconds at 100W make it suitable for both soldering tasks and heat-insert installation.</p>\n</div>\n<br/><br/><br/>\n<div class=\"pct_t-p\"></div>\n<p><video autoplay=\"autoplay\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" style=\"width: 100%; height: auto;\" width=\"300\">\n<!-- 手机端 -->\n<source media=\"(max-width: 767px)\" src=\"https://store.bblcdn.com/s1/default/f3541b89087045388cfad7842d79dd72/55.mp4\" type=\"video/mp4\"/>\n<!-- PC端 -->\n<source media=\"(min-width: 768px)\" src=\"https://store.bblcdn.com/s1/default/f3541b89087045388cfad7842d79dd72/55.mp4\" type=\"video/mp4\"/>\n</video></p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a href=\"https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <img alt=\"3D\" class=\"download_svg product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/34cfd495f6e74bb59595d83a7b486516/3d.svg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <span>3D Model</span> </a></p>\n<p style=\"text-align: center;\">Includes a 3D model file of the soldering iron for holder or fixture design.</p>\n</div>\n<br/><br/></div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<h2 class=\"pct_t\">Product Specifications</h2>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\"><!-- 第一条 -->\n<div class=\"pct_ic-p\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<div class=\"TableWrapper\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><strong>Model</strong></td>\n<td class=\"pct_td\">HS-02A</td>\n</tr>\n<!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><strong>Temperature Range</strong></td>\n<td class=\"pct_td\">100–450°C ±5°C</td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><strong>Heat-Up Time</strong></td>\n<td class=\"pct_td\">2s @100W (melt tin)</td>\n</tr>\n<!-- 第四行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><strong>Power</strong></td>\n<td class=\"pct_td\">9V/12V/15V/20V, max 100W</td>\n</tr>\n<!-- 第五行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><strong>Display</strong></td>\n<td class=\"pct_td\">0.96\" IPS HD color screen</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n<!-- table布局 --></div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\"><!-- 表头 -->\n<tbody><!-- 第一行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><strong>Input Port</strong></td>\n<td class=\"pct_td\">Type-C</td>\n</tr>\n<!-- 第二行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><strong>Charging Protocol</strong></td>\n<td class=\"pct_td\">PD &amp; QC</td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><strong>Cable</strong></td>\n<td class=\"pct_td\">C2C 250W (E-marker chip), 1.2m, anti-scald/oxidation</td>\n</tr>\n<!-- 第四行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><strong>ESD Protection</strong></td>\n<td class=\"pct_td\">Yes</td>\n</tr>\n<!-- 第五行 -->\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\"><strong>Color</strong></td>\n<td class=\"pct_td\">Light Bulb Silver</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Item Number</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Quantity</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">HS-02A Soldering Iron (with KU tip pre-installed)</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">HS-02A Heat Set Insert Tip</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">2</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">3</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">Soldering Iron Handle</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">4</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">Heat-Set Inserts</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">7</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">5</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">100W PD Adapter (US &amp; EU plug)</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">6</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1.2m Type-C to Type-C Cable</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">7</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">Cleaning Sponge with Holder</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">8</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">Premium Travel Case</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<h3 class=\"pct_st\"><span style=\"font-size: 24px;\">Heat-Stake Nut Tool Tip Set</span></h3>\n<div class=\"pct_tbc\">\n<div class=\"TableWrapper\">\n<table class=\"pct_tb\" style=\"height: 477px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 27px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 102.637px; height: 27px;\">Size</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 125.35px; height: 27px;\">Tip Diameter (mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 241.488px; height: 27px;\">Total Length (mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 83.425px; height: 27px;\">Quantity</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 161.7px; height: 27px;\">Material</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M2</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n<td class=\"pct_td\" rowspan=\"8\" style=\"text-align: center; height: 450px; width: 161.7px;\">Brass</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M2.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M3</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">16.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M4</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">6.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">17.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">17.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M6</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M8</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">9</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">Handle</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">6.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">34</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "Printed plastic threads can wear out or strip over time, especially in parts that are assembled and disassembled repeatedly. Brass heat-set inserts provide durable metal threads, helping improve assembly strength and making printed parts more suitable for repeated fastening.\n\nThe 100W USB‑C Smart Soldering Iron Kit includes two custom tips designed specifically for heat-set insert installation, allowing inserts to be installed directly with fast heating and accurate control. This provides a cleaner and more reliable way to add threaded metal fastening points to printed parts.\n\nThe included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies.\n\nCompared with using a standard soldering tip directly, dedicated insert tips help guide heat-set inserts more steadily during installation. This reduces the risk of tilting, slipping, or uneven insertion, which is especially important for printed parts that require accurate alignment and secure fastening.\n\nWith USB‑C PD/QC input, the soldering iron supports fast heat-up and accurate temperature control in a compact form factor. A temperature range of 100–450°C ±5°C and a heat-up time of 2 seconds at 100W make it suitable for both soldering tasks and heat-insert installation.\n\n3D Model\n\nIncludes a 3D model file of the soldering iron for holder or fixture design.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "b-qa004-usbc-soldering-iron-kit-for-heat-set-inserts",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "USB‑C Soldering Iron Kit for Heat-Set Inserts",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "115",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "86.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "109",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://eu.store.bambulab.com/en/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-QA004"
+  ],
+  "related_links": [],
+  "schema_version": 4,
+  "skus": [
+    "599453663270977538",
+    "621587008452972546",
+    "621587261518966786"
+  ],
+  "source_tables": [
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?id=599453663270977538"
+      },
+      "rows": [
+        [
+          "Model",
+          "HS-02A"
+        ],
+        [
+          "Temperature Range",
+          "100–450°C ±5°C"
+        ],
+        [
+          "Heat-Up Time",
+          "2s @100W (melt tin)"
+        ],
+        [
+          "Power",
+          "9V/12V/15V/20V, max 100W"
+        ],
+        [
+          "Display",
+          "0.96\" IPS HD color screen"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?id=599453663270977538"
+      },
+      "rows": [
+        [
+          "Input Port",
+          "Type-C"
+        ],
+        [
+          "Charging Protocol",
+          "PD & QC"
+        ],
+        [
+          "Cable",
+          "C2C 250W (E-marker chip), 1.2m, anti-scald/oxidation"
+        ],
+        [
+          "ESD Protection",
+          "Yes"
+        ],
+        [
+          "Color",
+          "Light Bulb Silver"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [
+        "Item Number",
+        "Item Name",
+        "Quantity"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?id=599453663270977538"
+      },
+      "rows": [
+        [
+          "1",
+          "HS-02A Soldering Iron (with KU tip pre-installed)",
+          "1"
+        ],
+        [
+          "2",
+          "HS-02A Heat Set Insert Tip",
+          "2"
+        ],
+        [
+          "3",
+          "Soldering Iron Handle",
+          "1"
+        ],
+        [
+          "4",
+          "Heat-Set Inserts",
+          "7"
+        ],
+        [
+          "5",
+          "100W PD Adapter (US & EU plug)",
+          "1"
+        ],
+        [
+          "6",
+          "1.2m Type-C to Type-C Cable",
+          "1"
+        ],
+        [
+          "7",
+          "Cleaning Sponge with Holder",
+          "1"
+        ],
+        [
+          "8",
+          "Premium Travel Case",
+          "1"
+        ]
+      ]
+    },
+    {
+      "caption": "Heat-Stake Nut Tool Tip Set",
+      "headers": [
+        "Size",
+        "Tip Diameter (mm)",
+        "Total Length (mm)",
+        "Quantity",
+        "Material"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:3",
+        "source_url": "https://us.store.bambulab.com/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?id=599453663270977538"
+      },
+      "rows": [
+        [
+          "M2",
+          "7",
+          "12",
+          "1",
+          "Brass"
+        ],
+        [
+          "M2.5",
+          "7",
+          "12",
+          "1"
+        ],
+        [
+          "M3",
+          "7",
+          "16.5",
+          "1"
+        ],
+        [
+          "M4",
+          "6.5",
+          "17.5",
+          "1"
+        ],
+        [
+          "M5",
+          "7",
+          "17.5",
+          "1"
+        ],
+        [
+          "M6",
+          "7",
+          "12.5",
+          "1"
+        ],
+        [
+          "M8",
+          "9",
+          "12.5",
+          "1"
+        ],
+        [
+          "Handle",
+          "6.5",
+          "34",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Cable": "C2C 250W (E-marker chip), 1.2m, anti-scald/oxidation",
+    "Charging Protocol": "PD & QC",
+    "Color": "Light Bulb Silver",
+    "Display": "0.96\" IPS HD color screen",
+    "ESD Protection": "Yes",
+    "Heat-Up Time": "2s @100W (melt tin)",
+    "Input Port": "Type-C",
+    "Model": "HS-02A",
+    "Power": "9V/12V/15V/20V, max 100W",
+    "Temperature Range": "100–450°C ±5°C"
+  },
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/a630627e41be485c80d71bac77e132d3/B-QA004_main_image_1.png",
+      "price": "115",
+      "region": "us",
+      "sku": "599453663270977538",
+      "title": "USB‑C Soldering Iron Kit for Heat-Set Inserts - 100W USB-C Smart Soldering Iron Kit",
+      "url": "https://us.store.bambulab.com/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?id=599453663270977538",
+      "variant_id": "599453663270977538"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/e533c945b158437bb1770c2a19a1a3f9/B-QA004_main_image_1.png",
+      "price": "86.99",
+      "region": "ca",
+      "sku": "621587008452972546",
+      "title": "USB‑C Soldering Iron Kit for Heat-Set Inserts - 100W USB-C Smart Soldering Iron Kit",
+      "url": "https://ca.store.bambulab.com/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?id=621587008452972546",
+      "variant_id": "621587008452972546"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/ab1c220bcaa54dce89d39132f62d081a/B-QA004_main_image_1.png",
+      "price": "109",
+      "region": "eu",
+      "sku": "621587261518966786",
+      "title": "USB‑C Soldering Iron Kit for Heat-Set Inserts - 100W USB-C Smart Soldering Iron Kit",
+      "url": "https://eu.store.bambulab.com/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?id=621587261518966786",
+      "variant_id": "621587261518966786"
+    }
+  ]
+}

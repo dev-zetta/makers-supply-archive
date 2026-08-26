@@ -1,0 +1,408 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "exploding-dice-tower-with-light-up-dice",
+      "product_id": "765725193409724416",
+      "region": "us"
+    },
+    {
+      "handle": "exploding-dice-tower-with-light-up-dice",
+      "product_id": "765723553885650944",
+      "region": "ca"
+    },
+    {
+      "handle": "exploding-dice-tower-with-light-up-dice",
+      "product_id": "765725936225148928",
+      "region": "eu"
+    },
+    {
+      "handle": "exploding-dice-tower-with-light-up-dice",
+      "product_id": "765724313272840192",
+      "region": "uk"
+    },
+    {
+      "handle": "exploding-dice-tower-with-light-up-dice",
+      "product_id": "765721359446769664",
+      "region": "au"
+    },
+    {
+      "handle": "exploding-dice-tower-with-light-up-dice",
+      "product_id": "764699442405265408",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/77/778c54e51a183a476467658f1b8b90da18307ab2366480ff6a44918dac012ef8.jpg",
+      "id": "image-b9ec687cb342abeca44a",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "B-ZH173_-_model.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "778c54e51a183a476467658f1b8b90da18307ab2366480ff6a44918dac012ef8",
+      "size": 683471,
+      "source_url": "https://store.bblcdn.com/s2/default/1bfc9a3fdd4843f78f852e8c61552843/B-ZH173_-_model.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/a3/a3c0a0cfd35d76e79251327538bf93810ac8acbd1b3de14c7e36b7a98e73dbd9.png",
+      "id": "image-8f99ffff3ff918d2c26f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH173.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "a3c0a0cfd35d76e79251327538bf93810ac8acbd1b3de14c7e36b7a98e73dbd9",
+      "size": 509009,
+      "source_url": "https://store.bblcdn.com/s2/default/0e1d10b58e3444a8bafd0b29e806b368/B-ZH173.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/6f/6fd4c8439f70f6a65bb273b4325f12c0cc38af7de1b0334cd5ffc272ff915e3d.png",
+      "id": "image-display-6ecf66bec567e433588d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "778c54e51a183a476467658f1b8b90da18307ab2366480ff6a44918dac012ef8",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH173_-_model.catalog.png",
+      "parent_asset_id": "image-b9ec687cb342abeca44a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "6fd4c8439f70f6a65bb273b4325f12c0cc38af7de1b0334cd5ffc272ff915e3d",
+      "size": 934807,
+      "source_url": "https://store.bblcdn.com/s2/default/1bfc9a3fdd4843f78f852e8c61552843/B-ZH173_-_model.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/35/35eac74246d368f6dc5b824e7dcc7bd895f7f6748441eb182d32ac008bc697e0.png",
+      "id": "image-display-55473dd576c444333060",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "a3c0a0cfd35d76e79251327538bf93810ac8acbd1b3de14c7e36b7a98e73dbd9",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH173.catalog.png",
+      "parent_asset_id": "image-8f99ffff3ff918d2c26f",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "35eac74246d368f6dc5b824e7dcc7bd895f7f6748441eb182d32ac008bc697e0",
+      "size": 150016,
+      "source_url": "https://store.bblcdn.com/s2/default/0e1d10b58e3444a8bafd0b29e806b368/B-ZH173.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "mf001-black-nylon-cord",
+      "name": "0.6mm Black Nylon Cord 5m (1pcs) - MF001",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/black-nylon-cord?id=42731737219208",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa212-bt2-button-head-cap-self-tapping-screw-bhcs",
+      "name": "BT2x6 BHCS Self Tapping Screw (20PCS) - AA128",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/bt2-button-head-cap-self-tapping-screw-bhcs?id=48694586671452",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "da007-d2-stainless-steel-dowel-pin",
+      "name": "2x25 mm Stainless Steel Dowel Pin (20PCS) - DA002",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/d2-stainless-steel-dowel-pin?id=42394428604552",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ic004-wire-pair-with-sh1-0",
+      "name": "200mm Wire Pair with SH1.0(5PCS) - IC007",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/wire-pair-with-sh1-0?id=42122988978312",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "kc023-wireless-inductive-coil-kit",
+      "name": "300x1mm COB LED Strip Light-Purple (1PCS) - KA016",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/wireless-inductive-coil-kit?id=736468598294376459",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "kc023-wireless-inductive-coil-kit",
+      "name": "Wireless Inductive Receiver Coil - 15mm (2PCS) - KC025",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/wireless-inductive-coil-kit?id=736468598290182189",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "kc023-wireless-inductive-coil-kit",
+      "name": "Wireless Inductive Coil Kit with 20 LED Lights (1PCS) - KC023",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/wireless-inductive-coil-kit?id=736468598290182177",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Exploding Tower with Light-Up Dice. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Exploding Tower with Light-Up Dice on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Exploding Tower with Light-Up Dice</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Exploding Tower with Light-Up Dice</strong> on <a href=\"https://makerworld.com/en/models/2950385-exploding-tower-with-light-up-dice?from=search#profileId-3305610\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"font-size: 24px; text-align: center;\">In The Box</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse; height: 75px;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 25px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 25px;\"><strong>Qty</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/black-nylon-cord?id=42731737219208\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">0.6mm Black Nylon Cord 5m (1pcs) - MF001</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/67d21e8577a74e82a25273debc550e9b/MF001.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/bt2-button-head-cap-self-tapping-screw-bhcs?id=48694586671452\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">BT2x6 BHCS Self Tapping Screw (20PCS) - AA128</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/222c42e2a61544ebbbec3f79837dcede/AA128.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/d2-stainless-steel-dowel-pin?id=42394428604552\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">2x25 mm Stainless Steel Dowel Pin (20PCS) - DA002</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/81c7e8caadf349d29e143d2e7eb40708/da002_9ae7eb87-82ac-4b7a-935a-238eed1902be.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/wire-pair-with-sh1-0?id=42122988978312\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">200mm Wire Pair with SH1.0(5PCS) - IC007</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/bc8acd86637e468f9a9dc05253e088b2/200mm_Wire_Pair_-_IC007.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"https://us.store.bambulab.com/products/wireless-inductive-coil-kit?id=736468598294376459\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">300x1mm COB LED Strip Light-Purple (1PCS) - KA016</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/acb9bb3ef9fc41cda195623cf1cee690/300x1mm_Purple_-_KA016.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"https://us.store.bambulab.com/products/wireless-inductive-coil-kit?id=736468598290182189\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Wireless Inductive Receiver Coil - 15mm (2PCS) - KC025</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/c8814ac55db244afa3345fe898648d84/Receiver_Coil_15mm_-_KC025.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"https://us.store.bambulab.com/products/wireless-inductive-coil-kit?id=736468598290182177\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Wireless Inductive Coil Kit with 20 LED Lights (1PCS) - KC023</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/3721c877234f4d94a089597d0781d964/Wireless_Inductive_Coil_Kit_with_20_LED_Lights_-_KC023.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Exploding Tower with Light-Up Dice. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Exploding Tower with Light-Up Dice on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh173-exploding-dice-tower-with-light-up-dice",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Exploding Dice Tower with Light-Up Dice",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "35.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/exploding-dice-tower-with-light-up-dice?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "45.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/exploding-dice-tower-with-light-up-dice?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "37.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/exploding-dice-tower-with-light-up-dice?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "31.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/exploding-dice-tower-with-light-up-dice?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "60.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://au.store.bambulab.com/en/products/exploding-dice-tower-with-light-up-dice?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "34.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/exploding-dice-tower-with-light-up-dice?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA128",
+    "B-ZH173",
+    "DA002",
+    "IC007",
+    "KA016",
+    "KC023",
+    "KC025",
+    "MF001",
+    "ZH173"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Exploding Tower With Light Up Dice",
+      "url": "https://makerworld.com/en/models/2950385-exploding-tower-with-light-up-dice?from=search#profileId-3305610"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "764699442422042626",
+    "765721359459352578",
+    "765723553898233858",
+    "765724313344143362",
+    "765725193422307330",
+    "765725936241926144"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Name",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/exploding-dice-tower-with-light-up-dice?id=765725193422307330"
+      },
+      "rows": [
+        [
+          "0.6mm Black Nylon Cord 5m (1pcs) - MF001",
+          "1"
+        ],
+        [
+          "BT2x6 BHCS Self Tapping Screw (20PCS) - AA128",
+          "1"
+        ],
+        [
+          "2x25 mm Stainless Steel Dowel Pin (20PCS) - DA002",
+          "1"
+        ],
+        [
+          "200mm Wire Pair with SH1.0(5PCS) - IC007",
+          "1"
+        ],
+        [
+          "300x1mm COB LED Strip Light-Purple (1PCS) - KA016",
+          "1"
+        ],
+        [
+          "Wireless Inductive Receiver Coil - 15mm (2PCS) - KC025",
+          "1"
+        ],
+        [
+          "Wireless Inductive Coil Kit with 20 LED Lights (1PCS) - KC023",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/c1b437d59d8b4cf8a54f75c967af343d/B-ZH173_-_model.jpg",
+      "part_number": "ZH173",
+      "price": "35.99",
+      "region": "us",
+      "sku": "765725193422307330",
+      "title": "Exploding Dice Tower with Light-Up Dice - Exploding Dice Tower with Light-Up Dice - ZH173",
+      "url": "https://us.store.bambulab.com/products/exploding-dice-tower-with-light-up-dice?id=765725193422307330",
+      "variant_id": "765725193422307330"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/acb5192d7e5e4f118494ddc97b6ae959/B-ZH173_-_model.jpg",
+      "part_number": "ZH173",
+      "price": "45.99",
+      "region": "ca",
+      "sku": "765723553898233858",
+      "title": "Exploding Dice Tower with Light-Up Dice - Exploding Dice Tower with Light-Up Dice - ZH173",
+      "url": "https://ca.store.bambulab.com/products/exploding-dice-tower-with-light-up-dice?id=765723553898233858",
+      "variant_id": "765723553898233858"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/d46b05a6d2ba4aa191ea9adbd87e3743/B-ZH173_-_model.jpg",
+      "part_number": "ZH173",
+      "price": "37.99",
+      "region": "eu",
+      "sku": "765725936241926144",
+      "title": "Exploding Dice Tower with Light-Up Dice - Exploding Dice Tower with Light-Up Dice - ZH173",
+      "url": "https://eu.store.bambulab.com/products/exploding-dice-tower-with-light-up-dice?id=765725936241926144",
+      "variant_id": "765725936241926144"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/cec9f8b5a07942f1b3787b1d16e4da55/B-ZH173_-_model.jpg",
+      "part_number": "ZH173",
+      "price": "31.99",
+      "region": "uk",
+      "sku": "765724313344143362",
+      "title": "Exploding Dice Tower with Light-Up Dice - Exploding Dice Tower with Light-Up Dice - ZH173",
+      "url": "https://uk.store.bambulab.com/products/exploding-dice-tower-with-light-up-dice?id=765724313344143362",
+      "variant_id": "765724313344143362"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/1bfc9a3fdd4843f78f852e8c61552843/B-ZH173_-_model.jpg",
+      "part_number": "ZH173",
+      "price": "60.99",
+      "region": "au",
+      "sku": "765721359459352578",
+      "title": "Exploding Dice Tower with Light-Up Dice - Exploding Dice Tower with Light-Up Dice - ZH173",
+      "url": "https://au.store.bambulab.com/products/exploding-dice-tower-with-light-up-dice?id=765721359459352578",
+      "variant_id": "765721359459352578"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/649894c7912741118acd2aa855a10efa/B-ZH173_-_model.jpg",
+      "part_number": "ZH173",
+      "price": "34.99",
+      "region": "asia",
+      "sku": "764699442422042626",
+      "title": "Exploding Dice Tower with Light-Up Dice - Exploding Dice Tower with Light-Up Dice - ZH173",
+      "url": "https://asia.store.bambulab.com/products/exploding-dice-tower-with-light-up-dice?id=764699442422042626",
+      "variant_id": "764699442422042626"
+    }
+  ]
+}

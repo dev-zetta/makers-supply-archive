@@ -1,0 +1,571 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "power-distribution-board-pdb-4-channels",
+      "product_id": "7975750860936",
+      "region": "us"
+    },
+    {
+      "handle": "power-distribution-board-pdb-4-channels",
+      "product_id": "8650996285680",
+      "region": "ca"
+    },
+    {
+      "handle": "power-distribution-board-pdb-4-channels",
+      "product_id": "8855811621212",
+      "region": "eu"
+    },
+    {
+      "handle": "power-distribution-board-pdb-4-channels",
+      "product_id": "7390495309884",
+      "region": "uk"
+    },
+    {
+      "handle": "power-distribution-board-pdb-4-channels",
+      "product_id": "8312077025443",
+      "region": "au"
+    },
+    {
+      "handle": "power-distribution-board-pdb-4-channels",
+      "product_id": "7491364520051",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/24/248c98cdb0fed002fa8032fd1383c40e32022d338c0069a59df3b700867c56ae.png",
+      "id": "image-df67cab9ce0e2890b77a",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "d0790065812043d09f5b93599c7ba696.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "248c98cdb0fed002fa8032fd1383c40e32022d338c0069a59df3b700867c56ae",
+      "size": 293817,
+      "source_url": "https://store.bblcdn.eu/d0790065812043d09f5b93599c7ba696.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/be/beaa8959882d29097fd29c69e8ddd78dee12f64f5fa45200554e9b26727a78be.png",
+      "id": "image-7e3d72308717a9bbba36",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "83517d115db8477fa9e38fbc9c6a55ef.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "beaa8959882d29097fd29c69e8ddd78dee12f64f5fa45200554e9b26727a78be",
+      "size": 277326,
+      "source_url": "https://store.bblcdn.eu/83517d115db8477fa9e38fbc9c6a55ef.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/38/388b62e108c9ce6d36265cab49525d9668fd73ceef0de8f265559d3b7d959e71.png",
+      "id": "image-44ff0d7b45972dcb34af",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1139483b84384823866d9eb67ebb6213.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "388b62e108c9ce6d36265cab49525d9668fd73ceef0de8f265559d3b7d959e71",
+      "size": 322042,
+      "source_url": "https://store.bblcdn.eu/1139483b84384823866d9eb67ebb6213.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/15/15459f23a0c8fdd292d7b53f8f2475e44f28bf1a95fe01ab889ed019cba04d63.png",
+      "id": "image-90d102d5477830c97f39",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "6449698590504eaaa7f35b7fa993379e.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "15459f23a0c8fdd292d7b53f8f2475e44f28bf1a95fe01ab889ed019cba04d63",
+      "size": 362417,
+      "source_url": "https://store.bblcdn.eu/6449698590504eaaa7f35b7fa993379e.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/64/64344835b4a78fbc4d2cdd440224c4edf768ba9749a3b7f81e6358b5ddc09cd3.zip",
+      "id": "archive-356d7031e5fdbc78fdf9",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Power_Distribution_Board_PDB.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "64344835b4a78fbc4d2cdd440224c4edf768ba9749a3b7f81e6358b5ddc09cd3",
+      "size": 1615835,
+      "source_url": "https://store.bblcdn.com/s1/default/65afd9079e02435ab423b435374fbe4e/Power_Distribution_Board_PDB.zip"
+    },
+    {
+      "archive_member_path": "Power Distribution Board (PDB)/power_distribution_board_new.stl",
+      "blob_path": "data/blobs/sha256/1e/1e1e5de7ad632b6ab955a7ca887c596d623e1f945a3f275579c0691fa75ef803.stl",
+      "id": "model-8a14fd914cfdc7bc265e",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "power_distribution_board_new.stl",
+      "parent_asset_id": "archive-356d7031e5fdbc78fdf9",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "1e1e5de7ad632b6ab955a7ca887c596d623e1f945a3f275579c0691fa75ef803",
+      "size": 2069984,
+      "source_url": "https://store.bblcdn.com/s1/default/65afd9079e02435ab423b435374fbe4e/Power_Distribution_Board_PDB.zip"
+    },
+    {
+      "archive_member_path": "Power Distribution Board (PDB)/power_distribution_board_new.stp",
+      "blob_path": "data/blobs/sha256/8b/8b27a2c606b6d7ef00666c8aec801829a019f49cdf3b60c158666ed23880ca58.stp",
+      "id": "model-06dd15a1416d7586ec7f",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "power_distribution_board_new.stp",
+      "parent_asset_id": "archive-356d7031e5fdbc78fdf9",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "8b27a2c606b6d7ef00666c8aec801829a019f49cdf3b60c158666ed23880ca58",
+      "size": 5576148,
+      "source_url": "https://store.bblcdn.com/s1/default/65afd9079e02435ab423b435374fbe4e/Power_Distribution_Board_PDB.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e3/e366f96e23aeb26aaa58f8cde632c8c8d02eedef93c8aeea819028acae04e281.zip",
+      "id": "archive-1d252b4cd446c6b67ff4",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "ac88b934066a4265854fa49b98160c5f.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "e366f96e23aeb26aaa58f8cde632c8c8d02eedef93c8aeea819028acae04e281",
+      "size": 1254057,
+      "source_url": "https://store.bblcdn.com/s1/default/ac88b934066a4265854fa49b98160c5f.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/69/696ec0210ac4a87fd0810a714dec27689c62d6d6089bd0cc9c83ad08eab9608b.png",
+      "id": "image-display-9a1bb5d939638d3b4433",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "248c98cdb0fed002fa8032fd1383c40e32022d338c0069a59df3b700867c56ae",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "d0790065812043d09f5b93599c7ba696.catalog.png",
+      "parent_asset_id": "image-df67cab9ce0e2890b77a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "696ec0210ac4a87fd0810a714dec27689c62d6d6089bd0cc9c83ad08eab9608b",
+      "size": 85544,
+      "source_url": "https://store.bblcdn.eu/d0790065812043d09f5b93599c7ba696.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/81/810cbd7a233b06d7f8e14ff98e5793fd4cb04cb4dcdc8c0d2d6d4cf97cafdb60.png",
+      "id": "image-display-aab3d63912e3194e3e27",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "beaa8959882d29097fd29c69e8ddd78dee12f64f5fa45200554e9b26727a78be",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "83517d115db8477fa9e38fbc9c6a55ef.catalog.png",
+      "parent_asset_id": "image-7e3d72308717a9bbba36",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "810cbd7a233b06d7f8e14ff98e5793fd4cb04cb4dcdc8c0d2d6d4cf97cafdb60",
+      "size": 75420,
+      "source_url": "https://store.bblcdn.eu/83517d115db8477fa9e38fbc9c6a55ef.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5a/5a3830fed45ee847221d538f2bc13365523f7325f495be58269c40181ba6d429.png",
+      "id": "image-display-3697cd24b62833de237e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "388b62e108c9ce6d36265cab49525d9668fd73ceef0de8f265559d3b7d959e71",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1139483b84384823866d9eb67ebb6213.catalog.png",
+      "parent_asset_id": "image-44ff0d7b45972dcb34af",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5a3830fed45ee847221d538f2bc13365523f7325f495be58269c40181ba6d429",
+      "size": 85161,
+      "source_url": "https://store.bblcdn.eu/1139483b84384823866d9eb67ebb6213.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/d1/d19374c71c16663615c1fbd576d26c19260e267e46e1e6a2b75e2a50de9a11aa.png",
+      "id": "image-display-628dd75cdeb77677c16d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "15459f23a0c8fdd292d7b53f8f2475e44f28bf1a95fe01ab889ed019cba04d63",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "6449698590504eaaa7f35b7fa993379e.catalog.png",
+      "parent_asset_id": "image-90d102d5477830c97f39",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "d19374c71c16663615c1fbd576d26c19260e267e46e1e6a2b75e2a50de9a11aa",
+      "size": 94968,
+      "source_url": "https://store.bblcdn.eu/6449698590504eaaa7f35b7fa993379e.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[6]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Instruction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Power Distribution Board (PDB) - 4 Channels is used for connecting various electrical devices, switches, and power supplies, supporting electric devices up to 4 channels."
+    },
+    {
+      "kind": "bullet",
+      "text": "Use two M2 screws for fastening (unless otherwise specified, all fastening screws used for the kit's PCBA are M2 screws)."
+    },
+    {
+      "kind": "bullet",
+      "text": "The IN is for connecting to various power supplies, such as a USB-A Power Cable with PH2.0 Connector or battery box. IN and OUT are interconnected, and OUT can be used to connect to another Potentiometer Board with SH1.0 Connector in series. IN/OUT uses a PH2.0-2P connector."
+    },
+    {
+      "kind": "bullet",
+      "text": "The SW0 to SW4 is used for connecting switches such as Potentiometer Board with SH1.0 Connector, Self-Locking Button Switch with SH1.0 Connector or Jumper Cable with SH1.0 Connector."
+    },
+    {
+      "kind": "bullet",
+      "text": "The CH1 to CH4 is used for connecting electrical devices such as N20 Reduction Gear Motor, 3030-LED Board with SH1.0 Connector, 2510 5V DC Fan with SH1.0 Connector, etc. Please do not connect the Potentiometer Board with SH1.0 Connector, Self-Locking Button Switch with SH1.0 Connector or Jumper Cable with SH1.0 Connector to these channels."
+    },
+    {
+      "kind": "bullet",
+      "text": "SW0 is the master switch, while SW1 to SW4 are individual switches for controlling channels CH1 to CH4 respectively. The SW0 to SW4 uses a SH1.0-2P connector."
+    },
+    {
+      "kind": "bullet",
+      "text": "The LED indicator shows the system status. When the battery box and master switch are connected, the LED lights up white, indicating normal status. If the total current exceeds 1A or if a short circuit occurs in any of the CH1 to CH4 channels, the current-limiting chip will cut off the power supply, and the LED will turn off. After the overcurrent or short-circuit condition is removed, the power supply will remain disconnected. To restore normal operation, the main switch must be turned off and then reconnected."
+    },
+    {
+      "kind": "bullet",
+      "text": "Please do not connect switches to the CH1 to CH4, and avoid connecting electrical devices to SW1 to SW4 as this may cause a short circuit."
+    },
+    {
+      "kind": "heading",
+      "text": "Electronics System"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The components of this circuit set can be divided into five categories: Power Distribution Board (PDB) - 4 Channels, power-type devices, power supply devices, switch devices, and wires. The Power Distribution Board has channels for connecting power supply devices, switch devices, and electric devices. Please refer to the figure below for the devices supported by each connector. The IN is used to connect various power supply devices, such as AA Battery Case and USB-A Power Cable; the CH1-4 are used to connect various electrical devices, such as N20 Reduction Gear Motor (150rpm) and 4 White 3030-LED Board, and supports up to 4 connections; the SW0~4 is used to connect various switch devices, such as Self-locking Button Switch, Potentiometer Board, and Jumper Cable. Please do not connect electric devices to the SW0~4, and likewise, do not connect switches to the CH1~4. The OUT is used to connect to the next Power Distribution Board to achieve connector expansion. To learn more about the case, please refer to the Application Instruction."
+    },
+    {
+      "kind": "heading",
+      "text": "Consideration"
+    },
+    {
+      "kind": "bullet",
+      "text": "Please do not forcefully twist the connectors to avoid wires loosening or detaching."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a class=\"download_svg\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\"> </a><a href=\"https://store.bblcdn.com/s1/default/65afd9079e02435ab423b435374fbe4e/Power_Distribution_Board_PDB.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M37.7154 0.802246L54.9999 16.8008V63.3224C54.9999 64.1367 54.3397 64.7969 53.5254 64.7969H5.16076C4.3464 64.7969 3.68623 64.1367 3.68623 63.3224V2.27677C3.68623 1.46241 4.3464 0.802246 5.16076 0.802246H37.7154Z\" fill=\"#60BB18\" fill-rule=\"evenodd\"></path> <path d=\"M5.8981 4.48869C5.8981 3.67433 6.55827 3.01416 7.37263 3.01416H36.5374C36.9344 3.01416 37.3146 3.17423 37.592 3.45817L44.4342 10.4605L52.2567 16.9683C52.5934 17.2485 52.7882 17.6638 52.7882 18.1019V61.1107C52.7882 61.925 52.128 62.5852 51.3136 62.5852H7.37263C6.55827 62.5852 5.8981 61.925 5.8981 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#60BB18\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" y=\"24.3948\"></rect> <path d=\"M20.3197 33.5191C20.3197 34.0039 20.2189 34.4239 20.0174 34.7791C19.8158 35.1342 19.5422 35.4246 19.1966 35.6502C18.8558 35.8758 18.4718 36.0414 18.0446 36.147V36.1902C18.8894 36.2958 19.5302 36.555 19.967 36.9678C20.4085 37.3806 20.6293 37.9326 20.6293 38.6238C20.6293 39.2382 20.4781 39.7878 20.1757 40.2725C19.8782 40.7573 19.4174 41.1389 18.7934 41.4173C18.1694 41.6957 17.3654 41.8349 16.3814 41.8349C15.8006 41.8349 15.2582 41.7869 14.7543 41.6909C14.2551 41.5997 13.7847 41.4581 13.3431 41.2661V39.3726C13.7943 39.603 14.2671 39.7782 14.7615 39.8982C15.2558 40.0134 15.7166 40.0709 16.1438 40.0709C16.9406 40.0709 17.4974 39.9342 17.8142 39.6606C18.1358 39.3822 18.2966 38.9934 18.2966 38.4942C18.2966 38.2014 18.2222 37.9542 18.0734 37.7526C17.9246 37.551 17.6654 37.3974 17.2958 37.2918C16.931 37.1862 16.4198 37.1334 15.7622 37.1334H14.9631V35.427H15.7766C16.4246 35.427 16.9166 35.367 17.2526 35.247C17.5934 35.1222 17.8238 34.9543 17.9438 34.7431C18.0686 34.5271 18.131 34.2823 18.131 34.0087C18.131 33.6343 18.0158 33.3415 17.7854 33.1303C17.555 32.9191 17.171 32.8135 16.6334 32.8135C16.2974 32.8135 15.9902 32.8567 15.7118 32.9431C15.4382 33.0247 15.191 33.1255 14.9703 33.2455C14.7495 33.3607 14.5551 33.4735 14.3871 33.5839L13.3575 32.0503C13.7703 31.7527 14.2527 31.5055 14.8047 31.3087C15.3614 31.1119 16.0238 31.0135 16.7918 31.0135C17.8766 31.0135 18.7358 31.2319 19.3694 31.6687C20.003 32.1055 20.3197 32.7223 20.3197 33.5191ZM31.2779 36.327C31.2779 37.5126 31.0499 38.5038 30.5939 39.3006C30.1428 40.0925 29.4876 40.6901 28.6284 41.0933C27.7692 41.4917 26.7348 41.6909 25.5252 41.6909H22.5445V31.1647H25.8492C26.9532 31.1647 27.9108 31.3615 28.722 31.7551C29.5332 32.1439 30.162 32.7223 30.6083 33.4903C31.0547 34.2535 31.2779 35.199 31.2779 36.327ZM28.9596 36.3846C28.9596 35.607 28.8444 34.9687 28.614 34.4695C28.3884 33.9655 28.0524 33.5935 27.606 33.3535C27.1644 33.1135 26.6172 32.9935 25.9644 32.9935H24.7765V39.8478H25.734C26.8236 39.8478 27.6324 39.5574 28.1604 38.9766C28.6932 38.3958 28.9596 37.5318 28.9596 36.3846Z\" fill=\"white\"></path> <path d=\"M37.6006 18.3492H55.0001L36.1261 0.802246V16.8746C36.1261 17.689 36.7863 18.3492 37.6006 18.3492Z\" fill=\"#60BB18\"></path> </svg> 3D Model </a> <a href=\"https://store.bblcdn.com/s1/default/ac88b934066a4265854fa49b98160c5f.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 65 65\" width=\"65\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M34.7087 0.802246L51.9921 16.7998V63.2344C51.9921 64.0948 51.2946 64.7922 50.4342 64.7922H2.24001C1.37961 64.7922 0.682129 64.0948 0.682129 63.2344V2.36012C0.682129 1.49973 1.37961 0.802246 2.24001 0.802246H34.7087Z\" fill=\"#2172D0\" fill-rule=\"evenodd\"></path> <path d=\"M2.89377 4.57204C2.89377 3.71164 3.59125 3.01416 4.45165 3.01416H33.4957C33.9151 3.01416 34.3168 3.18328 34.6099 3.48327L41.4271 10.46L49.2189 16.9423C49.5747 17.2383 49.7804 17.6771 49.7804 18.1399V61.023C49.7804 61.8834 49.083 62.5809 48.2226 62.5809H4.45164C3.59125 62.5809 2.89377 61.8834 2.89377 61.023V4.57204Z\" fill=\"white\"></path> <path d=\"M34.6774 18.3479H51.9922L33.1196 0.802246V16.79C33.1196 17.6504 33.8171 18.3479 34.6774 18.3479Z\" fill=\"#2172D0\"></path> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"9.99928\" x=\"8.99524\" y=\"16.801\"></rect> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"9.99928\" x=\"8.99524\" y=\"34.7998\"></rect> <rect fill=\"#2172D0\" height=\"2.99978\" width=\"23.9983\" x=\"8.99524\" y=\"25.8005\"></rect> <circle cx=\"44.9022\" cy=\"44.7086\" fill=\"white\" r=\"10.7622\" stroke=\"#2172D0\" stroke-width=\"2.47381\" transform=\"rotate(-49.859 44.9022 44.7086)\"></circle> <path d=\"M60.723 60.9036C61.7674 61.7844 63.3281 61.6517 64.2089 60.6073C65.0897 59.5628 64.957 58.0021 63.9126 57.1214L60.723 60.9036ZM52.2213 53.7341L60.723 60.9036L63.9126 57.1214L55.4109 49.9519L52.2213 53.7341Z\" fill=\"#2172D0\"></path> </svg> Application Instruction </a></p>\n</div>\n<div class=\"pct pct_mc\"><!-- 第一条 -->\n<div class=\"pct_st-p\">\n<p class=\"pct_p\"></p>\n<h3 class=\"pct_st\"><strong>Overview<strong></strong></strong></h3>\nThe following models all require the use of a <strong>Power Distribution Board - 4 Channels.</strong> To complete the assembly of a full model, users need to download the model files and 3D print the remaining parts.\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 100.061%; height: 78.3752px;\"><!-- 表头 -->\n<tbody><!-- 第一行 --><!-- 第二行 -->\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 39.7009%; height: 19.5938px;\"><strong>Models Using This Part</strong></td>\n<td class=\"pct_td\" style=\"width: 14.2304%; height: 19.5938px;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 42.4863%; height: 19.5938px;\"><b>Model Links</b></td>\n</tr>\n<!-- 第三行 -->\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 39.7009%; height: 19.5938px;\">\n<div data-docx-has-block-data=\"false\" data-page-id=\"OKsfdVZTpoQRnExo2lIcyoskncC\">\n<div class=\"old-record-id-WN9wdvxjroLLKUxZrwrcWzjZnhd\">Endless Loop Express</div>\n</div>\n<span class=\"lark-record-clipboard\" data-lark-record-data='{\"rootId\":\"OKsfdVZTpoQRnExo2lIcyoskncC\",\"text\":{\"initialAttributedTexts\":{\"text\":{\"0\":\"Button\"},\"attribs\":{\"0\":\"*0+6\"}},\"apool\":{\"numToAttrib\":{\"0\":[\"author\",\"7118919285765865474\"]},\"nextNum\":1}},\"type\":\"text\",\"referenceRecordMap\":{},\"extra\":{\"mention_page_title\":{},\"external_mention_url\":{}},\"isKeepQuoteContainer\":false,\"isFromCode\":false,\"selection\":[{\"id\":64,\"type\":\"text\",\"selection\":{\"start\":0,\"end\":6},\"recordId\":\"WN9wdvxjroLLKUxZrwrcWzjZnhd\"}],\"payloadMap\":{},\"isCut\":false}' data-lark-record-format=\"docx/text\"></span></td>\n<td class=\"pct_td\" style=\"width: 14.2304%; height: 19.5938px;\">IMD_Q.</td>\n<td class=\"pct_td\" style=\"width: 42.4863%; height: 19.5938px;\"><a href=\"https://makerworld.com/en/models/431820?from=search#profileId-348512\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong>Endless Loop Express</strong></span></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 39.7009%; height: 19.5938px;\">Running Dinosaur Automaton</td>\n<td class=\"pct_td\" style=\"width: 14.2304%; height: 19.5938px;\"><span>Amao Chan</span></td>\n<td class=\"pct_td\" style=\"width: 42.4863%; height: 19.5938px;\"><a href=\"https://makerworld.com/zh/models/422534#profileId-325850\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Running Dinosaur Automaton</span></strong></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 39.7009%; height: 19.5938px;\">Mini Motorized Basketball Game</td>\n<td class=\"pct_td\" style=\"width: 14.2304%; height: 19.5938px;\">Kit Crafters</td>\n<td class=\"pct_td\" style=\"width: 42.4863%; height: 19.5938px;\"><a href=\"https://makerworld.com/zh/models/420464#profileId-323162\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span>Mini Motorized Basketball Game</span></strong></span></a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_st\"></h2>\n<p> </p>\n<h2 class=\"pct_t\">Instruction</h2>\n<h2 class=\"pct_st\"></h2>\n<p>The Power Distribution Board (PDB) - 4 Channels is used for connecting various electrical devices, switches, and power supplies, supporting electric devices up to 4 channels.</p>\n<ul>\n<li>\n<p>Use two M2 screws for fastening (unless otherwise specified, all fastening screws used for the kit's PCBA are M2 screws).</p>\n</li>\n<li>\n<p>The IN is for connecting to various power supplies, such as a USB-A Power Cable with PH2.0 Connector or battery box. IN and OUT are interconnected, and OUT can be used to connect to another Potentiometer Board with SH1.0 Connector in series. IN/OUT uses a PH2.0-2P connector.</p>\n</li>\n<li>\n<p>The SW0 to SW4 is used for connecting switches such as Potentiometer Board with SH1.0 Connector, Self-Locking Button Switch with SH1.0 Connector or Jumper Cable with SH1.0 Connector.</p>\n</li>\n<li>\n<p>The CH1 to CH4 is used for connecting electrical devices such as N20 Reduction Gear Motor, 3030-LED Board with SH1.0 Connector, 2510 5V DC Fan with SH1.0 Connector, etc. Please do not connect the Potentiometer Board with SH1.0 Connector, Self-Locking Button Switch with SH1.0 Connector or Jumper Cable with SH1.0 Connector to these channels.</p>\n</li>\n<li>\n<p>SW0 is the master switch, while SW1 to SW4 are individual switches for controlling channels CH1 to CH4 respectively. The SW0 to SW4 uses a SH1.0-2P connector.</p>\n</li>\n<li>\n<p>The LED indicator shows the system status. When the battery box and master switch are connected, the LED lights up white, indicating normal status. If the total current exceeds 1A or if a short circuit occurs in any of the CH1 to CH4 channels, the current-limiting chip will cut off the power supply, and the LED will turn off. After the overcurrent or short-circuit condition is removed, the power supply will remain disconnected. To restore normal operation, the main switch must be turned off and then reconnected.</p>\n</li>\n<li>\n<p>Please do not connect switches to the CH1 to CH4, and avoid connecting electrical devices to SW1 to SW4 as this may cause a short circuit.</p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<p> </p>\n<h2 class=\"pct_t\">Electronics System</h2>\n<h2 class=\"pct_st\"></h2>\n<p>The components of this circuit set can be divided into five categories: <a href=\"../../../products/power-distribution-board-pdb-4-channels\" rel=\"noopener\" target=\"_blank\"><span><span style=\"color: #00ae42;\"><strong>Power Distribution Board (PDB) - 4 Channels</strong></span></span></a><span style=\"text-decoration: underline;\">,</span> power-type devices, power supply devices, switch devices, and wires. The Power Distribution Board has channels for connecting power supply devices, switch devices, and electric devices. Please refer to the figure below for the devices supported by each connector. The IN is used to connect various power supply devices, such as <a href=\"../../../products/battery-case-with-ph2-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>AA Battery Case</strong></span></span></a> and <a href=\"products/usb-a-power-cable-with-ph2-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>USB-A Power Cable</strong></span></span></a>; the CH1-4 are used to connect various electrical devices, such as <a href=\"../../../products/n20-reduction-gear-motor\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>N20 Reduction Gear Motor (150rpm)</strong></span></span></a> and <a href=\"../../../products/3030-5v-led-board-with-sh1-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>4 White 3030-LED Board</strong></span></span></a>, and supports up to 4 connections; the SW0~4 is used to connect various switch devices, such as <a href=\"../../../products/self-locking-button-switch-with-sh1-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>Self-locking Button Switch</strong></span></span></a><a href=\"https://asia.store.bambulab.com/products/power-distribution-board-pdb-4-channelsbambulab.com/products/self-locking-button-switch-with-sh1-0-connector\" rel=\"noopener\" target=\"_blank\">, </a><a href=\"../../../products/potentiometer-board-with-sh1-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><strong><span style=\"color: #00ae42;\">Potentiometer Board</span></strong></span></a>, and <a href=\"../../../products/jumper-cable-with-sh1-0-connector\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline;\"><span style=\"color: #00ae42;\"><strong>Jumper Cable</strong></span></span></a>. Please do not connect electric devices to the SW0~4, and likewise, do not connect switches to the CH1~4. The OUT is used to connect to the next Power Distribution Board to achieve connector expansion. To learn more about the case, please refer to the<a href=\"https://store.bblcdn.com/s1/default/ac88b934066a4265854fa49b98160c5f.zip\" rel=\"noopener\" target=\"_blank\"> <span style=\"color: #00ae42;\"><strong>Application Instruction</strong></span></a>.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc product-specification-table-small-padding\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Product Specifications</h2>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"border-color: #adadad; font-weight: bold; height: 74px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 55px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; text-align: center; height: 55px; width: 72.4574px;\">\n<div>Product ID</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 55px; width: 148.139px;\">\n<div>Maximum Current</div>\n<p>(A)</p>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 55px; width: 148.04px;\">\n<div>Maximum Voltage\n<p>(V)</p>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 55px; width: 76.733px;\">\n<div>Size\n<div>\n<p>(mm)</p>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; font-weight: bold; height: 55px; width: 72.5284px;\">\n<div>Weight</div>\n<p>(g)</p>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border-color: #adadad; text-align: center; height: 19px; width: 72.4574px;\">IA005</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 148.139px;\">1A</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 148.04px;\">7.4V</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 76.733px;\">53x10x10</td>\n<td class=\"pct_td\" style=\"border-color: #adadad; height: 19px; width: 72.5284px;\">3</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc product-specification-table-small-padding\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Connector Model</h2>\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"border-color: #ADADAD; font-weight: bold;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold; text-align: center;\">\n<div>Input</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>Output</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>SW0-4</div>\n</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #ADADAD; font-weight: bold;\">\n<div>CH1-4</div>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border-color: #ADADAD; text-align: center;\">PH2.0-2P</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">PH2.0-2P</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">SH1.0-2P</td>\n<td class=\"pct_td\" style=\"border-color: #ADADAD;\">SH1.0-2P</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">In the box</h2>\n<h2 class=\"pct_st\"></h2>\n<ul>\n<li>\n<p>Power Distribution Board (PDB) x1pcs</p>\n</li>\n<li>\n<p>USB-A Power Cable with PH2.0 Connector x1pcs</p>\n</li>\n<li>\n<p>Wire Pair with PH2.0 x1pcs</p>\n</li>\n<li>\n<p>Jumper Cable with SH1.0 Connector x5pcs</p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_padding-in-mobile\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Consideration</h2>\n<h2 class=\"pct_st\"></h2>\n<ul>\n<li>\n<p>Please do not forcefully twist the connectors to avoid wires loosening or detaching.</p>\n</li>\n</ul>\n</div>\n</div>\n</div>",
+  "description_text": "The Power Distribution Board (PDB) - 4 Channels is used for connecting various electrical devices, switches, and power supplies, supporting electric devices up to 4 channels.\n\nUse two M2 screws for fastening (unless otherwise specified, all fastening screws used for the kit's PCBA are M2 screws).\n\nThe IN is for connecting to various power supplies, such as a USB-A Power Cable with PH2.0 Connector or battery box. IN and OUT are interconnected, and OUT can be used to connect to another Potentiometer Board with SH1.0 Connector in series. IN/OUT uses a PH2.0-2P connector.\n\nThe SW0 to SW4 is used for connecting switches such as Potentiometer Board with SH1.0 Connector, Self-Locking Button Switch with SH1.0 Connector or Jumper Cable with SH1.0 Connector.\n\nThe CH1 to CH4 is used for connecting electrical devices such as N20 Reduction Gear Motor, 3030-LED Board with SH1.0 Connector, 2510 5V DC Fan with SH1.0 Connector, etc. Please do not connect the Potentiometer Board with SH1.0 Connector, Self-Locking Button Switch with SH1.0 Connector or Jumper Cable with SH1.0 Connector to these channels.\n\nSW0 is the master switch, while SW1 to SW4 are individual switches for controlling channels CH1 to CH4 respectively. The SW0 to SW4 uses a SH1.0-2P connector.\n\nThe LED indicator shows the system status. When the battery box and master switch are connected, the LED lights up white, indicating normal status. If the total current exceeds 1A or if a short circuit occurs in any of the CH1 to CH4 channels, the current-limiting chip will cut off the power supply, and the LED will turn off. After the overcurrent or short-circuit condition is removed, the power supply will remain disconnected. To restore normal operation, the main switch must be turned off and then reconnected.\n\nPlease do not connect switches to the CH1 to CH4, and avoid connecting electrical devices to SW1 to SW4 as this may cause a short circuit.\n\nThe components of this circuit set can be divided into five categories: Power Distribution Board (PDB) - 4 Channels, power-type devices, power supply devices, switch devices, and wires. The Power Distribution Board has channels for connecting power supply devices, switch devices, and electric devices. Please refer to the figure below for the devices supported by each connector. The IN is used to connect various power supply devices, such as AA Battery Case and USB-A Power Cable; the CH1-4 are used to connect various electrical devices, such as N20 Reduction Gear Motor (150rpm) and 4 White 3030-LED Board, and supports up to 4 connections; the SW0~4 is used to connect various switch devices, such as Self-locking Button Switch, Potentiometer Board, and Jumper Cable. Please do not connect electric devices to the SW0~4, and likewise, do not connect switches to the CH1~4. The OUT is used to connect to the next Power Distribution Board to achieve connector expansion. To learn more about the case, please refer to the Application Instruction.\n\nPlease do not forcefully twist the connectors to avoid wires loosening or detaching.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "ia005-power-distribution-board-pdb-4-channels",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "Size (mm)",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Size (mm)",
+        "source_url": "https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=42123476467848"
+      },
+      "raw_value": "53x10x10"
+    }
+  ],
+  "name": "Power Distribution Board - 4 Channels (1PCS) - IA005",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.29",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/power-distribution-board-pdb-4-channels?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/power-distribution-board-pdb-4-channels?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/power-distribution-board-pdb-4-channels?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/power-distribution-board-pdb-4-channels?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/power-distribution-board-pdb-4-channels?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/power-distribution-board-pdb-4-channels?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "IA005"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Endless Loop Express",
+      "url": "https://makerworld.com/en/models/431820?from=search#profileId-348512"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Running Dinosaur Automaton",
+      "url": "https://makerworld.com/zh/models/422534#profileId-325850"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Mini Motorized Basketball Game",
+      "url": "https://makerworld.com/zh/models/420464#profileId-323162"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "41367780753468",
+    "41589066301555",
+    "42123476467848",
+    "44312057807011",
+    "45672702050544",
+    "47978443964764"
+  ],
+  "source_tables": [
+    {
+      "caption": "Overview",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=42123476467848"
+      },
+      "rows": [
+        [
+          "Models Using This Part",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "Endless Loop Express",
+          "IMD_Q.",
+          "Endless Loop Express"
+        ],
+        [
+          "Running Dinosaur Automaton",
+          "Amao Chan",
+          "Running Dinosaur Automaton"
+        ],
+        [
+          "Mini Motorized Basketball Game",
+          "Kit Crafters",
+          "Mini Motorized Basketball Game"
+        ]
+      ]
+    },
+    {
+      "caption": "Product Specifications",
+      "headers": [
+        "Product ID",
+        "Maximum Current (A)",
+        "Maximum Voltage (V)",
+        "Size (mm)",
+        "Weight (g)"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=42123476467848"
+      },
+      "rows": [
+        [
+          "IA005",
+          "1A",
+          "7.4V",
+          "53x10x10",
+          "3"
+        ]
+      ]
+    },
+    {
+      "caption": "Connector Model",
+      "headers": [
+        "Input",
+        "Output",
+        "SW0-4",
+        "CH1-4"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=42123476467848"
+      },
+      "rows": [
+        [
+          "PH2.0-2P",
+          "PH2.0-2P",
+          "SH1.0-2P",
+          "SH1.0-2P"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "CH1-4": "SH1.0-2P",
+    "Input": "PH2.0-2P",
+    "Maximum Current (A)": "1A",
+    "Maximum Voltage (V)": "7.4V",
+    "Output": "PH2.0-2P",
+    "Product ID": "IA005",
+    "SW0-4": "SH1.0-2P",
+    "Size (mm)": "53x10x10",
+    "Weight (g)": "3"
+  },
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/a055ffd48d2a4a7e83ae055e4f0838c7/IA005.png",
+      "part_number": "IA005",
+      "price": "5.29",
+      "region": "us",
+      "sku": "42123476467848",
+      "title": "Power Distribution Board - 4 Channels (1PCS) - IA005 - Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "url": "https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=42123476467848",
+      "variant_id": "42123476467848"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/7dd658d50b4841c1afd2b21b02f3d3b0.png",
+      "part_number": "IA005",
+      "price": "6.99",
+      "region": "ca",
+      "sku": "45672702050544",
+      "title": "Power Distribution Board - 4 Channels (1PCS) - IA005 - Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "url": "https://ca.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=45672702050544",
+      "variant_id": "45672702050544"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/73a21e47bee148e684a54e747b635a8a/IA005.png",
+      "part_number": "IA005",
+      "price": "5.99",
+      "region": "eu",
+      "sku": "47978443964764",
+      "title": "Power Distribution Board - 4 Channels (1PCS) - IA005 - Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "url": "https://eu.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=47978443964764",
+      "variant_id": "47978443964764"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/d0790065812043d09f5b93599c7ba696.png",
+      "part_number": "IA005",
+      "price": "4.99",
+      "region": "uk",
+      "sku": "41367780753468",
+      "title": "Power Distribution Board - 4 Channels (1PCS) - IA005 - Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "url": "https://uk.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=41367780753468",
+      "variant_id": "41367780753468"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/0ca1cfb3f5154c218d38823ba16088f3.png",
+      "part_number": "IA005",
+      "price": "11.99",
+      "region": "au",
+      "sku": "44312057807011",
+      "title": "Power Distribution Board - 4 Channels (1PCS) - IA005 - Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "url": "https://au.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=44312057807011",
+      "variant_id": "44312057807011"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494433331813249024.png",
+      "part_number": "IA005",
+      "price": "4.99",
+      "region": "asia",
+      "sku": "41589066301555",
+      "title": "Power Distribution Board - 4 Channels (1PCS) - IA005 - Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "url": "https://asia.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=41589066301555",
+      "variant_id": "41589066301555"
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
+      "product_id": "7970104737928",
+      "region": "us"
+    },
+    {
+      "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
+      "product_id": "8644568547568",
+      "region": "ca"
+    },
+    {
+      "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
+      "product_id": "8849764712796",
+      "region": "eu"
+    },
+    {
+      "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
+      "product_id": "7373063847996",
+      "region": "uk"
+    },
+    {
+      "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
+      "product_id": "8272323674275",
+      "region": "au"
+    },
+    {
+      "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
+      "product_id": "7486617616499",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/40/4009827dd08df07a55491db2d6da6d4992a0b2f3da9c31fb81a337f95b818cfb.png",
+      "id": "image-034e61af05b59b2e6027",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "aae1904e5e884281b74d0a742e156e9d.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "4009827dd08df07a55491db2d6da6d4992a0b2f3da9c31fb81a337f95b818cfb",
+      "size": 534310,
+      "source_url": "https://store.bblcdn.eu/aae1904e5e884281b74d0a742e156e9d.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/26/262a2aec35b22dc20b0f38e3947a7ef8ee02947359b0ab1c8d86da01775006a3.png",
+      "id": "image-2d2d559560403013f2cf",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "0fb15139cac74a12b19096db0167c9a6.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "262a2aec35b22dc20b0f38e3947a7ef8ee02947359b0ab1c8d86da01775006a3",
+      "size": 897974,
+      "source_url": "https://store.bblcdn.eu/s4/default/0fb15139cac74a12b19096db0167c9a6.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/0c/0c1617ac927de0fed7026b978192967ca9e5e0d7cc0c3e767b6f28f12686b967.jpg",
+      "id": "image-533c9915acc22d868933",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "df8865b6531142ab8ec3b72b04d47a93.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "0c1617ac927de0fed7026b978192967ca9e5e0d7cc0c3e767b6f28f12686b967",
+      "size": 702085,
+      "source_url": "https://store.bblcdn.eu/s4/default/df8865b6531142ab8ec3b72b04d47a93.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b4/b404f19c8128e42543cfae7fc1dc0ee0b97c3069593548a45c1ee9acdcc4699f.pdf",
+      "id": "document-983a3a7f62ebb22ef236",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "B-LA001.pdf",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "b404f19c8128e42543cfae7fc1dc0ee0b97c3069593548a45c1ee9acdcc4699f",
+      "size": 399418,
+      "source_url": "https://store.bblcdn.com/s7/default/a6d57b6906094d6987dab12cc7df852a/B-LA001.pdf"
+    },
+    {
+      "blob_path": "data/blobs/sha256/42/4259e9f890d9dcd1010eaf5e59c2cf3e2ed35e20fa726eb6bf36d04d9688775e.zip",
+      "id": "archive-e370a87ad0d874fbc617",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "TT_Motor_DC5V_59RPM_CCW_Single_Axis.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "4259e9f890d9dcd1010eaf5e59c2cf3e2ed35e20fa726eb6bf36d04d9688775e",
+      "size": 694984,
+      "source_url": "https://store.bblcdn.com/s7/default/71e0b4be42544329a4dd2dd44b7a01fe/TT_Motor_DC5V_59RPM_CCW_Single_Axis.zip"
+    },
+    {
+      "archive_member_path": "TT Motor (DC5V 59RPM CCW Single Axis)/TT Motor - LA001.stl",
+      "blob_path": "data/blobs/sha256/aa/aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c.stl",
+      "id": "model-c63027c1f828a2a8c1ec",
+      "kind": "model",
+      "media_type": "model/stl",
+      "original_filename": "TT Motor - LA001.stl",
+      "parent_asset_id": "archive-e370a87ad0d874fbc617",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c",
+      "size": 4143684,
+      "source_url": "https://store.bblcdn.com/s7/default/71e0b4be42544329a4dd2dd44b7a01fe/TT_Motor_DC5V_59RPM_CCW_Single_Axis.zip"
+    },
+    {
+      "archive_member_path": "TT Motor (DC5V 59RPM CCW Single Axis)/TT Motor - LA001.stp",
+      "blob_path": "data/blobs/sha256/a0/a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c.stp",
+      "id": "model-8a2434a8f9d6100f561d",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "TT Motor - LA001.stp",
+      "parent_asset_id": "archive-e370a87ad0d874fbc617",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c",
+      "size": 199317,
+      "source_url": "https://store.bblcdn.com/s7/default/71e0b4be42544329a4dd2dd44b7a01fe/TT_Motor_DC5V_59RPM_CCW_Single_Axis.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/82/82212ee99a1d23c1864f6003b766fbacd5754f339d31c2ee7a313ec1ebe20d8f.png",
+      "id": "image-display-b873931fd0add5e6b9b0",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "4009827dd08df07a55491db2d6da6d4992a0b2f3da9c31fb81a337f95b818cfb",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "aae1904e5e884281b74d0a742e156e9d.catalog.png",
+      "parent_asset_id": "image-034e61af05b59b2e6027",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "82212ee99a1d23c1864f6003b766fbacd5754f339d31c2ee7a313ec1ebe20d8f",
+      "size": 132365,
+      "source_url": "https://store.bblcdn.eu/aae1904e5e884281b74d0a742e156e9d.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/fb/fbdd14c376160853c32cfa4c4d0cb6e20ed32b2bff22e0c6f984c15ab3a3b128.png",
+      "id": "image-display-3e68e4af68a1442ef454",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "262a2aec35b22dc20b0f38e3947a7ef8ee02947359b0ab1c8d86da01775006a3",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "0fb15139cac74a12b19096db0167c9a6.catalog.png",
+      "parent_asset_id": "image-2d2d559560403013f2cf",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "fbdd14c376160853c32cfa4c4d0cb6e20ed32b2bff22e0c6f984c15ab3a3b128",
+      "size": 742754,
+      "source_url": "https://store.bblcdn.eu/s4/default/0fb15139cac74a12b19096db0167c9a6.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5d/5d630400cabd8d617f7b79b04ffe94c74795a569c4e8241072ebdc7705fd102d.png",
+      "id": "image-display-8c3d3165a774860c94b0",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1080,
+        "source_sha256": "0c1617ac927de0fed7026b978192967ca9e5e0d7cc0c3e767b6f28f12686b967",
+        "source_width": 1080
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "df8865b6531142ab8ec3b72b04d47a93.catalog.png",
+      "parent_asset_id": "image-533c9915acc22d868933",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "5d630400cabd8d617f7b79b04ffe94c74795a569c4e8241072ebdc7705fd102d",
+      "size": 874697,
+      "source_url": "https://store.bblcdn.eu/s4/default/df8865b6531142ab8ec3b72b04d47a93.jpg"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Motors & Actuators"
+  ],
+  "category_assignments": [
+    {
+      "id": "motors",
+      "label": "Motors & Actuators",
+      "path": [
+        "Electronics",
+        "Motors & Actuators"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[5]"
+      }
+    }
+  ],
+  "description_blocks": [],
+  "description_html": "<div class=\"pct pct_mc\">\n<h2 class=\"pct_t\"></h2>\n<h2 class=\"pct_st\"></h2>\n<h2 class=\"pct_t\">Documentation</h2>\n<h2 class=\"pct_st\"></h2>\n<p class=\"pct_padding-in-mobile pct_downloadContent\" style=\"text-align: center; gap: 40px; display: flex; justify-content: center;\"><a href=\"https://store.bblcdn.com/s7/default/a6d57b6906094d6987dab12cc7df852a/B-LA001.pdf\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M37.7155 0.802246L55.0002 16.8009V63.3224C55.0002 64.1367 54.34 64.7969 53.5256 64.7969H5.16103C4.34667 64.7969 3.6865 64.1367 3.6865 63.3224V2.27677C3.6865 1.46241 4.34667 0.802246 5.16103 0.802246H37.7155Z\" fill=\"#DF322F\" fill-rule=\"evenodd\"></path> <path d=\"M5.89828 4.48869C5.89828 3.67433 6.55845 3.01416 7.37281 3.01416H36.5375C36.9345 3.01416 37.3147 3.17423 37.5922 3.45817L44.4344 10.4605L52.2569 16.9683C52.5936 17.2485 52.7884 17.6638 52.7884 18.1019V61.1107C52.7884 61.925 52.1282 62.5852 51.3138 62.5852H7.37281C6.55845 62.5852 5.89828 61.925 5.89828 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#DF322F\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" x=\"0.000193596\" y=\"24.3948\"> </rect> <path d=\"M12.9688 31.1647C14.3272 31.1647 15.3184 31.4575 15.9423 32.0431C16.5663 32.6239 16.8783 33.4255 16.8783 34.4479C16.8783 34.9087 16.8087 35.3502 16.6695 35.7726C16.5303 36.1902 16.3023 36.5622 15.9855 36.8886C15.6735 37.215 15.256 37.4742 14.7328 37.6662C14.2096 37.8534 13.564 37.947 12.796 37.947H11.8384V41.6909H9.60647V31.1647H12.9688ZM12.8536 32.9935H11.8384V36.1182H12.5728C12.9904 36.1182 13.3528 36.063 13.66 35.9526C13.9672 35.8422 14.2048 35.6694 14.3728 35.4342C14.5408 35.199 14.6248 34.8967 14.6248 34.5271C14.6248 34.0087 14.4808 33.6247 14.1928 33.3751C13.9048 33.1207 13.4584 32.9935 12.8536 32.9935ZM27.5989 36.327C27.5989 37.5126 27.3709 38.5038 26.9149 39.3006C26.4637 40.0925 25.8085 40.6901 24.9494 41.0933C24.0902 41.4917 23.0558 41.6909 21.8462 41.6909H18.8655V31.1647H22.1702C23.2742 31.1647 24.2318 31.3615 25.043 31.7551C25.8541 32.1439 26.4829 32.7223 26.9293 33.4903C27.3757 34.2535 27.5989 35.199 27.5989 36.327ZM25.2806 36.3846C25.2806 35.607 25.1654 34.9687 24.935 34.4695C24.7094 33.9655 24.3734 33.5935 23.927 33.3535C23.4854 33.1135 22.9382 32.9935 22.2854 32.9935H21.0974V39.8478H22.055C23.1446 39.8478 23.9534 39.5574 24.4814 38.9766C25.0142 38.3958 25.2806 37.5318 25.2806 36.3846ZM31.9764 41.6909H29.7805V31.1647H35.8139V32.9935H31.9764V35.7078H35.5475V37.5294H31.9764V41.6909Z\" fill=\"white\"></path> <path d=\"M37.6009 18.3492H55.0004L36.1264 0.802246V16.8746C36.1264 17.689 36.7866 18.3492 37.6009 18.3492Z\" fill=\"#DF322F\"></path> </svg> PDF</a> <a href=\"https://store.bblcdn.com/s7/default/71e0b4be42544329a4dd2dd44b7a01fe/TT_Motor_DC5V_59RPM_CCW_Single_Axis.zip\" rel=\"noopener\" style=\"color: #333333; font-weight: 600; display: flex; justify-content: center; align-items: center; gap: 20px;\" target=\"_blank\"> <svg class=\"download_svg\" fill=\"none\" height=\"65\" viewbox=\"0 0 55 65\" width=\"55\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M37.7154 0.802246L54.9999 16.8008V63.3224C54.9999 64.1367 54.3397 64.7969 53.5254 64.7969H5.16076C4.3464 64.7969 3.68623 64.1367 3.68623 63.3224V2.27677C3.68623 1.46241 4.3464 0.802246 5.16076 0.802246H37.7154Z\" fill=\"#60BB18\" fill-rule=\"evenodd\"></path> <path d=\"M5.8981 4.48869C5.8981 3.67433 6.55827 3.01416 7.37263 3.01416H36.5374C36.9344 3.01416 37.3146 3.17423 37.592 3.45817L44.4342 10.4605L52.2567 16.9683C52.5934 17.2485 52.7882 17.6638 52.7882 18.1019V61.1107C52.7882 61.925 52.128 62.5852 51.3136 62.5852H7.37263C6.55827 62.5852 5.8981 61.925 5.8981 61.1107V4.48869Z\" fill=\"white\"></path> <rect fill=\"#60BB18\" height=\"23.5925\" rx=\"1.47453\" width=\"45.563\" y=\"24.3948\"></rect> <path d=\"M20.3197 33.5191C20.3197 34.0039 20.2189 34.4239 20.0174 34.7791C19.8158 35.1342 19.5422 35.4246 19.1966 35.6502C18.8558 35.8758 18.4718 36.0414 18.0446 36.147V36.1902C18.8894 36.2958 19.5302 36.555 19.967 36.9678C20.4085 37.3806 20.6293 37.9326 20.6293 38.6238C20.6293 39.2382 20.4781 39.7878 20.1757 40.2725C19.8782 40.7573 19.4174 41.1389 18.7934 41.4173C18.1694 41.6957 17.3654 41.8349 16.3814 41.8349C15.8006 41.8349 15.2582 41.7869 14.7543 41.6909C14.2551 41.5997 13.7847 41.4581 13.3431 41.2661V39.3726C13.7943 39.603 14.2671 39.7782 14.7615 39.8982C15.2558 40.0134 15.7166 40.0709 16.1438 40.0709C16.9406 40.0709 17.4974 39.9342 17.8142 39.6606C18.1358 39.3822 18.2966 38.9934 18.2966 38.4942C18.2966 38.2014 18.2222 37.9542 18.0734 37.7526C17.9246 37.551 17.6654 37.3974 17.2958 37.2918C16.931 37.1862 16.4198 37.1334 15.7622 37.1334H14.9631V35.427H15.7766C16.4246 35.427 16.9166 35.367 17.2526 35.247C17.5934 35.1222 17.8238 34.9543 17.9438 34.7431C18.0686 34.5271 18.131 34.2823 18.131 34.0087C18.131 33.6343 18.0158 33.3415 17.7854 33.1303C17.555 32.9191 17.171 32.8135 16.6334 32.8135C16.2974 32.8135 15.9902 32.8567 15.7118 32.9431C15.4382 33.0247 15.191 33.1255 14.9703 33.2455C14.7495 33.3607 14.5551 33.4735 14.3871 33.5839L13.3575 32.0503C13.7703 31.7527 14.2527 31.5055 14.8047 31.3087C15.3614 31.1119 16.0238 31.0135 16.7918 31.0135C17.8766 31.0135 18.7358 31.2319 19.3694 31.6687C20.003 32.1055 20.3197 32.7223 20.3197 33.5191ZM31.2779 36.327C31.2779 37.5126 31.0499 38.5038 30.5939 39.3006C30.1428 40.0925 29.4876 40.6901 28.6284 41.0933C27.7692 41.4917 26.7348 41.6909 25.5252 41.6909H22.5445V31.1647H25.8492C26.9532 31.1647 27.9108 31.3615 28.722 31.7551C29.5332 32.1439 30.162 32.7223 30.6083 33.4903C31.0547 34.2535 31.2779 35.199 31.2779 36.327ZM28.9596 36.3846C28.9596 35.607 28.8444 34.9687 28.614 34.4695C28.3884 33.9655 28.0524 33.5935 27.606 33.3535C27.1644 33.1135 26.6172 32.9935 25.9644 32.9935H24.7765V39.8478H25.734C26.8236 39.8478 27.6324 39.5574 28.1604 38.9766C28.6932 38.3958 28.9596 37.5318 28.9596 36.3846Z\" fill=\"white\"></path> <path d=\"M37.6006 18.3492H55.0001L36.1261 0.802246V16.8746C36.1261 17.689 36.7863 18.3492 37.6006 18.3492Z\" fill=\"#60BB18\"></path> </svg> 3D Model</a></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-icpc pct_padding-in-mobile .pct_hardware-tableList pct_hardware-tableList-t-icpc\">\n<p> </p>\n<p> </p>\n<h2 class=\"pct_t\">Basic Information</h2>\n<div class=\"pct_icpc pct_grad-2-pc pct_grad-1-mobile pct_hardware-tableList\"><!-- 第一条 -->\n<div class=\"pct_ic-p\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Rated Voltage</td>\n<td class=\"pct_td\">5V DC CONSTANT</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Starting Voltage</td>\n<td class=\"pct_td\">≤4.0V</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">No Load Speed</td>\n<td class=\"pct_td\">59±15% r/min</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Temperature Range</td>\n<td class=\"pct_td\">-10℃～+65℃</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<!-- table布局 --></div>\n<!-- 第二条 -->\n<div class=\"pct_ic-p\">\n<div class=\"pct_ic\"><!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\" style=\"padding: 0;\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; margin-top: 0; font-weight: bold;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Direction of Rotation</td>\n<td class=\"pct_td\">CCW</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">No Load Current</td>\n<td class=\"pct_td\">≤ 55 mA</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Starting Torque</td>\n<td class=\"pct_td\">≥300g.cm</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; width: 45%; text-align: center;\">Humidity Range</td>\n<td class=\"pct_td\">30%～90%</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-- 模型表格 --><br/>\n<h2 class=\"pct_t\">Application</h2>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 99.9987%;\">\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"width: 40.4664%; text-align: center;\"><strong>Models</strong></td>\n<td class=\"pct_td\" style=\"width: 14.192%; text-align: center;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; text-align: center;\"><strong>Model Links</strong></td>\n<td class=\"pct_td\" style=\"width: 12.7413%; text-align: center;\"><strong>Need Other Accessories</strong></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"width: 40.4664%;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: center;\">Christmas Santa's Snowcat 009</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 14.192%; text-align: center;\"><span>Bambu Lab</span></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; text-align: center;\"><a href=\"https://makerworld.com/en/models/82937#profileId-88566\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Christmas Santa's Snowcat 009</span></strong></a></td>\n<td class=\"pct_td\" style=\"width: 12.7413%; text-align: center;\"><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/82937#profileId-885661\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"><strong>YES</strong></a></span></td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"width: 40.4664%;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: center;\">Kinetic Christmas Carousel 2.0 | Motorized version</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 14.192%; text-align: center;\"><span>Pro3DTinkering</span></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; text-align: center;\"><a href=\"https://makerworld.com/en/models/880159#profileId-834104\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\"> Kinetic Christmas Carousel 2.0 | Motorized version</span></strong></a></td>\n<td class=\"pct_td\" style=\"width: 12.7413%; text-align: center;\"><span style=\"color: #00ae42;\"><a href=\"https://makerworld.com/en/models/880159#profileId-834104\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"><strong>YES</strong></a></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<!-- 如需添加在此处添加 --></div>",
+  "description_text": "TT Motor (DC5V 59RPM CCW Single Axis) 1. Connects to a 5V power source to drive gears, wheels, chains, and other moving parts. 2. Equipped with a USB cable, operating voltage 3-6V, compatible with most common USB power sources such as PC interfaces and charging adapters. 3. The motor terminals are coated with electronic glue to prevent detachment due to pulling.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "la001-tt-motor-dc5v-59rpm-ccw-single-axis",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.49",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.99",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "5.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://uk.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "11.99",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "4.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "LA001"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Christmas Santa's Snowcat 009",
+      "url": "https://makerworld.com/en/models/82937#profileId-88566"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Christmas Santa's Snowcat 009",
+      "url": "https://makerworld.com/en/models/82937#profileId-885661"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Kinetic Christmas Carousel 2.0 | Motorized version",
+      "url": "https://makerworld.com/en/models/880159#profileId-834104"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "41314639577148",
+    "41568341622899",
+    "42106729398408",
+    "44156722643107",
+    "45651265159408",
+    "47967270928732"
+  ],
+  "source_tables": [
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=42106729398408"
+      },
+      "rows": [
+        [
+          "Rated Voltage",
+          "5V DC CONSTANT"
+        ],
+        [
+          "Starting Voltage",
+          "≤4.0V"
+        ],
+        [
+          "No Load Speed",
+          "59±15% r/min"
+        ],
+        [
+          "Temperature Range",
+          "-10℃～+65℃"
+        ]
+      ]
+    },
+    {
+      "caption": "Basic Information",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=42106729398408"
+      },
+      "rows": [
+        [
+          "Direction of Rotation",
+          "CCW"
+        ],
+        [
+          "No Load Current",
+          "≤ 55 mA"
+        ],
+        [
+          "Starting Torque",
+          "≥300g.cm"
+        ],
+        [
+          "Humidity Range",
+          "30%～90%"
+        ]
+      ]
+    },
+    {
+      "caption": "Application",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=42106729398408"
+      },
+      "rows": [
+        [
+          "Models",
+          "Creators",
+          "Model Links",
+          "Need Other Accessories"
+        ],
+        [
+          "Christmas Santa's Snowcat 009",
+          "Bambu Lab",
+          "Christmas Santa's Snowcat 009",
+          "YES"
+        ],
+        [
+          "Kinetic Christmas Carousel 2.0 | Motorized version",
+          "Pro3DTinkering",
+          "Kinetic Christmas Carousel 2.0 | Motorized version",
+          "YES"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "Direction of Rotation": "CCW",
+    "Humidity Range": "30%～90%",
+    "No Load Current": "≤ 55 mA",
+    "No Load Speed": "59±15% r/min",
+    "Rated Voltage": "5V DC CONSTANT",
+    "Starting Torque": "≥300g.cm",
+    "Starting Voltage": "≤4.0V",
+    "Temperature Range": "-10℃～+65℃"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/f20e4acd12ac4679ab96d645b5ac386f/TTMotor_DC5V59RPMCCWSingleAxis_5fb8ef4c-3aaf-4a6d-88fa-ea1f7e5c55ef.png",
+      "part_number": "LA001",
+      "price": "5.49",
+      "region": "us",
+      "sku": "42106729398408",
+      "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
+      "url": "https://us.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=42106729398408",
+      "variant_id": "42106729398408"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/b5e65609be5c43cf9c789374cd892ac9.png",
+      "part_number": "LA001",
+      "price": "6.99",
+      "region": "ca",
+      "sku": "45651265159408",
+      "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
+      "url": "https://ca.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=45651265159408",
+      "variant_id": "45651265159408"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/67be4eefaae24c3992fecda4db1e87b9/TTMotor_DC5V59RPMCCWSingleAxis_7bc5a725-64d7-4e6a-beb3-8b7b550ae9aa.png",
+      "part_number": "LA001",
+      "price": "5.99",
+      "region": "eu",
+      "sku": "47967270928732",
+      "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
+      "url": "https://eu.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=47967270928732",
+      "variant_id": "47967270928732"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/aae1904e5e884281b74d0a742e156e9d.png",
+      "part_number": "LA001",
+      "price": "4.99",
+      "region": "uk",
+      "sku": "41314639577148",
+      "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
+      "url": "https://uk.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=41314639577148",
+      "variant_id": "41314639577148"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/58948897465e4c6f9f589b7b38bf7a46.png",
+      "part_number": "LA001",
+      "price": "11.99",
+      "region": "au",
+      "sku": "44156722643107",
+      "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
+      "url": "https://au.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=44156722643107",
+      "variant_id": "44156722643107"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/494434045213691904.png",
+      "part_number": "LA001",
+      "price": "4.99",
+      "region": "asia",
+      "sku": "41568341622899",
+      "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
+      "url": "https://asia.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=41568341622899",
+      "variant_id": "41568341622899"
+    }
+  ]
+}

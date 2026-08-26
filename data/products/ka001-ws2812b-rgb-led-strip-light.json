@@ -1,0 +1,607 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "ws2812b-rgb-led-strip-light",
+      "product_id": "7720171733128",
+      "region": "us"
+    },
+    {
+      "handle": "ws2812b-rgb-led-strip-light",
+      "product_id": "8442795491568",
+      "region": "ca"
+    },
+    {
+      "handle": "ws2812b-rgb-led-strip-light",
+      "product_id": "8678178718044",
+      "region": "eu"
+    },
+    {
+      "handle": "ws2812b-rgb-led-strip-light",
+      "product_id": "7232173080636",
+      "region": "uk"
+    },
+    {
+      "handle": "ws2812b-rgb-led-strip-light",
+      "product_id": "8170521297059",
+      "region": "au"
+    },
+    {
+      "handle": "ws2812b-rgb-led-strip-light",
+      "product_id": "7503300362355",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/2a/2a888e9586b2053c23738edef675197ea256f852f5a1563b66dcca0b63a25eee.png",
+      "id": "image-74db58d5d0450c559bad",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KA001-2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "2a888e9586b2053c23738edef675197ea256f852f5a1563b66dcca0b63a25eee",
+      "size": 340514,
+      "source_url": "https://store.bblcdn.com/s1/default/d1886fadab0c46448748389587f62bbc/KA001-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/43/435ab546f348b2fabd78a5719043d3295ea05b0f07eaf18159aaf665fde3b19d.jpg",
+      "id": "image-732369430a11ac12f00a",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "painting_light_arch.jpg",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "435ab546f348b2fabd78a5719043d3295ea05b0f07eaf18159aaf665fde3b19d",
+      "size": 1963984,
+      "source_url": "https://store.bblcdn.com/s1/default/dbc55e75caa24ebcb03560dad148ae76/painting_light_arch.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9e/9ea6f491a16ede2f6798c6c740705d8369d0c6ca674e0d0d2b994808b355b23b.png",
+      "id": "image-f276610d3159c58cd111",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KA001-3.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9ea6f491a16ede2f6798c6c740705d8369d0c6ca674e0d0d2b994808b355b23b",
+      "size": 2623581,
+      "source_url": "https://store.bblcdn.com/s1/default/5c3a517177a94cccae734ee103cc77cb/KA001-3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ca/ca1bd40f37eae84466aaf030ca33a812d2c070479a28f5b0f3e988d9f659c660.png",
+      "id": "image-e747ca92f415ec2f35be",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "494433481981579264.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ca1bd40f37eae84466aaf030ca33a812d2c070479a28f5b0f3e988d9f659c660",
+      "size": 1276315,
+      "source_url": "https://store.bblcdn.com/494433481981579264.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/94/94d734dd6439f359b38522a8fec29c401d64d48695f922ed12a1889c4e286bd6.png",
+      "id": "image-display-b28ce79741fb77a8cce2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "2a888e9586b2053c23738edef675197ea256f852f5a1563b66dcca0b63a25eee",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KA001-2.catalog.png",
+      "parent_asset_id": "image-74db58d5d0450c559bad",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "94d734dd6439f359b38522a8fec29c401d64d48695f922ed12a1889c4e286bd6",
+      "size": 287694,
+      "source_url": "https://store.bblcdn.com/s1/default/d1886fadab0c46448748389587f62bbc/KA001-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c8/c8336d9ae8cc4699bddc9f093ff99b633cdf412800a53e5cc340e913eff5affa.png",
+      "id": "image-display-8b73883fefc1e4bdf8ff",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "435ab546f348b2fabd78a5719043d3295ea05b0f07eaf18159aaf665fde3b19d",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "painting_light_arch.catalog.png",
+      "parent_asset_id": "image-732369430a11ac12f00a",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "c8336d9ae8cc4699bddc9f093ff99b633cdf412800a53e5cc340e913eff5affa",
+      "size": 807894,
+      "source_url": "https://store.bblcdn.com/s1/default/dbc55e75caa24ebcb03560dad148ae76/painting_light_arch.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/18/18cfea0f4a68834daeac5bbf9f5737e75e7c08abbd2c64106333d0b0cf3a05be.png",
+      "id": "image-display-854c0ff2caba8971e138",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9ea6f491a16ede2f6798c6c740705d8369d0c6ca674e0d0d2b994808b355b23b",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KA001-3.catalog.png",
+      "parent_asset_id": "image-f276610d3159c58cd111",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "18cfea0f4a68834daeac5bbf9f5737e75e7c08abbd2c64106333d0b0cf3a05be",
+      "size": 736845,
+      "source_url": "https://store.bblcdn.com/s1/default/5c3a517177a94cccae734ee103cc77cb/KA001-3.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ab/ab3c5381e708a1db46367431ef9046c321b83dd6fce7d45b5be271431bf5552c.png",
+      "id": "image-display-565b2169225050e22bc5",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "ca1bd40f37eae84466aaf030ca33a812d2c070479a28f5b0f3e988d9f659c660",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "494433481981579264.catalog.png",
+      "parent_asset_id": "image-e747ca92f415ec2f35be",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "ab3c5381e708a1db46367431ef9046c321b83dd6fce7d45b5be271431bf5552c",
+      "size": 322973,
+      "source_url": "https://store.bblcdn.com/494433481981579264.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[6]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Programmable (1LED/IC)"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Discover new possibilities with full-color programmable led strips. Customize every led to create stunning colors and adjust brightness to suit your mood. The USB controller comes with preset modes, but to access additional modes, a separate micro-controller board and software support are required, which are not included."
+    },
+    {
+      "kind": "heading",
+      "text": "Ideal for DIY"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Experience the magic of effortless lighting with the included controller, choose from a wide range of patterns to make your led strip shine brightly and beautifully. No programming skills are needed if you are new."
+    },
+    {
+      "kind": "heading",
+      "text": "Remote Control Instruction"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Click here to purchase a replacement for the remote control if you need one."
+    },
+    {
+      "kind": "heading",
+      "text": "Considerations"
+    },
+    {
+      "kind": "bullet",
+      "text": "Before making any modifications to the device, ensure that the LED strip is unplugged. Electrical currents can be dangerous and may result in electrical shock or injury in certain cases."
+    },
+    {
+      "kind": "bullet",
+      "text": "The app has different versions that aren't compatible with each other. If there is no response when controlling the LED strip, please make sure you're using the correct app version."
+    },
+    {
+      "kind": "bullet",
+      "text": "This product is not a toy. Please keep it out of reach of children."
+    },
+    {
+      "kind": "bullet",
+      "text": "The bulbs are sealed and cannot be replaced."
+    },
+    {
+      "kind": "bullet",
+      "text": "Avoid immersing the lights in the fire."
+    },
+    {
+      "kind": "bullet",
+      "text": "Do not illuminate the lights while they are still inside the packaging."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\"><!-- 第一条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Programmable (1LED/IC)</h3>\n<p class=\"pct_p\">Discover new possibilities with full-color programmable led strips. Customize every led to create stunning colors and adjust brightness to suit your mood. <br/>The USB controller comes with preset modes, but to access additional modes, a separate micro-controller board and software support are required, which are not included.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\">\n<p style=\"margin-top: 30px;\"><video autoplay=\"autoplay\" class=\"product-desc-lazy-media product-desc-lazy-media--video bg-bbl-white animate-pulse aspect-video max-h-[400px]\" controls=\"controls\" data-lazy=\"false\" data-mce-src=\"https://store.bblcdn.com/f512828451f14afc8dd75b2a3a7cec43.mp4\" data-mce-style=\"width: 100%;\" data-src=\"https://store.bblcdn.com/f512828451f14afc8dd75b2a3a7cec43.mp4\" height=\"150\" loop=\"loop\" muted=\"\" playsinline=\"\" poster=\"https://store.bblcdn.com/3c596c403dfd440990a80156fcc5282c.png\" style=\"width: 100%;\" width=\"300\"></video></p>\n</div>\n</div>\n<!-- 第二条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\"></h3>\n<h3 class=\"pct_st\">Ideal for DIY</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"BBRnd3ZnMoheF1xBZCMcou9xnR4\">\n<div class=\"ace-line ace-line old-record-id-MwYVdBZPjoDc7mxOh7ucPqgwn6a\">Experience the magic of effortless lighting with the included controller, choose from a wide range of patterns to make your led strip shine brightly and beautifully. No programming skills are needed if you are new.</div>\n<div class=\"ace-line ace-line old-record-id-MwYVdBZPjoDc7mxOh7ucPqgwn6a\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n<div class=\"ace-line ace-line old-record-id-Vx83du4dvo5ChZxT1OBc8e5onog\"></div>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/4cadbffa48c94e389da315faaef67829.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/4cadbffa48c94e389da315faaef67829.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<table class=\"pct_tb\" style=\"width: 99.9987%; height: 58px;\"><!-- 表头 -->\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19.5938px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 19px;\"><strong>Models</strong></td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 19px;\"><strong>Creators</strong></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 19px;\"><b>Model Links</b></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 39px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">Lovers Valentine Day Shadowbox</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 39px;\"><span>technerd</span></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 39px;\"><a href=\"https://makerworld.com/en/models/156728#profileId-171742\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Lovers Valentine Da Shadowbox</span></strong></a></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 39.1875px;\">\n<td class=\"pct_td\" style=\"width: 41.9171%; height: 39px;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\" style=\"text-align: left;\">\n<div>\n<div data-line=\"true\" data-line-index=\"0\" data-zone-id=\"0\">Painting Light Arch</div>\n</div>\n</div>\n</div>\n</td>\n<td class=\"pct_td\" style=\"width: 12.7413%; height: 39px;\"><span>davedamon</span></td>\n<td class=\"pct_td\" style=\"width: 44.8716%; height: 39px;\"><a href=\"https://makerworld.com/zh/models/1613539-painting-light-arch-v2?from=search#profileId-1702343\" rel=\"noopener\" target=\"_blank\"><strong><span style=\"color: #00ae42;\">Painting Light Arch</span></strong></a></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_table-row\">\n<div class=\"pct_tbc\">\n<p></p>\n<p></p>\n<p></p>\n<table class=\"pct_tb\" style=\"height: 100%;\">\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\" colspan=\"2\">Product Specification</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">LED Type</td>\n<td class=\"pct_td\">WS2812B RGB LED Strip Light</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">IC type</td>\n<td class=\"pct_td\">WS2812B IC</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">\n<div data-lark-html-role=\"root\"><span data-eleid=\"3\">LED chip dimensions</span></div>\n</td>\n<td class=\"pct_td\">\n<div data-lark-html-role=\"root\"><span data-eleid=\"3\">5050 LED chip size</span></div>\n</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Led Quantity</td>\n<td class=\"pct_td\">300 LEDs (60LEDs/M)</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n</div>\n<div class=\"pct_tbc\">\n<p></p>\n<p></p>\n<p></p>\n<table class=\"pct_tb\" style=\"height: 100%;\">\n<thead class=\"pct_th\">\n<tr>\n<td class=\"pct_td\">Product Specification</td>\n<td class=\"pct_td\"></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Input Voltage</td>\n<td class=\"pct_td\">DC5V</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Operating Temperature</td>\n<td class=\"pct_td\">-4℉~104℉（-20℃~+40℃ ）</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Length</td>\n<td class=\"pct_td\">16.4FT</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\">Waterproof</td>\n<td class=\"pct_td\">IP 20</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\"></h3>\n<h3 class=\"pct_t\"></h3>\n<h3 class=\"pct_t\"></h3>\n<h3 class=\"pct_t\">Parameter</h3>\n<p class=\"pct_p\">Each pixel can be easily cut or soldered independently without damaging the rest pixels. Also, the LED strip is constructed with a 50cm (1.6FT) Flexible Printed Circuit Board (FPCB), featuring a solder point at every 50cm interval. This design ensures convenient connectivity and easy customization along the strip.</p>\n</div>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"USB Control\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/fb352dec1ef841b0a804c1433868f4c6.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"USB Control\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/fb352dec1ef841b0a804c1433868f4c6.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">USB Control Instruction</h3>\n</div>\n<br/>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"USB Control\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/79d664388d0041ff87252a8659964a41.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"USB Control\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/79d664388d0041ff87252a8659964a41.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">Remote Control Instruction</h3>\n</div>\n<br/>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"Each button has multiple modes\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/62b7049bbf7543a0b0a35444fff85e7d.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"Each button has multiple modes\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/62b7049bbf7543a0b0a35444fff85e7d.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n<p class=\"pct_p\" style=\"text-align: center;\"><span style=\"font-size: 18px;\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\"></span></strong></span></span></p>\n<p class=\"pct_p\" style=\"text-align: center;\"><span style=\"font-size: 18px;\"><a href=\"../../../products/led-light-strip-remote-controller\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">Click here to purchase a replacement for the remote control if you need one.</span></strong></span></a></span></p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h3 class=\"pct_t\">APP Control Instruction</h3>\n</div>\n<br/>\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"Scan the QR code on the USB controller to download the APP control\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/b96bbbdfd53940ed872bba80b5426df0.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"Scan the QR code on the USB controller to download the APP control\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/59f40e8821264e8fbf38ee533d8d2d12/KA001.png\" height=\"1360\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"3260\"/></div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div>\n<h3 class=\"pct_st\" style=\"text-align: center;\"></h3>\n<h3 class=\"pct_st\" style=\"text-align: center;\">Considerations</h3>\n<p class=\"pct_p\"> </p>\n<ul>\n<li>Before making any modifications to the device, ensure that the LED strip is unplugged. Electrical currents can be dangerous and may result in electrical shock or injury in certain cases.</li>\n<li>The app has different versions that aren't compatible with each other. If there is no response when controlling the LED strip, please make sure you're using the correct app version.</li>\n<li>This product is not a toy. Please keep it out of reach of children.</li>\n<li>The bulbs are sealed and cannot be replaced.</li>\n<li>Avoid immersing the lights in the fire.</li>\n<li>Do not illuminate the lights while they are still inside the packaging.</li>\n</ul>\n<p> </p>\n</div>\n</div>",
+  "description_text": "Discover new possibilities with full-color programmable led strips. Customize every led to create stunning colors and adjust brightness to suit your mood. The USB controller comes with preset modes, but to access additional modes, a separate micro-controller board and software support are required, which are not included.\n\nExperience the magic of effortless lighting with the included controller, choose from a wide range of patterns to make your led strip shine brightly and beautifully. No programming skills are needed if you are new.\n\nClick here to purchase a replacement for the remote control if you need one.\n\nBefore making any modifications to the device, ensure that the LED strip is unplugged. Electrical currents can be dangerous and may result in electrical shock or injury in certain cases.\n\nThe app has different versions that aren't compatible with each other. If there is no response when controlling the LED strip, please make sure you're using the correct app version.\n\nThis product is not a toy. Please keep it out of reach of children.\n\nThe bulbs are sealed and cannot be replaced.\n\nAvoid immersing the lights in the fire.\n\nDo not illuminate the lights while they are still inside the packaging.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "ka001-ws2812b-rgb-led-strip-light",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [
+    {
+      "label": "LED chip dimensions",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:LED chip dimensions",
+        "source_url": "https://us.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=41607768342664"
+      },
+      "raw_value": "5050 LED chip size"
+    },
+    {
+      "label": "Length",
+      "provenance": {
+        "kind": "page_table",
+        "reference": "specification:Length",
+        "source_url": "https://us.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=41607768342664"
+      },
+      "raw_value": "16.4FT"
+    }
+  ],
+  "name": "WS2812B RGB LED Strip Light",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "25.99",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "29.11",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://ca.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "24.99",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "20.4",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "45.69",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "22.99",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://asia.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "KA001",
+    "ZH175"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Lovers Valentine Da Shadowbox",
+      "url": "https://makerworld.com/en/models/156728#profileId-171742"
+    },
+    {
+      "kind": "makerworld",
+      "title": "Painting Light Arch",
+      "url": "https://makerworld.com/zh/models/1613539-painting-light-arch-v2?from=search#profileId-1702343"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "40906892083260",
+    "41607768342664",
+    "43833642746019",
+    "47462325682524",
+    "543323332731396099",
+    "761849741221912578",
+    "761850909822119937",
+    "761850909822119941",
+    "761850985650937858",
+    "761851034418114562",
+    "761851092458893314",
+    "761851140777275394"
+  ],
+  "source_tables": [
+    {
+      "caption": "Ideal for DIY",
+      "headers": [],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=41607768342664"
+      },
+      "rows": [
+        [
+          "Models",
+          "Creators",
+          "Model Links"
+        ],
+        [
+          "Lovers Valentine Day Shadowbox",
+          "technerd",
+          "Lovers Valentine Da Shadowbox"
+        ],
+        [
+          "Painting Light Arch",
+          "davedamon",
+          "Painting Light Arch"
+        ]
+      ]
+    },
+    {
+      "caption": "Ideal for DIY",
+      "headers": [
+        "Product Specification"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=41607768342664"
+      },
+      "rows": [
+        [
+          "LED Type",
+          "WS2812B RGB LED Strip Light"
+        ],
+        [
+          "IC type",
+          "WS2812B IC"
+        ],
+        [
+          "LED chip dimensions",
+          "5050 LED chip size"
+        ],
+        [
+          "Led Quantity",
+          "300 LEDs (60LEDs/M)"
+        ]
+      ]
+    },
+    {
+      "caption": "Ideal for DIY",
+      "headers": [
+        "Product Specification",
+        ""
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:2",
+        "source_url": "https://us.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=41607768342664"
+      },
+      "rows": [
+        [
+          "Input Voltage",
+          "DC5V"
+        ],
+        [
+          "Operating Temperature",
+          "-4℉~104℉（-20℃~+40℃ ）"
+        ],
+        [
+          "Length",
+          "16.4FT"
+        ],
+        [
+          "Waterproof",
+          "IP 20"
+        ]
+      ]
+    }
+  ],
+  "specifications": {
+    "IC type": "WS2812B IC",
+    "Input Voltage": "DC5V",
+    "LED Type": "WS2812B RGB LED Strip Light",
+    "LED chip dimensions": "5050 LED chip size",
+    "Led Quantity": "300 LEDs (60LEDs/M)",
+    "Length": "16.4FT",
+    "Operating Temperature": "-4℉~104℉（-20℃~+40℃ ）",
+    "Waterproof": "IP 20"
+  },
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/06ddcf44c13643a79b0f5924f36b33b2/KA001-2_a79f2f71-4e7f-4fc8-8ce1-fff0257725b2.png",
+      "part_number": "KA001",
+      "price": "25.99",
+      "region": "us",
+      "sku": "41607768342664",
+      "title": "WS2812B RGB LED Strip Light - WS2812B RGB LED Strip Light (1pcs) - KA001 / RGB(97809)",
+      "url": "https://us.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=41607768342664",
+      "variant_id": "41607768342664"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/686241b942744905b0198fdb95b5e7b8/painting_light_arch.jpg",
+      "part_number": "ZH175",
+      "price": "25.99",
+      "region": "us",
+      "sku": "761851140777275394",
+      "title": "WS2812B RGB LED Strip Light - Painting Light Arch - ZH175 / RGB(97809)",
+      "url": "https://us.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=761851140777275394",
+      "variant_id": "761851140777275394"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/26f7f5f713e6488c8d5ef797e590dd61/KA001-2.png",
+      "part_number": "KA001",
+      "price": "29.11",
+      "region": "ca",
+      "sku": "543323332731396099",
+      "title": "WS2812B RGB LED Strip Light - WS2812B RGB LED Strip Light (1pcs) - KA001 / RGB(00120)",
+      "url": "https://ca.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=543323332731396099",
+      "variant_id": "543323332731396099"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/5097d15eea1b4091a2b601d1a00a4d36/painting_light_arch.jpg",
+      "part_number": "ZH175",
+      "price": "29.11",
+      "region": "ca",
+      "sku": "761851034418114562",
+      "title": "WS2812B RGB LED Strip Light - Painting Light Arch - ZH175 / RGB(00120)",
+      "url": "https://ca.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=761851034418114562",
+      "variant_id": "761851034418114562"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/80bb5c161ad244369def49d19457d9a7/4ee0482982cfa89bb4d1cff3333a55e6_82137a13-a61d-4929-8297-c5c897c0a948.png",
+      "part_number": "KA001",
+      "price": "24.99",
+      "region": "eu",
+      "sku": "47462325682524",
+      "title": "WS2812B RGB LED Strip Light - WS2812B RGB LED Strip Light (1pcs) - KA001 / RGB(0012)",
+      "url": "https://eu.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=47462325682524",
+      "variant_id": "47462325682524"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/d3d7b0a8b2e449468fc15ec17bf030a0/painting_light_arch.jpg",
+      "part_number": "ZH175",
+      "price": "24.99",
+      "region": "eu",
+      "sku": "761849741221912578",
+      "title": "WS2812B RGB LED Strip Light - Painting Light Arch - ZH175 / RGB(0012)",
+      "url": "https://eu.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=761849741221912578",
+      "variant_id": "761849741221912578"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/471186eaaccd477ab6856dafd502b0f9/KA001-2.png",
+      "part_number": "KA001",
+      "price": "20.4",
+      "region": "uk",
+      "sku": "40906892083260",
+      "title": "WS2812B RGB LED Strip Light - WS2812B RGB LED Strip Light (1pcs) - KA001 / RGB(97809)",
+      "url": "https://uk.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=40906892083260",
+      "variant_id": "40906892083260"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/05074f34f8cc40ac96f2c607db16aaa6/painting_light_arch.jpg",
+      "part_number": "ZH175",
+      "price": "20.4",
+      "region": "uk",
+      "sku": "761851092458893314",
+      "title": "WS2812B RGB LED Strip Light - Painting Light Arch - ZH175 / RGB(97809)",
+      "url": "https://uk.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=761851092458893314",
+      "variant_id": "761851092458893314"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/21221f823fff4790a8cfbbc06056b6e9/KA001-2.png",
+      "part_number": "KA001",
+      "price": "45.69",
+      "region": "au",
+      "sku": "43833642746019",
+      "title": "WS2812B RGB LED Strip Light - WS2812B RGB LED Strip Light (1pcs) - KA001 / RGB(97809)",
+      "url": "https://au.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=43833642746019",
+      "variant_id": "43833642746019"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/790338450163488ea0fd4222fa6bb3c1/painting_light_arch.jpg",
+      "part_number": "ZH175",
+      "price": "45.69",
+      "region": "au",
+      "sku": "761850985650937858",
+      "title": "WS2812B RGB LED Strip Light - Painting Light Arch - ZH175 / RGB(97809)",
+      "url": "https://au.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=761850985650937858",
+      "variant_id": "761850985650937858"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/d1886fadab0c46448748389587f62bbc/KA001-2.png",
+      "part_number": "KA001",
+      "price": "22.99",
+      "region": "asia",
+      "sku": "761850909822119937",
+      "title": "WS2812B RGB LED Strip Light - WS2812B RGB LED Strip Light (1pcs) - KA001",
+      "url": "https://asia.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=761850909822119937",
+      "variant_id": "761850909822119937"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/dbc55e75caa24ebcb03560dad148ae76/painting_light_arch.jpg",
+      "part_number": "ZH175",
+      "price": "22.99",
+      "region": "asia",
+      "sku": "761850909822119941",
+      "title": "WS2812B RGB LED Strip Light - Painting Light Arch - ZH175",
+      "url": "https://asia.store.bambulab.com/products/ws2812b-rgb-led-strip-light?id=761850909822119941",
+      "variant_id": "761850909822119941"
+    }
+  ]
+}

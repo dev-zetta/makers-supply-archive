@@ -1,0 +1,379 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "ecto-1-model-car",
+      "product_id": "655300764301365248",
+      "region": "us"
+    },
+    {
+      "handle": "ecto-1-model-car",
+      "product_id": "655299499180068864",
+      "region": "ca"
+    },
+    {
+      "handle": "ecto-1-model-car",
+      "product_id": "655301508038234112",
+      "region": "eu"
+    },
+    {
+      "handle": "ecto-1-model-car",
+      "product_id": "655300047091777536",
+      "region": "uk"
+    },
+    {
+      "handle": "ecto-1-model-car",
+      "product_id": "655298504629882880",
+      "region": "au"
+    },
+    {
+      "handle": "ecto-1-model-car",
+      "product_id": "655291548343066624",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/b4/b4a181c5804a76ec27f0d8184cde9344daf290063ce242232342a5b228acee35.png",
+      "id": "image-26318c946561b041defb",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH113-1.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "b4a181c5804a76ec27f0d8184cde9344daf290063ce242232342a5b228acee35",
+      "size": 2140229,
+      "source_url": "https://store.bblcdn.com/s5/default/285aafc5c3b84fdc86d1994aeff432f3/B-ZH113-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/fb/fbb8064f98914e6be3d5a8100d57c5acf0e9e6fd6a971677d47ea9315aebcfc5.png",
+      "id": "image-68b137961feba56447fe",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH113-2.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "fbb8064f98914e6be3d5a8100d57c5acf0e9e6fd6a971677d47ea9315aebcfc5",
+      "size": 163430,
+      "source_url": "https://store.bblcdn.com/s5/default/80408474fef64601a8dd511f8273c938/ZH113-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/9a/9a22399fac5176eff2cb9d2d32393b7295397f6d6afa41530b0e8449e8690d72.png",
+      "id": "image-display-2cebaf0efb4a9b54dd64",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "b4a181c5804a76ec27f0d8184cde9344daf290063ce242232342a5b228acee35",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH113-1.catalog.png",
+      "parent_asset_id": "image-26318c946561b041defb",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "9a22399fac5176eff2cb9d2d32393b7295397f6d6afa41530b0e8449e8690d72",
+      "size": 677838,
+      "source_url": "https://store.bblcdn.com/s5/default/285aafc5c3b84fdc86d1994aeff432f3/B-ZH113-1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/1a/1a3f8d9d3233ad77e8004deddae9c92d89971cfac686f02a5bffaf3fb055a7e6.png",
+      "id": "image-display-83ff230ca674cbb0e207",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "fbb8064f98914e6be3d5a8100d57c5acf0e9e6fd6a971677d47ea9315aebcfc5",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH113-2.catalog.png",
+      "parent_asset_id": "image-68b137961feba56447fe",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "1a3f8d9d3233ad77e8004deddae9c92d89971cfac686f02a5bffaf3fb055a7e6",
+      "size": 49541,
+      "source_url": "https://store.bblcdn.com/s5/default/80408474fef64601a8dd511f8273c938/ZH113-2.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "aa195-bt2-5-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2.5x30 SHCS Self Tapping Screw - AA106",
+      "quantity": "10 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa195-bt2-5-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2.5x20 SHCS Self Tapping Screw - AA104",
+      "quantity": "10 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa195-bt2-5-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2.5x16 SHCS Self Tapping Screw - AA103",
+      "quantity": "20 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa195-bt2-5-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2.5x10 SHCS Self Tapping Screw - AA196",
+      "quantity": "40 pcs",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ca001-round-magnet",
+      "name": "D10x2mm Round Magnet - CA016",
+      "quantity": "20 pcs",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Ecto 1 Model Car. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Ecto 1 Model Car on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Ecto 1 Model Car</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Ecto 1 Model Car</strong> on <a href=\"https://makerworld.com/en/models/1243172-cadillac-miller-meteor-ecto-1-edition#profileId-1264081\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n<table class=\"pct_tb\" style=\"height: 95px;\">\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"height: 19px;\"><strong>Item</strong></td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">BT2.5x30 SHCS Self Tapping Screw - AA106</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">10 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">BT2.5x20 SHCS Self Tapping Screw - AA104</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">10 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">BT2.5x16 SHCS Self Tapping Screw - AA103</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">20 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">BT2.5x10 SHCS Self Tapping Screw - AA196</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">40 pcs</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\"><!--行模块 增加行数复制整个<tr></tr>部分即可-->\n<td class=\"pct_td\" style=\"height: 19px;\">D10x2mm Round Magnet - CA016</td>\n<td class=\"pct_td\" style=\"height: 19px; width: 20%;\">20 pcs</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Ecto 1 Model Car. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Ecto 1 Model Car on MakerWorld.",
+  "first_seen": "2026-08-23T00:23:31Z",
+  "id": "zh113-ecto-1-model-car",
+  "last_seen": "2026-08-23T16:35:17Z",
+  "measurements": [],
+  "name": "Ecto 1 Model Car",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.5",
+      "region": "us",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://us.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "9.83",
+      "region": "ca",
+      "retrieved_at": "2026-08-23T00:23:31Z",
+      "url": "https://ca.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.53",
+      "region": "eu",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://eu.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.82",
+      "region": "uk",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://uk.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "15.41",
+      "region": "au",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://au.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.74",
+      "region": "asia",
+      "retrieved_at": "2026-08-23T16:35:17Z",
+      "url": "https://asia.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA103",
+    "AA104",
+    "AA106",
+    "AA196",
+    "B-ZH113",
+    "CA016",
+    "ZH113"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Cadillac Miller Meteor Ecto 1 Edition",
+      "url": "https://makerworld.com/en/models/1243172-cadillac-miller-meteor-ecto-1-edition#profileId-1264081"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "655291548410175489",
+    "655298504680214530",
+    "655299499222011906",
+    "655300047163080705",
+    "655300764343308290",
+    "655301508055011330"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/ecto-1-model-car?id=655300764343308290"
+      },
+      "rows": [
+        [
+          "BT2.5x30 SHCS Self Tapping Screw - AA106",
+          "10 pcs"
+        ],
+        [
+          "BT2.5x20 SHCS Self Tapping Screw - AA104",
+          "10 pcs"
+        ],
+        [
+          "BT2.5x16 SHCS Self Tapping Screw - AA103",
+          "20 pcs"
+        ],
+        [
+          "BT2.5x10 SHCS Self Tapping Screw - AA196",
+          "40 pcs"
+        ],
+        [
+          "D10x2mm Round Magnet - CA016",
+          "20 pcs"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/18f2f88ff5034c7bad17ee2f276d44e9/B-ZH113-1.png",
+      "part_number": "ZH113",
+      "price": "8.5",
+      "region": "us",
+      "sku": "655300764343308290",
+      "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
+      "url": "https://us.store.bambulab.com/products/ecto-1-model-car?id=655300764343308290",
+      "variant_id": "655300764343308290"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/285aafc5c3b84fdc86d1994aeff432f3/B-ZH113-1.png",
+      "part_number": "ZH113",
+      "price": "9.83",
+      "region": "ca",
+      "sku": "655299499222011906",
+      "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
+      "url": "https://ca.store.bambulab.com/products/ecto-1-model-car?id=655299499222011906",
+      "variant_id": "655299499222011906"
+    },
+    {
+      "available": false,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/6292693710a74e13bb4ca444ce8569bc/B-ZH113-1.png",
+      "part_number": "ZH113",
+      "price": "8.53",
+      "region": "eu",
+      "sku": "655301508055011330",
+      "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
+      "url": "https://eu.store.bambulab.com/products/ecto-1-model-car?id=655301508055011330",
+      "variant_id": "655301508055011330"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/6949c9d3fc7c4742aa4b39a81d60469b/B-ZH113-1.png",
+      "part_number": "ZH113",
+      "price": "6.82",
+      "region": "uk",
+      "sku": "655300047163080705",
+      "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
+      "url": "https://uk.store.bambulab.com/products/ecto-1-model-car?id=655300047163080705",
+      "variant_id": "655300047163080705"
+    },
+    {
+      "available": false,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/77a57cf9dd6b4b4197a9f5f730bb2763/B-ZH113-1.png",
+      "part_number": "ZH113",
+      "price": "15.41",
+      "region": "au",
+      "sku": "655298504680214530",
+      "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
+      "url": "https://au.store.bambulab.com/products/ecto-1-model-car?id=655298504680214530",
+      "variant_id": "655298504680214530"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/d08fa619e5e34e3eb0828ccbec5f1e6d/B-ZH113-1.png",
+      "part_number": "ZH113",
+      "price": "7.74",
+      "region": "asia",
+      "sku": "655291548410175489",
+      "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
+      "url": "https://asia.store.bambulab.com/products/ecto-1-model-car?id=655291548410175489",
+      "variant_id": "655291548410175489"
+    }
+  ]
+}
