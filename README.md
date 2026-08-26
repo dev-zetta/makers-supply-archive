@@ -134,11 +134,13 @@ sidecar. It uses an automatic local user, so there is no account setup, password
 sign-in screen; private parts lists stay in the current OS user's application-state
 directory.
 
-The bundle's `assets/` directory contains ordinary files grouped by product ID. Source
-downloads keep their original filenames, while extracted models keep their original
-archive paths. The bundled SQLite database points to those named files rather than to
-the archive's content-addressed blob tree. Keep `catalog.sqlite` and `assets/` in the
-generated application directory. Use `--no-archive` to leave only the unpacked app.
+The bundle's `assets/` directory contains ordinary files grouped by product ID, then
+into shallow `Images`, `Models`, `Archives`, `Documents`, and `Other` folders. Every
+file keeps its original filename. If names collide, a short folder named after the
+related source file separates them. The bundled SQLite database points to these named
+files rather than to the archive's content-addressed blob tree. Keep `catalog.sqlite`
+and `assets/` in the generated application directory. Use `--no-archive` to leave only
+the unpacked app.
 
 Prices are grouped by their storefront currency; the application performs no foreign
 exchange conversion and excludes taxes and shipping. It also refuses to total legacy

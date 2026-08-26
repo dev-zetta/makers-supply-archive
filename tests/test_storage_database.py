@@ -97,10 +97,84 @@ def test_portable_catalog_uses_named_asset_files(tmp_path: Path) -> None:
 
     portable = build_portable_catalog(catalog, tmp_path / "portable")
 
-    named_asset = portable.assets / "ia005-power-board/source/model-file/Power board.step"
+    named_asset = portable.assets / "ia005-power-board/Models/Power board.step"
     assert portable.file_count == 1
     assert named_asset.read_bytes() == b"ISO-10303-21;"
     with sqlite3.connect(portable.database) as connection:
         assert connection.execute("SELECT blob_path FROM assets").fetchone() == (
-            "assets/ia005-power-board/source/model-file/Power board.step",
+            "assets/ia005-power-board/Models/Power board.step",
         )
+
+
+def test_portable_catalog_uses_readable_folders_for_filename_collisions(tmp_path: Path) -> None:
+    catalog = Catalog(tmp_path / "source")
+    primary_blob = catalog.blob_path("b" * 64, ".step")
+    alternate_blob = catalog.blob_path("c" * 64, ".step")
+    primary_blob.parent.mkdir(parents=True)
+    alternate_blob.parent.mkdir(parents=True)
+    primary_blob.write_bytes(b"primary")
+    alternate_blob.write_bytes(b"alternate")
+    product = sample_product().model_copy(
+        update={
+            "assets": [
+                Asset(
+                    id="primary-archive",
+                    kind=AssetKind.ARCHIVE,
+                    source_url="https://example.com/primary.zip",
+                    original_filename="Primary models.zip",
+                    media_type="application/zip",
+                ),
+                Asset(
+                    id="alternate-archive",
+                    kind=AssetKind.ARCHIVE,
+                    source_url="https://example.com/alternate.zip",
+                    original_filename="Alternate models.zip",
+                    media_type="application/zip",
+                ),
+                Asset(
+                    id="primary-model",
+                    kind=AssetKind.MODEL,
+                    source_url="https://example.com/primary.zip",
+                    original_filename="part.step",
+                    media_type="model/step",
+                    sha256="b" * 64,
+                    size=7,
+                    blob_path=primary_blob.relative_to(catalog.root).as_posix(),
+                    parent_asset_id="primary-archive",
+                    archive_member_path="models/part.step",
+                ),
+                Asset(
+                    id="alternate-model",
+                    kind=AssetKind.MODEL,
+                    source_url="https://example.com/alternate.zip",
+                    original_filename="part.step",
+                    media_type="model/step",
+                    sha256="c" * 64,
+                    size=9,
+                    blob_path=alternate_blob.relative_to(catalog.root).as_posix(),
+                    parent_asset_id="alternate-archive",
+                    archive_member_path="other/deep/path/part.step",
+                ),
+            ]
+        }
+    )
+    catalog.write_product(product)
+
+    portable = build_portable_catalog(catalog, tmp_path / "portable")
+
+    assert (
+        portable.assets / "ia005-power-board/Models/Primary models/part.step"
+    ).read_bytes() == b"primary"
+    assert (
+        portable.assets / "ia005-power-board/Models/Alternate models/part.step"
+    ).read_bytes() == b"alternate"
+    with sqlite3.connect(portable.database) as connection:
+        assert connection.execute(
+            "SELECT id, blob_path FROM assets WHERE blob_path IS NOT NULL ORDER BY id"
+        ).fetchall() == [
+            (
+                "alternate-model",
+                "assets/ia005-power-board/Models/Alternate models/part.step",
+            ),
+            ("primary-model", "assets/ia005-power-board/Models/Primary models/part.step"),
+        ]

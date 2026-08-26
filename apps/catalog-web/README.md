@@ -87,11 +87,12 @@ the catalog in its own window and manages a private service bound only to `127.0
 Parts lists belong automatically to the local user and are saved in the OS-specific
 user state directory.
 
-Portable assets are normal files under `assets/<product-id>/`, with source filenames
-and extracted archive paths preserved. This layout is deliberately separate from the
-content-addressed `data/blobs/` source archive. Run the build on each target platform;
-the Electron shell and PyInstaller sidecar are native builds rather than cross-compiled
-executables.
+Portable assets are normal files under `assets/<product-id>/`, organized into shallow
+`Images`, `Models`, `Archives`, `Documents`, and `Other` folders. Original filenames
+are preserved; readable source-name subfolders are added only when filenames collide.
+This layout is deliberately separate from the content-addressed `data/blobs/` source
+archive. Run the build on each target platform; the Electron shell and PyInstaller
+sidecar are native builds rather than cross-compiled executables.
 
 Unchecked login creates a browser-session cookie with a 14-day server-side ceiling.
 Selecting **Remember me** creates a persistent cookie and matching server-side session

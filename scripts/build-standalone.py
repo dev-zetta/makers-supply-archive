@@ -181,8 +181,9 @@ def main() -> None:
             "connection is required.\n"
             "\n"
             "Keep catalog.sqlite and the assets folder in this directory. Assets are ordinary "
-            "files grouped by product ID and retain their original filenames. Closing the app "
-            "window also stops its private local service.\n",
+            "files grouped by product ID, then into shallow Images, Models, Archives, "
+            "Documents, and Other folders. They retain their original filenames. Closing the "
+            "app window also stops its private local service.\n",
         )
 
     archive: Path | None = None
