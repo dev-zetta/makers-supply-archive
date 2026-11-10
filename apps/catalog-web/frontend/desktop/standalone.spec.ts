@@ -44,7 +44,8 @@ test("delivered offline app preserves lists, previews models, exports, and stops
     child.stdout?.on("data", (chunk) => process.stdout.write(chunk));
     child.stderr?.on("data", (chunk) => process.stderr.write(chunk));
     console.log("Electron launched; waiting for catalog window");
-    const page = await app.firstWindow();
+    // The installed catalog is fully hashed before the window opens.
+    const page = await app.firstWindow({ timeout: 120_000 });
     await page.context().route("**/*", (route) => {
       const url = new URL(route.request().url());
       if (url.hostname === "127.0.0.1" || ["data:", "blob:"].includes(url.protocol)) {

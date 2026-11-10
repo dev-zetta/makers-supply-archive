@@ -18,7 +18,7 @@ The directory must contain the app executable (or macOS `.app`), `catalog.sqlite
 `catalog-manifest.json`, and `assets/`. Launch the application normally. No Python,
 Node.js, Docker, account, or network connection is required. Missing or mismatched data
 produces an actionable installation error. Startup checks the app/data build identity
-and hashes every payload file; allow up to a minute on slower storage. Do not mix
+and hashes every payload file; allow up to two minutes on slower storage. Do not mix
 app/data from different releases.
 
 These builds have no trusted publisher signature or notarization. Expect the OS's

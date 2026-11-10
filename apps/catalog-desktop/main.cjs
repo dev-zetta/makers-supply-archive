@@ -44,7 +44,7 @@ function reservePort() {
 }
 
 async function waitForBackend(url) {
-  for (let attempt = 0; attempt < 600; attempt += 1) {
+  for (let attempt = 0; attempt < 1200; attempt += 1) {
     if (backend?.exitCode !== null) {
       throw new Error(`Catalog service exited with code ${backend.exitCode}.\n${backendError}`)
     }

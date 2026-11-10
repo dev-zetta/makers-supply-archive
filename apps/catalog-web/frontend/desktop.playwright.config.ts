@@ -5,7 +5,7 @@ export default defineConfig({
   outputDir: "test-results/desktop",
   workers: 1,
   retries: 0,
-  timeout: 180_000,
+  timeout: 360_000,
   expect: { timeout: 30_000 },
   reporter: "list",
 });
