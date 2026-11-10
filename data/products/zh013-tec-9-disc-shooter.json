@@ -34,44 +34,66 @@
   ],
   "assets": [
     {
+      "blob_path": "data/blobs/sha256/73/7324a547b4436e7bf496a687c507e7ecdbcfdd75ead81e359df9414cd158647a.png",
+      "id": "image-3a14f93f4f79e5fcbf09",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "TEC-9_Disc_Shooter2.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "7324a547b4436e7bf496a687c507e7ecdbcfdd75ead81e359df9414cd158647a",
+      "size": 53479,
+      "source_url": "https://store.bblcdn.com/s7/default/4d618edebce645e5a09a28d359ef5245/TEC-9_Disc_Shooter2.png"
+    },
+    {
       "blob_path": "data/blobs/sha256/1e/1e2b71443458c43f889a9c3faff1be519ad7fbd33b64dad614895ec51c8b8b81.png",
-      "id": "image-ef2863d0be78b2f31f93",
+      "id": "image-08990153a7959a4881ba",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH013-QYM3D.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "1e2b71443458c43f889a9c3faff1be519ad7fbd33b64dad614895ec51c8b8b81",
       "size": 1530062,
-      "source_url": "https://store.bblcdn.com/s1/default/d2bde15b89074cdca857418fc062470b/ZH013-QYM3D.png"
+      "source_url": "https://store.bblcdn.com/s7/default/454da0173494488b97abfd8b1e51b509/ZH013-QYM3D.png"
     },
     {
-      "blob_path": "data/blobs/sha256/45/45f3dc18bb8ab80dd4e50269ad79b3e713f41f156e0bce284c5c5d8155102b03.png",
-      "id": "image-722d66e3becce7485757",
+      "blob_path": "data/blobs/sha256/f4/f413868fbf7fb6cdc81cb621d09190c15cf173786a6370dd194219404c324c96.png",
+      "id": "image-915732f29cafbaf83697",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "008ce8581660477fbfa18ecbe99b5c10.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "TEC-9DiscShooter1.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "45f3dc18bb8ab80dd4e50269ad79b3e713f41f156e0bce284c5c5d8155102b03",
-      "size": 54848,
-      "source_url": "https://store.bblcdn.com/008ce8581660477fbfa18ecbe99b5c10.png"
+      "sha256": "f413868fbf7fb6cdc81cb621d09190c15cf173786a6370dd194219404c324c96",
+      "size": 178818,
+      "source_url": "https://store.bblcdn.com/s7/default/d59ea3ec6b0b4eae85d79079b3cd420a/TEC-9DiscShooter1.png"
     },
     {
-      "blob_path": "data/blobs/sha256/67/6748de7d7db396a43434cde972f48b6fc59f5ef44d73b6e99fc655a5db0e6ecb.png",
-      "id": "image-8c8c66aeb18e15e2676b",
+      "blob_path": "data/blobs/sha256/b0/b082a7c2ec46ffb5fba15b16060cbfd35053c832c1ef2fed022fe952c747fdab.png",
+      "id": "image-display-f900bda6694446a1a8bd",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "7324a547b4436e7bf496a687c507e7ecdbcfdd75ead81e359df9414cd158647a",
+        "source_width": 800
+      },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "885e8db08b354df9b12a07031e126f02.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "TEC-9_Disc_Shooter2.catalog.png",
+      "parent_asset_id": "image-3a14f93f4f79e5fcbf09",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "6748de7d7db396a43434cde972f48b6fc59f5ef44d73b6e99fc655a5db0e6ecb",
-      "size": 189647,
-      "source_url": "https://store.bblcdn.com/885e8db08b354df9b12a07031e126f02.png"
+      "sha256": "b082a7c2ec46ffb5fba15b16060cbfd35053c832c1ef2fed022fe952c747fdab",
+      "size": 47743,
+      "source_url": "https://store.bblcdn.com/s7/default/4d618edebce645e5a09a28d359ef5245/TEC-9_Disc_Shooter2.png"
     },
     {
       "blob_path": "data/blobs/sha256/35/358204247840f8ac19023d51c1df7bcf48b7bed388c49104ba6035fc3d87ec89.png",
-      "id": "image-display-147fa2bbea228dc5b4b0",
+      "id": "image-display-2165ebc4c0aec3774c83",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -84,56 +106,34 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH013-QYM3D.catalog.png",
-      "parent_asset_id": "image-ef2863d0be78b2f31f93",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-08990153a7959a4881ba",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "358204247840f8ac19023d51c1df7bcf48b7bed388c49104ba6035fc3d87ec89",
       "size": 370511,
-      "source_url": "https://store.bblcdn.com/s1/default/d2bde15b89074cdca857418fc062470b/ZH013-QYM3D.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/b0/b082a7c2ec46ffb5fba15b16060cbfd35053c832c1ef2fed022fe952c747fdab.png",
-      "id": "image-display-cd259f517ea98d74249b",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 800,
-        "source_sha256": "45f3dc18bb8ab80dd4e50269ad79b3e713f41f156e0bce284c5c5d8155102b03",
-        "source_width": 800
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "008ce8581660477fbfa18ecbe99b5c10.catalog.png",
-      "parent_asset_id": "image-722d66e3becce7485757",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "b082a7c2ec46ffb5fba15b16060cbfd35053c832c1ef2fed022fe952c747fdab",
-      "size": 47743,
-      "source_url": "https://store.bblcdn.com/008ce8581660477fbfa18ecbe99b5c10.png"
+      "source_url": "https://store.bblcdn.com/s7/default/454da0173494488b97abfd8b1e51b509/ZH013-QYM3D.png"
     },
     {
       "blob_path": "data/blobs/sha256/a8/a8cc89cea1b899d0933234093e90871e7299ff6155f99fe8ae29b2670eb37e27.png",
-      "id": "image-display-6fb6182d8c54bb1cfbdc",
+      "id": "image-display-79f92fe3df18bf161b2b",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 800,
-        "source_sha256": "6748de7d7db396a43434cde972f48b6fc59f5ef44d73b6e99fc655a5db0e6ecb",
+        "source_sha256": "f413868fbf7fb6cdc81cb621d09190c15cf173786a6370dd194219404c324c96",
         "source_width": 800
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "885e8db08b354df9b12a07031e126f02.catalog.png",
-      "parent_asset_id": "image-8c8c66aeb18e15e2676b",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "TEC-9DiscShooter1.catalog.png",
+      "parent_asset_id": "image-915732f29cafbaf83697",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "a8cc89cea1b899d0933234093e90871e7299ff6155f99fe8ae29b2670eb37e27",
       "size": 155830,
-      "source_url": "https://store.bblcdn.com/885e8db08b354df9b12a07031e126f02.png"
+      "source_url": "https://store.bblcdn.com/s7/default/d59ea3ec6b0b4eae85d79079b3cd420a/TEC-9DiscShooter1.png"
     }
   ],
   "box_contents": [
@@ -194,7 +194,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional T-15/ TEC-9 Disc Shooter. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the T-15/ TEC-9 Disc Shooter and obtain detailed information, please visit the T-15/ TEC-9 Disc Shooter on MakerWorld. The creator @QYM3D has released v2.0 and a mini version of the TEC-9 Disc Shooter, which fixes multiple issues with v1.0 and enhances the user experience.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh013-tec-9-disc-shooter",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "T-15/TEC-9 Disc Shooter",
   "offers": [
@@ -203,9 +203,9 @@
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
-      "price": "4.24",
+      "price": "3.39",
       "region": "us",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://us.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     },
     {
@@ -213,9 +213,9 @@
       "currency": "CAD",
       "listed": true,
       "missing_runs": 0,
-      "price": "4.46",
+      "price": "3.57",
       "region": "ca",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://ca.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     },
     {
@@ -223,9 +223,9 @@
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
-      "price": "3.65",
+      "price": "2.92",
       "region": "eu",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://eu.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     },
     {
@@ -233,9 +233,9 @@
       "currency": "GBP",
       "listed": true,
       "missing_runs": 0,
-      "price": "3.1",
+      "price": "2.48",
       "region": "uk",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://uk.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     },
     {
@@ -243,9 +243,9 @@
       "currency": "AUD",
       "listed": true,
       "missing_runs": 0,
-      "price": "7",
+      "price": "5.6",
       "region": "au",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://au.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     },
     {
@@ -253,9 +253,9 @@
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
-      "price": "3.52",
+      "price": "2.82",
       "region": "asia",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://asia.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     }
   ],
@@ -319,7 +319,7 @@
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s7/default/4d618edebce645e5a09a28d359ef5245/TEC-9_Disc_Shooter2.png",
       "part_number": "ZH013",
-      "price": "4.24",
+      "price": "3.39",
       "region": "us",
       "sku": "42818628485256",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
@@ -329,9 +329,9 @@
     {
       "available": true,
       "currency": "CAD",
-      "image_url": "https://store.bblcdn.com/s5/default/5145d3bb8bbf45d297fcb55e99681b18.png",
+      "image_url": "https://store.bblcdn.com/s5/default/e0e4009888d24fc0bb15b1b9c42cb00f/ZH013-QYM3D.png",
       "part_number": "ZH013",
-      "price": "4.46",
+      "price": "3.57",
       "region": "ca",
       "sku": "46455685153008",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
@@ -341,9 +341,9 @@
     {
       "available": true,
       "currency": "EUR",
-      "image_url": "https://store.bblcdn.eu/s8/default/bb410159fd784e1d9f376402ab0ccdf9/TEC-9_Disc_Shooter2.png",
+      "image_url": "https://store.bblcdn.eu/s8/default/900b7153014b405d83b62de4085108ad/ZH013-QYM3D.png",
       "part_number": "ZH013",
-      "price": "3.65",
+      "price": "2.92",
       "region": "eu",
       "sku": "49173261713756",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
@@ -353,9 +353,9 @@
     {
       "available": true,
       "currency": "GBP",
-      "image_url": "https://store.bblcdn.eu/3713d186bcf243399895ff1d6def7b84.png",
+      "image_url": "https://store.bblcdn.eu/s4/default/bb023b9068944166af23298371d6099f/ZH013-QYM3D.png",
       "part_number": "ZH013",
-      "price": "3.1",
+      "price": "2.48",
       "region": "uk",
       "sku": "42084383424572",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
@@ -365,9 +365,9 @@
     {
       "available": true,
       "currency": "AUD",
-      "image_url": "https://store.bblcdn.com/bda4ee308cc241f5885a06ba0da5fd6f.png",
+      "image_url": "https://store.bblcdn.com/s2/default/436001076db74868a988a197c0e5ac0b/ZH013-QYM3D.png",
       "part_number": "ZH013",
-      "price": "7",
+      "price": "5.6",
       "region": "au",
       "sku": "45075497418915",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
@@ -379,7 +379,7 @@
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s1/default/d2bde15b89074cdca857418fc062470b/ZH013-QYM3D.png",
       "part_number": "ZH013",
-      "price": "3.52",
+      "price": "2.82",
       "region": "asia",
       "sku": "498373203180253188",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",

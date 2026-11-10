@@ -214,6 +214,18 @@
       "source_url": "https://store.bblcdn.com/s7/default/f2188a0e044a48bebead2b7b76c67606/BT2_Button_Head_Cap_Self_Tapping_Screw_BHCS.zip"
     },
     {
+      "blob_path": "data/blobs/sha256/dc/dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438.zip",
+      "id": "archive-508e1bde8ce318475165",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "screw_test.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438",
+      "size": 857757,
+      "source_url": "https://store.bblcdn.com/s7/default/55debb62966e4e118ffd161ae1f5272d/screw_test.zip"
+    },
+    {
       "archive_member_path": "BT2 Button Head Cap Self Tapping Screw (BHCS)/BT2x10 BHCS Self Tapping Screw  -AA214/BT2x10 BHCS Self Tapping Screw  -AA214.stl",
       "blob_path": "data/blobs/sha256/27/275bed5349aec1ee1c2c7005d37aceac0d940d9b57f9bf40da353774d49c2e6b.stl",
       "id": "model-54534b6857f9613e8b3b",
@@ -548,18 +560,6 @@
       "sha256": "8db85dd1d4150c9936b4ff6e37562ca94969a8256b9c8b515716f8d4cbfe97aa",
       "size": 343017,
       "source_url": "https://store.bblcdn.com/s7/default/f2188a0e044a48bebead2b7b76c67606/BT2_Button_Head_Cap_Self_Tapping_Screw_BHCS.zip"
-    },
-    {
-      "blob_path": "data/blobs/sha256/dc/dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438.zip",
-      "id": "archive-508e1bde8ce318475165",
-      "kind": "archive",
-      "media_type": "application/zip",
-      "original_filename": "screw_test.zip",
-      "retrieved_at": "2026-08-24T02:05:06Z",
-      "rights_status": "unknown",
-      "sha256": "dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438",
-      "size": 857757,
-      "source_url": "https://store.bblcdn.com/s7/default/55debb62966e4e118ffd161ae1f5272d/screw_test.zip"
     },
     {
       "archive_member_path": "screw_test.3mf",
@@ -930,7 +930,7 @@
   "description_text": "For 3D printed parts, which often have gaps between layers and varying hole sizes, we recommend using BT self-tapping screws. These screws provide moderate torque for insertion, prevent loosening, and can be installed and removed multiple times. Using these screws and matching them with the recommended hole size ensures easy and secure connections for your printed parts, eliminating the need for nuts and avoiding issues like screw loosening or hole shrinkage.\n\nWe have included the relevant data for the twisting torque and loosening torque experiments of PLA and PETG material specimens, as well as the recommended hole sizes for design. The model files for testing are available for download at the end of the details page. All test holes are printed perpendicularly to the platform. When designing a bolt bottom hole on the side of the part, it is recommended to use a size one size larger than the recommended size for lying flat to prevent interlayer compression cracking.\n\nTest Data for Self-Tapping Screws 3D Document for Screws Test\n\nSelf-Tapping Screws for 3D Printing\n\nCarbon Steel Button Head Cap Self Tapping Screw (BHCS)\n\nNominal thread: BT2~BT3\n\nStrength grade: 4.8\n\nType of thread: Metric coarse thread\n\nFull thread series",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa212-bt2-button-head-cap-self-tapping-screw-bhcs",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "BT2 Button Head Cap Self Tapping Screw (BHCS)",
   "offers": [

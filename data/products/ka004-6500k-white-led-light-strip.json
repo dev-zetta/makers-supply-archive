@@ -34,72 +34,72 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/55/55acfa7848972ea40e2968768c47b91cd6a0bcb423c926113a681dd702f93d9b.png",
-      "id": "image-111b3e2378ea557a9df7",
+      "blob_path": "data/blobs/sha256/ec/ec1c196ef3f8cc22d6b8f58e2a19f621f96ce36d4b79b3f8a4ea6cbbf5405a40.png",
+      "id": "image-e5ae3033722433e21e9c",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "KA004.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "55acfa7848972ea40e2968768c47b91cd6a0bcb423c926113a681dd702f93d9b",
-      "size": 274379,
-      "source_url": "https://store.bblcdn.com/s1/default/ab13589915224facad46826a5676651a/KA004.png"
+      "sha256": "ec1c196ef3f8cc22d6b8f58e2a19f621f96ce36d4b79b3f8a4ea6cbbf5405a40",
+      "size": 263571,
+      "source_url": "https://store.bblcdn.com/s7/default/0770d39c7cca4132b236ee2939cb7404/KA004.png"
     },
     {
-      "blob_path": "data/blobs/sha256/65/65f683b43c388a1cde46b86fd5276d0e5a9c8445409985f614dbff736110bdf6.png",
-      "id": "image-f152ee309a149817c689",
+      "blob_path": "data/blobs/sha256/1c/1c1fd03885a03ad1e1717591d1c5ac9465202409c0edb027e3f9be906073f1e4.png",
+      "id": "image-ae57e1051531e5c6840e",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "494432786637615104.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "2_471b9a6b-5bdc-4f11-8866-64ffc9a48cfc.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "65f683b43c388a1cde46b86fd5276d0e5a9c8445409985f614dbff736110bdf6",
-      "size": 3874778,
-      "source_url": "https://store.bblcdn.com/494432786637615104.png"
+      "sha256": "1c1fd03885a03ad1e1717591d1c5ac9465202409c0edb027e3f9be906073f1e4",
+      "size": 3874787,
+      "source_url": "https://store.bblcdn.com/s7/default/8d8a62205e6f4767a3248a77ca70d4a7/2_471b9a6b-5bdc-4f11-8866-64ffc9a48cfc.png"
     },
     {
       "blob_path": "data/blobs/sha256/7f/7f8390699813fbe7acc96aa9d763be5616ec7a0dd5ee4315682670a7f74946ba.png",
-      "id": "image-display-eaf2acab2d6c4456906d",
+      "id": "image-display-133917eccb9b7ec431b8",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 800,
-        "source_sha256": "55acfa7848972ea40e2968768c47b91cd6a0bcb423c926113a681dd702f93d9b",
+        "source_sha256": "ec1c196ef3f8cc22d6b8f58e2a19f621f96ce36d4b79b3f8a4ea6cbbf5405a40",
         "source_width": 800
       },
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "KA004.catalog.png",
-      "parent_asset_id": "image-111b3e2378ea557a9df7",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-e5ae3033722433e21e9c",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "7f8390699813fbe7acc96aa9d763be5616ec7a0dd5ee4315682670a7f74946ba",
       "size": 232896,
-      "source_url": "https://store.bblcdn.com/s1/default/ab13589915224facad46826a5676651a/KA004.png"
+      "source_url": "https://store.bblcdn.com/s7/default/0770d39c7cca4132b236ee2939cb7404/KA004.png"
     },
     {
       "blob_path": "data/blobs/sha256/a5/a54cdadd4c80bcc034ba1275853dc1b23838ade403d1c141c9614dbce3442145.png",
-      "id": "image-display-6e2e493b5c358ccd220f",
+      "id": "image-display-1e96385f68d62c94904f",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 3200,
-        "source_sha256": "65f683b43c388a1cde46b86fd5276d0e5a9c8445409985f614dbff736110bdf6",
+        "source_sha256": "1c1fd03885a03ad1e1717591d1c5ac9465202409c0edb027e3f9be906073f1e4",
         "source_width": 3200
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "494432786637615104.catalog.png",
-      "parent_asset_id": "image-f152ee309a149817c689",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "2_471b9a6b-5bdc-4f11-8866-64ffc9a48cfc.catalog.png",
+      "parent_asset_id": "image-ae57e1051531e5c6840e",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "a54cdadd4c80bcc034ba1275853dc1b23838ade403d1c141c9614dbce3442145",
       "size": 639978,
-      "source_url": "https://store.bblcdn.com/494432786637615104.png"
+      "source_url": "https://store.bblcdn.com/s7/default/8d8a62205e6f4767a3248a77ca70d4a7/2_471b9a6b-5bdc-4f11-8866-64ffc9a48cfc.png"
     }
   ],
   "box_contents": [],
@@ -173,7 +173,7 @@
   "description_text": "This 6500K white LED light is designed with the ability to be cut into any desired length, catering to your specific model requirements. Regardless of the length you desire, it allows you to freely engage in various DIY creations while achieving a perfect blend of functionality and design.\n\nThis LED light strip operates on 5V power and features a built-in USB plug, allowing for easy connection to the external power port of P1P or P1S printers. It can provide internal illumination, enabling better observation or capturing of the printing process of your models.\n\nThe LED strip is constructed with a 100cm Flexible Printed Circuit Board (FPCB), featuring a solder point at every 100cm interval. This design ensures convenient connectivity and easy customization along the strip.\n\nBefore making any modifications to the device, ensure that the LED strip is unplugged. Electrical currents can be dangerous and may result in electrical shock or injury in certain cases.\n\nThis product is not a toy. Please keep it out of reach of children.\n\nThe bulbs are sealed and cannot be replaced.\n\nAvoid immersing the lights in the water.\n\nDo not illuminate the lights while they are still inside the packaging.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ka004-6500k-white-led-light-strip",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Length of the strip light",

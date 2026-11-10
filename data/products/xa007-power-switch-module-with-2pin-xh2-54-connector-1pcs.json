@@ -34,40 +34,52 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/ed/edf40f37ab8a35e4e46361964b5137378991b966bc7ec3d4236aef6d86a67326.png",
-      "id": "image-2ffaebc8d4ae501fb2e7",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "image_(3).png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "edf40f37ab8a35e4e46361964b5137378991b966bc7ec3d4236aef6d86a67326",
-      "size": 205168,
-      "source_url": "https://store.bblcdn.com/s5/default/6b9da203737d400f80a498328f04b78b/image_(3).png"
-    },
-    {
       "blob_path": "data/blobs/sha256/43/437caad98154e3e64a614447f69a11298e0bdff84df727f2e7c518820105ad5c.png",
-      "id": "image-cb15ad6f93edd3eaa4fe",
+      "id": "image-5e0695b4a2bae4357256",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "image_(4).png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "437caad98154e3e64a614447f69a11298e0bdff84df727f2e7c518820105ad5c",
       "size": 1028242,
-      "source_url": "https://store.bblcdn.com/s5/default/419ca5d5dd8642c8950cb9bc9984fa6e/image_(4).png"
+      "source_url": "https://store.bblcdn.com/s7/default/3300f0008d9848a792edecb905fe6896/image_(4).png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7c/7c1d1f8c42c4afd25a322eaf775d2ac03891f5af9d30ed2eea91b31dca3154a5.png",
+      "id": "image-ac47404fc20cad325ad1",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "upgrade_kit.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "7c1d1f8c42c4afd25a322eaf775d2ac03891f5af9d30ed2eea91b31dca3154a5",
+      "size": 308456,
+      "source_url": "https://store.bblcdn.com/s7/default/48ac79d4d8944ec59acdf7175af2ef04/upgrade_kit.png"
     },
     {
       "blob_path": "data/blobs/sha256/99/991274136e5a2bad2d7fa3cea9dd35eb24f520429840c97b15149f6433d7f93c.png",
-      "id": "image-420bc3957fbe11b091c0",
+      "id": "image-61fd52066828a8e7759a",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-XA008_(2).png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "991274136e5a2bad2d7fa3cea9dd35eb24f520429840c97b15149f6433d7f93c",
       "size": 298758,
-      "source_url": "https://store.bblcdn.com/s5/default/9cb0da09b3d24a069fbf9b0397048bed/B-XA008_(2).png"
+      "source_url": "https://store.bblcdn.com/s7/default/d1a26aa25d424dc3bd28bef899959185/B-XA008_(2).png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ed/edf40f37ab8a35e4e46361964b5137378991b966bc7ec3d4236aef6d86a67326.png",
+      "id": "image-677373bf3b0946daeabc",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "image_(3).png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "edf40f37ab8a35e4e46361964b5137378991b966bc7ec3d4236aef6d86a67326",
+      "size": 205168,
+      "source_url": "https://store.bblcdn.com/s7/default/29d5d56173e4479b8874826049a420c9/image_(3).png"
     },
     {
       "blob_path": "data/blobs/sha256/f6/f65ee8a3c9041ef8aadf5176d945e66d30d854cff683d8a35b512d66afb8c2fc.zip",
@@ -134,30 +146,8 @@
       "source_url": "https://store.bblcdn.com/s1/default/fcac8e993f04438d9ca52e7151f9f794/Power_Switch_Module_with_2Pin_XH2.54_Connector-XA007_3D_Model.zip"
     },
     {
-      "blob_path": "data/blobs/sha256/c9/c93c458193b114ae09bbba4fac1bb660818a3e74c9538f8c491707dfba522d75.png",
-      "id": "image-display-afeca07e63538191a5e5",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 800,
-        "source_sha256": "edf40f37ab8a35e4e46361964b5137378991b966bc7ec3d4236aef6d86a67326",
-        "source_width": 800
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "image_(3).catalog.png",
-      "parent_asset_id": "image-2ffaebc8d4ae501fb2e7",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "c93c458193b114ae09bbba4fac1bb660818a3e74c9538f8c491707dfba522d75",
-      "size": 136213,
-      "source_url": "https://store.bblcdn.com/s5/default/6b9da203737d400f80a498328f04b78b/image_(3).png"
-    },
-    {
       "blob_path": "data/blobs/sha256/33/33cd7e67a347d27ab94f89d141eb04bea0f7fcd07ba855f8908c826b78e307eb.png",
-      "id": "image-display-cf1b43cca81aa2b356fc",
+      "id": "image-display-9c8f81d281f8cb2a7a59",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -170,16 +160,38 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "image_(4).catalog.png",
-      "parent_asset_id": "image-cb15ad6f93edd3eaa4fe",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-5e0695b4a2bae4357256",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "33cd7e67a347d27ab94f89d141eb04bea0f7fcd07ba855f8908c826b78e307eb",
       "size": 184828,
-      "source_url": "https://store.bblcdn.com/s5/default/419ca5d5dd8642c8950cb9bc9984fa6e/image_(4).png"
+      "source_url": "https://store.bblcdn.com/s7/default/3300f0008d9848a792edecb905fe6896/image_(4).png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/22/2251b6a8ae3a3b869b51b3042e2de7a4b78a458fc7bb5b3959cbbcb7abc54c17.png",
+      "id": "image-display-5f6cbf9036fd70d4e324",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "7c1d1f8c42c4afd25a322eaf775d2ac03891f5af9d30ed2eea91b31dca3154a5",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "upgrade_kit.catalog.png",
+      "parent_asset_id": "image-ac47404fc20cad325ad1",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "2251b6a8ae3a3b869b51b3042e2de7a4b78a458fc7bb5b3959cbbcb7abc54c17",
+      "size": 81250,
+      "source_url": "https://store.bblcdn.com/s7/default/48ac79d4d8944ec59acdf7175af2ef04/upgrade_kit.png"
     },
     {
       "blob_path": "data/blobs/sha256/93/932f0e50a4ae3ca7886883c9e4bdcdd4a8ff5ac10e280243702f7e63a00e4ecf.png",
-      "id": "image-display-b88c61a331248fc24c45",
+      "id": "image-display-4947c1161e8b3014e9d9",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 404,
@@ -192,12 +204,34 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-XA008_(2).catalog.png",
-      "parent_asset_id": "image-420bc3957fbe11b091c0",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-61fd52066828a8e7759a",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "932f0e50a4ae3ca7886883c9e4bdcdd4a8ff5ac10e280243702f7e63a00e4ecf",
       "size": 87572,
-      "source_url": "https://store.bblcdn.com/s5/default/9cb0da09b3d24a069fbf9b0397048bed/B-XA008_(2).png"
+      "source_url": "https://store.bblcdn.com/s7/default/d1a26aa25d424dc3bd28bef899959185/B-XA008_(2).png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c9/c93c458193b114ae09bbba4fac1bb660818a3e74c9538f8c491707dfba522d75.png",
+      "id": "image-display-f1b6563106fe762c4ed2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "edf40f37ab8a35e4e46361964b5137378991b966bc7ec3d4236aef6d86a67326",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "image_(3).catalog.png",
+      "parent_asset_id": "image-677373bf3b0946daeabc",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "c93c458193b114ae09bbba4fac1bb660818a3e74c9538f8c491707dfba522d75",
+      "size": 136213,
+      "source_url": "https://store.bblcdn.com/s7/default/29d5d56173e4479b8874826049a420c9/image_(3).png"
     }
   ],
   "box_contents": [],
@@ -247,7 +281,7 @@
   "description_text": "Power switch module is a two-position switch that is often used to control power on/off without removing the battery. There are two 2pinXH2.54 connectors on the switch board, which are usually connected in series between the power supply and the expansion board. The switch board can be used to cut off the power supply without removing the battery directly, avoiding the continuous standby state that causes the battery to lose power as well.\n\nConnector handling: Please hold the connector by the plastic housing when plugging and unplugging. Do not pull directly on the wires to avoid detachment.\n\nRated current: Do not exceed the rated current capacity of the switch module.\n\nChoking hazard: This product contains small parts. Keep out of reach of children to avoid accidental ingestion.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xa007-power-switch-module-with-2pin-xh2-54-connector-1pcs",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Size (mm)",

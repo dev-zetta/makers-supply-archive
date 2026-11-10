@@ -35,55 +35,43 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/d5/d51cc567698422cf03cd7e00e43801b5d5d21bcedba31e985639bba10f9a9779.png",
-      "id": "image-865df85234397958bfd3",
+      "id": "image-cc9e6669db6a6562e4f1",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-QA002.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "d51cc567698422cf03cd7e00e43801b5d5d21bcedba31e985639bba10f9a9779",
       "size": 660702,
-      "source_url": "https://store.bblcdn.com/s1/default/f80cd838752649a095b41154c14ad652/B-QA002.png"
+      "source_url": "https://store.bblcdn.com/s7/default/eb1dae8990f04a549ae5c005d6d484df/B-QA002.png"
     },
     {
       "blob_path": "data/blobs/sha256/a4/a40e31930b1879ec27f1cc62f794271019b31c3e1a7c19db6acfde2bc4352670.png",
-      "id": "image-c9475f0ddd149d9f8bac",
+      "id": "image-fc594bdec0235d4db7a6",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-QA003.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "a40e31930b1879ec27f1cc62f794271019b31c3e1a7c19db6acfde2bc4352670",
       "size": 675488,
-      "source_url": "https://store.bblcdn.com/s1/default/01447f4269ad498e90a065a82f03a0ea/B-QA003.png"
+      "source_url": "https://store.bblcdn.com/s7/default/3a2ac6e2b35a4ffab1045e33da8f52d9/B-QA003.png"
     },
     {
       "blob_path": "data/blobs/sha256/62/6244dfb0f5ebe4adb427374a0daf20485fd129a9fa3a963f9800201102ce5cd2.png",
-      "id": "image-df0a5965f68d88892e6f",
+      "id": "image-7bd4784f7f6714cc0d1e",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-QA002_First.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "6244dfb0f5ebe4adb427374a0daf20485fd129a9fa3a963f9800201102ce5cd2",
       "size": 1007917,
-      "source_url": "https://store.bblcdn.com/s1/default/b2b182452cf94941a509b60fb783c703/B-QA002_First.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/be/be72cbcc89222c43ade992e87016b51abe7b365b0c0547c93af31f8910771dba.png",
-      "id": "image-df9c7a560d7a8a3296d8",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "1.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "be72cbcc89222c43ade992e87016b51abe7b365b0c0547c93af31f8910771dba",
-      "size": 8653386,
-      "source_url": "https://store.bblcdn.com/s1/default/7c91aec3f0c149feadd24c9b5fb2a28c/1.png"
+      "source_url": "https://store.bblcdn.com/s7/default/143b24801be24377a850794df75a4a16/B-QA002_First.png"
     },
     {
       "blob_path": "data/blobs/sha256/cb/cb2b06d1504330de29dc6fb56e5c160120c1c477f1c805b735d7adf9251ecdf6.png",
-      "id": "image-display-8a9ea3c037d665c359e6",
+      "id": "image-display-af55ff3cb34527acd1ce",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 404,
@@ -96,16 +84,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-QA002.catalog.png",
-      "parent_asset_id": "image-865df85234397958bfd3",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-cc9e6669db6a6562e4f1",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "cb2b06d1504330de29dc6fb56e5c160120c1c477f1c805b735d7adf9251ecdf6",
       "size": 203641,
-      "source_url": "https://store.bblcdn.com/s1/default/f80cd838752649a095b41154c14ad652/B-QA002.png"
+      "source_url": "https://store.bblcdn.com/s7/default/eb1dae8990f04a549ae5c005d6d484df/B-QA002.png"
     },
     {
       "blob_path": "data/blobs/sha256/36/36f959af4824099c19acb74d09186dfab99acff99a70e5279926d9666eceeae6.png",
-      "id": "image-display-4d6661784ed372c65f9c",
+      "id": "image-display-0c6502997fc9b4715897",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 404,
@@ -118,16 +106,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-QA003.catalog.png",
-      "parent_asset_id": "image-c9475f0ddd149d9f8bac",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-fc594bdec0235d4db7a6",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "36f959af4824099c19acb74d09186dfab99acff99a70e5279926d9666eceeae6",
       "size": 198914,
-      "source_url": "https://store.bblcdn.com/s1/default/01447f4269ad498e90a065a82f03a0ea/B-QA003.png"
+      "source_url": "https://store.bblcdn.com/s7/default/3a2ac6e2b35a4ffab1045e33da8f52d9/B-QA003.png"
     },
     {
       "blob_path": "data/blobs/sha256/80/806efc4da162c1f6342a037c855cca3799b380a5953d5b76431f69a4bc0cfefd.png",
-      "id": "image-display-b2bba1846c3a9f5a2d65",
+      "id": "image-display-3c865dc4fb4be4e1bb52",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -140,34 +128,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-QA002_First.catalog.png",
-      "parent_asset_id": "image-df0a5965f68d88892e6f",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-7bd4784f7f6714cc0d1e",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "806efc4da162c1f6342a037c855cca3799b380a5953d5b76431f69a4bc0cfefd",
       "size": 276537,
-      "source_url": "https://store.bblcdn.com/s1/default/b2b182452cf94941a509b60fb783c703/B-QA002_First.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/d5/d5e03c81f504868b33576454e5e65d44d08e3c864f23d22ed3381be808629d11.png",
-      "id": "image-display-77c42ef4aa56e02a6d2c",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 2400,
-        "source_sha256": "be72cbcc89222c43ade992e87016b51abe7b365b0c0547c93af31f8910771dba",
-        "source_width": 2418
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "1.catalog.png",
-      "parent_asset_id": "image-df9c7a560d7a8a3296d8",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "d5e03c81f504868b33576454e5e65d44d08e3c864f23d22ed3381be808629d11",
-      "size": 1010796,
-      "source_url": "https://store.bblcdn.com/s1/default/7c91aec3f0c149feadd24c9b5fb2a28c/1.png"
+      "source_url": "https://store.bblcdn.com/s7/default/143b24801be24377a850794df75a4a16/B-QA002_First.png"
     }
   ],
   "box_contents": [],
@@ -217,7 +183,7 @@
   "description_text": "Cutting directly on a desk can damage the work surface and dull blades quickly, especially during repeated trimming and model work. This self-healing cutting mat provides a dedicated surface for precise cutting tasks, helping protect your workspace while supporting cleaner, more controlled cuts.\n\nThe mat features a wide range of printed measuring guides, including edge rulers, grid lines, angle markings, circle references, arc guides, and fine-detail grids. These built-in references make it easier to measure materials, align parts, and plan cuts more accurately during maker tasks.\n\nAvailable in A3 and A4 sizes, the cutting mat fits different bench setups and working styles. A3 offers more room for larger projects, while A4 provides a compact option for smaller desks.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "durable-self-healing-cutting-mat",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Durable Self-Healing Cutting Mat",
   "offers": [
@@ -321,7 +287,7 @@
       "available": true,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s7/default/3a2ac6e2b35a4ffab1045e33da8f52d9/B-QA003.png",
-      "price": "6.99",
+      "price": "5.94",
       "region": "us",
       "sku": "626312711391379463",
       "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
@@ -343,7 +309,7 @@
       "available": true,
       "currency": "CAD",
       "image_url": "https://store.bblcdn.com/s5/default/99c5b55842ae47f9aeadb918b060f1c6/B-QA003.png",
-      "price": "10.99",
+      "price": "9.34",
       "region": "ca",
       "sku": "626312604005203968",
       "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
@@ -365,7 +331,7 @@
       "available": true,
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/f5640ef194114b5382ec5a4828c0f159/B-QA003.png",
-      "price": "7.99",
+      "price": "6.79",
       "region": "eu",
       "sku": "626312874474201095",
       "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
@@ -387,7 +353,7 @@
       "available": true,
       "currency": "GBP",
       "image_url": "https://store.bblcdn.eu/s4/default/3eb3f3061cbd48998186bdf2471b767b/B-QA003.png",
-      "price": "6.99",
+      "price": "5.94",
       "region": "uk",
       "sku": "626312460924272647",
       "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
@@ -409,7 +375,7 @@
       "available": true,
       "currency": "AUD",
       "image_url": "https://store.bblcdn.com/s2/default/9e243643214746008e97854ae9e8db37/B-QA003.png",
-      "price": "11.99",
+      "price": "10.19",
       "region": "au",
       "sku": "626312248519659527",
       "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",
@@ -431,7 +397,7 @@
       "available": true,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s1/default/01447f4269ad498e90a065a82f03a0ea/B-QA003.png",
-      "price": "6.99",
+      "price": "5.94",
       "region": "asia",
       "sku": "626296462442803204",
       "title": "Durable Self-Healing Cutting Mat - A4 Durable Cutting Mat",

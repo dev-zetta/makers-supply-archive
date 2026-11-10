@@ -34,40 +34,64 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/89/89c6bd8e7316042a67307a18705ce941d2a69a579c5d129019364da60458ee96.jpg",
-      "id": "image-4b577a81a9c35d2f5bac",
-      "kind": "image",
-      "media_type": "image/jpeg",
-      "original_filename": "1.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "89c6bd8e7316042a67307a18705ce941d2a69a579c5d129019364da60458ee96",
-      "size": 1351307,
-      "source_url": "https://store.bblcdn.com/s1/default/4ee2b37c708b45b9863c7cc5bfe88769/1.jpg"
-    },
-    {
       "blob_path": "data/blobs/sha256/d2/d2268963792865c9067a15818eb36918f764165318b4682ba7456402688239be.png",
-      "id": "image-eebba17a7928a984cb75",
+      "id": "image-0d5508ea0f058542cc3a",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "Frame_1123867464.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "d2268963792865c9067a15818eb36918f764165318b4682ba7456402688239be",
       "size": 1011656,
-      "source_url": "https://store.bblcdn.com/s1/default/6a7494d6b9e14582a13062a289baa77b/Frame_1123867464.png"
+      "source_url": "https://store.bblcdn.com/s7/default/07e6ec5aa6c146e4930f9bbda75b3ce6/Frame_1123867464.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/70/7059ef44b0e97bac24dd1e7815f2fe187ccc8d61896207cc38811390cd27575b.png",
+      "id": "image-6ef6530163143523201c",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123867464_1.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "7059ef44b0e97bac24dd1e7815f2fe187ccc8d61896207cc38811390cd27575b",
+      "size": 1172680,
+      "source_url": "https://store.bblcdn.com/s7/default/80e4d881e23b4394b3f6d4f5a4ba0202/Frame_1123867464_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/fc/fc558e702361abbbde5dcd614b653deadfa21488ec8a712733911acbe3fac9fa.png",
+      "id": "image-7602daddf94a66a24105",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123867499.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "fc558e702361abbbde5dcd614b653deadfa21488ec8a712733911acbe3fac9fa",
+      "size": 2700778,
+      "source_url": "https://store.bblcdn.com/s7/default/8f51bbb95b8e42a3899d36c2ed936bc7/Frame_1123867499.png"
     },
     {
       "blob_path": "data/blobs/sha256/77/77ff4fed9614cf5185b343c5a87930cccb273f75dbc0e6a253323a638d291db9.png",
-      "id": "image-3c8169e5e93428ca61bb",
+      "id": "image-2a0a1a62772622bad88c",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "Frame_1123867465.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "77ff4fed9614cf5185b343c5a87930cccb273f75dbc0e6a253323a638d291db9",
       "size": 990869,
-      "source_url": "https://store.bblcdn.com/s1/default/71cab7cafb754c0195c58eac79e4d490/Frame_1123867465.png"
+      "source_url": "https://store.bblcdn.com/s7/default/fcc033a2411e4b10b508ac3308ef6364/Frame_1123867465.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/89/89c6bd8e7316042a67307a18705ce941d2a69a579c5d129019364da60458ee96.jpg",
+      "id": "image-511b7e04cc2d32ee88d8",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "1.jpg",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "89c6bd8e7316042a67307a18705ce941d2a69a579c5d129019364da60458ee96",
+      "size": 1351307,
+      "source_url": "https://store.bblcdn.com/s7/default/c91d4222afa5448a9bd46dd8e2ab078e/1.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/68/68fb0b831618816e0e78090521cdf7a3a65737e425747d28b0e51f47e78ed282.pdf",
@@ -94,30 +118,8 @@
       "source_url": "https://store.bblcdn.com/s1/default/deea46bfaa594972aaf9bcf17d1fdd4c/Robotic_arm_configuration.zip"
     },
     {
-      "blob_path": "data/blobs/sha256/fc/fc4caee4c81664da93e2be355a6a4a543a04dbab675854589f5da44b79b18ddb.png",
-      "id": "image-display-ccb4956d491cf061d2ef",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 3128,
-        "source_sha256": "89c6bd8e7316042a67307a18705ce941d2a69a579c5d129019364da60458ee96",
-        "source_width": 3128
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "1.catalog.png",
-      "parent_asset_id": "image-4b577a81a9c35d2f5bac",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "fc4caee4c81664da93e2be355a6a4a543a04dbab675854589f5da44b79b18ddb",
-      "size": 605012,
-      "source_url": "https://store.bblcdn.com/s1/default/4ee2b37c708b45b9863c7cc5bfe88769/1.jpg"
-    },
-    {
       "blob_path": "data/blobs/sha256/2c/2c9f13925f617f2146f870545e8cb6e768609c83d863be5fa6f09f5714380c3e.png",
-      "id": "image-display-a4576b9f9c8537420534",
+      "id": "image-display-e6eb19e6733696a91e91",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -130,16 +132,60 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "Frame_1123867464.catalog.png",
-      "parent_asset_id": "image-eebba17a7928a984cb75",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-0d5508ea0f058542cc3a",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "2c9f13925f617f2146f870545e8cb6e768609c83d863be5fa6f09f5714380c3e",
       "size": 471705,
-      "source_url": "https://store.bblcdn.com/s1/default/6a7494d6b9e14582a13062a289baa77b/Frame_1123867464.png"
+      "source_url": "https://store.bblcdn.com/s7/default/07e6ec5aa6c146e4930f9bbda75b3ce6/Frame_1123867464.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c6/c6c3479985ead03f426182a40528f91b4ccc3896a88e31d62c125c287ac9ef9f.png",
+      "id": "image-display-100f3129f24e1cb96e3e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1122,
+        "source_sha256": "7059ef44b0e97bac24dd1e7815f2fe187ccc8d61896207cc38811390cd27575b",
+        "source_width": 1139
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123867464_1.catalog.png",
+      "parent_asset_id": "image-6ef6530163143523201c",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "c6c3479985ead03f426182a40528f91b4ccc3896a88e31d62c125c287ac9ef9f",
+      "size": 525876,
+      "source_url": "https://store.bblcdn.com/s7/default/80e4d881e23b4394b3f6d4f5a4ba0202/Frame_1123867464_1.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f3/f31480809c43734912b447b3eaa16f08a848eb92879d8109a1d816422c3ac507.png",
+      "id": "image-display-2c14188aa0f9244dc5dc",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "fc558e702361abbbde5dcd614b653deadfa21488ec8a712733911acbe3fac9fa",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Frame_1123867499.catalog.png",
+      "parent_asset_id": "image-7602daddf94a66a24105",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "f31480809c43734912b447b3eaa16f08a848eb92879d8109a1d816422c3ac507",
+      "size": 633189,
+      "source_url": "https://store.bblcdn.com/s7/default/8f51bbb95b8e42a3899d36c2ed936bc7/Frame_1123867499.png"
     },
     {
       "blob_path": "data/blobs/sha256/a9/a9a43349b5a10f133abc5330a538cabfcb5a4e992f7dd4e7827bd7fec4ad3e48.png",
-      "id": "image-display-7182490b954fd4a773c0",
+      "id": "image-display-effc48850777194676aa",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -152,12 +198,34 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "Frame_1123867465.catalog.png",
-      "parent_asset_id": "image-3c8169e5e93428ca61bb",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-2a0a1a62772622bad88c",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "a9a43349b5a10f133abc5330a538cabfcb5a4e992f7dd4e7827bd7fec4ad3e48",
       "size": 462599,
-      "source_url": "https://store.bblcdn.com/s1/default/71cab7cafb754c0195c58eac79e4d490/Frame_1123867465.png"
+      "source_url": "https://store.bblcdn.com/s7/default/fcc033a2411e4b10b508ac3308ef6364/Frame_1123867465.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/fc/fc4caee4c81664da93e2be355a6a4a543a04dbab675854589f5da44b79b18ddb.png",
+      "id": "image-display-fe1239c339002cae1830",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 3128,
+        "source_sha256": "89c6bd8e7316042a67307a18705ce941d2a69a579c5d129019364da60458ee96",
+        "source_width": 3128
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1.catalog.png",
+      "parent_asset_id": "image-511b7e04cc2d32ee88d8",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "fc4caee4c81664da93e2be355a6a4a543a04dbab675854589f5da44b79b18ddb",
+      "size": 605012,
+      "source_url": "https://store.bblcdn.com/s7/default/c91d4222afa5448a9bd46dd8e2ab078e/1.jpg"
     }
   ],
   "box_contents": [
@@ -399,7 +467,7 @@
   "description_text": "Putting the L-ONE together is straightforward. Follow the clear steps and watch your robotic arm take shape, moving from parts to a fully functional unit in no time. It's designed for a smooth build experience, letting you get to the fun part faster.\n\nFour dedicated joysticks and buttons put you in complete command of the L-ONE. Guide the arm with natural, fluid movements, making complex tasks feel intuitive. Pick up, place, and manipulate objects with impressive accuracy from your very first try.\n\nWatch the L-ONE execute tasks with impressive agility. Its joints move smoothly, allowing for delicate maneuvers and accurate positioning. Each axis responds precisely, making it capable of handling a variety of small objects with confidence.\n\nPick the remote that fits your style. Whether you prefer a classic joystick feel for precise movements or a more lightweight option, you've got choices. Control the L-ONE exactly how you like it.\n\nThe Desktop Robotic Arm is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl023-l-one-desktop-robotic-arm-cyberbrick-rc",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "L-ONE Desktop Robotic Arm - CyberBrick RC",
   "offers": [
@@ -448,9 +516,9 @@
       "currency": "AUD",
       "listed": true,
       "missing_runs": 0,
-      "price": "86.99",
+      "price": "60.89",
       "region": "au",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://au.store.bambulab.com/en/products/l-one-desktop-robotic-arm-cyberbrick-rc?skr=yes"
     },
     {
@@ -476,7 +544,7 @@
   "related_links": [
     {
       "kind": "makerworld",
-      "title": "View More",
+      "title": "Download Models on MakerWorld ↗",
       "url": "https://makerworld.com/en/models/1979457-l-one-desktop-robotic-arm-2-0-easy-to-install-cybe?from=search#profileId-2129301"
     },
     {
@@ -616,7 +684,7 @@
       "currency": "AUD",
       "image_url": "https://store.bblcdn.com/s2/default/66f31b5738cb40a39ce8d0fde0b9222c/1.jpg",
       "part_number": "ZL023",
-      "price": "86.99",
+      "price": "60.89",
       "region": "au",
       "sku": "726332455861248002",
       "title": "L-ONE Desktop Robotic Arm - CyberBrick RC - L-ONE Desktop Robotic Arm - CyberBrick RC - ZL023",

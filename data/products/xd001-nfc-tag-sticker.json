@@ -34,72 +34,72 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/9b/9b45af9888463baeb8d1a91dff6ef75ddcdd6b38510c9da9246c29ea9d8a2a87.png",
-      "id": "image-389ddbb4617946433f09",
+      "blob_path": "data/blobs/sha256/bf/bf92979ccf5b53c406140314f41feb822bb3c94c51cf551b56c3bb6f356522c9.png",
+      "id": "image-ba2b62f4622f2ad9cc25",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "8b3d5f9f1734433693aa31779d53dc2a.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "XD001_39a8a895-dba9-4064-bff5-0cd90289c378.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "9b45af9888463baeb8d1a91dff6ef75ddcdd6b38510c9da9246c29ea9d8a2a87",
-      "size": 190872,
-      "source_url": "https://store.bblcdn.eu/s8/default/081203d7209b4eab9d6c67ac5e976000/8b3d5f9f1734433693aa31779d53dc2a.png"
+      "sha256": "bf92979ccf5b53c406140314f41feb822bb3c94c51cf551b56c3bb6f356522c9",
+      "size": 186099,
+      "source_url": "https://store.bblcdn.com/s7/default/44c5a769c1694c9cb481dabc35be6bee/XD001_39a8a895-dba9-4064-bff5-0cd90289c378.png"
     },
     {
-      "blob_path": "data/blobs/sha256/20/202a72f241f1fe4f5673fb856a7cfd638f7bbc123dc25614d84c58cd3af3df75.png",
-      "id": "image-2313d1f9ed82ac2e4261",
+      "blob_path": "data/blobs/sha256/93/935425a69154054b3c274bc827b54c783d00f31e3ef791c66817509020d3a977.png",
+      "id": "image-3e513b4ceb2f5ff7a5d4",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "XD001_d3235796-7d13-4fb7-96e9-8c41a71c3f42.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "XD001.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "202a72f241f1fe4f5673fb856a7cfd638f7bbc123dc25614d84c58cd3af3df75",
-      "size": 751961,
-      "source_url": "https://store.bblcdn.eu/s8/default/e56bf8188dd141dead2a00a6bc9288dd/XD001_d3235796-7d13-4fb7-96e9-8c41a71c3f42.png"
+      "sha256": "935425a69154054b3c274bc827b54c783d00f31e3ef791c66817509020d3a977",
+      "size": 790720,
+      "source_url": "https://store.bblcdn.com/s7/default/cb98c4d02c14426bafbdc85e3a0bb3b0/XD001.png"
     },
     {
       "blob_path": "data/blobs/sha256/75/7504f224bf9c91ae308831caf72260cd5ae4088f642e9c9587ff4f41f02f9e71.png",
-      "id": "image-display-efe89031e63452bcef21",
+      "id": "image-display-f03a7b1407a6bf65c3cd",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 202,
         "output_height": 800,
         "output_width": 800,
         "source_height": 800,
-        "source_sha256": "9b45af9888463baeb8d1a91dff6ef75ddcdd6b38510c9da9246c29ea9d8a2a87",
+        "source_sha256": "bf92979ccf5b53c406140314f41feb822bb3c94c51cf551b56c3bb6f356522c9",
         "source_width": 800
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "8b3d5f9f1734433693aa31779d53dc2a.catalog.png",
-      "parent_asset_id": "image-389ddbb4617946433f09",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "XD001_39a8a895-dba9-4064-bff5-0cd90289c378.catalog.png",
+      "parent_asset_id": "image-ba2b62f4622f2ad9cc25",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "7504f224bf9c91ae308831caf72260cd5ae4088f642e9c9587ff4f41f02f9e71",
       "size": 160721,
-      "source_url": "https://store.bblcdn.eu/s8/default/081203d7209b4eab9d6c67ac5e976000/8b3d5f9f1734433693aa31779d53dc2a.png"
+      "source_url": "https://store.bblcdn.com/s7/default/44c5a769c1694c9cb481dabc35be6bee/XD001_39a8a895-dba9-4064-bff5-0cd90289c378.png"
     },
     {
       "blob_path": "data/blobs/sha256/ef/efea7a1f4c8062216c9fb3e147f111d29c80c02db06fc07d7bb8283c61aebdaf.png",
-      "id": "image-display-f4efe3dd1b2ac315973f",
+      "id": "image-display-cc1680d9c2a55fbee0d1",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 1600,
-        "source_sha256": "202a72f241f1fe4f5673fb856a7cfd638f7bbc123dc25614d84c58cd3af3df75",
+        "source_sha256": "935425a69154054b3c274bc827b54c783d00f31e3ef791c66817509020d3a977",
         "source_width": 1600
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "XD001_d3235796-7d13-4fb7-96e9-8c41a71c3f42.catalog.png",
-      "parent_asset_id": "image-2313d1f9ed82ac2e4261",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "XD001.catalog.png",
+      "parent_asset_id": "image-3e513b4ceb2f5ff7a5d4",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "efea7a1f4c8062216c9fb3e147f111d29c80c02db06fc07d7bb8283c61aebdaf",
       "size": 174524,
-      "source_url": "https://store.bblcdn.eu/s8/default/e56bf8188dd141dead2a00a6bc9288dd/XD001_d3235796-7d13-4fb7-96e9-8c41a71c3f42.png"
+      "source_url": "https://store.bblcdn.com/s7/default/cb98c4d02c14426bafbdc85e3a0bb3b0/XD001.png"
     }
   ],
   "box_contents": [],
@@ -202,7 +202,7 @@
   "description_text": "NFC (Near Field Communication) tag stickers combine the functionality of NFC tags with a lightweight, adhesive-backed design, making them ideal for quick and versatile applications. Commonly used for contactless payments, access control, and product tracking, NFC tag stickers are particularly well-suited for embedding in 3D printing projects. They can store data such as model settings or usage instructions and can be easily affixed to 3D-printed objects. This makes them a practical and efficient choice for enhancing the interactivity and functionality of your designs.\n\nWide Compatibility: Fully compatible with most NFC-enabled devices, including smartphones, tablets, and NFC readers.\n\nEasy to Use: Durable adhesive backing ensures strong and secure attachment to various surfaces, including 3D-printed objects, metal, plastic, or wood.\n\nLightweight and Compact: Ultra-thin and lightweight design, ideal for temporary or low-impact applications, with up to 100,000 read/write cycles and 10 years of data retention.\n\nCost-Effective Solution: Offers a budget-friendly option for adding NFC functionality to projects requiring less durability or short-term use.\n\nVersatile Applications: Perfect for product labeling, ticketing, promotional campaigns, or interactive marketing materials.\n\nPrepare Your Device Ensure your device (smartphone, NFC reader, etc.) supports NFC functionality.\n\nWrite Data Download an NFC programming app like \"NFC Tools.\"\n\nOpen the app, select the “Write” option, and input the desired data (e.g., URL, text, or commands).\n\nBring the NFC tag close to the device’s NFC area to complete the writing process.\n\nTest Your Tag Test the tag by bringing it near your device to confirm successful data writing.\n\nApplication Attach or embed the NFC tag to your desired object or location (e.g., 3D printed models, smart devices).\n\nCan I rewrite data on the NFC tag Sticker? Yes, the NTAG215 chip supports multiple rewrites up to 100,000 cycles.\n\nIs the NFC tag Sticker waterproof? The PVC material provides basic water resistance, but it’s recommended to avoid prolonged exposure to water.\n\nIs it compatible with both Android and iOS devices? Yes, it is compatible with most Android and iOS devices with NFC functionality.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xd001-nfc-tag-sticker",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "NFC Tag Sticker (20pcs)",
   "offers": [

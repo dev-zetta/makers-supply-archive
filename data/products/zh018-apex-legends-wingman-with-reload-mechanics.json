@@ -34,54 +34,54 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/d1/d1f4dff19580ae361a8a74dcc1cf01a4170dcec86916e347f3e0ba6ebe8b7de1.png",
-      "id": "image-5b21886dbac2d210944a",
+      "blob_path": "data/blobs/sha256/4e/4e51f60b994714aaf5e8ab1a6054374a979f4fd194ecda75bd7a1f43a550854d.jpg",
+      "id": "image-f99af94601aca0c8f497",
       "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "APEX.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "media_type": "image/jpeg",
+      "original_filename": "Apex.jpg",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "d1f4dff19580ae361a8a74dcc1cf01a4170dcec86916e347f3e0ba6ebe8b7de1",
-      "size": 180599,
-      "source_url": "https://store.bblcdn.eu/s8/default/dee8e158d1a0427cb2b6ec5bd043c991/APEX.png"
+      "sha256": "4e51f60b994714aaf5e8ab1a6054374a979f4fd194ecda75bd7a1f43a550854d",
+      "size": 51415,
+      "source_url": "https://store.bblcdn.com/s7/default/d7be4cb88e084b3d93f6ae0567870fbb/Apex.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/94/941ba922d3faf17df839e54300052169bff9893fa2d83aa5e8e19a870a219144.png",
-      "id": "image-b6182489c6e5c5186dbd",
+      "id": "image-f7979007b3dcf9ac4154",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-DY001-1-1.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "941ba922d3faf17df839e54300052169bff9893fa2d83aa5e8e19a870a219144",
       "size": 352805,
-      "source_url": "https://store.bblcdn.eu/s8/default/2b98b59c349c42959c76d71b75894a56/B-DY001-1-1.png"
+      "source_url": "https://store.bblcdn.com/s7/default/a2d96cc199ac414f8ec5c92eff80e8ad/B-DY001-1-1.png"
     },
     {
-      "blob_path": "data/blobs/sha256/e1/e1a5094d471817e5d039f7c93502b64c7b71b0c634118f74a1f9c042ae7552a7.png",
-      "id": "image-display-c3010b8522657ff535b6",
+      "blob_path": "data/blobs/sha256/8b/8b608a69182d99c17ad814e0d79cd6b2833e7afd954728ff8e2af0727aacdcfc.png",
+      "id": "image-display-bfe71afd4c84ecb4c255",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 800,
-        "source_sha256": "d1f4dff19580ae361a8a74dcc1cf01a4170dcec86916e347f3e0ba6ebe8b7de1",
+        "source_sha256": "4e51f60b994714aaf5e8ab1a6054374a979f4fd194ecda75bd7a1f43a550854d",
         "source_width": 800
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "APEX.catalog.png",
-      "parent_asset_id": "image-5b21886dbac2d210944a",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "Apex.catalog.png",
+      "parent_asset_id": "image-f99af94601aca0c8f497",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "e1a5094d471817e5d039f7c93502b64c7b71b0c634118f74a1f9c042ae7552a7",
-      "size": 160929,
-      "source_url": "https://store.bblcdn.eu/s8/default/dee8e158d1a0427cb2b6ec5bd043c991/APEX.png"
+      "sha256": "8b608a69182d99c17ad814e0d79cd6b2833e7afd954728ff8e2af0727aacdcfc",
+      "size": 186543,
+      "source_url": "https://store.bblcdn.com/s7/default/d7be4cb88e084b3d93f6ae0567870fbb/Apex.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/b3/b3c389ef160e090c1ffb738b3c7a7474fca9096869303833ea0aea44c00e6623.png",
-      "id": "image-display-521089e5661955e87d5c",
+      "id": "image-display-8f73a632386b08f5d057",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -94,12 +94,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-DY001-1-1.catalog.png",
-      "parent_asset_id": "image-b6182489c6e5c5186dbd",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-f7979007b3dcf9ac4154",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "b3c389ef160e090c1ffb738b3c7a7474fca9096869303833ea0aea44c00e6623",
       "size": 124020,
-      "source_url": "https://store.bblcdn.eu/s8/default/2b98b59c349c42959c76d71b75894a56/B-DY001-1-1.png"
+      "source_url": "https://store.bblcdn.com/s7/default/a2d96cc199ac414f8ec5c92eff80e8ad/B-DY001-1-1.png"
     }
   ],
   "box_contents": [
@@ -156,7 +156,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling various functional Apex Legends Wingman with Reload Mechanics. To complete the work, you also need to download the Apex Legends Wingman with Reload Mechanics and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh018-apex-legends-wingman-with-reload-mechanics",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Apex Legends Wingman with Reload Mechanics",
   "offers": [

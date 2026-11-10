@@ -40,43 +40,43 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/74/744cc85795436a01d01d73e278e6f258ef108b264826fff1d56bbc78af6f4d35.jpg",
-      "id": "image-8cc9bde7246a02a38220",
+      "id": "image-1639235d3812d33e4fae",
       "kind": "image",
       "media_type": "image/jpeg",
       "original_filename": "board.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "744cc85795436a01d01d73e278e6f258ef108b264826fff1d56bbc78af6f4d35",
       "size": 391212,
-      "source_url": "https://store.bblcdn.com/s3/default/1c8b1963700f45d3a7fcebb3736a45e4/board.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/d80cacd2415f4f5686352650f047302c/board.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/55/55d810fb82c13b2dee23f7a428f1206116c03baac6efc3d1561e105acc75cf13.jpg",
-      "id": "image-84004a5d0296375b7288",
+      "id": "image-1bd94804cdd1e4d92bec",
       "kind": "image",
       "media_type": "image/jpeg",
       "original_filename": "backlightboard2.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "55d810fb82c13b2dee23f7a428f1206116c03baac6efc3d1561e105acc75cf13",
       "size": 59643,
-      "source_url": "https://store.bblcdn.com/s3/default/abc71c8399354ddab9c66442d5bb3ddc/backlightboard2.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/5450ad5b2b3f479ea817c69920a9a2ef/backlightboard2.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/a1/a195bf8a9d847756d523e506541edfb4cd6298147ab6877182d8a674bd9ff758.png",
-      "id": "image-e416ca08ece27f52cc3f",
+      "id": "image-956799f86f47f1c834cf",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "CMYKBacklightBoard.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "a195bf8a9d847756d523e506541edfb4cd6298147ab6877182d8a674bd9ff758",
       "size": 355796,
-      "source_url": "https://store.bblcdn.com/s3/default/749760ede9694f73b60bb6bfb1b371c4/CMYKBacklightBoard.png"
+      "source_url": "https://store.bblcdn.com/s7/default/20bdcf8d110b4811a5d26864a9f3934f/CMYKBacklightBoard.png"
     },
     {
       "blob_path": "data/blobs/sha256/9e/9e47b72e555da3d133d34ff4ac902279bc292ddda3e6dc252b6ce69fb5b38acc.png",
-      "id": "image-display-9e26942ca2857cbe747e",
+      "id": "image-display-e4d0ed8b99222f363df1",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -89,16 +89,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "board.catalog.png",
-      "parent_asset_id": "image-8cc9bde7246a02a38220",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-1639235d3812d33e4fae",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "9e47b72e555da3d133d34ff4ac902279bc292ddda3e6dc252b6ce69fb5b38acc",
       "size": 260084,
-      "source_url": "https://store.bblcdn.com/s3/default/1c8b1963700f45d3a7fcebb3736a45e4/board.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/d80cacd2415f4f5686352650f047302c/board.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/2c/2c53ea76b73c16e3bba7218ed5ad8d385666e2f4ad211a98c0f945e8349494ac.png",
-      "id": "image-display-b2b264eaf4535815f069",
+      "id": "image-display-3512b7166857d91f6088",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -111,16 +111,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "backlightboard2.catalog.png",
-      "parent_asset_id": "image-84004a5d0296375b7288",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-1bd94804cdd1e4d92bec",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "2c53ea76b73c16e3bba7218ed5ad8d385666e2f4ad211a98c0f945e8349494ac",
       "size": 62637,
-      "source_url": "https://store.bblcdn.com/s3/default/abc71c8399354ddab9c66442d5bb3ddc/backlightboard2.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/5450ad5b2b3f479ea817c69920a9a2ef/backlightboard2.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/8d/8d74173c230d1fa4e906766d90a3033021734284356084dd6761dd6b440f0b6b.png",
-      "id": "image-display-2e0b2fbdc2eacae87fb5",
+      "id": "image-display-ddb59885ef5565e7a3b0",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -133,12 +133,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "CMYKBacklightBoard.catalog.png",
-      "parent_asset_id": "image-e416ca08ece27f52cc3f",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-956799f86f47f1c834cf",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "8d74173c230d1fa4e906766d90a3033021734284356084dd6761dd6b440f0b6b",
       "size": 311323,
-      "source_url": "https://store.bblcdn.com/s3/default/749760ede9694f73b60bb6bfb1b371c4/CMYKBacklightBoard.png"
+      "source_url": "https://store.bblcdn.com/s7/default/20bdcf8d110b4811a5d26864a9f3934f/CMYKBacklightBoard.png"
     }
   ],
   "box_contents": [],
@@ -163,7 +163,7 @@
   "description_text": "",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "faz007-bambu-cmyk-backlight-board",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Size",
@@ -231,7 +231,7 @@
       "available": true,
       "currency": "KRW",
       "listed": true,
-      "missing_runs": 0,
+      "missing_runs": 1,
       "price": "14700",
       "region": "kr",
       "retrieved_at": "2026-08-23T00:23:31Z",

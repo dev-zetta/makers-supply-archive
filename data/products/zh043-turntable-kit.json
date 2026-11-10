@@ -34,72 +34,106 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/bb/bb1ad8f721f042c5dbe48b4f9e31d82dc20d36f6072478fa4471f48e33454757.png",
-      "id": "image-43f0d1d7019e37aa9f01",
+      "blob_path": "data/blobs/sha256/bc/bc82aa17d5b759564acd68d8e4d27fbcb60f46d308e6fa0c526daf163e4caa6c.png",
+      "id": "image-abec3af4672e47f5415f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH043_1ddd2fbf-8022-44ed-8bfe-08529c3c9eef.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "bc82aa17d5b759564acd68d8e4d27fbcb60f46d308e6fa0c526daf163e4caa6c",
+      "size": 269272,
+      "source_url": "https://store.bblcdn.com/s7/default/2207e5ae61f94e999dc0a2f418f86983/ZH043_1ddd2fbf-8022-44ed-8bfe-08529c3c9eef.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/bc/bc82aa17d5b759564acd68d8e4d27fbcb60f46d308e6fa0c526daf163e4caa6c.png",
+      "id": "image-dc4b5bf66c6d21eacb14",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH043.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "bb1ad8f721f042c5dbe48b4f9e31d82dc20d36f6072478fa4471f48e33454757",
-      "size": 285367,
-      "source_url": "https://store.bblcdn.com/s2/default/c3a10ad2b0834a80a5a0c7a87d2bb923/ZH043.png"
+      "sha256": "bc82aa17d5b759564acd68d8e4d27fbcb60f46d308e6fa0c526daf163e4caa6c",
+      "size": 269272,
+      "source_url": "https://store.bblcdn.com/s7/default/5b289adfc7734a0c9ed25d7870592900/ZH043.png"
     },
     {
-      "blob_path": "data/blobs/sha256/9f/9ff6ce052833cccaec5451c2863b7f026f2a601a56909d36a105afc06ab77983.jpg",
-      "id": "image-dab7841eac46f51dd2af",
+      "blob_path": "data/blobs/sha256/9b/9b63a4b692f9b4245f908558ba15aade858f5619a9ff08a21a5269fdbb8f9b48.jpg",
+      "id": "image-501241c87d452b9ee030",
       "kind": "image",
       "media_type": "image/jpeg",
-      "original_filename": "B-ZH043.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "B-ZH043_e73e04c5-1ca0-4e28-b2ed-06271332ea82.jpg",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "9ff6ce052833cccaec5451c2863b7f026f2a601a56909d36a105afc06ab77983",
-      "size": 468857,
-      "source_url": "https://store.bblcdn.com/s2/default/af838bc35fe049adb5c530b4aa4f9237/B-ZH043.jpg"
+      "sha256": "9b63a4b692f9b4245f908558ba15aade858f5619a9ff08a21a5269fdbb8f9b48",
+      "size": 87935,
+      "source_url": "https://store.bblcdn.com/s7/default/f22c1d5dd08a4d1b9eeaf2678ecc1a1b/B-ZH043_e73e04c5-1ca0-4e28-b2ed-06271332ea82.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/ce/ce39e91a4b11f49fb243816ac23379cce291119c635e36ab4a5832e7a7d3f34e.png",
-      "id": "image-display-a5bc4a094697192bf3ad",
+      "id": "image-display-af679835e197f879964b",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 829,
-        "source_sha256": "bb1ad8f721f042c5dbe48b4f9e31d82dc20d36f6072478fa4471f48e33454757",
+        "source_sha256": "bc82aa17d5b759564acd68d8e4d27fbcb60f46d308e6fa0c526daf163e4caa6c",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH043_1ddd2fbf-8022-44ed-8bfe-08529c3c9eef.catalog.png",
+      "parent_asset_id": "image-abec3af4672e47f5415f",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "ce39e91a4b11f49fb243816ac23379cce291119c635e36ab4a5832e7a7d3f34e",
+      "size": 228071,
+      "source_url": "https://store.bblcdn.com/s7/default/2207e5ae61f94e999dc0a2f418f86983/ZH043_1ddd2fbf-8022-44ed-8bfe-08529c3c9eef.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/ce/ce39e91a4b11f49fb243816ac23379cce291119c635e36ab4a5832e7a7d3f34e.png",
+      "id": "image-display-5f91becf85db4317a784",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 829,
+        "source_sha256": "bc82aa17d5b759564acd68d8e4d27fbcb60f46d308e6fa0c526daf163e4caa6c",
         "source_width": 800
       },
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH043.catalog.png",
-      "parent_asset_id": "image-43f0d1d7019e37aa9f01",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-dc4b5bf66c6d21eacb14",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "ce39e91a4b11f49fb243816ac23379cce291119c635e36ab4a5832e7a7d3f34e",
       "size": 228071,
-      "source_url": "https://store.bblcdn.com/s2/default/c3a10ad2b0834a80a5a0c7a87d2bb923/ZH043.png"
+      "source_url": "https://store.bblcdn.com/s7/default/5b289adfc7734a0c9ed25d7870592900/ZH043.png"
     },
     {
-      "blob_path": "data/blobs/sha256/de/de78187356dc3a614d3878f41ed811fd425603264a8a5c1de58732c9091ab257.png",
-      "id": "image-display-5c164e7f1ea33ad8abed",
+      "blob_path": "data/blobs/sha256/22/22269483bffa47079892a8eb256fcda37fa7f09018d4068988ebee8597e71694.png",
+      "id": "image-display-a381ad1adde1edf01cc8",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 1600,
-        "source_sha256": "9ff6ce052833cccaec5451c2863b7f026f2a601a56909d36a105afc06ab77983",
+        "source_sha256": "9b63a4b692f9b4245f908558ba15aade858f5619a9ff08a21a5269fdbb8f9b48",
         "source_width": 1600
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "B-ZH043.catalog.png",
-      "parent_asset_id": "image-dab7841eac46f51dd2af",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "B-ZH043_e73e04c5-1ca0-4e28-b2ed-06271332ea82.catalog.png",
+      "parent_asset_id": "image-501241c87d452b9ee030",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "de78187356dc3a614d3878f41ed811fd425603264a8a5c1de58732c9091ab257",
-      "size": 163213,
-      "source_url": "https://store.bblcdn.com/s2/default/af838bc35fe049adb5c530b4aa4f9237/B-ZH043.jpg"
+      "sha256": "22269483bffa47079892a8eb256fcda37fa7f09018d4068988ebee8597e71694",
+      "size": 161570,
+      "source_url": "https://store.bblcdn.com/s7/default/f22c1d5dd08a4d1b9eeaf2678ecc1a1b/B-ZH043_e73e04c5-1ca0-4e28-b2ed-06271332ea82.jpg"
     }
   ],
   "box_contents": [
@@ -185,7 +219,7 @@
   "description_text": "Your PrintMon, Your Stage! Ever dreamed of adding your own twist to a popular animation? With PrintMon Maker, you can turn those ideas into reality and transform them into real, tangible creations! No 3D modeling skills are required—this AI-powered generator helps you hatch your one-of-a-kind PrintMon effortlessly.\n\nTo showcase your unique creation, pair it with our Turntable Kit—the perfect stage for your PrintMon. Designed with rechargeable components and 608ZZ bearings, this kit ensures smooth, quiet rotations while enhancing load-bearing capacity. The turntable supports 360-degree rotation, bringing your design to life and making every angle shine.\n\nStart creating your own PrintMon today with PrintMon Maker, and let the Turntable Kit elevate your creations to the next level!\n\nPlease ensure that the motherboard battery and output interface are connected correctly according to the markings. Incorrect connections may affect device usage and charging.\n\nPlease use within the rated power.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh043-turntable-kit",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Turntable Kit",
   "offers": [
@@ -256,7 +290,7 @@
   "related_links": [
     {
       "kind": "makerworld",
-      "title": "PrintMon Maker",
+      "title": "PrintMon Maker,",
       "url": "https://makerworld.com/makerlab/printMonMaker?from=makersupply"
     },
     {

@@ -34,72 +34,72 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/15/15d3d6b78d74ba6946b46ea7834f68ad11d6893bc64cfebda9e51e16889b8f2d.png",
-      "id": "image-f4f6038e380dfdf659ab",
+      "blob_path": "data/blobs/sha256/a4/a4e5d03c624e0bbc48032956e9297c0d86cd34f24fb00efa11281bd5bc74ce00.png",
+      "id": "image-3ab3eb0fb21ab1159933",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "3bbe6f36175140388269f74b5dbc58b5.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "NB008-2.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "15d3d6b78d74ba6946b46ea7834f68ad11d6893bc64cfebda9e51e16889b8f2d",
-      "size": 104273,
-      "source_url": "https://store.bblcdn.com/3bbe6f36175140388269f74b5dbc58b5.png"
+      "sha256": "a4e5d03c624e0bbc48032956e9297c0d86cd34f24fb00efa11281bd5bc74ce00",
+      "size": 126909,
+      "source_url": "https://store.bblcdn.com/s7/default/559f95b397be43fd886596c4ef0e8330/NB008-2.png"
     },
     {
-      "blob_path": "data/blobs/sha256/0a/0ada6aa680d5c823b6c44747af507cdf2f9fb4584f98e19d84927bfd5fce2743.png",
-      "id": "image-9334f865ec57abb2dc3f",
+      "blob_path": "data/blobs/sha256/79/796f760bf2cc943f9176cc2046ebac6a5ef5cd8eb9afe169d3e38619ddd1234e.png",
+      "id": "image-635555559673118b9a6a",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "9dd4752af2b54ec9b9376a2627baa84a.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "NB008_b4ce1c99-b525-4ea1-b7f0-b36b1a926fbc.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "0ada6aa680d5c823b6c44747af507cdf2f9fb4584f98e19d84927bfd5fce2743",
-      "size": 136978,
-      "source_url": "https://store.bblcdn.com/9dd4752af2b54ec9b9376a2627baa84a.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/2a/2adb2d7907f2e7e1845fa043a471259af9b2424079b0aa3d645a7e3eb0578aa3.png",
-      "id": "image-display-d7e2cdbf3c69573d6118",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 800,
-        "source_sha256": "15d3d6b78d74ba6946b46ea7834f68ad11d6893bc64cfebda9e51e16889b8f2d",
-        "source_width": 800
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "3bbe6f36175140388269f74b5dbc58b5.catalog.png",
-      "parent_asset_id": "image-f4f6038e380dfdf659ab",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "2adb2d7907f2e7e1845fa043a471259af9b2424079b0aa3d645a7e3eb0578aa3",
-      "size": 88720,
-      "source_url": "https://store.bblcdn.com/3bbe6f36175140388269f74b5dbc58b5.png"
+      "sha256": "796f760bf2cc943f9176cc2046ebac6a5ef5cd8eb9afe169d3e38619ddd1234e",
+      "size": 99108,
+      "source_url": "https://store.bblcdn.com/s7/default/8541ca58cb0c496580832878ca8aadf7/NB008_b4ce1c99-b525-4ea1-b7f0-b36b1a926fbc.png"
     },
     {
       "blob_path": "data/blobs/sha256/d5/d5328b9816bba629ab4b3bae0a98a91aba74b7727ab6b0f73c9a5f2e01fe9f71.png",
-      "id": "image-display-7798be50aca6621ccb0e",
+      "id": "image-display-adb4333e35adfc12d3cf",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 800,
-        "source_sha256": "0ada6aa680d5c823b6c44747af507cdf2f9fb4584f98e19d84927bfd5fce2743",
+        "source_sha256": "a4e5d03c624e0bbc48032956e9297c0d86cd34f24fb00efa11281bd5bc74ce00",
         "source_width": 800
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "9dd4752af2b54ec9b9376a2627baa84a.catalog.png",
-      "parent_asset_id": "image-9334f865ec57abb2dc3f",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "NB008-2.catalog.png",
+      "parent_asset_id": "image-3ab3eb0fb21ab1159933",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "d5328b9816bba629ab4b3bae0a98a91aba74b7727ab6b0f73c9a5f2e01fe9f71",
       "size": 115870,
-      "source_url": "https://store.bblcdn.com/9dd4752af2b54ec9b9376a2627baa84a.png"
+      "source_url": "https://store.bblcdn.com/s7/default/559f95b397be43fd886596c4ef0e8330/NB008-2.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2a/2adb2d7907f2e7e1845fa043a471259af9b2424079b0aa3d645a7e3eb0578aa3.png",
+      "id": "image-display-c61a7d34ab168a06b74a",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "796f760bf2cc943f9176cc2046ebac6a5ef5cd8eb9afe169d3e38619ddd1234e",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "NB008_b4ce1c99-b525-4ea1-b7f0-b36b1a926fbc.catalog.png",
+      "parent_asset_id": "image-635555559673118b9a6a",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "2adb2d7907f2e7e1845fa043a471259af9b2424079b0aa3d645a7e3eb0578aa3",
+      "size": 88720,
+      "source_url": "https://store.bblcdn.com/s7/default/8541ca58cb0c496580832878ca8aadf7/NB008_b4ce1c99-b525-4ea1-b7f0-b36b1a926fbc.png"
     }
   ],
   "box_contents": [],
@@ -150,7 +150,7 @@
   "description_text": "Long-lasting and strong\n\nReady-to-peel cut-to-size\n\nEasy to bend and adjust shape\n\nSuitable for fitting right-angled edges without leaving any gaps\n\nAdheres to a wide range of surfaces such as wood, glass, plastic, metal, etc.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "nb008-rectangular-transparent-double-sided-adhesive",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "L (mm) Length",

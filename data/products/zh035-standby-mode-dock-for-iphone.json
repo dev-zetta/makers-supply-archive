@@ -34,72 +34,72 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/48/4834c670c8927316e1c95ec713c207b4fd1d30777ada6e37bd8ad58759f9edd5.jpg",
-      "id": "image-9dce5ef0a8431fe6eff0",
+      "blob_path": "data/blobs/sha256/ef/ef3ab738713924a88a016bbfc13bcbaadc30f06e01287e6d62ef374e63db705f.jpg",
+      "id": "image-e77ad75a1751ffea92ad",
       "kind": "image",
       "media_type": "image/jpeg",
-      "original_filename": "8fa41da494154961a8fee523b692009c.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "444.jpg",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "4834c670c8927316e1c95ec713c207b4fd1d30777ada6e37bd8ad58759f9edd5",
-      "size": 557501,
-      "source_url": "https://store.bblcdn.com/8fa41da494154961a8fee523b692009c.jpg"
+      "sha256": "ef3ab738713924a88a016bbfc13bcbaadc30f06e01287e6d62ef374e63db705f",
+      "size": 66115,
+      "source_url": "https://store.bblcdn.com/s7/default/8ee53b6369e742329ef9fa59e0424b6c/444.jpg"
     },
     {
-      "blob_path": "data/blobs/sha256/dc/dceedfe6137742ac1d23271b3d4a46e2b560d7ceb972ba6a02054ffd8e6fd062.png",
-      "id": "image-6da879fce92763c7158d",
+      "blob_path": "data/blobs/sha256/ab/ab9cd0766015b6ecd8d64934e2cab89d052ca2f52e3aa62e037609bce09d3181.png",
+      "id": "image-6d7bd93f7f2df2107642",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "bbee2d4adfe14bc19f459366ecb8fe1a.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "be0f9d1f59f06d7d8ba43844094a8c3f.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "dceedfe6137742ac1d23271b3d4a46e2b560d7ceb972ba6a02054ffd8e6fd062",
-      "size": 143186,
-      "source_url": "https://store.bblcdn.com/bbee2d4adfe14bc19f459366ecb8fe1a.png"
+      "sha256": "ab9cd0766015b6ecd8d64934e2cab89d052ca2f52e3aa62e037609bce09d3181",
+      "size": 135718,
+      "source_url": "https://store.bblcdn.com/s7/default/591e26fe32834210a9c882f474c3eb77/be0f9d1f59f06d7d8ba43844094a8c3f.png"
     },
     {
-      "blob_path": "data/blobs/sha256/63/639af6d192a53c69f7ff21e4d551ca8a5ea764d4f8916ad04125143e603e6689.png",
-      "id": "image-display-8cbf79a76552330eebe3",
+      "blob_path": "data/blobs/sha256/de/deaeacf5bc8da244ac7c6bd9b3d77b3ea6b22a75b0e5ccafd27d507204e22266.png",
+      "id": "image-display-7226a32c4a4689e572cb",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 800,
-        "source_sha256": "4834c670c8927316e1c95ec713c207b4fd1d30777ada6e37bd8ad58759f9edd5",
+        "source_sha256": "ef3ab738713924a88a016bbfc13bcbaadc30f06e01287e6d62ef374e63db705f",
         "source_width": 800
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "8fa41da494154961a8fee523b692009c.catalog.png",
-      "parent_asset_id": "image-9dce5ef0a8431fe6eff0",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "444.catalog.png",
+      "parent_asset_id": "image-e77ad75a1751ffea92ad",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "639af6d192a53c69f7ff21e4d551ca8a5ea764d4f8916ad04125143e603e6689",
-      "size": 814166,
-      "source_url": "https://store.bblcdn.com/8fa41da494154961a8fee523b692009c.jpg"
+      "sha256": "deaeacf5bc8da244ac7c6bd9b3d77b3ea6b22a75b0e5ccafd27d507204e22266",
+      "size": 357908,
+      "source_url": "https://store.bblcdn.com/s7/default/8ee53b6369e742329ef9fa59e0424b6c/444.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/13/131ff15274f4512e25edf0b05d0f3cb9287445bfaa25c77010a8eac9b55a6c3f.png",
-      "id": "image-display-8503b5dbec1df1d01543",
+      "id": "image-display-2f8b14faa337f19fed8a",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 1600,
-        "source_sha256": "dceedfe6137742ac1d23271b3d4a46e2b560d7ceb972ba6a02054ffd8e6fd062",
+        "source_sha256": "ab9cd0766015b6ecd8d64934e2cab89d052ca2f52e3aa62e037609bce09d3181",
         "source_width": 1600
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "bbee2d4adfe14bc19f459366ecb8fe1a.catalog.png",
-      "parent_asset_id": "image-6da879fce92763c7158d",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "be0f9d1f59f06d7d8ba43844094a8c3f.catalog.png",
+      "parent_asset_id": "image-6d7bd93f7f2df2107642",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "131ff15274f4512e25edf0b05d0f3cb9287445bfaa25c77010a8eac9b55a6c3f",
       "size": 47215,
-      "source_url": "https://store.bblcdn.com/bbee2d4adfe14bc19f459366ecb8fe1a.png"
+      "source_url": "https://store.bblcdn.com/s7/default/591e26fe32834210a9c882f474c3eb77/be0f9d1f59f06d7d8ba43844094a8c3f.png"
     }
   ],
   "box_contents": [
@@ -148,7 +148,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling a functional Standby Mode Dock for iPhone. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Standby Mode Dock for iPhone and obtain detailed information, please visit the Standby Mode Dock for iPhone on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh035-standby-mode-dock-for-iphone",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Standby Mode Dock for iPhone",
   "offers": [

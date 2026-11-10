@@ -35,27 +35,27 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/a3/a34992db8d482cdaab2d3577cf45f15b9c74e70c242da43cd8e82a5950423bb9.jpg",
-      "id": "image-d82cad8cfd1d818a648c",
+      "id": "image-d64d920edb5b312e4cc8",
       "kind": "image",
       "media_type": "image/jpeg",
-      "original_filename": "494434042085076992.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "20240412-191604.jpg",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "a34992db8d482cdaab2d3577cf45f15b9c74e70c242da43cd8e82a5950423bb9",
       "size": 127017,
-      "source_url": "https://store.bblcdn.com/494434042085076992.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/5cf3c461f26948de9d1a1d2370d50b3f/20240412-191604.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/63/63f5184004c55970bfaf1867bbf5ff4c8a4d3f1ab3e60318d4ab8c73b24a9c27.png",
-      "id": "image-d8dcd39ce852a0f917ec",
+      "id": "image-a09b061aed434c593023",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "494434039408775168.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "USBSpeedController-CompatiblewithTTmotor-1.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "63f5184004c55970bfaf1867bbf5ff4c8a4d3f1ab3e60318d4ab8c73b24a9c27",
       "size": 625256,
-      "source_url": "https://store.bblcdn.com/494434039408775168.png"
+      "source_url": "https://store.bblcdn.com/s7/default/3d622e43b0b443a8b4a72151d9d3b07d/USBSpeedController-CompatiblewithTTmotor-1.png"
     },
     {
       "blob_path": "data/blobs/sha256/9d/9df0c6cf1cb18b63de0c05e5dd51ca9e181a547c015cc2603ec09c7e84e09e3e.pdf",
@@ -111,7 +111,7 @@
     },
     {
       "blob_path": "data/blobs/sha256/31/31e4827eb14b2fe4db4572735a15412e5bdca9043facaeeaec81345a2239eb0d.png",
-      "id": "image-display-2573c7a3164c1515d931",
+      "id": "image-display-74f7324d810db89b827b",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 404,
@@ -123,17 +123,17 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "494434042085076992.catalog.png",
-      "parent_asset_id": "image-d82cad8cfd1d818a648c",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "20240412-191604.catalog.png",
+      "parent_asset_id": "image-d64d920edb5b312e4cc8",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "31e4827eb14b2fe4db4572735a15412e5bdca9043facaeeaec81345a2239eb0d",
       "size": 169055,
-      "source_url": "https://store.bblcdn.com/494434042085076992.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/5cf3c461f26948de9d1a1d2370d50b3f/20240412-191604.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/7c/7ca1a107f37a1ed88be5ccae834d005c2421720eed190500d2502044ee9ecad9.png",
-      "id": "image-display-36514f6c1d7d7895235d",
+      "id": "image-display-753e64e66984aaea82e4",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -145,13 +145,13 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "494434039408775168.catalog.png",
-      "parent_asset_id": "image-d8dcd39ce852a0f917ec",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "USBSpeedController-CompatiblewithTTmotor-1.catalog.png",
+      "parent_asset_id": "image-a09b061aed434c593023",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "7ca1a107f37a1ed88be5ccae834d005c2421720eed190500d2502044ee9ecad9",
       "size": 150944,
-      "source_url": "https://store.bblcdn.com/494434039408775168.png"
+      "source_url": "https://store.bblcdn.com/s7/default/3d622e43b0b443a8b4a72151d9d3b07d/USBSpeedController-CompatiblewithTTmotor-1.png"
     }
   ],
   "box_contents": [],
@@ -238,7 +238,7 @@
   "description_text": "Plug the connector of the USB Speed Controller into a power source such as a phone charger, power bank, or computer USB interface (Ensure that the power of the power port is greater than the power required by the USB Speed Controller). Then, connect the TT motor with the female port of the speed controller. The speed controller defaults to output on.\n\nTurn the thumbwheel counter-clockwise to increase voltage. Turn clockwise to decrease voltage.\n\nClick the thumbwheel once to turn output ON/OFF.\n\nDouble-click the thumbwheel to turn off the LED display. Press any button to wake up the digital display.\n\nSoft-start function\n\nCNC voltage regulation\n\nAutomatic shutdown function\n\nDouble-click to turn off digital display screen\n\nLong press the thumbwheel for 3 seconds to enter the time setting interface. The \"---\" display represents timer OFF, and the number displayed represents timer ON.\n\nIn the setting interface, click the thumbwheel once to switch timer function ON/OFF.\n\nIn the setting interface, turn the thumbwheel to the left side to increase the timer. Turn it to the right to decrease the timer.\n\nLong press the thumbwheel for 3 seconds to exit the interface and countdown starts.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ia002-usb-speed-controller-compatible-with-tt-motor",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Product Size (mm)",

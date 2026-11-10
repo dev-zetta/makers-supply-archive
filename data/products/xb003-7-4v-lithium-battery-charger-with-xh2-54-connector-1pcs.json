@@ -34,28 +34,28 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/cc/cc90fc8494f86b702d7b53b42c8cd639b3f04bf66dfb29d2a20b1d04cd03104a.png",
-      "id": "image-83140ac47b5ea4db4f13",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "bianti_97d9fc77-aa38-4d56-b4b9-180bec2911a8.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "cc90fc8494f86b702d7b53b42c8cd639b3f04bf66dfb29d2a20b1d04cd03104a",
-      "size": 87289,
-      "source_url": "https://store.bblcdn.eu/s8/default/eb3eb8ccc2fc411aa60a5b8e3a9d2001/bianti_97d9fc77-aa38-4d56-b4b9-180bec2911a8.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/a5/a51239633665555693b58b6551830774da04f55904910cfa0422083aa1da757d.png",
-      "id": "image-7210b7532f072bdb15d8",
+      "blob_path": "data/blobs/sha256/40/401088e193831518c9cb3f4a9a791bacd27ab735095eaac38ee5c5204a1f50df.png",
+      "id": "image-5c85a7227707d62bdbdc",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "output.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "a51239633665555693b58b6551830774da04f55904910cfa0422083aa1da757d",
-      "size": 1152379,
-      "source_url": "https://store.bblcdn.eu/s8/default/cb1a32313d4542fc9483e3fde2a208fd/output.png"
+      "sha256": "401088e193831518c9cb3f4a9a791bacd27ab735095eaac38ee5c5204a1f50df",
+      "size": 1152331,
+      "source_url": "https://store.bblcdn.com/s7/default/9f7f5b0041ef4e4eb9d42b82bfa2d8bb/output.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7d/7d090bc6fcd26c2a566a28ea9182511627533fc209414e6d17651de91a448839.png",
+      "id": "image-4d9fd4eccea33068c2d4",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "bianti.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "7d090bc6fcd26c2a566a28ea9182511627533fc209414e6d17651de91a448839",
+      "size": 87241,
+      "source_url": "https://store.bblcdn.com/s7/default/76129bd17fb4460daaa3122465c8d0ee/bianti.png"
     },
     {
       "blob_path": "data/blobs/sha256/96/967e8467c30f8bd9f8b809b2b384ca05282bc75e8487d4dfda2915cac95b62de.pdf",
@@ -70,48 +70,48 @@
       "source_url": "https://store.bblcdn.com/s1/default/917b748ea20f40c5aa77050b60910435/XB003_Specification.pdf"
     },
     {
-      "blob_path": "data/blobs/sha256/50/500add91a34911c9f898bf88a9f172d4f74156f69ce222acd5bdce8e52e304f3.png",
-      "id": "image-display-3d77bd0c266ce5623a7a",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 202,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 800,
-        "source_sha256": "cc90fc8494f86b702d7b53b42c8cd639b3f04bf66dfb29d2a20b1d04cd03104a",
-        "source_width": 800
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "bianti_97d9fc77-aa38-4d56-b4b9-180bec2911a8.catalog.png",
-      "parent_asset_id": "image-83140ac47b5ea4db4f13",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "500add91a34911c9f898bf88a9f172d4f74156f69ce222acd5bdce8e52e304f3",
-      "size": 70814,
-      "source_url": "https://store.bblcdn.eu/s8/default/eb3eb8ccc2fc411aa60a5b8e3a9d2001/bianti_97d9fc77-aa38-4d56-b4b9-180bec2911a8.png"
-    },
-    {
       "blob_path": "data/blobs/sha256/5f/5f379233ac3a1c4b473426094a67f0de57a3a824d56d46a654acf0f0806074ba.png",
-      "id": "image-display-b4f6594fde0547ddf999",
+      "id": "image-display-a35a5e1a213e4b057b45",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 2000,
-        "source_sha256": "a51239633665555693b58b6551830774da04f55904910cfa0422083aa1da757d",
+        "source_sha256": "401088e193831518c9cb3f4a9a791bacd27ab735095eaac38ee5c5204a1f50df",
         "source_width": 2000
       },
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "output.catalog.png",
-      "parent_asset_id": "image-7210b7532f072bdb15d8",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-5c85a7227707d62bdbdc",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "5f379233ac3a1c4b473426094a67f0de57a3a824d56d46a654acf0f0806074ba",
       "size": 146722,
-      "source_url": "https://store.bblcdn.eu/s8/default/cb1a32313d4542fc9483e3fde2a208fd/output.png"
+      "source_url": "https://store.bblcdn.com/s7/default/9f7f5b0041ef4e4eb9d42b82bfa2d8bb/output.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/50/500add91a34911c9f898bf88a9f172d4f74156f69ce222acd5bdce8e52e304f3.png",
+      "id": "image-display-01dd430a1d6f51a3f949",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 202,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "7d090bc6fcd26c2a566a28ea9182511627533fc209414e6d17651de91a448839",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "bianti.catalog.png",
+      "parent_asset_id": "image-4d9fd4eccea33068c2d4",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "500add91a34911c9f898bf88a9f172d4f74156f69ce222acd5bdce8e52e304f3",
+      "size": 70814,
+      "source_url": "https://store.bblcdn.com/s7/default/76129bd17fb4460daaa3122465c8d0ee/bianti.png"
     }
   ],
   "box_contents": [],
@@ -169,7 +169,7 @@
   "description_text": "This charger is equipped with a standard XH2.54 connector and is suitable for charging the 14500 7.4V 800mAh Li-ion Battery. It is widely used in battery-powered applications such as model toys, small robots, and DIY projects.\n\nOutput short-circuit and reverse polarity protection.\n\nLED Indicator Status: Indicator is off when power is connected / Red LED lights up during charging / Red LED turns off when charging is complete\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. Do not use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards. Do not cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nThe company is not responsible for any device damage, malfunction, fire, or other losses resulting from failure to comply with the above requirements. Please strictly follow the safety instructions for this product.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xb003-7-4v-lithium-battery-charger-with-xh2-54-connector-1pcs",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Length (cm)",

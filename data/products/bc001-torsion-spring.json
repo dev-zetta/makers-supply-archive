@@ -34,18 +34,6 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/00/00082561dd84efaf09104e4117e437cca18f13f50e18873c54355c75be37623d.png",
-      "id": "image-195931014778728eef8c",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "BC001_ee651374-a163-491f-96af-a64867141017.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "00082561dd84efaf09104e4117e437cca18f13f50e18873c54355c75be37623d",
-      "size": 64733,
-      "source_url": "https://store.bblcdn.com/s7/default/691d6e2b793746708eb44f7b53091902/BC001_ee651374-a163-491f-96af-a64867141017.png"
-    },
-    {
       "blob_path": "data/blobs/sha256/3b/3b1e6176b557ef9925fb5e14d6af8d494f5d48cf133b84ae041a2723a486681b.png",
       "id": "image-cd6ad9c7c94dc693079a",
       "kind": "image",
@@ -104,6 +92,18 @@
       "sha256": "3fb445ee2ad60f55f5cca31ca708cc8e3c5155766cf7f04d74a5e2ad8aebee60",
       "size": 195701,
       "source_url": "https://store.bblcdn.com/s7/default/285b31d39707405392ebf5198bd92f5e/FAC036-3_e0e3c405-423b-4ffb-bc79-e2c29a909bef.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/00/00082561dd84efaf09104e4117e437cca18f13f50e18873c54355c75be37623d.png",
+      "id": "image-195931014778728eef8c",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "BC001_ee651374-a163-491f-96af-a64867141017.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "00082561dd84efaf09104e4117e437cca18f13f50e18873c54355c75be37623d",
+      "size": 64733,
+      "source_url": "https://store.bblcdn.com/s7/default/691d6e2b793746708eb44f7b53091902/BC001_ee651374-a163-491f-96af-a64867141017.png"
     },
     {
       "blob_path": "data/blobs/sha256/02/0244861bcfff9ea9a4fad6058793803f08edcd8aa3018a0019244e9aeaaa3afa.png",
@@ -378,28 +378,6 @@
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
-      "blob_path": "data/blobs/sha256/65/65b0ebc567a0ce5b4e68813452f6e7b101f3dc70d95524fe4f78ce4c90e91e92.png",
-      "id": "image-display-7c59602b654b231dd34e",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 202,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 800,
-        "source_sha256": "00082561dd84efaf09104e4117e437cca18f13f50e18873c54355c75be37623d",
-        "source_width": 800
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "BC001_ee651374-a163-491f-96af-a64867141017.catalog.png",
-      "parent_asset_id": "image-195931014778728eef8c",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "65b0ebc567a0ce5b4e68813452f6e7b101f3dc70d95524fe4f78ce4c90e91e92",
-      "size": 54139,
-      "source_url": "https://store.bblcdn.com/s7/default/691d6e2b793746708eb44f7b53091902/BC001_ee651374-a163-491f-96af-a64867141017.png"
-    },
-    {
       "blob_path": "data/blobs/sha256/b1/b1eedf258a661cd2246c3398dc409670804271b16032c3669fef4a3a24d02d4c.png",
       "id": "image-display-6c87b7ae73121ece9e88",
       "image_processing": {
@@ -510,6 +488,28 @@
       "source_url": "https://store.bblcdn.com/s7/default/285b31d39707405392ebf5198bd92f5e/FAC036-3_e0e3c405-423b-4ffb-bc79-e2c29a909bef.png"
     },
     {
+      "blob_path": "data/blobs/sha256/65/65b0ebc567a0ce5b4e68813452f6e7b101f3dc70d95524fe4f78ce4c90e91e92.png",
+      "id": "image-display-7c59602b654b231dd34e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 202,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "00082561dd84efaf09104e4117e437cca18f13f50e18873c54355c75be37623d",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "BC001_ee651374-a163-491f-96af-a64867141017.catalog.png",
+      "parent_asset_id": "image-195931014778728eef8c",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "sha256": "65b0ebc567a0ce5b4e68813452f6e7b101f3dc70d95524fe4f78ce4c90e91e92",
+      "size": 54139,
+      "source_url": "https://store.bblcdn.com/s7/default/691d6e2b793746708eb44f7b53091902/BC001_ee651374-a163-491f-96af-a64867141017.png"
+    },
+    {
       "blob_path": "data/blobs/sha256/69/690fe9e1804191d224bf230ef32a00f92e49aeaaf4778ffee0570f27e81450f4.png",
       "id": "image-display-efd5916f186e2ad8c958",
       "image_processing": {
@@ -594,7 +594,7 @@
   "description_text": "Exceeding the maximum allowable deflection can lead to torsional spring fatigue. As the spring rate increases due to higher loads, the load curve rises accordingly, resulting in high stresses that can cause spring fractures.\n\nIn applications without pre-torsion, gaps may cause the spring to vibrate vertically, leading to spring twisting. With pre-torsion, the spring tends to be more stable.\n\nWhen springs are used in a transverse orientation, it may cause wear and fracture of the guide pin and the spring.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "bc001-torsion-spring",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Torsion Spring",
   "offers": [
@@ -724,7 +724,7 @@
       "provenance": {
         "kind": "page_table",
         "reference": "table:0",
-        "source_url": "https://us.store.bambulab.com/products/torsion-spring?id=42102905667720"
+        "source_url": "https://us.store.bambulab.com/products/torsion-spring?id=42102905700488"
       },
       "rows": [
         [
@@ -795,7 +795,7 @@
       "provenance": {
         "kind": "page_table",
         "reference": "table:1",
-        "source_url": "https://us.store.bambulab.com/products/torsion-spring?id=42102905667720"
+        "source_url": "https://us.store.bambulab.com/products/torsion-spring?id=42102905700488"
       },
       "rows": [
         [
@@ -818,7 +818,7 @@
       "provenance": {
         "kind": "page_table",
         "reference": "table:2",
-        "source_url": "https://us.store.bambulab.com/products/torsion-spring?id=42102905667720"
+        "source_url": "https://us.store.bambulab.com/products/torsion-spring?id=42102905700488"
       },
       "rows": [
         [
@@ -846,18 +846,6 @@
   },
   "tags": [],
   "variants": [
-    {
-      "available": true,
-      "currency": "USD",
-      "image_url": "https://store.bblcdn.com/s7/default/691d6e2b793746708eb44f7b53091902/BC001_ee651374-a163-491f-96af-a64867141017.png",
-      "part_number": "BC001",
-      "price": "1.64",
-      "region": "us",
-      "sku": "42102905667720",
-      "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
-      "url": "https://us.store.bambulab.com/products/torsion-spring?id=42102905667720",
-      "variant_id": "42102905667720"
-    },
     {
       "available": true,
       "currency": "USD",
@@ -920,15 +908,15 @@
     },
     {
       "available": true,
-      "currency": "CAD",
-      "image_url": "https://store.bblcdn.com/s5/default/edebdab5f15c4676b76ebb2e02018ef8.png",
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/691d6e2b793746708eb44f7b53091902/BC001_ee651374-a163-491f-96af-a64867141017.png",
       "part_number": "BC001",
-      "price": "1.99",
-      "region": "ca",
-      "sku": "45648858087664",
+      "price": "1.64",
+      "region": "us",
+      "sku": "42102905667720",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
-      "url": "https://ca.store.bambulab.com/products/torsion-spring?id=45648858087664",
-      "variant_id": "45648858087664"
+      "url": "https://us.store.bambulab.com/products/torsion-spring?id=42102905667720",
+      "variant_id": "42102905667720"
     },
     {
       "available": true,
@@ -992,15 +980,15 @@
     },
     {
       "available": true,
-      "currency": "EUR",
-      "image_url": "https://store.bblcdn.eu/s8/default/9f14bf3175d144f98e46f5f5919fdb2e/BC001_4ae6612a-5fc3-48a9-a88e-856bb48a94f0.png",
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/edebdab5f15c4676b76ebb2e02018ef8.png",
       "part_number": "BC001",
-      "price": "2.49",
-      "region": "eu",
-      "sku": "47966956093788",
+      "price": "1.99",
+      "region": "ca",
+      "sku": "45648858087664",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
-      "url": "https://eu.store.bambulab.com/products/torsion-spring?id=47966956093788",
-      "variant_id": "47966956093788"
+      "url": "https://ca.store.bambulab.com/products/torsion-spring?id=45648858087664",
+      "variant_id": "45648858087664"
     },
     {
       "available": true,
@@ -1064,15 +1052,15 @@
     },
     {
       "available": true,
-      "currency": "GBP",
-      "image_url": "https://store.bblcdn.eu/026117ab43ad4c2a9af353744c30f8c6.png",
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/9f14bf3175d144f98e46f5f5919fdb2e/BC001_4ae6612a-5fc3-48a9-a88e-856bb48a94f0.png",
       "part_number": "BC001",
       "price": "2.49",
-      "region": "uk",
-      "sku": "41313805566012",
+      "region": "eu",
+      "sku": "47966956093788",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
-      "url": "https://uk.store.bambulab.com/products/torsion-spring?id=41313805566012",
-      "variant_id": "41313805566012"
+      "url": "https://eu.store.bambulab.com/products/torsion-spring?id=47966956093788",
+      "variant_id": "47966956093788"
     },
     {
       "available": true,
@@ -1136,15 +1124,15 @@
     },
     {
       "available": true,
-      "currency": "AUD",
-      "image_url": "https://store.bblcdn.com/0d9093c09b164f8c818761214f83d86a.png",
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/026117ab43ad4c2a9af353744c30f8c6.png",
       "part_number": "BC001",
-      "price": "3.99",
-      "region": "au",
-      "sku": "44125056663715",
+      "price": "2.49",
+      "region": "uk",
+      "sku": "41313805566012",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
-      "url": "https://au.store.bambulab.com/products/torsion-spring?id=44125056663715",
-      "variant_id": "44125056663715"
+      "url": "https://uk.store.bambulab.com/products/torsion-spring?id=41313805566012",
+      "variant_id": "41313805566012"
     },
     {
       "available": true,
@@ -1208,15 +1196,15 @@
     },
     {
       "available": true,
-      "currency": "USD",
-      "image_url": "https://store.bblcdn.com/40cdd22351834249a43d96ea8e2c611c.png",
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/0d9093c09b164f8c818761214f83d86a.png",
       "part_number": "BC001",
-      "price": "1.49",
-      "region": "asia",
-      "sku": "41567325028467",
+      "price": "3.99",
+      "region": "au",
+      "sku": "44125056663715",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
-      "url": "https://asia.store.bambulab.com/products/torsion-spring?id=41567325028467",
-      "variant_id": "41567325028467"
+      "url": "https://au.store.bambulab.com/products/torsion-spring?id=44125056663715",
+      "variant_id": "44125056663715"
     },
     {
       "available": true,
@@ -1277,6 +1265,18 @@
       "title": "Torsion Spring - 0.8x5x3 mm 120 Degree (10PCS) - BC006",
       "url": "https://asia.store.bambulab.com/products/torsion-spring?id=42095399698547",
       "variant_id": "42095399698547"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/40cdd22351834249a43d96ea8e2c611c.png",
+      "part_number": "BC001",
+      "price": "1.49",
+      "region": "asia",
+      "sku": "41567325028467",
+      "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
+      "url": "https://asia.store.bambulab.com/products/torsion-spring?id=41567325028467",
+      "variant_id": "41567325028467"
     }
   ]
 }

@@ -35,31 +35,55 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/33/3320b3c075b16b468e7c70cf79a344faf3ac1962fbddd23759769e028961fe1f.png",
-      "id": "image-4b6ee16a808c1a575aa5",
+      "id": "image-39c19e2da2f8439f0ef2",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-QA019.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "3320b3c075b16b468e7c70cf79a344faf3ac1962fbddd23759769e028961fe1f",
       "size": 612758,
-      "source_url": "https://store.bblcdn.eu/s4/default/b538d63b2c934f3a963d2ad2b55674c0/B-QA019.png"
+      "source_url": "https://store.bblcdn.com/s7/default/291ca34f97804ecfbaebf0d41267090e/B-QA019.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2f/2fe56d34b0fb55f9dd861a5263d533684585ba1fe9cc1930056eaace57370418.png",
+      "id": "image-bc75b67cbd09cc3940db",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "5.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "2fe56d34b0fb55f9dd861a5263d533684585ba1fe9cc1930056eaace57370418",
+      "size": 7825818,
+      "source_url": "https://store.bblcdn.com/s7/default/d2c0525c0b4946fbaf393c84db652ebc/5.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/14/149c472a5a5400c91c01905a64b9dab11d7123914de53cd94ea2339b3e5ec3af.png",
+      "id": "image-d749103f3a21adccf4a6",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "4.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "149c472a5a5400c91c01905a64b9dab11d7123914de53cd94ea2339b3e5ec3af",
+      "size": 8032003,
+      "source_url": "https://store.bblcdn.com/s7/default/b2489c0f4ab14068b00a7bedbaff3294/4.png"
     },
     {
       "blob_path": "data/blobs/sha256/cc/cca655ccf4576d1f3f7d182663579a86baa0998e344f914574894a4647c657f5.png",
-      "id": "image-9d5fda7fe77e0e8ca87e",
+      "id": "image-4736a87a06d7a3bad91b",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-QA019-1.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "cca655ccf4576d1f3f7d182663579a86baa0998e344f914574894a4647c657f5",
       "size": 924804,
-      "source_url": "https://store.bblcdn.eu/s4/default/6e778fabf294489fae0cdd3936bcd179/B-QA019-1.png"
+      "source_url": "https://store.bblcdn.com/s7/default/3a3697c3984d40508c58fbea3355cfd3/B-QA019-1.png"
     },
     {
       "blob_path": "data/blobs/sha256/4e/4ed5bcc679ed119280796e5fb60399fa078af936b49630bd90983b976f1a51cc.png",
-      "id": "image-display-ca4192748d8d1e0b4831",
+      "id": "image-display-a261edf8350108d7c75d",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -72,16 +96,60 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-QA019.catalog.png",
-      "parent_asset_id": "image-4b6ee16a808c1a575aa5",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-39c19e2da2f8439f0ef2",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "4ed5bcc679ed119280796e5fb60399fa078af936b49630bd90983b976f1a51cc",
       "size": 57725,
-      "source_url": "https://store.bblcdn.eu/s4/default/b538d63b2c934f3a963d2ad2b55674c0/B-QA019.png"
+      "source_url": "https://store.bblcdn.com/s7/default/291ca34f97804ecfbaebf0d41267090e/B-QA019.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/93/9394d94360a132c9be145d7245466b65a4809a91902920a4e4f136105e4d493d.png",
+      "id": "image-display-d17f39a9b3a9f8905bd4",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 2406,
+        "source_sha256": "2fe56d34b0fb55f9dd861a5263d533684585ba1fe9cc1930056eaace57370418",
+        "source_width": 2400
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "5.catalog.png",
+      "parent_asset_id": "image-bc75b67cbd09cc3940db",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "9394d94360a132c9be145d7245466b65a4809a91902920a4e4f136105e4d493d",
+      "size": 647890,
+      "source_url": "https://store.bblcdn.com/s7/default/d2c0525c0b4946fbaf393c84db652ebc/5.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/10/107bad848857f8a132be7c23d215454cd8747752bfdcbd5750bc3adf557751c1.png",
+      "id": "image-display-46483e2adec361946b1e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 2406,
+        "source_sha256": "149c472a5a5400c91c01905a64b9dab11d7123914de53cd94ea2339b3e5ec3af",
+        "source_width": 2400
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "4.catalog.png",
+      "parent_asset_id": "image-d749103f3a21adccf4a6",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "107bad848857f8a132be7c23d215454cd8747752bfdcbd5750bc3adf557751c1",
+      "size": 641916,
+      "source_url": "https://store.bblcdn.com/s7/default/b2489c0f4ab14068b00a7bedbaff3294/4.png"
     },
     {
       "blob_path": "data/blobs/sha256/1d/1d6ba1b6e979a4640ade2d116f7001b60f09c9174d52eaf8b185ea9697dcf5a4.png",
-      "id": "image-display-0bc83c2b9121010abc57",
+      "id": "image-display-6b99f1eb122632b59c91",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -94,12 +162,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-QA019-1.catalog.png",
-      "parent_asset_id": "image-9d5fda7fe77e0e8ca87e",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-4736a87a06d7a3bad91b",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "1d6ba1b6e979a4640ade2d116f7001b60f09c9174d52eaf8b185ea9697dcf5a4",
       "size": 107661,
-      "source_url": "https://store.bblcdn.eu/s4/default/6e778fabf294489fae0cdd3936bcd179/B-QA019-1.png"
+      "source_url": "https://store.bblcdn.com/s7/default/3a3697c3984d40508c58fbea3355cfd3/B-QA019-1.png"
     }
   ],
   "box_contents": [],
@@ -149,7 +217,7 @@
   "description_text": "Small printed components, hardware, and wires can be difficult to hold securely with fingers alone. The long nose pliers provide controlled grip for positioning, adjusting, and handling small parts during assembly, wiring, and other detailed maker tasks.\n\nThe slim jaw profile makes it easier to reach into narrow spaces while maintaining visibility around the part. This is especially useful when working on compact assemblies, internal structures, or other detailed bench-side tasks that require both access and control.\n\nThe compact form factor and spring-assisted opening make the pliers easy to handle during repeated bench-side work. This helps reduce effort while maintaining stable control over small parts and fine adjustments.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "b-qa019-maker-s-supply-long-nose-pliers",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Jaw Length",
@@ -181,9 +249,9 @@
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
-      "price": "14.99",
+      "price": "12.74",
       "region": "us",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://us.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
     },
     {
@@ -191,9 +259,9 @@
       "currency": "CAD",
       "listed": true,
       "missing_runs": 0,
-      "price": "21.99",
+      "price": "18.69",
       "region": "ca",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://ca.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
     },
     {
@@ -201,9 +269,9 @@
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
-      "price": "16.99",
+      "price": "14.44",
       "region": "eu",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://eu.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
     },
     {
@@ -211,9 +279,9 @@
       "currency": "GBP",
       "listed": true,
       "missing_runs": 0,
-      "price": "13.99",
+      "price": "11.89",
       "region": "uk",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://uk.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
     },
     {
@@ -221,9 +289,9 @@
       "currency": "AUD",
       "listed": true,
       "missing_runs": 0,
-      "price": "26.99",
+      "price": "22.94",
       "region": "au",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://au.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
     },
     {
@@ -231,9 +299,9 @@
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
-      "price": "14.99",
+      "price": "12.74",
       "region": "asia",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://asia.store.bambulab.com/en/products/long-nose-pliers?skr=yes"
     }
   ],
@@ -312,7 +380,7 @@
       "available": true,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s7/default/291ca34f97804ecfbaebf0d41267090e/B-QA019.png",
-      "price": "14.99",
+      "price": "12.74",
       "region": "us",
       "sku": "725557210042978306",
       "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
@@ -323,7 +391,7 @@
       "available": true,
       "currency": "CAD",
       "image_url": "https://store.bblcdn.com/s5/default/1b722656eebd4cfca20dc6ef8cdf515a/B-QA019.png",
-      "price": "21.99",
+      "price": "18.69",
       "region": "ca",
       "sku": "725556825705099266",
       "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
@@ -334,7 +402,7 @@
       "available": true,
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/0fdd1a837e434939b9d19350082fd48c/B-QA019.png",
-      "price": "16.99",
+      "price": "14.44",
       "region": "eu",
       "sku": "725557786592239618",
       "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
@@ -345,7 +413,7 @@
       "available": true,
       "currency": "GBP",
       "image_url": "https://store.bblcdn.eu/s4/default/b538d63b2c934f3a963d2ad2b55674c0/B-QA019.png",
-      "price": "13.99",
+      "price": "11.89",
       "region": "uk",
       "sku": "725556973583736834",
       "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
@@ -356,7 +424,7 @@
       "available": true,
       "currency": "AUD",
       "image_url": "https://store.bblcdn.com/s2/default/553733c94ade4410ab6130b9339fc9b2/B-QA019.png",
-      "price": "26.99",
+      "price": "22.94",
       "region": "au",
       "sku": "725556584613289986",
       "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
@@ -367,7 +435,7 @@
       "available": true,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s1/default/5df41cb7b758480aa89051cf32dd4569/B-QA019.png",
-      "price": "14.99",
+      "price": "12.74",
       "region": "asia",
       "sku": "720434060686651393",
       "title": "Long Nose Pliers - Maker's Supply Long Nose Pliers",

@@ -35,27 +35,27 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/d6/d6d87bd58ade2e02e88177cfeeb9dadf3e22170ef71bfb709420ebe816a028e8.png",
-      "id": "image-19fbadc112b513596756",
+      "id": "image-4152d796169bb25bbffc",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "b72ca330c366449ea6a3e6c5feb450b4.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "50mmPH2.0toSH1.0ConversionWire1.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "d6d87bd58ade2e02e88177cfeeb9dadf3e22170ef71bfb709420ebe816a028e8",
       "size": 32388,
-      "source_url": "https://store.bblcdn.com/s5/default/b72ca330c366449ea6a3e6c5feb450b4.png"
+      "source_url": "https://store.bblcdn.com/s7/default/9a9b9d47e2df436281e95f8ae6e063b1/50mmPH2.0toSH1.0ConversionWire1.png"
     },
     {
       "blob_path": "data/blobs/sha256/a6/a6080d9fc1927071e8ef6f07732384e804c25b296f9a07ef7f4ee66da800c790.png",
-      "id": "image-70cac6c49a5a4b0d36fc",
+      "id": "image-d22068153ae96de49cb4",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "ba9ab97f89334fcc9e73bfbcbe11fd50.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "50mm_PH2.0_to_SH1.0_Conversion_Wire.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "a6080d9fc1927071e8ef6f07732384e804c25b296f9a07ef7f4ee66da800c790",
       "size": 76350,
-      "source_url": "https://store.bblcdn.com/s5/default/ba9ab97f89334fcc9e73bfbcbe11fd50.png"
+      "source_url": "https://store.bblcdn.com/s7/default/29761372ec464dc188cd4005ff4cecf8/50mm_PH2.0_to_SH1.0_Conversion_Wire.png"
     },
     {
       "blob_path": "data/blobs/sha256/b0/b0180bb19fb093ccf1e3ea426be51aff7953e7e8f9f01f108da28d1fb6f67d7b.zip",
@@ -68,6 +68,18 @@
       "sha256": "b0180bb19fb093ccf1e3ea426be51aff7953e7e8f9f01f108da28d1fb6f67d7b",
       "size": 1106406,
       "source_url": "https://store.bblcdn.com/s7/default/a0eac0290c4e4261a2ebf09e411ccf1f/50mm_PH2.0_to_SH1.0_Conversion_Wire.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f2/f2da9a259a30d46efa5c7a2555efb1075f9392e738b36ae57448ef113052960d.zip",
+      "id": "archive-75d16882330fbc98ae9c",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "50mm_PH2.0_to_SH1.0_Conversion_Wire.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f2da9a259a30d46efa5c7a2555efb1075f9392e738b36ae57448ef113052960d",
+      "size": 178627,
+      "source_url": "https://store.bblcdn.com/s7/default/de9e7709a1c6489597c0f32d0a2b46f6/50mm_PH2.0_to_SH1.0_Conversion_Wire.zip"
     },
     {
       "archive_member_path": "50mm PH2.0 to SH1.0 Conversion Wire/50mm PH2.0 to SH1.0 Conversion Wire - XC004.stl",
@@ -98,20 +110,8 @@
       "source_url": "https://store.bblcdn.com/s7/default/a0eac0290c4e4261a2ebf09e411ccf1f/50mm_PH2.0_to_SH1.0_Conversion_Wire.zip"
     },
     {
-      "blob_path": "data/blobs/sha256/f2/f2da9a259a30d46efa5c7a2555efb1075f9392e738b36ae57448ef113052960d.zip",
-      "id": "archive-75d16882330fbc98ae9c",
-      "kind": "archive",
-      "media_type": "application/zip",
-      "original_filename": "50mm_PH2.0_to_SH1.0_Conversion_Wire.zip",
-      "retrieved_at": "2026-08-24T02:05:06Z",
-      "rights_status": "unknown",
-      "sha256": "f2da9a259a30d46efa5c7a2555efb1075f9392e738b36ae57448ef113052960d",
-      "size": 178627,
-      "source_url": "https://store.bblcdn.com/s7/default/de9e7709a1c6489597c0f32d0a2b46f6/50mm_PH2.0_to_SH1.0_Conversion_Wire.zip"
-    },
-    {
       "blob_path": "data/blobs/sha256/31/31ec07720ef5d37cb21b8b2f1b1ec7cf7f22c04d85eb65c4c08486e542ce70a5.png",
-      "id": "image-display-d6e056bf989cce593632",
+      "id": "image-display-edd3b0bd01457319b852",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 202,
@@ -123,17 +123,17 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "b72ca330c366449ea6a3e6c5feb450b4.catalog.png",
-      "parent_asset_id": "image-19fbadc112b513596756",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "50mmPH2.0toSH1.0ConversionWire1.catalog.png",
+      "parent_asset_id": "image-4152d796169bb25bbffc",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "31ec07720ef5d37cb21b8b2f1b1ec7cf7f22c04d85eb65c4c08486e542ce70a5",
       "size": 23007,
-      "source_url": "https://store.bblcdn.com/s5/default/b72ca330c366449ea6a3e6c5feb450b4.png"
+      "source_url": "https://store.bblcdn.com/s7/default/9a9b9d47e2df436281e95f8ae6e063b1/50mmPH2.0toSH1.0ConversionWire1.png"
     },
     {
       "blob_path": "data/blobs/sha256/07/07bbe11f57aeda760db910f317ddd63f7ac238b6b0b16924411c9166376a5f40.png",
-      "id": "image-display-5bd1cdb1e1b91f188873",
+      "id": "image-display-cef5fa1220b34ddcbe2c",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -145,13 +145,13 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "ba9ab97f89334fcc9e73bfbcbe11fd50.catalog.png",
-      "parent_asset_id": "image-70cac6c49a5a4b0d36fc",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "50mm_PH2.0_to_SH1.0_Conversion_Wire.catalog.png",
+      "parent_asset_id": "image-d22068153ae96de49cb4",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "07bbe11f57aeda760db910f317ddd63f7ac238b6b0b16924411c9166376a5f40",
       "size": 66210,
-      "source_url": "https://store.bblcdn.com/s5/default/ba9ab97f89334fcc9e73bfbcbe11fd50.png"
+      "source_url": "https://store.bblcdn.com/s7/default/29761372ec464dc188cd4005ff4cecf8/50mm_PH2.0_to_SH1.0_Conversion_Wire.png"
     }
   ],
   "box_contents": [],
@@ -193,7 +193,7 @@
   "description_text": "The 50mm PH2.0 to SH1.0 Conversion Wire is used for directly connecting appliances and power sources, creating a circuit without the need for a distribution board\n\nPlease hold the connector when plugging and unplugging, and do not forcefully twist the connectors to avoid wires loosening or detaching",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xc004-50mm-ph2-0-to-sh1-0-conversion-wire",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Length(mm)",

@@ -35,31 +35,31 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/c3/c3da9c8d1cb54f85c7ea67af9cb5619dfa184db1e2e9e9912653eb9493520690.png",
-      "id": "image-a5157ac34628ca679b84",
+      "id": "image-b566802ad33a85590bd1",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH138.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "c3da9c8d1cb54f85c7ea67af9cb5619dfa184db1e2e9e9912653eb9493520690",
       "size": 2730163,
-      "source_url": "https://store.bblcdn.eu/s8/default/91f78f317c284331bef95381845a0bb9/B-ZH138.png"
+      "source_url": "https://store.bblcdn.com/s7/default/76e0afbb51ed428aaab37c3b1ac1e184/B-ZH138.png"
     },
     {
       "blob_path": "data/blobs/sha256/68/6872a4bc97bb6a242b0c6d95c95fb9d24a3987104c7470b8693bfb9c9a372085.png",
-      "id": "image-af7c559b6828a4120cb7",
+      "id": "image-c0b15e05d00218a41426",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH138.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "6872a4bc97bb6a242b0c6d95c95fb9d24a3987104c7470b8693bfb9c9a372085",
       "size": 253399,
-      "source_url": "https://store.bblcdn.eu/s8/default/6c3c963f163d4b20af8361c31967d011/ZH138.png"
+      "source_url": "https://store.bblcdn.com/s7/default/ab8cc6c9da3b46fd9d8a89fe022070f4/ZH138.png"
     },
     {
       "blob_path": "data/blobs/sha256/20/20dec8ec873af7a6f619f3afd8c6e21d4457e7ad2a2558b74b91ab1ee766364e.png",
-      "id": "image-display-365f0ec6aa0f917f0d1a",
+      "id": "image-display-6ef5d3774e7a126b328f",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -72,16 +72,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH138.catalog.png",
-      "parent_asset_id": "image-a5157ac34628ca679b84",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-b566802ad33a85590bd1",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "20dec8ec873af7a6f619f3afd8c6e21d4457e7ad2a2558b74b91ab1ee766364e",
       "size": 741912,
-      "source_url": "https://store.bblcdn.eu/s8/default/91f78f317c284331bef95381845a0bb9/B-ZH138.png"
+      "source_url": "https://store.bblcdn.com/s7/default/76e0afbb51ed428aaab37c3b1ac1e184/B-ZH138.png"
     },
     {
       "blob_path": "data/blobs/sha256/f6/f62edb317867c849933e55cb3bf3303334bbb61ae8117e8fa13a13bbe395f5ac.png",
-      "id": "image-display-1a7f448b50a1acb69325",
+      "id": "image-display-058a91feebcf3499d4ee",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -94,12 +94,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH138.catalog.png",
-      "parent_asset_id": "image-af7c559b6828a4120cb7",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-c0b15e05d00218a41426",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "f62edb317867c849933e55cb3bf3303334bbb61ae8117e8fa13a13bbe395f5ac",
       "size": 75256,
-      "source_url": "https://store.bblcdn.eu/s8/default/6c3c963f163d4b20af8361c31967d011/ZH138.png"
+      "source_url": "https://store.bblcdn.com/s7/default/ab8cc6c9da3b46fd9d8a89fe022070f4/ZH138.png"
     }
   ],
   "box_contents": [
@@ -183,38 +183,38 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Flip Flop Dual AMS Stacker. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Flip Flop Dual AMS Stacker on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh138-flip-flop-dual-ams-stacker",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Flip Flop Dual AMS Stacker",
   "offers": [
     {
-      "available": true,
+      "available": false,
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
       "price": "20.24",
       "region": "us",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://us.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "listed": true,
       "missing_runs": 0,
       "price": "33.02",
       "region": "ca",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://ca.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
       "price": "19.5",
       "region": "eu",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://eu.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
     },
     {
@@ -228,13 +228,13 @@
       "url": "https://uk.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "AUD",
       "listed": true,
       "missing_runs": 0,
       "price": "35.59",
       "region": "au",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://au.store.bambulab.com/en/products/flip-flop-dual-ams-stacker?skr=yes"
     },
     {
@@ -325,7 +325,7 @@
   ],
   "variants": [
     {
-      "available": true,
+      "available": false,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s7/default/76e0afbb51ed428aaab37c3b1ac1e184/B-ZH138.png",
       "part_number": "ZH138",
@@ -337,7 +337,7 @@
       "variant_id": "724162035634479106"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "image_url": "https://store.bblcdn.com/s5/default/21f6ca5c099b4470aa3d7899c9cc04bb/B-ZH138.png",
       "part_number": "ZH138",
@@ -349,7 +349,7 @@
       "variant_id": "724159075855839234"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/91f78f317c284331bef95381845a0bb9/B-ZH138.png",
       "part_number": "ZH138",
@@ -373,7 +373,7 @@
       "variant_id": "724160350383251458"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "AUD",
       "image_url": "https://store.bblcdn.com/s2/default/f9ed05b25c6246f4b7b34365a3206c5f/B-ZH138.png",
       "part_number": "ZH138",

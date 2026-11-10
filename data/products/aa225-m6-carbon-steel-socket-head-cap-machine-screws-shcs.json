@@ -34,28 +34,28 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/32/3225d7450b0e022a9bee7e31ccafb6f9a05e91ab6226a539aa47f2b909af7ebd.png",
-      "id": "image-21aa07c8ca85bf5a8791",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "aa225.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "3225d7450b0e022a9bee7e31ccafb6f9a05e91ab6226a539aa47f2b909af7ebd",
-      "size": 119987,
-      "source_url": "https://store.bblcdn.eu/s8/default/262a7078ee4d486ebe8853fee0297740/aa225.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/bd/bdfe379524f6889fedee6ebb3ae3d061e9e78134ebfb0f2b08aa26012990ea6f.png",
-      "id": "image-411904960f3df349010e",
+      "blob_path": "data/blobs/sha256/1d/1d0c1cb8af9a66e8b879de00d61877f51d882156606205d85e1a214a5c6c4c22.png",
+      "id": "image-e2b9ab58e52430b7b76d",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-AA225.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "bdfe379524f6889fedee6ebb3ae3d061e9e78134ebfb0f2b08aa26012990ea6f",
-      "size": 392110,
-      "source_url": "https://store.bblcdn.eu/s8/default/856c6cd3bba248f2aebfac1b64a5620a/B-AA225.png"
+      "sha256": "1d0c1cb8af9a66e8b879de00d61877f51d882156606205d85e1a214a5c6c4c22",
+      "size": 392124,
+      "source_url": "https://store.bblcdn.com/s7/default/1076fef90727456baa8191bceaa3e4ff/B-AA225.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f8/f8d11aea9429f85d831616685bddaf01a7fda4b8e2c59387652672e5a6e4ed08.png",
+      "id": "image-c32cacf9babb59e922dd",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "aa225.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "f8d11aea9429f85d831616685bddaf01a7fda4b8e2c59387652672e5a6e4ed08",
+      "size": 120001,
+      "source_url": "https://store.bblcdn.com/s7/default/770ef9d86b1348c5a7322a81b5ba1e02/aa225.png"
     },
     {
       "blob_path": "data/blobs/sha256/f2/f2453e097765b5c133e54512b92df2218da4042e77195c2749de49cdaeecbe76.pdf",
@@ -110,48 +110,48 @@
       "source_url": "https://store.bblcdn.com/s7/default/c165e43994bd4e2ab1850db9ca228df5/M6x35_Socket_Head_Cap_Machine_Screw-B-AA225_Model.zip"
     },
     {
-      "blob_path": "data/blobs/sha256/2a/2a148c19290f5b82abdcaa79d8324580d1744c75c1b582f32599cdeb169cac00.png",
-      "id": "image-display-d328c3e4890eb55d6c7a",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 800,
-        "source_sha256": "3225d7450b0e022a9bee7e31ccafb6f9a05e91ab6226a539aa47f2b909af7ebd",
-        "source_width": 800
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "aa225.catalog.png",
-      "parent_asset_id": "image-21aa07c8ca85bf5a8791",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "2a148c19290f5b82abdcaa79d8324580d1744c75c1b582f32599cdeb169cac00",
-      "size": 104394,
-      "source_url": "https://store.bblcdn.eu/s8/default/262a7078ee4d486ebe8853fee0297740/aa225.png"
-    },
-    {
       "blob_path": "data/blobs/sha256/9a/9a03bfaaa461a8b659dda222f8bda2142293e007f93e2c4c27c997b442d2e68a.png",
-      "id": "image-display-1f8ebeaa481ff536972a",
+      "id": "image-display-18cc4831e582c3853b5c",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 404,
         "output_height": 800,
         "output_width": 800,
         "source_height": 1600,
-        "source_sha256": "bdfe379524f6889fedee6ebb3ae3d061e9e78134ebfb0f2b08aa26012990ea6f",
+        "source_sha256": "1d0c1cb8af9a66e8b879de00d61877f51d882156606205d85e1a214a5c6c4c22",
         "source_width": 1600
       },
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-AA225.catalog.png",
-      "parent_asset_id": "image-411904960f3df349010e",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-e2b9ab58e52430b7b76d",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "9a03bfaaa461a8b659dda222f8bda2142293e007f93e2c4c27c997b442d2e68a",
       "size": 117831,
-      "source_url": "https://store.bblcdn.eu/s8/default/856c6cd3bba248f2aebfac1b64a5620a/B-AA225.png"
+      "source_url": "https://store.bblcdn.com/s7/default/1076fef90727456baa8191bceaa3e4ff/B-AA225.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2a/2a148c19290f5b82abdcaa79d8324580d1744c75c1b582f32599cdeb169cac00.png",
+      "id": "image-display-78d2e09d1e9bde1b8bc1",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "f8d11aea9429f85d831616685bddaf01a7fda4b8e2c59387652672e5a6e4ed08",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "aa225.catalog.png",
+      "parent_asset_id": "image-c32cacf9babb59e922dd",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "2a148c19290f5b82abdcaa79d8324580d1744c75c1b582f32599cdeb169cac00",
+      "size": 104394,
+      "source_url": "https://store.bblcdn.com/s7/default/770ef9d86b1348c5a7322a81b5ba1e02/aa225.png"
     }
   ],
   "box_contents": [],
@@ -202,7 +202,7 @@
   "description_text": "Carbon Steel Socket Head Cap Machine Screws (SHCS)\n\nNominal thread: M6\n\nStrength grade: 12.9\n\nFull thread series\n\nType of thread: Full thread",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa225-m6-carbon-steel-socket-head-cap-machine-screws-shcs",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",

@@ -35,31 +35,31 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/71/71a6a46806d413e0d163e7bb13033144fbbab33bc1050add9fae73733e7c7641.png",
-      "id": "image-fa9c9db5d3cb091ca3aa",
+      "id": "image-f986deb7b7ccc7d2f7ca",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "basketball01.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "71a6a46806d413e0d163e7bb13033144fbbab33bc1050add9fae73733e7c7641",
       "size": 360297,
-      "source_url": "https://store.bblcdn.eu/s8/default/d8c814c8157548cb8868d4e6dd6e2426/basketball01.png"
+      "source_url": "https://store.bblcdn.com/s7/default/75ad7806b4f14519a1089dbf988f86f4/basketball01.png"
     },
     {
-      "blob_path": "data/blobs/sha256/04/04a840dede76bb38a0f39038c4a81103b173b42a32abe44d731c3380e32d5280.png",
-      "id": "image-2771efcd892366c60713",
+      "blob_path": "data/blobs/sha256/d3/d37fbcd26fe22a20822da1418a56412ff636a89b81458ae646f148fcf7b2b434.png",
+      "id": "image-4162dbf0994f1c49a8d6",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "basketball.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "04a840dede76bb38a0f39038c4a81103b173b42a32abe44d731c3380e32d5280",
-      "size": 417738,
-      "source_url": "https://store.bblcdn.eu/s8/default/9fd894c4fb9a4bc091d09d80b06beb48/basketball.png"
+      "sha256": "d37fbcd26fe22a20822da1418a56412ff636a89b81458ae646f148fcf7b2b434",
+      "size": 417752,
+      "source_url": "https://store.bblcdn.com/s7/default/8484a26480dd451c8dad3c92cd7354ca/basketball.png"
     },
     {
       "blob_path": "data/blobs/sha256/5a/5af39ee5d6e85dcd2c2e5d14b2c2dad49bdca7b9c2f8d82c27b103ca83befbb8.png",
-      "id": "image-display-58ac0fa467561907e3a8",
+      "id": "image-display-788e88ffe78e01c1da46",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -72,34 +72,34 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "basketball01.catalog.png",
-      "parent_asset_id": "image-fa9c9db5d3cb091ca3aa",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-f986deb7b7ccc7d2f7ca",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "5af39ee5d6e85dcd2c2e5d14b2c2dad49bdca7b9c2f8d82c27b103ca83befbb8",
       "size": 316508,
-      "source_url": "https://store.bblcdn.eu/s8/default/d8c814c8157548cb8868d4e6dd6e2426/basketball01.png"
+      "source_url": "https://store.bblcdn.com/s7/default/75ad7806b4f14519a1089dbf988f86f4/basketball01.png"
     },
     {
       "blob_path": "data/blobs/sha256/9b/9bb7caa836dd11f8ac4bf022546d0586e1629c307bc6a9b47375886b685573e5.png",
-      "id": "image-display-f90ed44c12fd737b3818",
+      "id": "image-display-dfd31a8f80e63f397cc6",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 1600,
-        "source_sha256": "04a840dede76bb38a0f39038c4a81103b173b42a32abe44d731c3380e32d5280",
+        "source_sha256": "d37fbcd26fe22a20822da1418a56412ff636a89b81458ae646f148fcf7b2b434",
         "source_width": 1600
       },
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "basketball.catalog.png",
-      "parent_asset_id": "image-2771efcd892366c60713",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-4162dbf0994f1c49a8d6",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "9bb7caa836dd11f8ac4bf022546d0586e1629c307bc6a9b47375886b685573e5",
       "size": 141084,
-      "source_url": "https://store.bblcdn.eu/s8/default/9fd894c4fb9a4bc091d09d80b06beb48/basketball.png"
+      "source_url": "https://store.bblcdn.com/s7/default/8484a26480dd451c8dad3c92cd7354ca/basketball.png"
     }
   ],
   "box_contents": [
@@ -216,7 +216,7 @@
   "description_text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of Mini Motorized Basketball Game and obtain detailed information, please visit the Mini Motorized Basketball Game on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh003-mini-motorized-basketball-game",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Mini Motorized Basketball Game",
   "offers": [
@@ -225,9 +225,9 @@
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
-      "price": "45.91",
+      "price": "36.73",
       "region": "us",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://us.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     },
     {
@@ -235,9 +235,9 @@
       "currency": "CAD",
       "listed": true,
       "missing_runs": 0,
-      "price": "53.01",
+      "price": "42.41",
       "region": "ca",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://ca.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     },
     {
@@ -245,9 +245,9 @@
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
-      "price": "43.38",
+      "price": "34.7",
       "region": "eu",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://eu.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     },
     {
@@ -255,9 +255,9 @@
       "currency": "GBP",
       "listed": true,
       "missing_runs": 0,
-      "price": "36.84",
+      "price": "29.47",
       "region": "uk",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://uk.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     },
     {
@@ -265,19 +265,19 @@
       "currency": "AUD",
       "listed": true,
       "missing_runs": 0,
-      "price": "83.21",
+      "price": "66.57",
       "region": "au",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://au.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
-      "price": "41.87",
+      "price": "33.5",
       "region": "asia",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://asia.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     }
   ],
@@ -391,7 +391,7 @@
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s7/default/75ad7806b4f14519a1089dbf988f86f4/basketball01.png",
       "part_number": "ZH003",
-      "price": "45.91",
+      "price": "36.73",
       "region": "us",
       "sku": "42724100472968",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
@@ -403,7 +403,7 @@
       "currency": "CAD",
       "image_url": "https://store.bblcdn.com/s5/default/56ac5033887c4c2bab75c1c31fc42a13.png",
       "part_number": "ZH003",
-      "price": "53.01",
+      "price": "42.41",
       "region": "ca",
       "sku": "46346343940336",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
@@ -415,7 +415,7 @@
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/d8c814c8157548cb8868d4e6dd6e2426/basketball01.png",
       "part_number": "ZH003",
-      "price": "43.38",
+      "price": "34.7",
       "region": "eu",
       "sku": "49074935824732",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
@@ -427,7 +427,7 @@
       "currency": "GBP",
       "image_url": "https://store.bblcdn.eu/7ebb14c1aa324fe19d9d0e4916938f19.png",
       "part_number": "ZH003",
-      "price": "36.84",
+      "price": "29.47",
       "region": "uk",
       "sku": "42013097001020",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
@@ -439,7 +439,7 @@
       "currency": "AUD",
       "image_url": "https://store.bblcdn.com/7f35428559dc4ab88c457577b4b3a835.png",
       "part_number": "ZH003",
-      "price": "83.21",
+      "price": "66.57",
       "region": "au",
       "sku": "44830279860387",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
@@ -447,11 +447,11 @@
       "variant_id": "44830279860387"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/494435985067044864.png",
       "part_number": "ZH003",
-      "price": "41.87",
+      "price": "33.5",
       "region": "asia",
       "sku": "42098595725427",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",

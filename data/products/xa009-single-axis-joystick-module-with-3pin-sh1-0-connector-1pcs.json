@@ -35,27 +35,27 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/5b/5b807d6e8d04ec97e34177636be019320203e605380ffca6057558f08238bba6.png",
-      "id": "image-203e6eb65e932d515ea8",
+      "id": "image-bd7f5287b9e786d59cf8",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "XA009-F.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "5b807d6e8d04ec97e34177636be019320203e605380ffca6057558f08238bba6",
       "size": 1036245,
-      "source_url": "https://store.bblcdn.eu/s8/default/04cb45747cdc45e7bb731f8251976c2a/XA009-F.png"
+      "source_url": "https://store.bblcdn.com/s7/default/49c6a136005540919305a1758cb36fb7/XA009-F.png"
     },
     {
       "blob_path": "data/blobs/sha256/1e/1ebcffc017ff55156024c1583dab7f916da596df85c38dd422bdf372adbf1073.png",
-      "id": "image-bfb3adc7e547e994bc65",
+      "id": "image-81d5442ad67117ff9b42",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "XA009-V.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "1ebcffc017ff55156024c1583dab7f916da596df85c38dd422bdf372adbf1073",
       "size": 1081157,
-      "source_url": "https://store.bblcdn.eu/s8/default/c505a7b9e4064201b0c6554999da87f9/XA009-V.png"
+      "source_url": "https://store.bblcdn.com/s7/default/dcd4ddb0674e49f596534c9cf3c1ac16/XA009-V.png"
     },
     {
       "blob_path": "data/blobs/sha256/71/71e558a6f4437399a03098315386456379649abd76d90bafd27ce5bb3116a85d.zip",
@@ -123,7 +123,7 @@
     },
     {
       "blob_path": "data/blobs/sha256/4e/4edc5ebff17eba1d8a16aeece73892cc1e798cde19ec0e6cba80d1ddcb3a2a09.png",
-      "id": "image-display-d125ca145f52771b6c4d",
+      "id": "image-display-4910e8266f9d4bd321df",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -136,16 +136,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "XA009-F.catalog.png",
-      "parent_asset_id": "image-203e6eb65e932d515ea8",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-bd7f5287b9e786d59cf8",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "4edc5ebff17eba1d8a16aeece73892cc1e798cde19ec0e6cba80d1ddcb3a2a09",
       "size": 259543,
-      "source_url": "https://store.bblcdn.eu/s8/default/04cb45747cdc45e7bb731f8251976c2a/XA009-F.png"
+      "source_url": "https://store.bblcdn.com/s7/default/49c6a136005540919305a1758cb36fb7/XA009-F.png"
     },
     {
       "blob_path": "data/blobs/sha256/37/37f9442e5ec8bb9052d5b4da8773be1a0ef79e9b0e7acd9285db84871f441d1e.png",
-      "id": "image-display-5003139e1dc181cb19e3",
+      "id": "image-display-415d0fa4bda61e064411",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -158,12 +158,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "XA009-V.catalog.png",
-      "parent_asset_id": "image-bfb3adc7e547e994bc65",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-81d5442ad67117ff9b42",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "37f9442e5ec8bb9052d5b4da8773be1a0ef79e9b0e7acd9285db84871f441d1e",
       "size": 167976,
-      "source_url": "https://store.bblcdn.eu/s8/default/c505a7b9e4064201b0c6554999da87f9/XA009-V.png"
+      "source_url": "https://store.bblcdn.com/s7/default/dcd4ddb0674e49f596534c9cf3c1ac16/XA009-V.png"
     }
   ],
   "box_contents": [],
@@ -213,7 +213,7 @@
   "description_text": "The Single-Axis Joystick Module is a 1-channel analog input module. It automatically returns to the center position. Compared to a Dual-Axis Joystick Module, the single-axis joystick moves in only one direction and outputs a single analog signal, making it ideal for use as a control lever in various scenarios that require speed control or position control with automatic centering — especially when the control logic of these motions needs to remain independent.\n\nFor example, in a vehicle model, one single-axis joystick module can be used to control the speed of movement, and another to control the steering; or in a tower crane model, a single-axis joystick module can control the lifting of the hook; or in a tracked vehicle model, two single-axis joystick modules can be used to independently control the speed of each track.\n\nIncluded accessory: The product comes with a 100mm Wire with 3Pin SH1.0 Connectors.\n\nChoking hazard: This product contains small parts. Keep out of reach of children to avoid accidental ingestion.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xa009-single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Size",

@@ -35,31 +35,31 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/61/619e123f3ac626a0b8009186b1714f271b86b38d22db48f3cab5dae228a1b935.png",
-      "id": "image-2c42be988b5760223999",
+      "id": "image-532c420652ed98d2e911",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH071.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "619e123f3ac626a0b8009186b1714f271b86b38d22db48f3cab5dae228a1b935",
       "size": 2859643,
-      "source_url": "https://store.bblcdn.eu/s4/default/c81470a1d89742648915f9cc782647b6/B-ZH071.png"
+      "source_url": "https://store.bblcdn.com/s7/default/17692c705fca4ed5b4f4dd0033ba547f/B-ZH071.png"
     },
     {
       "blob_path": "data/blobs/sha256/ef/ef180831951fa6a4459624f10fe6add4ae6b3131fcf48944f1e1bdd72d4d5fb3.png",
-      "id": "image-4d0415eb74b33d9a5489",
+      "id": "image-4a5a02a60f1541aec010",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH071-2.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "ef180831951fa6a4459624f10fe6add4ae6b3131fcf48944f1e1bdd72d4d5fb3",
       "size": 201016,
-      "source_url": "https://store.bblcdn.eu/s4/default/de635b266ca441f68fe77eb5586e5c85/B-ZH071-2.png"
+      "source_url": "https://store.bblcdn.com/s7/default/811673d80ab94140aff2e606004ac66e/B-ZH071-2.png"
     },
     {
       "blob_path": "data/blobs/sha256/94/941021841ab8046c471a6f65d6f7776f6950210d37607ee518c9cb5f343f2a8f.png",
-      "id": "image-display-473aaa727c34f78a9c52",
+      "id": "image-display-9bac7c684ae6c0abbdd8",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -72,16 +72,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH071.catalog.png",
-      "parent_asset_id": "image-2c42be988b5760223999",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-532c420652ed98d2e911",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "941021841ab8046c471a6f65d6f7776f6950210d37607ee518c9cb5f343f2a8f",
       "size": 729345,
-      "source_url": "https://store.bblcdn.eu/s4/default/c81470a1d89742648915f9cc782647b6/B-ZH071.png"
+      "source_url": "https://store.bblcdn.com/s7/default/17692c705fca4ed5b4f4dd0033ba547f/B-ZH071.png"
     },
     {
       "blob_path": "data/blobs/sha256/68/68d312a484d835ada75de23aece95fc51385f8711e510b542ed7f42c535a055a.png",
-      "id": "image-display-036c006a71cfdf31cd7c",
+      "id": "image-display-ea22208e36ecbd34b4f1",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -94,12 +94,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH071-2.catalog.png",
-      "parent_asset_id": "image-4d0415eb74b33d9a5489",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-4a5a02a60f1541aec010",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "68d312a484d835ada75de23aece95fc51385f8711e510b542ed7f42c535a055a",
       "size": 52440,
-      "source_url": "https://store.bblcdn.eu/s4/default/de635b266ca441f68fe77eb5586e5c85/B-ZH071-2.png"
+      "source_url": "https://store.bblcdn.com/s7/default/811673d80ab94140aff2e606004ac66e/B-ZH071-2.png"
     }
   ],
   "box_contents": [
@@ -160,7 +160,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional The Limit of Possibility (no electronics). To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the The Limit of Possibility (no electronics) on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh071-the-limit-of-possibility-no-electronics",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "The Limit of Possibility (no electronics)",
   "offers": [
@@ -185,13 +185,13 @@
       "url": "https://ca.store.bambulab.com/en/products/the-limit-of-possibility-no-electronics?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
       "price": "10.12",
       "region": "eu",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://eu.store.bambulab.com/en/products/the-limit-of-possibility-no-electronics?skr=yes"
     },
     {
@@ -205,13 +205,13 @@
       "url": "https://uk.store.bambulab.com/en/products/the-limit-of-possibility-no-electronics?skr=yes"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "AUD",
       "listed": true,
       "missing_runs": 0,
       "price": "19.41",
       "region": "au",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://au.store.bambulab.com/en/products/the-limit-of-possibility-no-electronics?skr=yes"
     },
     {
@@ -306,7 +306,7 @@
       "variant_id": "583538509324988418"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/8af82dd919594888b9679e47b841dd84/B-ZH071.png",
       "part_number": "ZH071",
@@ -330,7 +330,7 @@
       "variant_id": "583537876197306370"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "AUD",
       "image_url": "https://store.bblcdn.com/s2/default/3f4bd5f05137401e9d8efcf52d256e4c/B-ZH071.png",
       "part_number": "ZH071",

@@ -35,27 +35,27 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/6c/6c318ceeaa82bd9161026d8aa9bc90ca617fa1f4ca1a2c6cc60ab8c8c4c2bd9e.png",
-      "id": "image-54e763b1dc74f1da7cd8",
+      "id": "image-0055afe1291e550a54ea",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "f5103f02f1394277acfa812567ea04d4.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "AA003.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "6c318ceeaa82bd9161026d8aa9bc90ca617fa1f4ca1a2c6cc60ab8c8c4c2bd9e",
       "size": 84472,
-      "source_url": "https://store.bblcdn.eu/f5103f02f1394277acfa812567ea04d4.png"
+      "source_url": "https://store.bblcdn.com/s7/default/d990cc2abb7f4691ae59cb58aba838cb/AA003.png"
     },
     {
-      "blob_path": "data/blobs/sha256/46/46fddfb16988f1eb14a40a998f319f5f47d1d87baf7ee1d33368c13579a1e2b0.png",
-      "id": "image-d5bc396924153f3d96b1",
+      "blob_path": "data/blobs/sha256/6e/6e328d3ecf2fadf5c8090d71356e7fc4462c68379585d643b5d87159a94e99c4.png",
+      "id": "image-e1fe2d3dbacb7f9b3c12",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "1ca646e0658443b2802c3d6d8229f258.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "M3SocketHeadCapMachineScrews_SHCS_-AA003.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "46fddfb16988f1eb14a40a998f319f5f47d1d87baf7ee1d33368c13579a1e2b0",
-      "size": 238265,
-      "source_url": "https://store.bblcdn.eu/1ca646e0658443b2802c3d6d8229f258.png"
+      "sha256": "6e328d3ecf2fadf5c8090d71356e7fc4462c68379585d643b5d87159a94e99c4",
+      "size": 238251,
+      "source_url": "https://store.bblcdn.com/s7/default/68d7e10ad8a047f1a1e028f7116eb4a5/M3SocketHeadCapMachineScrews_SHCS_-AA003.png"
     },
     {
       "blob_path": "data/blobs/sha256/6b/6b035907e00300fcf8844040c5f21a2d9e30c21821051b7ec03f48513cb9991b.pdf",
@@ -111,7 +111,7 @@
     },
     {
       "blob_path": "data/blobs/sha256/c6/c6a7502ac0269e98d951d793f53845fd138aac91b4b50e9d98db13b515840dc7.png",
-      "id": "image-display-6d0c9804c95675ff8608",
+      "id": "image-display-760f6cb09eccfe25f3a5",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 202,
@@ -123,35 +123,35 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "f5103f02f1394277acfa812567ea04d4.catalog.png",
-      "parent_asset_id": "image-54e763b1dc74f1da7cd8",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "AA003.catalog.png",
+      "parent_asset_id": "image-0055afe1291e550a54ea",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "c6a7502ac0269e98d951d793f53845fd138aac91b4b50e9d98db13b515840dc7",
       "size": 71953,
-      "source_url": "https://store.bblcdn.eu/f5103f02f1394277acfa812567ea04d4.png"
+      "source_url": "https://store.bblcdn.com/s7/default/d990cc2abb7f4691ae59cb58aba838cb/AA003.png"
     },
     {
       "blob_path": "data/blobs/sha256/2e/2e243a1d2c31155851abbf9405925471b1774af47114b6dca259644a4770bcd6.png",
-      "id": "image-display-fd055b44126680c6082f",
+      "id": "image-display-449775a0f847fbddd698",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 1600,
-        "source_sha256": "46fddfb16988f1eb14a40a998f319f5f47d1d87baf7ee1d33368c13579a1e2b0",
+        "source_sha256": "6e328d3ecf2fadf5c8090d71356e7fc4462c68379585d643b5d87159a94e99c4",
         "source_width": 1600
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "1ca646e0658443b2802c3d6d8229f258.catalog.png",
-      "parent_asset_id": "image-d5bc396924153f3d96b1",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "M3SocketHeadCapMachineScrews_SHCS_-AA003.catalog.png",
+      "parent_asset_id": "image-e1fe2d3dbacb7f9b3c12",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "2e243a1d2c31155851abbf9405925471b1774af47114b6dca259644a4770bcd6",
       "size": 61841,
-      "source_url": "https://store.bblcdn.eu/1ca646e0658443b2802c3d6d8229f258.png"
+      "source_url": "https://store.bblcdn.com/s7/default/68d7e10ad8a047f1a1e028f7116eb4a5/M3SocketHeadCapMachineScrews_SHCS_-AA003.png"
     }
   ],
   "box_contents": [],
@@ -194,7 +194,7 @@
   "description_text": "Carbon steel Socket Head Cap Machine Screws (SHCS)\n\nStrength grade: 4.8\n\nType of thread: Metric coarse thread (currently all screws are metric coarse thread)",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa003-m3-socket-head-cap-machine-screws-shcs",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",

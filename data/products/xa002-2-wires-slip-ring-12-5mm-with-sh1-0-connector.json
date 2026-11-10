@@ -70,6 +70,18 @@
       "source_url": "https://store.bblcdn.com/s7/default/18babd780c4d49d6b1e94667f771efc8/2_Wires_Slip_Ring_12.5mm_with_SH1.0_Connector.zip"
     },
     {
+      "blob_path": "data/blobs/sha256/f3/f376b949e981c4a9d5145fc8847cc2241500a23d13d496cfb6a886423281c0ca.zip",
+      "id": "archive-f81599fea22ba759a326",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "2_Wires_Slip_Ring_12.5mm_with_SH1.0_Connector.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "f376b949e981c4a9d5145fc8847cc2241500a23d13d496cfb6a886423281c0ca",
+      "size": 187654,
+      "source_url": "https://store.bblcdn.com/s7/default/358c625a03074d21bb1c173a9b52336f/2_Wires_Slip_Ring_12.5mm_with_SH1.0_Connector.zip"
+    },
+    {
       "archive_member_path": "2 Wires Slip Ring 12.5mm with SH1.0 Connector/2 Wires Slip Ring 12.5mm with SH1.0 Connector (1pcs) - XA002.stl",
       "blob_path": "data/blobs/sha256/bb/bbe38003bb9636c5b5a2048ff109a1841e95a678a0858e002b400ed21ad3e407.stl",
       "id": "model-42b8e9915d50043025b6",
@@ -96,18 +108,6 @@
       "sha256": "44ea8597409a02fa65981e9021376b071142f98bf66cf78439cb79530eebe3e4",
       "size": 341169,
       "source_url": "https://store.bblcdn.com/s7/default/18babd780c4d49d6b1e94667f771efc8/2_Wires_Slip_Ring_12.5mm_with_SH1.0_Connector.zip"
-    },
-    {
-      "blob_path": "data/blobs/sha256/f3/f376b949e981c4a9d5145fc8847cc2241500a23d13d496cfb6a886423281c0ca.zip",
-      "id": "archive-f81599fea22ba759a326",
-      "kind": "archive",
-      "media_type": "application/zip",
-      "original_filename": "2_Wires_Slip_Ring_12.5mm_with_SH1.0_Connector.zip",
-      "retrieved_at": "2026-08-24T02:05:06Z",
-      "rights_status": "unknown",
-      "sha256": "f376b949e981c4a9d5145fc8847cc2241500a23d13d496cfb6a886423281c0ca",
-      "size": 187654,
-      "source_url": "https://store.bblcdn.com/s7/default/358c625a03074d21bb1c173a9b52336f/2_Wires_Slip_Ring_12.5mm_with_SH1.0_Connector.zip"
     },
     {
       "blob_path": "data/blobs/sha256/6b/6b263014e6386eae8995bc679b77977c112044cac43cb4562673e914224cf991.png",
@@ -197,7 +197,7 @@
   "description_text": "Precision compact internal design with 360° rotation, preventing wire tangling and breakage | Featuring a V-groove design with military-grade wear-resistant gold treatment Stable, smooth, low-torque operation enables the transmission of multiple signals and power together | Ensures minimal resistance fluctuation and a long lifespan\n\nThe product's lifespan is strongly related to operating speed, working temperature, humidity, and load conditions\n\nElectrical noise is closely related to operating speed, current, and voltage",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xa002-2-wires-slip-ring-12-5mm-with-sh1-0-connector",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "D (mm) Outer Diameter",
@@ -232,13 +232,13 @@
       "url": "https://ca.store.bambulab.com/en/products/2-wires-slip-ring-12-5mm-with-sh1-0-connector?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
       "price": "4.96",
       "region": "eu",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://eu.store.bambulab.com/en/products/2-wires-slip-ring-12-5mm-with-sh1-0-connector?skr=yes"
     },
     {
@@ -394,7 +394,7 @@
       "variant_id": "46244622598384"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/7bd3f3908c37493a8a21c89abffa0e10/2WiresSlipRing12.5mmwithSH1.0Connector_1.png",
       "part_number": "XA002",

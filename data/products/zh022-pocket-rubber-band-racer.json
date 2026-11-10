@@ -35,31 +35,31 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/bf/bfb6521aac03b92aa98116d7f4583dfeadf5a8af4e78371e000681d1707c948e.jpg",
-      "id": "image-1dcfeb921d0f62f3378d",
+      "id": "image-0f57604bb55a754e3170",
       "kind": "image",
       "media_type": "image/jpeg",
-      "original_filename": "f8bc40c8f5c9474f94db799ddb57f3b2.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "rubber.jpg",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "bfb6521aac03b92aa98116d7f4583dfeadf5a8af4e78371e000681d1707c948e",
       "size": 99949,
-      "source_url": "https://store.bblcdn.com/f8bc40c8f5c9474f94db799ddb57f3b2.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/4ebfce3a348247979e231d06d0d72a4d/rubber.jpg"
     },
     {
-      "blob_path": "data/blobs/sha256/9a/9a7bb7bcfd5b32081100d95f5eea1360d3b9fab99f8a0c4406e88fd739da351b.png",
-      "id": "image-3e4cd98684b99b031c9c",
+      "blob_path": "data/blobs/sha256/82/82566bfc5df37d4bbf5efe533f9ca0ed58948889e5f470c154a83901fcca3248.png",
+      "id": "image-77127b698bf9c1f465d5",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "ea9dde88144548098b6a4bb9a96c083b.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "car-right.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "9a7bb7bcfd5b32081100d95f5eea1360d3b9fab99f8a0c4406e88fd739da351b",
-      "size": 295908,
-      "source_url": "https://store.bblcdn.com/ea9dde88144548098b6a4bb9a96c083b.png"
+      "sha256": "82566bfc5df37d4bbf5efe533f9ca0ed58948889e5f470c154a83901fcca3248",
+      "size": 291275,
+      "source_url": "https://store.bblcdn.com/s7/default/bd1f175f98ad4f479b77eb243f3048ef/car-right.png"
     },
     {
       "blob_path": "data/blobs/sha256/85/85d0899b4bab4df50d3e3b0d1d990e4558c9f52fecb004754c6297f22999a08f.png",
-      "id": "image-display-79261f94e24a4e57f585",
+      "id": "image-display-5bdf181ba38b7d4206ad",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -71,35 +71,35 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "f8bc40c8f5c9474f94db799ddb57f3b2.catalog.png",
-      "parent_asset_id": "image-1dcfeb921d0f62f3378d",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "rubber.catalog.png",
+      "parent_asset_id": "image-0f57604bb55a754e3170",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "85d0899b4bab4df50d3e3b0d1d990e4558c9f52fecb004754c6297f22999a08f",
       "size": 529237,
-      "source_url": "https://store.bblcdn.com/f8bc40c8f5c9474f94db799ddb57f3b2.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/4ebfce3a348247979e231d06d0d72a4d/rubber.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/ea/ea1308bc51d2d17f4e7145c5b73f53a7fa358d40a6c2a06363a802eaa209a2f7.png",
-      "id": "image-display-3819b273af26abd50f0b",
+      "id": "image-display-e5adf5c74765e6a98754",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 1601,
-        "source_sha256": "9a7bb7bcfd5b32081100d95f5eea1360d3b9fab99f8a0c4406e88fd739da351b",
+        "source_sha256": "82566bfc5df37d4bbf5efe533f9ca0ed58948889e5f470c154a83901fcca3248",
         "source_width": 1600
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "ea9dde88144548098b6a4bb9a96c083b.catalog.png",
-      "parent_asset_id": "image-3e4cd98684b99b031c9c",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "car-right.catalog.png",
+      "parent_asset_id": "image-77127b698bf9c1f465d5",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "ea1308bc51d2d17f4e7145c5b73f53a7fa358d40a6c2a06363a802eaa209a2f7",
       "size": 94952,
-      "source_url": "https://store.bblcdn.com/ea9dde88144548098b6a4bb9a96c083b.png"
+      "source_url": "https://store.bblcdn.com/s7/default/bd1f175f98ad4f479b77eb243f3048ef/car-right.png"
     }
   ],
   "box_contents": [
@@ -160,7 +160,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Pocket Rubber Band Racer. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Pocket Rubber Band Racer and obtain detailed information, please visit the Pocket Rubber Band Racer on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh022-pocket-rubber-band-racer",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Pocket Rubber Band Racer",
   "offers": [
@@ -175,13 +175,13 @@
       "url": "https://us.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "listed": true,
       "missing_runs": 0,
       "price": "6.8",
       "region": "ca",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://ca.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
     },
     {
@@ -294,7 +294,7 @@
       "variant_id": "42899858882696"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "image_url": "https://store.bblcdn.com/s5/default/4754d02e6e50438a924c966a9e091672.jpg",
       "part_number": "ZH022",

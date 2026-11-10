@@ -35,51 +35,51 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/10/107ffb801e4c436eb99adc83a98e5865255f7d4f3915ed038f38932972236091.png",
-      "id": "image-33f2fa6bdb2ff0fa9a8f",
+      "id": "image-3fe47f3e3c306adc8176",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "8b3d574eb22a4dcbb9693a41faeba20a.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "ea001.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "107ffb801e4c436eb99adc83a98e5865255f7d4f3915ed038f38932972236091",
       "size": 355427,
-      "source_url": "https://store.bblcdn.eu/8b3d574eb22a4dcbb9693a41faeba20a.png"
+      "source_url": "https://store.bblcdn.com/s7/default/a427c8998db74afc8579918358d97d0d/ea001.png"
     },
     {
-      "blob_path": "data/blobs/sha256/3f/3f4935e65daf506f124ec525ca01f5777ae12928fd30c13377f0a8227fa8e593.jpg",
-      "id": "image-c5aa28833df41f89bc2e",
-      "kind": "image",
-      "media_type": "image/jpeg",
-      "original_filename": "740c6c3db1894aeabfedab8402487035.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "3f4935e65daf506f124ec525ca01f5777ae12928fd30c13377f0a8227fa8e593",
-      "size": 33650,
-      "source_url": "https://store.bblcdn.eu/740c6c3db1894aeabfedab8402487035.jpg"
-    },
-    {
-      "blob_path": "data/blobs/sha256/58/58117be550480baf480a4f6f6653514f1f30b256e79d8c85fdd506ad6ef705c5.png",
-      "id": "image-0eaafecc8630ecc60fff",
+      "blob_path": "data/blobs/sha256/a1/a13cfec2b438927397f26b6d9b82045ec7a368da3acff225901d053203cd7067.png",
+      "id": "image-20c87c444d6f4cdf3bcc",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "2a4d586809844e4e86625ef6e2f43f9e.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "EA002.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "58117be550480baf480a4f6f6653514f1f30b256e79d8c85fdd506ad6ef705c5",
-      "size": 114347,
-      "source_url": "https://store.bblcdn.eu/2a4d586809844e4e86625ef6e2f43f9e.png"
+      "sha256": "a13cfec2b438927397f26b6d9b82045ec7a368da3acff225901d053203cd7067",
+      "size": 114440,
+      "source_url": "https://store.bblcdn.com/s7/default/a56a9ac7f39047c89a2eed01f571f0ff/EA002.png"
     },
     {
       "blob_path": "data/blobs/sha256/de/de7167cac7d8bfbcef5c888a6989e6609c209f4da004fb16b0eef55117eba852.png",
-      "id": "image-008a75423a91c37d3306",
+      "id": "image-d3be23974c22043749cf",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "6a904482d5614422bc7b517f6f614708.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "DeepGrooveBallBearings-Plastic.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "de7167cac7d8bfbcef5c888a6989e6609c209f4da004fb16b0eef55117eba852",
       "size": 347758,
-      "source_url": "https://store.bblcdn.eu/6a904482d5614422bc7b517f6f614708.png"
+      "source_url": "https://store.bblcdn.com/s7/default/7b03ba1ba27e4dbaab2465b1add88644/DeepGrooveBallBearings-Plastic.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/e7/e7c637639db95eead8b02e2ace80f948f1f78e621289dd9018a5d93c75256024.png",
+      "id": "image-fcff7f11218c970f17dc",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "EA042.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "e7c637639db95eead8b02e2ace80f948f1f78e621289dd9018a5d93c75256024",
+      "size": 74460,
+      "source_url": "https://store.bblcdn.com/s7/default/53c9b1ed16f7488f8d5d52bac678036f/EA042.png"
     },
     {
       "blob_path": "data/blobs/sha256/0f/0f92a9d1b96702b38023b22a41a9eb00bed6647f97b619cead00f8b277509e22.pdf",
@@ -191,7 +191,7 @@
     },
     {
       "blob_path": "data/blobs/sha256/cd/cd2f3e7200908777d022f42e1aabe125540d660ec802d1659a2c6d78daed4faa.png",
-      "id": "image-display-1c0bbf108cc75153395f",
+      "id": "image-display-85fa4925df3f8fd8e24d",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 404,
@@ -203,61 +203,39 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "8b3d574eb22a4dcbb9693a41faeba20a.catalog.png",
-      "parent_asset_id": "image-33f2fa6bdb2ff0fa9a8f",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "ea001.catalog.png",
+      "parent_asset_id": "image-3fe47f3e3c306adc8176",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "cd2f3e7200908777d022f42e1aabe125540d660ec802d1659a2c6d78daed4faa",
       "size": 110346,
-      "source_url": "https://store.bblcdn.eu/8b3d574eb22a4dcbb9693a41faeba20a.png"
+      "source_url": "https://store.bblcdn.com/s7/default/a427c8998db74afc8579918358d97d0d/ea001.png"
     },
     {
-      "blob_path": "data/blobs/sha256/7c/7cf6fde4b20493baa4b51d2b1bc9568b871f1088987b58a7e27b4eccd8a66a66.png",
-      "id": "image-display-bb504c9b72e0c30c3cf7",
+      "blob_path": "data/blobs/sha256/7a/7a844ddf88db618f4b6a09121f6ddcdf22ce10a7267cd2e9f37236719a9f9f75.png",
+      "id": "image-display-164cf0f63db1470514a2",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 202,
         "output_height": 800,
         "output_width": 800,
         "source_height": 800,
-        "source_sha256": "3f4935e65daf506f124ec525ca01f5777ae12928fd30c13377f0a8227fa8e593",
+        "source_sha256": "a13cfec2b438927397f26b6d9b82045ec7a368da3acff225901d053203cd7067",
         "source_width": 800
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "740c6c3db1894aeabfedab8402487035.catalog.png",
-      "parent_asset_id": "image-c5aa28833df41f89bc2e",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "EA002.catalog.png",
+      "parent_asset_id": "image-20c87c444d6f4cdf3bcc",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "7cf6fde4b20493baa4b51d2b1bc9568b871f1088987b58a7e27b4eccd8a66a66",
-      "size": 104020,
-      "source_url": "https://store.bblcdn.eu/740c6c3db1894aeabfedab8402487035.jpg"
-    },
-    {
-      "blob_path": "data/blobs/sha256/35/35763a8998933bf750f2a3622edfb64964fb5751e990a2217b83936a509f8859.png",
-      "id": "image-display-828bbb4396b824b65097",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 202,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 800,
-        "source_sha256": "58117be550480baf480a4f6f6653514f1f30b256e79d8c85fdd506ad6ef705c5",
-        "source_width": 800
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "2a4d586809844e4e86625ef6e2f43f9e.catalog.png",
-      "parent_asset_id": "image-0eaafecc8630ecc60fff",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "35763a8998933bf750f2a3622edfb64964fb5751e990a2217b83936a509f8859",
-      "size": 96061,
-      "source_url": "https://store.bblcdn.eu/2a4d586809844e4e86625ef6e2f43f9e.png"
+      "sha256": "7a844ddf88db618f4b6a09121f6ddcdf22ce10a7267cd2e9f37236719a9f9f75",
+      "size": 95987,
+      "source_url": "https://store.bblcdn.com/s7/default/a56a9ac7f39047c89a2eed01f571f0ff/EA002.png"
     },
     {
       "blob_path": "data/blobs/sha256/c8/c857e27e5f8a9a50641b85c266e636759063dc702dc88de1fff7d8caa101a7b5.png",
-      "id": "image-display-cf79d0470650da38ef85",
+      "id": "image-display-5c883bf8502ed8c44ec3",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -269,13 +247,35 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "6a904482d5614422bc7b517f6f614708.catalog.png",
-      "parent_asset_id": "image-008a75423a91c37d3306",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "DeepGrooveBallBearings-Plastic.catalog.png",
+      "parent_asset_id": "image-d3be23974c22043749cf",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "c857e27e5f8a9a50641b85c266e636759063dc702dc88de1fff7d8caa101a7b5",
       "size": 97503,
-      "source_url": "https://store.bblcdn.eu/6a904482d5614422bc7b517f6f614708.png"
+      "source_url": "https://store.bblcdn.com/s7/default/7b03ba1ba27e4dbaab2465b1add88644/DeepGrooveBallBearings-Plastic.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f5/f54d553aefbef1715585b59c70c804c4cf5b80bd327124726ccfb5ecfa2ee45a.png",
+      "id": "image-display-0da39fc552fffd8f1808",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 202,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "e7c637639db95eead8b02e2ace80f948f1f78e621289dd9018a5d93c75256024",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "EA042.catalog.png",
+      "parent_asset_id": "image-fcff7f11218c970f17dc",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "f54d553aefbef1715585b59c70c804c4cf5b80bd327124726ccfb5ecfa2ee45a",
+      "size": 59591,
+      "source_url": "https://store.bblcdn.com/s7/default/53c9b1ed16f7488f8d5d52bac678036f/EA042.png"
     }
   ],
   "box_contents": [],
@@ -346,7 +346,7 @@
   "description_text": "Plastic Bearings\n\nMore expensive than ordinary bearings\n\nNo need to add lubricant\n\nLight weight\n\nLow rotational noise\n\nIdeal Applications for plastic bearings\n\nWhen contact with food or the avoidance of mineral lubricating oils is required\n\nLight load and mass reduction is desired\n\nDesire to minimize rotational noise\n\nExposure to factors that accelerate steel corrosion, such as water",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ea001-plastic-deep-groove-ball-bearings",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Plastic Deep Groove Ball Bearings",
   "offers": [
@@ -646,7 +646,7 @@
     {
       "available": true,
       "currency": "USD",
-      "image_url": "https://store.bblcdn.com/s7/default/e384591955bd482db0cb668862c996d2/Group1123861395.png",
+      "image_url": "https://store.bblcdn.com/s7/default/7b03ba1ba27e4dbaab2465b1add88644/DeepGrooveBallBearings-Plastic.png",
       "part_number": "EA042",
       "price": "7.69",
       "region": "us",
@@ -682,7 +682,7 @@
     {
       "available": true,
       "currency": "CAD",
-      "image_url": "https://store.bblcdn.com/s5/default/a30a4434d4a64cb1a5f97d437474246b.png",
+      "image_url": "https://store.bblcdn.com/s5/default/3e5ec294e5f5426b8ef3c072573b74bc.png",
       "part_number": "EA042",
       "price": "8.85",
       "region": "ca",
@@ -718,7 +718,7 @@
     {
       "available": true,
       "currency": "EUR",
-      "image_url": "https://store.bblcdn.eu/s8/default/be892ff6c61b411ebd46cc589d7d8d97/Group1123861395.png",
+      "image_url": "https://store.bblcdn.eu/s8/default/f24effb5dfa340848b7922024e67ea1c/EA042.png",
       "part_number": "EA042",
       "price": "7.24",
       "region": "eu",
@@ -754,7 +754,7 @@
     {
       "available": true,
       "currency": "GBP",
-      "image_url": "https://store.bblcdn.eu/2a4d586809844e4e86625ef6e2f43f9e.png",
+      "image_url": "https://store.bblcdn.eu/s4/default/df2b444cfbe04e78a7eddad1383601a3/EA042.png",
       "part_number": "EA042",
       "price": "6.15",
       "region": "uk",
@@ -790,7 +790,7 @@
     {
       "available": true,
       "currency": "AUD",
-      "image_url": "https://store.bblcdn.com/0e983764a73544a9b18b085c41ba789e.png",
+      "image_url": "https://store.bblcdn.com/s2/default/171cebb3c8d64e48a3857b3939f0b516/EA042.png",
       "part_number": "EA042",
       "price": "13.89",
       "region": "au",
@@ -826,7 +826,7 @@
     {
       "available": true,
       "currency": "USD",
-      "image_url": "https://store.bblcdn.com/a46a021d017c4582affae89c556fa7e2.png",
+      "image_url": "https://store.bblcdn.com/s1/default/39d353060adb4b01a76991e029e330a8/EA042.png",
       "part_number": "EA042",
       "price": "6.99",
       "region": "asia",

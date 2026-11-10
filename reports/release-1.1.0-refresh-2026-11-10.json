@@ -1,0 +1,92 @@
+{
+  "blob_bytes": 4835636297,
+  "blobs": 5609,
+  "database_reproducible": true,
+  "database_sha256": "3d0f7f9637886f3be2bedbcbc4ce3d5433ee7a220e29db16e627fb938fc51cdc",
+  "first_sync": {
+    "has_changes": true,
+    "manifest": {
+      "assets_downloaded": 1451,
+      "assets_rejected": 1,
+      "bytes_downloaded": 1255067853,
+      "completed_at": "2026-11-10T13:12:49Z",
+      "metadata_only": false,
+      "products_written": 377,
+      "regions": [
+        {
+          "error": null,
+          "products_seen": 363,
+          "region": "us",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 363,
+          "region": "eu",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 361,
+          "region": "uk",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 362,
+          "region": "ca",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 338,
+          "region": "au",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 1,
+          "region": "jp",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 0,
+          "region": "kr",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 345,
+          "region": "asia",
+          "success": true
+        }
+      ],
+      "schema_version": 1,
+      "started_at": "2026-11-10T12:06:28Z"
+    },
+    "options": {
+      "dry_run": false,
+      "max_products": null,
+      "metadata_only": false,
+      "regions": [
+        "asia",
+        "au",
+        "ca",
+        "eu",
+        "jp",
+        "kr",
+        "uk",
+        "us"
+      ]
+    },
+    "promoted": true,
+    "snapshot_id": "d9dfb25e582c1721022f89874b7b963c4c185ad03ef79462e404a4123796b0e0"
+  },
+  "full_blob_validation": true,
+  "largest_blob_bytes": 54705684,
+  "schema_version": 1,
+  "snapshot_id": "d9dfb25e582c1721022f89874b7b963c4c185ad03ef79462e404a4123796b0e0",
+  "verified_at": "2026-11-10T13:18:46.228295+00:00",
+  "version": "1.1.0"
+}

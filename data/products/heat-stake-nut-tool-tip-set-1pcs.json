@@ -35,31 +35,43 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/d3/d3bd2593e827a2fbd629cd1deb488ed54d2414edef953cee21b7004115f0b452.png",
-      "id": "image-c81b363751a0b7797990",
+      "id": "image-eb1ad412bbc9d57ffc2e",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "zhutu.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "d3bd2593e827a2fbd629cd1deb488ed54d2414edef953cee21b7004115f0b452",
       "size": 1408251,
-      "source_url": "https://store.bblcdn.eu/s8/default/deb393dad09d49138887a8d077e5c86e/zhutu.png"
+      "source_url": "https://store.bblcdn.com/s7/default/9288cbf29b884374a9371a91a91463a7/zhutu.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2a/2a99cd410a999c1001c81761b6a16e9e2c9436a31acd9a070e4e5d9a13adf59d.png",
+      "id": "image-950a7f13dd493eccec26",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA004.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "2a99cd410a999c1001c81761b6a16e9e2c9436a31acd9a070e4e5d9a13adf59d",
+      "size": 3599501,
+      "source_url": "https://store.bblcdn.com/s7/default/d97cfd168c694be4a63ea4569efe700b/B-QA004.png"
     },
     {
       "blob_path": "data/blobs/sha256/ba/ba7e58ee3bd8ea3f6d8dcc948bc324fc0dd4524a96e8df0b9ee5642e69c32204.png",
-      "id": "image-b181d0de94e570900244",
+      "id": "image-a1e19fec735d388a2c8d",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "bianti.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "ba7e58ee3bd8ea3f6d8dcc948bc324fc0dd4524a96e8df0b9ee5642e69c32204",
       "size": 405590,
-      "source_url": "https://store.bblcdn.eu/s8/default/3462325702f84d0e8a722e823d7e61f5/bianti.png"
+      "source_url": "https://store.bblcdn.com/s7/default/a922da583ae94e899bb8ec3bb693b32f/bianti.png"
     },
     {
       "blob_path": "data/blobs/sha256/70/70686f1ca1925334483f79edbc0d9a146be7d7f08dfa7898b38d5ca349c8b6d2.png",
-      "id": "image-display-16412c5ffb701df69224",
+      "id": "image-display-6c3ded67703bde79a4af",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -72,16 +84,38 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "zhutu.catalog.png",
-      "parent_asset_id": "image-c81b363751a0b7797990",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-eb1ad412bbc9d57ffc2e",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "70686f1ca1925334483f79edbc0d9a146be7d7f08dfa7898b38d5ca349c8b6d2",
       "size": 244702,
-      "source_url": "https://store.bblcdn.eu/s8/default/deb393dad09d49138887a8d077e5c86e/zhutu.png"
+      "source_url": "https://store.bblcdn.com/s7/default/9288cbf29b884374a9371a91a91463a7/zhutu.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5b/5bc6d59ac30eb71c7bada4fb9d718794f7497faea46b0868749742286ec6f442.png",
+      "id": "image-display-ceb1ca0ae7421646220a",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 2400,
+        "source_sha256": "2a99cd410a999c1001c81761b6a16e9e2c9436a31acd9a070e4e5d9a13adf59d",
+        "source_width": 2600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-QA004.catalog.png",
+      "parent_asset_id": "image-950a7f13dd493eccec26",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "5bc6d59ac30eb71c7bada4fb9d718794f7497faea46b0868749742286ec6f442",
+      "size": 266630,
+      "source_url": "https://store.bblcdn.com/s7/default/d97cfd168c694be4a63ea4569efe700b/B-QA004.png"
     },
     {
       "blob_path": "data/blobs/sha256/ab/abea85204f3684807278702088526188f5502353b1477c1f11457203529a1571.png",
-      "id": "image-display-8b247f7bba2c65164ce8",
+      "id": "image-display-b2a01cb81005f0ebf1ea",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 404,
@@ -94,12 +128,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "bianti.catalog.png",
-      "parent_asset_id": "image-b181d0de94e570900244",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-a1e19fec735d388a2c8d",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "abea85204f3684807278702088526188f5502353b1477c1f11457203529a1571",
       "size": 91257,
-      "source_url": "https://store.bblcdn.eu/s8/default/3462325702f84d0e8a722e823d7e61f5/bianti.png"
+      "source_url": "https://store.bblcdn.com/s7/default/a922da583ae94e899bb8ec3bb693b32f/bianti.png"
     }
   ],
   "box_contents": [],
@@ -136,13 +170,377 @@
     {
       "kind": "paragraph",
       "text": "The included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies."
+    },
+    {
+      "kind": "heading",
+      "text": "Will this fit my soldering iron?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The included adapter is designed for 900M / T18-style removable-tip soldering irons. Other soldering iron systems may require a different adapter."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Hakko FX-888D / FX-888, T18-style irons Fits? Yes Notes Included adapter replaces the standard removable tip Hakko 936 / 937 / 907 handle Fits? Yes Notes 900M-style tip interface 936-style stations (Yihua, Baku, Kaisi, Aoyue, Vastar, etc.) Fits? Yes Notes Compatible if the iron uses 900M-style removable tips Generic adjustable iron using 900M tips Fits? Yes Notes 60 W or higher recommended TS100 / TS101 / SQ-001 / Pinecil V1 Fits? No — different adapter required Notes Needs a TS100-style shank; not included Pinecil V2 Fits? No Notes Different tip interface; TS100 adapters do not fit T12 / T15 cartridge irons Fits? No Notes Cartridge heater — this set cannot attach JBC C245 / C210, Aixun, Sugon, Sequre, FNIRSI HS-02A Fits? No Notes Cartridge irons; also a different thread than this kit Weller ET / LT / XT Fits? No Notes Proprietary tip series ERSA 102 / 832 / 842 Fits? No Notes Proprietary tip series Butane or fixed-tip irons Fits? No Notes Tip must be removable"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Hakko FX-888D / FX-888, T18-style irons Fits? Yes Notes Included adapter replaces the standard removable tip"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Hakko FX-888D / FX-888, T18-style irons"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? Yes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Yes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes Included adapter replaces the standard removable tip"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Included adapter replaces the standard removable tip"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Hakko 936 / 937 / 907 handle Fits? Yes Notes 900M-style tip interface"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Hakko 936 / 937 / 907 handle"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? Yes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Yes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes 900M-style tip interface"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "900M-style tip interface"
+    },
+    {
+      "kind": "paragraph",
+      "text": "936-style stations (Yihua, Baku, Kaisi, Aoyue, Vastar, etc.) Fits? Yes Notes Compatible if the iron uses 900M-style removable tips"
+    },
+    {
+      "kind": "paragraph",
+      "text": "936-style stations (Yihua, Baku, Kaisi, Aoyue, Vastar, etc.)"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? Yes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Yes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes Compatible if the iron uses 900M-style removable tips"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Compatible if the iron uses 900M-style removable tips"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Generic adjustable iron using 900M tips Fits? Yes Notes 60 W or higher recommended"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Generic adjustable iron using 900M tips"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? Yes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Yes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes 60 W or higher recommended"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "60 W or higher recommended"
+    },
+    {
+      "kind": "paragraph",
+      "text": "TS100 / TS101 / SQ-001 / Pinecil V1 Fits? No — different adapter required Notes Needs a TS100-style shank; not included"
+    },
+    {
+      "kind": "paragraph",
+      "text": "TS100 / TS101 / SQ-001 / Pinecil V1"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? No — different adapter required"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "No — different adapter required"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes Needs a TS100-style shank; not included"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Needs a TS100-style shank; not included"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Pinecil V2 Fits? No Notes Different tip interface; TS100 adapters do not fit"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Pinecil V2"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes Different tip interface; TS100 adapters do not fit"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Different tip interface; TS100 adapters do not fit"
+    },
+    {
+      "kind": "paragraph",
+      "text": "T12 / T15 cartridge irons Fits? No Notes Cartridge heater — this set cannot attach"
+    },
+    {
+      "kind": "paragraph",
+      "text": "T12 / T15 cartridge irons"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes Cartridge heater — this set cannot attach"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Cartridge heater — this set cannot attach"
+    },
+    {
+      "kind": "paragraph",
+      "text": "JBC C245 / C210, Aixun, Sugon, Sequre, FNIRSI HS-02A Fits? No Notes Cartridge irons; also a different thread than this kit"
+    },
+    {
+      "kind": "paragraph",
+      "text": "JBC C245 / C210, Aixun, Sugon, Sequre, FNIRSI HS-02A"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes Cartridge irons; also a different thread than this kit"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Cartridge irons; also a different thread than this kit"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Weller ET / LT / XT Fits? No Notes Proprietary tip series"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Weller ET / LT / XT"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes Proprietary tip series"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Proprietary tip series"
+    },
+    {
+      "kind": "paragraph",
+      "text": "ERSA 102 / 832 / 842 Fits? No Notes Proprietary tip series"
+    },
+    {
+      "kind": "paragraph",
+      "text": "ERSA 102 / 832 / 842"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes Proprietary tip series"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Proprietary tip series"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Butane or fixed-tip irons Fits? No Notes Tip must be removable"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Butane or fixed-tip irons"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits? No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Fits?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "No"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes Tip must be removable"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Tip must be removable"
     }
   ],
-  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<h2 class=\"pct_t\"></h2>\n<!-- 第一条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Stronger Threads for Functional 3D Prints</h3>\n<p class=\"pct_p\">Printed plastic threads can wear out or strip over time, especially in parts that are assembled and disassembled repeatedly. Brass heat-set inserts provide durable metal threads, helping improve assembly strength and making printed parts more suitable for repeated fastening.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/494bc397318246cabe06ba1155b3efe3/11.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/494bc397318246cabe06ba1155b3efe3/11.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<!-- 第三条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Multiple Sizes for Common Insert Standards</h3>\n<p class=\"pct_p\">The included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c6fa662995fa4247b8f20c1caf5b90f2/B-QA004_banner_3_1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c6fa662995fa4247b8f20c1caf5b90f2/B-QA004_banner_3_1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n<!-- table布局 -->\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<h3 class=\"pct_st\"><span style=\"font-size: 24px;\">Heat-Stake Nut Tool Tip Set</span></h3>\n<div class=\"pct_tbc\">\n<div class=\"TableWrapper\">\n<table class=\"pct_tb\" style=\"height: 477px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 27px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 102.637px; height: 27px;\">Size</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 125.35px; height: 27px;\">Tip Diameter (mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 241.488px; height: 27px;\">Total Length (mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 83.425px; height: 27px;\">Quantity</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 161.7px; height: 27px;\">Material</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M2</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n<td class=\"pct_td\" rowspan=\"8\" style=\"text-align: center; height: 450px; width: 161.7px;\">Brass</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M2.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M3</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">16.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M4</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">6.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">17.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">17.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M6</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M8</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">9</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">Handle</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">6.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">34</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>\n</div>",
-  "description_text": "Printed plastic threads can wear out or strip over time, especially in parts that are assembled and disassembled repeatedly. Brass heat-set inserts provide durable metal threads, helping improve assembly strength and making printed parts more suitable for repeated fastening.\n\nThe included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies.",
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<h2 class=\"pct_t\"></h2>\n<!-- 第一条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Stronger Threads for Functional 3D Prints</h3>\n<p class=\"pct_p\">Printed plastic threads can wear out or strip over time, especially in parts that are assembled and disassembled repeatedly. Brass heat-set inserts provide durable metal threads, helping improve assembly strength and making printed parts more suitable for repeated fastening.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/494bc397318246cabe06ba1155b3efe3/11.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/494bc397318246cabe06ba1155b3efe3/11.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n<!-- 第三条 -->\n<div class=\"pct_stpc-ic\"><!-- 左侧文案部分 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Multiple Sizes for Common Insert Standards</h3>\n<p class=\"pct_p\">The included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies.</p>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><!-- 手机端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c6fa662995fa4247b8f20c1caf5b90f2/B-QA004_banner_3_1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/> <!-- PC端图片 --> <img alt=\"图片加载失败文案\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c6fa662995fa4247b8f20c1caf5b90f2/B-QA004_banner_3_1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<h3 class=\"pct_st\"><span style=\"font-size: 24px;\">Will this fit my soldering iron?</span></h3>\n<p class=\"pct_hstn-compat-note\">The included adapter is designed for 900M / T18-style removable-tip soldering irons. Other soldering iron systems may require a different adapter.</p>\n<!-- PC端表格：尽量保持原样 -->\n<div class=\"pct_tbc pct_hstn-compat-desktop\">\n<div class=\"pct_hstn-table-wrapper\">\n<table class=\"pct_tb\" style=\"height: 477px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 27px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 102.637px; height: 27px;\">Your iron</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 125.35px; height: 27px;\">Fits with included adapter?</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 241.488px; height: 27px;\">Notes</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">Hakko FX-888D / FX-888, T18-style irons</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">Yes</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">Included adapter replaces the standard removable tip</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">Hakko 936 / 937 / 907 handle</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">Yes</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">900M-style tip interface</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">936-style stations (Yihua, Baku, Kaisi, Aoyue, Vastar, etc.)</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">Yes</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">Compatible if the iron uses 900M-style removable tips</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">Generic adjustable iron using 900M tips</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">Yes</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">60 W or higher recommended</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">TS100 / TS101 / SQ-001 / Pinecil V1</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">No — different adapter required</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">Needs a TS100-style shank; not included</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">Pinecil V2</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">No</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">Different tip interface; TS100 adapters do not fit</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">T12 / T15 cartridge irons</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">No</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">Cartridge heater — this set cannot attach</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">JBC C245 / C210, Aixun, Sugon, Sequre, FNIRSI HS-02A</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">No</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">Cartridge irons; also a different thread than this kit</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">Weller ET / LT / XT</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">No</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">Proprietary tip series</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">ERSA 102 / 832 / 842</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">No</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">Proprietary tip series</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">Butane or fixed-tip irons</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">No</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">Tip must be removable</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<!-- 手机端卡片：避免只看到第一列造成误解 -->\n<div class=\"pct_hstn-compat-mobile\">\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">Hakko FX-888D / FX-888, T18-style irons</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-yes\">Yes</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">Included adapter replaces the standard removable tip</div>\n</div>\n</div>\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">Hakko 936 / 937 / 907 handle</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-yes\">Yes</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">900M-style tip interface</div>\n</div>\n</div>\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">936-style stations (Yihua, Baku, Kaisi, Aoyue, Vastar, etc.)</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-yes\">Yes</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">Compatible if the iron uses 900M-style removable tips</div>\n</div>\n</div>\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">Generic adjustable iron using 900M tips</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-yes\">Yes</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">60 W or higher recommended</div>\n</div>\n</div>\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">TS100 / TS101 / SQ-001 / Pinecil V1</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-limited\">No — different adapter required</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">Needs a TS100-style shank; not included</div>\n</div>\n</div>\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">Pinecil V2</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-no\">No</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">Different tip interface; TS100 adapters do not fit</div>\n</div>\n</div>\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">T12 / T15 cartridge irons</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-no\">No</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">Cartridge heater — this set cannot attach</div>\n</div>\n</div>\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">JBC C245 / C210, Aixun, Sugon, Sequre, FNIRSI HS-02A</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-no\">No</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">Cartridge irons; also a different thread than this kit</div>\n</div>\n</div>\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">Weller ET / LT / XT</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-no\">No</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">Proprietary tip series</div>\n</div>\n</div>\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">ERSA 102 / 832 / 842</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-no\">No</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">Proprietary tip series</div>\n</div>\n</div>\n<div class=\"pct_hstn-compat-card\">\n<div class=\"pct_hstn-compat-card-title\">Butane or fixed-tip irons</div>\n<div class=\"pct_hstn-compat-card-row\">\n<div class=\"pct_hstn-compat-card-label\">Fits?</div>\n<div class=\"pct_hstn-compat-card-value pct_hstn-compat-no\">No</div>\n</div>\n<div class=\"pct_hstn-compat-card-row pct_hstn-compat-card-row-last\">\n<div class=\"pct_hstn-compat-card-label\">Notes</div>\n<div class=\"pct_hstn-compat-card-value\">Tip must be removable</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<h3 class=\"pct_st\"><span style=\"font-size: 24px;\">What's in the box</span></h3>\n<div class=\"pct_tbc\">\n<div class=\"pct_hstn-table-wrapper\">\n<table class=\"pct_tb\" style=\"height: 477px;\"><!-- 表头 -->\n<thead class=\"pct_th\">\n<tr style=\"height: 27px;\">\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 102.637px; height: 27px;\">Size</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 125.35px; height: 27px;\">Tip Diameter (mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 241.488px; height: 27px;\">Total Length (mm)</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 83.425px; height: 27px;\">Quantity</td>\n<td class=\"pct_td\" style=\"background-color: #c7c7c7; color: #333333; border-color: #adadad; text-align: center; width: 161.7px; height: 27px;\">Material</td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M2</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n<td class=\"pct_td\" rowspan=\"8\" style=\"text-align: center; height: 450px; width: 161.7px;\">Brass</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M2.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M3</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">16.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M4</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">6.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">17.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">17.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M6</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">7</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">M8</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">9</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">12.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 50px;\">\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 102.637px;\">900M / T18 adapter shank</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 125.35px;\">6.5</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 241.488px;\">34</td>\n<td class=\"pct_td\" style=\"text-align: center; height: 50px; width: 83.425px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n</div>",
+  "description_text": "Printed plastic threads can wear out or strip over time, especially in parts that are assembled and disassembled repeatedly. Brass heat-set inserts provide durable metal threads, helping improve assembly strength and making printed parts more suitable for repeated fastening.\n\nThe included heat-insert tooling supports common insert sizes used in 3D printing, including M2, M2.5, M3, M4, M5, M6, and M8. This makes it easier to handle a wide range of printed enclosures, brackets, and functional assemblies.\n\nThe included adapter is designed for 900M / T18-style removable-tip soldering irons. Other soldering iron systems may require a different adapter.\n\nHakko FX-888D / FX-888, T18-style irons Fits? Yes Notes Included adapter replaces the standard removable tip Hakko 936 / 937 / 907 handle Fits? Yes Notes 900M-style tip interface 936-style stations (Yihua, Baku, Kaisi, Aoyue, Vastar, etc.) Fits? Yes Notes Compatible if the iron uses 900M-style removable tips Generic adjustable iron using 900M tips Fits? Yes Notes 60 W or higher recommended TS100 / TS101 / SQ-001 / Pinecil V1 Fits? No — different adapter required Notes Needs a TS100-style shank; not included Pinecil V2 Fits? No Notes Different tip interface; TS100 adapters do not fit T12 / T15 cartridge irons Fits? No Notes Cartridge heater — this set cannot attach JBC C245 / C210, Aixun, Sugon, Sequre, FNIRSI HS-02A Fits? No Notes Cartridge irons; also a different thread than this kit Weller ET / LT / XT Fits? No Notes Proprietary tip series ERSA 102 / 832 / 842 Fits? No Notes Proprietary tip series Butane or fixed-tip irons Fits? No Notes Tip must be removable\n\nHakko FX-888D / FX-888, T18-style irons Fits? Yes Notes Included adapter replaces the standard removable tip\n\nHakko FX-888D / FX-888, T18-style irons\n\nFits? Yes\n\nFits?\n\nYes\n\nNotes Included adapter replaces the standard removable tip\n\nNotes\n\nIncluded adapter replaces the standard removable tip\n\nHakko 936 / 937 / 907 handle Fits? Yes Notes 900M-style tip interface\n\nHakko 936 / 937 / 907 handle\n\nFits? Yes\n\nFits?\n\nYes\n\nNotes 900M-style tip interface\n\nNotes\n\n900M-style tip interface\n\n936-style stations (Yihua, Baku, Kaisi, Aoyue, Vastar, etc.) Fits? Yes Notes Compatible if the iron uses 900M-style removable tips\n\n936-style stations (Yihua, Baku, Kaisi, Aoyue, Vastar, etc.)\n\nFits? Yes\n\nFits?\n\nYes\n\nNotes Compatible if the iron uses 900M-style removable tips\n\nNotes\n\nCompatible if the iron uses 900M-style removable tips\n\nGeneric adjustable iron using 900M tips Fits? Yes Notes 60 W or higher recommended\n\nGeneric adjustable iron using 900M tips\n\nFits? Yes\n\nFits?\n\nYes\n\nNotes 60 W or higher recommended\n\nNotes\n\n60 W or higher recommended\n\nTS100 / TS101 / SQ-001 / Pinecil V1 Fits? No — different adapter required Notes Needs a TS100-style shank; not included\n\nTS100 / TS101 / SQ-001 / Pinecil V1\n\nFits? No — different adapter required\n\nFits?\n\nNo — different adapter required\n\nNotes Needs a TS100-style shank; not included\n\nNotes\n\nNeeds a TS100-style shank; not included\n\nPinecil V2 Fits? No Notes Different tip interface; TS100 adapters do not fit\n\nPinecil V2\n\nFits? No\n\nFits?\n\nNo\n\nNotes Different tip interface; TS100 adapters do not fit\n\nNotes\n\nDifferent tip interface; TS100 adapters do not fit\n\nT12 / T15 cartridge irons Fits? No Notes Cartridge heater — this set cannot attach\n\nT12 / T15 cartridge irons\n\nFits? No\n\nFits?\n\nNo\n\nNotes Cartridge heater — this set cannot attach\n\nNotes\n\nCartridge heater — this set cannot attach\n\nJBC C245 / C210, Aixun, Sugon, Sequre, FNIRSI HS-02A Fits? No Notes Cartridge irons; also a different thread than this kit\n\nJBC C245 / C210, Aixun, Sugon, Sequre, FNIRSI HS-02A\n\nFits? No\n\nFits?\n\nNo\n\nNotes Cartridge irons; also a different thread than this kit\n\nNotes\n\nCartridge irons; also a different thread than this kit\n\nWeller ET / LT / XT Fits? No Notes Proprietary tip series\n\nWeller ET / LT / XT\n\nFits? No\n\nFits?\n\nNo\n\nNotes Proprietary tip series\n\nNotes\n\nProprietary tip series\n\nERSA 102 / 832 / 842 Fits? No Notes Proprietary tip series\n\nERSA 102 / 832 / 842\n\nFits? No\n\nFits?\n\nNo\n\nNotes Proprietary tip series\n\nNotes\n\nProprietary tip series\n\nButane or fixed-tip irons Fits? No Notes Tip must be removable\n\nButane or fixed-tip irons\n\nFits? No\n\nFits?\n\nNo\n\nNotes Tip must be removable\n\nNotes\n\nTip must be removable",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "heat-stake-nut-tool-tip-set-1pcs",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Heat-Stake Nut Tool Tip Set",
   "offers": [
@@ -208,7 +606,11 @@
     }
   ],
   "part_numbers": [
-    "B-QA004"
+    "B-QA004",
+    "C210",
+    "C245",
+    "TS100",
+    "TS101"
   ],
   "related_links": [],
   "schema_version": 4,
@@ -223,7 +625,77 @@
   ],
   "source_tables": [
     {
-      "caption": "Heat-Stake Nut Tool Tip Set",
+      "caption": "Will this fit my soldering iron?",
+      "headers": [
+        "Your iron",
+        "Fits with included adapter?",
+        "Notes"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/heat-stake-nut-tool-tip-set-1pcs?id=599495792374325250"
+      },
+      "rows": [
+        [
+          "Hakko FX-888D / FX-888, T18-style irons",
+          "Yes",
+          "Included adapter replaces the standard removable tip"
+        ],
+        [
+          "Hakko 936 / 937 / 907 handle",
+          "Yes",
+          "900M-style tip interface"
+        ],
+        [
+          "936-style stations (Yihua, Baku, Kaisi, Aoyue, Vastar, etc.)",
+          "Yes",
+          "Compatible if the iron uses 900M-style removable tips"
+        ],
+        [
+          "Generic adjustable iron using 900M tips",
+          "Yes",
+          "60 W or higher recommended"
+        ],
+        [
+          "TS100 / TS101 / SQ-001 / Pinecil V1",
+          "No — different adapter required",
+          "Needs a TS100-style shank; not included"
+        ],
+        [
+          "Pinecil V2",
+          "No",
+          "Different tip interface; TS100 adapters do not fit"
+        ],
+        [
+          "T12 / T15 cartridge irons",
+          "No",
+          "Cartridge heater — this set cannot attach"
+        ],
+        [
+          "JBC C245 / C210, Aixun, Sugon, Sequre, FNIRSI HS-02A",
+          "No",
+          "Cartridge irons; also a different thread than this kit"
+        ],
+        [
+          "Weller ET / LT / XT",
+          "No",
+          "Proprietary tip series"
+        ],
+        [
+          "ERSA 102 / 832 / 842",
+          "No",
+          "Proprietary tip series"
+        ],
+        [
+          "Butane or fixed-tip irons",
+          "No",
+          "Tip must be removable"
+        ]
+      ]
+    },
+    {
+      "caption": "What's in the box",
       "headers": [
         "Size",
         "Tip Diameter (mm)",
@@ -233,7 +705,7 @@
       ],
       "provenance": {
         "kind": "page_table",
-        "reference": "table:0",
+        "reference": "table:1",
         "source_url": "https://us.store.bambulab.com/products/heat-stake-nut-tool-tip-set-1pcs?id=599495792374325250"
       },
       "rows": [
@@ -281,7 +753,7 @@
           "1"
         ],
         [
-          "Handle",
+          "900M / T18 adapter shank",
           "6.5",
           "34",
           "1"
@@ -290,7 +762,9 @@
     }
   ],
   "specifications": {},
-  "tags": [],
+  "tags": [
+    "kit"
+  ],
   "variants": [
     {
       "available": true,

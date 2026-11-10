@@ -35,27 +35,27 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/87/873adaa4ceacb0c868d48ecb47e25bb1162b8f7a00d0b2a5141cfe350908c394.png",
-      "id": "image-a604babfd61dabe90a64",
+      "id": "image-da0985a284d17a512405",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "be8b0730ffd94391acb2be47667bde74.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "USB-A_Power_Cable_-_IC001.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "873adaa4ceacb0c868d48ecb47e25bb1162b8f7a00d0b2a5141cfe350908c394",
       "size": 266128,
-      "source_url": "https://store.bblcdn.eu/be8b0730ffd94391acb2be47667bde74.png"
+      "source_url": "https://store.bblcdn.com/s7/default/29ac8978756f46578f797a47946138c6/USB-A_Power_Cable_-_IC001.png"
     },
     {
       "blob_path": "data/blobs/sha256/29/296476b38da74d1c8981fd4ad9039fd2fadcaed8f39859bc1b337184b533737e.png",
-      "id": "image-6cfc41f4d0fb0b85e685",
+      "id": "image-1e75219ceedbd6a6e701",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "321e517efaeb43e1a10b61e24db0c321.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "USB-APowerCablewithPH2.0Connector.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "296476b38da74d1c8981fd4ad9039fd2fadcaed8f39859bc1b337184b533737e",
       "size": 256675,
-      "source_url": "https://store.bblcdn.eu/321e517efaeb43e1a10b61e24db0c321.png"
+      "source_url": "https://store.bblcdn.com/s7/default/a54f697e24864735acd2a868e5b034d2/USB-APowerCablewithPH2.0Connector.png"
     },
     {
       "blob_path": "data/blobs/sha256/a8/a8e6df37b63745dea57a34b26fffd239e07065fd759e38428257026cf4aa7083.pdf",
@@ -111,7 +111,7 @@
     },
     {
       "blob_path": "data/blobs/sha256/42/42ff1e9aa9603308dcdbeebc5206eb802613f52a2450cf934f60ddc8fc568ffa.png",
-      "id": "image-display-1b1a7783a1edf0bfda15",
+      "id": "image-display-95607bcc8ed8521c7c4d",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 404,
@@ -123,17 +123,17 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "be8b0730ffd94391acb2be47667bde74.catalog.png",
-      "parent_asset_id": "image-a604babfd61dabe90a64",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "USB-A_Power_Cable_-_IC001.catalog.png",
+      "parent_asset_id": "image-da0985a284d17a512405",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "42ff1e9aa9603308dcdbeebc5206eb802613f52a2450cf934f60ddc8fc568ffa",
       "size": 71312,
-      "source_url": "https://store.bblcdn.eu/be8b0730ffd94391acb2be47667bde74.png"
+      "source_url": "https://store.bblcdn.com/s7/default/29ac8978756f46578f797a47946138c6/USB-A_Power_Cable_-_IC001.png"
     },
     {
       "blob_path": "data/blobs/sha256/8a/8a6e9c7f99617bd26f766e93c95b865ddf4b42bcd683cf6a5542815bb777c1c3.png",
-      "id": "image-display-4b923fd3e709bfeb7dd4",
+      "id": "image-display-64102e561dccab1183db",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -145,13 +145,13 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "321e517efaeb43e1a10b61e24db0c321.catalog.png",
-      "parent_asset_id": "image-6cfc41f4d0fb0b85e685",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "USB-APowerCablewithPH2.0Connector.catalog.png",
+      "parent_asset_id": "image-1e75219ceedbd6a6e701",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "8a6e9c7f99617bd26f766e93c95b865ddf4b42bcd683cf6a5542815bb777c1c3",
       "size": 64455,
-      "source_url": "https://store.bblcdn.eu/321e517efaeb43e1a10b61e24db0c321.png"
+      "source_url": "https://store.bblcdn.com/s7/default/a54f697e24864735acd2a868e5b034d2/USB-APowerCablewithPH2.0Connector.png"
     }
   ],
   "box_contents": [],
@@ -193,7 +193,7 @@
   "description_text": "Used in conjunction with a power distribution board, it connects to the IN to provide power to the board.\n\nPlease hold the connector when plugging and unplugging, and do not forcefully twist the connectors to avoid wires loosening or detaching.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ic001-usb-a-power-cable-with-ph2-0-connector",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Length (mm)",

@@ -35,55 +35,31 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/6c/6cba3506d1f202a6c20f6eae157d07100081d307b8714ea4f568478d33fc7bd9.png",
-      "id": "image-3cd16c541a2510a6a390",
+      "id": "image-e395bb8d9b2fd292937f",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "Group_1123863530.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "6cba3506d1f202a6c20f6eae157d07100081d307b8714ea4f568478d33fc7bd9",
       "size": 257063,
-      "source_url": "https://store.bblcdn.com/s1/default/875429155ef64450b4b0e093b7132774/Group_1123863530.png"
+      "source_url": "https://store.bblcdn.com/s7/default/f22dda8110114cf1b7c2616621905537/Group_1123863530.png"
     },
     {
       "blob_path": "data/blobs/sha256/92/9249f62ceadc04976db0263d4e7a39fba37e554db0e0cb4f15d1b3bf8fcdd0f1.jpg",
-      "id": "image-ef1232884c026e318649",
+      "id": "image-fcf704bc02ff644797a0",
       "kind": "image",
       "media_type": "image/jpeg",
       "original_filename": "Frame_47901.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "9249f62ceadc04976db0263d4e7a39fba37e554db0e0cb4f15d1b3bf8fcdd0f1",
       "size": 2283252,
-      "source_url": "https://store.bblcdn.com/s1/default/b1693c0ab6334d5bb850ffad419b0481/Frame_47901.jpg"
-    },
-    {
-      "blob_path": "data/blobs/sha256/b7/b7a71693957dfe6a08acc6bac8b5fa3a92664d1dccbfe8a6c4935314feee24c2.png",
-      "id": "image-5d84b1498b44ec1a002b",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "Frame_1123861754.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "b7a71693957dfe6a08acc6bac8b5fa3a92664d1dccbfe8a6c4935314feee24c2",
-      "size": 4558965,
-      "source_url": "https://store.bblcdn.com/s1/default/1abc7f47108c43dfb1bbcdb5b2faadfb/Frame_1123861754.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/ca/ca3a2b18a8ac3ec3c4899803aa04988a84cba26077e5df0c8ca61bdac0bf4a13.jpg",
-      "id": "image-91bda4524fe753f0a9bb",
-      "kind": "image",
-      "media_type": "image/jpeg",
-      "original_filename": "11.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "ca3a2b18a8ac3ec3c4899803aa04988a84cba26077e5df0c8ca61bdac0bf4a13",
-      "size": 316389,
-      "source_url": "https://store.bblcdn.com/s1/default/08fe8b8d8c024fa183a80692596bc6cd/11.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/900970243786475ba1bbca8165b43344/Frame_47901.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/d9/d97afbb5990ef100f299b41f8f2d31538185073e5261eb36a2859f69856fa69d.png",
-      "id": "image-display-a3a5c440b1051012c9b2",
+      "id": "image-display-96e302ca45256df6c67c",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -96,16 +72,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "Group_1123863530.catalog.png",
-      "parent_asset_id": "image-3cd16c541a2510a6a390",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-e395bb8d9b2fd292937f",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "d97afbb5990ef100f299b41f8f2d31538185073e5261eb36a2859f69856fa69d",
       "size": 93321,
-      "source_url": "https://store.bblcdn.com/s1/default/875429155ef64450b4b0e093b7132774/Group_1123863530.png"
+      "source_url": "https://store.bblcdn.com/s7/default/f22dda8110114cf1b7c2616621905537/Group_1123863530.png"
     },
     {
       "blob_path": "data/blobs/sha256/dd/dd3bff7efe84fc00c424687f4a56a5b6890f8c55070556ff14942bbf9b4118dc.png",
-      "id": "image-display-7522bfa889c7ae9881a8",
+      "id": "image-display-65b56843eaa214cf6372",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -118,56 +94,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "Frame_47901.catalog.png",
-      "parent_asset_id": "image-ef1232884c026e318649",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-fcf704bc02ff644797a0",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "dd3bff7efe84fc00c424687f4a56a5b6890f8c55070556ff14942bbf9b4118dc",
       "size": 695589,
-      "source_url": "https://store.bblcdn.com/s1/default/b1693c0ab6334d5bb850ffad419b0481/Frame_47901.jpg"
-    },
-    {
-      "blob_path": "data/blobs/sha256/b4/b488232d42c07f43ec0f1a1403cf5afb385348f4da2bc9a673bdc8df05e18799.png",
-      "id": "image-display-0f0d20e5c3212c240b87",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 2400,
-        "source_sha256": "b7a71693957dfe6a08acc6bac8b5fa3a92664d1dccbfe8a6c4935314feee24c2",
-        "source_width": 2400
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "Frame_1123861754.catalog.png",
-      "parent_asset_id": "image-5d84b1498b44ec1a002b",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "b488232d42c07f43ec0f1a1403cf5afb385348f4da2bc9a673bdc8df05e18799",
-      "size": 780449,
-      "source_url": "https://store.bblcdn.com/s1/default/1abc7f47108c43dfb1bbcdb5b2faadfb/Frame_1123861754.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/89/89a10d1e21c5eec1f4a9c395d75a1cf0abb0bd2832360823fe4bf9890c39d21b.png",
-      "id": "image-display-44a0955f4e11c15b526d",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 1875,
-        "source_sha256": "ca3a2b18a8ac3ec3c4899803aa04988a84cba26077e5df0c8ca61bdac0bf4a13",
-        "source_width": 1875
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "11.catalog.png",
-      "parent_asset_id": "image-91bda4524fe753f0a9bb",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "89a10d1e21c5eec1f4a9c395d75a1cf0abb0bd2832360823fe4bf9890c39d21b",
-      "size": 113195,
-      "source_url": "https://store.bblcdn.com/s1/default/08fe8b8d8c024fa183a80692596bc6cd/11.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/900970243786475ba1bbca8165b43344/Frame_47901.jpg"
     }
   ],
   "box_contents": [],
@@ -233,7 +165,7 @@
   "description_text": "Removing fine supports, clearing filament strings, or positioning tiny printed parts often requires more control than fingers can provide. This precision stainless steel tweezer set helps you handle delicate post‑processing tasks with accuracy.\n\nDifferent tip geometries are designed to handle specific situations in 3D printing. Fine straight tips allow precise gripping of small supports and filament strands, while angled tips make it easier to reach tight corners and recessed areas inside complex prints.\n\nThe slim stainless steel tips allow careful manipulation around tight spaces such as nozzles, cooling ducts, or small assemblies. Whether removing stray filament from a heated nozzle or positioning tiny printed components, the tweezers provide the precision needed to work safely.\n\nAvoid using hard alloys or fiberglass to prevent tip damage.\n\nSuitable for plastics, resins, and soft metals (hardness ≤150 HV).\n\nAlways replace protective caps after use to maintain tip precision and safety.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "maker-s-supply-esd-stainless-steel-tweezers-set",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Tip Thickness",

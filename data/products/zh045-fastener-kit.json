@@ -35,15 +35,15 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/e9/e939ef59fb60dc53ef81e836d8cd2d8cef1fde19d5a8a36d69596c9780115c2d.png",
-      "id": "image-95e7004c14d799344e51",
+      "id": "image-f1fcd952d3ffa3c6a650",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH045.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "e939ef59fb60dc53ef81e836d8cd2d8cef1fde19d5a8a36d69596c9780115c2d",
       "size": 228822,
-      "source_url": "https://store.bblcdn.com/s5/default/445abda6254843b28101c279476f1607/ZH045.png"
+      "source_url": "https://store.bblcdn.com/s7/default/01b46ef9d1b24c8ea3638f1e1021f19e/ZH045.png"
     },
     {
       "blob_path": "data/blobs/sha256/2f/2ffec82674017716fa358ee4a9541824d711349c097163a6f25a6f75650f2af8.zip",
@@ -535,7 +535,7 @@
     },
     {
       "blob_path": "data/blobs/sha256/72/7228db4d0fd0680393936e9fc4864204ab5878d2c4b35c366c4dbbdf20994600.png",
-      "id": "image-display-34446104b9e707fed9c3",
+      "id": "image-display-eec96b8d51f2d67114fd",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -548,12 +548,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH045.catalog.png",
-      "parent_asset_id": "image-95e7004c14d799344e51",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-f1fcd952d3ffa3c6a650",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "7228db4d0fd0680393936e9fc4864204ab5878d2c4b35c366c4dbbdf20994600",
       "size": 84043,
-      "source_url": "https://store.bblcdn.com/s5/default/445abda6254843b28101c279476f1607/ZH045.png"
+      "source_url": "https://store.bblcdn.com/s7/default/01b46ef9d1b24c8ea3638f1e1021f19e/ZH045.png"
     }
   ],
   "box_contents": [
@@ -756,7 +756,7 @@
   "description_text": "This kit includes a variety of commonly used self-tapping screws, machine screws, and corresponding nuts in different specifications and lengths, meeting the fastening needs of various models and structures. From self-tapping screws for small-sized holes to machine screws and round threaded brass heat-insert nut for larger components, this set provides highly adaptable and secure connections for diverse applications.\n\nStandardized Connections: The kit contains a wide range of standardized screws and nuts, with screw sizes ranging from M2 to M4 and lengths from 4mm to 30mm, covering most screw sizes commonly used in 3D printed models.\n\nEfficient Assembly: Creators can directly use high-precision, high-quality fasteners, eliminating the need for repeated testing and searching for suitable components. This allows for faster assembly and improved work efficiency.\n\nSmall Quantities in Separate Packs: The kit features small, individually packaged quantities, enabling designers to freely match the required fasteners for their models without needing to modify designs to accommodate compatible screws. This provides a more flexible, cost-effective, and high-quality solution for selecting fasteners, reducing single-order costs and preventing material wastage.\n\nMechanical Structures and Toy Models: Suitable for structural connections in various mechanical structures and toy models, such as car models, robot models, brackets, and scene models, ensuring tight fits and stable connections.\n\nElectronic Device Assembly: Ideal for assembling and securing electronic devices, sensors, hardware boards, and other commonly used electronic components. The selection includes various head types and popular sizes, ensuring the compatibility and reliability of the parts.\n\nHome Decoration: Suitable for home decoration projects such as wall racks, display stands, and lighting fixtures, providing reliable and durable connections.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh045-fastener-kit",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Fastener Kit",
   "offers": [
@@ -785,19 +785,19 @@
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
-      "price": "17.01",
+      "price": "13.61",
       "region": "eu",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://eu.store.bambulab.com/en/products/fastener-kit?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "GBP",
       "listed": true,
       "missing_runs": 0,
       "price": "14.45",
       "region": "uk",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://uk.store.bambulab.com/en/products/fastener-kit?skr=yes"
     },
     {
@@ -987,7 +987,7 @@
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/c4c946fd43cf4922a9b48246c67cb658/ZH045.png",
       "part_number": "ZH045",
-      "price": "17.01",
+      "price": "13.61",
       "region": "eu",
       "sku": "53495181312348",
       "title": "Fastener Kit - Fastener Kit-ZH045",
@@ -995,7 +995,7 @@
       "variant_id": "53495181312348"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "GBP",
       "image_url": "https://store.bblcdn.eu/s4/default/c46a64d25a2441928ed94dafb0cf2468/ZH045.png",
       "part_number": "ZH045",

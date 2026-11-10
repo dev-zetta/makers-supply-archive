@@ -35,15 +35,15 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/e9/e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2.png",
-      "id": "image-e504072dd27ec094a2cc",
+      "id": "image-b2a6f79de05435b159f9",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH155.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2",
       "size": 959287,
-      "source_url": "https://store.bblcdn.com/s5/default/5a9ffff36b4e453f9954748d15e10370/ZH155.png"
+      "source_url": "https://store.bblcdn.com/s7/default/02f3dcc0028f45178e728469f30000ad/ZH155.png"
     },
     {
       "blob_path": "data/blobs/sha256/e9/e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2.png",
@@ -59,19 +59,19 @@
     },
     {
       "blob_path": "data/blobs/sha256/9c/9ce127f67dc13c48f499f6ca22fe09fa0436f8ac31d2123eaefa5dfee5a4eb21.png",
-      "id": "image-9ade4867c0129be77b5a",
+      "id": "image-3f103e06eb4f4f67fa1d",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH155_V.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "9ce127f67dc13c48f499f6ca22fe09fa0436f8ac31d2123eaefa5dfee5a4eb21",
       "size": 590177,
-      "source_url": "https://store.bblcdn.com/s5/default/449deeec9a1a45cf93575e88ac7a3db6/ZH155_V.png"
+      "source_url": "https://store.bblcdn.com/s7/default/601ad2a03eb44084a9e56f99c05ace98/ZH155_V.png"
     },
     {
       "blob_path": "data/blobs/sha256/f1/f1461337f6b92b1ec05d888e46104974bbcca1f53c8c3c34bc695916ce86377d.png",
-      "id": "image-display-f1ecc42659aa4678554c",
+      "id": "image-display-11ed1b6f38a4d498037e",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -84,12 +84,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH155.catalog.png",
-      "parent_asset_id": "image-e504072dd27ec094a2cc",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-b2a6f79de05435b159f9",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "f1461337f6b92b1ec05d888e46104974bbcca1f53c8c3c34bc695916ce86377d",
       "size": 296795,
-      "source_url": "https://store.bblcdn.com/s5/default/5a9ffff36b4e453f9954748d15e10370/ZH155.png"
+      "source_url": "https://store.bblcdn.com/s7/default/02f3dcc0028f45178e728469f30000ad/ZH155.png"
     },
     {
       "blob_path": "data/blobs/sha256/f1/f1461337f6b92b1ec05d888e46104974bbcca1f53c8c3c34bc695916ce86377d.png",
@@ -115,7 +115,7 @@
     },
     {
       "blob_path": "data/blobs/sha256/3a/3abff1e224c48d694465d309e93c067c27b0a50425a4e3d98d901f3f7feb262e.png",
-      "id": "image-display-5d9ed247bbe37ea06901",
+      "id": "image-display-77d5da1d450facae711b",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -128,12 +128,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH155_V.catalog.png",
-      "parent_asset_id": "image-9ade4867c0129be77b5a",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-3f103e06eb4f4f67fa1d",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "3abff1e224c48d694465d309e93c067c27b0a50425a4e3d98d901f3f7feb262e",
       "size": 150673,
-      "source_url": "https://store.bblcdn.com/s5/default/449deeec9a1a45cf93575e88ac7a3db6/ZH155_V.png"
+      "source_url": "https://store.bblcdn.com/s7/default/601ad2a03eb44084a9e56f99c05ace98/ZH155_V.png"
     }
   ],
   "box_contents": [
@@ -239,7 +239,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Motorized USB Solder Dispenser. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Motorized USB Solder Dispenser on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh155-motorized-usb-solder-dispenser",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Motorized USB Solder Dispenser",
   "offers": [
@@ -254,13 +254,13 @@
       "url": "https://us.store.bambulab.com/en/products/motorized-usb-solder-dispenser?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "listed": true,
       "missing_runs": 0,
       "price": "33.99",
       "region": "ca",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://ca.store.bambulab.com/en/products/motorized-usb-solder-dispenser?skr=yes"
     },
     {
@@ -402,7 +402,7 @@
       "variant_id": "748398226107035650"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "image_url": "https://store.bblcdn.com/s5/default/5a9ffff36b4e453f9954748d15e10370/ZH155.png",
       "part_number": "ZH155",

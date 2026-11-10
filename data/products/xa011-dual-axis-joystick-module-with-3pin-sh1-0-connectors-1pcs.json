@@ -35,27 +35,27 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/f0/f07b233ec2c315914229f4f7fbe570ca090749ed4abf8751e754178b5565ee7d.png",
-      "id": "image-e33bfbbdfb2cc4e61ce6",
+      "id": "image-db1adcb504694bd3ea15",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "XA011-F.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "f07b233ec2c315914229f4f7fbe570ca090749ed4abf8751e754178b5565ee7d",
       "size": 4055741,
-      "source_url": "https://store.bblcdn.eu/s4/default/9f54c535390e4bdcb282acb171f16397/XA011-F.png"
+      "source_url": "https://store.bblcdn.com/s7/default/135817f9707840ed9c43704e91cb06a3/XA011-F.png"
     },
     {
       "blob_path": "data/blobs/sha256/6f/6f8542e31ad80f00b45821504715a078c1396ec4a2f0599abc863c655cdbb2d4.jpg",
-      "id": "image-b12b0c853a8b445813fa",
+      "id": "image-2d7ae86e248ced685cd9",
       "kind": "image",
       "media_type": "image/jpeg",
       "original_filename": "XA011-V.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "6f8542e31ad80f00b45821504715a078c1396ec4a2f0599abc863c655cdbb2d4",
       "size": 359233,
-      "source_url": "https://store.bblcdn.eu/s4/default/9ba090e67aed4809b9263d85a5b03105/XA011-V.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/8f7cf558166d4577a59a31eed6ef0668/XA011-V.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/60/60dc90f0ffb70b8ed4557cf43fd97d7d54b7afd9a188517ed3a0671ff962cd9e.zip",
@@ -123,7 +123,7 @@
     },
     {
       "blob_path": "data/blobs/sha256/eb/eb520454abf30741c9e5db0cbe84962392767cb65524c68c9d36e80cbf52300d.png",
-      "id": "image-display-e71db732e3ee2fbb6733",
+      "id": "image-display-86b21ecc39830b6b0ed8",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -136,16 +136,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "XA011-F.catalog.png",
-      "parent_asset_id": "image-e33bfbbdfb2cc4e61ce6",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-db1adcb504694bd3ea15",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "eb520454abf30741c9e5db0cbe84962392767cb65524c68c9d36e80cbf52300d",
       "size": 302540,
-      "source_url": "https://store.bblcdn.eu/s4/default/9f54c535390e4bdcb282acb171f16397/XA011-F.png"
+      "source_url": "https://store.bblcdn.com/s7/default/135817f9707840ed9c43704e91cb06a3/XA011-F.png"
     },
     {
       "blob_path": "data/blobs/sha256/89/8941d207f6f79c0998ce335d885ca308208b8d0f3ab41ab4f6114848728fbed9.png",
-      "id": "image-display-c722f2ddd3cf9aaae2a3",
+      "id": "image-display-445e73bca19190edc8a2",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -158,12 +158,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "XA011-V.catalog.png",
-      "parent_asset_id": "image-b12b0c853a8b445813fa",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-2d7ae86e248ced685cd9",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "8941d207f6f79c0998ce335d885ca308208b8d0f3ab41ab4f6114848728fbed9",
       "size": 152454,
-      "source_url": "https://store.bblcdn.eu/s4/default/9ba090e67aed4809b9263d85a5b03105/XA011-V.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/8f7cf558166d4577a59a31eed6ef0668/XA011-V.jpg"
     }
   ],
   "box_contents": [],
@@ -213,7 +213,7 @@
   "description_text": "The Dual-Axis Joystick Module is a 2-channel analog input module. It automatically returns to the center. The dual-channel joystick is suitable for use as a control lever in various scenarios where control of both movement speed and direction is required, especially when these movements are interrelated.\n\nFor example, in vehicle models, one axis is used to control the moving speed, and the other axis is used to control the steering; or in the model of a tower crane, one axis is used to control the rotation, and the other axis is used to control the distance of the trolley car.\n\nIncluded accessory: The product comes with a 100mm Wire with 3Pin SH1.0 Connectors.\n\nChoking hazard: This product contains small parts. Keep out of reach of children to avoid accidental ingestion.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xa011-dual-axis-joystick-module-with-3pin-sh1-0-connectors-1pcs",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Size",

@@ -1,0 +1,980 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "modular-truck-platform-cyberbrick-rc",
+      "product_id": "785342554311778304",
+      "region": "us"
+    },
+    {
+      "handle": "modular-truck-platform-cyberbrick-rc",
+      "product_id": "785341984498786304",
+      "region": "ca"
+    },
+    {
+      "handle": "modular-truck-platform-cyberbrick-rc",
+      "product_id": "785342868465123328",
+      "region": "eu"
+    },
+    {
+      "handle": "modular-truck-platform-cyberbrick-rc",
+      "product_id": "785342275864494080",
+      "region": "uk"
+    },
+    {
+      "handle": "modular-truck-platform-cyberbrick-rc",
+      "product_id": "785341564799950848",
+      "region": "au"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/3a/3a007ccaa9d981e26e591246ef36d74e4c29724bfe3312c399f696ad98a09abc.png",
+      "id": "image-06afbdb7cbf9617211b0",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Store_Banner_w_Controller_White.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "3a007ccaa9d981e26e591246ef36d74e4c29724bfe3312c399f696ad98a09abc",
+      "size": 1668090,
+      "source_url": "https://store.bblcdn.com/s7/default/cdf63bfa607d4c259468e23d2310bc50/Store_Banner_w_Controller_White.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/25/2551200a25c4ceab48ef1877fe1ef1a69838fdbd554b8382ddc312f7e5c467ca.png",
+      "id": "image-bfab20e8349c02c8559a",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Store_Banner_White.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "2551200a25c4ceab48ef1877fe1ef1a69838fdbd554b8382ddc312f7e5c467ca",
+      "size": 1371566,
+      "source_url": "https://store.bblcdn.com/s7/default/63a6b22294144a35850f8bc27c8c3314/Store_Banner_White.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/05/059331ff1edfca6edfbb29fac4568d8de9c6ca1adace4c6412eb8dbe4b26ff81.png",
+      "id": "image-39f79cb56cf758938ff7",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Store_Banner_w_Controller.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "059331ff1edfca6edfbb29fac4568d8de9c6ca1adace4c6412eb8dbe4b26ff81",
+      "size": 2284974,
+      "source_url": "https://store.bblcdn.com/s7/default/180f40f56f1148e5a37ffd5e13d6e7d5/Store_Banner_w_Controller.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/eb/ebb41f161325e4c645ff0be2316789963644efd9170644ecfa54e153b6affd81.png",
+      "id": "image-051daba1381f11066b7e",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Store_Banner.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "ebb41f161325e4c645ff0be2316789963644efd9170644ecfa54e153b6affd81",
+      "size": 2245579,
+      "source_url": "https://store.bblcdn.com/s7/default/3f554bcf7ee746c194b712c6e05b85b9/Store_Banner.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/2a/2a8c29c1d5b6fd14ee1f54f49c5c120aa569eddfb7ca7773ccbda731a1c935b2.png",
+      "id": "image-display-e5fd809eb42b3fd0b54f",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1254,
+        "source_sha256": "3a007ccaa9d981e26e591246ef36d74e4c29724bfe3312c399f696ad98a09abc",
+        "source_width": 1254
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Store_Banner_w_Controller_White.catalog.png",
+      "parent_asset_id": "image-06afbdb7cbf9617211b0",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "2a8c29c1d5b6fd14ee1f54f49c5c120aa569eddfb7ca7773ccbda731a1c935b2",
+      "size": 688385,
+      "source_url": "https://store.bblcdn.com/s7/default/cdf63bfa607d4c259468e23d2310bc50/Store_Banner_w_Controller_White.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/7d/7df8e382a861b73b17960b23ae97fd5c2b81bf8359c27d5876b076dda6b9365a.png",
+      "id": "image-display-6ae5adc2318cd9862b42",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1254,
+        "source_sha256": "2551200a25c4ceab48ef1877fe1ef1a69838fdbd554b8382ddc312f7e5c467ca",
+        "source_width": 1254
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Store_Banner_White.catalog.png",
+      "parent_asset_id": "image-bfab20e8349c02c8559a",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "7df8e382a861b73b17960b23ae97fd5c2b81bf8359c27d5876b076dda6b9365a",
+      "size": 585263,
+      "source_url": "https://store.bblcdn.com/s7/default/63a6b22294144a35850f8bc27c8c3314/Store_Banner_White.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/90/90da6b3c2fbc180461b19c4d3b4a1982cb0089753917b0cd22fce6feb2cc3741.png",
+      "id": "image-display-f4ecc4cc9883d652f757",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1254,
+        "source_sha256": "059331ff1edfca6edfbb29fac4568d8de9c6ca1adace4c6412eb8dbe4b26ff81",
+        "source_width": 1254
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Store_Banner_w_Controller.catalog.png",
+      "parent_asset_id": "image-39f79cb56cf758938ff7",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "90da6b3c2fbc180461b19c4d3b4a1982cb0089753917b0cd22fce6feb2cc3741",
+      "size": 972862,
+      "source_url": "https://store.bblcdn.com/s7/default/180f40f56f1148e5a37ffd5e13d6e7d5/Store_Banner_w_Controller.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/14/146d1801661d3bdde22fa9ed92d6f5569831262a8dbec4d8d82f14ada5e12a6f.png",
+      "id": "image-display-59cbbed9b88b5cde04fd",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1240,
+        "source_sha256": "ebb41f161325e4c645ff0be2316789963644efd9170644ecfa54e153b6affd81",
+        "source_width": 1269
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Store_Banner.catalog.png",
+      "parent_asset_id": "image-051daba1381f11066b7e",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "146d1801661d3bdde22fa9ed92d6f5569831262a8dbec4d8d82f14ada5e12a6f",
+      "size": 927136,
+      "source_url": "https://store.bblcdn.com/s7/default/3f554bcf7ee746c194b712c6e05b85b9/Store_Banner.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "zk003-cyberbrick-hardware-kit",
+      "name": "CyberBrick Beginner Hardware Kit - ZK004",
+      "source_url": "https://us.store.bambulab.com/products/cyberbrick-hardware-kit?id=593290263704776711",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        },
+        {
+          "quantity": "0",
+          "variant": "Tractor Version (Without Remote Control) Tractor w/o RC"
+        },
+        {
+          "quantity": "1",
+          "variant": "Rigid Version (With Remote Control) Rigid w/ RC"
+        },
+        {
+          "quantity": "0",
+          "variant": "Rigid Version (Without Remote Control) Rigid w/o RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "zk003-cyberbrick-hardware-kit",
+      "name": "CyberBrick Standard Car Kit - ZK006",
+      "source_url": "https://us.store.bambulab.com/products/cyberbrick-hardware-kit?id=693609770765615104",
+      "variant_quantities": [
+        {
+          "quantity": "0",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        },
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (Without Remote Control) Tractor w/o RC"
+        },
+        {
+          "quantity": "0",
+          "variant": "Rigid Version (With Remote Control) Rigid w/ RC"
+        },
+        {
+          "quantity": "1",
+          "variant": "Rigid Version (Without Remote Control) Rigid w/o RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "pg001-9g-servo-motor-with-clutch-protection",
+      "name": "9g Positional Digital Servo-180° (1PCS)",
+      "source_url": "https://us.store.bambulab.com/products/9g-servo-motor-with-clutch-protection?id=42123031019656",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        },
+        {
+          "quantity": "2",
+          "variant": "Tractor Version (Without Remote Control) Tractor w/o RC"
+        },
+        {
+          "quantity": "1",
+          "variant": "Rigid Version (With Remote Control) Rigid w/ RC"
+        },
+        {
+          "quantity": "1",
+          "variant": "Rigid Version (Without Remote Control) Rigid w/o RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa007-power-switch-module-with-2pin-xh2-54-connector-1pcs",
+      "name": "Extra Rechargeable Battery Upgrade Kit",
+      "source_url": "https://us.store.bambulab.com/products/power-switch-module-with-2pin-xh2-54-connector-1pcs?id=712516955017945090",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        },
+        {
+          "quantity": "0",
+          "variant": "Tractor Version (Without Remote Control) Tractor w/o RC"
+        },
+        {
+          "quantity": "1",
+          "variant": "Rigid Version (With Remote Control) Rigid w/ RC"
+        },
+        {
+          "quantity": "0",
+          "variant": "Rigid Version (Without Remote Control) Rigid w/o RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "mini-screwdriver-toolkit",
+      "name": "Mini Screw Driver Tools Kit - QA025",
+      "source_url": "https://us.store.bambulab.com/products/mini-screwdriver-toolkit",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa013-sh1-0-to-sh1-0-connector-adapter-board",
+      "name": "SH1.0 to SH1.0 3PIN Connector Adapter Board (2PCS)",
+      "source_url": "https://us.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682483549144141824",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xa006-ws2812-led-hub-with-3pin-sh1-0-connector-1pcs",
+      "name": "WS2812 LED Hub with 3Pin SH1.0 Connector (1PCS)",
+      "source_url": "https://us.store.bambulab.com/products/ws2812-led-hub-with-3pin-sh1-0-connector-1pcs?id=592875330737975298",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "kb003-ws2812-rgb-led-with-idc0-8-4pin-2pcs",
+      "name": "WS2812 RGB LED with IDC0.8 4PIN (2PCS)",
+      "source_url": "https://us.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=54410658611548",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "la002-n20-reduction-gear-motor",
+      "name": "N20 Reduction Gear Motor 400rpm (1PCS)",
+      "source_url": "https://us.store.bambulab.com/products/n20-reduction-gear-motor?id=42122646618248",
+      "variant_quantities": [
+        {
+          "quantity": "2",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa019-bt2-socket-head-cap-self-tapping-screws-shcs",
+      "name": "BT2x8 SHCS Self Tapping Screw (20PCS)",
+      "source_url": "https://us.store.bambulab.com/products/bt2-socket-head-cap-self-tapping-screws-shcs?id=42102711779464",
+      "variant_quantities": [
+        {
+          "quantity": "7",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ea032-steel-deep-groove-ball-bearings-1",
+      "name": "6700zz Steel Deep Groove Ball Bearings (2PCS)",
+      "source_url": "https://us.store.bambulab.com/products/steel-deep-groove-ball-bearings-1?id=42504745844872",
+      "variant_quantities": [
+        {
+          "quantity": "3",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa187-m3-flat-head-cap-machine-screws-fhcs",
+      "name": "M3x18 FHCS Machine Screw (10PCS)",
+      "source_url": "https://us.store.bambulab.com/products/m3-flat-head-cap-machine-screws-fhcs?id=48691726975324",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "aa187-m3-flat-head-cap-machine-screws-fhcs",
+      "name": "M3x30 FHCS Machine Screw (5PCS)",
+      "source_url": "https://us.store.bambulab.com/products/m3-flat-head-cap-machine-screws-fhcs?id=48691727106396",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ab009-round-threaded-brass-heat-insert-nut",
+      "name": "M3x5x4 Round Threaded Brass Heat-Insert Nut (20PCS)",
+      "source_url": "https://us.store.bambulab.com/products/round-threaded-brass-heat-insert-nut?id=42410687529096",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "xc006-100mm-wire-with-3pin-sh1-0-connectors-2pcs",
+      "name": "300mm Wire with 3Pin SH1.0 Connectors (2PCS)",
+      "source_url": "https://us.store.bambulab.com/products/100mm-wire-with-3pin-sh1-0-connectors-2pcs?id=665416793772224519",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    },
+    {
+      "linked_product_id": "ic004-wire-pair-with-sh1-0",
+      "name": "300mm Wire Pair with SH1.0(2PCS)",
+      "source_url": "https://us.store.bambulab.com/products/wire-pair-with-sh1-0?id=589257154176921602",
+      "variant_quantities": [
+        {
+          "quantity": "1",
+          "variant": "Tractor Version (With Remote Control) Tractor w/ RC"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Real Hauling Play"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Cargo bodies mount directly to the chassis, so your build becomes a working hauler instead of a static display piece. Printable accessories let you stage loads, create routes, and keep expanding the truck after the base build is finished."
+    },
+    {
+      "kind": "heading",
+      "text": "Customizable lighting"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The CyberBrick app allows for customizing LED lights, enhancing realism and visual appeal during operation. Integrated lighting support adds practical feedback. It also gives the truck a more complete RC feel without relying on fragile cosmetic add-ons."
+    },
+    {
+      "kind": "heading",
+      "text": "Remote Trailer Moves"
+    },
+    {
+      "kind": "paragraph",
+      "text": "A servo-operated coupling turns trailer handling into part of the drive, not a manual reset between runs. Hook up, drop off, and switch tasks from the controller for more realistic yard work."
+    },
+    {
+      "kind": "heading",
+      "text": "Drive It Your Way"
+    },
+    {
+      "kind": "paragraph",
+      "text": "CyberBrick remote compatibility keeps steering, throttle, and functions in one familiar control setup. Builders can focus on tuning the truck and adding modules instead of inventing a control system from scratch."
+    },
+    {
+      "kind": "heading",
+      "text": "CyberBrick App Connection Tutorial"
+    },
+    {
+      "kind": "paragraph",
+      "text": "*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model."
+    },
+    {
+      "kind": "heading",
+      "text": "Core Safety Rules"
+    },
+    {
+      "kind": "bullet",
+      "text": "This product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT touch the moving parts while the device is operating to prevent pinching injuries."
+    },
+    {
+      "kind": "bullet",
+      "text": "Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty."
+    },
+    {
+      "kind": "bullet",
+      "text": "Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards."
+    },
+    {
+      "kind": "heading",
+      "text": "Warning of Lithium Battery"
+    },
+    {
+      "kind": "bullet",
+      "text": "This product utilizes a replaceable rechargeable lithium battery."
+    },
+    {
+      "kind": "bullet",
+      "text": "Adult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging."
+    },
+    {
+      "kind": "bullet",
+      "text": "Ensure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion."
+    },
+    {
+      "kind": "bullet",
+      "text": "Regularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired."
+    },
+    {
+      "kind": "bullet",
+      "text": "Choking Hazard: Contains small parts; not suitable for children under 3 years of age."
+    },
+    {
+      "kind": "bullet",
+      "text": "Improper disposal of this product may harm the environment - please recycle responsibly."
+    },
+    {
+      "kind": "heading",
+      "text": "Charging Precautions"
+    },
+    {
+      "kind": "bullet",
+      "text": "Use only the officially supplied charger. The charger is not a toy."
+    },
+    {
+      "kind": "bullet",
+      "text": "The USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging."
+    },
+    {
+      "kind": "bullet",
+      "text": "If the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge."
+    },
+    {
+      "kind": "heading",
+      "text": "Lithium Battery Safety Precautions"
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT disassemble, crush, or mechanically abuse the battery pack."
+    },
+    {
+      "kind": "bullet",
+      "text": "DO NOT dispose of the battery pack in fire."
+    },
+    {
+      "kind": "bullet",
+      "text": "Exercise extreme caution when handling an overheated battery pack."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Real Hauling Play</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"module-content\">\n<p class=\"pct_p\" style=\"text-align: left;\">Cargo bodies mount directly to the chassis, so your build becomes a working hauler instead of a static display piece. Printable accessories let you stage loads, create routes, and keep expanding the truck after the base build is finished.</p>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><img alt=\"\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/6981e859e6e9485aab44c7a90e2d3159/Printable_Cargo_Accessories.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/><img alt=\"\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/6981e859e6e9485aab44c7a90e2d3159/Printable_Cargo_Accessories.jpg\" height=\"500\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"750\"/></div>\n</div>\n<div class=\"pct_stpc-ic\"><!-- 第2卖点 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Customizable lighting</h3>\n<p class=\"pct_p\" style=\"text-align: left;\">The CyberBrick app allows for customizing LED lights, enhancing realism and visual appeal during operation. Integrated lighting support adds practical feedback. It also gives the truck a more complete RC feel without relying on fragile cosmetic add-ons.</p>\n</div>\n<div class=\"pct_ic\"><img alt=\"\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/6b018578a0584b1cb86b584f655c5451/Working_Lights_1.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/><img alt=\"\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/6b018578a0584b1cb86b584f655c5451/Working_Lights_1.jpg\" height=\"500\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"750\"/></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpcic\">\n<div class=\"pct_stpc-ic\">\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\">Remote Trailer Moves</h3>\n<div data-docx-has-block-data=\"false\" data-page-id=\"module-content\">\n<p class=\"pct_p\" style=\"text-align: left;\">A servo-operated coupling turns trailer handling into part of the drive, not a manual reset between runs. Hook up, drop off, and switch tasks from the controller for more realistic yard work.</p>\n</div>\n</div>\n<!-- 右侧图片部分 -->\n<div class=\"pct_ic\"><img alt=\"\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/71fb8808e3b04a3ba381e6d4a3aed360/Servo_Operated_Trailer_Coupling.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/><img alt=\"\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/71fb8808e3b04a3ba381e6d4a3aed360/Servo_Operated_Trailer_Coupling.jpg\" height=\"500\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"750\"/></div>\n</div>\n<div class=\"pct_stpc-ic\"><!-- 第2卖点 -->\n<div class=\"pct_st-p\">\n<h3 class=\"pct_st\" style=\"text-align: left;\">Drive It Your Way</h3>\n<p class=\"pct_p\" style=\"text-align: left;\">CyberBrick remote compatibility keeps steering, throttle, and functions in one familiar control setup. Builders can focus on tuning the truck and adding modules instead of inventing a control system from scratch.</p>\n</div>\n<div class=\"pct_ic\"><img alt=\"\" class=\"pct_mi product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/6dbde6fccd28430d9af753bcb5b2f56a/Radio_Control.jpg\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/><img alt=\"\" class=\"pct_i product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/6dbde6fccd28430d9af753bcb5b2f56a/Radio_Control.jpg\" height=\"500\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\" width=\"750\"/></div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 10px; font-size: 24px; text-align: center;\">CyberBrick App Connection Tutorial</h2>\n<p style=\"text-align: left; margin-top: 10px; margin-bottom: -40px;\"><span style=\"font-size: 14px;\"><em>*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.</em></span></p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; font-size: 24px; text-align: center;\">In The Box</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse; height: 591px;\"><colgroup> <col class=\"col-name\"/> <col class=\"col-sku\"/> <col class=\"col-sku\"/> <col class=\"col-sku\"/> <col class=\"col-sku\"/> </colgroup>\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 80px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 80px;\"><strong><span class=\"sku-desktop\">Tractor Version<br/>(With Remote Control)</span><span class=\"sku-mobile\">Tractor<br/>w/ RC</span></strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 80px;\"><strong><span class=\"sku-desktop\">Tractor Version<br/>(Without Remote Control)</span><span class=\"sku-mobile\">Tractor<br/>w/o RC</span></strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 80px;\"><strong><span class=\"sku-desktop\">Rigid Version<br/>(With Remote Control)</span><span class=\"sku-mobile\">Rigid<br/>w/ RC</span></strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 80px;\"><strong><span class=\"sku-desktop\">Rigid Version<br/>(Without Remote Control)</span><span class=\"sku-mobile\">Rigid<br/>w/o RC</span></strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/cyberbrick-hardware-kit?id=593290263704776711\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">CyberBrick Beginner Hardware Kit - ZK004</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/87d9af310b92481e92c2d6b817c3d6f2/B-ZK004.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">0</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">0</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/cyberbrick-hardware-kit?id=693609770765615104\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">CyberBrick Standard Car Kit - ZK006</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/629a83626d534ccda282dbe38c884a9c/B-ZK006.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">0</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">0</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/9g-servo-motor-with-clutch-protection?id=42123031019656\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">9g Positional Digital Servo-180° (1PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/7a030b6135f94d3e8510e0ba147b077a/9gServoMotorwithClutchProtection-180.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">2</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/power-switch-module-with-2pin-xh2-54-connector-1pcs?id=712516955017945090\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">Extra Rechargeable Battery Upgrade Kit</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/48ac79d4d8944ec59acdf7175af2ef04/upgrade_kit.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">0</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">1</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">0</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/mini-screwdriver-toolkit\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">Mini Screw Driver Tools Kit - QA025</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/97b388a5a3a84dceb5c0cdb1e717ca2e/tool2.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 48px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/sh1-0-to-sh1-0-connector-adapter-board?id=682483549144141824\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">SH1.0 to SH1.0 3PIN Connector Adapter Board (2PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/c324d149a8424b1e8e049a8869294967/Frame_1123867434.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 48px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/ws2812-led-hub-with-3pin-sh1-0-connector-1pcs?id=592875330737975298\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">WS2812 LED Hub with 3Pin SH1.0 Connector (1PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/81d6c63baf64464e89b76046c7724490/B-XA006-1.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=54410658611548\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">WS2812 RGB LED with IDC0.8 4PIN (2PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/cc88c6b08aad44ac885bbf55354c0b2c/B-KB003-B.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/n20-reduction-gear-motor?id=42122646618248\" rel=\"noopener\" style=\"color: #00ae57;\" target=\"_blank\">N20 Reduction Gear Motor 400rpm (1PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/08a1a4242797476ca54a20f43c947c7b/N20_400rpm_-_LA003.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/bt2-socket-head-cap-self-tapping-screws-shcs?id=42102711779464\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">BT2x8 SHCS Self Tapping Screw (20PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/8194a62a66bf47fb849ca16b2ab087bb/AA019_fd6ffe30-1022-4270-b456-8c93f599d7bc.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">7</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 48px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/steel-deep-groove-ball-bearings-1?id=42504745844872\" rel=\"noopener\" style=\"color: #00ae43;\" target=\"_blank\">6700zz Steel Deep Groove Ball Bearings (2PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/1f886f53fbe445659d244c33c6eab70a/Group1123861190.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 48px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/m3-flat-head-cap-machine-screws-fhcs?id=48691726975324\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">M3x18 FHCS Machine Screw (10PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/b882ace4cae149a885a339747b806cc6/8.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 48px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/m3-flat-head-cap-machine-screws-fhcs?id=48691727106396\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">M3x30 FHCS Machine Screw (5PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/65fdc21bc6ce4c028e74352ee795cdb4/11_3f335df2-a33a-4ed0-a590-48644520a9da.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 48px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/round-threaded-brass-heat-insert-nut?id=42410687529096\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">M3x5x4 Round Threaded Brass Heat-Insert Nut (20PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/6a492da10823441da9b181e23f76336f/AB001-3_3de4ba3e-367d-4ea8-b011-2ad51ac3bd88.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 48px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/100mm-wire-with-3pin-sh1-0-connectors-2pcs?id=665416793772224519\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">300mm Wire with 3Pin SH1.0 Connectors (2PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/712aecf343bb4751a4b85881b255cd6a/B-XC016.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 48px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 25px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/wire-pair-with-sh1-0?id=589257154176921602\" rel=\"noopener\" style=\"color: #00ae46;\" target=\"_blank\">300mm Wire Pair with SH1.0(2PCS)</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/cdb4a60477cb47e8b272f579b9c3faec/300mm_Wire_Pair_with_SH1.0_-_XC014.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" colspan=\"4\" style=\"border: 1px solid #cccccc; padding: 10px; height: 25px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<h2 class=\"pct_t\" style=\"margin-top: 30px; font-size: 24px;\">Documentation</h2>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"font-size: 24px; margin-top: 40px; text-align: center;\">Important Notices</h2>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Core Safety Rules</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">This product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> touch the moving parts while the device is operating to prevent pinching injuries.</li>\n<li style=\"text-align: left; font-size: 16px;\">Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.</li>\n<li style=\"text-align: left; font-size: 16px;\">Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Warning of Lithium Battery</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">This product utilizes a replaceable rechargeable lithium battery.</li>\n<li style=\"text-align: left; font-size: 16px;\">Adult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.</li>\n<li style=\"text-align: left; font-size: 16px;\">Ensure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.</li>\n<li style=\"text-align: left; font-size: 16px;\">Regularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.</li>\n<li style=\"text-align: left; font-size: 16px;\">Choking Hazard: Contains small parts; not suitable for children under 3 years of age.</li>\n<li style=\"text-align: left; font-size: 16px;\">Improper disposal of this product may harm the environment - please recycle responsibly.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Charging Precautions</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\">Use only the officially supplied charger. The charger is not a toy.</li>\n<li style=\"text-align: left; font-size: 16px;\">The USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. <strong>DO NOT</strong> use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> charge the battery pack if it is overheating. Allow it to cool down completely before recharging.</li>\n<li style=\"text-align: left; font-size: 16px;\">If the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.</li>\n</ul>\n<h2 style=\"margin-top: 20px; margin-bottom: 0px; font-size: 20px; text-align: left;\">Lithium Battery Safety Precautions</h2>\n<ul>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> disassemble, crush, or mechanically abuse the battery pack.</li>\n<li style=\"text-align: left; font-size: 16px;\"><strong>DO NOT</strong> dispose of the battery pack in fire.</li>\n<li style=\"text-align: left; font-size: 16px;\">Exercise extreme caution when handling an overheated battery pack.</li>\n</ul>\n</div>\n</div>\n</div>",
+  "description_text": "Cargo bodies mount directly to the chassis, so your build becomes a working hauler instead of a static display piece. Printable accessories let you stage loads, create routes, and keep expanding the truck after the base build is finished.\n\nThe CyberBrick app allows for customizing LED lights, enhancing realism and visual appeal during operation. Integrated lighting support adds practical feedback. It also gives the truck a more complete RC feel without relying on fragile cosmetic add-ons.\n\nA servo-operated coupling turns trailer handling into part of the drive, not a manual reset between runs. Hook up, drop off, and switch tasks from the controller for more realistic yard work.\n\nCyberBrick remote compatibility keeps steering, throttle, and functions in one familiar control setup. Builders can focus on tuning the truck and adding modules instead of inventing a control system from scratch.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
+  "first_seen": "2026-11-10T12:06:28Z",
+  "id": "zl035-modular-truck-platform-cyberbrick-rc",
+  "last_seen": "2026-11-10T12:06:28Z",
+  "measurements": [],
+  "name": "Modular Truck Platform - CyberBrick RC",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "87.99",
+      "region": "us",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://us.store.bambulab.com/en/products/modular-truck-platform-cyberbrick-rc?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "119.99",
+      "region": "ca",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://ca.store.bambulab.com/en/products/modular-truck-platform-cyberbrick-rc?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "92.79",
+      "region": "eu",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://eu.store.bambulab.com/en/products/modular-truck-platform-cyberbrick-rc?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "76.79",
+      "region": "uk",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://uk.store.bambulab.com/en/products/modular-truck-platform-cyberbrick-rc?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "159.99",
+      "region": "au",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://au.store.bambulab.com/en/products/modular-truck-platform-cyberbrick-rc?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "QA025",
+    "ZK004",
+    "ZK006",
+    "ZK007",
+    "ZL035",
+    "ZL036"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "crowdfunding campaign",
+      "url": "https://makerworld.com/en/crowdfunding/185-modular-truck-platform-kliko"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "785341564804145161",
+    "785341564804145166",
+    "785341564804145171",
+    "785341564804145176",
+    "785341984565895176",
+    "785341984565895181",
+    "785341984565895186",
+    "785341984565895191",
+    "785342275877076992",
+    "785342275877076997",
+    "785342275877077002",
+    "785342275877077007",
+    "785342554320166920",
+    "785342554320166925",
+    "785342554320166930",
+    "785342554320166935",
+    "785342868523843592",
+    "785342868523843599",
+    "785342868523843606",
+    "785342868523843613"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Name",
+        "Tractor Version (With Remote Control) Tractor w/ RC",
+        "Tractor Version (Without Remote Control) Tractor w/o RC",
+        "Rigid Version (With Remote Control) Rigid w/ RC",
+        "Rigid Version (Without Remote Control) Rigid w/o RC"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342554320166920"
+      },
+      "rows": [
+        [
+          "CyberBrick Beginner Hardware Kit - ZK004",
+          "1",
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "CyberBrick Standard Car Kit - ZK006",
+          "0",
+          "1",
+          "0",
+          "1"
+        ],
+        [
+          "9g Positional Digital Servo-180° (1PCS)",
+          "2",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "Extra Rechargeable Battery Upgrade Kit",
+          "1",
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "Mini Screw Driver Tools Kit - QA025",
+          "1"
+        ],
+        [
+          "SH1.0 to SH1.0 3PIN Connector Adapter Board (2PCS)",
+          "1"
+        ],
+        [
+          "WS2812 LED Hub with 3Pin SH1.0 Connector (1PCS)",
+          "1"
+        ],
+        [
+          "WS2812 RGB LED with IDC0.8 4PIN (2PCS)",
+          "1"
+        ],
+        [
+          "N20 Reduction Gear Motor 400rpm (1PCS)",
+          "2"
+        ],
+        [
+          "BT2x8 SHCS Self Tapping Screw (20PCS)",
+          "7"
+        ],
+        [
+          "6700zz Steel Deep Groove Ball Bearings (2PCS)",
+          "3"
+        ],
+        [
+          "M3x18 FHCS Machine Screw (10PCS)",
+          "1"
+        ],
+        [
+          "M3x30 FHCS Machine Screw (5PCS)",
+          "1"
+        ],
+        [
+          "M3x5x4 Round Threaded Brass Heat-Insert Nut (20PCS)",
+          "1"
+        ],
+        [
+          "300mm Wire with 3Pin SH1.0 Connectors (2PCS)",
+          "1"
+        ],
+        [
+          "300mm Wire Pair with SH1.0(2PCS)",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/cdf63bfa607d4c259468e23d2310bc50/Store_Banner_w_Controller_White.png",
+      "part_number": "ZL035",
+      "price": "87.99",
+      "region": "us",
+      "sku": "785342554320166920",
+      "title": "Modular Truck Platform - CyberBrick RC - YES / Tractor Version - Remote Control included - ZL035",
+      "url": "https://us.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342554320166920",
+      "variant_id": "785342554320166920"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/cdf63bfa607d4c259468e23d2310bc50/Store_Banner_w_Controller_White.png",
+      "part_number": "ZL036",
+      "price": "83.99",
+      "region": "us",
+      "sku": "785342554320166925",
+      "title": "Modular Truck Platform - CyberBrick RC - YES / Rigid Version - Remote Control included - ZL036",
+      "url": "https://us.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342554320166925",
+      "variant_id": "785342554320166925"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/63a6b22294144a35850f8bc27c8c3314/Store_Banner_White.png",
+      "part_number": "ZL035",
+      "price": "67.99",
+      "region": "us",
+      "sku": "785342554320166930",
+      "title": "Modular Truck Platform - CyberBrick RC - NO / Tractor Version - Remote Control not included - ZL035-1",
+      "url": "https://us.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342554320166930",
+      "variant_id": "785342554320166930"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/63a6b22294144a35850f8bc27c8c3314/Store_Banner_White.png",
+      "part_number": "ZL036",
+      "price": "63.99",
+      "region": "us",
+      "sku": "785342554320166935",
+      "title": "Modular Truck Platform - CyberBrick RC - NO / Rigid Version - Remote Control not included - ZL036-1",
+      "url": "https://us.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342554320166935",
+      "variant_id": "785342554320166935"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/6d2d858cd23e4508a3c4ce5a979e99d2/Store_Banner_w_Controller_White.png",
+      "part_number": "ZL035",
+      "price": "119.99",
+      "region": "ca",
+      "sku": "785341984565895191",
+      "title": "Modular Truck Platform - CyberBrick RC - YES / Tractor Version - Remote Control included - ZL035",
+      "url": "https://ca.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341984565895191",
+      "variant_id": "785341984565895191"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/6d2d858cd23e4508a3c4ce5a979e99d2/Store_Banner_w_Controller_White.png",
+      "part_number": "ZL036",
+      "price": "115.19",
+      "region": "ca",
+      "sku": "785341984565895176",
+      "title": "Modular Truck Platform - CyberBrick RC - YES / Rigid Version - Remote Control included - ZL036",
+      "url": "https://ca.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341984565895176",
+      "variant_id": "785341984565895176"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/109bf347d62844ddaa429ec2f450eada/Store_Banner_White.png",
+      "part_number": "ZL035",
+      "price": "91.19",
+      "region": "ca",
+      "sku": "785341984565895181",
+      "title": "Modular Truck Platform - CyberBrick RC - NO / Tractor Version - Remote Control not included - ZL035-1",
+      "url": "https://ca.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341984565895181",
+      "variant_id": "785341984565895181"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/109bf347d62844ddaa429ec2f450eada/Store_Banner_White.png",
+      "part_number": "ZL036",
+      "price": "86.39",
+      "region": "ca",
+      "sku": "785341984565895186",
+      "title": "Modular Truck Platform - CyberBrick RC - NO / Rigid Version - Remote Control not included - ZL036-1",
+      "url": "https://ca.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341984565895186",
+      "variant_id": "785341984565895186"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/b5317bf1da6d48ccaf973c71cb2ce12a/Store_Banner_w_Controller_White.png",
+      "part_number": "ZL035",
+      "price": "92.79",
+      "region": "eu",
+      "sku": "785342868523843592",
+      "title": "Modular Truck Platform - CyberBrick RC - YES / Tractor Version - Remote Control included - ZL035",
+      "url": "https://eu.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342868523843592",
+      "variant_id": "785342868523843592"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/b5317bf1da6d48ccaf973c71cb2ce12a/Store_Banner_w_Controller_White.png",
+      "part_number": "ZL036",
+      "price": "88.79",
+      "region": "eu",
+      "sku": "785342868523843599",
+      "title": "Modular Truck Platform - CyberBrick RC - YES / Rigid Version - Remote Control included - ZL036",
+      "url": "https://eu.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342868523843599",
+      "variant_id": "785342868523843599"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/b3e6b8a4fa124439afa1e37e7041e9d4/Store_Banner_White.png",
+      "part_number": "ZL035",
+      "price": "73.59",
+      "region": "eu",
+      "sku": "785342868523843606",
+      "title": "Modular Truck Platform - CyberBrick RC - NO / Tractor Version - Remote Control not included - ZL035-1",
+      "url": "https://eu.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342868523843606",
+      "variant_id": "785342868523843606"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/b3e6b8a4fa124439afa1e37e7041e9d4/Store_Banner_White.png",
+      "part_number": "ZL036",
+      "price": "69.59",
+      "region": "eu",
+      "sku": "785342868523843613",
+      "title": "Modular Truck Platform - CyberBrick RC - NO / Rigid Version - Remote Control not included - ZL036-1",
+      "url": "https://eu.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342868523843613",
+      "variant_id": "785342868523843613"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/3936eef9aaa043a2ba27dc8fa01ea52d/Store_Banner_w_Controller_White.png",
+      "part_number": "ZL035",
+      "price": "76.79",
+      "region": "uk",
+      "sku": "785342275877077007",
+      "title": "Modular Truck Platform - CyberBrick RC - YES / Tractor Version - Remote Control included - ZL035",
+      "url": "https://uk.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342275877077007",
+      "variant_id": "785342275877077007"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/3936eef9aaa043a2ba27dc8fa01ea52d/Store_Banner_w_Controller_White.png",
+      "part_number": "ZL036",
+      "price": "73.59",
+      "region": "uk",
+      "sku": "785342275877076992",
+      "title": "Modular Truck Platform - CyberBrick RC - YES / Rigid Version - Remote Control included - ZL036",
+      "url": "https://uk.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342275877076992",
+      "variant_id": "785342275877076992"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/b28a1a8a38314ece9c98c0e91e05f342/Store_Banner_White.png",
+      "part_number": "ZL035",
+      "price": "59.99",
+      "region": "uk",
+      "sku": "785342275877076997",
+      "title": "Modular Truck Platform - CyberBrick RC - NO / Tractor Version - Remote Control not included - ZL035-1",
+      "url": "https://uk.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342275877076997",
+      "variant_id": "785342275877076997"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/b28a1a8a38314ece9c98c0e91e05f342/Store_Banner_White.png",
+      "part_number": "ZL036",
+      "price": "56.79",
+      "region": "uk",
+      "sku": "785342275877077002",
+      "title": "Modular Truck Platform - CyberBrick RC - NO / Rigid Version - Remote Control not included - ZL036-1",
+      "url": "https://uk.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342275877077002",
+      "variant_id": "785342275877077002"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/7f8fdbd232714caa9e2d561c9c5ebae2/Store_Banner_w_Controller_White.png",
+      "part_number": "ZL035",
+      "price": "159.99",
+      "region": "au",
+      "sku": "785341564804145176",
+      "title": "Modular Truck Platform - CyberBrick RC - YES / Tractor Version - Remote Control included - ZL035",
+      "url": "https://au.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341564804145176",
+      "variant_id": "785341564804145176"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/7f8fdbd232714caa9e2d561c9c5ebae2/Store_Banner_w_Controller_White.png",
+      "part_number": "ZL036",
+      "price": "152.79",
+      "region": "au",
+      "sku": "785341564804145161",
+      "title": "Modular Truck Platform - CyberBrick RC - YES / Rigid Version - Remote Control included - ZL036",
+      "url": "https://au.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341564804145161",
+      "variant_id": "785341564804145161"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/410de2d7b2b44fb88c9c41c07f82400e/Store_Banner_White.png",
+      "part_number": "ZL035",
+      "price": "128.79",
+      "region": "au",
+      "sku": "785341564804145166",
+      "title": "Modular Truck Platform - CyberBrick RC - NO / Tractor Version - Remote Control not included - ZL035-1",
+      "url": "https://au.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341564804145166",
+      "variant_id": "785341564804145166"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/410de2d7b2b44fb88c9c41c07f82400e/Store_Banner_White.png",
+      "part_number": "ZL036",
+      "price": "121.59",
+      "region": "au",
+      "sku": "785341564804145171",
+      "title": "Modular Truck Platform - CyberBrick RC - NO / Rigid Version - Remote Control not included - ZL036-1",
+      "url": "https://au.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341564804145171",
+      "variant_id": "785341564804145171"
+    }
+  ]
+}

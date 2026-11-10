@@ -35,27 +35,27 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/5a/5aa7c4d14844caba47933487e15b97dc920fc50c0371593a6e5eeef133debede.png",
-      "id": "image-fa15bd4d9cfe2e0108a9",
+      "id": "image-865f31f8b6dd7228bbfa",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "517f47ce8bb841af861948570bb97be0.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "AA019-33_c2a91ab3-a672-4aa8-8061-5e297968f1c3.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "5aa7c4d14844caba47933487e15b97dc920fc50c0371593a6e5eeef133debede",
       "size": 198231,
-      "source_url": "https://store.bblcdn.eu/517f47ce8bb841af861948570bb97be0.png"
+      "source_url": "https://store.bblcdn.com/s7/default/1a7cdfe86ec84810b60133e2db96a8ad/AA019-33_c2a91ab3-a672-4aa8-8061-5e297968f1c3.png"
     },
     {
       "blob_path": "data/blobs/sha256/9e/9e9b90aedac0ded6f265d71be9565f4045fd02481c7fd75a74c940a70d33ee05.png",
-      "id": "image-9f6875ba74aa493ee8de",
+      "id": "image-2677b0b684d8c04554be",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "ae7bc829c50e46ca82e941eccc5292f7.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "BT2x6_20PCS_7e123fd8-d3ee-40d7-b28b-961d0a789f39.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "9e9b90aedac0ded6f265d71be9565f4045fd02481c7fd75a74c940a70d33ee05",
       "size": 330210,
-      "source_url": "https://store.bblcdn.eu/ae7bc829c50e46ca82e941eccc5292f7.png"
+      "source_url": "https://store.bblcdn.com/s7/default/d726fe6f066d4064b20d8b6a58cc7756/BT2x6_20PCS_7e123fd8-d3ee-40d7-b28b-961d0a789f39.png"
     },
     {
       "blob_path": "data/blobs/sha256/c7/c752df47e82eed9121bb0c8d2fed0a7e2529a076ee3ec7f2d62769a03eeacfc2.pdf",
@@ -80,6 +80,18 @@
       "sha256": "eaa878cd1bd8ed7eb3c1c146c08791032762096867c6a17dbb3af57ff7fb3e81",
       "size": 22514,
       "source_url": "https://store.bblcdn.com/s7/default/f9748e086a634f8b972733eee4374154/BT1.6_SHCS_Self_Tapping_Screw.zip"
+    },
+    {
+      "blob_path": "data/blobs/sha256/dc/dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438.zip",
+      "id": "archive-508e1bde8ce318475165",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "screw_test.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438",
+      "size": 857757,
+      "source_url": "https://store.bblcdn.com/s7/default/55debb62966e4e118ffd161ae1f5272d/screw_test.zip"
     },
     {
       "archive_member_path": "BT1.6 SHCS Self Tapping Screw/BT1.6í┴6 - AA092.stl",
@@ -110,18 +122,6 @@
       "source_url": "https://store.bblcdn.com/s7/default/f9748e086a634f8b972733eee4374154/BT1.6_SHCS_Self_Tapping_Screw.zip"
     },
     {
-      "blob_path": "data/blobs/sha256/dc/dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438.zip",
-      "id": "archive-508e1bde8ce318475165",
-      "kind": "archive",
-      "media_type": "application/zip",
-      "original_filename": "screw_test.zip",
-      "retrieved_at": "2026-08-24T02:05:06Z",
-      "rights_status": "unknown",
-      "sha256": "dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438",
-      "size": 857757,
-      "source_url": "https://store.bblcdn.com/s7/default/55debb62966e4e118ffd161ae1f5272d/screw_test.zip"
-    },
-    {
       "archive_member_path": "screw_test.3mf",
       "blob_path": "data/blobs/sha256/dc/dc159c720916f9138847314596261966c3a495a5efc7b00095fe32315fdb3a5d.3mf",
       "id": "model-77ed3e163234c0712e8d",
@@ -137,7 +137,7 @@
     },
     {
       "blob_path": "data/blobs/sha256/75/75af23f6f0c08cd3ce557cb8f99a645a73ce636bd7fe785349b030e9fb8cb596.png",
-      "id": "image-display-b0334054caff8f0db7b9",
+      "id": "image-display-0d6296ac538188fe87dc",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 404,
@@ -149,17 +149,17 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "517f47ce8bb841af861948570bb97be0.catalog.png",
-      "parent_asset_id": "image-fa15bd4d9cfe2e0108a9",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "AA019-33_c2a91ab3-a672-4aa8-8061-5e297968f1c3.catalog.png",
+      "parent_asset_id": "image-865f31f8b6dd7228bbfa",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "75af23f6f0c08cd3ce557cb8f99a645a73ce636bd7fe785349b030e9fb8cb596",
       "size": 82123,
-      "source_url": "https://store.bblcdn.eu/517f47ce8bb841af861948570bb97be0.png"
+      "source_url": "https://store.bblcdn.com/s7/default/1a7cdfe86ec84810b60133e2db96a8ad/AA019-33_c2a91ab3-a672-4aa8-8061-5e297968f1c3.png"
     },
     {
       "blob_path": "data/blobs/sha256/53/53a747c4fb31fae63c13a0450d72ce53848d69609bcc0228e18836342bbe14fc.png",
-      "id": "image-display-75d6c7e732ae85221869",
+      "id": "image-display-44bb5d27deab69ee7ea9",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -171,13 +171,13 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "ae7bc829c50e46ca82e941eccc5292f7.catalog.png",
-      "parent_asset_id": "image-9f6875ba74aa493ee8de",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "BT2x6_20PCS_7e123fd8-d3ee-40d7-b28b-961d0a789f39.catalog.png",
+      "parent_asset_id": "image-2677b0b684d8c04554be",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "53a747c4fb31fae63c13a0450d72ce53848d69609bcc0228e18836342bbe14fc",
       "size": 90842,
-      "source_url": "https://store.bblcdn.eu/ae7bc829c50e46ca82e941eccc5292f7.png"
+      "source_url": "https://store.bblcdn.com/s7/default/d726fe6f066d4064b20d8b6a58cc7756/BT2x6_20PCS_7e123fd8-d3ee-40d7-b28b-961d0a789f39.png"
     }
   ],
   "box_contents": [],
@@ -248,7 +248,7 @@
   "description_text": "For 3D printed parts, which often have gaps between layers and varying hole sizes, we recommend using BT self-tapping screws. These screws provide moderate torque for insertion, prevent loosening, and can be installed and removed multiple times. Using these screws and matching them with the recommended hole size ensures easy and secure connections for your printed parts, eliminating the need for nuts and avoiding issues like screw loosening or hole shrinkage.\n\nWe have included the relevant data for the twisting torque and loosening torque experiments of PLA and PETG material specimens, as well as the recommended hole sizes for design. The model files for testing are available for download at the end of the details page. All test holes are printed perpendicularly to the platform. When designing a bolt bottom hole on the side of the part, it is recommended to use a size one size larger than the recommended size for lying flat to prevent interlayer compression cracking.\n\nTest Data for Self-Tapping Screws 3D Document for Screws Test\n\nSelf-Tapping Screws for 3D Printing\n\nCarbon Steel Socket Head Cap Self Tapping Screw (SHCS)\n\nNominal thread: BT1.6~BT3\n\nStrength grade: 4.8\n\nType of thread: Metric coarse thread\n\nFull thread series",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa092-bt1-6-socket-head-cap-self-tapping-screws-shcs-new",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",

@@ -34,28 +34,28 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/a8/a8347b1acc4a76fd7150ec8acfc295a108726436232683d4d3d17e062f2191a8.png",
-      "id": "image-62430646fbfb6b18ca90",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "GT2.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "a8347b1acc4a76fd7150ec8acfc295a108726436232683d4d3d17e062f2191a8",
-      "size": 305618,
-      "source_url": "https://store.bblcdn.eu/s8/default/68efed2b35a24107beb72c4915f33a6f/GT2.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/49/4967e5133f8867728ef95cd26373ed730edbe8f7d27821f1950b219f8d8ba24e.png",
-      "id": "image-0ecbe8ef6e35d2e37a6c",
+      "blob_path": "data/blobs/sha256/8d/8d2df7659247fffd76e33dbba8805f04b9c6284453fd08a8ff55a68b1a235618.png",
+      "id": "image-2882e1a8b5847acf1efd",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "GT2_9cd1995c-6c60-46a4-9627-effd2327ff28.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "4967e5133f8867728ef95cd26373ed730edbe8f7d27821f1950b219f8d8ba24e",
-      "size": 53614,
-      "source_url": "https://store.bblcdn.eu/s8/default/23ce3dd418a54dbc8b7b56ebf65d8ed0/GT2_9cd1995c-6c60-46a4-9627-effd2327ff28.png"
+      "sha256": "8d2df7659247fffd76e33dbba8805f04b9c6284453fd08a8ff55a68b1a235618",
+      "size": 53628,
+      "source_url": "https://store.bblcdn.com/s7/default/9dfd9f2b1a0240d18d5def9401d71d32/GT2_9cd1995c-6c60-46a4-9627-effd2327ff28.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/62/625bfca39092b8b655fcc69127034705006b8988a083f3d607ec844e7c89bebb.png",
+      "id": "image-ef3f0185b9efc169f225",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "GT2.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "625bfca39092b8b655fcc69127034705006b8988a083f3d607ec844e7c89bebb",
+      "size": 305632,
+      "source_url": "https://store.bblcdn.com/s7/default/ad87170b6558491cb4ef24e8a30fbbf0/GT2.png"
     },
     {
       "blob_path": "data/blobs/sha256/2d/2dba8beedcc5156ce6be65361de413d85d5a59d74c7c2b876de3c6e8283383f8.pdf",
@@ -110,48 +110,48 @@
       "source_url": "https://store.bblcdn.com/s7/default/6c237a305c4d40508f5d9fbbd9341d35/GT2_Timing_Belt.zip"
     },
     {
-      "blob_path": "data/blobs/sha256/8f/8f171231517a8fe8e140abc5122fa391b11001da45b4e170bf6d65650c13d590.png",
-      "id": "image-display-25aa87d4ec111e5ecfee",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 1600,
-        "source_sha256": "a8347b1acc4a76fd7150ec8acfc295a108726436232683d4d3d17e062f2191a8",
-        "source_width": 1600
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "GT2.catalog.png",
-      "parent_asset_id": "image-62430646fbfb6b18ca90",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "8f171231517a8fe8e140abc5122fa391b11001da45b4e170bf6d65650c13d590",
-      "size": 79683,
-      "source_url": "https://store.bblcdn.eu/s8/default/68efed2b35a24107beb72c4915f33a6f/GT2.png"
-    },
-    {
       "blob_path": "data/blobs/sha256/9e/9e1fb12b4bf73ed12240f98de959ce070e7f756972c75c6d90e11337d25b5179.png",
-      "id": "image-display-1766f623ca0b82d7f023",
+      "id": "image-display-9c66e2a0fa5458abb36e",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 202,
         "output_height": 800,
         "output_width": 800,
         "source_height": 800,
-        "source_sha256": "4967e5133f8867728ef95cd26373ed730edbe8f7d27821f1950b219f8d8ba24e",
+        "source_sha256": "8d2df7659247fffd76e33dbba8805f04b9c6284453fd08a8ff55a68b1a235618",
         "source_width": 800
       },
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "GT2_9cd1995c-6c60-46a4-9627-effd2327ff28.catalog.png",
-      "parent_asset_id": "image-0ecbe8ef6e35d2e37a6c",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-2882e1a8b5847acf1efd",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "9e1fb12b4bf73ed12240f98de959ce070e7f756972c75c6d90e11337d25b5179",
       "size": 41799,
-      "source_url": "https://store.bblcdn.eu/s8/default/23ce3dd418a54dbc8b7b56ebf65d8ed0/GT2_9cd1995c-6c60-46a4-9627-effd2327ff28.png"
+      "source_url": "https://store.bblcdn.com/s7/default/9dfd9f2b1a0240d18d5def9401d71d32/GT2_9cd1995c-6c60-46a4-9627-effd2327ff28.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/8f/8f171231517a8fe8e140abc5122fa391b11001da45b4e170bf6d65650c13d590.png",
+      "id": "image-display-75279b444c3f70f28094",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "625bfca39092b8b655fcc69127034705006b8988a083f3d607ec844e7c89bebb",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "GT2.catalog.png",
+      "parent_asset_id": "image-ef3f0185b9efc169f225",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "8f171231517a8fe8e140abc5122fa391b11001da45b4e170bf6d65650c13d590",
+      "size": 79683,
+      "source_url": "https://store.bblcdn.com/s7/default/ad87170b6558491cb4ef24e8a30fbbf0/GT2.png"
     }
   ],
   "box_contents": [],
@@ -198,7 +198,7 @@
   "description_text": "Ensure accurate rotation alignment for motors and components, enhance system stability\n\nImprove torque transmission and meshing, reducing tooth slippage\n\nIdeal for demanding high-load and high-torque drive system\n\nHigh efficiency, smooth, quiet and durable",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "rd015-gt2-timing-belt",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "Belt Width（mm）",

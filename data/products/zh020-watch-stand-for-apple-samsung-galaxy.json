@@ -34,54 +34,54 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/38/38b715941373194996bf031d76ff318169f46b77b11951b856bcd26c4c6e6706.jpg",
-      "id": "image-89e34e1af7d8e7d5fe24",
+      "blob_path": "data/blobs/sha256/60/607b580922834c0ad7e6913897aace5134445d89e2336fbd3c2adcb76a62861f.jpg",
+      "id": "image-bb49bbeb7812a907760e",
       "kind": "image",
       "media_type": "image/jpeg",
-      "original_filename": "2f83d78dce254355b16c8ef1a64135f8.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "apple-4.jpg",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "38b715941373194996bf031d76ff318169f46b77b11951b856bcd26c4c6e6706",
-      "size": 92906,
-      "source_url": "https://store.bblcdn.com/s5/default/2f83d78dce254355b16c8ef1a64135f8.jpg"
+      "sha256": "607b580922834c0ad7e6913897aace5134445d89e2336fbd3c2adcb76a62861f",
+      "size": 92920,
+      "source_url": "https://store.bblcdn.com/s7/default/501a1cf0654b48c1927e97d9732b5ab1/apple-4.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/72/7257b313dcf10f6904ce5b18b5606a4dbc258b1cd6a04d3c6e669d7964733ade.png",
-      "id": "image-27415258aca0a887f5eb",
+      "id": "image-119447ff172c282915f0",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "d86551c473714b8dabb28059b1c240dc.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "Apple.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "7257b313dcf10f6904ce5b18b5606a4dbc258b1cd6a04d3c6e669d7964733ade",
       "size": 96097,
-      "source_url": "https://store.bblcdn.com/s5/default/d86551c473714b8dabb28059b1c240dc.png"
+      "source_url": "https://store.bblcdn.com/s7/default/5840a1ba0c6b4b81a6f302dc9cb5f3de/Apple.png"
     },
     {
       "blob_path": "data/blobs/sha256/64/644a17151bbbe43e38658ea2c9622bd63f2d710ff50988936ecc7bf975035012.png",
-      "id": "image-display-634931a5af30b2b0bb56",
+      "id": "image-display-0b3b7a3025774298c717",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 801,
-        "source_sha256": "38b715941373194996bf031d76ff318169f46b77b11951b856bcd26c4c6e6706",
+        "source_sha256": "607b580922834c0ad7e6913897aace5134445d89e2336fbd3c2adcb76a62861f",
         "source_width": 800
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "2f83d78dce254355b16c8ef1a64135f8.catalog.png",
-      "parent_asset_id": "image-89e34e1af7d8e7d5fe24",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "apple-4.catalog.png",
+      "parent_asset_id": "image-bb49bbeb7812a907760e",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "644a17151bbbe43e38658ea2c9622bd63f2d710ff50988936ecc7bf975035012",
       "size": 509130,
-      "source_url": "https://store.bblcdn.com/s5/default/2f83d78dce254355b16c8ef1a64135f8.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/501a1cf0654b48c1927e97d9732b5ab1/apple-4.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/1b/1b8fdc2a657ca566b9b474fd152d3511261cdf29349595a978f74bf555f178de.png",
-      "id": "image-display-e4d19ab36a04cbf8d25c",
+      "id": "image-display-5612afec74ee56222f35",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -93,13 +93,13 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "d86551c473714b8dabb28059b1c240dc.catalog.png",
-      "parent_asset_id": "image-27415258aca0a887f5eb",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "Apple.catalog.png",
+      "parent_asset_id": "image-119447ff172c282915f0",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "1b8fdc2a657ca566b9b474fd152d3511261cdf29349595a978f74bf555f178de",
       "size": 86887,
-      "source_url": "https://store.bblcdn.com/s5/default/d86551c473714b8dabb28059b1c240dc.png"
+      "source_url": "https://store.bblcdn.com/s7/default/5840a1ba0c6b4b81a6f302dc9cb5f3de/Apple.png"
     }
   ],
   "box_contents": [
@@ -172,7 +172,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Watch Stand For Apple/Samsung Galaxy. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Watch Stand For Apple/Samsung Galaxy and obtain detailed information, please visit the Watch Stand For Apple/Samsung Galaxy on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh020-watch-stand-for-apple-samsung-galaxy",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Watch Stand For Apple/Samsung Galaxy",
   "offers": [

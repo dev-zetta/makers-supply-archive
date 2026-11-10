@@ -1,0 +1,635 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "kinetic-manta-ray-biomimetic-automata",
+      "product_id": "789985382509846528",
+      "region": "us"
+    },
+    {
+      "handle": "kinetic-manta-ray-biomimetic-automata",
+      "product_id": "789984458550812672",
+      "region": "ca"
+    },
+    {
+      "handle": "kinetic-manta-ray-biomimetic-automata",
+      "product_id": "789985915249405952",
+      "region": "eu"
+    },
+    {
+      "handle": "kinetic-manta-ray-biomimetic-automata",
+      "product_id": "789984939872362496",
+      "region": "uk"
+    },
+    {
+      "handle": "kinetic-manta-ray-biomimetic-automata",
+      "product_id": "789983981192921088",
+      "region": "au"
+    },
+    {
+      "handle": "kinetic-manta-ray-biomimetic-automata",
+      "product_id": "788639559108837376",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/22/225ecf1ecceca71cd8237dcad4fb1f671453cc3ca88eab311780ba0253c0a504.jpg",
+      "id": "image-8dea61da63eb99cf21cc",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "B-ZH187_battery_edition.jpg",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "225ecf1ecceca71cd8237dcad4fb1f671453cc3ca88eab311780ba0253c0a504",
+      "size": 347130,
+      "source_url": "https://store.bblcdn.com/s7/default/34121385e52845229a3de02748acc934/B-ZH187_battery_edition.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b5/b5295dcf05df615689f7574e079ad08843fca1533af51c977284cdf7cf07810b.jpg",
+      "id": "image-844b3ceceeb2df3981f1",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "B-ZH186.jpg",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "b5295dcf05df615689f7574e079ad08843fca1533af51c977284cdf7cf07810b",
+      "size": 269314,
+      "source_url": "https://store.bblcdn.com/s7/default/4ab696576d2e47a7aba7c94aceb73511/B-ZH186.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/51/51c0736c1b078ea4056507e649ea10c6395ce7b9cc9132f0f99d768defb662bf.png",
+      "id": "image-d462cc8f3704a83bd089",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KV_WITH_MARK.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "51c0736c1b078ea4056507e649ea10c6395ce7b9cc9132f0f99d768defb662bf",
+      "size": 2592537,
+      "source_url": "https://store.bblcdn.com/s7/default/e7296bd4b44b4cdbb12913ccb3b36c90/KV_WITH_MARK.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/3f/3fa7cb1a04752d4210bc1b145e0576b7bf0df4f1dc52ca3503d70acd35a718b0.png",
+      "id": "image-display-9c841346f6724229fdf2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "225ecf1ecceca71cd8237dcad4fb1f671453cc3ca88eab311780ba0253c0a504",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH187_battery_edition.catalog.png",
+      "parent_asset_id": "image-8dea61da63eb99cf21cc",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "3fa7cb1a04752d4210bc1b145e0576b7bf0df4f1dc52ca3503d70acd35a718b0",
+      "size": 100594,
+      "source_url": "https://store.bblcdn.com/s7/default/34121385e52845229a3de02748acc934/B-ZH187_battery_edition.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/0d/0dfd876eda8016766b64706cae6a3081f08c0829e19018da1418ab545b7be65e.png",
+      "id": "image-display-a8dda0b0f620ec1ec1c1",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "b5295dcf05df615689f7574e079ad08843fca1533af51c977284cdf7cf07810b",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH186.catalog.png",
+      "parent_asset_id": "image-844b3ceceeb2df3981f1",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "0dfd876eda8016766b64706cae6a3081f08c0829e19018da1418ab545b7be65e",
+      "size": 77642,
+      "source_url": "https://store.bblcdn.com/s7/default/4ab696576d2e47a7aba7c94aceb73511/B-ZH186.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/af/afba06803feadfd3d2812b7d880bf2eb5f929a89147615af718bf65e6ac3e910.png",
+      "id": "image-display-1ef51877604657c41676",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "51c0736c1b078ea4056507e649ea10c6395ce7b9cc9132f0f99d768defb662bf",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KV_WITH_MARK.catalog.png",
+      "parent_asset_id": "image-d462cc8f3704a83bd089",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "afba06803feadfd3d2812b7d880bf2eb5f929a89147615af718bf65e6ac3e910",
+      "size": 659697,
+      "source_url": "https://store.bblcdn.com/s7/default/e7296bd4b44b4cdbb12913ccb3b36c90/KV_WITH_MARK.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "fc006-eye-bolt-with-self-tapping-thread",
+      "name": "1.0x4x10 mm Brass Eye Bolt with Self-Tapping Thread (20PCS) - FC008",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/eye-bolt-with-self-tapping-thread?id=43291995275400",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa195-bt2-5-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2.5x8 SHCS Self Tapping Screw (20PCS) - AA101",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/bt2-5-socket-head-cap-self-tapping-screws-shcs-new?id=48694580478300",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa178-m2-flat-head-cap-machine-screws-fhcs-1",
+      "name": "M2x6 FHCS Machine Screw (20PCS) - AA071",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/m2-flat-head-cap-machine-screws-fhcs-1?id=48691722584412",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "xc007-150mm-zh1-5-to-sh1-0-conversion-wire",
+      "name": "150mm ZH1.5 to SH1.0 Conversion Wire (5PCS) - XC007",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/150mm-zh1-5-to-sh1-0-conversion-wire?id=43143799603336",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "zc003-rechargeable-power-kit",
+      "name": "Rechargeable Power Kit",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/rechargeable-power-kit?id=42961221976200",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "la002-n20-reduction-gear-motor",
+      "name": "N20 Reduction Gear Motor 150rpm (1PCS) - LA002",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/n20-reduction-gear-motor?id=42122646585480",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "fc006-eye-bolt-with-self-tapping-thread",
+      "name": "1.0x4x10 mm Brass Eye Bolt with Self-Tapping Thread (20PCS) - FC008",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/eye-bolt-with-self-tapping-thread?id=43291995275400",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa195-bt2-5-socket-head-cap-self-tapping-screws-shcs-new",
+      "name": "BT2.5x8 SHCS Self Tapping Screw (20PCS) - AA101",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/bt2-5-socket-head-cap-self-tapping-screws-shcs-new?id=48694580478300",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa178-m2-flat-head-cap-machine-screws-fhcs-1",
+      "name": "M2x6 FHCS Machine Screw (20PCS) - AA071",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/m2-flat-head-cap-machine-screws-fhcs-1?id=48691722584412",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia005-power-distribution-board-pdb-4-channels",
+      "name": "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/power-distribution-board-pdb-4-channels?id=42123476467848",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "la002-n20-reduction-gear-motor",
+      "name": "N20 Reduction Gear Motor 150rpm (1PCS) - LA002",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/n20-reduction-gear-motor?id=42122646585480",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia007-potentiometer-board-with-sh1-0-connector",
+      "name": "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/potentiometer-board-with-sh1-0-connector?id=42123349753992",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ia006-self-locking-button-switch-with-sh1-0-connector",
+      "name": "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=42123262427272",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Kinetic Manta Ray - Biomimetic Automata. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Kinetic Manta Ray - Biomimetic Automata on MakerWorld."
+    },
+    {
+      "kind": "heading",
+      "text": "Two Ways to Bring It to Life"
+    },
+    {
+      "kind": "paragraph",
+      "text": "01 / LEFT Battery Edition 02 / RIGHT USB Edition"
+    },
+    {
+      "kind": "paragraph",
+      "text": "01 / LEFT Battery Edition"
+    },
+    {
+      "kind": "paragraph",
+      "text": "02 / RIGHT USB Edition"
+    },
+    {
+      "kind": "heading",
+      "text": "Battery Edition"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Note: This model requires the 150rpm N20 motor (LA002) listed above. The 500rpm N20 motor included in the Rechargeable Power Kit is not suitable for this model."
+    },
+    {
+      "kind": "heading",
+      "text": "USB Edition"
+    },
+    {
+      "kind": "paragraph",
+      "text": "All required cables are included. IA005 includes a USB-A power cable, a PH2.0 cable pair, and SH1.0 jumper wires; LA002 includes an SH1.0 cable pair; IA006 and IA007 each include an SH1.0 cable pair. Components are included according to the edition lists above."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Kinetic Manta Ray - Biomimetic Automata</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Kinetic Manta Ray - Biomimetic Automata</strong> on <a href=\"https://makerworld.com/en/models/2392366-kinetic-manta-ray-biomimetic-automata?from=search#profileId-2621104\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_ic\">\n<div class=\"edition-showcase\">\n<div class=\"edition-showcase__header\"><span class=\"edition-showcase__eyebrow\">Choose Your Edition</span>\n<h2 class=\"edition-showcase__title\">Two Ways to Bring It to Life</h2>\n</div>\n<img alt=\"Battery Edition on the left and USB Edition on the right\" class=\"edition-showcase__image product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s1/default/998503cb98234e6ca6657516e203bcef/editions.JPG\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/>\n<div class=\"edition-showcase__labels\">\n<div class=\"edition-showcase__label\"><span class=\"edition-showcase__number\">01 / LEFT</span> <span class=\"edition-showcase__name\">Battery Edition</span></div>\n<div class=\"edition-showcase__label\"><span class=\"edition-showcase__number\">02 / RIGHT</span> <span class=\"edition-showcase__name\">USB Edition</span></div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"font-size: 24px; text-align: center;\">In The Box</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<h3 class=\"edition-title\">Battery Edition</h3>\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; text-align: left;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/eye-bolt-with-self-tapping-thread?id=43291995275400\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> 1.0x4x10 mm Brass Eye Bolt with Self-Tapping Thread (20PCS) - FC008 </a> </strong></p>\n<img alt=\"Brass Eye Bolt FC008\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/e974a4110a3e4220bbc8ddf1f2caedde/FC008.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/bt2-5-socket-head-cap-self-tapping-screws-shcs-new?id=48694580478300\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> BT2.5x8 SHCS Self Tapping Screw (20PCS) - AA101 </a> </strong></p>\n<img alt=\"BT2.5x8 Self Tapping Screw AA101\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/15fc2ec1a7f542ab8f60ec5368d5ff49/AA019-5_6a19a4b4-0024-4c96-9aec-a7c387faa858.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/m2-flat-head-cap-machine-screws-fhcs-1?id=48691722584412\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> M2x6 FHCS Machine Screw (20PCS) - AA071 </a> </strong></p>\n<img alt=\"M2x6 Machine Screw AA071\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/8f6e0567285942e68d7e84f4f2bf56a9/1_3.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/150mm-zh1-5-to-sh1-0-conversion-wire?id=43143799603336\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> 150mm ZH1.5 to SH1.0 Conversion Wire (5PCS) - XC007 </a> </strong></p>\n<img alt=\"Conversion Wire XC007\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/ab98116ac6194a38abb34df89ebdb772/xc007_7d45ebcd-cbf5-4d8d-8493-f68162c06693.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/rechargeable-power-kit?id=42961221976200\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> Rechargeable Power Kit </a> </strong></p>\n<img alt=\"Rechargeable Power Kit\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/3a1df0644de14ba7934884ab9c9eb125/ZC003.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/n20-reduction-gear-motor?id=42122646585480\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> N20 Reduction Gear Motor 150rpm (1PCS) - LA002 </a> </strong></p>\n<img alt=\"N20 Reduction Gear Motor LA002\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/661802d04b874f4ea8b1073f660b3c6b/N20_150rpm_-_LA002.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n</tbody>\n</table>\n<p class=\"parts-note\"><strong>Note:</strong> This model requires the 150rpm N20 motor (LA002) listed above. The 500rpm N20 motor included in the Rechargeable Power Kit is not suitable for this model.</p>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\" style=\"margin-top: 36px;\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<h3 class=\"edition-title\">USB Edition</h3>\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; text-align: left;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%;\"><strong>Qty</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/eye-bolt-with-self-tapping-thread?id=43291995275400\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> 1.0x4x10 mm Brass Eye Bolt with Self-Tapping Thread (20PCS) - FC008 </a> </strong></p>\n<img alt=\"Brass Eye Bolt FC008\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/e974a4110a3e4220bbc8ddf1f2caedde/FC008.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/bt2-5-socket-head-cap-self-tapping-screws-shcs-new?id=48694580478300\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> BT2.5x8 SHCS Self Tapping Screw (20PCS) - AA101 </a> </strong></p>\n<img alt=\"BT2.5x8 Self Tapping Screw AA101\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/15fc2ec1a7f542ab8f60ec5368d5ff49/AA019-5_6a19a4b4-0024-4c96-9aec-a7c387faa858.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/m2-flat-head-cap-machine-screws-fhcs-1?id=48691722584412\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> M2x6 FHCS Machine Screw (20PCS) - AA071 </a> </strong></p>\n<img alt=\"M2x6 Machine Screw AA071\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/8f6e0567285942e68d7e84f4f2bf56a9/1_3.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/power-distribution-board-pdb-4-channels?id=42123476467848\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005 </a> </strong></p>\n<img alt=\"Power Distribution Board IA005\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/a055ffd48d2a4a7e83ae055e4f0838c7/IA005.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/n20-reduction-gear-motor?id=42122646585480\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> N20 Reduction Gear Motor 150rpm (1PCS) - LA002 </a> </strong></p>\n<img alt=\"N20 Reduction Gear Motor LA002\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/661802d04b874f4ea8b1073f660b3c6b/N20_150rpm_-_LA002.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/potentiometer-board-with-sh1-0-connector?id=42123349753992\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> Potentiometer Board with SH1.0 Connector (2PCS) - IA007 </a> </strong></p>\n<img alt=\"Potentiometer Board IA007\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/fdd2d8674f9e4532b80d169b4558d37a/IA007.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n<tr class=\"pct_tr\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px; text-align: left;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><strong> <a href=\"../../products/self-locking-button-switch-with-sh1-0-connector?id=42123262427272\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\"> Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006 </a> </strong></p>\n<img alt=\"Self-Locking Button Switch IA006\" class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/9f8eb089ca144e2eb82598ab0e7e5f0d/IA006.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px;\">1</td>\n</tr>\n</tbody>\n</table>\n<p class=\"parts-note\"><strong>All required cables are included.</strong> IA005 includes a USB-A power cable, a PH2.0 cable pair, and SH1.0 jumper wires; LA002 includes an SH1.0 cable pair; IA006 and IA007 each include an SH1.0 cable pair. Components are included according to the edition lists above.</p>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Kinetic Manta Ray - Biomimetic Automata. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Kinetic Manta Ray - Biomimetic Automata on MakerWorld.\n\n01 / LEFT Battery Edition 02 / RIGHT USB Edition\n\n01 / LEFT Battery Edition\n\n02 / RIGHT USB Edition\n\nNote: This model requires the 150rpm N20 motor (LA002) listed above. The 500rpm N20 motor included in the Rechargeable Power Kit is not suitable for this model.\n\nAll required cables are included. IA005 includes a USB-A power cable, a PH2.0 cable pair, and SH1.0 jumper wires; LA002 includes an SH1.0 cable pair; IA006 and IA007 each include an SH1.0 cable pair. Components are included according to the edition lists above.",
+  "first_seen": "2026-11-10T12:06:28Z",
+  "id": "zh187-kinetic-manta-ray-biomimetic-automata",
+  "last_seen": "2026-11-10T12:06:28Z",
+  "measurements": [],
+  "name": "Kinetic Manta Ray - Biomimetic Automata",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "33.99",
+      "region": "us",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://us.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "39.99",
+      "region": "ca",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://ca.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "32.99",
+      "region": "eu",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://eu.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "27.99",
+      "region": "uk",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://uk.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "63.99",
+      "region": "au",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://au.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "29.99",
+      "region": "asia",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://asia.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA071",
+    "AA101",
+    "B-ZH186",
+    "B-ZH187",
+    "FC008",
+    "IA005",
+    "IA006",
+    "IA007",
+    "LA002",
+    "XC007",
+    "ZH186",
+    "ZH187"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Kinetic Manta Ray Biomimetic Automata",
+      "url": "https://makerworld.com/en/models/2392366-kinetic-manta-ray-biomimetic-automata?from=search#profileId-2621104"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "788667154022014978",
+    "788667154022014982",
+    "789983981293584387",
+    "789983981293584391",
+    "789984458559201283",
+    "789984458559201287",
+    "789984939884945409",
+    "789984939884945413",
+    "789985382522429443",
+    "789985382522429447",
+    "789985915282960387",
+    "789985915287154690"
+  ],
+  "source_tables": [
+    {
+      "caption": "Battery Edition",
+      "headers": [
+        "Item Name",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789985382522429443"
+      },
+      "rows": [
+        [
+          "1.0x4x10 mm Brass Eye Bolt with Self-Tapping Thread (20PCS) - FC008",
+          "1"
+        ],
+        [
+          "BT2.5x8 SHCS Self Tapping Screw (20PCS) - AA101",
+          "1"
+        ],
+        [
+          "M2x6 FHCS Machine Screw (20PCS) - AA071",
+          "1"
+        ],
+        [
+          "150mm ZH1.5 to SH1.0 Conversion Wire (5PCS) - XC007",
+          "1"
+        ],
+        [
+          "Rechargeable Power Kit",
+          "1"
+        ],
+        [
+          "N20 Reduction Gear Motor 150rpm (1PCS) - LA002",
+          "1"
+        ]
+      ]
+    },
+    {
+      "caption": "USB Edition",
+      "headers": [
+        "Item Name",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789985382522429443"
+      },
+      "rows": [
+        [
+          "1.0x4x10 mm Brass Eye Bolt with Self-Tapping Thread (20PCS) - FC008",
+          "1"
+        ],
+        [
+          "BT2.5x8 SHCS Self Tapping Screw (20PCS) - AA101",
+          "1"
+        ],
+        [
+          "M2x6 FHCS Machine Screw (20PCS) - AA071",
+          "1"
+        ],
+        [
+          "Power Distribution Board (PDB) - 4 Channels (1PCS) - IA005",
+          "1"
+        ],
+        [
+          "N20 Reduction Gear Motor 150rpm (1PCS) - LA002",
+          "1"
+        ],
+        [
+          "Potentiometer Board with SH1.0 Connector (2PCS) - IA007",
+          "1"
+        ],
+        [
+          "Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/34121385e52845229a3de02748acc934/B-ZH187_battery_edition.jpg",
+      "part_number": "ZH187",
+      "price": "33.99",
+      "region": "us",
+      "sku": "789985382522429443",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
+      "url": "https://us.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789985382522429443",
+      "variant_id": "789985382522429443"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/4ab696576d2e47a7aba7c94aceb73511/B-ZH186.jpg",
+      "part_number": "ZH186",
+      "price": "20.99",
+      "region": "us",
+      "sku": "789985382522429447",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
+      "url": "https://us.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789985382522429447",
+      "variant_id": "789985382522429447"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/c2e53761a0b74344ad74dfdba8d6c891/B-ZH187_battery_edition.jpg",
+      "part_number": "ZH187",
+      "price": "39.99",
+      "region": "ca",
+      "sku": "789984458559201283",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
+      "url": "https://ca.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789984458559201283",
+      "variant_id": "789984458559201283"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/2c4e254a56814a3baccebe9b0f1ac2b3/B-ZH186.jpg",
+      "part_number": "ZH186",
+      "price": "25.99",
+      "region": "ca",
+      "sku": "789984458559201287",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
+      "url": "https://ca.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789984458559201287",
+      "variant_id": "789984458559201287"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/9bc1fb2f50474c50ad48a23239ae7641/B-ZH187_battery_edition.jpg",
+      "part_number": "ZH187",
+      "price": "32.99",
+      "region": "eu",
+      "sku": "789985915282960387",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
+      "url": "https://eu.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789985915282960387",
+      "variant_id": "789985915282960387"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/4e471bff67e740a49c886c025fb0a569/B-ZH186.jpg",
+      "part_number": "ZH186",
+      "price": "22.99",
+      "region": "eu",
+      "sku": "789985915287154690",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
+      "url": "https://eu.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789985915287154690",
+      "variant_id": "789985915287154690"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/f3f8b02ca431483db9fa86931e0bad57/B-ZH187_battery_edition.jpg",
+      "part_number": "ZH187",
+      "price": "27.99",
+      "region": "uk",
+      "sku": "789984939884945409",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
+      "url": "https://uk.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789984939884945409",
+      "variant_id": "789984939884945409"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/e76fde208ae04b41a92f56227e344834/B-ZH186.jpg",
+      "part_number": "ZH186",
+      "price": "19.99",
+      "region": "uk",
+      "sku": "789984939884945413",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
+      "url": "https://uk.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789984939884945413",
+      "variant_id": "789984939884945413"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/1257b46e97ff4f4da093b9f8f9664659/B-ZH187_battery_edition.jpg",
+      "part_number": "ZH187",
+      "price": "63.99",
+      "region": "au",
+      "sku": "789983981293584387",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
+      "url": "https://au.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789983981293584387",
+      "variant_id": "789983981293584387"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/ee7275ef765b4e4480ab56e2d82077ca/B-ZH186.jpg",
+      "part_number": "ZH186",
+      "price": "43.99",
+      "region": "au",
+      "sku": "789983981293584391",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
+      "url": "https://au.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789983981293584391",
+      "variant_id": "789983981293584391"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/7d9524420e35454bb95a8c0162de191d/B-ZH187_battery_edition.jpg",
+      "part_number": "ZH187",
+      "price": "29.99",
+      "region": "asia",
+      "sku": "788667154022014978",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
+      "url": "https://asia.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=788667154022014978",
+      "variant_id": "788667154022014978"
+    },
+    {
+      "available": false,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/1a25f88888004e37b601159865359dda/B-ZH186.jpg",
+      "part_number": "ZH186",
+      "price": "18.99",
+      "region": "asia",
+      "sku": "788667154022014982",
+      "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
+      "url": "https://asia.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=788667154022014982",
+      "variant_id": "788667154022014982"
+    }
+  ]
+}

@@ -34,32 +34,54 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/f0/f0182038361ab52af09cdb55d56fb1c63bb80d043d3eee6489893b2409cf140d.png",
-      "id": "image-a77b6eaf2794f6b27508",
+      "blob_path": "data/blobs/sha256/cc/cc6a3b02acee0aa54a16dfe634a2011bc1aa653632dd73a82c68cfbb2304ba8a.png",
+      "id": "image-9e2819f973d35aba0d2d",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "121b582023284a28a4e7950f1288165c.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "Group_1123861345.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "cc6a3b02acee0aa54a16dfe634a2011bc1aa653632dd73a82c68cfbb2304ba8a",
+      "size": 94726,
+      "source_url": "https://store.bblcdn.com/s7/default/d7f0484728294f1794d066c3fda21b6a/Group_1123861345.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/f0/f0182038361ab52af09cdb55d56fb1c63bb80d043d3eee6489893b2409cf140d.png",
+      "id": "image-d73803327f90f44556c1",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Group_1123861265.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "f0182038361ab52af09cdb55d56fb1c63bb80d043d3eee6489893b2409cf140d",
       "size": 300916,
-      "source_url": "https://store.bblcdn.com/121b582023284a28a4e7950f1288165c.png"
+      "source_url": "https://store.bblcdn.com/s7/default/addb9b445a7742c3a3da4bc29d9c1732/Group_1123861265.png"
     },
     {
-      "blob_path": "data/blobs/sha256/99/996f21affc43d283eabbcfa7b1a1cddbe670c665637e370a85815016ca192f5d.png",
-      "id": "image-7d441aeb29d80f1f5307",
+      "blob_path": "data/blobs/sha256/3a/3a7d1eb538a2e16d11bd5edb4af44f63858bd6eca5c8bca9b0adb0de1193e048.png",
+      "id": "image-display-1e0537ca956f641d89b8",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "cc6a3b02acee0aa54a16dfe634a2011bc1aa653632dd73a82c68cfbb2304ba8a",
+        "source_width": 800
+      },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "2e5de0593a1d4992934bd97b4c38d3dd.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "Group_1123861345.catalog.png",
+      "parent_asset_id": "image-9e2819f973d35aba0d2d",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "996f21affc43d283eabbcfa7b1a1cddbe670c665637e370a85815016ca192f5d",
-      "size": 94740,
-      "source_url": "https://store.bblcdn.com/2e5de0593a1d4992934bd97b4c38d3dd.png"
+      "sha256": "3a7d1eb538a2e16d11bd5edb4af44f63858bd6eca5c8bca9b0adb0de1193e048",
+      "size": 84651,
+      "source_url": "https://store.bblcdn.com/s7/default/d7f0484728294f1794d066c3fda21b6a/Group_1123861345.png"
     },
     {
       "blob_path": "data/blobs/sha256/f0/f036f0685b5a700df27147ab22dedaa270483f3597dabca737f27ca1929917b0.png",
-      "id": "image-display-1bb71dec5e0997cfd8f4",
+      "id": "image-display-d7a904d9cc3776f56655",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -71,35 +93,13 @@
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "121b582023284a28a4e7950f1288165c.catalog.png",
-      "parent_asset_id": "image-a77b6eaf2794f6b27508",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "Group_1123861265.catalog.png",
+      "parent_asset_id": "image-d73803327f90f44556c1",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "f036f0685b5a700df27147ab22dedaa270483f3597dabca737f27ca1929917b0",
       "size": 261684,
-      "source_url": "https://store.bblcdn.com/121b582023284a28a4e7950f1288165c.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/3a/3a7d1eb538a2e16d11bd5edb4af44f63858bd6eca5c8bca9b0adb0de1193e048.png",
-      "id": "image-display-89cb10d98d97321e8875",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 800,
-        "source_sha256": "996f21affc43d283eabbcfa7b1a1cddbe670c665637e370a85815016ca192f5d",
-        "source_width": 800
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "2e5de0593a1d4992934bd97b4c38d3dd.catalog.png",
-      "parent_asset_id": "image-7d441aeb29d80f1f5307",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "3a7d1eb538a2e16d11bd5edb4af44f63858bd6eca5c8bca9b0adb0de1193e048",
-      "size": 84651,
-      "source_url": "https://store.bblcdn.com/2e5de0593a1d4992934bd97b4c38d3dd.png"
+      "source_url": "https://store.bblcdn.com/s7/default/addb9b445a7742c3a3da4bc29d9c1732/Group_1123861265.png"
     }
   ],
   "box_contents": [
@@ -224,7 +224,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Running Dinosaur Automaton. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Running Dinosaur Automaton and obtain detailed information, please visit the Running Dinosaur Automaton on MakerWorld.\n\nPlease note that this Running Dinosaur Automaton is powered via USB and conveniently connects to your computer or other USB powered device. You also have the option of purchasing a USB Speed Controller to adjust the speed at which the dinosaur runs as needed.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh009-running-dinosaur-automaton",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Running Dinosaur Automaton",
   "offers": [
@@ -233,19 +233,19 @@
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
-      "price": "25.7",
+      "price": "20.56",
       "region": "us",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://us.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "listed": true,
       "missing_runs": 0,
-      "price": "29.76",
+      "price": "23.81",
       "region": "ca",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://ca.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     },
     {
@@ -253,9 +253,9 @@
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
-      "price": "24.35",
+      "price": "19.48",
       "region": "eu",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://eu.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     },
     {
@@ -263,9 +263,9 @@
       "currency": "GBP",
       "listed": true,
       "missing_runs": 0,
-      "price": "20.68",
+      "price": "16.54",
       "region": "uk",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://uk.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     },
     {
@@ -273,19 +273,19 @@
       "currency": "AUD",
       "listed": true,
       "missing_runs": 0,
-      "price": "46.7",
+      "price": "37.36",
       "region": "au",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://au.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
-      "price": "23.5",
+      "price": "18.8",
       "region": "asia",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://asia.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     }
   ],
@@ -396,7 +396,7 @@
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s7/default/d7f0484728294f1794d066c3fda21b6a/Group_1123861345.png",
       "part_number": "ZH009",
-      "price": "25.7",
+      "price": "20.56",
       "region": "us",
       "sku": "42800862167176",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
@@ -404,11 +404,11 @@
       "variant_id": "42800862167176"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
-      "image_url": "https://store.bblcdn.com/s5/default/91186debc9884fb9abfb562d1077d6f3.png",
+      "image_url": "https://store.bblcdn.com/s5/default/bba5c7b89eff43bca82f90bfddd9730d.png",
       "part_number": "ZH009",
-      "price": "29.76",
+      "price": "23.81",
       "region": "ca",
       "sku": "46432067977456",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
@@ -420,7 +420,7 @@
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/060ccd9e3a324ddbbf1dd6fabc41587d/Group_1123861345.png",
       "part_number": "ZH009",
-      "price": "24.35",
+      "price": "19.48",
       "region": "eu",
       "sku": "49140669907292",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
@@ -432,7 +432,7 @@
       "currency": "GBP",
       "image_url": "https://store.bblcdn.eu/20df68445fa9433494ebd0afccd9415d.png",
       "part_number": "ZH009",
-      "price": "20.68",
+      "price": "16.54",
       "region": "uk",
       "sku": "42063211462716",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
@@ -444,7 +444,7 @@
       "currency": "AUD",
       "image_url": "https://store.bblcdn.com/066d808a6dd8444ebb78d5746b31e177.png",
       "part_number": "ZH009",
-      "price": "46.7",
+      "price": "37.36",
       "region": "au",
       "sku": "45057021214883",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
@@ -452,11 +452,11 @@
       "variant_id": "45057021214883"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/121b582023284a28a4e7950f1288165c.png",
       "part_number": "ZH009",
-      "price": "23.5",
+      "price": "18.8",
       "region": "asia",
       "sku": "42134823501939",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",

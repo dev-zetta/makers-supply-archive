@@ -1,0 +1,336 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "magic-night-cat-pumpkin-lantern",
+      "product_id": "776214394576089088",
+      "region": "us"
+    },
+    {
+      "handle": "magic-night-cat-pumpkin-lantern",
+      "product_id": "776213694962008064",
+      "region": "ca"
+    },
+    {
+      "handle": "magic-night-cat-pumpkin-lantern",
+      "product_id": "776214650466390016",
+      "region": "eu"
+    },
+    {
+      "handle": "magic-night-cat-pumpkin-lantern",
+      "product_id": "776214057358249984",
+      "region": "uk"
+    },
+    {
+      "handle": "magic-night-cat-pumpkin-lantern",
+      "product_id": "776213427642216448",
+      "region": "au"
+    },
+    {
+      "handle": "magic-night-cat-pumpkin-lantern",
+      "product_id": "774837000506224640",
+      "region": "asia"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/31/31d838d42ccd28f9026bf7170c59f1fcdcbd317ef25791f270fda726fb6b8640.png",
+      "id": "image-44c86fff6bd89f638ea0",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH184_upgrade.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "31d838d42ccd28f9026bf7170c59f1fcdcbd317ef25791f270fda726fb6b8640",
+      "size": 3148708,
+      "source_url": "https://store.bblcdn.com/s7/default/05bd93acb1494cb0b76e81b872c74c16/B-ZH184_upgrade.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5d/5d6a8689f713c871f2a3488787f56a43a293861db026d57755f3337cc9f3199d.png",
+      "id": "image-dd14cd65e78ab7a35682",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KC007update.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "5d6a8689f713c871f2a3488787f56a43a293861db026d57755f3337cc9f3199d",
+      "size": 675628,
+      "source_url": "https://store.bblcdn.com/s7/default/33f4eb480451443fb11620a69cf6a3a5/KC007update.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/b3/b37dd0045a18d291386e6b81f49c9f00ad00c39f42a9372ded76a0c4adab5b06.png",
+      "id": "image-display-7c60f6cd1dd5aea4f81f",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "31d838d42ccd28f9026bf7170c59f1fcdcbd317ef25791f270fda726fb6b8640",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH184_upgrade.catalog.png",
+      "parent_asset_id": "image-44c86fff6bd89f638ea0",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "b37dd0045a18d291386e6b81f49c9f00ad00c39f42a9372ded76a0c4adab5b06",
+      "size": 817031,
+      "source_url": "https://store.bblcdn.com/s7/default/05bd93acb1494cb0b76e81b872c74c16/B-ZH184_upgrade.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/68/68b8ec28d0528854a8adbdcd1405d49538b42e0682bc3e32658892e6a35f11f1.png",
+      "id": "image-display-d81c242de5a9c6301119",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "5d6a8689f713c871f2a3488787f56a43a293861db026d57755f3337cc9f3199d",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "KC007update.catalog.png",
+      "parent_asset_id": "image-dd14cd65e78ab7a35682",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "68b8ec28d0528854a8adbdcd1405d49538b42e0682bc3e32658892e6a35f11f1",
+      "size": 157924,
+      "source_url": "https://store.bblcdn.com/s7/default/33f4eb480451443fb11620a69cf6a3a5/KC007update.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "kc007-remote-controlled-16-color-rgbw-puck-lights",
+      "name": "Remote Controlled 16-color RGBW Puck Lights (2pcs) - KC007",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/remote-controlled-16-color-rgbw-puck-lights?id=49126816579932",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional Magic Night Cat Pumpkin Lantern. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the Magic Night Cat Pumpkin Lantern on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: center;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>Magic Night Cat Pumpkin Lantern</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>Magic Night Cat Pumpkin Lantern</strong> on <a href=\"https://makerworld.com/zh/models/1924218-night-magic-cat-jack-o-lantern?from=search#profileId-2064917\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"font-size: 24px; text-align: center;\">In The Box</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse; height: 75px;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 25px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 25px;\"><strong>Qty</strong></td>\n</tr>\n</thead>\n<tbody><!--商品信息Code粘贴起始位置-->\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../products/remote-controlled-16-color-rgbw-puck-lights?id=49126816579932\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">Remote Controlled 16-color RGBW Puck Lights (2pcs) - KC007</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/1545914ceaf245dcbda8068d68f77673/Remote_Controlled_16-color_RGBW_Puck_Lights7.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<!--商品信息Code粘贴位置截至此处--></tbody>\n</table>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Magic Night Cat Pumpkin Lantern. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Magic Night Cat Pumpkin Lantern on MakerWorld.",
+  "first_seen": "2026-11-10T12:06:28Z",
+  "id": "zh184-magic-night-cat-pumpkin-lantern",
+  "last_seen": "2026-11-10T12:06:28Z",
+  "measurements": [],
+  "name": "Magic Night Cat Pumpkin Lantern",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.99",
+      "region": "us",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://us.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "8.85",
+      "region": "ca",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://ca.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "7.24",
+      "region": "eu",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://eu.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.15",
+      "region": "uk",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://uk.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "13.89",
+      "region": "au",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://au.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "6.99",
+      "region": "asia",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://asia.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "B-ZH184",
+    "KC007",
+    "ZH184"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Night Magic Cat Jack O Lantern",
+      "url": "https://makerworld.com/zh/models/1924218-night-magic-cat-jack-o-lantern?from=search#profileId-2064917"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "774837000523001858",
+    "776213427658993666",
+    "776213694974590978",
+    "776214057375027202",
+    "776214394588672002",
+    "776214650487361538"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Name",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776214394588672002"
+      },
+      "rows": [
+        [
+          "Remote Controlled 16-color RGBW Puck Lights (2pcs) - KC007",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/05bd93acb1494cb0b76e81b872c74c16/B-ZH184_upgrade.png",
+      "part_number": "ZH184",
+      "price": "7.99",
+      "region": "us",
+      "sku": "776214394588672002",
+      "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
+      "url": "https://us.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776214394588672002",
+      "variant_id": "776214394588672002"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/fd51f3ecf9c749ca8d7e64a59548d093/B-ZH184_upgrade.png",
+      "part_number": "ZH184",
+      "price": "8.85",
+      "region": "ca",
+      "sku": "776213694974590978",
+      "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
+      "url": "https://ca.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776213694974590978",
+      "variant_id": "776213694974590978"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/d6002c92de6b41179e6b156d2d573eb9/B-ZH184_upgrade.png",
+      "part_number": "ZH184",
+      "price": "7.24",
+      "region": "eu",
+      "sku": "776214650487361538",
+      "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
+      "url": "https://eu.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776214650487361538",
+      "variant_id": "776214650487361538"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/a1c4d126046542329b258bc8e5f8b84b/B-ZH184_upgrade.png",
+      "part_number": "ZH184",
+      "price": "6.15",
+      "region": "uk",
+      "sku": "776214057375027202",
+      "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
+      "url": "https://uk.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776214057375027202",
+      "variant_id": "776214057375027202"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/79d7362bfbb04159a32bdbfa9598afaf/B-ZH184_upgrade.png",
+      "part_number": "ZH184",
+      "price": "13.89",
+      "region": "au",
+      "sku": "776213427658993666",
+      "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
+      "url": "https://au.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776213427658993666",
+      "variant_id": "776213427658993666"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s1/default/9e2ba7be37f54cf08d16cfe2e9966823/B-ZH184_upgrade.png",
+      "part_number": "ZH184",
+      "price": "6.99",
+      "region": "asia",
+      "sku": "774837000523001858",
+      "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
+      "url": "https://asia.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=774837000523001858",
+      "variant_id": "774837000523001858"
+    }
+  ]
+}

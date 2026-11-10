@@ -35,31 +35,31 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/79/7963f8d9f681e0d6550a11e7c96ba5ccf8b2827ba77dac5c422e6ebf1b638cf2.jpg",
-      "id": "image-f08a10bad2c21ad0281b",
+      "id": "image-2b195ea2fc2baa6f9ae8",
       "kind": "image",
       "media_type": "image/jpeg",
       "original_filename": "B-ZH178_model.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "7963f8d9f681e0d6550a11e7c96ba5ccf8b2827ba77dac5c422e6ebf1b638cf2",
       "size": 488802,
-      "source_url": "https://store.bblcdn.eu/s8/default/2a34eef71c174e77b1882f6097ca93c1/B-ZH178_model.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/cbb22ef8ba924f6ab88376d3aef4d459/B-ZH178_model.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/40/4012173af227e5adaf398e8b2765686d9f650d41ec341b3ffb253fe727deacac.png",
-      "id": "image-38ec5900d65b6abed593",
+      "id": "image-38fb816926a206eb8d75",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH178.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "4012173af227e5adaf398e8b2765686d9f650d41ec341b3ffb253fe727deacac",
       "size": 760710,
-      "source_url": "https://store.bblcdn.eu/s8/default/c0e6e94b57d943f0885f624cc6c6c006/B-ZH178.png"
+      "source_url": "https://store.bblcdn.com/s7/default/c3bd1dee9bc34410a004bf10df93fdd8/B-ZH178.png"
     },
     {
       "blob_path": "data/blobs/sha256/ac/acc9726dab0836b2c2afd43aa086e7c9ac9e223113d3b3177ed36b068a748f48.png",
-      "id": "image-display-a84c4cfd941ca4fee8d8",
+      "id": "image-display-abd83044c177c0dc61f9",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -72,16 +72,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH178_model.catalog.png",
-      "parent_asset_id": "image-f08a10bad2c21ad0281b",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-2b195ea2fc2baa6f9ae8",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "acc9726dab0836b2c2afd43aa086e7c9ac9e223113d3b3177ed36b068a748f48",
       "size": 668487,
-      "source_url": "https://store.bblcdn.eu/s8/default/2a34eef71c174e77b1882f6097ca93c1/B-ZH178_model.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/cbb22ef8ba924f6ab88376d3aef4d459/B-ZH178_model.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/19/1943f4e795727aa4a20b2f6ef15b0c5a2d2607eece7a524e681d236dffd74878.png",
-      "id": "image-display-6b7e9f8bfc99a6225757",
+      "id": "image-display-725ffc1af6208de198df",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -94,12 +94,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH178.catalog.png",
-      "parent_asset_id": "image-38ec5900d65b6abed593",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-38fb816926a206eb8d75",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "1943f4e795727aa4a20b2f6ef15b0c5a2d2607eece7a524e681d236dffd74878",
       "size": 213795,
-      "source_url": "https://store.bblcdn.eu/s8/default/c0e6e94b57d943f0885f624cc6c6c006/B-ZH178.png"
+      "source_url": "https://store.bblcdn.com/s7/default/c3bd1dee9bc34410a004bf10df93fdd8/B-ZH178.png"
     }
   ],
   "box_contents": [
@@ -184,7 +184,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Filament Respooler Winder. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Filament Respooler Winder on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh178-filament-respooler-winder",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Filament Respooler Winder",
   "offers": [
@@ -219,13 +219,13 @@
       "url": "https://eu.store.bambulab.com/en/products/filament-respooler-winder?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "GBP",
       "listed": true,
       "missing_runs": 0,
       "price": "11.99",
       "region": "uk",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://uk.store.bambulab.com/en/products/filament-respooler-winder?skr=yes"
     },
     {
@@ -357,7 +357,7 @@
       "variant_id": "765725614983475202"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "GBP",
       "image_url": "https://store.bblcdn.eu/s4/default/a675734bc480490dba644e66cc423604/B-ZH178_model.jpg",
       "part_number": "ZH178",

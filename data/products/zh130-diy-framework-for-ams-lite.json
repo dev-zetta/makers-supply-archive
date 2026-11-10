@@ -1,0 +1,674 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "diy-framework-for-ams-lite",
+      "product_id": "768604260647612416",
+      "region": "us"
+    },
+    {
+      "handle": "diy-framework-for-ams-lite",
+      "product_id": "768610556838981632",
+      "region": "ca"
+    },
+    {
+      "handle": "diy-framework-for-ams-lite",
+      "product_id": "768603932867006464",
+      "region": "eu"
+    },
+    {
+      "handle": "diy-framework-for-ams-lite",
+      "product_id": "768608443316682752",
+      "region": "uk"
+    },
+    {
+      "handle": "diy-framework-for-ams-lite",
+      "product_id": "768613581594898432",
+      "region": "au"
+    }
+  ],
+  "assets": [
+    {
+      "blob_path": "data/blobs/sha256/21/21f38c7590b15482e4f03d1ebb97ce9d2412b636068d7fd58dc9619923b732b2.png",
+      "id": "image-49e1d3d0b410d8ec4c73",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH130.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "21f38c7590b15482e4f03d1ebb97ce9d2412b636068d7fd58dc9619923b732b2",
+      "size": 3042503,
+      "source_url": "https://store.bblcdn.com/s7/default/09dd6a9f2e5943e8b084a536bc5f5126/B-ZH130.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/77/77767cc29af4c7035b61ffce1e4c26bcae2a90c45b2ea9f10341639e409ead23.png",
+      "id": "image-dd690dea479ba83e4104",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH177.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "77767cc29af4c7035b61ffce1e4c26bcae2a90c45b2ea9f10341639e409ead23",
+      "size": 2842372,
+      "source_url": "https://store.bblcdn.com/s7/default/7ab3ee30d8cc4bd8bdf3bb2141a12481/B-ZH177.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/5b/5bda8018066b5a2085444870b7e5c18b74e342f1840659a925a066558b47529a.png",
+      "id": "image-daca6093f45fcf28769f",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH130_V.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "5bda8018066b5a2085444870b7e5c18b74e342f1840659a925a066558b47529a",
+      "size": 373033,
+      "source_url": "https://store.bblcdn.com/s7/default/2b3f63d58e3540c18a297432efd74e43/ZH130_V.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/db/db0566081503e973f13df524e258475ac065159ab958407ab1cc30b9878318cf.png",
+      "id": "image-4ecf2c6e4a18fa963dfc",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH177_V.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "db0566081503e973f13df524e258475ac065159ab958407ab1cc30b9878318cf",
+      "size": 384776,
+      "source_url": "https://store.bblcdn.com/s7/default/c6577c5865994edb97585b520db6d4c4/ZH177_V.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c1/c133069a5f630e97db6f45bbcd9fe0c6547a50c4dbc7795c39f9ef9ac9fd4531.png",
+      "id": "image-5e44990b12fa5774aba0",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH130.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "c133069a5f630e97db6f45bbcd9fe0c6547a50c4dbc7795c39f9ef9ac9fd4531",
+      "size": 3214294,
+      "source_url": "https://store.bblcdn.com/s7/default/7a7b187d59184ff69f57626409f205c6/B-ZH130.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/cb/cb2240c7ae7f3793f10a70c3b0e4c27e15e63648d565b26f2b7cdf191111e9c9.png",
+      "id": "image-display-7c808ff2bcf1b898192d",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "21f38c7590b15482e4f03d1ebb97ce9d2412b636068d7fd58dc9619923b732b2",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH130.catalog.png",
+      "parent_asset_id": "image-49e1d3d0b410d8ec4c73",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "cb2240c7ae7f3793f10a70c3b0e4c27e15e63648d565b26f2b7cdf191111e9c9",
+      "size": 763353,
+      "source_url": "https://store.bblcdn.com/s7/default/09dd6a9f2e5943e8b084a536bc5f5126/B-ZH130.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/c5/c535866602e982d3e3122f6bebfcb49bf608b3c112bbcb432ead621d43074f2b.png",
+      "id": "image-display-288c3e0cf4e68cd5f8fb",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "77767cc29af4c7035b61ffce1e4c26bcae2a90c45b2ea9f10341639e409ead23",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH177.catalog.png",
+      "parent_asset_id": "image-dd690dea479ba83e4104",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "c535866602e982d3e3122f6bebfcb49bf608b3c112bbcb432ead621d43074f2b",
+      "size": 764273,
+      "source_url": "https://store.bblcdn.com/s7/default/7ab3ee30d8cc4bd8bdf3bb2141a12481/B-ZH177.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/80/80f78c3a6b06dd62e413065c81b082b43602112c402839ebd2779602d5d8c862.png",
+      "id": "image-display-88aee5a390ca7ec7ebd1",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "5bda8018066b5a2085444870b7e5c18b74e342f1840659a925a066558b47529a",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH130_V.catalog.png",
+      "parent_asset_id": "image-daca6093f45fcf28769f",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "80f78c3a6b06dd62e413065c81b082b43602112c402839ebd2779602d5d8c862",
+      "size": 95483,
+      "source_url": "https://store.bblcdn.com/s7/default/2b3f63d58e3540c18a297432efd74e43/ZH130_V.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/82/821ee91a0b3df2c3741ffc7a526d9b93f5eb3b4a69d832852414ad0098ccb667.png",
+      "id": "image-display-586d85ec19fe2df1857b",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "db0566081503e973f13df524e258475ac065159ab958407ab1cc30b9878318cf",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH177_V.catalog.png",
+      "parent_asset_id": "image-4ecf2c6e4a18fa963dfc",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "821ee91a0b3df2c3741ffc7a526d9b93f5eb3b4a69d832852414ad0098ccb667",
+      "size": 100689,
+      "source_url": "https://store.bblcdn.com/s7/default/c6577c5865994edb97585b520db6d4c4/ZH177_V.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/65/65e1d550b668a900f102618eaefc3323e7609750c45ae16902ec733c06041e90.png",
+      "id": "image-display-67a74323202ef8d0005e",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1640,
+        "source_sha256": "c133069a5f630e97db6f45bbcd9fe0c6547a50c4dbc7795c39f9ef9ac9fd4531",
+        "source_width": 1640
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH130.catalog.png",
+      "parent_asset_id": "image-5e44990b12fa5774aba0",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "65e1d550b668a900f102618eaefc3323e7609750c45ae16902ec733c06041e90",
+      "size": 809927,
+      "source_url": "https://store.bblcdn.com/s7/default/7a7b187d59184ff69f57626409f205c6/B-ZH130.png"
+    }
+  ],
+  "box_contents": [
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "623zz Steel Deep Groove Ball Bearings (6PCS) - EA008",
+      "quantity": "3",
+      "source_url": "https://us.store.bambulab.com/products/micro-steel-deep-groove-ball-bearings?id=42504744403080",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x5 BHCS Machine Screw (20PCS) - AA171",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=48671486869852",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x8 BHCS Machine Screw (20PCS) - AA058",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=48671486935388",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x12 BHCS Machine Screw (20PCS) - AA059",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=48671487000924",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x18 BHCS Machine Screw (10PCS) - AA174",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=48671487099228",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ab003-hex-nut",
+      "name": "M3 Carbon Steel Hex Nut (20PCS) - AB005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/hex-nut?id=42410684022920",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa064-m4-button-head-cap-machine-screws-bhcs",
+      "name": "M4x16 BHCS Machine Screw (5PCS) - AA067",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/m4-button-head-cap-machine-screws-bhcs?id=48676294459740",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ptfe-tubes",
+      "name": "PTFE Tube 4000mm*1",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523490",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ea003-micro-steel-deep-groove-ball-bearings",
+      "name": "623zz Steel Deep Groove Ball Bearings (6PCS) - EA008",
+      "quantity": "3",
+      "source_url": "https://us.store.bambulab.com/products/micro-steel-deep-groove-ball-bearings?id=42504744403080",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x5 BHCS Machine Screw (20PCS) - AA171",
+      "quantity": "3",
+      "source_url": "https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=48671486869852",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x8 BHCS Machine Screw (20PCS) - AA058",
+      "quantity": "6",
+      "source_url": "https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=48671486935388",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x12 BHCS Machine Screw (20PCS) - AA059",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=48671487000924",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x16 BHCS Machine Screw (10PCS) - AA060",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=48671487066460",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa171-m3-button-head-cap-machine-screws-bhcs",
+      "name": "M3x18 BHCS Machine Screw (10PCS) - AA174",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/m3-button-head-cap-machine-screws-bhcs?id=48671487099228",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ab003-hex-nut",
+      "name": "M3 Carbon Steel Hex Nut (20PCS) - AB005",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/hex-nut?id=42410684022920",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "aa064-m4-button-head-cap-machine-screws-bhcs",
+      "name": "M4x16 BHCS Machine Screw (5PCS) - AA067",
+      "quantity": "2",
+      "source_url": "https://us.store.bambulab.com/products/m4-button-head-cap-machine-screws-bhcs?id=48676294459740",
+      "variant_quantities": []
+    },
+    {
+      "linked_product_id": "ptfe-tubes",
+      "name": "PTFE Tube 4000mm*1",
+      "quantity": "1",
+      "source_url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523490",
+      "variant_quantities": []
+    }
+  ],
+  "categories": [
+    "Maker's Supply Models"
+  ],
+  "category_assignments": [
+    {
+      "id": "models",
+      "label": "Maker's Supply Models",
+      "path": [
+        "Maker's Supply Models"
+      ],
+      "provenance": {
+        "kind": "classification_rule",
+        "reference": "config/categories.json:rules[0]"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "heading",
+      "text": "Overview"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The product contains all the non-3D printed parts for assembling an entirely functional DIY Framework for AMS Lite. To complete the work, you also need to download the model files and 3D print the remaining parts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To download the model files please visit the DIY Framework for AMS Lite on MakerWorld."
+    }
+  ],
+  "description_html": "<div class=\"pct pct_mc\">\n<div class=\"pct_t-stpc\">\n<div class=\"pct_st-p\">\n<h2 class=\"pct_t\" style=\"margin-top: 20px; margin-bottom: 20px; font-size: 24px; text-align: left;\">Overview</h2>\n<p class=\"pct_p\">The product contains all the <strong>non-3D printed</strong> parts for assembling an entirely functional <strong>DIY Framework for AMS Lite</strong>. To complete the work, you also need to download the <strong>model files</strong> and <strong>3D print</strong> the remaining parts.<span></span></p>\n<!--Overview部分（无需改动）-->\n<div class=\"pct_st-p\"><span style=\"text-decoration: underline;\"><strong><em><span style=\"color: #e60034; text-decoration: underline;\">Creator Program</span><span style=\"color: #e60034; text-decoration: underline;\">:</span></em></strong></span><strong><em> </em></strong>The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.</div>\n<!--创作者计划注释（无需改动）-->\n<p></p>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_t-tb\">\n<p class=\"pct_p\">To download the model files please visit the <strong>DIY Framework for AMS Lite</strong> on <a href=\"https://makerworld.com/en/models/1561190-ams-lite-4-0?from=search#profileId-2146559\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #00ae42;\"><strong><span style=\"text-decoration: underline;\">MakerWorld</span></strong></span></a>.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_tpc-ic\">\n<div class=\"pct_t-p\">\n<h2 class=\"pct_t\" style=\"font-size: 24px; text-align: center;\">In The Box</h2>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse; height: 75px;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 25px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 25px;\"><strong>Qty</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/micro-steel-deep-groove-ball-bearings?id=42504744403080\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">623zz Steel Deep Groove Ball Bearings (6PCS) - EA008</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/9af73be0eb6a442d9ac640c710bafbac/FAC036-24_68fdde39-4899-40ac-9bbf-140094c3f63b.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m3-button-head-cap-machine-screws-bhcs?id=48671486869852\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x5 BHCS Machine Screw (20PCS) - AA171</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/1fffc4c2265449b6aceb5573be67478a/Group_1123860883.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m3-button-head-cap-machine-screws-bhcs?id=48671486935388\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x8 BHCS Machine Screw (20PCS) - AA058</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/f8664f91cae046648bf2f2f875d44454/Group_1123860885.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m3-button-head-cap-machine-screws-bhcs?id=48671487000924\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x12 BHCS Machine Screw (20PCS) - AA059</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/a855ecdb745d4ab99bd221672b08a3f6/Group_1123860887.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m3-button-head-cap-machine-screws-bhcs?id=48671487099228\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x18 BHCS Machine Screw (10PCS) - AA174</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/9d5030c415b440c580d122946a6f0aac/Group_1123860892_d13b98db-a7bb-489e-ac64-aaffb9551b50.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/hex-nut?id=42410684022920\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3 Carbon Steel Hex Nut (20PCS) - AB005</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/751f7bdf97c24659a18439c1eb44c352/AB005.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m4-button-head-cap-machine-screws-bhcs?id=48676294459740\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M4x16 BHCS Machine Screw (5PCS) - AA067</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/70952752fe8a46a18f03f0d8a93158c3/Group_1123860899.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/ptfe-tubes?id=723049025637523490\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">PTFE Tube 4000mm*1</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/251fb9c0b52846968c4754eedc405301/FAT005.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>\n<div class=\"pct pct_mc\">\n<div class=\"pct_st-tbc\">\n<div class=\"pct_tbc\">\n<table class=\"pct_tb\" style=\"width: 100%; text-align: center; border-collapse: collapse; height: 75px;\">\n<thead class=\"pct_th\">\n<tr style=\"background-color: #333333; color: white;\">\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; height: 25px;\"><strong>Item Name</strong></td>\n<td class=\"pct_td\" style=\"border: 1px solid #333333; padding: 10px; width: 20%; height: 25px;\"><strong>Qty</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/micro-steel-deep-groove-ball-bearings?id=42504744403080\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">623zz Steel Deep Groove Ball Bearings (6PCS) - EA008</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/9af73be0eb6a442d9ac640c710bafbac/FAC036-24_68fdde39-4899-40ac-9bbf-140094c3f63b.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m3-button-head-cap-machine-screws-bhcs?id=48671486869852\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x5 BHCS Machine Screw (20PCS) - AA171</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/1fffc4c2265449b6aceb5573be67478a/Group_1123860883.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">3</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m3-button-head-cap-machine-screws-bhcs?id=48671486935388\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x8 BHCS Machine Screw (20PCS) - AA058</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/f8664f91cae046648bf2f2f875d44454/Group_1123860885.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">6</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m3-button-head-cap-machine-screws-bhcs?id=48671487000924\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x12 BHCS Machine Screw (20PCS) - AA059</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/a855ecdb745d4ab99bd221672b08a3f6/Group_1123860887.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m3-button-head-cap-machine-screws-bhcs?id=48671487066460\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x16 BHCS Machine Screw (10PCS) - AA060</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/95abbb859a0a43dbbfe3c96280ad9e6b/Group_1123860889_2a6570eb-0a32-4872-8091-797eba9be333.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m3-button-head-cap-machine-screws-bhcs?id=48671487099228\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3x18 BHCS Machine Screw (10PCS) - AA174</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/9d5030c415b440c580d122946a6f0aac/Group_1123860892_d13b98db-a7bb-489e-ac64-aaffb9551b50.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/hex-nut?id=42410684022920\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M3 Carbon Steel Hex Nut (20PCS) - AB005</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/751f7bdf97c24659a18439c1eb44c352/AB005.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/m4-button-head-cap-machine-screws-bhcs?id=48676294459740\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">M4x16 BHCS Machine Screw (5PCS) - AA067</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.eu/s8/default/70952752fe8a46a18f03f0d8a93158c3/Group_1123860899.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">2</td>\n</tr>\n<tr class=\"pct_tr\" style=\"height: 19px;\">\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">\n<div class=\"hover-img-container\">\n<p style=\"margin: 0;\"><span style=\"color: #00ae42;\"><strong><a href=\"../../../products/ptfe-tubes?id=723049025637523490\" rel=\"noopener\" style=\"color: #00ae42;\" target=\"_blank\">PTFE Tube 4000mm*1</a></strong></span></p>\n<img class=\"hover-img product-desc-lazy-media product-desc-lazy-media--image bg-bbl-white animate-pulse max-h-[400px]\" data-lazy=\"false\" data-src=\"https://store.bblcdn.com/s7/default/251fb9c0b52846968c4754eedc405301/FAT005.png\" src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=\"/></div>\n</td>\n<td class=\"pct_td\" style=\"border: 1px solid #cccccc; padding: 10px; height: 50px;\">1</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+  "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional DIY Framework for AMS Lite. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the DIY Framework for AMS Lite on MakerWorld.",
+  "first_seen": "2026-11-10T12:06:28Z",
+  "id": "zh130-diy-framework-for-ams-lite",
+  "last_seen": "2026-11-10T12:06:28Z",
+  "measurements": [],
+  "name": "DIY Framework for AMS Lite",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "27.99",
+      "region": "us",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://us.store.bambulab.com/en/products/diy-framework-for-ams-lite?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "32.99",
+      "region": "ca",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://ca.store.bambulab.com/en/products/diy-framework-for-ams-lite?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "28.99",
+      "region": "eu",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://eu.store.bambulab.com/en/products/diy-framework-for-ams-lite?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "24.99",
+      "region": "uk",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://uk.store.bambulab.com/en/products/diy-framework-for-ams-lite?skr=yes"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "49.99",
+      "region": "au",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "url": "https://au.store.bambulab.com/en/products/diy-framework-for-ams-lite?skr=yes"
+    }
+  ],
+  "part_numbers": [
+    "AA058",
+    "AA059",
+    "AA060",
+    "AA067",
+    "AA171",
+    "AA174",
+    "AB005",
+    "B-ZH130",
+    "B-ZH177",
+    "EA008",
+    "ZH130",
+    "ZH177"
+  ],
+  "related_links": [
+    {
+      "kind": "makerworld",
+      "title": "Ams Lite 4 0",
+      "url": "https://makerworld.com/en/models/1561190-ams-lite-4-0?from=search#profileId-2146559"
+    }
+  ],
+  "schema_version": 4,
+  "skus": [
+    "768603932887977987",
+    "768603932892172293",
+    "768604260660195331",
+    "768604260660195335",
+    "768608443333459970",
+    "768608443333459974",
+    "768610556868341763",
+    "768610556868341767",
+    "768613581615869955",
+    "768613581615869959"
+  ],
+  "source_tables": [
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Name",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:0",
+        "source_url": "https://us.store.bambulab.com/products/diy-framework-for-ams-lite?id=768604260660195331"
+      },
+      "rows": [
+        [
+          "623zz Steel Deep Groove Ball Bearings (6PCS) - EA008",
+          "3"
+        ],
+        [
+          "M3x5 BHCS Machine Screw (20PCS) - AA171",
+          "2"
+        ],
+        [
+          "M3x8 BHCS Machine Screw (20PCS) - AA058",
+          "2"
+        ],
+        [
+          "M3x12 BHCS Machine Screw (20PCS) - AA059",
+          "2"
+        ],
+        [
+          "M3x18 BHCS Machine Screw (10PCS) - AA174",
+          "1"
+        ],
+        [
+          "M3 Carbon Steel Hex Nut (20PCS) - AB005",
+          "1"
+        ],
+        [
+          "M4x16 BHCS Machine Screw (5PCS) - AA067",
+          "2"
+        ],
+        [
+          "PTFE Tube 4000mm*1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "caption": "In The Box",
+      "headers": [
+        "Item Name",
+        "Qty"
+      ],
+      "provenance": {
+        "kind": "page_table",
+        "reference": "table:1",
+        "source_url": "https://us.store.bambulab.com/products/diy-framework-for-ams-lite?id=768604260660195331"
+      },
+      "rows": [
+        [
+          "623zz Steel Deep Groove Ball Bearings (6PCS) - EA008",
+          "3"
+        ],
+        [
+          "M3x5 BHCS Machine Screw (20PCS) - AA171",
+          "3"
+        ],
+        [
+          "M3x8 BHCS Machine Screw (20PCS) - AA058",
+          "6"
+        ],
+        [
+          "M3x12 BHCS Machine Screw (20PCS) - AA059",
+          "2"
+        ],
+        [
+          "M3x16 BHCS Machine Screw (10PCS) - AA060",
+          "1"
+        ],
+        [
+          "M3x18 BHCS Machine Screw (10PCS) - AA174",
+          "1"
+        ],
+        [
+          "M3 Carbon Steel Hex Nut (20PCS) - AB005",
+          "1"
+        ],
+        [
+          "M4x16 BHCS Machine Screw (5PCS) - AA067",
+          "2"
+        ],
+        [
+          "PTFE Tube 4000mm*1",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "specifications": {},
+  "tags": [
+    "kit"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/09dd6a9f2e5943e8b084a536bc5f5126/B-ZH130.png",
+      "part_number": "ZH130",
+      "price": "27.99",
+      "region": "us",
+      "sku": "768604260660195331",
+      "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Non-Enclosure Version - ZH130",
+      "url": "https://us.store.bambulab.com/products/diy-framework-for-ams-lite?id=768604260660195331",
+      "variant_id": "768604260660195331"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://store.bblcdn.com/s7/default/7ab3ee30d8cc4bd8bdf3bb2141a12481/B-ZH177.png",
+      "part_number": "ZH177",
+      "price": "33.99",
+      "region": "us",
+      "sku": "768604260660195335",
+      "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Enclosure Version - ZH177",
+      "url": "https://us.store.bambulab.com/products/diy-framework-for-ams-lite?id=768604260660195335",
+      "variant_id": "768604260660195335"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/d8c1f1660137454eae48464cd32c3287/B-ZH130.png",
+      "part_number": "ZH130",
+      "price": "32.99",
+      "region": "ca",
+      "sku": "768610556868341763",
+      "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Non-Enclosure Version - ZH130",
+      "url": "https://ca.store.bambulab.com/products/diy-framework-for-ams-lite?id=768610556868341763",
+      "variant_id": "768610556868341763"
+    },
+    {
+      "available": true,
+      "currency": "CAD",
+      "image_url": "https://store.bblcdn.com/s5/default/91fccee4f5c041b0aaa9f76b22d35055/B-ZH177.png",
+      "part_number": "ZH177",
+      "price": "39.99",
+      "region": "ca",
+      "sku": "768610556868341767",
+      "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Enclosure Version - ZH177",
+      "url": "https://ca.store.bambulab.com/products/diy-framework-for-ams-lite?id=768610556868341767",
+      "variant_id": "768610556868341767"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/fee805ad69d845c3a6d2eb1b42f27779/B-ZH130.png",
+      "part_number": "ZH130",
+      "price": "28.99",
+      "region": "eu",
+      "sku": "768603932887977987",
+      "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Non-Enclosure Version - ZH130",
+      "url": "https://eu.store.bambulab.com/products/diy-framework-for-ams-lite?id=768603932887977987",
+      "variant_id": "768603932887977987"
+    },
+    {
+      "available": true,
+      "currency": "EUR",
+      "image_url": "https://store.bblcdn.eu/s8/default/699ac31f027e4ae081708cb0b3568f07/B-ZH177.png",
+      "part_number": "ZH177",
+      "price": "35.99",
+      "region": "eu",
+      "sku": "768603932892172293",
+      "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Enclosure Version - ZH177",
+      "url": "https://eu.store.bambulab.com/products/diy-framework-for-ams-lite?id=768603932892172293",
+      "variant_id": "768603932892172293"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/04e8bf1224c34fe18097a5fa10949af1/B-ZH130.png",
+      "part_number": "ZH130",
+      "price": "24.99",
+      "region": "uk",
+      "sku": "768608443333459970",
+      "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Non-Enclosure Version - ZH130",
+      "url": "https://uk.store.bambulab.com/products/diy-framework-for-ams-lite?id=768608443333459970",
+      "variant_id": "768608443333459970"
+    },
+    {
+      "available": true,
+      "currency": "GBP",
+      "image_url": "https://store.bblcdn.eu/s4/default/1083b3f1fdd94418a0935b79e533196f/B-ZH177.png",
+      "part_number": "ZH177",
+      "price": "28.99",
+      "region": "uk",
+      "sku": "768608443333459974",
+      "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Enclosure Version - ZH177",
+      "url": "https://uk.store.bambulab.com/products/diy-framework-for-ams-lite?id=768608443333459974",
+      "variant_id": "768608443333459974"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/169400408819472fa40fc6b0a81be7b5/B-ZH130.png",
+      "part_number": "ZH130",
+      "price": "49.99",
+      "region": "au",
+      "sku": "768613581615869955",
+      "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Non-Enclosure Version - ZH130",
+      "url": "https://au.store.bambulab.com/products/diy-framework-for-ams-lite?id=768613581615869955",
+      "variant_id": "768613581615869955"
+    },
+    {
+      "available": true,
+      "currency": "AUD",
+      "image_url": "https://store.bblcdn.com/s2/default/574b5bcb61aa47ce9cbc8621a82603ce/B-ZH177.png",
+      "part_number": "ZH177",
+      "price": "60.99",
+      "region": "au",
+      "sku": "768613581615869959",
+      "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Enclosure Version - ZH177",
+      "url": "https://au.store.bambulab.com/products/diy-framework-for-ams-lite?id=768613581615869959",
+      "variant_id": "768613581615869959"
+    }
+  ]
+}

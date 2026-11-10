@@ -34,38 +34,38 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/71/71779d73627c064923388d9403bbc96d5b1959684976d85f105634b0d15a653c.png",
-      "id": "image-6a7cec0e1ca92c7882de",
+      "blob_path": "data/blobs/sha256/2d/2ddf0377d19777b0e411255cdf3b6867d75d9203178976ac6b22d751e2adb1f6.png",
+      "id": "image-6a26a853d19b26c1c494",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "b0f85942db424f84afa6daab258e5e52.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "KC019_-_2.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "71779d73627c064923388d9403bbc96d5b1959684976d85f105634b0d15a653c",
-      "size": 182962,
-      "source_url": "https://store.bblcdn.com/s5/default/b0f85942db424f84afa6daab258e5e52.png"
+      "sha256": "2ddf0377d19777b0e411255cdf3b6867d75d9203178976ac6b22d751e2adb1f6",
+      "size": 651495,
+      "source_url": "https://store.bblcdn.com/s7/default/c491a7342c1049c598d11d415af8bd08/KC019_-_2.png"
     },
     {
-      "blob_path": "data/blobs/sha256/68/680a894111d960c883af42057a85ce15eab72afb6dfe989a4ad66c46bd70f8ae.png",
-      "id": "image-display-3a598b92fc020f5cfcb9",
+      "blob_path": "data/blobs/sha256/e6/e6499919f2a0414ba0d2f405cce97296d67346e7f7a62af60c5cbdd973dd7901.png",
+      "id": "image-display-dc93138edb2f51149d70",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
-        "source_height": 800,
-        "source_sha256": "71779d73627c064923388d9403bbc96d5b1959684976d85f105634b0d15a653c",
-        "source_width": 800
+        "source_height": 1600,
+        "source_sha256": "2ddf0377d19777b0e411255cdf3b6867d75d9203178976ac6b22d751e2adb1f6",
+        "source_width": 1600
       },
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "b0f85942db424f84afa6daab258e5e52.catalog.png",
-      "parent_asset_id": "image-6a7cec0e1ca92c7882de",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "KC019_-_2.catalog.png",
+      "parent_asset_id": "image-6a26a853d19b26c1c494",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "680a894111d960c883af42057a85ce15eab72afb6dfe989a4ad66c46bd70f8ae",
-      "size": 157900,
-      "source_url": "https://store.bblcdn.com/s5/default/b0f85942db424f84afa6daab258e5e52.png"
+      "sha256": "e6499919f2a0414ba0d2f405cce97296d67346e7f7a62af60c5cbdd973dd7901",
+      "size": 160896,
+      "source_url": "https://store.bblcdn.com/s7/default/c491a7342c1049c598d11d415af8bd08/KC019_-_2.png"
     }
   ],
   "box_contents": [
@@ -124,7 +124,7 @@
   "description_text": "This kit contains a Remote Controller and a USB controller. We have prepared this replacement kit for RGB LED Strip Light and S-shape LED Strip Light (WS2812B RGB) to cover any possible loss or damage during the crafting process.\n\nBefore making any modifications to the device, ensure that the LED strip is unplugged. Electrical currents can be dangerous and may result in electrical shock or injury in certain cases.\n\nThis product is not a toy. Please keep it out of reach of children.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "kc019-led-light-strip-remote-controller",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "LED Light Strip Remote Controller",
   "offers": [
@@ -172,7 +172,7 @@
       "available": true,
       "currency": "AUD",
       "listed": true,
-      "missing_runs": 0,
+      "missing_runs": 1,
       "price": "11.9",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",

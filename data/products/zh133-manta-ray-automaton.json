@@ -34,88 +34,66 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/de/de98ead942b889928e6b42830c113083457c11c4498f620074c8f229fca47894.png",
-      "id": "image-13fdc6fe989d3347eb3b",
+      "blob_path": "data/blobs/sha256/6d/6d9f5bd72ac1a7bc1920ba9bc0498f1788ad3e9f626e9007e9bc56497c49a553.png",
+      "id": "image-f5fe15d9948e607d9064",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "manta.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "de98ead942b889928e6b42830c113083457c11c4498f620074c8f229fca47894",
-      "size": 871994,
-      "source_url": "https://store.bblcdn.com/s5/default/e61cdcde26034d72be8727c256e49cdc/manta.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/05/0581fcd1717694e34c3e47d89525f92a8de8647479cdb2c29e297b0406fb8b7e.png",
-      "id": "image-fc5be791768397c19e2f",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "B-ZH133.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "0581fcd1717694e34c3e47d89525f92a8de8647479cdb2c29e297b0406fb8b7e",
-      "size": 170873,
-      "source_url": "https://store.bblcdn.com/s5/default/6b852cdc67bc4837ae8ed0e62e2523d5/B-ZH133.png"
+      "sha256": "6d9f5bd72ac1a7bc1920ba9bc0498f1788ad3e9f626e9007e9bc56497c49a553",
+      "size": 2139932,
+      "source_url": "https://store.bblcdn.com/s7/default/3a073e9c5ecf4c749f2ed53c5b1f37d0/manta.png"
     },
     {
       "blob_path": "data/blobs/sha256/69/6925e923c35260702bfd4af29dd9c0a6e85ef9b2127817e8195fcf41bc5625c3.gif",
-      "id": "image-c8dd7dd482d1ed47e0a1",
+      "id": "image-72fa0ac45069b363597c",
       "kind": "image",
       "media_type": "image/gif",
       "original_filename": "manta.gif.gif",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "6925e923c35260702bfd4af29dd9c0a6e85ef9b2127817e8195fcf41bc5625c3",
       "size": 7812073,
-      "source_url": "https://store.bblcdn.com/s5/default/cf5a4bb826464131a8662b74b950b381/manta.gif.gif"
+      "source_url": "https://store.bblcdn.com/s7/default/3f61185f178547e9899e110725b2ad24/manta.gif.gif"
     },
     {
-      "blob_path": "data/blobs/sha256/11/11986e098ab68b43d5c4329bcc6d821c7aabf2b7c6557660191063ed5736e48f.png",
-      "id": "image-display-95f948abbcb67cb2705e",
+      "blob_path": "data/blobs/sha256/72/728f2bf127ca8def311ae49aee04ccdd07ccd44c16beb08945d1e312abd929e9.png",
+      "id": "image-8cca7962f42039885480",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH133.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "728f2bf127ca8def311ae49aee04ccdd07ccd44c16beb08945d1e312abd929e9",
+      "size": 172486,
+      "source_url": "https://store.bblcdn.com/s7/default/e4f8a1127ef14fd1972839efd99532f7/B-ZH133.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/1b/1b10ee733b9f33d5879925ca3443bf4919c7d749d5835a918d7655f6d4c3d537.png",
+      "id": "image-display-8f5b3d990aa9a34ebbd8",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
         "output_height": 800,
         "output_width": 800,
         "source_height": 1600,
-        "source_sha256": "de98ead942b889928e6b42830c113083457c11c4498f620074c8f229fca47894",
+        "source_sha256": "6d9f5bd72ac1a7bc1920ba9bc0498f1788ad3e9f626e9007e9bc56497c49a553",
         "source_width": 1600
       },
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "manta.catalog.png",
-      "parent_asset_id": "image-13fdc6fe989d3347eb3b",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-f5fe15d9948e607d9064",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "11986e098ab68b43d5c4329bcc6d821c7aabf2b7c6557660191063ed5736e48f",
-      "size": 373307,
-      "source_url": "https://store.bblcdn.com/s5/default/e61cdcde26034d72be8727c256e49cdc/manta.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/03/033d34094c4de474a0bbb67f54522686b5317abda6b7473193118e2600f383d1.png",
-      "id": "image-display-780ae45d4222d3d90e88",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 800,
-        "source_sha256": "0581fcd1717694e34c3e47d89525f92a8de8647479cdb2c29e297b0406fb8b7e",
-        "source_width": 800
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "B-ZH133.catalog.png",
-      "parent_asset_id": "image-fc5be791768397c19e2f",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "033d34094c4de474a0bbb67f54522686b5317abda6b7473193118e2600f383d1",
-      "size": 140413,
-      "source_url": "https://store.bblcdn.com/s5/default/6b852cdc67bc4837ae8ed0e62e2523d5/B-ZH133.png"
+      "sha256": "1b10ee733b9f33d5879925ca3443bf4919c7d749d5835a918d7655f6d4c3d537",
+      "size": 589495,
+      "source_url": "https://store.bblcdn.com/s7/default/3a073e9c5ecf4c749f2ed53c5b1f37d0/manta.png"
     },
     {
       "blob_path": "data/blobs/sha256/3e/3e1019c365363b13436b7a556e751fdd216b1db3d09fe0f298b8575be0f0a1f0.png",
-      "id": "image-display-f162b596a8825df536fa",
+      "id": "image-display-368d6e69d82c9dd75451",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -128,12 +106,34 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "manta.gif.catalog.png",
-      "parent_asset_id": "image-c8dd7dd482d1ed47e0a1",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-72fa0ac45069b363597c",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "3e1019c365363b13436b7a556e751fdd216b1db3d09fe0f298b8575be0f0a1f0",
       "size": 469568,
-      "source_url": "https://store.bblcdn.com/s5/default/cf5a4bb826464131a8662b74b950b381/manta.gif.gif"
+      "source_url": "https://store.bblcdn.com/s7/default/3f61185f178547e9899e110725b2ad24/manta.gif.gif"
+    },
+    {
+      "blob_path": "data/blobs/sha256/38/38a04c0034591936a3e84ceba4253fac02a1dc67470538af0a24a1f6329f6715.png",
+      "id": "image-display-f791e6875a1e53ccd077",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 800,
+        "source_sha256": "728f2bf127ca8def311ae49aee04ccdd07ccd44c16beb08945d1e312abd929e9",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "B-ZH133.catalog.png",
+      "parent_asset_id": "image-8cca7962f42039885480",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "38a04c0034591936a3e84ceba4253fac02a1dc67470538af0a24a1f6329f6715",
+      "size": 142034,
+      "source_url": "https://store.bblcdn.com/s7/default/e4f8a1127ef14fd1972839efd99532f7/B-ZH133.png"
     }
   ],
   "box_contents": [
@@ -178,7 +178,7 @@
   "description_text": "To download the model files please visit the Manta ray automaton - manual/motor on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh133-manta-ray-automaton",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Manta ray automaton",
   "offers": [

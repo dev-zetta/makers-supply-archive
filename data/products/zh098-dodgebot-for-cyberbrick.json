@@ -34,54 +34,32 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/b6/b60ca1e493d12c99b991e04c4b7ee1b8fe795f744086a60a6837bfeba52cc999.png",
-      "id": "image-0aff34c034f4c609240b",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "Group_1312317893.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "b60ca1e493d12c99b991e04c4b7ee1b8fe795f744086a60a6837bfeba52cc999",
-      "size": 1556441,
-      "source_url": "https://store.bblcdn.com/s2/default/d0165d8b88e14afba6ce38b3016c3c81/Group_1312317893.png"
-    },
-    {
       "blob_path": "data/blobs/sha256/b4/b442f7521d1fb2d39e38ef2377790dfa2c1040dd28d861adbe517ec5b831442f.jpg",
-      "id": "image-b3b5e2b845b4781898d0",
+      "id": "image-0b5792e38216a24c5209",
       "kind": "image",
       "media_type": "image/jpeg",
       "original_filename": "2.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "b442f7521d1fb2d39e38ef2377790dfa2c1040dd28d861adbe517ec5b831442f",
       "size": 166835,
-      "source_url": "https://store.bblcdn.com/s2/default/c6b29b22411346ee8f868667283d6a73/2.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/f93d20955bb04041aafafac7e8d3347c/2.jpg"
     },
     {
-      "blob_path": "data/blobs/sha256/45/45ff696ae0eddc4e4d9b3aa86866a9b54680eeed266c6ab5ce61828b0d45b41c.png",
-      "id": "image-display-d1a12c83fa248eebb93d",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 1600,
-        "source_sha256": "b60ca1e493d12c99b991e04c4b7ee1b8fe795f744086a60a6837bfeba52cc999",
-        "source_width": 1600
-      },
+      "blob_path": "data/blobs/sha256/b6/b60ca1e493d12c99b991e04c4b7ee1b8fe795f744086a60a6837bfeba52cc999.png",
+      "id": "image-3dfc8d11bccc974ccf88",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "Group_1312317893.catalog.png",
-      "parent_asset_id": "image-0aff34c034f4c609240b",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "Group_1312317893.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
-      "sha256": "45ff696ae0eddc4e4d9b3aa86866a9b54680eeed266c6ab5ce61828b0d45b41c",
-      "size": 480925,
-      "source_url": "https://store.bblcdn.com/s2/default/d0165d8b88e14afba6ce38b3016c3c81/Group_1312317893.png"
+      "sha256": "b60ca1e493d12c99b991e04c4b7ee1b8fe795f744086a60a6837bfeba52cc999",
+      "size": 1556441,
+      "source_url": "https://store.bblcdn.com/s7/default/2f9b736beb834492ae599345b030aa6c/Group_1312317893.png"
     },
     {
       "blob_path": "data/blobs/sha256/a8/a83f4f81233e8941ffcad78003380907dc854b79b2f0d1d3617c49e01ed75d28.png",
-      "id": "image-display-867527c0fd14b51fe885",
+      "id": "image-display-bc8db626c8a9b5dd6edf",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -94,12 +72,34 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "2.catalog.png",
-      "parent_asset_id": "image-b3b5e2b845b4781898d0",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-0b5792e38216a24c5209",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "a83f4f81233e8941ffcad78003380907dc854b79b2f0d1d3617c49e01ed75d28",
       "size": 464996,
-      "source_url": "https://store.bblcdn.com/s2/default/c6b29b22411346ee8f868667283d6a73/2.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/f93d20955bb04041aafafac7e8d3347c/2.jpg"
+    },
+    {
+      "blob_path": "data/blobs/sha256/45/45ff696ae0eddc4e4d9b3aa86866a9b54680eeed266c6ab5ce61828b0d45b41c.png",
+      "id": "image-display-d903ddf73224b32f9112",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "b60ca1e493d12c99b991e04c4b7ee1b8fe795f744086a60a6837bfeba52cc999",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "Group_1312317893.catalog.png",
+      "parent_asset_id": "image-3dfc8d11bccc974ccf88",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "45ff696ae0eddc4e4d9b3aa86866a9b54680eeed266c6ab5ce61828b0d45b41c",
+      "size": 480925,
+      "source_url": "https://store.bblcdn.com/s7/default/2f9b736beb834492ae599345b030aa6c/Group_1312317893.png"
     }
   ],
   "box_contents": [
@@ -158,7 +158,7 @@
   "description_text": "This dynamic, 3D-printed RC racer remixes the classic CyberBrick™ SoccerBot, swapping the ball launcher for an exciting disc shooter. Battle solo or head-to-head, using lightweight or mediumweight discs for strategic play. With a 20-disc capacity and intuitive controls, it’s perfect for fast-paced competitive or cooperative action. Build, customize, and dominate the arena!\n\nIdeal for makers, gamers, and collectors — unleash your battlefield creativity with CyberBrick!\n\nTo download the model files and obtain detailed information, please visit the DodgeBot for CyberBrick on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh098-dodgebot-for-cyberbrick",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "DodgeBot for CyberBrick",
   "offers": [
@@ -207,19 +207,19 @@
       "currency": "AUD",
       "listed": true,
       "missing_runs": 0,
-      "price": "112.5",
+      "price": "87.5",
       "region": "au",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://au.store.bambulab.com/en/products/dodgebot-for-cyberbrick?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
       "price": "56.69",
       "region": "asia",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://asia.store.bambulab.com/en/products/dodgebot-for-cyberbrick?skr=yes"
     }
   ],
@@ -327,7 +327,7 @@
       "currency": "AUD",
       "image_url": "https://store.bblcdn.com/s2/default/d0165d8b88e14afba6ce38b3016c3c81/Group_1312317893.png",
       "part_number": "ZH098",
-      "price": "112.5",
+      "price": "87.5",
       "region": "au",
       "sku": "640109794152914944",
       "title": "DodgeBot for CyberBrick - DodgeBot for CyberBrick - ZH098",
@@ -335,7 +335,7 @@
       "variant_id": "640109794152914944"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s1/default/bc7d5f920ae240e9bf62206721e7b075/2.jpg",
       "part_number": "ZH098",

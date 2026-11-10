@@ -36,31 +36,31 @@
     {
       "blob_path": "data/blobs/sha256/8b/8bae04983264ac470af0c81b6e75113786cced345d2fe910a9a8af76ac0d5d6d.png",
       "declared_media_type": "image/jpeg",
-      "id": "image-5960f7585edd5698ad53",
+      "id": "image-23b96587fa9f5dd1383a",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH104-1.jpg",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "8bae04983264ac470af0c81b6e75113786cced345d2fe910a9a8af76ac0d5d6d",
       "size": 1735720,
-      "source_url": "https://store.bblcdn.com/s2/default/b3718bf63919492ba60d767f1fcdd71e/B-ZH104-1.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/8c8ea2c64e64400eac74fb2d4b51e8f1/B-ZH104-1.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/81/81ea9a4458bfa705bfb2cfbddfdb34189138acdfe021cc91b8ad2f265323bcd2.png",
-      "id": "image-666ab93bbd2838fc609c",
+      "id": "image-931d41fb5cd747bd3015",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH104.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "81ea9a4458bfa705bfb2cfbddfdb34189138acdfe021cc91b8ad2f265323bcd2",
       "size": 751827,
-      "source_url": "https://store.bblcdn.com/s2/default/35f9e3010bb0406baf41d90196febb11/ZH104.png"
+      "source_url": "https://store.bblcdn.com/s7/default/0619e42ed64b4ef9bc6faf20c7feddf2/ZH104.png"
     },
     {
       "blob_path": "data/blobs/sha256/3f/3f45adc40c80619b943604fb9f74c80f9a0a1aa8ee2274b4fc3b97c5a9a6ae90.png",
-      "id": "image-display-e1d0ab21710c91a959fd",
+      "id": "image-display-634dd6c15cd662bc173b",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -73,16 +73,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH104-1.catalog.png",
-      "parent_asset_id": "image-5960f7585edd5698ad53",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-23b96587fa9f5dd1383a",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "3f45adc40c80619b943604fb9f74c80f9a0a1aa8ee2274b4fc3b97c5a9a6ae90",
       "size": 528768,
-      "source_url": "https://store.bblcdn.com/s2/default/b3718bf63919492ba60d767f1fcdd71e/B-ZH104-1.jpg"
+      "source_url": "https://store.bblcdn.com/s7/default/8c8ea2c64e64400eac74fb2d4b51e8f1/B-ZH104-1.jpg"
     },
     {
       "blob_path": "data/blobs/sha256/21/2175fcab421fb24f6e60364bb9c8c58af8adc61ef8ffeb8bbad17ca034f75d62.png",
-      "id": "image-display-d2043fdae8c23820face",
+      "id": "image-display-6607b193b3094182816d",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -95,12 +95,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH104.catalog.png",
-      "parent_asset_id": "image-666ab93bbd2838fc609c",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-931d41fb5cd747bd3015",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "2175fcab421fb24f6e60364bb9c8c58af8adc61ef8ffeb8bbad17ca034f75d62",
       "size": 124748,
-      "source_url": "https://store.bblcdn.com/s2/default/35f9e3010bb0406baf41d90196febb11/ZH104.png"
+      "source_url": "https://store.bblcdn.com/s7/default/0619e42ed64b4ef9bc6faf20c7feddf2/ZH104.png"
     }
   ],
   "box_contents": [
@@ -179,7 +179,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Retracting Spool Holder. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Retracting Spool Holder on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh104-retracting-spool-holder",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Retracting Spool Holder",
   "offers": [
@@ -224,13 +224,13 @@
       "url": "https://uk.store.bambulab.com/en/products/retracting-spool-holder?skr=yes"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "AUD",
       "listed": true,
       "missing_runs": 0,
       "price": "25.49",
       "region": "au",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://au.store.bambulab.com/en/products/retracting-spool-holder?skr=yes"
     },
     {
@@ -364,7 +364,7 @@
       "variant_id": "654954915246149634"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "AUD",
       "image_url": "https://store.bblcdn.com/s2/default/b3718bf63919492ba60d767f1fcdd71e/B-ZH104-1.jpg",
       "part_number": "ZH104",

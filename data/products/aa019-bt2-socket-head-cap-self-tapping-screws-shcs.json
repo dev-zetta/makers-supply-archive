@@ -34,28 +34,28 @@
   ],
   "assets": [
     {
-      "blob_path": "data/blobs/sha256/71/71e7d5fcc34c7d474ad459a3805fbd30aa7f611ad57ddcf051b5726ece258ac7.png",
-      "id": "image-722281b05a4d0dd456e5",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "SocketHeadCapSelfTappingScrew_SHCS_-1.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "71e7d5fcc34c7d474ad459a3805fbd30aa7f611ad57ddcf051b5726ece258ac7",
-      "size": 206717,
-      "source_url": "https://store.bblcdn.eu/s8/default/a5f11609debb4db3a4778f7deabb53e6/SocketHeadCapSelfTappingScrew_SHCS_-1.png"
-    },
-    {
       "blob_path": "data/blobs/sha256/55/5538d64833242561053af407451d08e15c0ea07e24c935c9f92a64c35e8a33de.png",
-      "id": "image-08a95013ebc9d05b5bf3",
+      "id": "image-bf613fce83aa7cac2771",
       "kind": "image",
       "media_type": "image/png",
-      "original_filename": "AA019.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "original_filename": "AA019_fd6ffe30-1022-4270-b456-8c93f599d7bc.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "5538d64833242561053af407451d08e15c0ea07e24c935c9f92a64c35e8a33de",
       "size": 249578,
-      "source_url": "https://store.bblcdn.eu/s8/default/4b8f7fb5e2014eff9d43991fabd1769e/AA019.png"
+      "source_url": "https://store.bblcdn.com/s7/default/8194a62a66bf47fb849ca16b2ab087bb/AA019_fd6ffe30-1022-4270-b456-8c93f599d7bc.png"
+    },
+    {
+      "blob_path": "data/blobs/sha256/71/71e7d5fcc34c7d474ad459a3805fbd30aa7f611ad57ddcf051b5726ece258ac7.png",
+      "id": "image-4b049aa784d595fd28da",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "SocketHeadCapSelfTappingScrew_SHCS_-1.png",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "71e7d5fcc34c7d474ad459a3805fbd30aa7f611ad57ddcf051b5726ece258ac7",
+      "size": 206717,
+      "source_url": "https://store.bblcdn.com/s7/default/f3d04e71c17e43d4ba13c673d23b5301/SocketHeadCapSelfTappingScrew_SHCS_-1.png"
     },
     {
       "blob_path": "data/blobs/sha256/dc/dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438.zip",
@@ -67,20 +67,6 @@
       "rights_status": "unknown",
       "sha256": "dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438",
       "size": 857757,
-      "source_url": "https://store.bblcdn.com/s7/default/55debb62966e4e118ffd161ae1f5272d/screw_test.zip"
-    },
-    {
-      "archive_member_path": "screw_test.3mf",
-      "blob_path": "data/blobs/sha256/dc/dc159c720916f9138847314596261966c3a495a5efc7b00095fe32315fdb3a5d.3mf",
-      "id": "model-77ed3e163234c0712e8d",
-      "kind": "model",
-      "media_type": "application/vnd.ms-3mfdocument",
-      "original_filename": "screw_test.3mf",
-      "parent_asset_id": "archive-508e1bde8ce318475165",
-      "retrieved_at": "2026-08-24T02:05:06Z",
-      "rights_status": "unknown",
-      "sha256": "dc159c720916f9138847314596261966c3a495a5efc7b00095fe32315fdb3a5d",
-      "size": 874697,
       "source_url": "https://store.bblcdn.com/s7/default/55debb62966e4e118ffd161ae1f5272d/screw_test.zip"
     },
     {
@@ -106,6 +92,20 @@
       "sha256": "915385f5a621a9d20221a1c0d7797b5ec038bef4c61535682c737a4ef1404582",
       "size": 20709,
       "source_url": "https://store.bblcdn.com/s7/default/597c9dde44ff47b1a902a636a2c4e534/BT2_Socket_Head_Cap_Self_Tapping_Screw_SHCS_1.zip"
+    },
+    {
+      "archive_member_path": "screw_test.3mf",
+      "blob_path": "data/blobs/sha256/dc/dc159c720916f9138847314596261966c3a495a5efc7b00095fe32315fdb3a5d.3mf",
+      "id": "model-77ed3e163234c0712e8d",
+      "kind": "model",
+      "media_type": "application/vnd.ms-3mfdocument",
+      "original_filename": "screw_test.3mf",
+      "parent_asset_id": "archive-508e1bde8ce318475165",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "dc159c720916f9138847314596261966c3a495a5efc7b00095fe32315fdb3a5d",
+      "size": 874697,
+      "source_url": "https://store.bblcdn.com/s7/default/55debb62966e4e118ffd161ae1f5272d/screw_test.zip"
     },
     {
       "archive_member_path": "BT2 Socket Head Cap Self Tapping Screw (SHCS)/BT2x8 SHCS - AA019/BT2x8 SHCS - AA019.stl",
@@ -136,8 +136,30 @@
       "source_url": "https://store.bblcdn.com/s7/default/597c9dde44ff47b1a902a636a2c4e534/BT2_Socket_Head_Cap_Self_Tapping_Screw_SHCS_1.zip"
     },
     {
+      "blob_path": "data/blobs/sha256/2c/2cd3ce323a6093ef834c2063a387d6d552ccecafecfe06f841c1783743ab2cbb.png",
+      "id": "image-display-3d38a2831ae34ab56074",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 404,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "5538d64833242561053af407451d08e15c0ea07e24c935c9f92a64c35e8a33de",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "AA019_fd6ffe30-1022-4270-b456-8c93f599d7bc.catalog.png",
+      "parent_asset_id": "image-bf613fce83aa7cac2771",
+      "retrieved_at": "2026-11-10T12:06:28Z",
+      "rights_status": "unknown",
+      "sha256": "2cd3ce323a6093ef834c2063a387d6d552ccecafecfe06f841c1783743ab2cbb",
+      "size": 100876,
+      "source_url": "https://store.bblcdn.com/s7/default/8194a62a66bf47fb849ca16b2ab087bb/AA019_fd6ffe30-1022-4270-b456-8c93f599d7bc.png"
+    },
+    {
       "blob_path": "data/blobs/sha256/cf/cf09c01d8c6577e825f57b2831f315b19f3e51f18cb99e676f34dd8e67d96370.png",
-      "id": "image-display-9e681a0f3c7b8be11789",
+      "id": "image-display-c025418b31efd44aa362",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -150,34 +172,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "SocketHeadCapSelfTappingScrew_SHCS_-1.catalog.png",
-      "parent_asset_id": "image-722281b05a4d0dd456e5",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-4b049aa784d595fd28da",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "cf09c01d8c6577e825f57b2831f315b19f3e51f18cb99e676f34dd8e67d96370",
       "size": 71185,
-      "source_url": "https://store.bblcdn.eu/s8/default/a5f11609debb4db3a4778f7deabb53e6/SocketHeadCapSelfTappingScrew_SHCS_-1.png"
-    },
-    {
-      "blob_path": "data/blobs/sha256/2c/2cd3ce323a6093ef834c2063a387d6d552ccecafecfe06f841c1783743ab2cbb.png",
-      "id": "image-display-57ecb371d0720dc0109d",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 404,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 1600,
-        "source_sha256": "5538d64833242561053af407451d08e15c0ea07e24c935c9f92a64c35e8a33de",
-        "source_width": 1600
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "AA019.catalog.png",
-      "parent_asset_id": "image-08a95013ebc9d05b5bf3",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "2cd3ce323a6093ef834c2063a387d6d552ccecafecfe06f841c1783743ab2cbb",
-      "size": 100876,
-      "source_url": "https://store.bblcdn.eu/s8/default/4b8f7fb5e2014eff9d43991fabd1769e/AA019.png"
+      "source_url": "https://store.bblcdn.com/s7/default/f3d04e71c17e43d4ba13c673d23b5301/SocketHeadCapSelfTappingScrew_SHCS_-1.png"
     }
   ],
   "box_contents": [],
@@ -252,7 +252,7 @@
   "description_text": "Forgot the screw specs? Just tap the Screw Gauge for sorting help.\n\nFor 3D printed parts, which often have gaps between layers and varying hole sizes, we recommend using BT self-tapping screws. These screws provide moderate torque for insertion, prevent loosening, and can be installed and removed multiple times. Using these screws and matching them with the recommended hole size ensures easy and secure connections for your printed parts, eliminating the need for nuts and avoiding issues like screw loosening or hole shrinkage.\n\nWe have included the relevant data for the twisting torque and loosening torque experiments of PLA and PETG material specimens, as well as the recommended hole sizes for design. The model files for testing are available for download at the end of the details page. All test holes are printed perpendicularly to the platform. When designing a bolt bottom hole on the side of the part, it is recommended to use a size one size larger than the recommended size for lying flat to prevent interlayer compression cracking.\n\nTest Data for Self-Tapping Screws 3D Document for Screws Test\n\nSelf-Tapping Screws for 3D Printing\n\nCarbon steel Socket Head Cap Self Tapping Screw (SHCS)\n\nNominal thread: M2.5~M5\n\nStrength grade: 4.8\n\nType of thread: Metric coarse thread (currently all screws are metric coarse thread)\n\nFull thread series (except M3*23)",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa019-bt2-socket-head-cap-self-tapping-screws-shcs",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",

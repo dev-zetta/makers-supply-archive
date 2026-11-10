@@ -35,31 +35,31 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/23/23a5e6d85bc28c1a0f631ab05e6d86f58c08f4cb7755bb6e0a830df5f0ba6662.png",
-      "id": "image-91b5457bb5bbf22eee14",
+      "id": "image-1657f339057b95b7a5c5",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH144.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "23a5e6d85bc28c1a0f631ab05e6d86f58c08f4cb7755bb6e0a830df5f0ba6662",
       "size": 815988,
-      "source_url": "https://store.bblcdn.com/s2/default/619dfdbc72534de9ad55dfd0960bbc31/B-ZH144.png"
+      "source_url": "https://store.bblcdn.com/s7/default/6bbb0c529cb64dc7a10b177161bf49fa/B-ZH144.png"
     },
     {
       "blob_path": "data/blobs/sha256/26/26a6f0108f4e746d5c6397c3a5379f4868a372646528a7ab458573eb16df6e95.png",
-      "id": "image-3fd1fe1268775f1510b8",
+      "id": "image-455ba00082f23329c76e",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH144-1.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "26a6f0108f4e746d5c6397c3a5379f4868a372646528a7ab458573eb16df6e95",
       "size": 175509,
-      "source_url": "https://store.bblcdn.com/s2/default/1eb16a561fbc4faf82fa4214d8379cf7/B-ZH144-1.png"
+      "source_url": "https://store.bblcdn.com/s7/default/d4a198769d6244408122fda1f06ba9f8/B-ZH144-1.png"
     },
     {
       "blob_path": "data/blobs/sha256/34/345c48d488e2feadc22b3c6dfd47fa34c0bc05bb6e3dfc6170abd226feadada7.png",
-      "id": "image-display-c4a1058edad3d481fba8",
+      "id": "image-display-8131f08da028d461dfb7",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -72,16 +72,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH144.catalog.png",
-      "parent_asset_id": "image-91b5457bb5bbf22eee14",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-1657f339057b95b7a5c5",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "345c48d488e2feadc22b3c6dfd47fa34c0bc05bb6e3dfc6170abd226feadada7",
       "size": 674728,
-      "source_url": "https://store.bblcdn.com/s2/default/619dfdbc72534de9ad55dfd0960bbc31/B-ZH144.png"
+      "source_url": "https://store.bblcdn.com/s7/default/6bbb0c529cb64dc7a10b177161bf49fa/B-ZH144.png"
     },
     {
       "blob_path": "data/blobs/sha256/52/528a1f0ad1da0a4814136ea27f22ec2397d31ddecc2367bd8762bb7323d58318.png",
-      "id": "image-display-21fc3308eb751ddfcdf9",
+      "id": "image-display-e2c1067ac72edb00abd8",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -94,12 +94,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH144-1.catalog.png",
-      "parent_asset_id": "image-3fd1fe1268775f1510b8",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-455ba00082f23329c76e",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "528a1f0ad1da0a4814136ea27f22ec2397d31ddecc2367bd8762bb7323d58318",
       "size": 147850,
-      "source_url": "https://store.bblcdn.com/s2/default/1eb16a561fbc4faf82fa4214d8379cf7/B-ZH144-1.png"
+      "source_url": "https://store.bblcdn.com/s7/default/d4a198769d6244408122fda1f06ba9f8/B-ZH144-1.png"
     }
   ],
   "box_contents": [
@@ -148,7 +148,7 @@
   "description_text": "To download the model files please visit the Balloon Wind Spinner - LED VAWT on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh144-balloon-wind-spinner-led-vawt",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Balloon Wind Spinner - LED VAWT",
   "offers": [
@@ -193,13 +193,13 @@
       "url": "https://uk.store.bambulab.com/en/products/balloon-wind-spinner-led-vawt?skr=yes"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "AUD",
       "listed": true,
       "missing_runs": 0,
       "price": "35.99",
       "region": "au",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://au.store.bambulab.com/en/products/balloon-wind-spinner-led-vawt?skr=yes"
     },
     {
@@ -316,7 +316,7 @@
       "variant_id": "736816430359388162"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "AUD",
       "image_url": "https://store.bblcdn.com/s2/default/619dfdbc72534de9ad55dfd0960bbc31/B-ZH144.png",
       "part_number": "ZH144",

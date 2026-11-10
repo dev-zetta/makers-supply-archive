@@ -70,6 +70,18 @@
       "source_url": "https://store.bblcdn.com/s7/default/84e6ab96e71640dcb83a7f131214733a/Multi_Ratio_Motorized_System_Kit_-_B-ZH050_Model.zip"
     },
     {
+      "blob_path": "data/blobs/sha256/cd/cdb16f4ffb0adc982ea701879d6d11c20331d70d228ccdf45adb35d77cdbbfd5.zip",
+      "id": "archive-17453067cb41dda84f22",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "Multi_Ratio_Motorized_System_Kit_-_B-ZH050_Application_Instruction.zip",
+      "retrieved_at": "2026-08-24T02:05:06Z",
+      "rights_status": "unknown",
+      "sha256": "cdb16f4ffb0adc982ea701879d6d11c20331d70d228ccdf45adb35d77cdbbfd5",
+      "size": 19450448,
+      "source_url": "https://store.bblcdn.com/s7/default/fff24e87efac4995a5f451935a162e53/Multi_Ratio_Motorized_System_Kit_-_B-ZH050_Application_Instruction.zip"
+    },
+    {
       "archive_member_path": "1 030 Micro DC Motor with SH1.0-LA024/030 Micro DC Motor with SH1.0-LA024.stl",
       "blob_path": "data/blobs/sha256/0a/0a9077565d0aa2655df90f67ded568df0e87bea52d22547b820798d292be1dec.stl",
       "id": "model-ebfd9d5d6e4ae95a9a94",
@@ -1302,18 +1314,6 @@
       "source_url": "https://store.bblcdn.com/s7/default/84e6ab96e71640dcb83a7f131214733a/Multi_Ratio_Motorized_System_Kit_-_B-ZH050_Model.zip"
     },
     {
-      "blob_path": "data/blobs/sha256/cd/cdb16f4ffb0adc982ea701879d6d11c20331d70d228ccdf45adb35d77cdbbfd5.zip",
-      "id": "archive-17453067cb41dda84f22",
-      "kind": "archive",
-      "media_type": "application/zip",
-      "original_filename": "Multi_Ratio_Motorized_System_Kit_-_B-ZH050_Application_Instruction.zip",
-      "retrieved_at": "2026-08-24T02:05:06Z",
-      "rights_status": "unknown",
-      "sha256": "cdb16f4ffb0adc982ea701879d6d11c20331d70d228ccdf45adb35d77cdbbfd5",
-      "size": 19450448,
-      "source_url": "https://store.bblcdn.com/s7/default/fff24e87efac4995a5f451935a162e53/Multi_Ratio_Motorized_System_Kit_-_B-ZH050_Application_Instruction.zip"
-    },
-    {
       "blob_path": "data/blobs/sha256/fb/fbd614650b19057da01895724d4139b8f86ff4dd036d6ba397d8259ffeed942f.png",
       "id": "image-display-a615ccde0bda0397a4fa",
       "image_processing": {
@@ -1510,7 +1510,7 @@
   "description_text": "This kit is specifically designed for creators who love making motorized models. It includes 030 DC motors, reduction gear kits, power distribution board set, battery spring contact plate, and Y type wire, making it an ideal power and drive system for your motorized models.\n\nCompact and Powerful motor: The 030 motor strikes a balance between the N20 motor and TT motor in terms of size and power. It can be used independently or paired with a gearbox. When combined with a gearbox, it offers lower costs compared to the N20 series and smaller size and more flexible control options compared to TT motors. When used alone, it can directly drive 3D-printed propellers, eccentric wheels, and other components.\n\nDiverse Gear Ratios: The kit includes four gear ratios and single/dual-shaft output options, allowing for various output shaft speeds at the same power level. This caters to different speed requirements for various models, such as slow-speed, high-torque escalator models or high-speed, low-torque vehicle models. 3D printable gearbox housing models and assembly instructions are also provided.\n\nFlexible Control: Equipped with a PDB set and Y type wire, it can connect to distribution boards, push-button switches, or rotary switches via SH1.0 connectors, enabling diverse and multi-channel control.\n\nDual Power Supply: Supports both USB and AAA battery power supply, catering to models that require long-term power or those that need to be free from power cords.\n\nTrain models\n\nRotating display stand\n\nEscalator models\n\nFans",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh050-multi-ratio-motorized-system-kit",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Multi Ratio Motorized System Kit",
   "offers": [
@@ -1565,13 +1565,13 @@
       "url": "https://au.store.bambulab.com/en/products/multi-ratio-motorized-system-kit?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
       "price": "27.49",
       "region": "asia",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://asia.store.bambulab.com/en/products/multi-ratio-motorized-system-kit?skr=yes"
     }
   ],
@@ -1731,7 +1731,7 @@
       "variant_id": "536321319311802370"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s1/default/89158adcb0e0424aa9eabd7852817f97/ZH050_(1).png",
       "part_number": "ZH050",

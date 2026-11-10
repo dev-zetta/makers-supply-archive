@@ -35,31 +35,31 @@
   "assets": [
     {
       "blob_path": "data/blobs/sha256/85/85a6cf92424ddfcaf15bfb143067f692fcdaea1de544513c17a864dcdb559126.png",
-      "id": "image-4eaf85fbc735484da687",
+      "id": "image-61719eeba0cad585b775",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH163.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "85a6cf92424ddfcaf15bfb143067f692fcdaea1de544513c17a864dcdb559126",
       "size": 3902302,
-      "source_url": "https://store.bblcdn.com/s5/default/a6e2aeeddc194a4ab93201ce3026c94e/ZH163.png"
+      "source_url": "https://store.bblcdn.com/s7/default/d47ebdc91bd54180992c9884b8cdc411/ZH163.png"
     },
     {
       "blob_path": "data/blobs/sha256/7c/7c0f22047a417a8980239596b2d214d26c7d5d1c555d910f5b4e86ed0c88ba60.png",
-      "id": "image-0459819e45b3243b0a19",
+      "id": "image-cdd3d6628bd5fbf142aa",
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH163_V.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "7c0f22047a417a8980239596b2d214d26c7d5d1c555d910f5b4e86ed0c88ba60",
       "size": 279436,
-      "source_url": "https://store.bblcdn.com/s5/default/60ebdf04af30471a892206f383a7e1f1/B-ZH163_V.png"
+      "source_url": "https://store.bblcdn.com/s7/default/ed7189add34647c69dde88a479a2fdcb/B-ZH163_V.png"
     },
     {
       "blob_path": "data/blobs/sha256/c1/c193572b44792d3f213d5e8ca54b8bc28b84bc924737b41f378febb442b4d951.png",
-      "id": "image-display-843a603fe9b800668f20",
+      "id": "image-display-74a3bcd53a8da31387bd",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -72,16 +72,16 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "ZH163.catalog.png",
-      "parent_asset_id": "image-4eaf85fbc735484da687",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-61719eeba0cad585b775",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "c193572b44792d3f213d5e8ca54b8bc28b84bc924737b41f378febb442b4d951",
       "size": 1015278,
-      "source_url": "https://store.bblcdn.com/s5/default/a6e2aeeddc194a4ab93201ce3026c94e/ZH163.png"
+      "source_url": "https://store.bblcdn.com/s7/default/d47ebdc91bd54180992c9884b8cdc411/ZH163.png"
     },
     {
       "blob_path": "data/blobs/sha256/c7/c762448ad4f2ce2a26cbf131c0dac892e2d4e9b050e511ea50e7de96015a3bcb.png",
-      "id": "image-display-542b5a04c9aea3cbcac1",
+      "id": "image-display-ad4f0873bc5ea0740301",
       "image_processing": {
         "algorithm": "catalog-display-v1",
         "crop_top": 0,
@@ -94,12 +94,12 @@
       "kind": "image",
       "media_type": "image/png",
       "original_filename": "B-ZH163_V.catalog.png",
-      "parent_asset_id": "image-0459819e45b3243b0a19",
-      "retrieved_at": "2026-08-23T01:12:14Z",
+      "parent_asset_id": "image-cdd3d6628bd5fbf142aa",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
       "sha256": "c762448ad4f2ce2a26cbf131c0dac892e2d4e9b050e511ea50e7de96015a3bcb",
       "size": 85750,
-      "source_url": "https://store.bblcdn.com/s5/default/60ebdf04af30471a892206f383a7e1f1/B-ZH163_V.png"
+      "source_url": "https://store.bblcdn.com/s7/default/ed7189add34647c69dde88a479a2fdcb/B-ZH163_V.png"
     }
   ],
   "box_contents": [
@@ -177,7 +177,7 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Wind-powered Pumping Station - Wind Pump. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Wind-powered Pumping Station - Wind Pump on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh163-wind-powered-pumping-station",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T12:06:28Z",
   "measurements": [],
   "name": "Wind-powered Pumping Station",
   "offers": [
@@ -192,13 +192,13 @@
       "url": "https://us.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "listed": true,
       "missing_runs": 0,
       "price": "19.99",
       "region": "ca",
-      "retrieved_at": "2026-08-23T00:23:31Z",
+      "retrieved_at": "2026-11-10T12:06:28Z",
       "url": "https://ca.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
     },
     {
@@ -319,7 +319,7 @@
       "variant_id": "753378678763069442"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "image_url": "https://store.bblcdn.com/s5/default/a6e2aeeddc194a4ab93201ce3026c94e/ZH163.png",
       "part_number": "ZH163",
