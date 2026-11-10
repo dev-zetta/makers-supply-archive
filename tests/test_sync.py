@@ -1,3 +1,4 @@
+import hashlib
 import io
 import json
 from pathlib import Path
@@ -12,6 +13,88 @@ from makers_supply.storage import Catalog
 from makers_supply.sync import SyncEngine, SyncOptions
 
 FIXTURES = Path(__file__).parent / "fixtures"
+
+
+@pytest.mark.parametrize("change", ["options", "snapshot", "cached-page"])
+def test_resume_invalidates_mismatched_or_modified_cache(tmp_path: Path, change: str) -> None:
+    fail = True
+    us_fetches = 0
+
+    def interrupted(request: httpx.Request) -> httpx.Response:
+        nonlocal us_fetches
+        if request.url.path.endswith("/products/power-board"):
+            if request.url.host.startswith("eu.") and fail:
+                raise ValueError("interrupted")
+            if request.url.host.startswith("us."):
+                us_fetches += 1
+        return handler(request)
+
+    with ArchiveHttpClient(delay=0, transport=httpx.MockTransport(interrupted)) as client:
+        engine = SyncEngine(tmp_path, client)
+        options = SyncOptions(regions=(Region.US, Region.EU), metadata_only=True, resume=True)
+        with pytest.raises(RuntimeError, match="interrupted"):
+            engine.run(options)
+        if change == "options":
+            options = SyncOptions(
+                regions=(Region.US, Region.EU), metadata_only=True, resume=True, max_products=1
+            )
+        elif change == "snapshot":
+            (tmp_path / "config").mkdir()
+            (tmp_path / "config/aliases.json").write_text("{}")
+        else:
+            key = hashlib.sha256(b"us:power-board").hexdigest()
+            (tmp_path / f".staging/pages/{key}.html").write_text("changed")
+        fail = False
+        engine.run(options)
+    assert us_fetches == 2
+
+
+def test_binary_scoped_sync_preserves_assets_from_unscanned_canonical_region(
+    tmp_path: Path,
+) -> None:
+    with ArchiveHttpClient(delay=0, transport=httpx.MockTransport(handler)) as client:
+        engine = SyncEngine(tmp_path, client)
+        engine.run(SyncOptions(regions=(Region.US, Region.EU), metadata_only=True))
+        catalog = Catalog(tmp_path)
+        product = catalog.products()[0]
+        content = b"ISO-10303-21;"
+        digest = hashlib.sha256(content).hexdigest()
+        blob = catalog.blob_path(digest, ".step")
+        blob.parent.mkdir(parents=True, exist_ok=True)
+        blob.write_bytes(content)
+        asset = Asset(
+            id="canonical-model",
+            kind=AssetKind.MODEL,
+            source_url="https://example.com/canonical.step",
+            original_filename="canonical.step",
+            media_type="model/step",
+            sha256=digest,
+            size=len(content),
+            retrieved_at=utc_now(),
+            blob_path=blob.relative_to(tmp_path).as_posix(),
+        )
+        catalog.write_product(product.model_copy(update={"assets": [asset]}))
+        engine.run(SyncOptions(regions=(Region.EU,)))
+    assert catalog.products()[0].assets == [asset]
+
+
+def test_failed_region_scan_keeps_committed_snapshot(tmp_path: Path) -> None:
+    fail = False
+
+    def regional(request: httpx.Request) -> httpx.Response:
+        if fail and request.headers.get("X-BBL-STORE-REGION") == "EU":
+            raise ValueError("region offline")
+        return handler(request)
+
+    with ArchiveHttpClient(delay=0, transport=httpx.MockTransport(regional)) as client:
+        engine = SyncEngine(tmp_path, client)
+        options = SyncOptions(regions=(Region.US, Region.EU), metadata_only=True)
+        engine.run(options)
+        before = {p.name: p.read_bytes() for p in (tmp_path / "data/products").glob("*.json")}
+        fail = True
+        with pytest.raises(RuntimeError, match="region offline"):
+            engine.run(options)
+    assert before == {p.name: p.read_bytes() for p in (tmp_path / "data/products").glob("*.json")}
 
 
 def test_scoped_sync_retains_unscanned_regions_and_canonical_content(tmp_path: Path) -> None:
