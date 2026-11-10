@@ -74,13 +74,25 @@ def test_incomplete_corrupt_and_mismatched_packs_fail_clearly(tmp_path: Path) ->
     content = target.read_bytes()
     target.write_bytes(b"X" + content[1:])
     with pytest.raises(ValueError, match="corrupt"):
-        verify_installed_catalog(installed, full_hash=True)
+        verify_installed_catalog(installed)
     target.write_bytes(content)
     path = installed / "catalog-manifest.json"
     data = json.loads(path.read_text())
     data["app_version"] = "0.0.0"
     path.write_text(json.dumps(data))
     with pytest.raises(ValueError, match="app is"):
+        verify_installed_catalog(installed)
+
+
+def test_same_version_data_from_another_build_fails_at_startup(tmp_path: Path) -> None:
+    catalog = release_catalog(tmp_path / "source")
+    result = build_data_packs(catalog, tmp_path / "packs", revision="catalog-revision")
+    installed = tmp_path / "installed"
+    unpack(tmp_path / "packs", installed, [pack.name for pack in result.packs])
+    (installed / "app-build.json").write_text(
+        json.dumps({"version": result.app_version, "revision": "another-revision"})
+    )
+    with pytest.raises(ValueError, match="different builds"):
         verify_installed_catalog(installed)
 
 

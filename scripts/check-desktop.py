@@ -50,7 +50,7 @@ def check_backend(installed: Path) -> None:
             stderr=log,
         )
         try:
-            for _ in range(300):
+            for _ in range(900):
                 if service.poll() is not None:
                     break
                 try:

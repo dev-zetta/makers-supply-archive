@@ -215,7 +215,7 @@ def build_data_packs(
     return release
 
 
-def verify_installed_catalog(root: Path, *, full_hash: bool = False) -> DataManifest:
+def verify_installed_catalog(root: Path, *, full_hash: bool = True) -> DataManifest:
     root = root.resolve()
     instructions = "Extract every data pack from the same release beside the app."
     path = root / "catalog-manifest.json"
@@ -227,6 +227,18 @@ def verify_installed_catalog(root: Path, *, full_hash: bool = False) -> DataMani
         raise ValueError(
             f"Catalog data is for {manifest.app_version}; app is {__version__}. " + instructions
         )
+    build_path = root / "app-build.json"
+    if build_path.exists():
+        try:
+            build = json.loads(build_path.read_bytes())
+            matches = (
+                build["version"] == manifest.app_version
+                and build["revision"] == manifest.revision
+            )
+        except (OSError, ValueError, KeyError, TypeError) as error:
+            raise ValueError(f"App build identity is invalid. {instructions}") from error
+        if not matches:
+            raise ValueError(f"App and catalog data are from different builds. {instructions}")
     seen: set[str] = set()
     for item in manifest.files:
         if item.path in seen:

@@ -17,7 +17,9 @@ prefer a short directory such as `C:\MakersSupply` to avoid legacy path limits.
 The directory must contain the app executable (or macOS `.app`), `catalog.sqlite`,
 `catalog-manifest.json`, and `assets/`. Launch the application normally. No Python,
 Node.js, Docker, account, or network connection is required. Missing or mismatched data
-produces an actionable installation error. Do not mix app/data from different releases.
+produces an actionable installation error. Startup checks the app/data build identity
+and hashes every payload file; allow up to a minute on slower storage. Do not mix
+app/data from different releases.
 
 These builds have no trusted publisher signature or notarization. Expect the OS's
 normal unknown-publisher prompt. Verify the source and checksums; do not disable
