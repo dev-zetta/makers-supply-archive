@@ -1,0 +1,31 @@
+{
+  "acceptance_policy": "reviewed-live-changes",
+  "all_asset_digests_verified": true,
+  "assembly_diagnostic": {
+    "automation_fix_only": "The follow-up changes prepare-draft.py and regression tests; no app, catalog, pack, or candidate commit is replaced.",
+    "automation_fix_revision": "8aab4576642dc97a24b29c8a24230cc1edf2d36c",
+    "candidate_identity_preserved": true,
+    "recovery": "Verified authenticated release ID, exact commit and snapshot, complete inventory, checksums, acceptance, and four native receipts independently. Corrected the source lookup to enumerate authenticated releases, including drafts, across all pages.",
+    "uploads_completed": true,
+    "workflow_final_assertion": "Failed after upload: the by-tag REST endpoint excludes drafts and returned HTTP 404."
+  },
+  "asset_checksum_verification": "All 20 checksummed asset SHA-256 values match GitHub upload digests; downloaded metadata and platform evidence also match their recorded bytes.",
+  "assets": 21,
+  "checksum_inventory_file_digest_verified": true,
+  "draft": true,
+  "draft_url": "https://github.com/dev-zetta/makers-supply-archive/releases/tag/untagged-84a15af9acd19d077c3d",
+  "native_model_previews_visually_reviewed": 8,
+  "packs": 3,
+  "release_id": 440638844,
+  "revision": "52dad3ce0ed37084c8e2ba5a1d4b584d696693c6",
+  "shared_pack_actual_sizes": [
+    1787787246,
+    1799357117,
+    1641898895
+  ],
+  "snapshot_id": "d5f8d10fb2aeab19aadc95b2d65ecc43ee009ceeb0beefd1e30f0af15db59cf3",
+  "unchanged_repeat": false,
+  "validation_and_all_four_platform_jobs_passed": true,
+  "validation_run": "https://github.com/dev-zetta/makers-supply-archive/actions/runs/42854741174",
+  "verified_at": "2026-11-10T16:56:37.413114+00:00"
+}
