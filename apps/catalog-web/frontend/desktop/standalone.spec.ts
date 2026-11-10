@@ -86,6 +86,9 @@ test("delivered offline app preserves lists, previews models, exports, and stops
       await page.locator(selector).first().click();
       await expect(page.locator("#model-viewer")).toHaveAttribute("aria-busy", "false");
       await expect(page.locator("#model-viewer canvas")).toBeVisible();
+      await page.locator("#model-dialog").screenshot({
+        path: `test-results/desktop/${product}-preview.png`,
+      });
       await page.locator("#model-dialog .dialog-close").click();
     }
     await page.goto(`${origin}/lists`);
