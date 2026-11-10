@@ -1,0 +1,94 @@
+{
+  "database_reproducible": true,
+  "database_sha256": "e0f67070eb3477109a26b8306f8293d5d961f474f487dd2314e4f1b81d272587",
+  "full_blob_validation": true,
+  "reviewed_changes": [
+    "Remaining US/CA/EU PTFE tube variant titles updated to the official Bambu Lab H3C title",
+    "EU availability changed for ZL013 and two ZL037 variants"
+  ],
+  "schema_version": 1,
+  "snapshot_id": "7a338614afeb7984e686cdcd699fb9310b2f5a81782796e5aaf722efa2bb265c",
+  "third_sync": {
+    "has_changes": true,
+    "manifest": {
+      "assets_downloaded": 0,
+      "assets_rejected": 1,
+      "bytes_downloaded": 0,
+      "completed_at": "2026-11-10T14:25:26Z",
+      "metadata_only": false,
+      "products_written": 377,
+      "regions": [
+        {
+          "error": null,
+          "products_seen": 363,
+          "region": "us",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 363,
+          "region": "eu",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 361,
+          "region": "uk",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 362,
+          "region": "ca",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 338,
+          "region": "au",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 1,
+          "region": "jp",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 0,
+          "region": "kr",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 345,
+          "region": "asia",
+          "success": true
+        }
+      ],
+      "schema_version": 1,
+      "started_at": "2026-11-10T13:52:35Z"
+    },
+    "options": {
+      "dry_run": false,
+      "max_products": null,
+      "metadata_only": false,
+      "regions": [
+        "asia",
+        "au",
+        "ca",
+        "eu",
+        "jp",
+        "kr",
+        "uk",
+        "us"
+      ]
+    },
+    "promoted": true,
+    "snapshot_id": "7a338614afeb7984e686cdcd699fb9310b2f5a81782796e5aaf722efa2bb265c"
+  },
+  "unchanged_repeat": false,
+  "verified_at": "2026-11-10T14:30:20.876900+00:00",
+  "version": "1.1.0"
+}
