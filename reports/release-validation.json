@@ -1,0 +1,85 @@
+{
+  "acceptance_policy": "reviewed-live-changes",
+  "full_blob_validation": true,
+  "repeat_sync": {
+    "assets_downloaded": 0,
+    "assets_rejected": 1,
+    "bytes_downloaded": 0,
+    "completed_at": "2026-11-10T15:37:42Z",
+    "metadata_only": false,
+    "products_written": 377,
+    "regions": [
+      {
+        "error": null,
+        "products_seen": 363,
+        "region": "us",
+        "success": true
+      },
+      {
+        "error": null,
+        "products_seen": 363,
+        "region": "eu",
+        "success": true
+      },
+      {
+        "error": null,
+        "products_seen": 361,
+        "region": "uk",
+        "success": true
+      },
+      {
+        "error": null,
+        "products_seen": 362,
+        "region": "ca",
+        "success": true
+      },
+      {
+        "error": null,
+        "products_seen": 338,
+        "region": "au",
+        "success": true
+      },
+      {
+        "error": null,
+        "products_seen": 1,
+        "region": "jp",
+        "success": true
+      },
+      {
+        "error": null,
+        "products_seen": 0,
+        "region": "kr",
+        "success": true
+      },
+      {
+        "error": null,
+        "products_seen": 345,
+        "region": "asia",
+        "success": true
+      }
+    ],
+    "schema_version": 1,
+    "started_at": "2026-11-10T15:04:23Z"
+  },
+  "reviewed_changes_receipt": "release-1.1.0-fifth-sync-2026-11-10.json",
+  "reviewed_changes_sha256": "0026a18194d904f54c0efa73bd3cd471d931b16706b58870e48f29368cb1e0a9",
+  "scan_options": {
+    "dry_run": false,
+    "max_products": null,
+    "metadata_only": false,
+    "regions": [
+      "asia",
+      "au",
+      "ca",
+      "eu",
+      "jp",
+      "kr",
+      "uk",
+      "us"
+    ]
+  },
+  "schema_version": 2,
+  "snapshot_id": "d5f8d10fb2aeab19aadc95b2d65ecc43ee009ceeb0beefd1e30f0af15db59cf3",
+  "unchanged_repeat": false,
+  "verified_at": "2026-11-10T15:53:13.470647+00:00"
+}
