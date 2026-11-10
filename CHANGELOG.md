@@ -17,6 +17,7 @@ history; those commits were consolidated into the `v1.0.0` release commit.
 - Included web unit tests in CI and gated draft assembly on full validation, fresh
   snapshot acceptance, and packaged-app tests on four desktop targets.
 - Updated Electron within the 44.x series to resolve known runtime security advisories.
+- Fixed the 3D viewer's unavailable-WebGL loading state and added a download alternative.
 
 ## v1.0.0 - 2026-08-26
 

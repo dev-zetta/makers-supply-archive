@@ -482,7 +482,13 @@ async function preview(url: string, name: string): Promise<void> {
 document.querySelectorAll<HTMLButtonElement>(".preview-button").forEach((button) => {
   button.addEventListener("click", () => {
     void preview(button.dataset.modelUrl ?? "", button.dataset.modelName ?? "Model").catch((error: unknown) => {
-      if (host) host.textContent = error instanceof Error ? error.message : "Preview failed";
+      if (host) {
+        host.setAttribute("aria-busy", "false");
+        const message = error instanceof Error ? error.message : "Preview failed";
+        host.textContent = /WebGL context/i.test(message)
+          ? "3D preview is unavailable on this graphics setup. Download the model to view it in another application."
+          : message;
+      }
     });
   });
 });

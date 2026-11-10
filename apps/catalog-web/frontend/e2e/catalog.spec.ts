@@ -38,6 +38,23 @@ test("renders embedded 3MF material data when available", async ({ page }) => {
   await expect(viewer.locator("canvas")).toBeVisible();
 });
 
+test("reports unavailable WebGL and finishes its loading state", async ({ page }) => {
+  await page.addInitScript(() => {
+    const original = HTMLCanvasElement.prototype.getContext;
+    Object.defineProperty(HTMLCanvasElement.prototype, "getContext", {
+      value(this: HTMLCanvasElement, kind: string, ...args: unknown[]) {
+        return /webgl/i.test(kind) ? null : Reflect.apply(original, this, [kind, ...args]);
+      },
+    });
+  });
+  await page.goto("/products/la024-030-micro-dc-motor-with-sh1-0");
+  await page.getByRole("button", { name: "Preview 3D" }).first().click();
+  await expect(page.locator("#model-viewer")).toHaveAttribute("aria-busy", "false");
+  await expect(page.locator("#model-viewer")).toContainText("Download the model");
+  await page.locator("#model-dialog .dialog-close").click();
+  await expect(page.locator("#model-dialog")).not.toBeVisible();
+});
+
 test("browses and zooms the product image gallery", async ({ page }) => {
   await page.locator(".product-card a").first().click();
   const mainImage = page.locator("#gallery-main-image");

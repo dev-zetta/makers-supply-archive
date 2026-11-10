@@ -41,6 +41,9 @@ checks all four delivered app archives using isolated state. Acceptance covers o
 launch, search, STL/3MF previews, Unicode exports, persistence, and sidecar shutdown.
 `RELEASE-EVIDENCE.json` identifies the tested app hashes, snapshot, and validation run.
 Screenshots and platform receipts are included in `platform-evidence.tar.gz`.
+The GPU-less Linux and Intel macOS CI runners use Chromium's explicit SwANGLE graphics driver.
+The smoke test keeps renderer/GPU sandboxes enabled and rejects unsafe fallback flags;
+this is functional graphics validation, not a hardware performance benchmark.
 
 `reports/release-validation.json` must record a successful unchanged repeat of a fresh
 complete eight-region binary sync and full blob validation for the exact snapshot,

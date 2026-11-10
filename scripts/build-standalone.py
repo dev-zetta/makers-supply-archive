@@ -98,7 +98,7 @@ def build_electron_shell(project_root: Path, workspace: Path, backend: Path) -> 
         )
         + "\n",
     )
-    command = [str(builder), "--dir", "--config", str(config)]
+    command = [str(builder), "--dir", "--publish", "never", "--config", str(config)]
     if sys.platform == "win32":
         command = ["cmd.exe", "/d", "/s", "/c", subprocess.list2cmdline(command)]
     subprocess.run(command, cwd=desktop, check=True)

@@ -25,15 +25,20 @@ jobs:
         include:
           - os: ubuntu-22.04
             platform: linux-x86_64
+            software_gpu: "1"
           - os: windows-2022
             platform: windows-x86_64
           - os: macos-15-intel
             platform: macos-x86_64
+            software_gpu: "1"
           - os: macos-15
             platform: macos-arm64
     runs-on: ${{ matrix.os }}
     env:
       CSC_IDENTITY_AUTO_DISCOVERY: "false"
+      # Explicit SwANGLE on GPU-less runners; keep both Chromium sandboxes enabled.
+      # https://chromium.googlesource.com/chromium/src/+/main/docs/gpu/swiftshader.md
+      E2E_DESKTOP_SOFTWARE_GPU: ${{ matrix.software_gpu || '0' }}
     steps:
       - uses: actions/checkout@v4
         with:
