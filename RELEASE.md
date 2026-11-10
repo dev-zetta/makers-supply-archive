@@ -77,6 +77,8 @@ Push the reviewed commit and run **Prepare unpublished release candidate**, vers
 `1.1.0`, on that commit. Reruns may update the same draft only; they cannot replace a
 published release or reuse the version for a different commit. **Build and test
 standalone apps** can validate portable artifacts without creating any release.
+Weekly catalog updates remain pull requests. Dispatch **Test** on the update branch
+to run full validation before merging; weekly sync also runs both Python suites.
 
 ## Public mirror distribution policy
 
