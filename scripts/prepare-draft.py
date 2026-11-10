@@ -29,6 +29,23 @@ def gh_json(*args: str, optional: bool = False) -> object:
     return json.loads(result.stdout)
 
 
+def find_release(repository: str, tag: str) -> dict[str, object] | None:
+    # The by-tag endpoint only returns published releases. Authenticated listings
+    # include drafts, including ones whose Git tag has not been created yet.
+    pages = gh_json("api", "--paginate", "--slurp", f"repos/{repository}/releases?per_page=100")
+    if not isinstance(pages, list) or any(not isinstance(page, list) for page in pages):
+        raise ValueError("invalid release listing")
+    matches = [
+        release
+        for page in pages
+        for release in page
+        if isinstance(release, dict) and release.get("tag_name") == tag
+    ]
+    if len(matches) > 1:
+        raise ValueError("refusing an ambiguous release tag")
+    return matches[0] if matches else None
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--directory", type=Path, required=True)
@@ -96,7 +113,7 @@ def main() -> None:
         if path.is_file() and path.stat().st_size >= 2 * 1024**3:
             raise ValueError(f"release asset exceeds GitHub's limit: {path.name}")
     write_checksums(directory)
-    existing = gh_json("api", f"repos/{repository}/releases/tags/{tag}", optional=True)
+    existing = find_release(repository, tag)
     if existing is not None and (
         not isinstance(existing, dict)
         or not existing.get("draft")
@@ -140,9 +157,13 @@ def main() -> None:
         ],
         check=True,
     )
-    verified = gh_json("api", f"repos/{repository}/releases/tags/{tag}")
-    if not isinstance(verified, dict) or verified.get("draft") is not True:
-        raise RuntimeError("release is unexpectedly not a draft")
+    verified = find_release(repository, tag)
+    if (
+        verified is None
+        or verified.get("draft") is not True
+        or verified.get("target_commitish") != revision
+    ):
+        raise RuntimeError("release is unexpectedly not the candidate draft")
     print(f"prepared unpublished {tag} at {revision}")
 
 

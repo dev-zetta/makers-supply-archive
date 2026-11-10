@@ -9,7 +9,29 @@ import pytest
 from makers_supply import __version__
 
 
-@pytest.mark.parametrize("case", ["published", "other-draft", "other-tag", "same-draft"])
+@pytest.mark.parametrize(
+    "pages",
+    [
+        [{"tag_name": "v1.1.0"}],
+        [[{"tag_name": "v1.1.0"}], [{"tag_name": "v1.1.0"}]],
+    ],
+)
+def test_draft_lookup_rejects_invalid_or_ambiguous_listings(
+    monkeypatch: pytest.MonkeyPatch, pages: object
+) -> None:
+    script = Path(__file__).parents[1] / "scripts/prepare-draft.py"
+    spec = importlib.util.spec_from_file_location("prepare_draft_lookup_test", script)
+    assert spec and spec.loader
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    monkeypatch.setattr(module, "gh_json", lambda *_: pages)
+    with pytest.raises(ValueError, match="invalid|ambiguous"):
+        module.find_release("owner/repo", "v1.1.0")
+
+
+@pytest.mark.parametrize(
+    "case", ["published", "other-draft", "other-tag", "same-draft", "new-draft"]
+)
 def test_draft_guards_never_publish_or_replace_other_commits(
     tmp_path: Path, monkeypatch: pytest.MonkeyPatch, case: str
 ) -> None:
@@ -67,21 +89,34 @@ def test_draft_guards_never_publish_or_replace_other_commits(
             return {} if case == "other-tag" else None
         if "/commits/" in endpoint:
             return {"sha": "wrong"}
-        if case == "other-tag":
-            return None
-        return {
-            "draft": case != "published",
-            "target_commitish": "wrong" if case == "other-draft" else revision,
-        }
+        assert args[:3] == ("api", "--paginate", "--slurp")
+        assert endpoint == "repos/owner/repo/releases?per_page=100"
+        if case == "other-tag" or (case == "new-draft" and not commands):
+            return [[]]
+        return [
+            [{"tag_name": "v0.0.1"}],
+            [
+                {
+                    "tag_name": f"v{__version__}",
+                    "draft": case != "published",
+                    "target_commitish": "wrong" if case == "other-draft" else revision,
+                }
+            ],
+        ]
 
     monkeypatch.setattr(module, "gh_json", gh)
     monkeypatch.setattr(
         sys, "argv", [str(script), "--directory", str(packet), "--evidence", str(evidence)]
     )
-    if case == "same-draft":
+    if case in {"same-draft", "new-draft"}:
         module.main()
-        assert len(commands) == 1
-        assert commands[0][:3] == ["gh", "release", "upload"]
+        assert commands[-1][:3] == ["gh", "release", "upload"]
+        if case == "new-draft":
+            assert len(commands) == 2
+            assert commands[0][:3] == ["gh", "release", "create"]
+            assert "--draft" in commands[0]
+        else:
+            assert len(commands) == 1
     else:
         with pytest.raises(ValueError, match="refusing"):
             module.main()
