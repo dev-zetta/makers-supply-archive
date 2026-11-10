@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: "22.18.0"
       - run: |
-          npm --prefix apps/catalog-desktop install --save-dev --save-exact electron@43.8.7
+          npm --prefix apps/catalog-desktop install --save-dev --save-exact electron@45.2.3
           npm --prefix apps/catalog-web/frontend ci
           node apps/catalog-desktop/node_modules/electron/install.js
       - name: Probe sandboxed renderer backends
@@ -35,7 +35,7 @@ jobs:
           const path=require('node:path');
           const fs=require('node:fs');
           (async()=>{
-            for (const backend of ['default','metal','gl','swiftshader']) {
+            for (const backend of ['swiftshader']) {
               let app, child;
               try {
                 const flags=backend==='default'?[]:['--use-gl=angle','--use-angle='+backend.replace('-no-vulkan-feature','').replace('-vulkan','')];
@@ -56,7 +56,7 @@ jobs:
                   const ext=gl.getExtension('WEBGL_debug_renderer_info');
                   return {version:gl.getParameter(gl.VERSION),renderer:ext?gl.getParameter(ext.UNMASKED_RENDERER_WEBGL):null};
                 });
-                const gpu=await app.evaluate(async({app})=>({status:app.getGPUFeatureStatus(),info:await app.getGPUInfo('basic').catch(error=>String(error)),sandboxDisabled:app.commandLine.hasSwitch('no-sandbox')}));
+                const gpu=await app.evaluate(async({app})=>({status:app.getGPUFeatureStatus(),info:await app.getGPUInfo('complete').catch(error=>String(error)),sandboxDisabled:app.commandLine.hasSwitch('no-sandbox')}));
                 console.log(JSON.stringify({backend,context,gpu}));
               } catch(error){ console.error('PROBE ERROR',backend,error); }
               finally {
