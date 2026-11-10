@@ -19,6 +19,8 @@ history; those commits were consolidated into the `v1.0.0` release commit.
 - Pinned a current supported Electron maintenance release with Intel software-graphics compatibility.
 - Fixed the 3D viewer's unavailable-WebGL loading state and added a download alternative.
 - Preserved regional gallery identifiers when official variant images use different CDN URLs.
+- Added explicit snapshot-bound receipts for reviewed live commerce changes, retaining
+  the unchanged-repeat default and all scan, packaging, and platform requirements.
 
 ## v1.0.0 - 2026-08-26
 

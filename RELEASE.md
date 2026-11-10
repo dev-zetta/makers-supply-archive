@@ -51,11 +51,21 @@ Electron 43.8.7 is pinned because the required Intel runner can initialize its
 software renderer; the tested 44/45 runtimes could not. Track its maintenance window
 in the [Electron support schedule](https://releases.electronjs.org/schedule).
 
-`reports/release-validation.json` must record a successful unchanged repeat of a fresh
-complete eight-region binary sync and full blob validation for the exact snapshot,
-within seven days of assembly. Failed scans, tests, or packaging checks block draft
-creation. Unexecuted checks remain pending. The workflow creates a **draft only**;
-publication is a separate maintainer action.
+`reports/release-validation.json` records the acceptance policy and a fresh complete
+eight-region binary scan plus full blob validation for the exact snapshot, within
+seven days of assembly. The default policy requires an unchanged repeat.
+
+For this v1.1.0 candidate, the maintainer approved a validated snapshot with reviewed
+live commerce changes after five complete scans continued to capture stock and title
+updates. The selected fifth scan changed only EU inventory: four variants became
+unavailable and two PTFE tube variants became available. Its receipt explicitly says
+`acceptance_policy=reviewed-live-changes` and `unchanged_repeat=false`; it binds
+`release-1.1.0-fifth-sync-2026-11-10.json` by SHA-256. That attached review records the
+exact variant deltas, unchanged assets, full blob validation, and reproducible database.
+
+Both policies require complete successful scans and all validation/platform checks.
+Failed scans, tests, or packaging checks block draft creation. Unexecuted checks remain
+pending. The workflow creates a **draft only**; publication is a separate maintainer action.
 
 After reviewing source changes, prepare the snapshot:
 
@@ -70,8 +80,17 @@ uv run python scripts/release-acceptance.py
 
 A completed run starts a new scan even with `--resume`; only matching interrupted runs
 reuse verified pages. If the repeat contains real changes, review them and obtain an
-unchanged complete repeat before recording acceptance. Commit generated data and its
-acceptance separately from source changes.
+unchanged complete repeat before recording acceptance under the default policy.
+The explicitly selected policy for this candidate is recorded with:
+
+```bash
+uv run python scripts/release-acceptance.py --reviewed-live-changes reports/release-1.1.0-fifth-sync-2026-11-10.json
+```
+
+Reviewed mode requires a sibling review receipt for the same snapshot, verified blobs
+and database, unchanged assets, and explicit inventory/price/title deltas. Structural
+catalog changes cannot use this exception. Commit generated data and its acceptance
+separately from source changes.
 
 Push the reviewed commit and run **Prepare unpublished release candidate**, version
 `1.1.0`, on that commit. Reruns may update the same draft only; they cannot replace a
