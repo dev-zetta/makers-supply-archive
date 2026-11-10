@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "active": false,
   "aliases": [
     {
       "handle": "clock-components-kit-011-cogsworth",
@@ -174,15 +174,15 @@
   "description_text": "The Clock Components Kit 011: Cogsworth contains all the non-3D printed parts for assembling an entirely functional Cogsworth Clock. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Cogsworth Clock and obtain detailed information, please visit the Cogsworth Clock on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh006-clock-components-kit-011-cogsworth",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T13:13:00Z",
   "measurements": [],
   "name": "Cogsworth Clock",
   "offers": [
     {
       "available": true,
       "currency": "USD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "11.19",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -191,8 +191,8 @@
     {
       "available": true,
       "currency": "CAD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "12.65",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
@@ -201,8 +201,8 @@
     {
       "available": false,
       "currency": "EUR",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "10.35",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -211,8 +211,8 @@
     {
       "available": true,
       "currency": "GBP",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "8.79",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -221,8 +221,8 @@
     {
       "available": false,
       "currency": "AUD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "19.85",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -231,8 +231,8 @@
     {
       "available": false,
       "currency": "USD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "9.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -250,6 +250,7 @@
       "url": "https://makerworld.com/en/models/449421#profileId-356232"
     }
   ],
+  "removed_at": "2026-11-10T13:13:00Z",
   "schema_version": 4,
   "skus": [
     "41925454266428",

@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "active": false,
   "aliases": [
     {
       "handle": "gamma-fist",
@@ -114,15 +114,15 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Gamma Fist. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Gamma Fist on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh060-gamma-fist",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T13:13:00Z",
   "measurements": [],
   "name": "Gamma Fist",
   "offers": [
     {
       "available": true,
       "currency": "USD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "3.84",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -131,8 +131,8 @@
     {
       "available": true,
       "currency": "CAD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "4.42",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
@@ -141,8 +141,8 @@
     {
       "available": true,
       "currency": "EUR",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "3.62",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -151,8 +151,8 @@
     {
       "available": true,
       "currency": "GBP",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "3.07",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -161,8 +161,8 @@
     {
       "available": false,
       "currency": "AUD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "6.94",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -171,8 +171,8 @@
     {
       "available": false,
       "currency": "USD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "3.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -190,6 +190,7 @@
       "url": "https://makerworld.com/en/models/569516#profileId-489456"
     }
   ],
+  "removed_at": "2026-11-10T13:13:00Z",
   "schema_version": 4,
   "skus": [
     "53971657654620",

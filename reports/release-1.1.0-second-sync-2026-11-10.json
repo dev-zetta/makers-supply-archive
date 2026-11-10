@@ -1,0 +1,95 @@
+{
+  "database_reproducible": true,
+  "database_sha256": "18e38424b7d8a35097b9ec20e7593fe6fce31da616514af40c1971ab87769acd",
+  "full_blob_validation": true,
+  "reviewed_changes": [
+    "12 product removals confirmed by two complete successful scans",
+    "EU availability changed for DY012 and ZH047",
+    "PTFE tube variant title updated in UK, AU and Asia",
+    "New watch-kit asset records normalized to stable parent/member order; contents unchanged"
+  ],
+  "schema_version": 1,
+  "second_sync": {
+    "has_changes": true,
+    "manifest": {
+      "assets_downloaded": 0,
+      "assets_rejected": 1,
+      "bytes_downloaded": 0,
+      "completed_at": "2026-11-10T13:51:05Z",
+      "metadata_only": false,
+      "products_written": 377,
+      "regions": [
+        {
+          "error": null,
+          "products_seen": 363,
+          "region": "us",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 363,
+          "region": "eu",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 361,
+          "region": "uk",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 362,
+          "region": "ca",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 338,
+          "region": "au",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 1,
+          "region": "jp",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 0,
+          "region": "kr",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 345,
+          "region": "asia",
+          "success": true
+        }
+      ],
+      "schema_version": 1,
+      "started_at": "2026-11-10T13:13:00Z"
+    },
+    "options": {
+      "dry_run": false,
+      "max_products": null,
+      "metadata_only": false,
+      "regions": [
+        "asia",
+        "au",
+        "ca",
+        "eu",
+        "jp",
+        "kr",
+        "uk",
+        "us"
+      ]
+    },
+    "promoted": true,
+    "snapshot_id": "f65b9cfafd641ae37302c369c71cc14519e07037ce7b5702fdc6e3406e5d9a6f"
+  },
+  "snapshot_id": "f65b9cfafd641ae37302c369c71cc14519e07037ce7b5702fdc6e3406e5d9a6f",
+  "verified_at": "2026-11-10T13:54:10.889549+00:00",
+  "version": "1.1.0"
+}

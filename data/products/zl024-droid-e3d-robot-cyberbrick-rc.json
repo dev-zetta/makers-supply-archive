@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "active": false,
   "aliases": [
     {
       "handle": "droid-e3d-robot-cyberbrick-rc",
@@ -570,15 +570,15 @@
   "description_text": "Bring your DROID-E3D to life with dynamic movement. Control head rotation, arm articulation, and light up its front-facing LEDs for expressive poses and interactive play.\n\nPop open the DROID-E3D in seconds. Swapping batteries, adjusting internal wiring, or performing maintenance is straightforward, keeping your droid ready for action without fuss.\n\nThe Droid-e3D Robot is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl024-droid-e3d-robot-cyberbrick-rc",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T13:13:00Z",
   "measurements": [],
   "name": "Droid-e3D Robot - CyberBrick RC",
   "offers": [
     {
       "available": true,
       "currency": "USD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "58.79",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -587,8 +587,8 @@
     {
       "available": true,
       "currency": "CAD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "74.89",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -597,8 +597,8 @@
     {
       "available": true,
       "currency": "EUR",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "53.89",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
@@ -607,8 +607,8 @@
     {
       "available": true,
       "currency": "GBP",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "49.69",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -617,8 +617,8 @@
     {
       "available": true,
       "currency": "AUD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "121.49",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -627,8 +627,8 @@
     {
       "available": false,
       "currency": "USD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "65.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -668,6 +668,7 @@
       "url": "https://makerworld.com/en/models/1395991-cyberbrick-official-standard-remote#profileId-1446992"
     }
   ],
+  "removed_at": "2026-11-10T13:13:00Z",
   "schema_version": 4,
   "skus": [
     "730636331491319811",

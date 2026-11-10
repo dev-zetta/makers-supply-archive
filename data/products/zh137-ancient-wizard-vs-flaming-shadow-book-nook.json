@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "active": false,
   "aliases": [
     {
       "handle": "ancient-wizard-vs-flaming-shadow-book-nook",
@@ -234,15 +234,15 @@
   "description_text": "To download the model files please visit the Ancient Wizard vs. Flaming Shadow Book Nook on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh137-ancient-wizard-vs-flaming-shadow-book-nook",
-  "last_seen": "2026-08-23T16:35:17Z",
+  "last_seen": "2026-11-10T13:13:00Z",
   "measurements": [],
   "name": "Ancient Wizard vs. Flaming Shadow Book Nook",
   "offers": [
     {
       "available": true,
       "currency": "USD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "15.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
@@ -251,8 +251,8 @@
     {
       "available": true,
       "currency": "CAD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "19.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -261,8 +261,8 @@
     {
       "available": true,
       "currency": "EUR",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "15.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -271,8 +271,8 @@
     {
       "available": true,
       "currency": "GBP",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "13.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -281,8 +281,8 @@
     {
       "available": true,
       "currency": "AUD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "30.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -291,8 +291,8 @@
     {
       "available": true,
       "currency": "USD",
-      "listed": true,
-      "missing_runs": 1,
+      "listed": false,
+      "missing_runs": 2,
       "price": "14.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
@@ -317,6 +317,7 @@
       "url": "https://makerworld.com/en/models/2285636-gandalf-vs-balrog-book-nook-lord-of-the-rings#profileId-2493097"
     }
   ],
+  "removed_at": "2026-11-10T13:13:00Z",
   "schema_version": 4,
   "skus": [
     "736813229777903618",
