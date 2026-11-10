@@ -19,6 +19,7 @@ test("delivered offline app preserves lists, previews models, exports, and stops
   const launch = async () => {
     const app = await electron.launch({
       executablePath,
+      chromiumSandbox: true,
       env: { ...process.env, MAKERS_SUPPLY_DESKTOP_STATE: state },
       timeout: 60_000,
     });
@@ -31,6 +32,17 @@ test("delivered offline app preserves lists, previews models, exports, and stops
       return route.abort();
     });
     await expect(page.getByRole("heading", { name: "Hardware catalog" })).toBeVisible();
+    const security = await app.evaluate(({ app, BrowserWindow }) => {
+      const preferences = BrowserWindow.getAllWindows()[0].webContents.getLastWebPreferences();
+      return {
+        sandbox: preferences.sandbox,
+        contextIsolation: preferences.contextIsolation,
+        nodeIntegration: preferences.nodeIntegration,
+        noSandbox: app.commandLine.hasSwitch("no-sandbox"),
+      };
+    });
+    expect(security).toEqual({ sandbox: true, contextIsolation: true,
+      nodeIntegration: false, noSandbox: false });
     return { app, page };
   };
   try {
