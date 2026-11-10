@@ -83,6 +83,9 @@ jobs:
           uv run makers-supply validate
           uv run makers-supply lfs-preflight
           uv run makers-supply build-db
+          uv run makers-supply build-db --output dist/makers-supply-repeat.sqlite
+          cmp dist/makers-supply.sqlite dist/makers-supply-repeat.sqlite
+          rm dist/makers-supply-repeat.sqlite
       - name: Browser tests
         run: |
           cd apps/catalog-web/frontend
