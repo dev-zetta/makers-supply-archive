@@ -6,16 +6,11 @@ None.
 
 ## Changed products
 
-- ca001-round-magnet
-- dy002-halloween-classic-carved-pumpkin-lantern
-- dy003-monster-tree-light
-- dy005-halloween-skull-tear-pumpkin-lantern
-- dy006-halloween-ghost-night-light
-- dy008-halloween-cute-creepy-candle-holder
-- dy009-halloween-ghost
-- dy010-halloween-ghost-light
-- dy014-jack-skellington-oogie-boogie-pumpkin-theelight
-- dy015-reading-ghost-halloween-tea-light-decor
+- dy011-cauldron-light
+- dy013-cute-witchs-cauldron-tea-light
+- ptfe-tubes
+- zh019-cute-flame-devil-lights
+- zh179-the-alchemist-s-study
 
 ## Removed products
 
@@ -23,15 +18,10 @@ None.
 
 ## Regional offer changes
 
-- dy002-halloween-classic-carved-pumpkin-lantern
-- dy003-monster-tree-light
-- dy005-halloween-skull-tear-pumpkin-lantern
-- dy006-halloween-ghost-night-light
-- dy008-halloween-cute-creepy-candle-holder
-- dy009-halloween-ghost
-- dy010-halloween-ghost-light
-- dy014-jack-skellington-oogie-boogie-pumpkin-theelight
-- dy015-reading-ghost-halloween-tea-light-decor
+- dy011-cauldron-light
+- dy013-cute-witchs-cauldron-tea-light
+- zh019-cute-flame-devil-lights
+- zh179-the-alchemist-s-study
 
 ## Asset changes
 

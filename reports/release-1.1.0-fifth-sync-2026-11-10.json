@@ -1,0 +1,164 @@
+{
+  "asset_records_unchanged": true,
+  "canonical_fields_changed": {
+    "last_seen": 147,
+    "offers": 4,
+    "variants": 5
+  },
+  "database_reproducible": true,
+  "database_sha256": "615b679b791039f453403822f45e3faaa9c824af3bda5e8459142d992433c170",
+  "fifth_sync": {
+    "has_changes": true,
+    "manifest": {
+      "assets_downloaded": 0,
+      "assets_rejected": 1,
+      "bytes_downloaded": 0,
+      "completed_at": "2026-11-10T15:37:42Z",
+      "metadata_only": false,
+      "products_written": 377,
+      "regions": [
+        {
+          "error": null,
+          "products_seen": 363,
+          "region": "us",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 363,
+          "region": "eu",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 361,
+          "region": "uk",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 362,
+          "region": "ca",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 338,
+          "region": "au",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 1,
+          "region": "jp",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 0,
+          "region": "kr",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 345,
+          "region": "asia",
+          "success": true
+        }
+      ],
+      "schema_version": 1,
+      "started_at": "2026-11-10T15:04:23Z"
+    },
+    "options": {
+      "dry_run": false,
+      "max_products": null,
+      "metadata_only": false,
+      "regions": [
+        "asia",
+        "au",
+        "ca",
+        "eu",
+        "jp",
+        "kr",
+        "uk",
+        "us"
+      ]
+    },
+    "promoted": true,
+    "snapshot_id": "d5f8d10fb2aeab19aadc95b2d65ecc43ee009ceeb0beefd1e30f0af15db59cf3"
+  },
+  "full_blob_validation": true,
+  "reviewed_variant_changes": [
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy011-cauldron-light",
+      "region": "eu",
+      "variant_id": "49410513469788"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy013-cute-witchs-cauldron-tea-light",
+      "region": "eu",
+      "variant_id": "49450972479836"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": true,
+          "before": false
+        }
+      },
+      "product": "ptfe-tubes",
+      "region": "eu",
+      "variant_id": "723293485526503611"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": true,
+          "before": false
+        }
+      },
+      "product": "ptfe-tubes",
+      "region": "eu",
+      "variant_id": "723293485526503653"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "zh019-cute-flame-devil-lights",
+      "region": "eu",
+      "variant_id": "49318965117276"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "zh179-the-alchemist-s-study",
+      "region": "eu",
+      "variant_id": "778839411700809730"
+    }
+  ],
+  "schema_version": 1,
+  "snapshot_id": "d5f8d10fb2aeab19aadc95b2d65ecc43ee009ceeb0beefd1e30f0af15db59cf3",
+  "unchanged_repeat": false,
+  "verified_at": "2026-11-10T15:43:22.886155+00:00",
+  "version": "1.1.0"
+}
