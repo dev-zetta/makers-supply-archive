@@ -16,6 +16,7 @@ jobs:
       - run: |
           npm --prefix apps/catalog-desktop ci
           npm --prefix apps/catalog-web/frontend ci
+          node apps/catalog-desktop/node_modules/electron/install.js
       - name: Probe sandboxed renderer backends
         run: |
           mkdir -p .staging
