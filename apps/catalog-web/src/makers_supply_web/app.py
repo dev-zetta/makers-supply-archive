@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 import secrets
 import sqlite3
 from collections.abc import AsyncIterator
@@ -735,11 +736,15 @@ def create_app(settings: Settings | None = None) -> FastAPI:
 
     @app.get("/lists/{list_id}/export")
     async def export_parts_list(
-        list_id: str, format: str = "csv",  # noqa: A002
+        list_id: str,
+        format: str = "csv",  # noqa: A002
         user: sqlite3.Row = Depends(require_user),  # noqa: B008
     ) -> Response:
         selected = list_view(
-            settings.state_db, settings.catalog_db, list_id, str(user["id"]),
+            settings.state_db,
+            settings.catalog_db,
+            list_id,
+            str(user["id"]),
             is_admin=bool(user["is_admin"]),
         )
         if selected is None:
@@ -748,10 +753,18 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             content, media_type = export_list(selected, format)
         except ValueError as error:
             raise HTTPException(422, str(error)) from error
-        filename = f"{selected['name']}.{format}".replace('"', "")
+        safe_name = re.sub(r"[\x00-\x1f\x7f]", "", str(selected["name"]))
+        filename = f"{safe_name}.{format}"
+        fallback = re.sub(r"[^A-Za-z0-9._ -]", "_", filename) or f"parts-list.{format}"
         return Response(
-            content, media_type=media_type,
-            headers={"Content-Disposition": f'attachment; filename="{filename}"'},
+            content,
+            media_type=media_type,
+            headers={
+                "Content-Disposition": (
+                    f'attachment; filename="{fallback}"; '
+                    f"filename*=UTF-8''{quote(filename, safe='')}"
+                )
+            },
         )
 
     @app.get("/login", response_class=HTMLResponse)

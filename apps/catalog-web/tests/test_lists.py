@@ -1,12 +1,13 @@
 import sqlite3
 from pathlib import Path
+from urllib.parse import unquote
 from uuid import uuid4
 
 import httpx
 import pytest
 from makers_supply_web.app import create_app
 from makers_supply_web.config import Settings
-from makers_supply_web.parts import current_price
+from makers_supply_web.parts import current_price, list_view
 from makers_supply_web.security import PASSWORDS, now
 from makers_supply_web.state import connect
 from test_catalog import authenticated_client, make_settings
@@ -23,12 +24,77 @@ def csrf(settings: Settings) -> str:
 
 
 @pytest.mark.anyio
+async def test_unlisted_variants_and_unavailable_lines_are_not_totaled(tmp_path: Path) -> None:
+    settings = make_settings(tmp_path)
+    client = await authenticated_client(settings)
+    try:
+        result = await client.post(
+            "/lists",
+            data={"name": "Unavailable", "region": "us", "csrf": csrf(settings)},
+            follow_redirects=False,
+        )
+        list_id = result.headers["location"].split("/")[-1]
+        await client.post(
+            f"/lists/{list_id}/items",
+            data={"product_id": "ia005-power-board", "quantity": "2", "csrf": csrf(settings)},
+        )
+        with sqlite3.connect(settings.catalog_db) as connection:
+            connection.execute("UPDATE offers SET available=0")
+        with connect(settings.state_db) as connection:
+            owner = connection.execute(
+                "SELECT owner_id FROM lists WHERE id=?", (list_id,)
+            ).fetchone()[0]
+        view = list_view(settings.state_db, settings.catalog_db, list_id, owner)
+        assert view is not None
+        assert view["current_totals"] == {}
+        assert view["unavailable_count"] == 1
+        assert view["unknown_count"] == 0
+        with sqlite3.connect(settings.catalog_db) as connection:
+            connection.execute("UPDATE offers SET listed=0")
+            connection.execute("UPDATE variants SET available=1, price='100.00', currency='USD'")
+            variant = connection.execute("SELECT variant_id FROM variants LIMIT 1").fetchone()
+        assert current_price(
+            settings.catalog_db, "ia005-power-board", "us", None if variant is None else variant[0]
+        ) == (None, None, False)
+    finally:
+        await client.aclose()
+
+
+@pytest.mark.anyio
+@pytest.mark.parametrize("name", ["Parts", "Žluťoučký 🔩", 'A "quoted" list', "A\r\nInjected: yes"])
+@pytest.mark.parametrize("format", ["csv", "json"])
+async def test_export_download_filenames(tmp_path: Path, name: str, format: str) -> None:
+    settings = make_settings(tmp_path)
+    client = await authenticated_client(settings)
+    try:
+        response = await client.post(
+            "/lists",
+            data={"name": name, "region": "us", "csrf": csrf(settings)},
+            follow_redirects=False,
+        )
+        exported = await client.get(response.headers["location"] + f"/export?format={format}")
+    finally:
+        await client.aclose()
+    assert exported.status_code == 200
+    disposition = exported.headers["content-disposition"]
+    assert disposition.isascii()
+    assert "\r" not in disposition and "\n" not in disposition
+    assert "filename*=UTF-8''" in disposition
+    decoded = unquote(disposition.split("filename*=UTF-8''")[1])
+    assert "\r" not in decoded and "\n" not in decoded
+    assert decoded.endswith(f".{format}")
+    if "\r" not in name:
+        assert decoded == f"{name}.{format}"
+
+
+@pytest.mark.anyio
 async def test_list_totals_snapshot_changes_exports_and_csrf(tmp_path: Path) -> None:
     settings = make_settings(tmp_path)
     client = await authenticated_client(settings)
     try:
         create = await client.post(
-            "/lists", data={"name": "Robot BOM", "region": "us", "csrf": csrf(settings)},
+            "/lists",
+            data={"name": "Robot BOM", "region": "us", "csrf": csrf(settings)},
             follow_redirects=False,
         )
         list_id = create.headers["location"].rsplit("/", 1)[-1]
@@ -95,9 +161,7 @@ async def test_catalog_picker_populates_lists_and_bulk_adds_selection(tmp_path: 
     assert 'name="quantity" min="1" max="100000" value="2"' in detail.text
     assert "/assets/ia005-power-board/normalized-image" in detail.text
     assert "Add by product ID" not in detail.text
-    assert (
-        f'href="/region?region=us&amp;next=/?list_id={list_id}"' in detail.text
-    )
+    assert f'href="/region?region=us&amp;next=/?list_id={list_id}"' in detail.text
 
 
 @pytest.mark.anyio
@@ -148,7 +212,8 @@ async def test_viewer_can_read_but_not_edit_shared_list(tmp_path: Path) -> None:
         )
     admin = await authenticated_client(settings)
     create = await admin.post(
-        "/lists", data={"name": "Shared", "region": "us", "csrf": csrf(settings)},
+        "/lists",
+        data={"name": "Shared", "region": "us", "csrf": csrf(settings)},
         follow_redirects=False,
     )
     list_id = create.headers["location"].rsplit("/", 1)[-1]
@@ -162,14 +227,17 @@ async def test_viewer_can_read_but_not_edit_shared_list(tmp_path: Path) -> None:
         transport=httpx.ASGITransport(app=create_app(settings)), base_url="http://test"
     )
     await viewer.post(
-        "/login", data={"username": "viewer", "password": "viewer secure password"},
+        "/login",
+        data={"username": "viewer", "password": "viewer secure password"},
         follow_redirects=False,
     )
     with connect(settings.state_db) as connection:
-        viewer_csrf = str(connection.execute(
-            """SELECT s.csrf_token FROM sessions s JOIN users u ON u.id=s.user_id
+        viewer_csrf = str(
+            connection.execute(
+                """SELECT s.csrf_token FROM sessions s JOIN users u ON u.id=s.user_id
                WHERE u.username='viewer'"""
-        ).fetchone()[0])
+            ).fetchone()[0]
+        )
     readable = await viewer.get(f"/lists/{list_id}")
     forbidden = await viewer.post(
         f"/lists/{list_id}/items",
@@ -197,9 +265,7 @@ def test_mismatched_regional_currency_is_not_totaled(tmp_path: Path) -> None:
         catalog.execute(
             "UPDATE offers SET currency='EUR' WHERE product_id='ia005-power-board' AND region='us'"
         )
-    price, currency, available = current_price(
-        settings.catalog_db, "ia005-power-board", "us", None
-    )
+    price, currency, available = current_price(settings.catalog_db, "ia005-power-board", "us", None)
     assert price is None
     assert currency == "EUR"
     assert available is None

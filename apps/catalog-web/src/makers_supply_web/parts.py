@@ -67,6 +67,15 @@ def current_price(
     catalog_db: Path, product_id: str, region: str, variant_id: str | None,
 ) -> tuple[str | None, str | None, bool | None]:
     with connect_catalog(catalog_db) as connection:
+        offer = connection.execute(
+            """SELECT price, currency, available, listed FROM offers
+               WHERE product_id=? AND region=?""",
+            (product_id, region),
+        ).fetchone()
+        if offer is None:
+            return None, None, None
+        if not offer["listed"]:
+            return None, None, False
         if variant_id:
             variant = connection.execute(
                 """SELECT price, currency, available FROM variants
@@ -75,12 +84,7 @@ def current_price(
             ).fetchone()
             if variant and variant["price"]:
                 return _trusted_price(variant, region)
-        offer = connection.execute(
-            """SELECT price, currency, available FROM offers
-               WHERE product_id=? AND region=? AND listed=1""",
-            (product_id, region),
-        ).fetchone()
-    return (None, None, None) if offer is None else _trusted_price(offer, region)
+    return _trusted_price(offer, region)
 
 
 def _trusted_price(row: sqlite3.Row, region: str) -> tuple[str | None, str | None, bool | None]:
@@ -141,11 +145,11 @@ def list_view(
                 state_item["variant_id"],
             )
             quantity = int(state_item["quantity"])
-            current_line = _multiply(price, quantity)
+            current_line = None if available is False else _multiply(price, quantity)
             captured_line = _multiply(state_item["captured_price"], quantity)
             if current_line is not None and currency:
                 current_totals[currency] += current_line
-            else:
+            elif available is not False:
                 unknown_count += 1
             if available is False:
                 unavailable_count += 1

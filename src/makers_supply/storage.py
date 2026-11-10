@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import tempfile
@@ -8,6 +9,18 @@ from pathlib import Path
 from typing import Any
 
 from makers_supply.models import Product, RunManifest
+
+
+def snapshot_identity(root: Path) -> str:
+    """Identify the authoritative JSON and reviewed rules, independent of checkout path."""
+    digest = hashlib.sha256()
+    for relative in ("data/products", "config"):
+        for path in sorted((root / relative).glob("*.json")):
+            digest.update(path.relative_to(root).as_posix().encode())
+            digest.update(b"\0")
+            digest.update(path.read_bytes())
+            digest.update(b"\0")
+    return digest.hexdigest()
 
 
 def canonical_json(model: Product | RunManifest | dict[str, Any]) -> str:
