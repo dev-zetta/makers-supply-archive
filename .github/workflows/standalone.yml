@@ -1,100 +1,65 @@
-name: Build and test standalone apps
-
+name: Intel graphics diagnostic
 on:
   workflow_dispatch:
-  workflow_call:
-    inputs:
-      release_candidate:
-        type: boolean
-        default: false
-
 permissions:
   contents: read
-
 jobs:
-  validate:
-    uses: ./.github/workflows/test.yml
-    with:
-      build_data_packs: true
-      require_release_evidence: ${{ inputs.release_candidate || false }}
-  build:
-    needs: validate
-    strategy:
-      fail-fast: false
-      matrix:
-        include:
-          - os: ubuntu-22.04
-            platform: linux-x86_64
-            software_gpu: "1"
-          - os: windows-2022
-            platform: windows-x86_64
-          - os: macos-15-intel
-            platform: macos-x86_64
-            software_gpu: "1"
-          - os: macos-15
-            platform: macos-arm64
-    runs-on: ${{ matrix.os }}
-    env:
-      CSC_IDENTITY_AUTO_DISCOVERY: "false"
-      # Explicit SwANGLE on GPU-less runners; keep both Chromium sandboxes enabled.
-      # https://chromium.googlesource.com/chromium/src/+/main/docs/gpu/swiftshader.md
-      E2E_DESKTOP_SOFTWARE_GPU: ${{ matrix.software_gpu || '0' }}
+  probe:
+    runs-on: macos-15-intel
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.sha }}
           lfs: false
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
       - uses: actions/setup-node@v4
         with:
           node-version: "22.18.0"
-          cache: npm
-          cache-dependency-path: |
-            apps/catalog-desktop/package-lock.json
-            apps/catalog-web/frontend/package-lock.json
-      - name: Install locked build dependencies
-        run: |
-          python -m pip install uv==0.8.14
-          uv sync --frozen --all-packages --extra standalone
+      - run: |
           npm --prefix apps/catalog-desktop ci
           npm --prefix apps/catalog-web/frontend ci
-      - uses: actions/download-artifact@v4
-        with:
-          name: catalog-data
-          path: dist/data-packs
-      - name: Build app without copying shared assets
-        run: >-
-          uv run --package makers-supply-web --extra standalone
-          python scripts/build-standalone.py --layout split --revision ${{ github.sha }}
-      - name: Test delivered archive (Linux)
-        if: runner.os == 'Linux'
-        shell: bash
+      - name: Probe sandboxed renderer backends
         run: |
-          archive=$(find dist/standalone -maxdepth 1 -name '*.tar.gz' -print -quit)
-          xvfb-run -a uv run python scripts/check-desktop.py --app-archive "$archive" --packs dist/data-packs
-      - name: Test delivered archive (macOS/Windows)
-        if: runner.os != 'Linux'
-        shell: bash
-        run: |
-          archive=$(find dist/standalone -maxdepth 1 \( -name '*.tar.gz' -o -name '*.zip' \) -print -quit)
-          uv run python scripts/check-desktop.py --app-archive "$archive" --packs dist/data-packs
-      - name: Upload tested app
-        uses: actions/upload-artifact@v4
-        with:
-          name: app-${{ matrix.platform }}
-          path: |
-            dist/standalone/makers-supply-catalog-*.tar.gz
-            dist/standalone/makers-supply-catalog-*.zip
-          compression-level: 0
-          retention-days: 3
-          if-no-files-found: error
-      - name: Upload platform evidence
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: evidence-${{ matrix.platform }}
-          path: apps/catalog-web/frontend/test-results/desktop/
-          retention-days: 3
-          if-no-files-found: ignore
+          mkdir -p .staging
+          cat > .staging/probe-main.cjs <<'JS'
+          const {app,BrowserWindow}=require('../apps/catalog-desktop/node_modules/electron');
+          app.whenReady().then(async()=>{
+            const window=new BrowserWindow({show:true,webPreferences:{sandbox:true,contextIsolation:true,nodeIntegration:false}});
+            await window.loadURL('data:text/html,<html><body>Graphics probe</body></html>');
+          });
+          app.on('window-all-closed',()=>app.quit());
+          JS
+          cat > .staging/probe.cjs <<'JS'
+          const {_electron}=require('../apps/catalog-web/frontend/node_modules/playwright');
+          const path=require('node:path');
+          const fs=require('node:fs');
+          (async()=>{
+            for (const backend of ['default','metal','gl','swiftshader','metal-ignore-blocklist']) {
+              let app, child;
+              try {
+                const flags=backend==='default'?[]:['--use-gl=angle','--use-angle='+backend.replace('-ignore-blocklist','')];
+                if(backend.endsWith('ignore-blocklist')) flags.push('--ignore-gpu-blocklist');
+                app=await _electron.launch({
+                  executablePath:path.resolve('apps/catalog-desktop/node_modules/electron/dist/Electron.app/Contents/MacOS/Electron'),
+                  args:[path.resolve('.staging/probe-main.cjs'),...flags],
+                  chromiumSandbox:true,timeout:45000
+                });
+                child=app.process();
+                child.stdout.on('data',x=>process.stdout.write(x));
+                child.stderr.on('data',x=>process.stderr.write(x));
+                const page=await app.firstWindow({timeout:30000});
+                const context=await page.evaluate(()=>{
+                  const gl=document.createElement('canvas').getContext('webgl2');
+                  if(!gl) return null;
+                  const ext=gl.getExtension('WEBGL_debug_renderer_info');
+                  return {version:gl.getParameter(gl.VERSION),renderer:ext?gl.getParameter(ext.UNMASKED_RENDERER_WEBGL):null};
+                });
+                const gpu=await app.evaluate(async({app})=>({status:app.getGPUFeatureStatus(),info:await app.getGPUInfo('basic'),sandboxDisabled:app.commandLine.hasSwitch('no-sandbox')}));
+                console.log(JSON.stringify({backend,context,gpu}));
+              } catch(error){ console.error('PROBE ERROR',backend,error); }
+              finally {
+                if(app) await Promise.race([app.close().catch(()=>{}),new Promise(r=>setTimeout(r,5000))]);
+                if(child?.exitCode===null) child.kill('SIGKILL');
+              }
+            }
+          })().catch(error=>{console.error(error);process.exit(1)});
+          JS
+          node .staging/probe.cjs
