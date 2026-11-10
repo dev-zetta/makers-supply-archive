@@ -19,6 +19,8 @@ jobs:
           node apps/catalog-desktop/node_modules/electron/install.js
       - name: Probe sandboxed renderer backends
         run: |
+          system_profiler SPDisplaysDataType -json
+          find apps/catalog-desktop/node_modules/electron/dist -iname '*vulkan*' -o -iname '*swiftshader*'
           mkdir -p .staging
           cat > .staging/probe-main.cjs <<'JS'
           const {app,BrowserWindow}=require('electron');
@@ -33,11 +35,12 @@ jobs:
           const path=require('node:path');
           const fs=require('node:fs');
           (async()=>{
-            for (const backend of ['default','metal','gl','swiftshader','metal-ignore-blocklist']) {
+            for (const backend of ['swiftshader-vulkan','swiftshader-no-vulkan-feature','swiftshader-webgl']) {
               let app, child;
               try {
-                const flags=backend==='default'?[]:['--use-gl=angle','--use-angle='+backend.replace('-ignore-blocklist','')];
-                if(backend.endsWith('ignore-blocklist')) flags.push('--ignore-gpu-blocklist');
+                const flags=backend==='default'?[]:['--use-gl=angle','--use-angle='+backend.replace('-no-vulkan-feature','').replace('-vulkan','')];
+                if(backend==='swiftshader-vulkan') flags.push('--use-vulkan=swiftshader');
+                if(backend==='swiftshader-no-vulkan-feature') flags.push('--disable-features=Vulkan');
                 app=await _electron.launch({
                   executablePath:path.resolve('apps/catalog-desktop/node_modules/electron/dist/Electron.app/Contents/MacOS/Electron'),
                   args:[path.resolve('.staging/probe-main.cjs'),...flags],
@@ -53,7 +56,7 @@ jobs:
                   const ext=gl.getExtension('WEBGL_debug_renderer_info');
                   return {version:gl.getParameter(gl.VERSION),renderer:ext?gl.getParameter(ext.UNMASKED_RENDERER_WEBGL):null};
                 });
-                const gpu=await app.evaluate(async({app})=>({status:app.getGPUFeatureStatus(),info:await app.getGPUInfo('basic'),sandboxDisabled:app.commandLine.hasSwitch('no-sandbox')}));
+                const gpu=await app.evaluate(async({app})=>({status:app.getGPUFeatureStatus(),info:await app.getGPUInfo('basic').catch(error=>String(error)),sandboxDisabled:app.commandLine.hasSwitch('no-sandbox')}));
                 console.log(JSON.stringify({backend,context,gpu}));
               } catch(error){ console.error('PROBE ERROR',backend,error); }
               finally {
