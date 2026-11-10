@@ -241,7 +241,9 @@ def _asset_groups(product: dict[str, Any]) -> tuple[list[dict[str, Any]], list[d
 
 
 def _attach_image_variant_info(
-    images: list[dict[str, Any]], variants: list[dict[str, Any]]
+    images: list[dict[str, Any]],
+    variants: list[dict[str, Any]],
+    source_variants: list[dict[str, Any]],
 ) -> None:
     variants_by_image: dict[str, list[dict[str, Any]]] = {}
     for variant in variants:
@@ -251,6 +253,16 @@ def _attach_image_variant_info(
 
     for image in images:
         matches = variants_by_image.get(str(image["source_url"]), [])
+        if not matches:
+            # Regional CDN URLs can differ for the same official part. The canonical
+            # image's exact source URL establishes its part before selecting local SKUs.
+            source_parts = {
+                variant["part_number"]
+                for variant in source_variants
+                if variant.get("image_url") == image["source_url"]
+                and variant.get("part_number")
+            }
+            matches = [v for v in variants if v.get("part_number") in source_parts]
         titles = list(dict.fromkeys(str(item["display_title"]) for item in matches))
         part_numbers = list(
             dict.fromkeys(
@@ -309,6 +321,7 @@ def product_detail(
             variant["display_title"] = _variant_display_title(
                 str(product["name"]), str(variant["title"])
             )
+        source_variants = product["variants"]
         if region != "global":
             product["offers"] = [
                 offer for offer in product["offers"] if offer["region"] == region
@@ -363,7 +376,7 @@ def product_detail(
         product["images"] = [
             display_by_parent.get(source["id"], source) for source in source_images
         ]
-        _attach_image_variant_info(product["images"], product["variants"])
+        _attach_image_variant_info(product["images"], product["variants"], source_variants)
         for source_table in product["source_tables"]:
             source_table["headers"] = json.loads(source_table.pop("headers_json"))
             source_table["rows"] = json.loads(source_table.pop("rows_json"))

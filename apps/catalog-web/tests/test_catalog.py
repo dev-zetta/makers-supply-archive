@@ -7,7 +7,7 @@ from uuid import uuid4
 import httpx
 import pytest
 from makers_supply_web.app import create_app, human_datetime
-from makers_supply_web.catalog import SearchFilters, search_products
+from makers_supply_web.catalog import SearchFilters, product_detail, search_products
 from makers_supply_web.config import Settings
 from makers_supply_web.security import PASSWORDS, now
 from makers_supply_web.state import connect, migrate
@@ -427,3 +427,27 @@ async def test_global_region_switch_filters_catalog_and_product_commerce(
     assert "Standard Kit" in global_detail.text
     assert '<th scope="col">Region</th>' in global_detail.text
     assert invalid.status_code == 422
+
+
+def test_canonical_images_keep_regional_part_identifiers_with_different_cdn_urls(
+    tmp_path: Path,
+) -> None:
+    database = make_catalog(tmp_path)
+    with sqlite3.connect(database) as connection:
+        connection.execute(
+            "UPDATE variants SET image_url=? WHERE region='eu'",
+            ("https://eu.example.com/another-cdn/image.png",),
+        )
+    detail = product_detail(database, "ia005-power-board", region="eu")
+    assert detail is not None
+    image = detail["images"][0]
+    assert image["variant_part_number"] == "IA005"
+    assert image["variant_skus"] == "EU · EU-IA005"
+
+    # A similar URL or filename alone cannot establish a cross-region association.
+    with sqlite3.connect(database) as connection:
+        connection.execute("UPDATE variants SET part_number='IA999' WHERE region='eu'")
+    detail = product_detail(database, "ia005-power-board", region="eu")
+    assert detail is not None
+    assert detail["images"][0]["variant_part_number"] == "Not variant-specific"
+    assert detail["images"][0]["variant_skus"] == "Not variant-specific"
