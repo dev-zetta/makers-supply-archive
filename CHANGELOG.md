@@ -16,7 +16,7 @@ history; those commits were consolidated into the `v1.0.0` release commit.
 - Stabilized tombstone counters and excluded unlisted or unavailable offers from current totals.
 - Included web unit tests in CI and gated draft assembly on full validation, fresh
   snapshot acceptance, and packaged-app tests on four desktop targets.
-- Updated Electron within the 44.x series to resolve known runtime security advisories.
+- Pinned a current supported Electron maintenance release with Intel software-graphics compatibility.
 - Fixed the 3D viewer's unavailable-WebGL loading state and added a download alternative.
 - Preserved regional gallery identifiers when official variant images use different CDN URLs.
 

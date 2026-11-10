@@ -46,6 +46,9 @@ Screenshots and platform receipts are included in `platform-evidence.tar.gz`.
 The GPU-less Linux and Intel macOS CI runners use Chromium's explicit SwANGLE graphics driver.
 The smoke test keeps renderer/GPU sandboxes enabled and rejects unsafe fallback flags;
 this is functional graphics validation, not a hardware performance benchmark.
+Electron 43.8.7 is pinned because the required Intel runner can initialize its
+software renderer; the tested 44/45 runtimes could not. Track its maintenance window
+in the [Electron support schedule](https://releases.electronjs.org/schedule).
 
 `reports/release-validation.json` must record a successful unchanged repeat of a fresh
 complete eight-region binary sync and full blob validation for the exact snapshot,
