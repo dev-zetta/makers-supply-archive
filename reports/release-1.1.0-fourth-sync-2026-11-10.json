@@ -1,0 +1,208 @@
+{
+  "asset_records_unchanged": true,
+  "canonical_fields_changed": {
+    "last_seen": 147,
+    "offers": 9,
+    "variants": 10
+  },
+  "database_reproducible": true,
+  "database_sha256": "c2aad614c6dc4148fa4b24ce2a59dd821f0f90438705fdc44fea1539d86033b2",
+  "fourth_sync": {
+    "has_changes": true,
+    "manifest": {
+      "assets_downloaded": 0,
+      "assets_rejected": 1,
+      "bytes_downloaded": 0,
+      "completed_at": "2026-11-10T15:01:50Z",
+      "metadata_only": false,
+      "products_written": 377,
+      "regions": [
+        {
+          "error": null,
+          "products_seen": 363,
+          "region": "us",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 363,
+          "region": "eu",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 361,
+          "region": "uk",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 362,
+          "region": "ca",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 338,
+          "region": "au",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 1,
+          "region": "jp",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 0,
+          "region": "kr",
+          "success": true
+        },
+        {
+          "error": null,
+          "products_seen": 345,
+          "region": "asia",
+          "success": true
+        }
+      ],
+      "schema_version": 1,
+      "started_at": "2026-11-10T14:27:25Z"
+    },
+    "options": {
+      "dry_run": false,
+      "max_products": null,
+      "metadata_only": false,
+      "regions": [
+        "asia",
+        "au",
+        "ca",
+        "eu",
+        "jp",
+        "kr",
+        "uk",
+        "us"
+      ]
+    },
+    "promoted": true,
+    "snapshot_id": "cf49b2f6914250ff5c0bb8370fad7df5638d1e2759cb610c3985e59d1da364f0"
+  },
+  "full_blob_validation": true,
+  "reviewed_variant_changes": [
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "ca001-round-magnet",
+      "region": "eu",
+      "variant_id": "48741472698716"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy002-halloween-classic-carved-pumpkin-lantern",
+      "region": "eu",
+      "variant_id": "49349028348252"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy003-monster-tree-light",
+      "region": "eu",
+      "variant_id": "49319077445980"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy005-halloween-skull-tear-pumpkin-lantern",
+      "region": "eu",
+      "variant_id": "49349028774236"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy006-halloween-ghost-night-light",
+      "region": "eu",
+      "variant_id": "49349029036380"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy008-halloween-cute-creepy-candle-holder",
+      "region": "eu",
+      "variant_id": "49389774766428"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy009-halloween-ghost",
+      "region": "eu",
+      "variant_id": "49389774897500"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy010-halloween-ghost-light",
+      "region": "eu",
+      "variant_id": "49410513437020"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy014-jack-skellington-oogie-boogie-pumpkin-theelight",
+      "region": "eu",
+      "variant_id": "49450972545372"
+    },
+    {
+      "fields": {
+        "available": {
+          "after": false,
+          "before": true
+        }
+      },
+      "product": "dy015-reading-ghost-halloween-tea-light-decor",
+      "region": "eu",
+      "variant_id": "49450972676444"
+    }
+  ],
+  "schema_version": 1,
+  "snapshot_id": "cf49b2f6914250ff5c0bb8370fad7df5638d1e2759cb610c3985e59d1da364f0",
+  "unchanged_repeat": false,
+  "verified_at": "2026-11-10T15:07:01.761413+00:00",
+  "version": "1.1.0"
+}

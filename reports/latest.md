@@ -6,9 +6,16 @@ None.
 
 ## Changed products
 
-- ptfe-tubes
-- zl013-relic-rush-board-game
-- zl037-cyberbrick-4wd-car
+- ca001-round-magnet
+- dy002-halloween-classic-carved-pumpkin-lantern
+- dy003-monster-tree-light
+- dy005-halloween-skull-tear-pumpkin-lantern
+- dy006-halloween-ghost-night-light
+- dy008-halloween-cute-creepy-candle-holder
+- dy009-halloween-ghost
+- dy010-halloween-ghost-light
+- dy014-jack-skellington-oogie-boogie-pumpkin-theelight
+- dy015-reading-ghost-halloween-tea-light-decor
 
 ## Removed products
 
@@ -16,8 +23,15 @@ None.
 
 ## Regional offer changes
 
-- zl013-relic-rush-board-game
-- zl037-cyberbrick-4wd-car
+- dy002-halloween-classic-carved-pumpkin-lantern
+- dy003-monster-tree-light
+- dy005-halloween-skull-tear-pumpkin-lantern
+- dy006-halloween-ghost-night-light
+- dy008-halloween-cute-creepy-candle-holder
+- dy009-halloween-ghost
+- dy010-halloween-ghost-light
+- dy014-jack-skellington-oogie-boogie-pumpkin-theelight
+- dy015-reading-ghost-halloween-tea-light-decor
 
 ## Asset changes
 
