@@ -105,7 +105,7 @@ jobs:
           docker builder prune -f
           uv run python scripts/build-data-packs.py --revision "$GITHUB_SHA"
           cp dist/makers-supply.sqlite dist/data-packs/makers-supply.sqlite
-          if test -f reports/release-validation.json; then cp reports/release-validation.json dist/data-packs/; fi
+          uv run python -c "from pathlib import Path; import shutil; [shutil.copyfile(p, Path('dist/data-packs') / p.name) for p in Path('reports').glob('release-*.json')]"
           uv run python -c "from pathlib import Path; from makers_supply.release import write_checksums; write_checksums(Path('dist/data-packs'))"
       - name: Upload shared data
         if: inputs.build_data_packs
