@@ -75,14 +75,21 @@ def discover_products(
         ).json()
         if not isinstance(response, dict) or not isinstance(response.get("data"), dict):
             raise ValueError(f"catalog API error: {response!r}")
-        page = response["data"].get("productGlobalSearchVOIPage", {})
+        page = response["data"].get("productGlobalSearchVOIPage")
         if not isinstance(page, dict):
             raise ValueError(f"catalog API returned an invalid page: {page!r}")
-        batch = page.get("records") or []
-        if not isinstance(batch, list):
+        batch = page.get("records")
+        if not isinstance(batch, list) or not all(isinstance(item, dict) for item in batch):
             raise ValueError("catalog API returned a non-list records value")
-        records.extend(item for item in batch if isinstance(item, dict))
-        total = int(page.get("total", len(records)))
+        total_value = page.get("total")
+        if isinstance(total_value, bool) or not isinstance(total_value, (str, int)):
+            raise ValueError("catalog API returned a missing or invalid total")
+        if not re.fullmatch(r"\d+", str(total_value)):
+            raise ValueError("catalog API returned an invalid total")
+        total = int(total_value)
+        records.extend(batch)
+        if len(records) > total:
+            raise ValueError("catalog API returned more records than its total")
         if not batch and len(records) < total:
             raise ValueError(f"catalog API ended after {len(records)} of {total} products")
         current += 1

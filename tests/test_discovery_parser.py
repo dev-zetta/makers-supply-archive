@@ -1,6 +1,7 @@
 from pathlib import Path
 
 import httpx
+import pytest
 
 from makers_supply.config import STORES
 from makers_supply.discovery import discover_products, extract_series_id
@@ -227,3 +228,24 @@ def test_parse_product_page_finds_top_level_cad_and_pdf_downloads() -> None:
         "motor.pdf": AssetKind.DOCUMENT,
         "motor.zip": AssetKind.ARCHIVE,
     }
+
+
+@pytest.mark.parametrize(
+    "page",
+    [None, {}, {"records": []}, {"total": 0}, {"records": None, "total": 0},
+     {"records": [], "total": -1}, {"records": [], "total": True},
+     {"records": [None], "total": 1}, {"records": [{}], "total": 0}],
+)
+def test_incomplete_catalog_api_responses_are_not_successful_empty_scans(
+    page: object,
+) -> None:
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/robots.txt":
+            return httpx.Response(200, text="User-agent: *\nAllow: /")
+        if request.url.path == "/collections/makers-supply":
+            return httpx.Response(200, text=(FIXTURES / "collection.html").read_text())
+        return httpx.Response(200, json={"data": {"productGlobalSearchVOIPage": page}})
+
+    with ArchiveHttpClient(delay=0, transport=httpx.MockTransport(handler)) as client:
+        with pytest.raises(ValueError, match="catalog API"):
+            discover_products(client, STORES[Region.US])
