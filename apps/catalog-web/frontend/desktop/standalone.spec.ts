@@ -43,6 +43,18 @@ test("delivered offline app preserves lists, previews models, exports, and stops
     app.on("console", (message) => console.log(`[electron] ${message.text()}`));
     child.stdout?.on("data", (chunk) => process.stdout.write(chunk));
     child.stderr?.on("data", (chunk) => process.stderr.write(chunk));
+    // Exercise navigation while the initial deferred bundle is still loading.
+    await app.evaluate(({ session }) => {
+      let delayed = false;
+      session.defaultSession.webRequest.onBeforeRequest((
+        details: { url: string }, callback: (response: { cancel?: boolean }) => void,
+      ) => {
+        if (!delayed && new URL(details.url).pathname === "/static/viewer.js") {
+          delayed = true;
+          setTimeout(() => callback({}), 2_000);
+        } else callback({});
+      });
+    });
     console.log("Electron launched; waiting for catalog window");
     // The installed catalog is fully hashed before the window opens.
     const page = await app.firstWindow({ timeout: 120_000 });

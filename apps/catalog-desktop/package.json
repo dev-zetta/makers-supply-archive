@@ -5,7 +5,7 @@
   "description": "Native desktop shell for the Maker's Supply Catalog",
   "main": "main.cjs",
   "scripts": {
-    "check": "node --check main.cjs"
+    "check": "node --check main.cjs && node tests/startup.test.cjs"
   },
   "devDependencies": {
     "electron": "43.8.7",

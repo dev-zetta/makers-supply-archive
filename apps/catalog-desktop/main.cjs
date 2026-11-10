@@ -76,6 +76,16 @@ function openExternalLinks(window, localOrigin) {
   })
 }
 
+async function loadInitialPage(window, url) {
+  try {
+    await window.loadURL(url)
+  } catch (error) {
+    // The window can be used before every initial resource finishes loading.
+    // A local link can therefore cancel this first navigation without a startup failure.
+    if (error?.code !== 'ERR_ABORTED' || window.isDestroyed()) throw error
+  }
+}
+
 async function startApplication() {
   const port = await reservePort()
   const url = `http://127.0.0.1:${port}`
@@ -126,7 +136,7 @@ async function startApplication() {
     mainWindow = null
     app.quit()
   })
-  await mainWindow.loadURL(url)
+  await loadInitialPage(mainWindow, url)
   started = true
 }
 
@@ -141,7 +151,8 @@ if (!singleInstance) {
     }
   })
   app.whenReady().then(startApplication).catch(error => {
-    dialog.showErrorBox("Maker's Supply Catalog could not start", String(error))
+    console.error('[catalog startup]', error)
+    if (!quitting) dialog.showErrorBox("Maker's Supply Catalog could not start", String(error))
     app.quit()
   })
 }
