@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: "22.18.0"
       - run: |
-          npm --prefix apps/catalog-desktop ci
+          npm --prefix apps/catalog-desktop install --save-dev --save-exact electron@43.8.7
           npm --prefix apps/catalog-web/frontend ci
           node apps/catalog-desktop/node_modules/electron/install.js
       - name: Probe sandboxed renderer backends
@@ -35,7 +35,7 @@ jobs:
           const path=require('node:path');
           const fs=require('node:fs');
           (async()=>{
-            for (const backend of ['swiftshader-vulkan','swiftshader-no-vulkan-feature','swiftshader-webgl']) {
+            for (const backend of ['default','metal','gl','swiftshader']) {
               let app, child;
               try {
                 const flags=backend==='default'?[]:['--use-gl=angle','--use-angle='+backend.replace('-no-vulkan-feature','').replace('-vulkan','')];
