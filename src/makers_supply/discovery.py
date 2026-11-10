@@ -80,7 +80,7 @@ def discover_products(
             raise ValueError(f"catalog API returned an invalid page: {page!r}")
         batch = page.get("records")
         if not isinstance(batch, list) or not all(isinstance(item, dict) for item in batch):
-            raise ValueError("catalog API returned a non-list records value")
+            raise ValueError("catalog API returned an invalid records list")
         total_value = page.get("total")
         if isinstance(total_value, bool) or not isinstance(total_value, (str, int)):
             raise ValueError("catalog API returned a missing or invalid total")

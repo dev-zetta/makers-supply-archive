@@ -246,6 +246,8 @@ def test_incomplete_catalog_api_responses_are_not_successful_empty_scans(
             return httpx.Response(200, text=(FIXTURES / "collection.html").read_text())
         return httpx.Response(200, json={"data": {"productGlobalSearchVOIPage": page}})
 
-    with ArchiveHttpClient(delay=0, transport=httpx.MockTransport(handler)) as client:
-        with pytest.raises(ValueError, match="catalog API"):
-            discover_products(client, STORES[Region.US])
+    with (
+        ArchiveHttpClient(delay=0, transport=httpx.MockTransport(handler)) as client,
+        pytest.raises(ValueError, match="catalog API"),
+    ):
+        discover_products(client, STORES[Region.US])
