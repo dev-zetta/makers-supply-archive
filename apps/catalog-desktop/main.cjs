@@ -6,6 +6,12 @@ const path = require('node:path')
 let backend = null
 let mainWindow = null
 let quitting = false
+let backendError = ''
+let started = false
+
+if (process.env.MAKERS_SUPPLY_DESKTOP_STATE) {
+  app.setPath('userData', path.resolve(process.env.MAKERS_SUPPLY_DESKTOP_STATE))
+}
 
 function dataDirectory() {
   if (process.env.MAKERS_SUPPLY_DESKTOP_DATA) {
@@ -40,7 +46,7 @@ function reservePort() {
 async function waitForBackend(url) {
   for (let attempt = 0; attempt < 150; attempt += 1) {
     if (backend?.exitCode !== null) {
-      throw new Error(`Catalog service exited with code ${backend.exitCode}`)
+      throw new Error(`Catalog service exited with code ${backend.exitCode}.\n${backendError}`)
     }
     try {
       const response = await fetch(`${url}/healthz`)
@@ -86,9 +92,12 @@ async function startApplication() {
     backend.once('error', reject)
   })
   backend.stdout.on('data', chunk => console.log(`[catalog] ${chunk.toString().trimEnd()}`))
-  backend.stderr.on('data', chunk => console.error(`[catalog] ${chunk.toString().trimEnd()}`))
+  backend.stderr.on('data', chunk => {
+    backendError = (backendError + chunk.toString()).slice(-8192)
+    console.error(`[catalog] ${chunk.toString().trimEnd()}`)
+  })
   backend.once('exit', code => {
-    if (!quitting) {
+    if (!quitting && started) {
       dialog.showErrorBox('Maker\'s Supply Catalog stopped', `The local service exited (${code}).`)
       app.quit()
     }
@@ -118,6 +127,7 @@ async function startApplication() {
     app.quit()
   })
   await mainWindow.loadURL(url)
+  started = true
 }
 
 const singleInstance = app.requestSingleInstanceLock()

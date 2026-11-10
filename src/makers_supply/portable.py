@@ -37,6 +37,42 @@ class PortableCatalog:
     file_count: int
 
 
+@dataclass(frozen=True)
+class PortableFile:
+    source: Path
+    relative: Path
+    product_id: str
+    asset: Asset
+
+
+def portable_files(catalog: Catalog) -> list[PortableFile]:
+    files = []
+    for product in catalog.products():
+        paths = _portable_asset_paths(product.assets)
+        for asset in product.assets:
+            if not asset.blob_path:
+                continue
+            source = (catalog.root / asset.blob_path).resolve()
+            if not source.is_relative_to(catalog.root.resolve()) or not source.is_file():
+                raise FileNotFoundError(f"asset source is unavailable: {asset.blob_path}")
+            if asset.size is not None and source.stat().st_size != asset.size:
+                raise ValueError(f"asset source has the wrong size: {asset.blob_path}")
+            relative = Path("assets") / product.id / paths[asset.id]
+            if relative.is_absolute() or ".." in relative.parts:
+                raise UnsafeAssetError(f"portable asset path escapes output: {relative}")
+            files.append(PortableFile(source, relative, product.id, asset))
+    return sorted(files, key=lambda item: item.relative.as_posix())
+
+
+def build_portable_database(catalog: Catalog, database: Path, files: list[PortableFile]) -> None:
+    build_database(catalog, database)
+    with sqlite3.connect(database) as connection, connection:
+        connection.executemany(
+            "UPDATE assets SET blob_path = ? WHERE product_id = ? AND id = ?",
+            [(item.relative.as_posix(), item.product_id, item.asset.id) for item in files],
+        )
+
+
 def _safe_folder_name(value: str) -> str:
     value = re.sub(r'[<>:"/\\|?*\x00-\x1f]', "_", value).strip(" .")
     value = value[:80].rstrip(" .") or "Related file"
@@ -99,37 +135,20 @@ def build_portable_catalog(catalog: Catalog, output: Path) -> PortableCatalog:
     output.mkdir(parents=True, exist_ok=True)
     database = output / "catalog.sqlite"
     assets_root = output / "assets"
-    build_database(catalog, database)
+    files = portable_files(catalog)
+    build_portable_database(catalog, database, files)
 
-    updates: list[tuple[str, str, str]] = []
     file_count = 0
-    for product in catalog.products():
-        portable_paths = _portable_asset_paths(product.assets)
-        for asset in product.assets:
-            if not asset.blob_path:
-                continue
-            source = (catalog.root / asset.blob_path).resolve()
-            if not source.is_relative_to(catalog.root.resolve()) or not source.is_file():
-                raise FileNotFoundError(f"asset source is unavailable: {asset.blob_path}")
-            if asset.size is not None and source.stat().st_size != asset.size:
-                raise ValueError(f"asset source has the wrong size: {asset.blob_path}")
-
-            relative = Path("assets") / product.id / portable_paths[asset.id]
-            target = (output / relative).resolve()
-            if not target.is_relative_to(output):
-                raise UnsafeAssetError(f"portable asset path escapes output: {relative}")
-            target.parent.mkdir(parents=True, exist_ok=True)
-            if target.exists():
-                raise FileExistsError(f"portable asset path collision: {relative}")
-            shutil.copyfile(source, target)
-            os.utime(target, (0, 0))
-            file_count += 1
-            updates.append((relative.as_posix(), product.id, asset.id))
-
-    with sqlite3.connect(database) as connection, connection:
-        connection.executemany(
-            "UPDATE assets SET blob_path = ? WHERE product_id = ? AND id = ?", updates
-        )
+    for item in files:
+        target = (output / item.relative).resolve()
+        if not target.is_relative_to(output):
+            raise UnsafeAssetError(f"portable asset path escapes output: {item.relative}")
+        target.parent.mkdir(parents=True, exist_ok=True)
+        if target.exists():
+            raise FileExistsError(f"portable asset path collision: {item.relative}")
+        shutil.copyfile(item.source, target)
+        os.utime(target, (0, 0))
+        file_count += 1
 
     atomic_write(
         assets_root / "README.txt",

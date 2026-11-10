@@ -4,6 +4,20 @@ This project uses Semantic Versioning beginning with `v1.0.0`. Development befor
 the first versioned release is summarized below by day from the original commit
 history; those commits were consolidated into the `v1.0.0` release commit.
 
+## v1.1.0 - Unreleased
+
+- Added the login-free Electron desktop catalog and named portable asset layout.
+- Added shared offline ZIP data packs, size caps, SHA-256 manifests, and installation
+  diagnostics, retaining the bundled build mode.
+- Fixed scoped synchronization losing unscanned regions and canonical content;
+  limited scans no longer advance removal counters.
+- Scoped resume caches to matching interrupted runs while retaining pages for backfill.
+- Fixed Unicode and quoted/control-character list names in CSV/JSON downloads.
+- Stabilized tombstone counters and excluded unlisted or unavailable offers from current totals.
+- Included web unit tests in CI and gated draft assembly on full validation, fresh
+  snapshot acceptance, and packaged-app tests on four desktop targets.
+- Updated Electron within the 44.x series to resolve known runtime security advisories.
+
 ## v1.0.0 - 2026-08-26
 
 ### 2026-08-23 — Archive foundation

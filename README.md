@@ -35,8 +35,10 @@ uv run makers-supply materialize ia005-power-distribution-board --output ./expor
 ```
 
 Run `uv run makers-supply --help` for all options. Synchronization occurs in
-`.staging/`; validated results are promoted atomically. `--resume` preserves partial
-downloads, `--dry-run` leaves tracked data unchanged, and `--max-products` is useful
+`.staging/`; validated results are promoted after validation. `--resume` preserves partial
+downloads and verified pages from a matching interrupted run; completed runs start
+fresh scans. Cached pages remain available for backfill. `--dry-run` leaves tracked
+data unchanged, and `--max-products` is useful
 for live smoke tests.
 
 `backfill-assets` audits official pages retained in `.staging/pages` for CAD archives,
@@ -127,6 +129,15 @@ uv run --package makers-supply-web --extra standalone \
   python scripts/build-standalone.py
 ```
 
+Official downloads contain one platform app plus shared ZIP data packs. Extract the
+app and **every** data pack from the same release into one directory. Every pack is
+at most 1,800,000,000 bytes. See [RELEASE.md](RELEASE.md) for checksums, platform support,
+unsigned-build prompts, installation, upgrades, and release acceptance.
+
+The default local build remains bundled. Use `--layout split` to build only the app,
+and `uv run python scripts/build-data-packs.py --revision "$(git rev-parse HEAD)"`
+to generate shared data. No Python or other development tools are needed by end users.
+
 The result is written to `dist/standalone/makers-supply-catalog-<platform>-<arch>` and
 also packaged as `.zip` on Windows or `.tar.gz` on macOS/Linux. The Electron shell
 opens the catalog in its own application window and manages its loopback-only Python
@@ -199,10 +210,15 @@ rejected rather than reinterpreted.
 
 ## Automation
 
-The test workflow runs the unit suite, linting, type checks, catalog validation, and
-LFS preflight. Every Sunday at 04:17 UTC, the sync workflow proposes changes on
-`automation/catalog-sync`; it never auto-merges. Merges that change product JSON create
-a dated release containing SQLite and its checksum.
+The reusable test workflow runs both Python suites, browser tests, linting, type checks,
+full catalog validation, LFS preflight, and container startup/backup/restore checks.
+The candidate workflow builds and tests four app targets against one shared snapshot
+and creates an unpublished draft with checksums and evidence only after all checks pass.
+It never publishes automatically. Every Sunday at 04:17 UTC, the sync workflow proposes
+changes on `automation/catalog-sync`; it never auto-merges.
+
+The archive retains third-party rights notices; the public mirror distribution policy
+is recorded in [RELEASE.md](RELEASE.md).
 
 See [CHANGELOG.md](CHANGELOG.md) for release history, [NOTICE.md](NOTICE.md) for
 attribution, third-party rights, and takedown handling, and
@@ -213,7 +229,8 @@ attribution, third-party rights, and takedown handling, and
 ```bash
 uv sync --all-packages --extra dev
 uv run makers-supply --help
-uv run pytest
+uv run pytest tests
+uv run pytest apps/catalog-web/tests
 uv run ruff check .
 uv run mypy
 ```

@@ -10,7 +10,12 @@ from urllib.robotparser import RobotFileParser
 
 import httpx
 
-USER_AGENT = "makers-supply-archive/0.1 (+https://github.com/makers-supply-archive)"
+from makers_supply import __version__
+
+USER_AGENT = (
+    f"makers-supply-archive/{__version__} "
+    "(+https://github.com/dev-zetta/makers-supply-archive)"
+)
 
 
 class RobotsDeniedError(RuntimeError):

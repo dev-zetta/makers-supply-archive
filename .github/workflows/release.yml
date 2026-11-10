@@ -1,35 +1,61 @@
-name: Publish catalog database
+name: Prepare unpublished release candidate
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "data/products/**"
-      - "src/makers_supply/database.py"
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Version matching all package metadata (without v)
+        type: string
+        default: "1.1.0"
+        required: true
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: release-candidate-${{ inputs.version }}
+  cancel-in-progress: false
 
 jobs:
-  release:
-    runs-on: ubuntu-latest
+  tested:
+    uses: ./.github/workflows/standalone.yml
+    with:
+      release_candidate: true
+  draft:
+    needs: tested
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+      actions: read
     steps:
       - uses: actions/checkout@v4
         with:
-          lfs: true
+          ref: ${{ github.sha }}
+          lfs: false
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Build SQLite database
+      - name: Install project
         run: |
-          python -m pip install uv
-          uv sync --all-packages
-          uv run makers-supply build-db
-          sha256sum dist/makers-supply.sqlite > dist/makers-supply.sqlite.sha256
-      - name: Publish dated release
+          python -m pip install uv==0.8.14
+          uv sync --frozen --all-packages
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: catalog-data
+          path: dist/release
+          merge-multiple: true
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: app-*
+          path: dist/release
+          merge-multiple: true
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: evidence-*
+          path: dist/evidence
+      - name: Create checked draft (never publishes)
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          tag="catalog-$(date -u +%Y-%m-%d)-${GITHUB_SHA::7}"
-          gh release create "$tag" dist/makers-supply.sqlite dist/makers-supply.sqlite.sha256 \
-            --title "$tag" --generate-notes
+          RELEASE_VERSION: ${{ inputs.version }}
+          RELEASE_RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: uv run python scripts/prepare-draft.py --directory dist/release --evidence dist/evidence

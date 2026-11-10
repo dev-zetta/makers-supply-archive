@@ -3,24 +3,46 @@ name: Test
 on:
   push:
   pull_request:
+  workflow_call:
+    inputs:
+      build_data_packs:
+        type: boolean
+        default: false
+      require_release_evidence:
+        type: boolean
+        default: false
 
 permissions:
   contents: read
 
 jobs:
-  test:
-    runs-on: ubuntu-latest
+  validate:
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
         with:
-          lfs: true
+          ref: ${{ github.sha }}
+          lfs: false
+      - uses: actions/cache/restore@v4
+        id: lfs
+        with:
+          path: .git/lfs
+          key: lfs-${{ hashFiles('data/products/*.json') }}
+          restore-keys: lfs-
+      - name: Fetch and materialize archive
+        run: git lfs pull
+      - uses: actions/cache/save@v4
+        if: steps.lfs.outputs.cache-hit != 'true'
+        with:
+          path: .git/lfs
+          key: ${{ steps.lfs.outputs.cache-primary-key }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install uv
-        run: python -m pip install uv
-      - name: Install dependencies
-        run: uv sync --all-packages --extra dev
+      - name: Install locked Python dependencies
+        run: |
+          python -m pip install uv==0.8.14
+          uv sync --frozen --all-packages --extra dev
       - uses: actions/setup-node@v4
         with:
           node-version: "22.18.0"
@@ -28,55 +50,74 @@ jobs:
           cache-dependency-path: |
             apps/catalog-web/frontend/package-lock.json
             apps/catalog-desktop/package-lock.json
-      - name: Install and build frontend
+      - name: Frontend build and types
         working-directory: apps/catalog-web/frontend
         run: |
           npm ci
+          npm audit --audit-level=high
           npm run build
           npm run typecheck
-      - name: Check desktop shell
+          git diff --exit-code -- ../src/makers_supply_web/static
+      - name: Desktop syntax and dependency check
         working-directory: apps/catalog-desktop
         run: |
           npm ci --ignore-scripts
           npm run check
-      - name: Test
-        run: uv run pytest
-      - name: Check localhost launcher
+          npm audit --audit-level=high
+      - name: Archive tests
+        run: uv run pytest tests
+      - name: Web unit tests
+        run: uv run pytest apps/catalog-web/tests
+      - name: Lint, types, and launcher checks
         run: |
-          bash -n setup.sh
-          ./setup.sh --help >/dev/null
-          bash -n scripts/run-catalog-web.sh
-          ./scripts/run-catalog-web.sh --help >/dev/null
-          uv run python scripts/build-standalone.py --help >/dev/null
-      - name: Lint
-        run: uv run ruff check .
-      - name: Type check
-        run: |
+          uv run ruff check .
           uv run mypy
           uv run mypy --strict apps/catalog-web/src
-      - name: Validate archive
-        run: uv run makers-supply validate
-      - name: Check LFS budgets
-        run: uv run makers-supply lfs-preflight
-      - name: Browser test setup
-        env:
-          MAKERS_SUPPLY_ROOT: ${{ github.workspace }}
-          MAKERS_SUPPLY_CATALOG_DB: /tmp/makers-supply-e2e.sqlite
-          MAKERS_SUPPLY_STATE_DB: /tmp/makers-supply-e2e-state.sqlite
-          MAKERS_SUPPLY_SECRET_KEY: e2e-only-secret
-          MAKERS_SUPPLY_SECURE_COOKIES: "0"
+          bash -n setup.sh scripts/run-catalog-web.sh
+          ./setup.sh --help >/dev/null
+          ./scripts/run-catalog-web.sh --help >/dev/null
+          uv run python scripts/build-standalone.py --help >/dev/null
+          uv run python scripts/build-data-packs.py --help >/dev/null
+      - name: Full snapshot validation
         run: |
-          uv run makers-supply build-db --output "$MAKERS_SUPPLY_CATALOG_DB"
-          printf '%s\n' 'e2e secure password' | uv run makers-supply-web create-admin e2e-admin --password-stdin
-          uv run makers-supply-web serve --host 127.0.0.1 --port 8000 &
-          echo $! > /tmp/makers-supply-e2e.pid
-          for attempt in {1..30}; do curl -fsS http://127.0.0.1:8000/healthz && break; sleep 1; done
+          uv run makers-supply validate
+          uv run makers-supply lfs-preflight
+          uv run makers-supply build-db
       - name: Browser tests
-        working-directory: apps/catalog-web/frontend
-        env:
-          E2E_PASSWORD: e2e secure password
         run: |
+          cd apps/catalog-web/frontend
           npx playwright install --with-deps chromium
-          npm run test:e2e
-      - name: Build deployment image
-        run: docker build -f apps/catalog-web/Dockerfile .
+          cd ../../..
+          uv run python scripts/check-web.py
+      - name: Container startup and backup/restore
+        run: uv run python scripts/check-container.py
+      - name: Verify release acceptance
+        if: inputs.require_release_evidence
+        run: uv run python scripts/release-acceptance.py --check
+      - name: Build shared data packs once
+        if: inputs.build_data_packs
+        run: |
+          # Keep validated working files; free the duplicate local LFS cache on this disposable runner.
+          python -c "import shutil; shutil.rmtree('.git/lfs/objects', ignore_errors=True)"
+          docker builder prune -f
+          uv run python scripts/build-data-packs.py --revision "$GITHUB_SHA"
+          cp dist/makers-supply.sqlite dist/data-packs/makers-supply.sqlite
+          if test -f reports/release-validation.json; then cp reports/release-validation.json dist/data-packs/; fi
+          uv run python -c "from pathlib import Path; from makers_supply.release import write_checksums; write_checksums(Path('dist/data-packs'))"
+      - name: Upload shared data
+        if: inputs.build_data_packs
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-data
+          path: dist/data-packs/
+          compression-level: 0
+          retention-days: 3
+          if-no-files-found: error
+      - name: Upload browser evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: web-validation-evidence
+          path: apps/catalog-web/frontend/test-results/
+          retention-days: 3
+          if-no-files-found: ignore

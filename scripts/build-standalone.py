@@ -11,7 +11,9 @@ import sys
 import tempfile
 from pathlib import Path
 
+from makers_supply import __version__
 from makers_supply.portable import build_portable_catalog
+from makers_supply.release import INSTALLATION, write_bundled_manifest, write_checksums
 from makers_supply.storage import Catalog, atomic_write
 
 
@@ -66,9 +68,7 @@ def build_electron_shell(project_root: Path, workspace: Path, backend: Path) -> 
     if sys.platform == "win32":
         builder = builder.with_suffix(".cmd")
     if not builder.is_file():
-        raise FileNotFoundError(
-            f"Electron dependencies are missing; run npm ci in {desktop}"
-        )
+        raise FileNotFoundError(f"Electron dependencies are missing; run npm ci in {desktop}")
 
     electron_output = workspace / "electron-dist"
     config = workspace / "electron-builder.json"
@@ -118,14 +118,21 @@ def main() -> None:
     parser.add_argument("--root", type=Path, default=project_root)
     parser.add_argument("--output", type=Path, default=Path("dist/standalone"))
     parser.add_argument("--no-archive", action="store_true")
+    parser.add_argument("--layout", choices=("bundled", "split"), default="bundled")
+    parser.add_argument("--revision", default=None)
     args = parser.parse_args()
+    revision = (
+        args.revision
+        or subprocess.check_output(
+            ["git", "-C", str(project_root), "rev-parse", "HEAD"], text=True
+        ).strip()
+    )
 
     try:
         import PyInstaller.__main__
     except ImportError as error:
         parser.error(
-            "PyInstaller is not installed; run with --package makers-supply-web "
-            "--extra standalone"
+            "PyInstaller is not installed; run with --package makers-supply-web --extra standalone"
         )
         raise AssertionError from error
 
@@ -138,7 +145,11 @@ def main() -> None:
 
     with tempfile.TemporaryDirectory(prefix="makers-supply-build-", dir=output) as temporary:
         workspace = Path(temporary)
-        portable = build_portable_catalog(Catalog(root), workspace / "portable")
+        portable = (
+            build_portable_catalog(Catalog(root), workspace / "portable")
+            if args.layout == "bundled"
+            else None
+        )
         pyinstaller_dist = workspace / "pyinstaller-dist"
         PyInstaller.__main__.run(
             [
@@ -167,10 +178,27 @@ def main() -> None:
         clear_linux_executable_stacks(backend)
         electron_app = build_electron_shell(project_root, workspace, backend)
         shutil.move(electron_app, destination)
-        shutil.move(portable.database, destination / "catalog.sqlite")
-        shutil.move(portable.assets, destination / "assets")
+        if portable:
+            shutil.move(portable.database, destination / "catalog.sqlite")
+            shutil.move(portable.assets, destination / "assets")
+            write_bundled_manifest(Catalog(root), destination, revision=revision)
         for filename in ("LICENSE", "NOTICE.md"):
             shutil.copyfile(project_root / filename, destination / filename)
+        atomic_write(destination / "INSTALL.txt", INSTALLATION)
+        atomic_write(
+            destination / "app-build.json",
+            json.dumps(
+                {
+                    "version": __version__,
+                    "revision": revision,
+                    "platform": platform_tag(),
+                    "layout": args.layout,
+                },
+                sort_keys=True,
+                indent=2,
+            )
+            + "\n",
+        )
         atomic_write(
             destination / "README.txt",
             "Maker's Supply Catalog — standalone desktop app\n"
@@ -191,13 +219,18 @@ def main() -> None:
         archive_format = "zip" if sys.platform == "win32" else "gztar"
         archive = Path(
             shutil.make_archive(
-                str(destination), archive_format, destination.parent, destination.name
+                str(output / f"makers-supply-catalog-{__version__}-{platform_tag()}"),
+                archive_format,
+                destination if args.layout == "split" else destination.parent,
+                "." if args.layout == "split" else destination.name,
             )
         )
     print(f"built {destination}")
-    print(f"materialized {portable.file_count} named asset files")
+    if portable:
+        print(f"materialized {portable.file_count} named asset files")
     if archive:
         print(f"archive {archive}")
+    write_checksums(output)
 
 
 if __name__ == "__main__":

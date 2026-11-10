@@ -9,6 +9,7 @@ from pathlib import Path
 
 import uvicorn
 
+from makers_supply.release import verify_installed_catalog
 from makers_supply_web.app import create_app
 from makers_supply_web.config import Settings
 
@@ -55,6 +56,10 @@ def main() -> None:
     assets = data_dir / "assets"
     if not database.is_file() or not assets.is_dir():
         parser.error(f"catalog.sqlite and assets/ were not found beside the app: {data_dir}")
+    try:
+        verify_installed_catalog(data_dir)
+    except ValueError as error:
+        parser.error(str(error))
 
     state = args.state_dir.resolve()
     settings = Settings(

@@ -71,6 +71,12 @@ secure cookies. State migrations are forward-only and run automatically at start
 
 ## Portable standalone build
 
+Official downloads use a platform app plus shared ZIP data packs. Extract the app and
+all packs from the same release into one directory. New bundles include
+`catalog-manifest.json`; startup checks identify missing or mismatched data. See
+[the release guide](../../RELEASE.md) for installation, checksums, unsigned-build
+prompts, and acceptance. Local builds remain bundled unless `--layout split` is used.
+
 From the repository root, with all Git LFS objects present, build a native portable
 app for the current Windows, macOS, or Linux machine:
 

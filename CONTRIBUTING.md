@@ -5,7 +5,8 @@ dependencies. Then use:
 
 ```bash
 uv sync --all-packages --extra dev
-uv run pytest
+uv run pytest tests
+uv run pytest apps/catalog-web/tests
 uv run ruff check .
 uv run mypy
 uv run makers-supply validate

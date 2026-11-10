@@ -1,3 +1,6 @@
+> Historical implementation plan. Current release acceptance and remaining external checks
+> are maintained in [RELEASE.md](RELEASE.md). Initial-state assumptions below are historical.
+
 # Maker’s Supply Archive
 
 ## Summary
