@@ -1,6 +1,8 @@
-# Maker's Supply Archive v1.1.0 candidate
+# Maker's Supply Archive v1.1.0
 
-This candidate adds the portable desktop catalog and shared offline data packs, fixes
+Published on 2026-11-13. [Download v1.1.0](https://github.com/dev-zetta/makers-supply-archive/releases/tag/v1.1.0).
+
+This release adds the portable desktop catalog and shared offline data packs, fixes
 region-filtered sync, scopes resume caches to interrupted runs, and repairs CSV/JSON
 exports for Unicode list names. The existing `v1.0.0` tag remains unchanged.
 Current totals now exclude unavailable lines and variants from unlisted regional offers;

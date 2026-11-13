@@ -1,0 +1,133 @@
+{
+  "acceptance_policy": "reviewed-live-changes",
+  "all_asset_digests_reverified_before_publication": true,
+  "all_asset_identities_sizes_and_digests_preserved": true,
+  "anonymous_release_page_and_downloads_verified": [
+    "SHA256SUMS.txt",
+    "INSTALL.txt"
+  ],
+  "assets": 21,
+  "assets_inventory": [
+    {
+      "digest": "sha256:915207b739c4d2a4cc8a15be5bc7ea7a1d385609000ffb34469e310892ca2dee",
+      "name": "INSTALL.txt",
+      "size": 1159
+    },
+    {
+      "digest": "sha256:6dde6072e7ec500278151272c6919c89473553ff0cee8f0eae304522730f4216",
+      "name": "makers-supply-catalog-1.1.0-linux-x86_64.tar.gz",
+      "size": 174322961
+    },
+    {
+      "digest": "sha256:ab13848b5a936198f7c5df61c6149ec70dde06e7199affce319d78bc140c0245",
+      "name": "makers-supply-catalog-1.1.0-macos-arm64.tar.gz",
+      "size": 146231320
+    },
+    {
+      "digest": "sha256:cc452a68b8aa8d3d777458d0872383e15c8c032c99a455ee4da91c527fe7b13e",
+      "name": "makers-supply-catalog-1.1.0-macos-x86_64.tar.gz",
+      "size": 151567168
+    },
+    {
+      "digest": "sha256:55db353c7ffd4873559c6c7c26ccc25fe1af845134ef306767fb62709ed6dc70",
+      "name": "makers-supply-catalog-1.1.0-windows-x86_64.zip",
+      "size": 179377735
+    },
+    {
+      "digest": "sha256:a341c1ddce1d60e7e46d2a427285a2019e96cbffb22b36897841411abbe92217",
+      "name": "makers-supply-data-1.1.0-001.zip",
+      "size": 1787787246
+    },
+    {
+      "digest": "sha256:cee63b34e7f612c29c9a0f4191a6a66f1f75471adfccfdc689be30e44d6e12bb",
+      "name": "makers-supply-data-1.1.0-002.zip",
+      "size": 1799357117
+    },
+    {
+      "digest": "sha256:d8bcf3aa845a5aa8d8c7d59c7bfacdb3c9d45f90754443e31a50b5d2d1e810f0",
+      "name": "makers-supply-data-1.1.0-003.zip",
+      "size": 1641898895
+    },
+    {
+      "digest": "sha256:df60f4a89174b2014a2f760244ff4ec787acc431ebeb19c02f08366188439e93",
+      "name": "makers-supply.sqlite",
+      "size": 16039936
+    },
+    {
+      "digest": "sha256:ab1ce44c559d55142fa0548919aa3cb02710f69f27fc377765e720c2fcc8f008",
+      "name": "platform-evidence.tar.gz",
+      "size": 1967113
+    },
+    {
+      "digest": "sha256:0026a18194d904f54c0efa73bd3cd471d931b16706b58870e48f29368cb1e0a9",
+      "name": "release-1.1.0-fifth-sync-2026-11-10.json",
+      "size": 3658
+    },
+    {
+      "digest": "sha256:773e5183aed8c1f6b950133d12b97e5c549261f14045174b793dbc6b0a21a635",
+      "name": "release-1.1.0-fourth-sync-2026-11-10.json",
+      "size": 4682
+    },
+    {
+      "digest": "sha256:c9b299bb46ca4a4eb7439f128971d0607a7536669a778f5fac981ab753d194ae",
+      "name": "release-1.1.0-graphics-2026-11-10.json",
+      "size": 2286
+    },
+    {
+      "digest": "sha256:ed90608862c19f5c3de21abd20f1d4864f2ce350293733402351588aa543f2ad",
+      "name": "release-1.1.0-refresh-2026-11-10.json",
+      "size": 2187
+    },
+    {
+      "digest": "sha256:d137d1e6a2a4e9bb0908f861ffa603d5cfb4f6237a2243c031e4cf810c0cdb47",
+      "name": "release-1.1.0-second-sync-2026-11-10.json",
+      "size": 2400
+    },
+    {
+      "digest": "sha256:599b005acbc41e82fadf781acf6b24cb0fe51e07985d7d1966375b69ac90797f",
+      "name": "release-1.1.0-third-sync-2026-11-10.json",
+      "size": 2312
+    },
+    {
+      "digest": "sha256:ac83a51af177e8655a673ed6be94b8201bef2910dbe7150858eeef923a1991ea",
+      "name": "RELEASE-EVIDENCE.json",
+      "size": 2859
+    },
+    {
+      "digest": "sha256:fcdac10455d6bad1e633b4eafe9f46124cd89c5cd88986896d8b4aa69692dec3",
+      "name": "release-manifest.json",
+      "size": 822
+    },
+    {
+      "digest": "sha256:bfdbee85694c38e596643dde8a17bb401a2e9106f322ab005deb01127853fb55",
+      "name": "RELEASE-NOTES.md",
+      "size": 6464
+    },
+    {
+      "digest": "sha256:aaa973266a3c4411c8b01a5f87afad93df4bdd79739ae4babcb833bd4a4a204e",
+      "name": "release-validation.json",
+      "size": 1902
+    },
+    {
+      "digest": "sha256:ef76c0cf08c79d742b7002442c77e856e47a09a5c4b99b2e0b7adab2f3f2a640",
+      "name": "SHA256SUMS.txt",
+      "size": 1995
+    }
+  ],
+  "candidate_validation_run": "https://github.com/dev-zetta/makers-supply-archive/actions/runs/42854741174",
+  "candidate_workflow_diagnostic": "All required validation and four native jobs passed. The final draft lookup assertion failed after upload; follow-up tooling fixed it and independently verified the full uploaded candidate.",
+  "draft": false,
+  "followup_source_ci": "https://github.com/dev-zetta/makers-supply-archive/actions/runs/42859906177",
+  "latest_stable": true,
+  "prerelease": false,
+  "published_at": "2026-11-13T08:49:13Z",
+  "published_at_europe_prague": "2026-11-13T09:49:13+01:00",
+  "release_id": 440638844,
+  "revision": "52dad3ce0ed37084c8e2ba5a1d4b584d696693c6",
+  "schema_version": 1,
+  "snapshot_id": "d5f8d10fb2aeab19aadc95b2d65ecc43ee009ceeb0beefd1e30f0af15db59cf3",
+  "tag": "v1.1.0",
+  "unchanged_repeat": false,
+  "url": "https://github.com/dev-zetta/makers-supply-archive/releases/tag/v1.1.0",
+  "v1_0_0_tag_object_preserved": "1fe96b28bc8381e64ebf41ac9a40673fc6936075"
+}

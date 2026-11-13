@@ -4,7 +4,7 @@ This project uses Semantic Versioning beginning with `v1.0.0`. Development befor
 the first versioned release is summarized below by day from the original commit
 history; those commits were consolidated into the `v1.0.0` release commit.
 
-## v1.1.0 - Unreleased
+## v1.1.0 - 2026-11-13
 
 - Added the login-free Electron desktop catalog and named portable asset layout.
 - Added shared offline ZIP data packs, size caps, SHA-256 manifests, and installation
