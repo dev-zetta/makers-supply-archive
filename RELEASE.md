@@ -1,6 +1,8 @@
 # Maker's Supply Archive v1.2.0
 
-Release date: 2026-11-14. Version 1.2.0 adds portable agent skills for Codex,
+Published on 2026-11-14. [Download v1.2.0](https://github.com/dev-zetta/makers-supply-archive/releases/tag/v1.2.0).
+
+Version 1.2.0 adds portable agent skills for Codex,
 Claude Code and other Agent Skills clients, plus project ZIP export and durable
 build tracking. Existing release tags and assets are preserved.
 
