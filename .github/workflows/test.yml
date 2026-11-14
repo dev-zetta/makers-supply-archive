@@ -67,6 +67,8 @@ jobs:
           npm audit --audit-level=high
       - name: Archive tests
         run: uv run pytest tests
+      - name: Package portable agent skills
+        run: uv run python scripts/build-agent-skills.py
       - name: Web unit tests
         run: uv run pytest apps/catalog-web/tests
       - name: Lint, types, and launcher checks

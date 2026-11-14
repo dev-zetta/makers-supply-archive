@@ -6,7 +6,7 @@ on:
       version:
         description: Version matching all package metadata (without v)
         type: string
-        default: "1.1.0"
+        default: "1.2.0"
         required: true
 
 permissions:
@@ -53,6 +53,8 @@ jobs:
         with:
           pattern: evidence-*
           path: dist/evidence
+      - name: Package portable agent skills
+        run: uv run python scripts/build-agent-skills.py --output dist/release
       - name: Create checked draft (never publishes)
         env:
           GH_TOKEN: ${{ github.token }}

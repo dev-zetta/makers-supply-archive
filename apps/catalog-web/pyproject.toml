@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "makers-supply-web"
-version = "1.1.0"
+version = "1.2.0"
 description = "Visual browser and parts-list manager for Maker's Supply Archive"
 requires-python = ">=3.12"
 dependencies = [

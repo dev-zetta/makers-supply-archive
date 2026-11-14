@@ -1,17 +1,25 @@
-# Maker's Supply Archive v1.1.0
+# Maker's Supply Archive v1.2.0
 
-Published on 2026-11-13. [Download v1.1.0](https://github.com/dev-zetta/makers-supply-archive/releases/tag/v1.1.0).
+Release date: 2026-11-14. Version 1.2.0 adds portable agent skills for Codex,
+Claude Code and other Agent Skills clients, plus project ZIP export and durable
+build tracking. Existing release tags and assets are preserved.
 
-This release adds the portable desktop catalog and shared offline data packs, fixes
-region-filtered sync, scopes resume caches to interrupted runs, and repairs CSV/JSON
-exports for Unicode list names. The existing `v1.0.0` tag remains unchanged.
-Current totals now exclude unavailable lines and variants from unlisted regional offers;
-saved historical totals retain their captured prices.
+The `makers-supply-cad.zip` asset contains offline JSON/SQLite lookup, verified CAD
+reference export, and runnable Extrudo/SolidCraft bearing-housing examples. Extract
+the complete skill folder into the agent's skill directory; see `skills/README.md`.
+Python 3.10+ is required for the helper; CAD runtimes are separate optional tools.
+Extrudo was exercised with its real kernel and web app; SolidCraft 0.41.0 was
+exercised through CLI, headless MCP and the actual native desktop MCP bridge.
+The skill ZIP contains original code/instructions, without third-party CAD models.
+
+Parts lists now export JSON/CSV, build progress, product metadata and verified local
+files in a project ZIP. Build status, notes, checklist steps and completed hardware
+quantities use additive user-state schema v2; back up existing state before upgrade.
 
 ## Downloads and installation
 
 Choose one app archive: Linux x64, Windows x64, macOS Intel, or macOS Apple Silicon.
-Download **every** `makers-supply-data-1.1.0-*.zip` pack from the same release. Verify
+Download **every** `makers-supply-data-1.2.0-*.zip` pack from the same release. Verify
 `SHA256SUMS.txt`, then extract the app and every data ZIP into one directory. These
 archives contain matching root-relative paths; no file joining is needed. On Windows
 prefer a short directory such as `C:\MakersSupply` to avoid legacy path limits.
@@ -31,7 +39,7 @@ system security globally. Signing and notarization are deferred.
 
 Extract each release into a fresh directory and retain the previous app/data until
 verified. Lists and the local secret remain in the existing OS user-data directory;
-this release does not relocate or migrate that state database. Back up the user-data
+the additive build-progress migration preserves existing accounts and lists. Back up the user-data
 directory with the app closed before upgrading; restore it with the app closed.
 
 Hosted deployments must follow the online SQLite backup and paired image/state
@@ -57,7 +65,8 @@ in the [Electron support schedule](https://releases.electronjs.org/schedule).
 eight-region binary scan plus full blob validation for the exact snapshot, within
 seven days of assembly. The default policy requires an unchanged repeat.
 
-For this v1.1.0 candidate, the maintainer approved a validated snapshot with reviewed
+This v1.2.0 candidate retains the identical catalog snapshot accepted for v1.1.0.
+For that snapshot, the maintainer approved a validated snapshot with reviewed
 live commerce changes after five complete scans continued to capture stock and title
 updates. The selected fifth scan changed only EU inventory: four variants became
 unavailable and two PTFE tube variants became available. Its receipt explicitly says
@@ -95,7 +104,7 @@ catalog changes cannot use this exception. Commit generated data and its accepta
 separately from source changes.
 
 Push the reviewed commit and run **Prepare unpublished release candidate**, version
-`1.1.0`, on that commit. Reruns may update the same draft only; they cannot replace a
+`1.2.0`, on that commit. Reruns may update the same draft only; they cannot replace a
 published release or reuse the version for a different commit. **Build and test
 standalone apps** can validate portable artifacts without creating any release.
 Weekly catalog updates remain pull requests. Dispatch **Test** on the update branch

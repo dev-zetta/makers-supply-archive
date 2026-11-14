@@ -6,6 +6,18 @@ history; those commits were consolidated into the `v1.0.0` release commit.
 
 ## Unreleased
 
+## v1.2.0 - 2026-11-14
+
+- Added an executed SolidCraft desktop MCP workflow with absolute paths, batch-result
+  validation, existing-design protection, baseline restoration and native-window proof.
+- Added SolidCraft support to the CAD agent skill, including its built-in MCP and
+  vendor skills, native STEP-component handoff, and a released-CLI bearing example.
+- Added a portable Maker's Supply CAD agent skill for Codex, Claude Code and other
+  Agent Skills clients, with offline JSON/SQLite lookup, verified reference exports,
+  provenance and pack-aware BOM guidance, and researched open source CAD integrations.
+- Added an executed Extrudo bearing-housing example with embedded STEP references,
+  explicit axis/multiple-solid placement, housing-only exports, geometry round trips,
+  parameter recomputation and a negative interference control.
 - Added project ZIP export from parts lists, including list JSON/CSV, durable build
   progress, product metadata and local files with verified SHA-256 hashes, provenance,
   rights and unavailable-file records. Images are optional.

@@ -6,7 +6,7 @@ from makers_supply import __version__
 
 
 def test_version() -> None:
-    assert __version__ == "1.1.0"
+    assert __version__ == "1.2.0"
 
 
 def test_package_and_lock_versions_are_consistent() -> None:
