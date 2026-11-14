@@ -1,5 +1,5 @@
 import { _electron as electron, expect, test, type ElectronApplication } from "@playwright/test";
-import { mkdtemp, readFile, rm } from "node:fs/promises";
+import { copyFile, mkdtemp, readFile, rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import path from "node:path";
 import { spawnSync, type ChildProcess } from "node:child_process";
@@ -109,11 +109,22 @@ test("delivered offline app preserves lists, previews models, exports, and stops
     await page.getByRole("button", { name: "Create list" }).click();
     const listPath = new URL(page.url()).pathname;
     await page.getByRole("link", { name: "Browse and select products" }).click();
+    await page.getByRole("searchbox").fill("LA024");
+    await page.getByRole("button", { name: "Apply filters" }).click();
+    await expect(page.locator(".product-card").first()).toBeVisible();
     await page.locator("[data-product-select]").first().check();
     await page.getByRole("button", { name: /Selected 1/ }).click();
     await page.getByRole("button", { name: "Add selected products" }).click();
     await expect(page.locator(".line-item")).toHaveCount(1);
-    for (const format of ["CSV", "JSON"]) {
+    await page.getByLabel("Build status").selectOption("in_progress");
+    await page.getByLabel("Build notes").fill("Verify the printed enclosure before assembly.");
+    await page.getByRole("button", { name: "Save build", exact: true }).click();
+    await page.getByLabel("New build step").fill("Print enclosure");
+    await page.getByRole("button", { name: "Add step", exact: true }).click();
+    await page.getByRole("button", { name: "Mark done: Print enclosure" }).click();
+    await page.getByLabel(/Completed quantity for/).fill("1");
+    await page.getByRole("button", { name: "Save progress", exact: true }).click();
+    for (const format of ["CSV", "JSON", "ZIP"]) {
       console.log(`Downloading ${format}`);
       const destination = path.join(state, `export.${format.toLowerCase()}`);
       await application.evaluate(({ session }, destination) => {
@@ -126,13 +137,27 @@ test("delivered offline app preserves lists, previews models, exports, and stops
           });
         });
       }, destination);
-      await page.getByRole("link", { name: `Export ${format}` }).click();
+      if (format === "ZIP") {
+        await page.getByRole("button", { name: "Export project ZIP", exact: true }).click();
+      } else {
+        await page.getByRole("link", { name: `Export ${format}` }).click();
+      }
       await expect.poll(() => application!.evaluate(() => (
         globalThis as unknown as DownloadGlobal
       ).catalogDownload)).toEqual({
         filename: `Žluťoučký 🔩.${format.toLowerCase()}`, state: "completed",
       });
-      expect((await readFile(destination)).length).toBeGreaterThan(0);
+      const content = await readFile(destination);
+      expect(content.length).toBeGreaterThan(0);
+      if (format === "JSON") {
+        const exported = JSON.parse(content.toString());
+        expect(exported.build.status).toBe("in_progress");
+        expect(exported.build.completed_steps).toBe(1);
+        expect(exported.items[0].completed_quantity).toBe(1);
+      } else if (format === "ZIP") {
+        expect(content.subarray(0, 4).equals(Buffer.from("PK\x03\x04"))).toBe(true);
+        await copyFile(destination, "test-results/desktop/project-export.zip");
+      }
     }
     await page.close();
     await expect.poll(async () => {
@@ -147,6 +172,15 @@ test("delivered offline app preserves lists, previews models, exports, and stops
     await page.goto(new URL(listPath, page.url()).href);
     await expect(page.getByRole("heading", { name: "Žluťoučký 🔩" })).toBeVisible();
     await expect(page.locator(".line-item")).toHaveCount(1);
+    await expect(page.getByLabel("Build status")).toHaveValue("in_progress");
+    await expect(page.getByLabel("Build notes")).toHaveValue(
+      "Verify the printed enclosure before assembly.",
+    );
+    await expect(page.getByLabel(/Completed quantity for/)).toHaveValue("1");
+    await expect(page.getByRole("button", { name: "Reopen: Print enclosure" })).toBeVisible();
+    await page.locator("#build-progress").screenshot({
+      path: "test-results/desktop/retained-build-progress.png",
+    });
     await page.screenshot({ path: "test-results/desktop/retained-list.png" });
     const restartedOrigin = new URL(page.url()).origin;
     await page.close();

@@ -16,15 +16,53 @@
     </div>
     {% if list.unknown_count or list.unavailable_count %}<p class="warning">{{ list.unknown_count }} unpriced and {{ list.unavailable_count }} unavailable line(s) are called out and excluded from totals.</p>{% endif %}
     <p class="muted">Taxes, shipping, and currency conversion are not included.</p>
-    <a href="/lists/{{ list.id }}/export?format=csv">Export CSV</a> · <a href="/lists/{{ list.id }}/export?format=json">Export JSON</a>
+    <div class="export-actions"><a href="/lists/{{ list.id }}/export?format=csv">Export CSV</a><a href="/lists/{{ list.id }}/export?format=json">Export JSON</a>
+      <form method="get" action="/lists/{{ list.id }}/export" class="project-export-form">
+        <input type="hidden" name="format" value="zip">
+        <label class="checkbox-label"><input type="checkbox" name="include_images" value="true">Include images</label>
+        <button>Export project ZIP</button>
+      </form>
+    </div>
+    <p class="muted">Project ZIP includes this list, build progress, and available models, archives and documents for its products. Shared and other-variant files are retained. The manifest identifies unavailable files.</p>
     {% if list.role != 'viewer' %}<form class="inline-form" method="post" action="/lists/{{ list.id }}/refresh-prices"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><button>Replace saved prices with current</button></form>{% endif %}
+  </section>
+  <section class="build-progress" id="build-progress" aria-labelledby="build-title">
+    <div class="section-heading"><div><p class="section-label">Project workspace</p><h2 id="build-title">Build progress</h2></div><span class="type-badge">{{ build_statuses[list.build.status] }}</span></div>
+    <p><strong>{{ list.build.completed_quantity }} of {{ list.build.required_quantity }} parts completed</strong> · {{ list.build.completed_steps }} of {{ list.build.total_steps }} steps done</p>
+    <progress value="{{ list.build.percent }}" max="100" aria-label="Parts completed">{{ list.build.percent }}%</progress>
+    {% if list.role != 'viewer' %}
+    <form method="post" action="/lists/{{ list.id }}/build" class="build-form">
+      <input type="hidden" name="csrf" value="{{ user.csrf_token }}">
+      <label>Build status<select name="build_status">{% for value, label in build_statuses.items() %}<option value="{{ value }}" {% if list.build.status == value %}selected{% endif %}>{{ label }}</option>{% endfor %}</select></label>
+      <label>Build notes<textarea name="notes" maxlength="10000" rows="3">{{ list.build.notes }}</textarea></label>
+      <button>Save build</button>
+    </form>
+    {% elif list.build.notes %}<p class="build-notes">{{ list.build.notes }}</p>{% endif %}
+    <h3>Build checklist</h3>
+    <ol class="build-steps" id="build-steps">
+      {% for step in list.build.steps %}
+      <li{% if step.completed %} class="step-completed"{% endif %}>
+        <span><span class="sr-only">{{ 'Completed: ' if step.completed else 'Pending: ' }}</span>{{ step.label }}</span>
+        {% if list.role != 'viewer' %}<form method="post" action="/lists/{{ list.id }}/steps/{{ step.id }}">
+          <input type="hidden" name="csrf" value="{{ user.csrf_token }}">
+          <button class="secondary-button" name="completed" value="{{ 'false' if step.completed else 'true' }}" aria-label="{{ 'Reopen' if step.completed else 'Mark done' }}: {{ step.label }}">{{ 'Reopen' if step.completed else 'Mark done' }}</button>
+          <button class="link-button" name="remove" value="true" aria-label="Remove step: {{ step.label }}">Remove</button>
+        </form>{% endif %}
+      </li>
+      {% else %}<li class="muted">Add steps for printing, assembly, testing or finishing.</li>{% endfor %}
+    </ol>
+    {% if list.role != 'viewer' %}<form method="post" action="/lists/{{ list.id }}/steps" class="add-step-form">
+      <input type="hidden" name="csrf" value="{{ user.csrf_token }}">
+      <label>New build step<input name="label" maxlength="240" required placeholder="e.g. Print enclosure and check fit"></label><button>Add step</button>
+    </form>{% endif %}
   </section>
   <section class="list-items"><h2>Selected hardware</h2>
     {% for item in list['items'] %}
-    <article class="line-item">
+    <article class="line-item" id="item-{{ item.id }}">
       {% if item.image_id %}<img loading="lazy" src="/assets/{{ item.product_id }}/{{ item.image_id }}" alt="">{% endif %}
       <div><a href="/products/{{ item.product_id }}?region={{ list.region }}"><h3>{{ item.name }}</h3></a><p>{{ item.variant_id or 'Default offer' }} · {{ item.current_price or 'Price unknown' }} {{ item.current_currency or '' }}{% if item.price_changed %}<mark>Price changed from {{ item.captured_price }} {{ item.captured_currency }}</mark>{% endif %}{% if item.current_available == false %}<span class="error">Unavailable</span>{% endif %}</p></div>
-      {% if list.role != 'viewer' %}<form method="post" action="/lists/{{ list.id }}/items/{{ item.id }}"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><label>Qty <input type="number" name="quantity" min="1" max="100000" value="{{ item.quantity }}"></label><label>Notes <input name="notes" value="{{ item.notes }}"></label><button>Update</button><button class="danger" name="remove" value="true">Remove</button></form>{% else %}<strong>× {{ item.quantity }}</strong>{% endif %}
+      {% if list.role != 'viewer' %}<div class="item-controls"><form method="post" action="/lists/{{ list.id }}/items/{{ item.id }}"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><label>Qty <input type="number" name="quantity" min="1" max="100000" value="{{ item.quantity }}"></label><label>Notes <input name="notes" value="{{ item.notes }}"></label><button>Update</button><button class="danger" name="remove" value="true">Remove</button></form>
+      <form method="post" action="/lists/{{ list.id }}/items/{{ item.id }}/progress" class="item-progress-form"><input type="hidden" name="csrf" value="{{ user.csrf_token }}"><label>Completed quantity<span class="sr-only"> for {{ item.name }}</span><input type="number" name="completed_quantity" min="0" max="{{ item.quantity }}" value="{{ item.completed_quantity }}"></label><span class="muted">of {{ item.quantity }}</span><button class="secondary-button">Save progress</button></form></div>{% else %}<p><strong>× {{ item.quantity }}</strong><br>{{ item.completed_quantity }} completed</p>{% endif %}
     </article>
     {% else %}<p>No selected hardware yet. Browse the catalog and select products with the checkboxes.</p>{% endfor %}
   </section>

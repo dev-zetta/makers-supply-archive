@@ -191,6 +191,47 @@ test("creates a regional parts list", async ({ page }) => {
   await expect(page.getByText("Taxes, shipping, and currency conversion are not included.")).toBeVisible();
 });
 
+test("saves build progress across reloads and exports a project ZIP", async ({ page }) => {
+  await page.locator("[data-product-select]").first().check();
+  await page.getByRole("button", { name: /Selected 1/ }).click();
+  await page.getByLabel("Parts list").selectOption("__new__");
+  await page.getByLabel("New list name").fill("Build progress browser test");
+  await page.getByLabel("Store region").selectOption("eu");
+  await page.getByLabel("Quantity for each product").fill("3");
+  await page.getByRole("button", { name: "Add selected products" }).click();
+  await page.getByLabel("Build status").selectOption("in_progress");
+  await page.getByLabel("Build notes").fill("Print the enclosure, then assemble the hardware.");
+  await page.getByRole("button", { name: "Save build", exact: true }).click();
+  await page.getByLabel("New build step").fill("Print enclosure and check fit");
+  await page.getByRole("button", { name: "Add step", exact: true }).click();
+  await page.getByRole("button", { name: "Mark done: Print enclosure and check fit" }).click();
+  await page.getByLabel(/Completed quantity for/).fill("2");
+  await page.getByRole("button", { name: "Save progress", exact: true }).click();
+  await page.reload();
+  await expect(page.getByLabel("Build status")).toHaveValue("in_progress");
+  await expect(page.getByLabel("Build notes")).toHaveValue(
+    "Print the enclosure, then assemble the hardware.",
+  );
+  await expect(page.getByLabel(/Completed quantity for/)).toHaveValue("2");
+  await expect(page.getByText("2 of 3 parts completed")).toBeVisible();
+  await expect(page.getByRole("button", { name: "Reopen: Print enclosure and check fit" }))
+    .toBeVisible();
+  await expect(page.getByText("1 of 1 steps done")).toBeVisible();
+  const downloadPromise = page.waitForEvent("download");
+  await page.getByRole("button", { name: "Export project ZIP", exact: true }).click();
+  const download = await downloadPromise;
+  expect(download.suggestedFilename()).toBe("Build progress browser test.zip");
+  expect(await download.failure()).toBeNull();
+  await page.locator("#build-progress").screenshot({
+    path: "test-results/build-progress-desktop.png",
+  });
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.locator("#build-progress").scrollIntoViewIfNeeded();
+  await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth <= innerWidth))
+    .toBe(true);
+  await page.locator("#build-progress").screenshot({ path: "test-results/build-progress-mobile.png" });
+});
+
 test("keeps the add-to-list form inside a narrow product card", async ({ page }) => {
   await page.getByRole("link", { name: "Parts lists" }).click();
   await page.getByLabel("Name").fill("Responsive product form");

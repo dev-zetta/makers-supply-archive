@@ -325,6 +325,37 @@ dialog::backdrop { background: #101713aa; }
 .catalog-picker-callout { align-self: start; }
 .catalog-picker-callout h2 { margin: .2rem 0; }
 .catalog-picker-callout .secondary-button { margin-top: .5rem; }
+.build-progress { grid-column: 1 / -1; scroll-margin-top: 5rem; }
+.build-progress progress { width: 100%; height: .8rem; accent-color: var(--success); }
+.build-form { grid-template-columns: minmax(10rem, 1fr) 3fr auto; align-items: end; margin-block: 1rem; }
+.build-notes { white-space: pre-wrap; }
+.build-steps { display: grid; gap: .5rem; padding-left: 1.5rem; scroll-margin-top: 5rem; }
+.build-steps li { padding: .6rem; border-bottom: 1px solid var(--line); overflow-wrap: anywhere; }
+.build-steps li > span { display: inline-block; padding-block: .4rem; }
+.build-steps form { display: inline-flex; flex-wrap: wrap; align-items: center; margin-left: 1rem; }
+.step-completed > span { color: var(--success); text-decoration: line-through; }
+.add-step-form { grid-template-columns: 1fr auto; align-items: end; }
+.export-actions, .project-export-form { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; }
+.project-export-form { margin-left: auto; }
+.project-export-form .checkbox-label { align-items: center; }
+.item-controls { display: grid; gap: .8rem; min-width: 0; }
+.line-item { scroll-margin-top: 5rem; }
+.line-item input[name="quantity"], .line-item input[name="completed_quantity"] { width: 6rem; }
+.item-progress-form { flex-wrap: wrap; }
+.item-progress-form > span { padding-bottom: .6rem; }
+
+@media (max-width: 68rem) {
+  .line-item .item-controls { grid-column: 1 / -1; }
+  .build-form { grid-template-columns: 1fr 2fr; }
+  .build-form button { justify-self: start; }
+}
+
+@media (max-width: 50rem) {
+  .build-form { grid-template-columns: 1fr; }
+  .project-export-form { margin-left: 0; }
+  .line-item .item-controls form { flex-wrap: wrap; }
+  .build-steps form { display: flex; margin-left: 0; }
+}
 
 @media (max-width: 68rem) {
   .layout { grid-template-columns: minmax(15rem, 17rem) minmax(0, 1fr); }

@@ -43,6 +43,25 @@ MIGRATIONS = [
     );
     CREATE INDEX sessions_user ON sessions(user_id);
     CREATE INDEX list_items_list ON list_items(list_id);
+    """,
+    """
+    CREATE TABLE list_builds (
+      list_id TEXT PRIMARY KEY REFERENCES lists(id) ON DELETE CASCADE,
+      status TEXT NOT NULL DEFAULT 'planned'
+        CHECK(status IN ('planned', 'in_progress', 'paused', 'completed')),
+      notes TEXT NOT NULL DEFAULT '', updated_at TEXT NOT NULL
+    );
+    CREATE TABLE list_item_progress (
+      item_id TEXT PRIMARY KEY REFERENCES list_items(id) ON DELETE CASCADE,
+      completed_quantity INTEGER NOT NULL DEFAULT 0 CHECK(completed_quantity >= 0),
+      updated_at TEXT NOT NULL
+    );
+    CREATE TABLE build_steps (
+      id TEXT PRIMARY KEY, list_id TEXT NOT NULL REFERENCES lists(id) ON DELETE CASCADE,
+      label TEXT NOT NULL, completed INTEGER NOT NULL DEFAULT 0 CHECK(completed IN (0, 1)),
+      completed_at TEXT, created_at TEXT NOT NULL, updated_at TEXT NOT NULL
+    );
+    CREATE INDEX build_steps_list ON build_steps(list_id, created_at, id);
     """
 ]
 
@@ -65,6 +84,7 @@ def migrate(path: Path) -> int:
         version = int(connection.execute("PRAGMA user_version").fetchone()[0])
         for index, migration in enumerate(MIGRATIONS[version:], start=version + 1):
             with connection:
-                connection.executescript(migration)
-                connection.execute(f"PRAGMA user_version = {index}")
+                connection.executescript(
+                    f"BEGIN IMMEDIATE;\n{migration}\nPRAGMA user_version = {index};\nCOMMIT;"
+                )
         return len(MIGRATIONS)

@@ -67,6 +67,11 @@ The responsive web application in `apps/catalog-web` visually browses the comple
 archive. It provides a zoomable thumbnail gallery, categories, published dimensions,
 specifications, per-variant regional pricing, full-text search, STL/3MF previews,
 secure asset downloads, and shareable parts lists with current and saved cost totals.
+Parts lists also track build status, notes, checklist steps and completed hardware
+quantities in durable user storage. Export a project ZIP with the list, its progress,
+available design files and a manifest of file hashes, provenance and rights; images
+are optional. Catalog records and regional price snapshots remain separate from build
+progress.
 The model viewer uses studio lighting, smoothed crease-aware normals, glossy PBR
 materials, and embedded STL/3MF colors or textures when they are available.
 Project bundles are deterministically tagged as kits. Product pages keep narrative

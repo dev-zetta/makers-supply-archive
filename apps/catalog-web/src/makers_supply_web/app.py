@@ -21,7 +21,9 @@ from fastapi.responses import (
 )
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
+from starlette.concurrency import run_in_threadpool
 
+from makers_supply_web.builds import BUILD_STATUSES
 from makers_supply_web.catalog import (
     SearchFilters,
     asset_record,
@@ -40,6 +42,7 @@ from makers_supply_web.parts import (
     list_access,
     list_view,
 )
+from makers_supply_web.project_export import ProjectExportError, build_project_archive
 from makers_supply_web.security import (
     PASSWORDS,
     REMEMBERED_SESSION_LIFETIME,
@@ -494,6 +497,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             {
                 "user": user,
                 "list": selected,
+                "build_statuses": BUILD_STATUSES,
                 "local_mode": settings.local_mode,
                 "selection_added": request.query_params.get("selection_added") == "1",
             },
@@ -674,12 +678,112 @@ def create_app(settings: Settings | None = None) -> FastAPI:
                        WHERE id=? AND list_id=?""",
                     (quantity, notes, now().isoformat(), item_id, list_id),
                 )
+                connection.execute(
+                    """UPDATE list_item_progress
+                       SET completed_quantity=MIN(completed_quantity, ?), updated_at=?
+                       WHERE item_id=?""", (quantity, now().isoformat(), item_id),
+                )
             if cursor.rowcount != 1:
                 raise HTTPException(404, "List item not found")
             connection.execute(
                 "UPDATE lists SET updated_at=? WHERE id=?", (now().isoformat(), list_id)
             )
         return RedirectResponse(f"/lists/{list_id}", status_code=303)
+
+    @app.post("/lists/{list_id}/build")
+    async def update_build(
+        request: Request, list_id: str, csrf: Annotated[str, Form()],
+        build_status: Annotated[str, Form()], notes: Annotated[str, Form()] = "",
+        user: sqlite3.Row = Depends(require_user),  # noqa: B008
+    ) -> RedirectResponse:
+        check_csrf(request, csrf, user)
+        permission(list_id, user)
+        if build_status not in BUILD_STATUSES or len(notes) > 10000:
+            raise HTTPException(422, "Invalid build status or notes exceed 10000 characters")
+        timestamp = now().isoformat()
+        with connect(settings.state_db) as connection, connection:
+            connection.execute(
+                """INSERT INTO list_builds VALUES (?, ?, ?, ?)
+                   ON CONFLICT(list_id) DO UPDATE SET status=excluded.status,
+                   notes=excluded.notes, updated_at=excluded.updated_at""",
+                (list_id, build_status, notes, timestamp),
+            )
+            connection.execute("UPDATE lists SET updated_at=? WHERE id=?", (timestamp, list_id))
+        return RedirectResponse(f"/lists/{list_id}#build-progress", status_code=303)
+
+    @app.post("/lists/{list_id}/items/{item_id}/progress")
+    async def update_item_progress(
+        request: Request, list_id: str, item_id: str, csrf: Annotated[str, Form()],
+        completed_quantity: Annotated[int, Form()],
+        user: sqlite3.Row = Depends(require_user),  # noqa: B008
+    ) -> RedirectResponse:
+        check_csrf(request, csrf, user)
+        permission(list_id, user)
+        timestamp = now().isoformat()
+        with connect(settings.state_db) as connection, connection:
+            connection.execute("BEGIN IMMEDIATE")
+            item = connection.execute(
+                "SELECT quantity FROM list_items WHERE id=? AND list_id=?", (item_id, list_id)
+            ).fetchone()
+            if item is None:
+                raise HTTPException(404, "List item not found")
+            if not 0 <= completed_quantity <= item["quantity"]:
+                raise HTTPException(
+                    422, "Completed quantity must be between zero and list quantity"
+                )
+            connection.execute(
+                """INSERT INTO list_item_progress VALUES (?, ?, ?)
+                   ON CONFLICT(item_id) DO UPDATE SET
+                   completed_quantity=excluded.completed_quantity,
+                   updated_at=excluded.updated_at""",
+                (item_id, completed_quantity, timestamp),
+            )
+            connection.execute("UPDATE lists SET updated_at=? WHERE id=?", (timestamp, list_id))
+        return RedirectResponse(f"/lists/{list_id}#item-{item_id}", status_code=303)
+
+    @app.post("/lists/{list_id}/steps")
+    async def add_build_step(
+        request: Request, list_id: str, csrf: Annotated[str, Form()],
+        label: Annotated[str, Form()],
+        user: sqlite3.Row = Depends(require_user),  # noqa: B008
+    ) -> RedirectResponse:
+        check_csrf(request, csrf, user)
+        permission(list_id, user)
+        if not 1 <= len(label.strip()) <= 240:
+            raise HTTPException(422, "Step must contain 1–240 characters")
+        timestamp = now().isoformat()
+        with connect(settings.state_db) as connection, connection:
+            connection.execute(
+                "INSERT INTO build_steps VALUES (?, ?, ?, 0, NULL, ?, ?)",
+                (str(uuid4()), list_id, label.strip(), timestamp, timestamp),
+            )
+            connection.execute("UPDATE lists SET updated_at=? WHERE id=?", (timestamp, list_id))
+        return RedirectResponse(f"/lists/{list_id}#build-steps", status_code=303)
+
+    @app.post("/lists/{list_id}/steps/{step_id}")
+    async def update_build_step(
+        request: Request, list_id: str, step_id: str, csrf: Annotated[str, Form()],
+        completed: Annotated[bool, Form()] = False, remove: Annotated[bool, Form()] = False,
+        user: sqlite3.Row = Depends(require_user),  # noqa: B008
+    ) -> RedirectResponse:
+        check_csrf(request, csrf, user)
+        permission(list_id, user)
+        timestamp = now().isoformat()
+        with connect(settings.state_db) as connection, connection:
+            if remove:
+                cursor = connection.execute(
+                    "DELETE FROM build_steps WHERE id=? AND list_id=?", (step_id, list_id)
+                )
+            else:
+                cursor = connection.execute(
+                    """UPDATE build_steps SET completed=?, completed_at=?, updated_at=?
+                       WHERE id=? AND list_id=?""",
+                    (completed, timestamp if completed else None, timestamp, step_id, list_id),
+                )
+            if cursor.rowcount != 1:
+                raise HTTPException(404, "Build step not found")
+            connection.execute("UPDATE lists SET updated_at=? WHERE id=?", (timestamp, list_id))
+        return RedirectResponse(f"/lists/{list_id}#build-steps", status_code=303)
 
     @app.post("/lists/{list_id}/refresh-prices")
     async def refresh_prices(
@@ -738,6 +842,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     async def export_parts_list(
         list_id: str,
         format: str = "csv",  # noqa: A002
+        include_images: bool = False,
         user: sqlite3.Row = Depends(require_user),  # noqa: B008
     ) -> Response:
         selected = list_view(
@@ -749,22 +854,45 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         )
         if selected is None:
             raise HTTPException(404, "Parts list not found")
+        safe_name = re.sub(r"[\x00-\x1f\x7f]", "", str(selected["name"]))
+        filename = f"{safe_name}.{format}"
+        fallback = re.sub(r"[^A-Za-z0-9._ -]", "_", filename) or f"parts-list.{format}"
+        headers = {
+            "Cache-Control": "private, no-store",
+            "Content-Disposition": (
+                f'attachment; filename="{fallback}"; '
+                f"filename*=UTF-8''{quote(filename, safe='')}"
+            ),
+        }
+        if format == "zip":
+            try:
+                archive = await run_in_threadpool(
+                    build_project_archive, settings, selected, include_images=include_images
+                )
+            except (ProjectExportError, OSError) as error:
+                detail = str(error) if isinstance(error, ProjectExportError) else (
+                    "A local file became unavailable during export. Please try again."
+                )
+                raise HTTPException(409, detail) from error
+
+            async def project_content() -> AsyncIterator[bytes]:
+                try:
+                    while chunk := await run_in_threadpool(archive.read, 64 * 1024):
+                        yield chunk
+                finally:
+                    archive.close()
+
+            return StreamingResponse(
+                project_content(), media_type="application/zip", headers=headers
+            )
         try:
             content, media_type = export_list(selected, format)
         except ValueError as error:
             raise HTTPException(422, str(error)) from error
-        safe_name = re.sub(r"[\x00-\x1f\x7f]", "", str(selected["name"]))
-        filename = f"{safe_name}.{format}"
-        fallback = re.sub(r"[^A-Za-z0-9._ -]", "_", filename) or f"parts-list.{format}"
         return Response(
             content,
             media_type=media_type,
-            headers={
-                "Content-Disposition": (
-                    f'attachment; filename="{fallback}"; '
-                    f"filename*=UTF-8''{quote(filename, safe='')}"
-                )
-            },
+            headers=headers,
         )
 
     @app.get("/login", response_class=HTMLResponse)

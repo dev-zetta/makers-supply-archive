@@ -28,6 +28,21 @@ parts lists, and captured prices in a separate writable SQLite database.
   a new list from the selection drawer.
 - Manage region-specific parts lists with variants, quantities, notes, price snapshots,
   CSV/JSON exports, and named-user viewer/editor sharing.
+- Track a build on each parts list with a status (planned, in progress, paused or
+  completed), build notes, checklist steps, and completed quantities for individual
+  hardware lines. Progress saves in the user-state database and survives reloads and
+  app restarts. Owners and editors can update it; viewers can read it. Changing a line
+  quantity preserves its progress, capped at the new quantity; removing a line removes
+  that line's progress. Status is an explicit user choice, separate from part and
+  checklist completion.
+- Export a project ZIP from a parts list. The package contains the existing JSON and
+  CSV list exports, `build-progress.json`, full product metadata, available local
+  models/archives/documents, and a SHA-256/provenance/rights manifest. Images are
+  optional. Files are included once per product, retaining shared and other-variant
+  files rather than guessing which models a variant needs. Missing or rejected files
+  are recorded as unavailable. A changed file fails verification and aborts the export.
+  Exports use temporary storage, allow up to 5 GiB of included file bytes, require the
+  same list access as JSON/CSV exports, and never fetch external files.
 - Use a browser-session login by default or explicitly remember a trusted device for
   30 days. Session tokens are random and only their keyed hashes are stored.
 - Display current and captured subtotals separately per currency. There is no FX
@@ -68,6 +83,10 @@ uv run makers-supply-web serve --host 127.0.0.1 --port 8000
 `MAKERS_SUPPLY_SECURE_COOKIES=0` is only appropriate for loopback HTTP. The default is
 secure cookies. State migrations are forward-only and run automatically at startup;
 `uv run makers-supply-web migrate` can apply them explicitly.
+State schema v2 adds separate build/progress tables without rewriting existing list
+rows or saved prices. Back up the state database before upgrading. To roll back to an
+older application, stop the service and restore the pre-upgrade state backup; do not
+manually remove migration tables or lower `user_version`. The catalog schema remains v5.
 
 ## Portable standalone build
 

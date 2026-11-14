@@ -9,6 +9,7 @@ from decimal import Decimal, InvalidOperation
 from pathlib import Path
 from typing import Any
 
+from makers_supply_web.builds import build_view
 from makers_supply_web.catalog import connect_catalog
 from makers_supply_web.state import connect
 
@@ -108,8 +109,14 @@ def list_view(
         return None
     with connect(state_db) as connection:
         state_items = connection.execute(
-            "SELECT * FROM list_items WHERE list_id=? ORDER BY created_at, id", (list_id,)
+            """SELECT i.*, COALESCE(p.completed_quantity, 0) completed_quantity,
+                      p.updated_at progress_updated_at
+               FROM list_items i LEFT JOIN list_item_progress p ON p.item_id=i.id
+               WHERE i.list_id=? ORDER BY i.created_at, i.id""", (list_id,)
         ).fetchall()
+        selected_list["build"] = build_view(
+            connection, list_id, [dict(item) for item in state_items]
+        )
         shares = connection.execute(
             """SELECT u.username, acl.role, u.id user_id FROM list_acl acl
                JOIN users u ON u.id=acl.user_id WHERE acl.list_id=? ORDER BY u.username""",
