@@ -3,7 +3,7 @@
 [`makers-supply-cad`](makers-supply-cad/SKILL.md) connects a local Maker's Supply
 Archive catalog to an agent's CAD workflow. It includes offline JSON search and
 product inspection, verified file exports, a BOM handoff, and researched guidance
-for SolidCraft, Extrudo, build123d, CadQuery, FreeCAD, and OpenSCAD.
+for Chili3D, SolidCraft, Extrudo, build123d, CadQuery, FreeCAD, and OpenSCAD.
 
 The same skill folder follows the [Agent Skills format](https://agentskills.io/specification).
 It requires Python 3.10+ and either a checkout's `data/products/` or an extracted
@@ -54,6 +54,10 @@ For Extrudo, connect its desktop MCP using the configuration in Settings → Des
 Agents and load its own CAD skill as described in the
 [tool reference](makers-supply-cad/references/cad-tools.md). This catalog skill works
 alongside that skill. It does not configure clients or install third-party bridges.
+
+For Chili3D, use the [official bridge and tested editable housing workflow](makers-supply-cad/references/chili3d.md).
+A [local build installer and optional file-transfer patch](../integrations/chili3d/README.md)
+let agents retain native feature history and verify real exporter bytes.
 
 For SolidCraft, use its built-in stdio MCP server and bundled modeling/checking
 skills. The [SolidCraft guide](makers-supply-cad/references/solidcraft.md) covers

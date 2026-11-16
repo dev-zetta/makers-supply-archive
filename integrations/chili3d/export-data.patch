@@ -1,0 +1,82 @@
+diff --git a/packages/ai/src/tools/fileTools.ts b/packages/ai/src/tools/fileTools.ts
+index 768f099..41057af 100644
+--- a/packages/ai/src/tools/fileTools.ts
++++ b/packages/ai/src/tools/fileTools.ts
+@@ -51,4 +51,16 @@ async function handleExportNodes(args: Record<string, unknown>): Promise<string>
+     const filename = resolveFilename(visuals, format, args["filename"]);
++    // Local MCP file transfer: browser download permission is not a saved-file receipt.
++    if (args["returnData"] === true) {
++        const bytes = new Uint8Array(await new Blob(data).arrayBuffer());
++        let binary = "";
++        for (let i = 0; i < bytes.length; i += 8192) {
++            binary += String.fromCharCode(...bytes.subarray(i, i + 8192));
++        }
++        return JSON.stringify({
++            ok: true, filename, bytes: bytes.length,
++            nodes: visuals.map((n) => n.id), dataBase64: btoa(binary),
++        });
++    }
+     download(data, filename);
+     return JSON.stringify({
+         ok: true,
+@@ -67,6 +79,10 @@ export function buildFileTools(): Tool[] {
+             parameters: {
+                 type: "object",
+                 properties: {
++                    returnData: {
++                        type: "boolean",
++                        description: "Return file bytes as dataBase64 instead of downloading (local agent integration)",
++                    },
+                     ids: {
+                         type: "array",
+                         items: { type: "string" },
+diff --git a/packages/ai/test/fileTools.test.ts b/packages/ai/test/fileTools.test.ts
+index b42ac5d..461cfc2 100644
+--- a/packages/ai/test/fileTools.test.ts
++++ b/packages/ai/test/fileTools.test.ts
+@@ -97,4 +97,32 @@ describe("fileTools", () => {
+             rs.unstubAllGlobals();
+         }
+     });
++    test("export_nodes returns exact binary bytes without starting a browser download", async () => {
++        const node = visualNode("n1", "box");
++        const doc = createMockDocument();
++        (doc.modelManager as any).findNodes = rs.fn(() => [node]);
++        const app = createMockApplication();
++        (app as any).activeView = { document: doc };
++        const bytes = new Uint8Array([0, 255, 128, 65]);
++        (app as any).dataExchange = {
++            exportFormats: () => [".stl binary"],
++            export: rs.fn(async () => [bytes]),
++        };
++        rs.stubGlobal("app", app);
++        const createObjectURL = rs.spyOn(URL, "createObjectURL");
++        try {
++            const tool = buildFileTools().find((t) => t.name === "export_nodes")!;
++            const result = JSON.parse((await tool.handler({
++                format: ".stl binary", ids: ["n1"], returnData: true,
++            })) as string);
++            expect(result.bytes).toBe(4);
++            expect(result.filename).toBe("box.stl");
++            expect(result.dataBase64).toBe("AP+AQQ==");
++            expect(createObjectURL).not.toHaveBeenCalled();
++        } finally {
++            createObjectURL.mockRestore();
++            rs.unstubAllGlobals();
++        }
++    });
++
+ });
+diff --git a/rspack.config.ts b/rspack.config.ts
+index e3d81a7..acc079e 100644
+--- a/rspack.config.ts
++++ b/rspack.config.ts
+@@ -99,6 +99,8 @@ export default defineConfig({
+         ],
+     },
+     output: {
++        filename: "[name].[contenthash:12].js",
++        chunkFilename: "[name].[contenthash:12].js",
+         clean: true,
+     },
+ });

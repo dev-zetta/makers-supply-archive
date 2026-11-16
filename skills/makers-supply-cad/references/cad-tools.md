@@ -6,7 +6,9 @@ with its real headless OCCT kernel and its web app using a catalog EA028 bearing
 SolidCraft 0.41.0 was also exercised through its released CLI, headless MCP and
 native desktop MCP bridge; see [the SolidCraft workflow](solidcraft.md) for evidence
 and capability limits. Extrudo's desktop MCP transport and the remaining CAD tools
-are researched integration routes. Inspect available tools and version before use.
+are researched integration routes. Chili3D 0.8.0 was subsequently exercised through its official browser MCP bridge
+on 2026-11-16; see [the Chili3D workflow](chili3d.md). Inspect available tools and
+version before use.
 
 ## Choose the existing modeling environment
 
@@ -15,6 +17,7 @@ recommendations, based on the linked upstream capabilities.
 
 | Tool | Verified upstream surface | Useful catalog handoff |
 | --- | --- | --- |
+| [Chili3D](https://github.com/xiangechen/chili3d) | Browser app + official local MCP bridge, dynamic tools and modeling skills | Import verified STEP, build an editable feature tree, save `.cd`, and verify exporter bytes. |
 | [SolidCraft](https://github.com/tangency-labs/solidcraft) | Built-in stdio MCP, vendor skills and JSON command scripts | Insert verified STEP as a component, inspect world placement, build a parametric housing, and save a native `.sc` design. |
 | [Extrudo](https://github.com/zoltanf/extrudo) | Desktop MCP, its own agent skill, TypeScript document API | Supply verified dimensions and product IDs to the running design; follow its vendor skill for modeling. |
 | [build123d](https://github.com/gumyr/build123d) | Python parametric BREP modeling | Use dimension parameters or import an available STEP reference; keep editable Python source. |

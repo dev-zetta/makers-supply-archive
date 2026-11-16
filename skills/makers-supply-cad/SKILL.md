@@ -1,6 +1,6 @@
 ---
 name: makers-supply-cad
-description: Find Maker's Supply hardware, inspect exact variants and dimensions, and export verified local reference files for CAD projects using SolidCraft, Extrudo, build123d, CadQuery, FreeCAD, or OpenSCAD. Use when designing around catalog parts or preparing a hardware BOM from Maker's Supply Archive.
+description: Find Maker's Supply hardware, inspect exact variants and dimensions, and export verified local reference files for CAD projects using Chili3D, SolidCraft, Extrudo, build123d, CadQuery, FreeCAD, or OpenSCAD. Use when designing around catalog parts or preparing a hardware BOM from Maker's Supply Archive.
 license: MIT
 metadata:
   requires-python: "3.10+"
@@ -78,6 +78,11 @@ tool. Preserve an already selected modeling tool. Extrudo supplies its own model
 skill and MCP interface; use those alongside this catalog skill. Other tools can use
 their installed Python, macro, or CLI interface. Discover the installed version's
 capabilities before invoking it; this skill does not install or configure CAD servers.
+
+For Chili3D, read [chili3d.md](references/chili3d.md). Use its official local MCP
+bridge and live modeling skills, author editable features with `run_parametric`,
+and follow the executable EA028 example. Check baked reference placement and actual
+export bytes; stock shape queries ignore node display transforms.
 
 For SolidCraft, read [solidcraft.md](references/solidcraft.md). Use its bundled
 modeling/checking skills alongside this catalog skill, and choose explicitly

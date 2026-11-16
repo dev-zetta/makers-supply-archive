@@ -6,6 +6,12 @@ history; those commits were consolidated into the `v1.0.0` release commit.
 
 ## Unreleased
 
+## v1.3.0 - 2026-11-16
+
+- Added Chili3D 0.8.0 catalog skill support, an editable bearing-housing adapter,
+  local installation tooling, verified reference placement and interference controls,
+  and an optional app patch for returning actual STEP/STL bytes through its MCP bridge.
+
 ## v1.2.0 - 2026-11-14
 
 - Added an executed SolidCraft desktop MCP workflow with absolute paths, batch-result

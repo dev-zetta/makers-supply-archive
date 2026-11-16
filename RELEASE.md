@@ -1,27 +1,31 @@
-# Maker's Supply Archive v1.2.0
+# Maker's Supply Archive v1.3.0
 
-Published on 2026-11-14. [Download v1.2.0](https://github.com/dev-zetta/makers-supply-archive/releases/tag/v1.2.0).
+[Download v1.3.0](https://github.com/dev-zetta/makers-supply-archive/releases/tag/v1.3.0).
 
-Version 1.2.0 adds portable agent skills for Codex,
-Claude Code and other Agent Skills clients, plus project ZIP export and durable
-build tracking. Existing release tags and assets are preserved.
+Version 1.3.0 adds Chili3D to the portable CAD agent skill for Codex, Claude Code
+and other Agent Skills clients. The real EA028 bearing-housing workflow was run
+through Chili3D 0.8.0 and its official MCP bridge, including eight editable features,
+native save/reopen, clearance edits, interference controls and verified STEP/STL
+exports. A local build installer and optional app patch support reliable exporter
+byte transfer and fingerprinted JavaScript assets; the pinned upstream source and
+patch are retained with the installation.
 
 The `makers-supply-cad.zip` asset contains offline JSON/SQLite lookup, verified CAD
-reference export, and runnable Extrudo/SolidCraft bearing-housing examples. Extract
-the complete skill folder into the agent's skill directory; see `skills/README.md`.
+reference export, and runnable Chili3D, Extrudo and SolidCraft bearing-housing examples.
+Extract the complete skill folder into the agent's skill directory; see `skills/README.md`.
 Python 3.10+ is required for the helper; CAD runtimes are separate optional tools.
-Extrudo was exercised with its real kernel and web app; SolidCraft 0.41.0 was
-exercised through CLI, headless MCP and the actual native desktop MCP bridge.
 The skill ZIP contains original code/instructions, without third-party CAD models.
+The separate Chili3D app patch is AGPL-3.0, with its license in `integrations/chili3d/`.
 
-Parts lists now export JSON/CSV, build progress, product metadata and verified local
-files in a project ZIP. Build status, notes, checklist steps and completed hardware
-quantities use additive user-state schema v2; back up existing state before upgrade.
+Extrudo was exercised with its real kernel and web app; SolidCraft 0.41.0 was
+exercised through CLI, headless MCP and its native desktop MCP bridge. The archive
+also retains project ZIP export and durable build tracking from v1.2.0. Existing
+release tags and assets are preserved.
 
 ## Downloads and installation
 
 Choose one app archive: Linux x64, Windows x64, macOS Intel, or macOS Apple Silicon.
-Download **every** `makers-supply-data-1.2.0-*.zip` pack from the same release. Verify
+Download **every** `makers-supply-data-1.3.0-*.zip` pack from the same release. Verify
 `SHA256SUMS.txt`, then extract the app and every data ZIP into one directory. These
 archives contain matching root-relative paths; no file joining is needed. On Windows
 prefer a short directory such as `C:\MakersSupply` to avoid legacy path limits.
@@ -67,7 +71,7 @@ in the [Electron support schedule](https://releases.electronjs.org/schedule).
 eight-region binary scan plus full blob validation for the exact snapshot, within
 seven days of assembly. The default policy requires an unchanged repeat.
 
-This v1.2.0 candidate retains the identical catalog snapshot accepted for v1.1.0.
+This v1.3.0 candidate retains the identical catalog snapshot accepted for v1.1.0.
 For that snapshot, the maintainer approved a validated snapshot with reviewed
 live commerce changes after five complete scans continued to capture stock and title
 updates. The selected fifth scan changed only EU inventory: four variants became
@@ -106,7 +110,7 @@ catalog changes cannot use this exception. Commit generated data and its accepta
 separately from source changes.
 
 Push the reviewed commit and run **Prepare unpublished release candidate**, version
-`1.2.0`, on that commit. Reruns may update the same draft only; they cannot replace a
+`1.3.0`, on that commit. Reruns may update the same draft only; they cannot replace a
 published release or reuse the version for a different commit. **Build and test
 standalone apps** can validate portable artifacts without creating any release.
 Weekly catalog updates remain pull requests. Dispatch **Test** on the update branch

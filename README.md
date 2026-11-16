@@ -178,7 +178,7 @@ The portable [Maker's Supply CAD skill](skills/README.md) lets Codex, Claude Cod
 and other Agent Skills clients find hardware, inspect exact variants and source
 dimensions, and export verified reference files with provenance for CAD projects.
 It works offline with a checkout or an extracted portable catalog and includes
-guidance for SolidCraft, Extrudo, build123d, CadQuery, FreeCAD, and OpenSCAD. See the
+guidance for Chili3D, SolidCraft, Extrudo, build123d, CadQuery, FreeCAD, and OpenSCAD. See the
 guide for installation, example prompts, and the dependency-free JSON command interface.
 
 ## Repository layout
