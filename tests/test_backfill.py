@@ -6,10 +6,10 @@ from pathlib import Path
 
 import httpx
 
-from makers_supply.backfill import CachedAssetBackfill
-from makers_supply.http import ArchiveHttpClient
-from makers_supply.models import AssetKind, Product, Region, SourceAlias
-from makers_supply.storage import Catalog
+from makersfridge.backfill import CachedAssetBackfill
+from makersfridge.http import ArchiveHttpClient
+from makersfridge.models import AssetKind, Product, Region, SourceAlias
+from makersfridge.storage import Catalog
 
 
 def _model_zip() -> bytes:

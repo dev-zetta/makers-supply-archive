@@ -1,6 +1,11 @@
-# Maker's Supply Archive v1.3.0
+# Maker's Fridge v1.3.0
 
-[Download v1.3.0](https://github.com/dev-zetta/makers-supply-archive/releases/tag/v1.3.0).
+The project was renamed from Maker's Supply Archive after v1.3.0. That published
+release retains its original app names, skill archive, data-pack filenames, and
+checksums. New source builds use `makersfridge`; existing user-state directories
+remain usable. The instructions below identify the actual v1.3.0 downloads.
+
+[Download v1.3.0](https://github.com/dev-zetta/makersfridge/releases/tag/v1.3.0).
 
 Version 1.3.0 adds Chili3D to the portable CAD agent skill for Codex, Claude Code
 and other Agent Skills clients. The real EA028 bearing-housing workflow was run
@@ -12,6 +17,8 @@ patch are retained with the installation.
 
 The `makers-supply-cad.zip` asset contains offline JSON/SQLite lookup, verified CAD
 reference export, and runnable Chili3D, Extrudo and SolidCraft bearing-housing examples.
+That published skill is invoked as `makers-supply-cad`; new source packages use
+`makersfridge-cad`.
 Extract the complete skill folder into the agent's skill directory; see `skills/README.md`.
 Python 3.10+ is required for the helper; CAD runtimes are separate optional tools.
 The skill ZIP contains original code/instructions, without third-party CAD models.
@@ -28,7 +35,7 @@ Choose one app archive: Linux x64, Windows x64, macOS Intel, or macOS Apple Sili
 Download **every** `makers-supply-data-1.3.0-*.zip` pack from the same release. Verify
 `SHA256SUMS.txt`, then extract the app and every data ZIP into one directory. These
 archives contain matching root-relative paths; no file joining is needed. On Windows
-prefer a short directory such as `C:\MakersSupply` to avoid legacy path limits.
+prefer a short directory such as `C:\MakersFridge` to avoid legacy path limits.
 
 The directory must contain the app executable (or macOS `.app`), `catalog.sqlite`,
 `catalog-manifest.json`, and `assets/`. Launch the application normally. No Python,
@@ -87,11 +94,11 @@ pending. The workflow creates a **draft only**; publication is a separate mainta
 After reviewing source changes, prepare the snapshot:
 
 ```bash
-uv run makers-supply sync --resume
-uv run makers-supply validate
-uv run makers-supply lfs-preflight
-uv run makers-supply build-db
-uv run makers-supply sync --resume
+uv run makersfridge sync --resume
+uv run makersfridge validate
+uv run makersfridge lfs-preflight
+uv run makersfridge build-db
+uv run makersfridge sync --resume
 uv run python scripts/release-acceptance.py
 ```
 

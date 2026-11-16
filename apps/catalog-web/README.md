@@ -1,4 +1,4 @@
-# Maker's Supply visual catalog
+# Maker's Fridge visual catalog
 
 This application is a server-rendered FastAPI browser for the archive. It keeps the
 generated catalog SQLite database read-only and stores accounts, sessions, sharing,
@@ -62,7 +62,7 @@ For the shortest Docker-based path from the repository root:
 
 The launcher rebuilds the generated catalog, creates the first administrator only when
 needed, and binds to <http://127.0.0.1:8000>. Accounts and lists remain in the
-`makers-supply-catalog-state` Docker volume. The local session secret is created once
+`makersfridge-state` Docker volume. The local session secret is created once
 at `.state/catalog-web.secret`; preserving it is required for remembered logins to
 survive restarts. Use `--detach`, `--port PORT`, or `--no-build`; see `--help` for
 environment overrides and all options.
@@ -70,19 +70,19 @@ environment overrides and all options.
 For native development, run `./setup.sh` from the repository root, then:
 
 ```bash
-uv run makers-supply build-db
-export MAKERS_SUPPLY_ROOT="$PWD"
-export MAKERS_SUPPLY_CATALOG_DB="$PWD/dist/makers-supply.sqlite"
-export MAKERS_SUPPLY_STATE_DB="$PWD/.state/catalog-web.sqlite"
-export MAKERS_SUPPLY_SECRET_KEY="$(openssl rand -hex 32)"
-export MAKERS_SUPPLY_SECURE_COOKIES=0
-uv run makers-supply-web create-admin admin
-uv run makers-supply-web serve --host 127.0.0.1 --port 8000
+uv run makersfridge build-db
+export MAKERSFRIDGE_ROOT="$PWD"
+export MAKERSFRIDGE_CATALOG_DB="$PWD/dist/makersfridge.sqlite"
+export MAKERSFRIDGE_STATE_DB="$PWD/.state/catalog-web.sqlite"
+export MAKERSFRIDGE_SECRET_KEY="$(openssl rand -hex 32)"
+export MAKERSFRIDGE_SECURE_COOKIES=0
+uv run makersfridge-web create-admin admin
+uv run makersfridge-web serve --host 127.0.0.1 --port 8000
 ```
 
-`MAKERS_SUPPLY_SECURE_COOKIES=0` is only appropriate for loopback HTTP. The default is
+`MAKERSFRIDGE_SECURE_COOKIES=0` is only appropriate for loopback HTTP. The default is
 secure cookies. State migrations are forward-only and run automatically at startup;
-`uv run makers-supply-web migrate` can apply them explicitly.
+`uv run makersfridge-web migrate` can apply them explicitly.
 State schema v2 adds separate build/progress tables without rewriting existing list
 rows or saved prices. Back up the state database before upgrading. To roll back to an
 older application, stop the service and restore the pre-upgrade state backup; do not
@@ -101,12 +101,12 @@ app for the current Windows, macOS, or Linux machine:
 
 ```bash
 npm --prefix apps/catalog-desktop ci
-uv run --package makers-supply-web --extra standalone \
+uv run --package makersfridge-web --extra standalone \
   python scripts/build-standalone.py
 ```
 
-The end user extracts the generated archive and runs `makers-supply-catalog` (or
-`makers-supply-catalog.exe`), or opens the macOS app bundle. No Docker, Python
+The end user extracts the generated archive and runs `makersfridge` (or
+`makersfridge.exe`), or opens the macOS app bundle. No Docker, Python
 installation, account, password, or internet connection is needed. Electron presents
 the catalog in its own window and manages a private service bound only to `127.0.0.1`.
 Parts lists belong automatically to the local user and are saved in the OS-specific
@@ -127,7 +127,7 @@ remembered-login option on a shared device.
 Administrators provision accounts without enabling public registration:
 
 ```bash
-uv run makers-supply-web invite \
+uv run makersfridge-web invite \
   --admin admin --base-url https://catalog.example.com
 ```
 
@@ -135,16 +135,16 @@ The command prints a one-use URL that expires in 24 hours; it sends no email.
 
 ## Docker deployment
 
-First generate `dist/makers-supply.sqlite` on the host and ensure LFS objects are
+First generate `dist/makersfridge.sqlite` on the host and ensure LFS objects are
 present. The Compose configuration mounts the entire archive read-only so image and
 model blob paths remain resolvable, while `catalog-state` is writable and persistent.
 
 ```bash
-uv run makers-supply build-db
-export MAKERS_SUPPLY_SECRET_KEY="$(openssl rand -hex 32)"
+uv run makersfridge build-db
+export MAKERSFRIDGE_SECRET_KEY="$(openssl rand -hex 32)"
 docker compose -f apps/catalog-web/compose.yml build
 docker compose -f apps/catalog-web/compose.yml run --rm catalog-web \
-  makers-supply-web create-admin admin
+  makersfridge-web create-admin admin
 docker compose -f apps/catalog-web/compose.yml up -d
 ```
 
@@ -158,7 +158,7 @@ readable. After catalog JSON changes, atomically regenerate the host database an
 restart the service:
 
 ```bash
-uv run makers-supply build-db --output dist/makers-supply.sqlite
+uv run makersfridge build-db --output dist/makersfridge.sqlite
 docker compose -f apps/catalog-web/compose.yml restart catalog-web
 ```
 

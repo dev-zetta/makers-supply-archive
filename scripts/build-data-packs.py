@@ -4,8 +4,8 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from makers_supply.release import PACK_LIMIT, build_data_packs
-from makers_supply.storage import Catalog
+from makersfridge.release import PACK_LIMIT, build_data_packs
+from makersfridge.storage import Catalog
 
 
 def main() -> None:

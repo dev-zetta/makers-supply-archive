@@ -9,7 +9,7 @@ uv run pytest tests
 uv run pytest apps/catalog-web/tests
 uv run ruff check .
 uv run mypy
-uv run makers-supply validate
+uv run makersfridge validate
 ```
 
 Keep source fixes, collector changes, and generated data in separate commits. Never
@@ -31,15 +31,15 @@ Add an override only after verifying that both pages describe the same physical 
 
 Category and tag rules belong in `config/categories.json`; exceptional product assignments
 belong in `config/catalog_overrides.json`. Rules must be deterministic, reviewable,
-and based on stable identifiers or official names. Run `uv run makers-supply
-backfill-metadata --check`, then promote with `uv run makers-supply
+and based on stable identifiers or official names. Run `uv run makersfridge
+backfill-metadata --check`, then promote with `uv run makersfridge
 backfill-metadata`, and review the resulting product JSON. Do not infer or fabricate measurements: only
 unambiguous official structured fields may become normalized measurements.
 Included-item links must come from official product links, unambiguous part numbers,
 exact normalized names, or a unique reviewed component-family signature.
 
 Display-image changes belong in the deterministic processor, not manual blob edits.
-Run `uv run makers-supply process-images` twice and confirm the second run creates no
+Run `uv run makersfridge process-images` twice and confirm the second run creates no
 tracked diff. Downloaded originals must remain referenced and unmodified.
 
 Web changes must keep the generated catalog read-only and user state separate. Run

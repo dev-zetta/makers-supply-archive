@@ -3,7 +3,7 @@ from datetime import UTC, datetime
 import pytest
 from pydantic import ValidationError
 
-from makers_supply.models import Asset, AssetKind, Product, Region, RegionalOffer
+from makersfridge.models import Asset, AssetKind, Product, Region, RegionalOffer
 
 NOW = datetime(2026, 1, 2, tzinfo=UTC)
 

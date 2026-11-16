@@ -4,9 +4,9 @@ from pathlib import Path
 
 import pytest
 
-from makers_supply.models import Region, RegionRun, RunManifest
-from makers_supply.release_evidence import record_acceptance, verify_acceptance
-from makers_supply.storage import snapshot_identity
+from makersfridge.models import Region, RegionRun, RunManifest
+from makersfridge.release_evidence import record_acceptance, verify_acceptance
+from makersfridge.storage import snapshot_identity
 
 
 def receipt(root: Path) -> Path:

@@ -15,10 +15,10 @@ COPY pyproject.toml uv.lock README.md LICENSE ./
 COPY src/ ./src/
 COPY apps/catalog-web/pyproject.toml ./apps/catalog-web/pyproject.toml
 COPY apps/catalog-web/src/ ./apps/catalog-web/src/
-COPY --from=frontend /build/src/makers_supply_web/static/ ./apps/catalog-web/src/makers_supply_web/static/
+COPY --from=frontend /build/src/makersfridge_web/static/ ./apps/catalog-web/src/makersfridge_web/static/
 RUN uv sync --frozen --no-dev --all-packages && useradd --create-home --uid 10001 catalog
 RUN mkdir /state && chown catalog:catalog /state
 USER catalog
 EXPOSE 8000
 HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 CMD ["python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/healthz', timeout=3)"]
-CMD ["makers-supply-web", "serve", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["makersfridge-web", "serve", "--host", "0.0.0.0", "--port", "8000"]

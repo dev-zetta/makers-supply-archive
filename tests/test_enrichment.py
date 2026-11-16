@@ -1,8 +1,8 @@
 from datetime import UTC, datetime
 from pathlib import Path
 
-from makers_supply.enrichment import enrich_product, enrich_products
-from makers_supply.models import (
+from makersfridge.enrichment import enrich_product, enrich_products
+from makersfridge.models import (
     BoxItem,
     Product,
     Region,

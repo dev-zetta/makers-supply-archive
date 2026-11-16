@@ -16,18 +16,18 @@ import urllib.request
 import zipfile
 from pathlib import Path
 
-from makers_supply.storage import atomic_write
-from makers_supply.validation import sha256_file
+from makersfridge.storage import atomic_write
+from makersfridge.validation import sha256_file
 
 
 def check_backend(installed: Path) -> None:
     if sys.platform == "darwin":
-        backend = next(installed.glob("*.app/Contents/Resources/backend/makers-supply-backend"))
+        backend = next(installed.glob("*.app/Contents/Resources/backend/makersfridge-backend"))
     else:
         backend = (
             installed
             / "resources/backend"
-            / ("makers-supply-backend.exe" if sys.platform == "win32" else "makers-supply-backend")
+            / ("makersfridge-backend.exe" if sys.platform == "win32" else "makersfridge-backend")
         )
     with socket.socket() as sock:
         sock.bind(("127.0.0.1", 0))
@@ -102,7 +102,7 @@ def main() -> None:
             executable = next(installed.glob("*.app/Contents/MacOS/*"))
         else:
             executable = installed / (
-                "makers-supply-catalog.exe" if sys.platform == "win32" else "makers-supply-catalog"
+                "makersfridge.exe" if sys.platform == "win32" else "makersfridge"
             )
         subprocess.run(
             [

@@ -9,8 +9,8 @@ resolution-markers = [
 
 [manifest]
 members = [
-    "makers-supply-archive",
-    "makers-supply-web",
+    "makersfridge",
+    "makersfridge-web",
 ]
 
 [[package]]
@@ -468,7 +468,7 @@ wheels = [
 ]
 
 [[package]]
-name = "makers-supply-archive"
+name = "makersfridge"
 version = "1.3.0"
 source = { editable = "." }
 dependencies = [
@@ -502,7 +502,7 @@ requires-dist = [
 provides-extras = ["dev"]
 
 [[package]]
-name = "makers-supply-web"
+name = "makersfridge-web"
 version = "1.3.0"
 source = { editable = "apps/catalog-web" }
 dependencies = [
@@ -510,7 +510,7 @@ dependencies = [
     { name = "argon2-cffi" },
     { name = "fastapi" },
     { name = "jinja2" },
-    { name = "makers-supply-archive" },
+    { name = "makersfridge" },
     { name = "python-multipart" },
     { name = "uvicorn", extra = ["standard"] },
 ]
@@ -526,7 +526,7 @@ requires-dist = [
     { name = "argon2-cffi", specifier = ">=23.1,<26" },
     { name = "fastapi", specifier = ">=0.115,<0.116" },
     { name = "jinja2", specifier = ">=3.1,<4" },
-    { name = "makers-supply-archive", editable = "." },
+    { name = "makersfridge", editable = "." },
     { name = "pyinstaller", marker = "extra == 'standalone'", specifier = ">=6.11,<7" },
     { name = "python-multipart", specifier = ">=0.0.9,<1" },
     { name = "uvicorn", extras = ["standard"], specifier = ">=0.30,<0.35" },

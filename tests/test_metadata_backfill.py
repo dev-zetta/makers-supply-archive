@@ -2,9 +2,9 @@ import hashlib
 from datetime import UTC, datetime
 from pathlib import Path
 
-from makers_supply.metadata_backfill import CachedMetadataBackfill
-from makers_supply.models import Product, Region, SourceAlias
-from makers_supply.storage import Catalog
+from makersfridge.metadata_backfill import CachedMetadataBackfill
+from makersfridge.models import Product, Region, SourceAlias
+from makersfridge.storage import Catalog
 
 
 def test_cached_metadata_backfill_recovers_sections_and_is_idempotent(tmp_path: Path) -> None:

@@ -1,7 +1,7 @@
 import httpx
 import pytest
 
-from makers_supply.http import ArchiveHttpClient
+from makersfridge.http import ArchiveHttpClient
 
 
 def test_robots_rules_are_enforced() -> None:
@@ -50,9 +50,9 @@ def test_broken_cross_origin_robots_redirect_is_unavailable() -> None:
 def test_throttle_adds_bounded_random_jitter(monkeypatch: pytest.MonkeyPatch) -> None:
     moments = iter([11.0, 12.5])
     sleeps: list[float] = []
-    monkeypatch.setattr("makers_supply.http.time.monotonic", lambda: next(moments))
-    monkeypatch.setattr("makers_supply.http.time.sleep", sleeps.append)
-    monkeypatch.setattr("makers_supply.http.random.uniform", lambda _start, _end: 0.5)
+    monkeypatch.setattr("makersfridge.http.time.monotonic", lambda: next(moments))
+    monkeypatch.setattr("makersfridge.http.time.sleep", sleeps.append)
+    monkeypatch.setattr("makersfridge.http.random.uniform", lambda _start, _end: 0.5)
     client = ArchiveHttpClient(delay=2.0, jitter=1.0)
     client._last_request["example.com"] = 10.0
     try:

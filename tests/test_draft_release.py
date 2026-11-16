@@ -6,7 +6,7 @@ from pathlib import Path
 
 import pytest
 
-from makers_supply import __version__
+from makersfridge import __version__
 
 
 @pytest.mark.parametrize(

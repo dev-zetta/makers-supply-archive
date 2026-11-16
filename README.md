@@ -1,14 +1,36 @@
-# Maker's Supply Archive
+# Maker's Fridge
 
-A versioned, multi-region catalog of Bambu Lab Maker's Supply products and their
-publicly downloadable design assets. Canonical, reviewable JSON records are paired
-with content-addressed files and a generated SQLite catalog.
+Your ingredients for the next build: parts, CAD models, design files, regional
+pricing, and project parts lists in one place. Maker's Fridge uses `makersfridge`
+as its package, command, and repository name.
+
+The current versioned, multi-region source archive catalogs Bambu Lab Maker's Supply
+products and their publicly downloadable design assets. Canonical, reviewable JSON
+records are paired with content-addressed files and a generated SQLite catalog.
 
 The archive covers the official USA, EU, UK, Canada, Australia, Japan, Korea, and
 Asia storefronts. It records links to related MakerWorld projects but does not mirror
 those community project files.
 
 ## Installation
+
+### Upgrading from Maker's Supply Archive
+
+The project is now **Maker's Fridge** (`makersfridge`). After updating a checkout,
+run `uv sync --all-packages --extra dev` to install the renamed commands and Python
+packages. The CAD skill is now `makersfridge-cad`; copy that folder again when using
+an installed skill. Published releases through v1.3.0 retain their original asset
+filenames; see [RELEASE.md](RELEASE.md).
+
+Existing `MAKERS_SUPPLY_*` web settings and desktop path overrides remain accepted;
+`MAKERSFRIDGE_*` settings take precedence. The app reuses an existing desktop profile
+when no new profile exists, retaining lists, build progress, secrets, and browser
+storage. Browser preferences and selections move to the new storage keys on first
+use, and existing sessions and region cookies remain readable. The Docker launcher
+also reuses an existing default state volume and container. Back up user state with
+the app closed before upgrading, as for any release.
+
+### Setup
 
 On Ubuntu, Debian, Arch Linux, or Fedora, run:
 
@@ -25,16 +47,16 @@ to also install and start Docker for the visual catalog. See `./setup.sh --help`
 ## Quick start
 
 ```bash
-uv run makers-supply sync --metadata-only --region us
-uv run makers-supply backfill-metadata
-uv run makers-supply backfill-assets
-uv run makers-supply process-images
-uv run makers-supply validate
-uv run makers-supply build-db
-uv run makers-supply materialize ia005-power-distribution-board --output ./export
+uv run makersfridge sync --metadata-only --region us
+uv run makersfridge backfill-metadata
+uv run makersfridge backfill-assets
+uv run makersfridge process-images
+uv run makersfridge validate
+uv run makersfridge build-db
+uv run makersfridge materialize ia005-power-distribution-board --output ./export
 ```
 
-Run `uv run makers-supply --help` for all options. Synchronization occurs in
+Run `uv run makersfridge --help` for all options. Synchronization occurs in
 `.staging/`; validated results are promoted after validation. `--resume` preserves partial
 downloads and verified pages from a matching interrupted run; completed runs start
 fresh scans. Cached pages remain available for backfill. `--dry-run` leaves tracked
@@ -44,7 +66,7 @@ for live smoke tests.
 `backfill-assets` audits official pages retained in `.staging/pages` for CAD archives,
 direct models, PDFs, and other downloadable files that an older parser missed. It is
 discovery-only by default; review the count, then archive through the normal validated
-pipeline with `uv run makers-supply backfill-assets --download --resume`. A product can
+pipeline with `uv run makersfridge backfill-assets --download --resume`. A product can
 be repaired alone with `--product-id <stable-id>`. This command never fetches a cached
 storefront page again and does not bypass a current `robots.txt` restriction.
 
@@ -102,22 +124,22 @@ local session secret. Use `--detach`, `--port PORT`, or `--no-build` as needed. 
 For native Python development after running `./setup.sh`:
 
 ```bash
-uv run makers-supply build-db
-export MAKERS_SUPPLY_ROOT="$PWD"
-export MAKERS_SUPPLY_CATALOG_DB="$PWD/dist/makers-supply.sqlite"
-export MAKERS_SUPPLY_STATE_DB="$PWD/.state/catalog-web.sqlite"
-export MAKERS_SUPPLY_SECRET_KEY="$(openssl rand -hex 32)"
-export MAKERS_SUPPLY_SECURE_COOKIES=0
-uv run makers-supply-web create-admin admin
-uv run makers-supply-web serve
+uv run makersfridge build-db
+export MAKERSFRIDGE_ROOT="$PWD"
+export MAKERSFRIDGE_CATALOG_DB="$PWD/dist/makersfridge.sqlite"
+export MAKERSFRIDGE_STATE_DB="$PWD/.state/catalog-web.sqlite"
+export MAKERSFRIDGE_SECRET_KEY="$(openssl rand -hex 32)"
+export MAKERSFRIDGE_SECURE_COOKIES=0
+uv run makersfridge-web create-admin admin
+uv run makersfridge-web serve
 ```
 
 The insecure-cookie setting is only for loopback HTTP.
 Deployments must keep secure cookies enabled and terminate HTTPS in a reverse proxy.
 Unchecked login uses a browser-session cookie; “Remember me” persists a hashed server
-session and cookie for 30 days. Changing `MAKERS_SUPPLY_SECRET_KEY` invalidates all
+session and cookie for 30 days. Changing `MAKERSFRIDGE_SECRET_KEY` invalidates all
 existing sessions.
-Use `uv run makers-supply-web invite --admin admin --base-url https://catalog.example`
+Use `uv run makersfridge-web invite --admin admin --base-url https://catalog.example`
 to create a single-use, 24-hour invitation URL. Open registration and email delivery
 are intentionally absent.
 
@@ -130,7 +152,7 @@ objects:
 
 ```bash
 npm --prefix apps/catalog-desktop ci
-uv run --package makers-supply-web --extra standalone \
+uv run --package makersfridge-web --extra standalone \
   python scripts/build-standalone.py
 ```
 
@@ -143,7 +165,7 @@ The default local build remains bundled. Use `--layout split` to build only the 
 and `uv run python scripts/build-data-packs.py --revision "$(git rev-parse HEAD)"`
 to generate shared data. No Python or other development tools are needed by end users.
 
-The result is written to `dist/standalone/makers-supply-catalog-<platform>-<arch>` and
+The result is written to `dist/standalone/makersfridge-<platform>-<arch>` and
 also packaged as `.zip` on Windows or `.tar.gz` on macOS/Linux. The Electron shell
 opens the catalog in its own application window and manages its loopback-only Python
 sidecar. It uses an automatic local user, so there is no account setup, password, or
@@ -164,9 +186,9 @@ prices whose currency does not match their region. Run a complete eight-region r
 before treating regional totals as current:
 
 ```bash
-uv run makers-supply sync --metadata-only --resume
-uv run makers-supply validate --no-check-blobs
-uv run makers-supply build-db
+uv run makersfridge sync --metadata-only --resume
+uv run makersfridge validate --no-check-blobs
+uv run makersfridge build-db
 ```
 
 See [the web application guide](apps/catalog-web/README.md) for Docker deployment,
@@ -174,7 +196,7 @@ backups, administration, frontend development, and security details.
 
 ## AI agents and CAD
 
-The portable [Maker's Supply CAD skill](skills/README.md) lets Codex, Claude Code,
+The portable [Maker's Fridge CAD skill](skills/README.md) lets Codex, Claude Code,
 and other Agent Skills clients find hardware, inspect exact variants and source
 dimensions, and export verified reference files with provenance for CAD projects.
 It works offline with a checkout or an extracted portable catalog and includes
@@ -202,7 +224,7 @@ sync. The default preflight budget is 5 GiB total and 500 MiB per file:
 
 ```bash
 git lfs install
-uv run makers-supply lfs-preflight
+uv run makersfridge lfs-preflight
 ```
 
 GitHub LFS storage and bandwidth are quota-limited. Review `reports/latest.md`, the
@@ -242,7 +264,7 @@ attribution, third-party rights, and takedown handling, and
 
 ```bash
 uv sync --all-packages --extra dev
-uv run makers-supply --help
+uv run makersfridge --help
 uv run pytest tests
 uv run pytest apps/catalog-web/tests
 uv run ruff check .

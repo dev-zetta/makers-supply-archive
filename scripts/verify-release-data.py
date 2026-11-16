@@ -9,8 +9,8 @@ import shutil
 import zipfile
 from pathlib import Path
 
-from makers_supply.release import ReleaseManifest, verify_installed_catalog
-from makers_supply.validation import sha256_file
+from makersfridge.release import ReleaseManifest, verify_installed_catalog
+from makersfridge.validation import sha256_file
 
 
 def main() -> None:

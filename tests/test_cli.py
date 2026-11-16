@@ -2,7 +2,7 @@ import json
 import tomllib
 from pathlib import Path
 
-from makers_supply import __version__
+from makersfridge import __version__
 
 
 def test_version() -> None:
@@ -19,5 +19,5 @@ def test_package_and_lock_versions_are_consistent() -> None:
     assert package["version"] == lock["version"] == lock["packages"][""]["version"] == __version__
     python_lock = tomllib.loads((root / "uv.lock").read_text("utf-8"))
     for package in python_lock["package"]:
-        if package["name"] in {"makers-supply-archive", "makers-supply-web"}:
+        if package["name"] in {"makersfridge", "makersfridge-web"}:
             assert package["version"] == __version__

@@ -11,11 +11,11 @@ from uuid import uuid4
 
 import httpx
 import pytest
-from makers_supply_web import state
-from makers_supply_web.app import create_app
-from makers_supply_web.config import Settings
-from makers_supply_web.security import PASSWORDS, now, token_hash
-from makers_supply_web.state import connect, migrate
+from makersfridge_web import state
+from makersfridge_web.app import create_app
+from makersfridge_web.config import Settings
+from makersfridge_web.security import PASSWORDS, now, token_hash
+from makersfridge_web.state import connect, migrate
 from test_catalog import authenticated_client, make_settings
 
 

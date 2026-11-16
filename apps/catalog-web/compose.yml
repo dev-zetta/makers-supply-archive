@@ -5,11 +5,11 @@ services:
       dockerfile: apps/catalog-web/Dockerfile
     restart: unless-stopped
     environment:
-      MAKERS_SUPPLY_ROOT: /archive
-      MAKERS_SUPPLY_CATALOG_DB: /archive/dist/makers-supply.sqlite
-      MAKERS_SUPPLY_STATE_DB: /state/catalog-web.sqlite
-      MAKERS_SUPPLY_SECRET_KEY: ${MAKERS_SUPPLY_SECRET_KEY:?set a long random secret}
-      MAKERS_SUPPLY_SECURE_COOKIES: "1"
+      MAKERSFRIDGE_ROOT: /archive
+      MAKERSFRIDGE_CATALOG_DB: /archive/dist/makersfridge.sqlite
+      MAKERSFRIDGE_STATE_DB: /state/catalog-web.sqlite
+      MAKERSFRIDGE_SECRET_KEY: ${MAKERSFRIDGE_SECRET_KEY:-${MAKERS_SUPPLY_SECRET_KEY:?set a long random secret}}
+      MAKERSFRIDGE_SECURE_COOKIES: "1"
     ports:
       - "127.0.0.1:8000:8000"
     volumes:

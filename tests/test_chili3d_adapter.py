@@ -8,7 +8,7 @@ from typing import Any
 
 import pytest
 
-SCRIPTS = Path(__file__).resolve().parents[1] / "skills/makers-supply-cad/scripts"
+SCRIPTS = Path(__file__).resolve().parents[1] / "skills/makersfridge-cad/scripts"
 sys.path.insert(0, str(SCRIPTS))
 SPEC = importlib.util.spec_from_file_location(
     "chili3d_adapter", SCRIPTS / "chili3d_bearing_housing.py"

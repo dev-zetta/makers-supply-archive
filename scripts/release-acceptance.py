@@ -4,7 +4,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from makers_supply.release_evidence import record_acceptance, verify_acceptance
+from makersfridge.release_evidence import record_acceptance, verify_acceptance
 
 
 def main() -> None:

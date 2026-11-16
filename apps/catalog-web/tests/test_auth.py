@@ -4,10 +4,10 @@ from uuid import uuid4
 
 import httpx
 import pytest
-from makers_supply_web.app import create_app
-from makers_supply_web.config import Settings
-from makers_supply_web.security import PASSWORDS, now, token, token_hash
-from makers_supply_web.state import connect, migrate
+from makersfridge_web.app import create_app
+from makersfridge_web.config import Settings
+from makersfridge_web.security import PASSWORDS, now, token, token_hash
+from makersfridge_web.state import connect, migrate
 
 
 @pytest.fixture
@@ -56,13 +56,40 @@ async def test_login_uses_hashed_session_and_csrf(tmp_path: Path) -> None:
         assert response.status_code == 303
         assert response.headers["x-content-type-options"] == "nosniff"
         assert "frame-ancestors 'none'" in response.headers["content-security-policy"]
-        raw_cookie = response.cookies["makers_supply_session"]
+        raw_cookie = response.cookies["makersfridge_session"]
         with connect(config.state_db) as connection:
             session = connection.execute("SELECT * FROM sessions").fetchone()
         assert session is not None
         assert session["token_hash"] != raw_cookie
         assert len(session["csrf_token"]) > 20
         assert "max-age" not in response.headers["set-cookie"].casefold()
+
+
+@pytest.mark.anyio
+async def test_legacy_session_authenticates_and_is_revoked_on_logout(tmp_path: Path) -> None:
+    config = settings(tmp_path)
+    create_user(config)
+    transport = httpx.ASGITransport(app=create_app(config))
+    async with httpx.AsyncClient(transport=transport, base_url="http://test") as client:
+        login = await client.post(
+            "/login", data={"username": "admin", "password": "correct horse battery"}
+        )
+        raw = login.cookies["makersfridge_session"]
+        domain = next(iter(login.cookies.jar)).domain
+        client.cookies.clear()
+        client.cookies.set("makers_supply_session", raw, domain=domain)
+        page = await client.get("/lists")
+        assert page.status_code == 200
+        assert "Maker's Fridge" in page.text
+        with connect(config.state_db) as connection:
+            csrf = connection.execute("SELECT csrf_token FROM sessions").fetchone()[0]
+        response = await client.post("/logout", data={"csrf": csrf})
+        assert response.status_code == 303
+        assert "makers_supply_session" not in client.cookies
+        with connect(config.state_db) as connection:
+            assert connection.execute("SELECT count(*) FROM sessions").fetchone()[0] == 0
+        client.cookies.set("makers_supply_session", raw, domain=domain)
+        assert (await client.get("/lists")).status_code == 303
 
 
 @pytest.mark.anyio

@@ -5,11 +5,11 @@ from uuid import uuid4
 
 import httpx
 import pytest
-from makers_supply_web.app import create_app
-from makers_supply_web.config import Settings
-from makers_supply_web.parts import current_price, list_view
-from makers_supply_web.security import PASSWORDS, now
-from makers_supply_web.state import connect
+from makersfridge_web.app import create_app
+from makersfridge_web.config import Settings
+from makersfridge_web.parts import current_price, list_view
+from makersfridge_web.security import PASSWORDS, now
+from makersfridge_web.state import connect
 from test_catalog import authenticated_client, make_settings
 
 

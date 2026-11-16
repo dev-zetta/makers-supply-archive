@@ -6,14 +6,14 @@ from uuid import uuid4
 
 import httpx
 import pytest
-from makers_supply_web.app import create_app, human_datetime
-from makers_supply_web.catalog import SearchFilters, product_detail, search_products
-from makers_supply_web.config import Settings
-from makers_supply_web.security import PASSWORDS, now
-from makers_supply_web.state import connect, migrate
+from makersfridge_web.app import create_app, human_datetime
+from makersfridge_web.catalog import SearchFilters, product_detail, search_products
+from makersfridge_web.config import Settings
+from makersfridge_web.security import PASSWORDS, now
+from makersfridge_web.state import connect, migrate
 
-from makers_supply.database import build_database
-from makers_supply.models import (
+from makersfridge.database import build_database
+from makersfridge.models import (
     Asset,
     AssetKind,
     BoxItem,
@@ -29,7 +29,7 @@ from makers_supply.models import (
     RelatedLink,
     Variant,
 )
-from makers_supply.storage import Catalog
+from makersfridge.storage import Catalog
 
 
 @pytest.fixture
@@ -415,7 +415,7 @@ async def test_global_region_switch_filters_catalog_and_product_commerce(
         await client.aclose()
 
     assert switched.status_code == 303
-    assert "makers_supply_region=eu" in switched.headers["set-cookie"]
+    assert "makersfridge_region=eu" in switched.headers["set-cookie"]
     assert "EU variants and pricing" in european_detail.text
     assert "European Kit" in european_detail.text
     assert "5.99 EUR" in european_detail.text

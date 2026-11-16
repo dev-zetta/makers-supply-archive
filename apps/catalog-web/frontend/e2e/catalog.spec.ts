@@ -18,6 +18,34 @@ test("searches and opens a product with its official information", async ({ page
   await expect(page.getByRole("heading", { name: "Dimensions" })).toBeVisible();
 });
 
+test("keeps pre-rename selections and sidebar preferences", async ({ page }) => {
+  const first = page.locator("[data-product-select]").first();
+  const id = await first.inputValue();
+  await page.evaluate((productId) => {
+    localStorage.removeItem("makersfridge-filters-collapsed");
+    localStorage.removeItem("makersfridge-selection-v1");
+    localStorage.setItem("makers-supply-filters-collapsed", "true");
+    localStorage.setItem("makers-supply-catalog-selection-v1", JSON.stringify([
+      { id: productId, name: "Migrated part", price: "", currency: "", image: "" },
+    ]));
+  }, id);
+  await page.reload();
+  await expect(page).toHaveTitle("Maker's Fridge");
+  await expect(page.locator(".brand")).toContainText("Maker's Fridge");
+  await expect(page.locator("#catalog-layout")).toHaveClass(/filters-collapsed/);
+  await expect(page.locator("[data-product-select]").first()).toBeChecked();
+  await page.locator("#selection-open").click();
+  await expect(page.locator("#selection-items")).toContainText("Migrated part");
+  const storage = await page.evaluate(() => ({
+    sidebar: localStorage.getItem("makersfridge-filters-collapsed"),
+    selection: JSON.parse(localStorage.getItem("makersfridge-selection-v1") ?? "[]"),
+    legacy: localStorage.getItem("makers-supply-catalog-selection-v1"),
+  }));
+  expect(storage.sidebar).toBe("true");
+  expect(storage.selection[0].id).toBe(id);
+  expect(storage.legacy).toBeNull();
+});
+
 test("renders an archived STL with the shaded model viewer", async ({ page }) => {
   await page.goto("/products/la024-030-micro-dc-motor-with-sh1-0");
   await page.getByRole("button", { name: "Preview 3D" }).first().click();

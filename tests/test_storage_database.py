@@ -3,8 +3,8 @@ import sqlite3
 from datetime import UTC, datetime
 from pathlib import Path
 
-from makers_supply.database import build_database
-from makers_supply.models import (
+from makersfridge.database import build_database
+from makersfridge.models import (
     Asset,
     AssetKind,
     BoxItem,
@@ -13,8 +13,8 @@ from makers_supply.models import (
     Region,
     RegionalOffer,
 )
-from makers_supply.portable import build_portable_catalog
-from makers_supply.storage import Catalog
+from makersfridge.portable import build_portable_catalog
+from makersfridge.storage import Catalog
 
 
 def sample_product() -> Product:

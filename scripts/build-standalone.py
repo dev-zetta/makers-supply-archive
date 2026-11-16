@@ -11,10 +11,10 @@ import sys
 import tempfile
 from pathlib import Path
 
-from makers_supply import __version__
-from makers_supply.portable import build_portable_catalog
-from makers_supply.release import INSTALLATION, write_bundled_manifest, write_checksums
-from makers_supply.storage import Catalog, atomic_write
+from makersfridge import __version__
+from makersfridge.portable import build_portable_catalog
+from makersfridge.release import INSTALLATION, write_bundled_manifest, write_checksums
+from makersfridge.storage import Catalog, atomic_write
 
 
 def platform_tag() -> str:
@@ -76,8 +76,8 @@ def build_electron_shell(project_root: Path, workspace: Path, backend: Path) -> 
         config,
         json.dumps(
             {
-                "appId": "org.makerssupply.catalog",
-                "productName": "Maker's Supply Catalog",
+                "appId": "org.makersfridge.desktop",
+                "productName": "Maker's Fridge",
                 "asar": True,
                 "npmRebuild": False,
                 "directories": {
@@ -88,11 +88,11 @@ def build_electron_shell(project_root: Path, workspace: Path, backend: Path) -> 
                 "extraResources": [{"from": str(backend), "to": "backend"}],
                 "linux": {
                     "category": "Utility",
-                    "executableName": "makers-supply-catalog",
+                    "executableName": "makersfridge",
                     "target": "dir",
                 },
                 "mac": {"category": "public.app-category.utilities", "target": "dir"},
-                "win": {"executableName": "makers-supply-catalog", "target": "dir"},
+                "win": {"executableName": "makersfridge", "target": "dir"},
             },
             indent=2,
         )
@@ -113,7 +113,7 @@ def build_electron_shell(project_root: Path, workspace: Path, backend: Path) -> 
 def main() -> None:
     project_root = Path(__file__).resolve().parents[1]
     parser = argparse.ArgumentParser(
-        description="Build a login-free, portable Maker's Supply Catalog app"
+        description="Build a login-free, portable Maker's Fridge app"
     )
     parser.add_argument("--root", type=Path, default=project_root)
     parser.add_argument("--output", type=Path, default=Path("dist/standalone"))
@@ -132,18 +132,18 @@ def main() -> None:
         import PyInstaller.__main__
     except ImportError as error:
         parser.error(
-            "PyInstaller is not installed; run with --package makers-supply-web --extra standalone"
+            "PyInstaller is not installed; run with --package makersfridge-web --extra standalone"
         )
         raise AssertionError from error
 
     root = args.root.resolve()
     output = args.output.resolve()
-    destination = output / f"makers-supply-catalog-{platform_tag()}"
+    destination = output / f"makersfridge-{platform_tag()}"
     if destination.exists():
         parser.error(f"destination already exists: {destination}")
     output.mkdir(parents=True, exist_ok=True)
 
-    with tempfile.TemporaryDirectory(prefix="makers-supply-build-", dir=output) as temporary:
+    with tempfile.TemporaryDirectory(prefix="makersfridge-build-", dir=output) as temporary:
         workspace = Path(temporary)
         portable = (
             build_portable_catalog(Catalog(root), workspace / "portable")
@@ -158,13 +158,13 @@ def main() -> None:
                 "--onedir",
                 "--console",
                 "--name",
-                "makers-supply-backend",
+                "makersfridge-backend",
                 "--paths",
                 str(project_root / "src"),
                 "--paths",
                 str(project_root / "apps/catalog-web/src"),
                 "--collect-data",
-                "makers_supply_web",
+                "makersfridge_web",
                 "--distpath",
                 str(pyinstaller_dist),
                 "--workpath",
@@ -174,7 +174,7 @@ def main() -> None:
                 str(project_root / "scripts/standalone_entry.py"),
             ]
         )
-        backend = pyinstaller_dist / "makers-supply-backend"
+        backend = pyinstaller_dist / "makersfridge-backend"
         clear_linux_executable_stacks(backend)
         electron_app = build_electron_shell(project_root, workspace, backend)
         shutil.move(electron_app, destination)
@@ -201,10 +201,10 @@ def main() -> None:
         )
         atomic_write(
             destination / "README.txt",
-            "Maker's Supply Catalog — standalone desktop app\n"
+            "Maker's Fridge — standalone desktop app\n"
             "\n"
-            "Run makers-supply-catalog on Linux, makers-supply-catalog.exe on Windows, "
-            "or the Maker's Supply Catalog app on macOS. The catalog opens in its own "
+            "Run makersfridge on Linux, makersfridge.exe on Windows, "
+            "or the Maker's Fridge app on macOS. The catalog opens in its own "
             "application window. No Docker installation, account, password, or internet "
             "connection is required.\n"
             "\n"
@@ -219,7 +219,7 @@ def main() -> None:
         archive_format = "zip" if sys.platform == "win32" else "gztar"
         archive = Path(
             shutil.make_archive(
-                str(output / f"makers-supply-catalog-{__version__}-{platform_tag()}"),
+                str(output / f"makersfridge-{__version__}-{platform_tag()}"),
                 archive_format,
                 destination if args.layout == "split" else destination.parent,
                 "." if args.layout == "split" else destination.name,

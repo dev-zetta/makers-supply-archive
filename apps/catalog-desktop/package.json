@@ -1,8 +1,8 @@
 {
-  "name": "makers-supply-catalog-desktop",
+  "name": "makersfridge-desktop",
   "version": "1.3.0",
   "private": true,
-  "description": "Native desktop shell for the Maker's Supply Catalog",
+  "description": "Native desktop shell for the Maker's Fridge",
   "main": "main.cjs",
   "scripts": {
     "check": "node --check main.cjs && node tests/startup.test.cjs"

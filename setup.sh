@@ -12,7 +12,7 @@ usage() {
   cat <<'EOF'
 Usage: ./setup.sh [options]
 
-Prepare Maker's Supply Archive on Ubuntu, Debian, Arch Linux, or Fedora.
+Prepare Maker's Fridge on Ubuntu, Debian, Arch Linux, or Fedora.
 
 The default setup installs the system prerequisites, Git LFS, uv, Python 3.12,
 the project and development dependencies, then downloads and validates the LFS
@@ -192,10 +192,10 @@ fi
 
 log "Validating the checkout"
 if ((SETUP_PULL_LFS)); then
-  "$SETUP_UV" run makers-supply validate
-  "$SETUP_UV" run makers-supply lfs-preflight
+  "$SETUP_UV" run makersfridge validate
+  "$SETUP_UV" run makersfridge lfs-preflight
 else
-  "$SETUP_UV" run makers-supply validate --no-check-blobs
+  "$SETUP_UV" run makersfridge validate --no-check-blobs
 fi
 
 if ((SETUP_WITH_DOCKER)); then
@@ -230,7 +230,7 @@ if ((SETUP_WITH_DOCKER)); then
   fi
 fi
 
-printf '\nSetup complete. Try:\n  uv run makers-supply --help\n'
+printf '\nSetup complete. Try:\n  uv run makersfridge --help\n'
 if ((SETUP_WITH_DOCKER)); then
   if ((SETUP_DOCKER_LOGIN_REQUIRED)); then
     printf '\nLog out and back in once to activate Docker group membership, then run:\n'

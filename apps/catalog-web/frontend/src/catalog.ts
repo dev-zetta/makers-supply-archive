@@ -29,7 +29,18 @@ filterForm?.addEventListener("submit", () => {
 
 const layout = document.querySelector<HTMLElement>("#catalog-layout");
 const sidebarToggle = document.querySelector<HTMLButtonElement>(".sidebar-toggle");
-const sidebarPreference = "makers-supply-filters-collapsed";
+const sidebarPreference = "makersfridge-filters-collapsed";
+
+function storedPreference(key: string, legacyKey: string): string | null {
+  const current = localStorage.getItem(key);
+  if (current !== null) return current;
+  const legacy = localStorage.getItem(legacyKey);
+  if (legacy !== null) {
+    localStorage.setItem(key, legacy);
+    localStorage.removeItem(legacyKey);
+  }
+  return legacy;
+}
 
 function setSidebar(collapsed: boolean): void {
   if (!layout || !sidebarToggle) return;
@@ -46,7 +57,7 @@ function setSidebar(collapsed: boolean): void {
 if (layout && sidebarToggle) {
   let collapsed = false;
   try {
-    collapsed = localStorage.getItem(sidebarPreference) === "true";
+    collapsed = storedPreference(sidebarPreference, "makers-supply-filters-collapsed") === "true";
   } catch {
     // Use the expanded default when storage is unavailable.
   }
@@ -91,7 +102,7 @@ type SelectedProduct = {
   image: string;
 };
 
-const selectionKey = "makers-supply-catalog-selection-v1";
+const selectionKey = "makersfridge-selection-v1";
 const selectionDrawer = document.querySelector<HTMLElement>("#selection-drawer");
 const selectionOpen = document.querySelector<HTMLButtonElement>("#selection-open");
 const selectionClose = document.querySelector<HTMLButtonElement>("#selection-close");
@@ -108,7 +119,9 @@ const newListName = document.querySelector<HTMLInputElement>("#selection-list-na
 
 function readSelection(): Map<string, SelectedProduct> {
   try {
-    const parsed: unknown = JSON.parse(localStorage.getItem(selectionKey) ?? "[]");
+    const parsed: unknown = JSON.parse(
+      storedPreference(selectionKey, "makers-supply-catalog-selection-v1") ?? "[]"
+    );
     if (!Array.isArray(parsed)) return new Map();
     return new Map(
       parsed

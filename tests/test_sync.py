@@ -7,10 +7,10 @@ import httpx
 import pytest
 from PIL import Image, ImageDraw
 
-from makers_supply.http import ArchiveHttpClient
-from makers_supply.models import Asset, AssetKind, Product, Region, SourceAlias, utc_now
-from makers_supply.storage import Catalog
-from makers_supply.sync import SyncEngine, SyncOptions
+from makersfridge.http import ArchiveHttpClient
+from makersfridge.models import Asset, AssetKind, Product, Region, SourceAlias, utc_now
+from makersfridge.storage import Catalog
+from makersfridge.sync import SyncEngine, SyncOptions
 
 FIXTURES = Path(__file__).parent / "fixtures"
 

@@ -8,12 +8,12 @@ from pathlib import Path
 import httpx
 import pytest
 
-from makers_supply.assets import AssetStore, DownloadLimits, UnsafeAssetError, materialize_product
-from makers_supply.http import ArchiveHttpClient
-from makers_supply.models import Asset, AssetKind, Product
-from makers_supply.parser import ParsedAsset
-from makers_supply.storage import Catalog
-from makers_supply.validation import validate_product
+from makersfridge.assets import AssetStore, DownloadLimits, UnsafeAssetError, materialize_product
+from makersfridge.http import ArchiveHttpClient
+from makersfridge.models import Asset, AssetKind, Product
+from makersfridge.parser import ParsedAsset
+from makersfridge.storage import Catalog
+from makersfridge.validation import validate_product
 
 NOW = datetime(2026, 1, 2, tzinfo=UTC)
 
@@ -44,7 +44,7 @@ def archive_asset() -> Asset:
         "application/zip",
         AssetKind.ARCHIVE,
     )
-    from makers_supply.assets import asset_from_parsed
+    from makersfridge.assets import asset_from_parsed
 
     return asset_from_parsed(parsed)
 

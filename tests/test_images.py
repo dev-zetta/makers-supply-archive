@@ -6,9 +6,9 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw
 
-from makers_supply.images import ImageProcessor, detect_title_bar
-from makers_supply.models import Asset, AssetKind
-from makers_supply.storage import Catalog
+from makersfridge.images import ImageProcessor, detect_title_bar
+from makersfridge.models import Asset, AssetKind
+from makersfridge.storage import Catalog
 
 NOW = datetime(2026, 1, 2, tzinfo=UTC)
 

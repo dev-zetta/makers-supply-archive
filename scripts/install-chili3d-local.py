@@ -19,11 +19,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 PORT = __PORT__
 URL = f"http://127.0.0.1:{PORT}"
-STATE = Path.home() / ".local/state/makers-supply/chili3d-0.8.0"
+STATE = Path.home() / ".local/state/makersfridge/chili3d-0.8.0"
 def healthy():
     try:
-        with urllib.request.urlopen(URL + "/makers-supply-install.json", timeout=2) as response:
-            expected = json.loads((ROOT / "web/makers-supply-install.json").read_text())
+        with urllib.request.urlopen(URL + "/makersfridge-install.json", timeout=2) as response:
+            expected = json.loads((ROOT / "web/makersfridge-install.json").read_text())
             return json.load(response) == expected
     except (OSError, ValueError):
         return False
@@ -79,7 +79,7 @@ def main() -> None:
     node = shutil.which("node")
     if node is None:
         p.error("Node.js 20+ is required")
-    target = args.prefix.resolve() / "share/makers-supply/cad/chili3d/0.8.0"
+    target = args.prefix.resolve() / "share/makersfridge/cad/chili3d/0.8.0"
     if target.exists():
         p.error(f"Installation already exists: {target}")
     for path in [args.prefix / "bin/chili3d", args.prefix / "bin/chili3d-mcp"]:
@@ -104,7 +104,7 @@ def main() -> None:
         "source_url": "https://github.com/xiangechen/chili3d/releases/tag/0.8.0",
         "integration_patch_sha256": hashlib.sha256(patch.encode()).hexdigest() if patch else None,
     }
-    (target / "web/makers-supply-install.json").write_text(json.dumps(receipt, indent=2) + "\n")
+    (target / "web/makersfridge-install.json").write_text(json.dumps(receipt, indent=2) + "\n")
     launch = target / "launch.py"
     launch.write_text(LAUNCHER.replace("__PORT__", str(args.port)))
     launch.chmod(0o755)
@@ -113,7 +113,7 @@ def main() -> None:
     wrapper.write_text(
         "#!/bin/sh\nexport CHILI3D_APP_URL="
         + shlex.quote(app_url)
-        + '\nexport CHILI3D_MCP_HOME="$HOME/.local/state/makers-supply/chili3d-0.8.0/bridge"\n'
+        + '\nexport CHILI3D_MCP_HOME="$HOME/.local/state/makersfridge/chili3d-0.8.0/bridge"\n'
         + 'if [ "$1" = "mcp" ]; then\n  '
         + shlex.quote(sys.executable)
         + " "

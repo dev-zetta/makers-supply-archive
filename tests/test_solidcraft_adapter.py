@@ -13,7 +13,7 @@ import pytest
 
 SCRIPT = (
     Path(__file__).resolve().parents[1]
-    / "skills/makers-supply-cad/scripts/solidcraft_bearing_housing.py"
+    / "skills/makersfridge-cad/scripts/solidcraft_bearing_housing.py"
 )
 SPEC = importlib.util.spec_from_file_location("solidcraft_adapter", SCRIPT)
 assert SPEC is not None and SPEC.loader is not None
@@ -56,7 +56,7 @@ def reference(tmp_path: Path) -> Path:
     (root / "manifest.json").write_text(
         json.dumps(
             {
-                "format": "makers-supply-cad",
+                "format": "makersfridge-cad",
                 "product_id": adapter.PRODUCT_ID,
                 "assets": [asset],
             }
@@ -69,6 +69,15 @@ def test_verified_reference_keeps_rights_and_dimensions(reference: Path) -> None
     product, asset, path = adapter.load_reference(reference)
     assert asset["rights_status"] == "unknown"
     assert product["source_tables"][0]["rows"][0][2:5] == ["8", "22", "7"]
+    assert path.read_bytes().startswith(b"ISO-")
+
+
+def test_pre_rename_reference_package_remains_usable(reference: Path) -> None:
+    manifest = json.loads((reference / "manifest.json").read_text())
+    manifest["format"] = "makers-supply-cad"
+    (reference / "manifest.json").write_text(json.dumps(manifest))
+    _, asset, path = adapter.load_reference(reference)
+    assert asset["rights_status"] == "unknown"
     assert path.read_bytes().startswith(b"ISO-")
 
 

@@ -1,11 +1,11 @@
 from datetime import UTC, datetime
 from pathlib import Path
 
-from makers_supply.diffing import diff_products
-from makers_supply.discovery import ProductStub
-from makers_supply.models import Product, Region, SourceAlias
-from makers_supply.parser import ParsedProduct, ParsedVariant
-from makers_supply.reconcile import (
+from makersfridge.diffing import diff_products
+from makersfridge.discovery import ProductStub
+from makersfridge.models import Product, Region, SourceAlias
+from makersfridge.parser import ParsedProduct, ParsedVariant
+from makersfridge.reconcile import (
     AliasRegistry,
     Observation,
     Reconciler,

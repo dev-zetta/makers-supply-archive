@@ -1,13 +1,22 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Existing launcher configuration keeps working after the project rename.
+for CATALOG_ENV_SUFFIX in IMAGE CONTAINER_NAME STATE_VOLUME ADMIN PORT SECRET_KEY ADMIN_PASSWORD_STDIN; do
+  CATALOG_NEW_ENV="MAKERSFRIDGE_$CATALOG_ENV_SUFFIX"
+  CATALOG_OLD_ENV="MAKERS_SUPPLY_$CATALOG_ENV_SUFFIX"
+  if [[ ! -v "$CATALOG_NEW_ENV" && -v "$CATALOG_OLD_ENV" ]]; then
+    export "$CATALOG_NEW_ENV=${!CATALOG_OLD_ENV}"
+  fi
+done
+
 CATALOG_SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 CATALOG_ROOT="$(cd -- "$CATALOG_SCRIPT_DIR/.." && pwd)"
-CATALOG_IMAGE="${MAKERS_SUPPLY_IMAGE:-makers-supply-catalog:local}"
-CATALOG_CONTAINER="${MAKERS_SUPPLY_CONTAINER_NAME:-makers-supply-ui}"
-CATALOG_STATE_VOLUME="${MAKERS_SUPPLY_STATE_VOLUME:-makers-supply-catalog-state}"
-CATALOG_ADMIN="${MAKERS_SUPPLY_ADMIN:-admin}"
-CATALOG_PORT="${MAKERS_SUPPLY_PORT:-8000}"
+CATALOG_IMAGE="${MAKERSFRIDGE_IMAGE:-makersfridge:local}"
+CATALOG_CONTAINER="${MAKERSFRIDGE_CONTAINER_NAME:-makersfridge-ui}"
+CATALOG_STATE_VOLUME="${MAKERSFRIDGE_STATE_VOLUME:-makersfridge-state}"
+CATALOG_ADMIN="${MAKERSFRIDGE_ADMIN:-admin}"
+CATALOG_PORT="${MAKERSFRIDGE_PORT:-8000}"
 CATALOG_BUILD_IMAGE=1
 CATALOG_DETACH=0
 
@@ -24,12 +33,12 @@ Options:
   -h, --help     Show this help
 
 Environment overrides:
-  MAKERS_SUPPLY_ADMIN                 Initial administrator name (default: admin)
-  MAKERS_SUPPLY_ADMIN_PASSWORD_STDIN  Set to 1 to read the first password from stdin
-  MAKERS_SUPPLY_IMAGE                 Docker image tag
-  MAKERS_SUPPLY_CONTAINER_NAME        Docker container name
-  MAKERS_SUPPLY_STATE_VOLUME          Docker volume for accounts and lists
-  MAKERS_SUPPLY_SECRET_KEY            Override the persisted local session secret
+  MAKERSFRIDGE_ADMIN                 Initial administrator name (default: admin)
+  MAKERSFRIDGE_ADMIN_PASSWORD_STDIN  Set to 1 to read the first password from stdin
+  MAKERSFRIDGE_IMAGE                 Docker image tag
+  MAKERSFRIDGE_CONTAINER_NAME        Docker container name
+  MAKERSFRIDGE_STATE_VOLUME          Docker volume for accounts and lists
+  MAKERSFRIDGE_SECRET_KEY            Override the persisted local session secret
 EOF
 }
 
@@ -76,11 +85,22 @@ if ! docker info >/dev/null 2>&1; then
   exit 1
 fi
 
+if [[ -z "${MAKERSFRIDGE_STATE_VOLUME:-}" ]] \
+  && ! docker volume inspect "$CATALOG_STATE_VOLUME" >/dev/null 2>&1 \
+  && docker volume inspect makers-supply-catalog-state >/dev/null 2>&1; then
+  CATALOG_STATE_VOLUME=makers-supply-catalog-state
+fi
+if [[ -z "${MAKERSFRIDGE_CONTAINER_NAME:-}" ]] \
+  && ! docker container inspect "$CATALOG_CONTAINER" >/dev/null 2>&1 \
+  && docker container inspect makers-supply-ui >/dev/null 2>&1; then
+  CATALOG_CONTAINER=makers-supply-ui
+fi
+
 mkdir -p "$CATALOG_ROOT/.state" "$CATALOG_ROOT/dist"
 chmod 0700 "$CATALOG_ROOT/.state"
 CATALOG_SECRET_FILE="$CATALOG_ROOT/.state/catalog-web.secret"
-if [[ -n "${MAKERS_SUPPLY_SECRET_KEY:-}" ]]; then
-  CATALOG_SECRET="$MAKERS_SUPPLY_SECRET_KEY"
+if [[ -n "${MAKERSFRIDGE_SECRET_KEY:-}" ]]; then
+  CATALOG_SECRET="$MAKERSFRIDGE_SECRET_KEY"
 else
   if [[ ! -s "$CATALOG_SECRET_FILE" ]]; then
     umask 077
@@ -97,7 +117,7 @@ else
   IFS= read -r CATALOG_SECRET <"$CATALOG_SECRET_FILE"
 fi
 if ((${#CATALOG_SECRET} < 32)); then
-  echo "MAKERS_SUPPLY_SECRET_KEY must contain at least 32 characters." >&2
+  echo "MAKERSFRIDGE_SECRET_KEY must contain at least 32 characters." >&2
   exit 1
 fi
 
@@ -110,34 +130,34 @@ elif ! docker image inspect "$CATALOG_IMAGE" >/dev/null 2>&1; then
   exit 1
 fi
 
-echo "Generating dist/makers-supply.sqlite ..."
+echo "Generating dist/makersfridge.sqlite ..."
 docker run --rm \
   --user "$(id -u):$(id -g)" \
   --workdir /archive \
-  -e MAKERS_SUPPLY_ROOT=/archive \
+  -e MAKERSFRIDGE_ROOT=/archive \
   -v "$CATALOG_ROOT:/archive" \
   "$CATALOG_IMAGE" \
-  makers-supply build-db --root /archive --output /archive/dist/makers-supply.sqlite
+  makersfridge build-db --root /archive --output /archive/dist/makersfridge.sqlite
 
 docker volume create "$CATALOG_STATE_VOLUME" >/dev/null
 CATALOG_ADMIN_TTY=(-i)
-if [[ -t 0 && -t 1 && "${MAKERS_SUPPLY_ADMIN_PASSWORD_STDIN:-0}" != "1" ]]; then
+if [[ -t 0 && -t 1 && "${MAKERSFRIDGE_ADMIN_PASSWORD_STDIN:-0}" != "1" ]]; then
   CATALOG_ADMIN_TTY+=(-t)
 fi
 CATALOG_ADMIN_OPTIONS=(--if-missing)
-if [[ "${MAKERS_SUPPLY_ADMIN_PASSWORD_STDIN:-0}" == "1" ]]; then
+if [[ "${MAKERSFRIDGE_ADMIN_PASSWORD_STDIN:-0}" == "1" ]]; then
   CATALOG_ADMIN_OPTIONS+=(--password-stdin)
 fi
 docker run --rm "${CATALOG_ADMIN_TTY[@]}" \
-  -e MAKERS_SUPPLY_ROOT=/archive \
-  -e MAKERS_SUPPLY_CATALOG_DB=/archive/dist/makers-supply.sqlite \
-  -e MAKERS_SUPPLY_STATE_DB=/state/catalog-web.sqlite \
-  -e MAKERS_SUPPLY_SECRET_KEY="$CATALOG_SECRET" \
-  -e MAKERS_SUPPLY_SECURE_COOKIES=0 \
+  -e MAKERSFRIDGE_ROOT=/archive \
+  -e MAKERSFRIDGE_CATALOG_DB=/archive/dist/makersfridge.sqlite \
+  -e MAKERSFRIDGE_STATE_DB=/state/catalog-web.sqlite \
+  -e MAKERSFRIDGE_SECRET_KEY="$CATALOG_SECRET" \
+  -e MAKERSFRIDGE_SECURE_COOKIES=0 \
   -v "$CATALOG_ROOT:/archive:ro" \
   -v "$CATALOG_STATE_VOLUME:/state" \
   "$CATALOG_IMAGE" \
-  makers-supply-web create-admin "$CATALOG_ADMIN" "${CATALOG_ADMIN_OPTIONS[@]}"
+  makersfridge-web create-admin "$CATALOG_ADMIN" "${CATALOG_ADMIN_OPTIONS[@]}"
 
 if docker container inspect "$CATALOG_CONTAINER" >/dev/null 2>&1; then
   echo "Replacing existing $CATALOG_CONTAINER container ..."
@@ -149,11 +169,11 @@ CATALOG_RUN_OPTIONS=(
   --read-only
   --tmpfs /tmp:size=64m,mode=1777
   -p "127.0.0.1:$CATALOG_PORT:8000"
-  -e MAKERS_SUPPLY_ROOT=/archive
-  -e MAKERS_SUPPLY_CATALOG_DB=/archive/dist/makers-supply.sqlite
-  -e MAKERS_SUPPLY_STATE_DB=/state/catalog-web.sqlite
-  -e "MAKERS_SUPPLY_SECRET_KEY=$CATALOG_SECRET"
-  -e MAKERS_SUPPLY_SECURE_COOKIES=0
+  -e MAKERSFRIDGE_ROOT=/archive
+  -e MAKERSFRIDGE_CATALOG_DB=/archive/dist/makersfridge.sqlite
+  -e MAKERSFRIDGE_STATE_DB=/state/catalog-web.sqlite
+  -e "MAKERSFRIDGE_SECRET_KEY=$CATALOG_SECRET"
+  -e MAKERSFRIDGE_SECURE_COOKIES=0
   -v "$CATALOG_ROOT:/archive:ro"
   -v "$CATALOG_STATE_VOLUME:/state"
 )

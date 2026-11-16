@@ -35,7 +35,7 @@ test("delivered offline app preserves lists, previews models, exports, and stops
       chromiumSandbox: true,
       args: process.env.E2E_DESKTOP_SOFTWARE_GPU === "1"
         ? ["--use-gl=angle", "--use-angle=swiftshader"] : [],
-      env: { ...process.env, MAKERS_SUPPLY_DESKTOP_STATE: state },
+      env: { ...process.env, MAKERSFRIDGE_DESKTOP_STATE: state },
       timeout: 60_000,
     });
     application = app;
@@ -66,6 +66,7 @@ test("delivered offline app preserves lists, previews models, exports, and stops
       return route.abort();
     });
     await expect(page.getByRole("heading", { name: "Hardware catalog" })).toBeVisible();
+    await expect(page).toHaveTitle("Maker's Fridge");
     const security = await app.evaluate(({ app, BrowserWindow }) => {
       const preferences = BrowserWindow.getAllWindows()[0].webContents.getLastWebPreferences();
       return {

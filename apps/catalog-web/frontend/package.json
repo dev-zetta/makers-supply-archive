@@ -1,8 +1,8 @@
 {
-  "name": "makers-supply-catalog-frontend",
+  "name": "makersfridge-frontend",
   "private": true,
   "scripts": {
-    "build": "esbuild src/catalog.ts src/viewer.ts --bundle --minify --outdir=../src/makers_supply_web/static",
+    "build": "esbuild src/catalog.ts src/viewer.ts --bundle --minify --outdir=../src/makersfridge_web/static",
     "typecheck": "tsc --noEmit",
     "test:e2e": "playwright test",
     "test:desktop": "playwright test --config desktop.playwright.config.ts"

@@ -10,11 +10,11 @@ from typing import Any
 
 import pytest
 
-from makers_supply.database import build_database
-from makers_supply.models import Product
-from makers_supply.storage import Catalog, canonical_json
+from makersfridge.database import build_database
+from makersfridge.models import Product
+from makersfridge.storage import Catalog, canonical_json
 
-SCRIPT = Path(__file__).resolve().parents[1] / "skills/makers-supply-cad/scripts/catalog.py"
+SCRIPT = Path(__file__).resolve().parents[1] / "skills/makersfridge-cad/scripts/catalog.py"
 SPEC = importlib.util.spec_from_file_location("agent_catalog", SCRIPT)
 assert SPEC is not None and SPEC.loader is not None
 agent_catalog = importlib.util.module_from_spec(SPEC)

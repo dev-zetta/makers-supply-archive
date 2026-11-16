@@ -19,7 +19,7 @@ permissions:
   pull-requests: write
 
 concurrency:
-  group: makers-supply-catalog-sync
+  group: makersfridge-sync
   cancel-in-progress: false
 
 jobs:
@@ -47,27 +47,27 @@ jobs:
           args=(--resume)
           if [[ "${{ inputs.metadata_only }}" == "true" ]]; then args+=(--metadata-only); fi
           if [[ -n "${{ inputs.max_products }}" ]]; then args+=(--max-products "${{ inputs.max_products }}"); fi
-          uv run makers-supply sync "${args[@]}"
+          uv run makersfridge sync "${args[@]}"
       - name: Verify generated data
         run: |
-          uv run makers-supply validate
-          uv run makers-supply lfs-preflight
+          uv run makersfridge validate
+          uv run makersfridge lfs-preflight
           uv run pytest tests
           uv run pytest apps/catalog-web/tests
       - name: Create update branch and pull request
         shell: bash
         run: |
-          git config user.name "makers-supply-bot"
+          git config user.name "makersfridge-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -B "$BRANCH_NAME"
           git add data reports
           if git diff --cached --quiet; then echo "No catalog changes"; exit 0; fi
-          git commit -m "data: update makers supply archive"
+          git commit -m "data: update Maker's Fridge"
           git push --force-with-lease origin "$BRANCH_NAME"
           if gh pr view "$BRANCH_NAME" >/dev/null 2>&1; then
             gh pr edit "$BRANCH_NAME" --body-file reports/latest.md
           else
             gh pr create --base main --head "$BRANCH_NAME" \
-              --title "data: weekly Maker's Supply catalog update" \
+              --title "data: weekly Maker's Fridge catalog update" \
               --body-file reports/latest.md
           fi

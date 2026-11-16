@@ -12,11 +12,11 @@ import time
 import urllib.request
 from pathlib import Path
 
-from makers_supply_web.security import PASSWORDS, now
-from makers_supply_web.state import connect, migrate
+from makersfridge_web.security import PASSWORDS, now
+from makersfridge_web.state import connect, migrate
 
-from makers_supply.database import build_database
-from makers_supply.storage import Catalog
+from makersfridge.database import build_database
+from makersfridge.storage import Catalog
 
 
 def main() -> None:
@@ -35,11 +35,11 @@ def main() -> None:
             )
         environment = {
             **os.environ,
-            "MAKERS_SUPPLY_ROOT": str(root),
-            "MAKERS_SUPPLY_CATALOG_DB": str(work / "catalog.sqlite"),
-            "MAKERS_SUPPLY_STATE_DB": str(work / "state.sqlite"),
-            "MAKERS_SUPPLY_SECRET_KEY": "temporary-e2e-secret-only",
-            "MAKERS_SUPPLY_SECURE_COOKIES": "0",
+            "MAKERSFRIDGE_ROOT": str(root),
+            "MAKERSFRIDGE_CATALOG_DB": str(work / "catalog.sqlite"),
+            "MAKERSFRIDGE_STATE_DB": str(work / "state.sqlite"),
+            "MAKERSFRIDGE_SECRET_KEY": "temporary-e2e-secret-only",
+            "MAKERSFRIDGE_SECURE_COOKIES": "0",
             "E2E_BASE_URL": f"http://127.0.0.1:{port}",
             "E2E_PASSWORD": "e2e secure password",
         }
@@ -49,7 +49,7 @@ def main() -> None:
                     sys.executable,
                     "-m",
                     "uvicorn",
-                    "makers_supply_web.app:app",
+                    "makersfridge_web.app:app",
                     "--host",
                     "127.0.0.1",
                     "--port",

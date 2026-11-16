@@ -6,9 +6,9 @@ from pathlib import Path
 import pytest
 from test_storage_database import sample_product
 
-from makers_supply.models import Asset, AssetKind
-from makers_supply.release import PayloadFile, build_data_packs, verify_installed_catalog
-from makers_supply.storage import Catalog
+from makersfridge.models import Asset, AssetKind
+from makersfridge.release import PayloadFile, build_data_packs, verify_installed_catalog
+from makersfridge.storage import Catalog
 
 
 def release_catalog(root: Path) -> Catalog:

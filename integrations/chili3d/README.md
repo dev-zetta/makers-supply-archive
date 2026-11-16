@@ -16,7 +16,7 @@ Reproduce the tested local installation with Node 24 and Python 3.10+:
 ```bash
 git clone https://github.com/xiangechen/chili3d.git chili3d
 git -C chili3d checkout e35a8eecba803a463698f2e49a7404f25c607ba5
-git -C chili3d apply /absolute/path/to/makers-supply-archive/integrations/chili3d/export-data.patch
+git -C chili3d apply /absolute/path/to/makersfridge/integrations/chili3d/export-data.patch
 cd chili3d
 npm ci
 NODE_ENV=production npm run build
@@ -27,18 +27,18 @@ cd chili3d-mcp
 npm ci
 npm test
 cd ..
-python /absolute/path/to/makers-supply-archive/scripts/install-chili3d-local.py \
+python /absolute/path/to/makersfridge/scripts/install-chili3d-local.py \
   --app-source ./chili3d --bridge-source ./chili3d-mcp --port 18081
 ```
 
 The installer refuses existing target installations/launchers. It stores the
 production web build, pinned upstream source archive, local diff, licenses and
-hash receipt in `~/.local/share/makers-supply/cad/chili3d/0.8.0/`, and creates
+hash receipt in `~/.local/share/makersfridge/cad/chili3d/0.8.0/`, and creates
 `~/.local/bin/chili3d`, `~/.local/bin/chili3d-mcp` and an application-menu entry.
 `chili3d` starts only loopback servers and opens the default browser. The browser
 owns the document; save before closing. Server state/logs live in
-`~/.local/state/makers-supply/chili3d-0.8.0/`. Stop the bridge with
+`~/.local/state/makersfridge/chili3d-0.8.0/`. Stop the bridge with
 `chili3d-mcp stop`; it is started on demand rather than at login.
 
-The portable catalog skill's [Chili3D guide](../../skills/makers-supply-cad/references/chili3d.md)
+The portable catalog skill's [Chili3D guide](../../skills/makersfridge-cad/references/chili3d.md)
 explains unmodified upstream installations as well as this optional transfer route.

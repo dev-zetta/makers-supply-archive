@@ -2,6 +2,7 @@ const { app, BrowserWindow, dialog, shell } = require('electron')
 const { spawn } = require('node:child_process')
 const net = require('node:net')
 const path = require('node:path')
+const fs = require('node:fs')
 
 let backend = null
 let mainWindow = null
@@ -9,13 +10,25 @@ let quitting = false
 let backendError = ''
 let started = false
 
-if (process.env.MAKERS_SUPPLY_DESKTOP_STATE) {
-  app.setPath('userData', path.resolve(process.env.MAKERS_SUPPLY_DESKTOP_STATE))
+function stateDirectory() {
+  const override = process.env.MAKERSFRIDGE_DESKTOP_STATE || process.env.MAKERS_SUPPLY_DESKTOP_STATE
+  if (override) return path.resolve(override)
+  const base = app.getPath('appData')
+  const current = path.join(base, 'makersfridge')
+  if (fs.existsSync(current)) return current
+  for (const name of ["Maker's Supply Catalog", 'makers-supply-catalog-desktop', 'makers-supply-catalog']) {
+    const legacy = path.join(base, name)
+    if (fs.existsSync(legacy)) return legacy
+  }
+  return current
 }
 
+app.setPath('userData', stateDirectory())
+
 function dataDirectory() {
-  if (process.env.MAKERS_SUPPLY_DESKTOP_DATA) {
-    return path.resolve(process.env.MAKERS_SUPPLY_DESKTOP_DATA)
+  const override = process.env.MAKERSFRIDGE_DESKTOP_DATA || process.env.MAKERS_SUPPLY_DESKTOP_DATA
+  if (override) {
+    return path.resolve(override)
   }
   if (process.platform === 'darwin') {
     return path.resolve(path.dirname(process.execPath), '../../..')
@@ -25,8 +38,8 @@ function dataDirectory() {
 
 function backendExecutable() {
   const filename = process.platform === 'win32'
-    ? 'makers-supply-backend.exe'
-    : 'makers-supply-backend'
+    ? 'makersfridge-backend.exe'
+    : 'makersfridge-backend'
   return path.join(process.resourcesPath, 'backend', filename)
 }
 
@@ -108,7 +121,7 @@ async function startApplication() {
   })
   backend.once('exit', code => {
     if (!quitting && started) {
-      dialog.showErrorBox('Maker\'s Supply Catalog stopped', `The local service exited (${code}).`)
+      dialog.showErrorBox('Maker\'s Fridge stopped', `The local service exited (${code}).`)
       app.quit()
     }
   })
@@ -122,7 +135,7 @@ async function startApplication() {
     show: false,
     autoHideMenuBar: true,
     backgroundColor: '#f4f1ea',
-    title: "Maker's Supply Catalog",
+    title: "Maker's Fridge",
     webPreferences: {
       contextIsolation: true,
       devTools: false,
@@ -152,7 +165,7 @@ if (!singleInstance) {
   })
   app.whenReady().then(startApplication).catch(error => {
     console.error('[catalog startup]', error)
-    if (!quitting) dialog.showErrorBox("Maker's Supply Catalog could not start", String(error))
+    if (!quitting) dialog.showErrorBox("Maker's Fridge could not start", String(error))
     app.quit()
   })
 }

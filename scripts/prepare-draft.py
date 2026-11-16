@@ -11,11 +11,11 @@ import subprocess
 import tarfile
 from pathlib import Path
 
-from makers_supply import __version__
-from makers_supply.release import PACK_LIMIT, ReleaseManifest, write_checksums
-from makers_supply.release_evidence import verify_acceptance
-from makers_supply.storage import atomic_write, snapshot_identity
-from makers_supply.validation import sha256_file
+from makersfridge import __version__
+from makersfridge.release import PACK_LIMIT, ReleaseManifest, write_checksums
+from makersfridge.release_evidence import verify_acceptance
+from makersfridge.storage import atomic_write, snapshot_identity
+from makersfridge.validation import sha256_file
 
 PLATFORMS = {"linux-x86_64", "windows-x86_64", "macos-x86_64", "macos-arm64"}
 
@@ -138,7 +138,7 @@ def main() -> None:
                 "--target",
                 revision,
                 "--title",
-                f"Maker's Supply {tag}",
+                f"Maker's Fridge {tag}",
                 "--notes-file",
                 str(directory / "RELEASE-NOTES.md"),
             ],

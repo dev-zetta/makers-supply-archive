@@ -58,7 +58,7 @@ jobs:
           npm audit --audit-level=high
           npm run build
           npm run typecheck
-          git diff --exit-code -- ../src/makers_supply_web/static
+          git diff --exit-code -- ../src/makersfridge_web/static
       - name: Desktop syntax and dependency check
         working-directory: apps/catalog-desktop
         run: |
@@ -83,12 +83,12 @@ jobs:
           uv run python scripts/build-data-packs.py --help >/dev/null
       - name: Full snapshot validation
         run: |
-          uv run makers-supply validate
-          uv run makers-supply lfs-preflight
-          uv run makers-supply build-db
-          uv run makers-supply build-db --output dist/makers-supply-repeat.sqlite
-          cmp dist/makers-supply.sqlite dist/makers-supply-repeat.sqlite
-          rm dist/makers-supply-repeat.sqlite
+          uv run makersfridge validate
+          uv run makersfridge lfs-preflight
+          uv run makersfridge build-db
+          uv run makersfridge build-db --output dist/makersfridge-repeat.sqlite
+          cmp dist/makersfridge.sqlite dist/makersfridge-repeat.sqlite
+          rm dist/makersfridge-repeat.sqlite
       - name: Browser tests
         run: |
           cd apps/catalog-web/frontend
@@ -107,9 +107,9 @@ jobs:
           python -c "import shutil; shutil.rmtree('.git/lfs/objects', ignore_errors=True)"
           docker builder prune -f
           uv run python scripts/build-data-packs.py --revision "$GITHUB_SHA"
-          cp dist/makers-supply.sqlite dist/data-packs/makers-supply.sqlite
+          cp dist/makersfridge.sqlite dist/data-packs/makersfridge.sqlite
           uv run python -c "from pathlib import Path; import shutil; [shutil.copyfile(p, Path('dist/data-packs') / p.name) for p in Path('reports').glob('release-*.json')]"
-          uv run python -c "from pathlib import Path; from makers_supply.release import write_checksums; write_checksums(Path('dist/data-packs'))"
+          uv run python -c "from pathlib import Path; from makersfridge.release import write_checksums; write_checksums(Path('dist/data-packs'))"
       - name: Upload shared data
         if: inputs.build_data_packs
         uses: actions/upload-artifact@v4

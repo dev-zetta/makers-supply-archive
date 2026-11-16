@@ -25,19 +25,19 @@ def docker(*args: str, **kwargs: object) -> str:
 def main() -> None:
     root = Path(__file__).resolve().parents[1]
     suffix = uuid4().hex[:12]
-    image, volume, container = (f"makers-supply-check-{suffix}" for _ in range(3))
+    image, volume, container = (f"makersfridge-check-{suffix}" for _ in range(3))
     image += ":local"
     environment = [
         "-e",
-        "MAKERS_SUPPLY_ROOT=/archive",
+        "MAKERSFRIDGE_ROOT=/archive",
         "-e",
-        "MAKERS_SUPPLY_CATALOG_DB=/archive/dist/makers-supply.sqlite",
+        "MAKERSFRIDGE_CATALOG_DB=/archive/dist/makersfridge.sqlite",
         "-e",
-        "MAKERS_SUPPLY_STATE_DB=/state/catalog-web.sqlite",
+        "MAKERSFRIDGE_STATE_DB=/state/catalog-web.sqlite",
         "-e",
-        "MAKERS_SUPPLY_SECRET_KEY=isolated-container-check-secret",
+        "MAKERSFRIDGE_SECRET_KEY=isolated-container-check-secret",
         "-e",
-        "MAKERS_SUPPLY_SECURE_COOKIES=0",
+        "MAKERSFRIDGE_SECURE_COOKIES=0",
     ]
     mounts = ["-v", f"{root}:/archive:ro", "-v", f"{volume}:/state"]
     docker("build", "-t", image, "-f", "apps/catalog-web/Dockerfile", str(root))
@@ -50,7 +50,7 @@ def main() -> None:
             *environment,
             *mounts,
             image,
-            "makers-supply-web",
+            "makersfridge-web",
             "create-admin",
             "check-admin",
             "--password-stdin",
@@ -138,7 +138,7 @@ def main() -> None:
             ["docker", "rm", "-f", container], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
         )
         subprocess.run(["docker", "volume", "rm", volume], stdout=subprocess.DEVNULL)
-        if not os.environ.get("MAKERS_SUPPLY_KEEP_TEST_IMAGE"):
+        if not os.environ.get("MAKERSFRIDGE_KEEP_TEST_IMAGE"):
             subprocess.run(["docker", "image", "rm", image], stdout=subprocess.DEVNULL)
 
 

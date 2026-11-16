@@ -1,4 +1,4 @@
-from makers_supply.models import Product
+from makersfridge.models import Product
 
 
 def test_product_json_schema_exposes_public_contract() -> None:

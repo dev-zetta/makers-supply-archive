@@ -3,11 +3,11 @@ from pathlib import Path
 import httpx
 import pytest
 
-from makers_supply.config import STORES
-from makers_supply.discovery import discover_products, extract_series_id
-from makers_supply.http import ArchiveHttpClient
-from makers_supply.models import AssetKind, Region
-from makers_supply.parser import parse_product_page
+from makersfridge.config import STORES
+from makersfridge.discovery import discover_products, extract_series_id
+from makersfridge.http import ArchiveHttpClient
+from makersfridge.models import AssetKind, Region
+from makersfridge.parser import parse_product_page
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
