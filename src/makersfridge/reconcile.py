@@ -57,14 +57,22 @@ class Reconciler:
         self.by_part: dict[str, set[str]] = {}
         self.used_ids = set(self.existing)
         for product in existing:
+            # This reconciler belongs to the legacy Bambu adapter. A supplier's
+            # unqualified part numbers and handles never identify another supplier.
+            if product.supplier_id != "bambu-lab":
+                continue
             for alias in product.aliases:
+                if alias.supplier_id != "bambu-lab":
+                    continue
                 self.by_source[f"{alias.region.value}:{alias.handle}"] = product.id
             for part in product.part_numbers:
                 self.by_part.setdefault(part, set()).add(product.id)
 
     def existing_id(self, observation: Observation) -> str | None:
         explicit = self.aliases.get(observation.region, observation.stub.handle)
-        if explicit:
+        if explicit and (
+            explicit not in self.existing or self.existing[explicit].supplier_id == "bambu-lab"
+        ):
             return explicit
         source_key = f"{observation.region.value}:{observation.stub.handle}"
         if source_key in self.by_source:

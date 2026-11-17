@@ -10,11 +10,23 @@ from decimal import Decimal, InvalidOperation
 from pathlib import Path
 from typing import Any, cast
 
+SUPPLIER_LABELS = {
+    "bambu-lab": "Bambu Lab",
+    "bigtreetech": "BIGTREETECH",
+    "biqu": "BIQU",
+    "waveshare": "Waveshare",
+}
+STORE_LABELS = {
+    "biqu-global": "BIQU global store",
+    "waveshare-global": "Waveshare global store",
+}
+
 
 @dataclass(frozen=True)
 class SearchFilters:
     query: str = ""
     category: str = ""
+    supplier_id: str = ""
     region: str = "us"
     availability: str = ""
     asset_kind: str = ""
@@ -33,6 +45,32 @@ def connect_catalog(path: Path) -> Iterator[sqlite3.Connection]:
     connection = sqlite3.connect(f"file:{path}?mode=ro", uri=True)
     connection.row_factory = sqlite3.Row
     try:
+        # Older packaged catalogs remain readable without modifying their snapshots.
+        defaults = {
+            "products": {
+                "supplier_id": "'bambu-lab'", "manufacturer": "'Bambu Lab'",
+                "hardware_revision": "NULL",
+            },
+            "offers": {"store_id": "''"},
+            "variants": {"store_id": "''"},
+            "assets": {
+                "role": "'other'", "applies_to_skus_json": "'[]'",
+                "hardware_revision": "NULL", "source_repository": "NULL",
+                "source_commit": "NULL", "source_path": "NULL", "license_url": "NULL",
+            },
+        }
+        for table, values in defaults.items():
+            columns = {
+                row["name"] for row in connection.execute(f"PRAGMA main.table_info({table})")
+            }
+            missing = [
+                f"{value} AS {name}" for name, value in values.items() if name not in columns
+            ]
+            if columns and missing:
+                connection.execute(
+                    f"CREATE TEMP VIEW {table} AS SELECT rowid AS rowid, *, "
+                    f"{', '.join(missing)} FROM main.{table}"
+                )
         yield connection
     finally:
         connection.close()
@@ -54,9 +92,17 @@ def search_products(path: Path, filters: SearchFilters) -> tuple[list[dict[str, 
         parameters: list[object] = []
         where: list[str] = []
     else:
-        offer_join = "LEFT JOIN offers o ON o.product_id = p.id AND o.region = ?"
-        parameters = [filters.region]
-        where = ["o.product_id IS NOT NULL"]
+        offer_join = """LEFT JOIN offers o ON o.rowid = (
+            SELECT candidate.rowid FROM offers candidate
+            WHERE candidate.product_id = p.id AND candidate.region IN (?, 'global')
+            ORDER BY (candidate.region=?) DESC, candidate.listed DESC,
+                     candidate.rowid LIMIT 1
+        )"""
+        parameters = [filters.region, filters.region]
+        where = [
+            "(o.product_id IS NOT NULL OR (p.supplier_id != 'bambu-lab' AND NOT EXISTS "
+            "(SELECT 1 FROM offers reference_offer WHERE reference_offer.product_id=p.id)))"
+        ]
     joins = [offer_join, "LEFT JOIN category_assignments c ON c.product_id = p.id"]
     if filters.query.strip():
         joins.append("JOIN product_search f ON f.product_id = p.id")
@@ -65,6 +111,9 @@ def search_products(path: Path, filters: SearchFilters) -> tuple[list[dict[str, 
     if filters.category:
         where.append("c.category_id = ?")
         parameters.append(filters.category)
+    if filters.supplier_id:
+        where.append("p.supplier_id = ?")
+        parameters.append(filters.supplier_id)
     if filters.availability == "available":
         where.append("o.available = 1 AND o.listed = 1")
     elif filters.availability == "unavailable":
@@ -93,7 +142,8 @@ def search_products(path: Path, filters: SearchFilters) -> tuple[list[dict[str, 
         )
         rows = connection.execute(
             f"""SELECT DISTINCT p.id, p.name, p.description_text, p.categories_json, p.tags_json,
-                       p.active, o.price, o.currency, o.available,
+                       p.active, p.supplier_id, p.manufacturer, p.hardware_revision,
+                       o.price, o.currency, o.available,
                        (SELECT COALESCE(
                           (SELECT display.id FROM assets display
                            WHERE display.product_id=p.id AND display.parent_asset_id=source.id
@@ -110,26 +160,48 @@ def search_products(path: Path, filters: SearchFilters) -> tuple[list[dict[str, 
     for product in products:
         product["categories"] = json.loads(product["categories_json"])
         product["tags"] = json.loads(product["tags_json"])
+        product["supplier_label"] = SUPPLIER_LABELS.get(
+            product["supplier_id"], product["supplier_id"]
+        )
     return products, total
 
 
-def categories(path: Path, region: str = "global") -> list[dict[str, Any]]:
+def suppliers(path: Path) -> list[dict[str, Any]]:
     with connect_catalog(path) as connection:
-        if region == "global":
-            rows = connection.execute(
-                """SELECT category_id id, label, COUNT(DISTINCT product_id) count
-                   FROM category_assignments GROUP BY category_id, label ORDER BY label"""
-            ).fetchall()
-        else:
-            rows = connection.execute(
-                """SELECT category.category_id id, category.label,
-                          COUNT(DISTINCT category.product_id) count
-                   FROM category_assignments category
-                   JOIN offers offer ON offer.product_id=category.product_id
-                   AND offer.region=?
-                   GROUP BY category.category_id, category.label ORDER BY category.label""",
-                (region,),
-            ).fetchall()
+        rows = connection.execute(
+            "SELECT supplier_id id, COUNT(*) count FROM products GROUP BY supplier_id"
+        ).fetchall()
+    return sorted(
+        [{**dict(row), "label": SUPPLIER_LABELS.get(row["id"], row["id"])} for row in rows],
+        key=lambda item: str(item["label"]).casefold(),
+    )
+
+
+def categories(
+    path: Path, region: str = "global", supplier_id: str = ""
+) -> list[dict[str, Any]]:
+    with connect_catalog(path) as connection:
+        conditions, parameters = [], []
+        if region != "global":
+            conditions.append(
+                "(EXISTS (SELECT 1 FROM offers offer WHERE offer.product_id=category.product_id "
+                "AND offer.region IN (?, 'global')) OR (product.supplier_id != 'bambu-lab' "
+                "AND NOT EXISTS (SELECT 1 FROM offers reference_offer "
+                "WHERE reference_offer.product_id=category.product_id)))"
+            )
+            parameters.append(region)
+        if supplier_id:
+            conditions.append("product.supplier_id=?")
+            parameters.append(supplier_id)
+        predicate = "WHERE " + " AND ".join(conditions) if conditions else ""
+        rows = connection.execute(
+            f"""SELECT category.category_id id, category.label,
+                       COUNT(DISTINCT category.product_id) count
+                FROM category_assignments category
+                JOIN products product ON product.id=category.product_id {predicate}
+                GROUP BY category.category_id, category.label ORDER BY category.label""",
+            parameters,
+        ).fetchall()
     return [dict(row) for row in rows]
 
 
@@ -153,21 +225,26 @@ def _variant_display_title(product_name: str, title: str) -> str:
 
 
 def _commerce_rows(product: dict[str, Any]) -> list[dict[str, Any]]:
-    offers = {str(offer["region"]): offer for offer in product["offers"]}
-    variants_by_region: dict[str, list[dict[str, Any]]] = {}
+    offers = {
+        (str(offer["region"]), str(offer["store_id"])): offer for offer in product["offers"]
+    }
+    variants_by_store: dict[tuple[str, str], list[dict[str, Any]]] = {}
     for variant in product["variants"]:
-        variants_by_region.setdefault(str(variant["region"]), []).append(variant)
+        key = (str(variant["region"]), str(variant["store_id"]))
+        variants_by_store.setdefault(key, []).append(variant)
 
     rows: list[dict[str, Any]] = []
-    regions = list(offers)
-    regions.extend(region for region in variants_by_region if region not in offers)
-    for region in regions:
-        offer = offers.get(region)
-        variants = variants_by_region.get(region, [])
+    stores = list(offers)
+    stores.extend(key for key in variants_by_store if key not in offers)
+    for key in stores:
+        region, store_id = key
+        offer = offers.get(key)
+        variants = variants_by_store.get(key, [])
         if not variants:
             rows.append(
                 {
                     "region": region,
+                    "store_id": store_id,
                     "title": "Default offer",
                     "display_title": "Default offer",
                     "variant_id": None,
@@ -200,23 +277,42 @@ def _commerce_rows(product: dict[str, Any]) -> list[dict[str, Any]]:
                     "url": variant["url"] or (offer["url"] if offer else None),
                 }
             )
+    for row in rows:
+        store_id = str(row["store_id"])
+        row["store_label"] = STORE_LABELS.get(store_id, store_id.replace("-", " ").title())
+        if not row["store_label"]:
+            row["store_label"] = "Official store"
     return rows
 
 
 def _asset_groups(product: dict[str, Any]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     variants: dict[str, dict[str, Any]] = {}
     for variant in product["variants"]:
-        part_number = variant["part_number"]
-        if part_number and part_number not in variants:
-            variants[part_number] = {
-                "part_number": part_number,
+        identifier = variant["part_number"] or variant["sku"]
+        if identifier and identifier not in variants:
+            variants[identifier] = {
+                "part_number": identifier,
                 "title": variant["display_title"],
                 "assets": [],
+                "skus": [],
             }
+        if identifier and variant["sku"]:
+            variants[identifier]["skus"].append(variant["sku"])
 
     shared: list[dict[str, Any]] = []
     for asset in product["assets"]:
         if asset["kind"] == "image":
+            continue
+        if asset["applies_to_skus"]:
+            matches = [
+                key for key, group in variants.items()
+                if set(asset["applies_to_skus"]) & set(group["skus"])
+            ]
+            if matches:
+                for key in matches:
+                    variants[key]["assets"].append(asset)
+            else:
+                shared.append(asset)
             continue
         evidence = " ".join(
             filter(
@@ -227,7 +323,7 @@ def _asset_groups(product: dict[str, Any]) -> tuple[list[dict[str, Any]], list[d
         matches = [
             part_number
             for part_number in variants
-            if re.search(
+            if product["supplier_id"] == "bambu-lab" and re.search(
                 rf"(?<![A-Z0-9]){re.escape(part_number)}(?![A-Z0-9])",
                 evidence,
                 re.I,
@@ -295,6 +391,9 @@ def product_detail(
         if row is None:
             return None
         product = dict(row)
+        product["supplier_label"] = SUPPLIER_LABELS.get(
+            product["supplier_id"], product["supplier_id"]
+        )
         product["description_blocks"] = json.loads(product.pop("description_blocks_json"))
         product["categories"] = json.loads(product.pop("categories_json"))
         product["tags"] = json.loads(product.pop("tags_json"))
@@ -324,10 +423,11 @@ def product_detail(
         source_variants = product["variants"]
         if region != "global":
             product["offers"] = [
-                offer for offer in product["offers"] if offer["region"] == region
+                offer for offer in product["offers"] if offer["region"] in {region, "global"}
             ]
             product["variants"] = [
-                variant for variant in product["variants"] if variant["region"] == region
+                variant for variant in product["variants"]
+                if variant["region"] in {region, "global"}
             ]
         product["selected_region"] = region
         box_rows = connection.execute(
@@ -358,6 +458,7 @@ def product_detail(
         for asset in product["assets"]:
             processing = asset.pop("image_processing_json", None)
             asset["image_processing"] = json.loads(processing) if processing else None
+            asset["applies_to_skus"] = json.loads(asset.pop("applies_to_skus_json", "[]"))
         product["asset_groups"], product["shared_assets"] = _asset_groups(product)
         source_images = [
             asset

@@ -1,0 +1,230 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "/products/btt-skr-mini-e3-v2-control-board",
+      "product_id": "6611614367842",
+      "region": "global",
+      "store_id": "biqu-global",
+      "supplier_id": "bigtreetech"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [
+        "1060000511",
+        "1060000511*1+3040020432*1"
+      ],
+      "blob_path": "data/blobs/sha256/80/805ace2bd8d9ee59efe69c9ed90eae2abdf8ea543d49dff9823fe48ae9ff1fb9.step",
+      "hardware_revision": "V3.0",
+      "id": "model-4c654ca4d6bf64c4b501",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "BTT E3 SKR MINI V3.0.step",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "805ace2bd8d9ee59efe69c9ed90eae2abdf8ea543d49dff9823fe48ae9ff1fb9",
+      "size": 17754132,
+      "source_commit": "d7fd822006628143222d1c3c8cdea85ffee29e66",
+      "source_path": "hardware/BTT SKR MINI E3 V3.0/3D/BTT E3 SKR MINI V3.0.step",
+      "source_repository": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+      "source_url": "https://raw.githubusercontent.com/bigtreetech/BIGTREETECH-SKR-mini-E3/d7fd822006628143222d1c3c8cdea85ffee29e66/hardware/BTT%20SKR%20MINI%20E3%20V3.0/3D/BTT%20E3%20SKR%20MINI%20V3.0.step"
+    },
+    {
+      "applies_to_skus": [
+        "1060000511",
+        "1060000511*1+3040020432*1"
+      ],
+      "blob_path": "data/blobs/sha256/39/394789f887927d2774c9842e564fc225949a7dcbdf4df028297e4449e4e3a2ea.jpg",
+      "id": "image-8cd5dcba9cc55d87658e",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "1_a64655c5-0e4f-4d1e-91f7-deae5fc2a0c9.jpg",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "394789f887927d2774c9842e564fc225949a7dcbdf4df028297e4449e4e3a2ea",
+      "size": 120324,
+      "source_url": "https://biqu.equipment/cdn/shop/products/1_a64655c5-0e4f-4d1e-91f7-deae5fc2a0c9.jpg?v=1757557285&width=1920"
+    },
+    {
+      "applies_to_skus": [
+        "1060000511",
+        "1060000511*1+3040020432*1"
+      ],
+      "blob_path": "data/blobs/sha256/46/4639f87c1d8785c444f19cfc17d3bf91380b20b4f903229938b278de58e32619.jpg",
+      "id": "image-4c30df6c592fbd766654",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "skrminie3v3.0andcable.jpg",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "4639f87c1d8785c444f19cfc17d3bf91380b20b4f903229938b278de58e32619",
+      "size": 113574,
+      "source_url": "https://biqu.equipment/cdn/shop/products/skrminie3v3.0andcable.jpg?v=1757557285&width=1920"
+    },
+    {
+      "applies_to_skus": [
+        "1060000511",
+        "1060000511*1+3040020432*1"
+      ],
+      "blob_path": "data/blobs/sha256/23/235ff5119b7ca1dc3107d93cee60c095aa0d4501d0b0f986f72a89686a0d0e9b.png",
+      "id": "image-display-08091b8bf476467b98a3",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1000,
+        "source_sha256": "394789f887927d2774c9842e564fc225949a7dcbdf4df028297e4449e4e3a2ea",
+        "source_width": 1000
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "1_a64655c5-0e4f-4d1e-91f7-deae5fc2a0c9.catalog.png",
+      "parent_asset_id": "image-8cd5dcba9cc55d87658e",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "235ff5119b7ca1dc3107d93cee60c095aa0d4501d0b0f986f72a89686a0d0e9b",
+      "size": 368879,
+      "source_url": "https://biqu.equipment/cdn/shop/products/1_a64655c5-0e4f-4d1e-91f7-deae5fc2a0c9.jpg?v=1757557285&width=1920"
+    },
+    {
+      "applies_to_skus": [
+        "1060000511",
+        "1060000511*1+3040020432*1"
+      ],
+      "blob_path": "data/blobs/sha256/9f/9fd5fe590153377eed6c09976e8fdf395e76ebb2f93fa464f90495526d347da4.png",
+      "id": "image-display-7e440b9308f566062f94",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1000,
+        "source_sha256": "4639f87c1d8785c444f19cfc17d3bf91380b20b4f903229938b278de58e32619",
+        "source_width": 1000
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "skrminie3v3.0andcable.catalog.png",
+      "parent_asset_id": "image-4c30df6c592fbd766654",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "9fd5fe590153377eed6c09976e8fdf395e76ebb2f93fa464f90495526d347da4",
+      "size": 330115,
+      "source_url": "https://biqu.equipment/cdn/shop/products/skrminie3v3.0andcable.jpg?v=1757557285&width=1920"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://biqu.equipment/products/btt-skr-mini-e3-v2-control-board"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "The BIGTREETECH SKR Mini E3 V3.0 is a compact 32-bit control board designed as a direct upgrade for Ender 3 series 3D printers. Powered by a high-performance processor and integrated silent driver support, the board delivers smoother motion control, quieter printing, and improved printing stability.\nSupporting advanced features such as TMC2209 silent drivers, thermal protection, power loss recovery, and BLTouch auto leveling, the SKR Mini E3 V2.0 helps improve overall printing performance while maintaining easy installation and firmware compatibility.\nCompatible with Marlin firmware, the board is optimized for reliable daily printing and high-speed 3D printer upgrades.\nKey Features\n\n\n32-bit control board for Ender 3 upgrades\nIntegrated TMC2209 silent driver support\n\nQuieter and smoother printing performance\nSupports BLTouch auto leveling\n\nPower loss recovery and thermal protection\nCompatible with Marlin firmware\n\nStable and reliable high-speed printing\nEasy installation for Ender 3 series printers\n\nThe storefront handle says v2 but its selected board variants identify V3.0. Exclude the separate DCDC5V module SKU 2020000064. The cable bundle contains the same V3.0 board."
+    }
+  ],
+  "description_html": "",
+  "description_text": "The BIGTREETECH SKR Mini E3 V3.0 is a compact 32-bit control board designed as a direct upgrade for Ender 3 series 3D printers. Powered by a high-performance processor and integrated silent driver support, the board delivers smoother motion control, quieter printing, and improved printing stability.\nSupporting advanced features such as TMC2209 silent drivers, thermal protection, power loss recovery, and BLTouch auto leveling, the SKR Mini E3 V2.0 helps improve overall printing performance while maintaining easy installation and firmware compatibility.\nCompatible with Marlin firmware, the board is optimized for reliable daily printing and high-speed 3D printer upgrades.\nKey Features\n\n\n32-bit control board for Ender 3 upgrades\nIntegrated TMC2209 silent driver support\n\nQuieter and smoother printing performance\nSupports BLTouch auto leveling\n\nPower loss recovery and thermal protection\nCompatible with Marlin firmware\n\nStable and reliable high-speed printing\nEasy installation for Ender 3 series printers\n\nThe storefront handle says v2 but its selected board variants identify V3.0. Exclude the separate DCDC5V module SKU 2020000064. The cable bundle contains the same V3.0 board.",
+  "first_seen": "2026-11-17T00:48:36Z",
+  "hardware_revision": "V3.0",
+  "id": "btt-skr-mini-e3-v3-0",
+  "last_seen": "2026-11-17T00:48:36Z",
+  "manufacturer": "BIGTREETECH",
+  "measurements": [],
+  "name": "BIGTREETECH SKR Mini E3 V3.0",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "46.85",
+      "region": "global",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "store_id": "biqu-global",
+      "url": "https://biqu.equipment/products/btt-skr-mini-e3-v2-control-board"
+    }
+  ],
+  "part_numbers": [
+    "SKR MINI E3 V3.0"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://biqu.equipment/products/btt-skr-mini-e3-v2-control-board"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://global.bttwiki.com/SKR%20MINI%20E3.html"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [
+    "1060000511",
+    "1060000511*1+3040020432*1"
+  ],
+  "source_tables": [],
+  "specifications": {
+    "Source review": "reviewed"
+  },
+  "supplier_id": "bigtreetech",
+  "tags": [
+    "bigtreetech"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://biqu.equipment/cdn/shop/products/1_a64655c5-0e4f-4d1e-91f7-deae5fc2a0c9.jpg?v=1757557285&width=1920",
+      "part_number": "SKR MINI E3 V3.0",
+      "price": "46.85",
+      "region": "global",
+      "sku": "1060000511",
+      "store_id": "biqu-global",
+      "title": "BIGTREETECH SKR Mini E3 V3.0 32-bit Control Board for Ender 3 - Without cable (for Ender 3 V2 screen)",
+      "url": "https://biqu.equipment/products/btt-skr-mini-e3-v2-control-board?variant=39982232174690",
+      "variant_id": "39982232174690"
+    },
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://biqu.equipment/cdn/shop/products/skrminie3v3.0andcable.jpg?v=1757557285&width=1920",
+      "part_number": "SKR MINI E3 V3.0",
+      "price": "48.59",
+      "region": "global",
+      "sku": "1060000511*1+3040020432*1",
+      "store_id": "biqu-global",
+      "title": "BIGTREETECH SKR Mini E3 V3.0 32-bit Control Board for Ender 3 - With cable (for Ender 3 V2 screen)",
+      "url": "https://biqu.equipment/products/btt-skr-mini-e3-v2-control-board?variant=39982232207458",
+      "variant_id": "39982232207458"
+    }
+  ]
+}

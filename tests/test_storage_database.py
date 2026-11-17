@@ -63,7 +63,7 @@ def test_database_matches_json(tmp_path: Path) -> None:
             ("ia005-power-board", "Power board")
         ]
         assert connection.execute("SELECT region, price FROM offers").fetchall() == [("us", "5.29")]
-        assert connection.execute("PRAGMA user_version").fetchone() == (5,)
+        assert connection.execute("PRAGMA user_version").fetchone() == (6,)
         assert connection.execute(
             "SELECT variant_quantities_json FROM box_contents"
         ).fetchone() == ('[{"quantity":"2 pcs","variant":"Full Kit"}]',)

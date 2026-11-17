@@ -502,7 +502,9 @@ function selectList(): void {
   const region = selected?.dataset.region;
   addForm.action = `/lists/${listSelector.value}/items`;
   for (const option of variantSelector.options) {
-    option.hidden = Boolean(option.dataset.region && option.dataset.region !== region);
+    option.hidden = Boolean(
+      option.dataset.region && option.dataset.region !== "global" && option.dataset.region !== region,
+    );
   }
   if (variantSelector.selectedOptions[0]?.hidden) variantSelector.value = "";
 }

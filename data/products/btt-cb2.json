@@ -1,0 +1,168 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "/products/bigtreetech-pi-2-cb2",
+      "product_id": "7028421132386",
+      "region": "global",
+      "store_id": "biqu-global",
+      "supplier_id": "bigtreetech"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [
+        "1020000449"
+      ],
+      "blob_path": "data/blobs/sha256/f5/f514989dc6136809853706a4ba8b31cce392ee192fb5024ceeab42a5752c5f8c.step",
+      "hardware_revision": "V1",
+      "id": "model-c6a2c0d480020310719b",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "BIGTREETECH_CB2 V1_BoardAndModels.step",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "f514989dc6136809853706a4ba8b31cce392ee192fb5024ceeab42a5752c5f8c",
+      "size": 22957397,
+      "source_commit": "a5fc72264062e27b603a024f08ade60eeba3f0ec",
+      "source_path": "3D/BIGTREETECH_CB2 V1_BoardAndModels.step",
+      "source_repository": "https://github.com/bigtreetech/CB2",
+      "source_url": "https://raw.githubusercontent.com/bigtreetech/CB2/a5fc72264062e27b603a024f08ade60eeba3f0ec/3D/BIGTREETECH_CB2%20V1_BoardAndModels.step"
+    },
+    {
+      "applies_to_skus": [
+        "1020000449"
+      ],
+      "blob_path": "data/blobs/sha256/17/1751ed8a74d4b91b85a9bc05ed8145e8f3f586c319854278434633546b989265.png",
+      "id": "image-5501f5f187a4f2184190",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "85.png",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "1751ed8a74d4b91b85a9bc05ed8145e8f3f586c319854278434633546b989265",
+      "size": 460018,
+      "source_url": "https://biqu.equipment/cdn/shop/files/85.png?v=1782973670&width=1920"
+    },
+    {
+      "applies_to_skus": [
+        "1020000449"
+      ],
+      "blob_path": "data/blobs/sha256/05/0533975f02e05f204f8b32933da60d3cb7d68ed6b17e31e7dd80b61f56df3000.png",
+      "id": "image-display-9e4d79d1f75bccc5df7f",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1000,
+        "source_sha256": "1751ed8a74d4b91b85a9bc05ed8145e8f3f586c319854278434633546b989265",
+        "source_width": 1000
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "85.catalog.png",
+      "parent_asset_id": "image-5501f5f187a4f2184190",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "0533975f02e05f204f8b32933da60d3cb7d68ed6b17e31e7dd80b61f56df3000",
+      "size": 322160,
+      "source_url": "https://biqu.equipment/cdn/shop/files/85.png?v=1782973670&width=1920"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://biqu.equipment/products/bigtreetech-pi-2-cb2"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Product Description:\n BIGTREETECH Pi 2 & CB2 are developed by BIGTREE Technology Co., LTD.. Based on the improvements of the first-generation products, our new-generation computer single boards have significantly improved computing and storage performance. In addition, to meet the DIY needs of 3D printer users, we have optimized the design to provide a more user-friendly experience.  \nKey Features:\n\n\nFriendly to 3D Printer Users. The customized computer single board for 3D printer users not only supports a variety of expansion functions, but also can be connected to 12V/24V powered 3D printers without an adapter, making it very friendly to 3D printer users.\n\n\nRockchip RK3566.RK3566 processor and powerful storage function. Pi 2 not only has built-in RAM 2G, ROM 32G eMMC, but also supports SD card and 2M solid-state drive expansion to meet your basic needs for running Klipper on Debian storage software, documents, and surveillance videos.\n\n\nSupport DSI/CSI extension. The camera can be connected through the DSI interface; connected to the FPC port on the BTT PITFT screen through the DSI interface, or connected to the BTT HDMI screen through the HDMI interface. \n\n\nSupport 5G Network.Blazing-fast dual-band WiFi and reliable Gigabit Ethernet ensure seamless connectivity for remote printing and file transfers.\n\n\nNote:\n1. Pi 2 does not have an SPI interface. If you need to use an SPI screen, you need to connect it with IO2 CAN or EBB and U2C.\n2. The size of CB2 is the same as that of CB1/CB1 eMMC and Raspberry Pi 4B/CM4, but the size of Pi 2 is slightly longer than that of Raspberry Pi 4B. Please refer to the size chart of Pi 2 to choose the appropriate installation location.\n3. The heatsink of CB1 cannot be installed to CB2, and CB2 can work without the heatsink.\n\nSelect only the CB2 board SKU 1020000449. Pi 2, CB2 Lite, heatsinks and memory cards are separate hardware. The STEP filename identifies V1; confirm the physical board revision before using it for a fit-critical design."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Product Description:\n BIGTREETECH Pi 2 & CB2 are developed by BIGTREE Technology Co., LTD.. Based on the improvements of the first-generation products, our new-generation computer single boards have significantly improved computing and storage performance. In addition, to meet the DIY needs of 3D printer users, we have optimized the design to provide a more user-friendly experience.  \nKey Features:\n\n\nFriendly to 3D Printer Users. The customized computer single board for 3D printer users not only supports a variety of expansion functions, but also can be connected to 12V/24V powered 3D printers without an adapter, making it very friendly to 3D printer users.\n\n\nRockchip RK3566.RK3566 processor and powerful storage function. Pi 2 not only has built-in RAM 2G, ROM 32G eMMC, but also supports SD card and 2M solid-state drive expansion to meet your basic needs for running Klipper on Debian storage software, documents, and surveillance videos.\n\n\nSupport DSI/CSI extension. The camera can be connected through the DSI interface; connected to the FPC port on the BTT PITFT screen through the DSI interface, or connected to the BTT HDMI screen through the HDMI interface. \n\n\nSupport 5G Network.Blazing-fast dual-band WiFi and reliable Gigabit Ethernet ensure seamless connectivity for remote printing and file transfers.\n\n\nNote:\n1. Pi 2 does not have an SPI interface. If you need to use an SPI screen, you need to connect it with IO2 CAN or EBB and U2C.\n2. The size of CB2 is the same as that of CB1/CB1 eMMC and Raspberry Pi 4B/CM4, but the size of Pi 2 is slightly longer than that of Raspberry Pi 4B. Please refer to the size chart of Pi 2 to choose the appropriate installation location.\n3. The heatsink of CB1 cannot be installed to CB2, and CB2 can work without the heatsink.\n\nSelect only the CB2 board SKU 1020000449. Pi 2, CB2 Lite, heatsinks and memory cards are separate hardware. The STEP filename identifies V1; confirm the physical board revision before using it for a fit-critical design.",
+  "first_seen": "2026-11-17T00:48:36Z",
+  "id": "btt-cb2",
+  "last_seen": "2026-11-17T00:48:36Z",
+  "manufacturer": "BIGTREETECH",
+  "measurements": [],
+  "name": "BIGTREETECH CB2",
+  "offers": [
+    {
+      "available": true,
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "price": "123.56",
+      "region": "global",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "store_id": "biqu-global",
+      "url": "https://biqu.equipment/products/bigtreetech-pi-2-cb2"
+    }
+  ],
+  "part_numbers": [
+    "CB2"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://biqu.equipment/products/bigtreetech-pi-2-cb2"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://global.bttwiki.com/CB2.html"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/bigtreetech/CB2"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [
+    "1020000449"
+  ],
+  "source_tables": [],
+  "specifications": {
+    "Source review": "reviewed"
+  },
+  "supplier_id": "bigtreetech",
+  "tags": [
+    "bigtreetech"
+  ],
+  "variants": [
+    {
+      "available": true,
+      "currency": "USD",
+      "image_url": "https://biqu.equipment/cdn/shop/files/85.png?v=1782973670&width=1920",
+      "part_number": "CB2",
+      "price": "123.56",
+      "region": "global",
+      "sku": "1020000449",
+      "store_id": "biqu-global",
+      "title": "BIGTREETECH Pi 2 / Pi 2 Lite / CB2 / CB2 Lite Core Boards - BIGTREETECH CB2",
+      "url": "https://biqu.equipment/products/bigtreetech-pi-2-cb2?variant=41018191839330",
+      "variant_id": "41018191839330"
+    }
+  ]
+}

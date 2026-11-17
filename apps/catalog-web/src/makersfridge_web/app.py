@@ -33,6 +33,7 @@ from makersfridge_web.catalog import (
     existing_product_ids,
     product_detail,
     search_products,
+    suppliers,
 )
 from makersfridge_web.config import Settings
 from makersfridge_web.parts import (
@@ -227,6 +228,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     def browse_context(
         query: str,
         category: str,
+        supplier_id: str,
         region: str,
         availability: str,
         asset_kind: str,
@@ -239,6 +241,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         filters = SearchFilters(
             query=query,
             category=category,
+            supplier_id=supplier_id,
             region=region,
             availability=availability,
             asset_kind=asset_kind,
@@ -257,6 +260,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         user: sqlite3.Row = Depends(require_user),  # noqa: B008
         q: str = "",
         category: str = "",
+        supplier_id: str = "",
         region: str | None = None,
         availability: str = "",
         asset_kind: str = "",
@@ -270,10 +274,11 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         region = selected_region(request, region)
         try:
             products, total, filters = browse_context(
-                q, category, region, availability, asset_kind, lifecycle,
+                q, category, supplier_id, region, availability, asset_kind, lifecycle,
                 min_price, max_price, view, page
             )
-            category_items = categories(settings.catalog_db, region)
+            category_items = categories(settings.catalog_db, region, supplier_id)
+            supplier_items = suppliers(settings.catalog_db)
         except (FileNotFoundError, sqlite3.Error) as error:
             raise HTTPException(503, str(error)) from error
         editable_lists = [
@@ -289,6 +294,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         query_values = {
             "q": filters.query,
             "category": filters.category,
+            "supplier_id": filters.supplier_id,
             "region": filters.region,
             "availability": filters.availability,
             "asset_kind": filters.asset_kind,
@@ -311,9 +317,11 @@ def create_app(settings: Settings | None = None) -> FastAPI:
                 "total": total,
                 "filters": filters,
                 "categories": category_items,
+                "suppliers": supplier_items,
                 "editable_lists": editable_lists,
                 "local_mode": settings.local_mode,
                 "target_list_id": target_list_id,
+                "catalog_return_url": f"/?{urlencode({**query_values, 'page': filters.page})}",
                 "previous_url": page_url(filters.page - 1) if filters.page > 1 else None,
                 "next_url": (
                     page_url(filters.page + 1)
@@ -333,6 +341,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         user: sqlite3.Row = Depends(require_user),  # noqa: B008
         q: str = "",
         category: str = "",
+        supplier_id: str = "",
         region: str | None = None,
         availability: str = "",
         asset_kind: str = "",
@@ -345,7 +354,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         del user
         region = selected_region(request, region)
         products, total, filters = browse_context(
-            q, category, region, availability, asset_kind, lifecycle,
+            q, category, supplier_id, region, availability, asset_kind, lifecycle,
             min_price, max_price, view, page
         )
         return JSONResponse({"items": products, "total": total, "page": filters.page})
@@ -355,6 +364,7 @@ def create_app(settings: Settings | None = None) -> FastAPI:
         request: Request,
         product_id: str,
         region: str | None = None,
+        return_to: str = "",
         user: sqlite3.Row = Depends(require_user),  # noqa: B008
     ) -> Any:
         region = selected_region(request, region)
@@ -373,6 +383,10 @@ def create_app(settings: Settings | None = None) -> FastAPI:
                 "product": product,
                 "editable_lists": editable_lists,
                 "local_mode": settings.local_mode,
+                "catalog_return_url": (
+                    return_to if return_to == "/" or return_to.startswith("/?")
+                    else f"/?region={region}"
+                ),
             },
         )
 
@@ -628,7 +642,8 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             raise HTTPException(404, "Product not found")
         normalized_variant = variant_id or None
         if normalized_variant and not any(
-            item["variant_id"] == normalized_variant and item["region"] == selected["region"]
+            item["variant_id"] == normalized_variant
+            and item["region"] in {selected["region"], "global"}
             for item in product["variants"]
         ):
             raise HTTPException(422, "Variant is not available in the list region")

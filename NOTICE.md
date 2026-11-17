@@ -1,7 +1,7 @@
 # Notices and third-party content
 
 This is an independent community archive. It is not affiliated with, sponsored by,
-or endorsed by Bambu Lab, MakerWorld, or their affiliates.
+or endorsed by Bambu Lab, MakerWorld, BIGTREETECH, BIQU, Waveshare, or their affiliates.
 
 The MIT license applies to this project's original software and documentation only.
 Product names, descriptions, prices, images, manuals, CAD files, mesh files, archives,

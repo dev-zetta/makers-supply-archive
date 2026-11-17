@@ -62,3 +62,23 @@ def test_throttle_adds_bounded_random_jitter(monkeypatch: pytest.MonkeyPatch) ->
 
     assert sleeps == [1.5]
     assert client._last_request["example.com"] == 12.5
+
+
+@pytest.mark.parametrize("rule", ["Crawl-delay: 60", "Request-rate: 1/60"])
+def test_supplier_crawl_limits_override_default_delay(
+    monkeypatch: pytest.MonkeyPatch,
+    rule: str,
+) -> None:
+    from urllib.robotparser import RobotFileParser
+
+    parser = RobotFileParser()
+    parser.parse(["User-agent: *", rule])
+    sleeps: list[float] = []
+    moments = iter([20.0, 70.0])
+    monkeypatch.setattr("makersfridge.http.time.monotonic", lambda: next(moments))
+    monkeypatch.setattr("makersfridge.http.time.sleep", sleeps.append)
+    with ArchiveHttpClient(delay=2, jitter=0) as client:
+        client._robots["https://example.com"] = parser
+        client._last_request["example.com"] = 10.0
+        client._throttle("https://example.com/product")
+    assert sleeps == [50.0]

@@ -28,6 +28,7 @@ class Region(StrEnum):
     JP = "jp"
     KR = "kr"
     ASIA = "asia"
+    GLOBAL = "global"
 
 
 class RightsStatus(StrEnum):
@@ -55,6 +56,8 @@ class ImageProcessing(ArchiveModel):
 
 
 class SourceAlias(ArchiveModel):
+    supplier_id: StableId = "bambu-lab"
+    store_id: str = ""
     region: Region
     handle: str
     product_id: str | None = None
@@ -95,6 +98,7 @@ class DescriptionBlock(ArchiveModel):
 
 
 class Variant(ArchiveModel):
+    store_id: str = ""
     region: Region
     variant_id: str
     title: str
@@ -114,6 +118,7 @@ class Variant(ArchiveModel):
 
 
 class RegionalOffer(ArchiveModel):
+    store_id: str = ""
     region: Region
     url: HttpUrl
     currency: str = Field(min_length=3, max_length=3)
@@ -146,6 +151,13 @@ class Asset(ArchiveModel):
     parent_asset_id: StableId | None = None
     archive_member_path: str | None = None
     image_processing: ImageProcessing | None = None
+    role: Literal["component", "accessory", "drawing", "document", "image", "other"] = "other"
+    applies_to_skus: list[str] = Field(default_factory=list)
+    hardware_revision: str | None = None
+    source_repository: str | None = None
+    source_commit: str | None = None
+    source_path: str | None = None
+    license_url: HttpUrl | None = None
 
     @field_validator("original_filename")
     @classmethod
@@ -176,9 +188,12 @@ class RelatedLink(ArchiveModel):
 
 
 class Product(ArchiveModel):
-    schema_version: Literal[1, 2, 3, 4] = 4
+    schema_version: Literal[1, 2, 3, 4, 5] = 4
     id: StableId
     name: str
+    supplier_id: StableId = "bambu-lab"
+    manufacturer: str = "Bambu Lab"
+    hardware_revision: str | None = None
     description_html: str = ""
     description_text: str = ""
     description_blocks: list[DescriptionBlock] = Field(default_factory=list)
@@ -230,6 +245,7 @@ class RunManifest(ArchiveModel):
     completed_at: datetime
     metadata_only: bool
     regions: list[RegionRun]
+    supplier_ids: list[str] = Field(default_factory=list)
     products_written: int = Field(ge=0)
     assets_downloaded: int = Field(ge=0)
     assets_rejected: int = Field(default=0, ge=0)

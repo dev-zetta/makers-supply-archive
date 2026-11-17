@@ -449,7 +449,7 @@ async def test_project_zip_preserves_data_hashes_rights_and_duplicate_filenames(
             == 1
         )
         manifest = json.loads(archive.read("manifest.json"))
-        assert manifest["region"] == "us" and manifest["catalog_schema"] == 5
+        assert manifest["region"] == "us" and manifest["catalog_schema"] == 6
         included = [row for row in manifest["assets"] if row["status"] == "included"]
         assert len(included) == 2
         assert len({row["package_path"].casefold() for row in included}) == 2

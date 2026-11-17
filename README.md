@@ -4,9 +4,10 @@ Your ingredients for the next build: parts, CAD models, design files, regional
 pricing, and project parts lists in one place. Maker's Fridge uses `makersfridge`
 as its package, command, and repository name.
 
-The current versioned, multi-region source archive catalogs Bambu Lab Maker's Supply
-products and their publicly downloadable design assets. Canonical, reviewable JSON
-records are paired with content-addressed files and a generated SQLite catalog.
+The versioned archive catalogs Bambu Lab Maker's Supply alongside reviewed
+BIGTREETECH, BIQU, and Waveshare pilot products and their publicly downloadable design
+assets. Canonical, reviewable JSON records are paired with content-addressed files and
+a generated SQLite catalog.
 
 The archive covers the official USA, EU, UK, Canada, Australia, Japan, Korea, and
 Asia storefronts. It records links to related MakerWorld projects but does not mirror
@@ -62,6 +63,54 @@ downloads and verified pages from a matching interrupted run; completed runs sta
 fresh scans. Cached pages remain available for backfill. `--dry-run` leaves tracked
 data unchanged, and `--max-products` is useful
 for live smoke tests.
+
+### Supplier pilots
+
+The default `sync` command retains its existing Bambu regional behavior. Import the
+reviewed supplier pilots separately, then rebuild the read-only catalog database:
+
+```bash
+uv run makersfridge sync --supplier bigtreetech --supplier biqu --resume
+uv run makersfridge sync --supplier waveshare --resume
+uv run makersfridge build-db
+```
+
+Use `--metadata-only` to collect metadata and download links, `--dry-run` to review
+changes, or `--product-id btt-skr-mini-e3-v3-0` with its supplier for a focused import.
+`--supplier all` runs Bambu and the pilot suppliers. Pilot offers represent their
+global storefront and retain the source currency; they do not imply local shipping,
+taxes, or physical stock owned by the user. Omit `--region` for pilot-only imports.
+
+The reviewed mappings in `config/supplier-pilots.json` cover SKR Mini E3 V3.0,
+original EBB36 CAN V1.0, CB2, original Hermit Crab, Waveshare 27478 (3.4inch round
+HDMI LCD), and Waveshare 29957 (AMOLED 1.8 with battery). Separate modules,
+successor revisions, Pi2/Lite boards, and unrelated options are excluded. Original
+EBB36/Hermit Crab models are reference-only entries with no current sales offer.
+Unconfirmed hardware/model revision compatibility is labeled explicitly. The
+configurable AMOLED page does not establish a per-SKU price, so that price remains
+unknown. Supplier availability never changes saved list quantities or build progress.
+
+Adapters normalize official structured storefront data and reviewed CAD links.
+GitHub models are pinned to a repository commit and path. Assets carry SKU
+applicability, revision, role, source, hash, and license evidence; a public download
+does not establish redistribution permission. Unknown rights remain `unknown`.
+Supplier imports write only selected product records, preserving existing Bambu JSON,
+product IDs, and saved references. An incomplete or failed import does not retire
+products from any supplier. Bambu-specific reconciliation and backfills stay scoped
+to Bambu records.
+
+Interrupted pilot imports can resume verified cached pages and partial downloads;
+completed runs fetch fresh product metadata. Existing CAD bytes are reused by
+default. Use `--refresh-assets` with a pilot supplier to check mutable download URLs
+again; this requires binary downloads and also replaces extracted members. Crawling
+honors published delay/rate rules, including Waveshare's one request per minute.
+ZIP extraction uses the existing size, traversal, symlink, and compression limits;
+RAR/7z files are retained as archives without automatic extraction.
+
+The catalog supplier filter works with search, categories, region, and view choices.
+Global offers and reference-only parts remain visible from regional views. STEP/STP
+originals can be downloaded, included in project exports, and used by CAD tools;
+in-browser previews currently support STL and 3MF.
 
 `backfill-assets` audits official pages retained in `.staging/pages` for CAD archives,
 direct models, PDFs, and other downloadable files that an older parser missed. It is

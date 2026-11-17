@@ -18,6 +18,22 @@ test("searches and opens a product with its official information", async ({ page
   await expect(page.getByRole("heading", { name: "Dimensions" })).toBeVisible();
 });
 
+test("filters suppliers across regions and returns to the filtered catalog", async ({ page }) => {
+  await page.getByLabel("Supplier", { exact: true }).selectOption("bigtreetech");
+  await expect(page).toHaveURL(/supplier_id=bigtreetech/);
+  await expect(page.locator(".product-card").first()).toBeVisible();
+  const labels = page.locator(".product-card .supplier-label");
+  for (const label of await labels.all()) await expect(label).toContainText("BIGTREETECH");
+  await page.getByLabel("Catalog region", { exact: true }).selectOption("eu");
+  await expect(page.getByLabel("Supplier", { exact: true })).toHaveValue("bigtreetech");
+  await expect(page.locator(".product-card").first()).toBeVisible();
+  await page.locator(".product-card a").first().click();
+  await expect(page.locator(".product-primary-facts")).toContainText("BIGTREETECH");
+  await page.locator("a.brand").click();
+  await expect(page.getByLabel("Supplier", { exact: true })).toHaveValue("bigtreetech");
+  await expect(page.getByLabel("Catalog region", { exact: true })).toHaveValue("eu");
+});
+
 test("keeps pre-rename selections and sidebar preferences", async ({ page }) => {
   const first = page.locator("[data-product-select]").first();
   const id = await first.inputValue();

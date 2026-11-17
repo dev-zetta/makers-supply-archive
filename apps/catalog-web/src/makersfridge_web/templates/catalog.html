@@ -15,8 +15,10 @@
     <div class="filter-scroll" id="filter-panel">
       <form method="get" id="catalog-filters">
         <input type="hidden" name="view" value="{{ filters.view }}">
+        <input type="hidden" name="region" value="{{ filters.region }}">
         {% if target_list_id %}<input type="hidden" name="list_id" value="{{ target_list_id }}">{% endif %}
         <label>Search <span class="search-field"><span aria-hidden="true">⌕</span><input type="search" name="q" value="{{ filters.query }}" placeholder="Name, SKU, dimensions…" autocomplete="off" data-search-submit></span></label>
+        <label>Supplier <select name="supplier_id" aria-label="Supplier" data-auto-submit><option value="">All suppliers</option>{% for item in suppliers %}<option value="{{ item.id }}" {% if filters.supplier_id == item.id %}selected{% endif %}>{{ item.label }} ({{ item.count }})</option>{% endfor %}</select></label>
         <label>Category <select name="category" data-auto-submit><option value="">All categories</option>{% for item in categories %}<option value="{{ item.id }}" {% if filters.category == item.id %}selected{% endif %}>{{ item.label }} ({{ item.count }})</option>{% endfor %}</select></label>
         <label>Availability <select name="availability" data-auto-submit><option value="">Any availability</option><option value="available" {% if filters.availability == 'available' %}selected{% endif %}>Available</option><option value="unavailable" {% if filters.availability == 'unavailable' %}selected{% endif %}>Unavailable</option></select></label>
         <label>Asset type <select name="asset_kind" data-auto-submit><option value="">Any asset type</option>{% for kind in ['image','model','document','archive'] %}<option value="{{ kind }}" {% if filters.asset_kind == kind %}selected{% endif %}>{{ kind|title }}</option>{% endfor %}</select></label>
@@ -35,12 +37,13 @@
       {% for product in products %}
       <article class="product-card">
         <label class="product-selector"><input type="checkbox" value="{{ product.id }}" data-product-select data-product-name="{{ product.name }}" data-product-price="{{ product.price or '' }}" data-product-currency="{{ product.currency or '' }}" data-product-image="{% if product.image_id %}/assets/{{ product.id }}/{{ product.image_id }}{% endif %}"><span>Select</span></label>
-        <a href="/products/{{ product.id }}?region={{ filters.region }}">
+        <a href="/products/{{ product.id }}?region={{ filters.region }}&amp;return_to={{ catalog_return_url|urlencode }}">
           <div class="product-media">
             {% if product.image_id %}<img loading="lazy" decoding="async" src="/assets/{{ product.id }}/{{ product.image_id }}" alt="{{ product.name }}" data-image-fallback><div class="image-placeholder" hidden><span aria-hidden="true">◇</span><span>Image unavailable</span></div>{% else %}<div class="image-placeholder"><span aria-hidden="true">◇</span><span>No image published</span></div>{% endif %}
           </div>
           <div class="card-body">
             <div class="card-meta"><span class="meta-labels"><span class="eyebrow">{{ product.categories|join(' · ') or 'Uncategorized' }}</span>{% if 'kit' in product.tags %}<span class="type-badge">Kit</span>{% endif %}</span>{% if product.available %}<span class="status available">Available</span>{% elif product.available == 0 %}<span class="status unavailable">Unavailable</span>{% endif %}</div>
+            <p class="supplier-label">{{ product.supplier_label }}{% if product.hardware_revision %} · {{ product.hardware_revision }}{% endif %}</p>
             <h3>{{ product.name }}</h3>
             <p class="muted clamp">{{ product.description_text }}</p>
             <footer><p class="price">{% if product.price %}{{ product.price }} {{ product.currency }}{% else %}Price unavailable{% endif %}</p><span class="open-product" aria-hidden="true">→</span></footer>

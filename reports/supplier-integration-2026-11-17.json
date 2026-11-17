@@ -1,0 +1,112 @@
+{
+  "catalog_products": 383,
+  "checked_at": "2026-11-17T01:00:47+00:00",
+  "database_reproducible": true,
+  "existing_product_json_changed": [],
+  "existing_products": 377,
+  "pilot_products": [
+    {
+      "id": "biqu-hermit-crab",
+      "models": [
+        {
+          "filename": "Model_of_Hermit_Crab.stp",
+          "hardware_revision": null,
+          "rights_status": "unknown",
+          "sha256": "0b2ed16d50df5658fdda1fb1ea8a7d5200c6c2d5b55ac78c50094d4700b1f3cd"
+        },
+        {
+          "filename": "BIQU_HERMIT_CRAB_TOOL_PLATE.stp",
+          "hardware_revision": null,
+          "rights_status": "unknown",
+          "sha256": "481e292f260346b8f70fbcd23a296df9e1e5075a22f47f7e4d3831f0740c864e"
+        }
+      ],
+      "offers": 0,
+      "supplier_id": "biqu"
+    },
+    {
+      "id": "btt-cb2",
+      "models": [
+        {
+          "filename": "BIGTREETECH_CB2 V1_BoardAndModels.step",
+          "hardware_revision": "V1",
+          "rights_status": "unknown",
+          "sha256": "f514989dc6136809853706a4ba8b31cce392ee192fb5024ceeab42a5752c5f8c"
+        }
+      ],
+      "offers": 1,
+      "supplier_id": "bigtreetech"
+    },
+    {
+      "id": "btt-ebb36-can-v1-0",
+      "models": [
+        {
+          "filename": "EBB36 CAN V1.0.step",
+          "hardware_revision": "V1.0",
+          "rights_status": "unknown",
+          "sha256": "bbb08a281c05c6a54f70f4a16f2931eb9a470f1df666d1aead435e461690f7e7"
+        }
+      ],
+      "offers": 0,
+      "supplier_id": "bigtreetech"
+    },
+    {
+      "id": "btt-skr-mini-e3-v3-0",
+      "models": [
+        {
+          "filename": "BTT E3 SKR MINI V3.0.step",
+          "hardware_revision": "V3.0",
+          "rights_status": "unknown",
+          "sha256": "805ace2bd8d9ee59efe69c9ed90eae2abdf8ea543d49dff9823fe48ae9ff1fb9"
+        }
+      ],
+      "offers": 1,
+      "supplier_id": "bigtreetech"
+    },
+    {
+      "id": "waveshare-27478",
+      "models": [
+        {
+          "filename": "3_4inch-800x800-lcd.stp",
+          "hardware_revision": null,
+          "rights_status": "unknown",
+          "sha256": "4e4f87646a9ede502a7a1c800fa37a7bce5e1499c7f89692829f892d6ad9e4a3"
+        }
+      ],
+      "offers": 1,
+      "supplier_id": "waveshare"
+    },
+    {
+      "id": "waveshare-29957",
+      "models": [
+        {
+          "filename": "ESP32-S3-Touch-AMOLED-1.8-3D.stp",
+          "hardware_revision": null,
+          "rights_status": "unknown",
+          "sha256": "4f1ce7f7b97bb1485541f5b9065e70fe9b9902dabc5626f2975e96b591455775"
+        }
+      ],
+      "offers": 1,
+      "supplier_id": "waveshare"
+    }
+  ],
+  "recorded_page_repeat_has_changes": false,
+  "source_state": "working-tree-suppliers-20261117",
+  "suppliers": {
+    "bambu-lab": 377,
+    "bigtreetech": 3,
+    "biqu": 1,
+    "waveshare": 2
+  },
+  "validation_issues": 0,
+  "verification": {
+    "archive_tests_passed": 225,
+    "archive_tests_skipped": 1,
+    "browser_tests_passed": 19,
+    "desktop_executable": "dist/standalone/makersfridge-suppliers/makersfridge-linux-x86_64/makersfridge",
+    "packaged_desktop_tests_passed": 1,
+    "ruff": "passed for source/tests/scripts",
+    "strict_mypy": "passed for core and web",
+    "web_tests_passed": 59
+  }
+}

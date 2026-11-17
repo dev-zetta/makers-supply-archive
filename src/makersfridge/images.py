@@ -36,9 +36,7 @@ def _pixel(image: Image.Image, x: int, y: int) -> tuple[int, int, int]:
     return int(value[0]), int(value[1]), int(value[2])
 
 
-def _near_color(
-    left: tuple[int, int, int], right: tuple[int, int, int], tolerance: int
-) -> bool:
+def _near_color(left: tuple[int, int, int], right: tuple[int, int, int], tolerance: int) -> bool:
     return all(abs(left[index] - right[index]) <= tolerance for index in range(3))
 
 
@@ -53,22 +51,18 @@ def detect_title_bar(image: Image.Image) -> int:
         return 0
 
     sample_x = sorted({round((width - 1) * index / 16) for index in range(17)})
-    if sum(
-        _near_color(_pixel(rgb, x, 0), corner, HEADER_COLOR_TOLERANCE)
-        for x in sample_x
-    ) < len(sample_x) - 1:
+    if (
+        sum(_near_color(_pixel(rgb, x, 0), corner, HEADER_COLOR_TOLERANCE) for x in sample_x)
+        < len(sample_x) - 1
+    ):
         return 0
 
     minimum = max(2, round(height * HEADER_MIN_FRACTION))
     maximum = min(height - 2, round(height * HEADER_MAX_FRACTION))
     transition = 0
     for y in range(1, maximum + 1):
-        left_matches = _near_color(
-            _pixel(rgb, 0, y), corner, HEADER_COLOR_TOLERANCE
-        )
-        right_matches = _near_color(
-            _pixel(rgb, width - 1, y), corner, HEADER_COLOR_TOLERANCE
-        )
+        left_matches = _near_color(_pixel(rgb, 0, y), corner, HEADER_COLOR_TOLERANCE)
+        right_matches = _near_color(_pixel(rgb, width - 1, y), corner, HEADER_COLOR_TOLERANCE)
         if left_matches and right_matches:
             continue
         if y >= minimum:
@@ -89,9 +83,7 @@ def detect_title_bar(image: Image.Image) -> int:
     # The last header row may cross antialiased title text, but most sampled pixels
     # must still carry the same solid title-bar color.
     header_matches = sum(
-        _near_color(
-            _pixel(rgb, x, transition - 1), corner, HEADER_COLOR_TOLERANCE
-        )
+        _near_color(_pixel(rgb, x, transition - 1), corner, HEADER_COLOR_TOLERANCE)
         for x in sample_x
     )
     if header_matches < round(len(sample_x) * 0.70):
@@ -214,6 +206,17 @@ class ImageProcessor:
                     size=size,
                     blob_path=blob_path,
                     rights_status=source.rights_status,
+                    **source.model_dump(
+                        include={
+                            "role",
+                            "applies_to_skus",
+                            "hardware_revision",
+                            "source_repository",
+                            "source_commit",
+                            "source_path",
+                            "license_url",
+                        }
+                    ),
                     retrieved_at=source.retrieved_at,
                     parent_asset_id=source.id,
                     image_processing=processing,

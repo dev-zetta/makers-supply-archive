@@ -12,10 +12,7 @@ import httpx
 
 from makersfridge import __version__
 
-USER_AGENT = (
-    f"makersfridge/{__version__} "
-    "(+https://github.com/dev-zetta/makersfridge)"
-)
+USER_AGENT = f"makersfridge/{__version__} (+https://github.com/dev-zetta/makersfridge)"
 
 
 class RobotsDeniedError(RuntimeError):
@@ -57,6 +54,12 @@ class ArchiveHttpClient:
         host = urlsplit(url).netloc
         elapsed = time.monotonic() - self._last_request.get(host, 0.0)
         interval = self.delay
+        rules = self._robots.get(self._origin(url))
+        if rules is not None:
+            interval = max(interval, float(rules.crawl_delay(USER_AGENT) or 0))
+            rate = rules.request_rate(USER_AGENT)
+            if rate and rate.requests > 0:
+                interval = max(interval, rate.seconds / rate.requests)
         if self.delay > 0 and self.jitter > 0:
             interval += random.uniform(0, self.jitter)
         if elapsed < interval:
@@ -112,9 +115,7 @@ class ArchiveHttpClient:
             try:
                 self._throttle(url)
                 if stream:
-                    request = self.client.build_request(
-                        method, url, headers=headers, json=json
-                    )
+                    request = self.client.build_request(method, url, headers=headers, json=json)
                     response = self.client.send(request, stream=True)
                 else:
                     response = self.client.request(method, url, headers=headers, json=json)

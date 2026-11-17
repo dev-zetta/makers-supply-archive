@@ -34,7 +34,16 @@ class CachedMetadataBackfill:
 
     def _canonical_page(self, product: Product) -> tuple[ParsedProduct | None, int]:
         failures = 0
-        for alias in sorted(product.aliases, key=lambda item: REGION_ORDER[item.region]):
+        aliases = (
+            [
+                alias
+                for alias in product.aliases
+                if alias.supplier_id == "bambu-lab" and alias.region in REGION_ORDER
+            ]
+            if product.supplier_id == "bambu-lab"
+            else []
+        )
+        for alias in sorted(aliases, key=lambda item: REGION_ORDER[item.region]):
             key = hashlib.sha256(f"{alias.region.value}:{alias.handle}".encode()).hexdigest()
             path = self.pages_dir / f"{key}.html"
             if not path.is_file():
@@ -83,7 +92,7 @@ class CachedMetadataBackfill:
         scanned = missing = failed = descriptions = specifications = 0
         candidates: list[Product] = []
         for product in products:
-            if product.id not in requested_ids:
+            if product.id not in requested_ids or product.supplier_id != "bambu-lab":
                 candidates.append(product)
                 continue
             scanned += 1
@@ -115,9 +124,7 @@ class CachedMetadataBackfill:
             staged.write_products(enriched)
             issues = validate_catalog(staged, check_blobs=False)
             if issues:
-                detail = "; ".join(
-                    f"{issue.product_id}: {issue.message}" for issue in issues[:10]
-                )
+                detail = "; ".join(f"{issue.product_id}: {issue.message}" for issue in issues[:10])
                 raise RuntimeError(f"staged metadata backfill failed validation: {detail}")
             if promote:
                 self.catalog.write_products(changed)

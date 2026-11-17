@@ -15,7 +15,9 @@ CREATE TABLE products (
   description_blocks_json TEXT NOT NULL,
   categories_json TEXT NOT NULL, tags_json TEXT NOT NULL,
   part_numbers_json TEXT NOT NULL, skus_json TEXT NOT NULL,
-  first_seen TEXT NOT NULL, last_seen TEXT NOT NULL, active INTEGER NOT NULL, removed_at TEXT
+  first_seen TEXT NOT NULL, last_seen TEXT NOT NULL, active INTEGER NOT NULL, removed_at TEXT,
+  supplier_id TEXT NOT NULL DEFAULT 'bambu-lab', manufacturer TEXT NOT NULL DEFAULT 'Bambu Lab',
+  hardware_revision TEXT
 );
 CREATE TABLE category_assignments (
   product_id TEXT NOT NULL REFERENCES products(id), position INTEGER NOT NULL,
@@ -27,13 +29,15 @@ CREATE TABLE offers (
   product_id TEXT NOT NULL REFERENCES products(id), region TEXT NOT NULL, url TEXT NOT NULL,
   currency TEXT NOT NULL, price TEXT, compare_at_price TEXT, available INTEGER,
   listed INTEGER NOT NULL, missing_runs INTEGER NOT NULL, retrieved_at TEXT NOT NULL,
-  PRIMARY KEY (product_id, region)
+  store_id TEXT NOT NULL DEFAULT '',
+  PRIMARY KEY (product_id, region, store_id)
 );
 CREATE TABLE variants (
   product_id TEXT NOT NULL REFERENCES products(id), region TEXT NOT NULL,
   variant_id TEXT NOT NULL, title TEXT NOT NULL, sku TEXT, part_number TEXT,
   available INTEGER, price TEXT, compare_at_price TEXT, currency TEXT, url TEXT, image_url TEXT,
-  PRIMARY KEY (product_id, region, variant_id)
+  store_id TEXT NOT NULL DEFAULT '',
+  PRIMARY KEY (product_id, region, store_id, variant_id)
 );
 CREATE TABLE assets (
   product_id TEXT NOT NULL REFERENCES products(id), id TEXT NOT NULL, kind TEXT NOT NULL,
@@ -42,6 +46,9 @@ CREATE TABLE assets (
   rights_status TEXT NOT NULL, retrieved_at TEXT, rejection_reason TEXT,
   parent_asset_id TEXT, archive_member_path TEXT,
   image_processing_json TEXT,
+  role TEXT NOT NULL DEFAULT 'other', applies_to_skus_json TEXT NOT NULL DEFAULT '[]',
+  hardware_revision TEXT, source_repository TEXT, source_commit TEXT, source_path TEXT,
+  license_url TEXT,
   PRIMARY KEY (product_id, id)
 );
 CREATE TABLE specifications (
@@ -73,6 +80,7 @@ CREATE TABLE related_links (
 CREATE TABLE aliases (
   product_id TEXT NOT NULL REFERENCES products(id), position INTEGER NOT NULL,
   region TEXT NOT NULL, handle TEXT NOT NULL, source_product_id TEXT,
+  supplier_id TEXT NOT NULL DEFAULT 'bambu-lab', store_id TEXT NOT NULL DEFAULT '',
   PRIMARY KEY (product_id, position)
 );
 CREATE VIRTUAL TABLE product_search USING fts5(
@@ -81,6 +89,7 @@ CREATE VIRTUAL TABLE product_search USING fts5(
 CREATE INDEX offers_region_available ON offers(region, available, listed);
 CREATE INDEX assets_product_kind ON assets(product_id, kind);
 CREATE INDEX categories_id ON category_assignments(category_id, product_id);
+CREATE INDEX products_supplier ON products(supplier_id, id);
 """
 
 
@@ -100,6 +109,9 @@ def _search_text(product: Product) -> str:
     chunks: list[str] = [
         product.id,
         product.name,
+        product.supplier_id,
+        product.manufacturer,
+        product.hardware_revision or "",
         product.description_text,
         *product.categories,
         *product.tags,
@@ -120,7 +132,7 @@ def _search_text(product: Product) -> str:
 
 def insert_product(connection: sqlite3.Connection, product: Product) -> None:
     connection.execute(
-        "INSERT INTO products VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        "INSERT INTO products VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
         (
             product.id,
             product.schema_version,
@@ -136,6 +148,9 @@ def insert_product(connection: sqlite3.Connection, product: Product) -> None:
             product.last_seen.isoformat(),
             int(product.active),
             _text(product.removed_at),
+            product.supplier_id,
+            product.manufacturer,
+            product.hardware_revision,
         ),
     )
     for position, assignment in enumerate(product.category_assignments):
@@ -152,9 +167,9 @@ def insert_product(connection: sqlite3.Connection, product: Product) -> None:
                 _text(assignment.provenance.source_url),
             ),
         )
-    for offer in sorted(product.offers, key=lambda item: item.region.value):
+    for offer in sorted(product.offers, key=lambda item: (item.region.value, item.store_id)):
         connection.execute(
-            "INSERT INTO offers VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "INSERT INTO offers VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             (
                 product.id,
                 offer.region.value,
@@ -166,11 +181,14 @@ def insert_product(connection: sqlite3.Connection, product: Product) -> None:
                 int(offer.listed),
                 offer.missing_runs,
                 offer.retrieved_at.isoformat(),
+                offer.store_id,
             ),
         )
-    for variant in sorted(product.variants, key=lambda item: (item.region.value, item.variant_id)):
+    for variant in sorted(
+        product.variants, key=lambda item: (item.region.value, item.store_id, item.variant_id)
+    ):
         connection.execute(
-            "INSERT INTO variants VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "INSERT INTO variants VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             (
                 product.id,
                 variant.region.value,
@@ -184,11 +202,13 @@ def insert_product(connection: sqlite3.Connection, product: Product) -> None:
                 variant.currency,
                 _text(variant.url),
                 _text(variant.image_url),
+                variant.store_id,
             ),
         )
     for asset in sorted(product.assets, key=lambda item: item.id):
         connection.execute(
-            "INSERT INTO assets VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "INSERT INTO assets VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, "
+            "?, ?, ?, ?, ?, ?, ?)",
             (
                 product.id,
                 asset.id,
@@ -208,6 +228,13 @@ def insert_product(connection: sqlite3.Connection, product: Product) -> None:
                 _json(asset.image_processing.model_dump(mode="json"))
                 if asset.image_processing
                 else None,
+                asset.role,
+                _json(asset.applies_to_skus),
+                asset.hardware_revision,
+                asset.source_repository,
+                asset.source_commit,
+                asset.source_path,
+                _text(asset.license_url),
             ),
         )
     for name, value in sorted(product.specifications.items()):
@@ -263,8 +290,16 @@ def insert_product(connection: sqlite3.Connection, product: Product) -> None:
         )
     for position, alias in enumerate(product.aliases):
         connection.execute(
-            "INSERT INTO aliases VALUES (?, ?, ?, ?, ?)",
-            (product.id, position, alias.region.value, alias.handle, alias.product_id),
+            "INSERT INTO aliases VALUES (?, ?, ?, ?, ?, ?, ?)",
+            (
+                product.id,
+                position,
+                alias.region.value,
+                alias.handle,
+                alias.product_id,
+                alias.supplier_id,
+                alias.store_id,
+            ),
         )
     connection.execute(
         "INSERT INTO product_search VALUES (?, ?)", (product.id, _search_text(product))
@@ -281,7 +316,7 @@ def build_database(catalog: Catalog, output: Path) -> None:
         with connection:
             for product in sorted(catalog.products(), key=lambda item: item.id):
                 insert_product(connection, product)
-        connection.execute("PRAGMA user_version = 5")
+        connection.execute("PRAGMA user_version = 6")
         connection.execute("VACUUM")
     finally:
         connection.close()

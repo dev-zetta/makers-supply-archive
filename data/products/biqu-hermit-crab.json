@@ -1,0 +1,101 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://biqu3d.com/pages/download",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "biqu"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/0b/0b2ed16d50df5658fdda1fb1ea8a7d5200c6c2d5b55ac78c50094d4700b1f3cd.stp",
+      "id": "model-94419b78478226866eec",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "Model_of_Hermit_Crab.stp",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "0b2ed16d50df5658fdda1fb1ea8a7d5200c6c2d5b55ac78c50094d4700b1f3cd",
+      "size": 17274981,
+      "source_url": "https://cdn.shopify.com/s/files/1/0550/2209/2502/files/Model_of_Hermit_Crab.stp?v=1636021539"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/48/481e292f260346b8f70fbcd23a296df9e1e5075a22f47f7e4d3831f0740c864e.stp",
+      "id": "model-c2b8c3173e5788795152",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "BIQU_HERMIT_CRAB_TOOL_PLATE.stp",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "481e292f260346b8f70fbcd23a296df9e1e5075a22f47f7e4d3831f0740c864e",
+      "size": 2740163,
+      "source_url": "https://cdn.shopify.com/s/files/1/0550/2209/2502/files/BIQU_HERMIT_CRAB_TOOL_PLATE.stp?v=1635147374"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "mechanical"
+  ],
+  "category_assignments": [
+    {
+      "id": "mechanical",
+      "label": "Mechanical Components",
+      "path": [
+        "Hardware",
+        "Mechanical Components"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://biqu3d.com/pages/download"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Official legacy download-hub models from 2021. The hub does not establish compatibility with the currently sold Hermit Crab V2.0, so no V2.0 SKU or offer is attached."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Official legacy download-hub models from 2021. The hub does not establish compatibility with the currently sold Hermit Crab V2.0, so no V2.0 SKU or offer is attached.",
+  "first_seen": "2026-11-17T00:48:36Z",
+  "id": "biqu-hermit-crab",
+  "last_seen": "2026-11-17T00:59:43Z",
+  "manufacturer": "BIQU",
+  "measurements": [],
+  "name": "BIQU Hermit Crab (original reference)",
+  "offers": [],
+  "part_numbers": [
+    "Hermit Crab"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://biqu3d.com/pages/download"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://biqu3d.com/pages/download"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Source review": "revision-unconfirmed"
+  },
+  "supplier_id": "biqu",
+  "tags": [
+    "biqu"
+  ],
+  "variants": []
+}

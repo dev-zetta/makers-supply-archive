@@ -1,0 +1,91 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://github.com/bigtreetech/EBB/tree/2b839d629b174dc1da4f470cd703e5b5fcb43cbe/EBB%20CAN%20V1.0%20%28STM32F072%29/EBB36%20CAN%20V1.0",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "bigtreetech"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/bb/bbb08a281c05c6a54f70f4a16f2931eb9a470f1df666d1aead435e461690f7e7.step",
+      "hardware_revision": "V1.0",
+      "id": "model-d4757c370593b65cd0e4",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "EBB36 CAN V1.0.step",
+      "retrieved_at": "2026-11-17T00:48:36Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "bbb08a281c05c6a54f70f4a16f2931eb9a470f1df666d1aead435e461690f7e7",
+      "size": 58985594,
+      "source_commit": "2b839d629b174dc1da4f470cd703e5b5fcb43cbe",
+      "source_path": "EBB CAN V1.0 (STM32F072)/EBB36 CAN V1.0/3D/EBB36 CAN V1.0.step",
+      "source_repository": "https://github.com/bigtreetech/EBB",
+      "source_url": "https://raw.githubusercontent.com/bigtreetech/EBB/2b839d629b174dc1da4f470cd703e5b5fcb43cbe/EBB%20CAN%20V1.0%20%28STM32F072%29/EBB36%20CAN%20V1.0/3D/EBB36%20CAN%20V1.0.step"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://github.com/bigtreetech/EBB/tree/2b839d629b174dc1da4f470cd703e5b5fcb43cbe/EBB%20CAN%20V1.0%20%28STM32F072%29/EBB36%20CAN%20V1.0"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Original STM32F072 EBB36 CAN V1.0 reference. The current shop sells V1.2 and GEN2 boards, so no current SKU or purchasable offer is assigned to this older model."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Original STM32F072 EBB36 CAN V1.0 reference. The current shop sells V1.2 and GEN2 boards, so no current SKU or purchasable offer is assigned to this older model.",
+  "first_seen": "2026-11-17T00:48:36Z",
+  "hardware_revision": "V1.0",
+  "id": "btt-ebb36-can-v1-0",
+  "last_seen": "2026-11-17T00:59:43Z",
+  "manufacturer": "BIGTREETECH",
+  "measurements": [],
+  "name": "BIGTREETECH EBB36 CAN V1.0",
+  "offers": [],
+  "part_numbers": [
+    "EBB36 CAN V1.0"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://github.com/bigtreetech/EBB/tree/2b839d629b174dc1da4f470cd703e5b5fcb43cbe/EBB%20CAN%20V1.0%20%28STM32F072%29/EBB36%20CAN%20V1.0"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/bigtreetech/EBB/blob/2b839d629b174dc1da4f470cd703e5b5fcb43cbe/README.md"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "bigtreetech",
+  "tags": [
+    "bigtreetech"
+  ],
+  "variants": []
+}

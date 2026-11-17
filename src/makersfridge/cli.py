@@ -5,6 +5,7 @@ import typer
 
 from makersfridge.assets import materialize_product
 from makersfridge.backfill import CachedAssetBackfill
+from makersfridge.config import STORES
 from makersfridge.database import build_database
 from makersfridge.diffing import diff_products
 from makersfridge.enrichment import enrich_products
@@ -14,6 +15,8 @@ from makersfridge.lfs import lfs_preflight
 from makersfridge.metadata_backfill import CachedMetadataBackfill
 from makersfridge.models import Region
 from makersfridge.storage import Catalog
+from makersfridge.suppliers import SUPPLIERS
+from makersfridge.suppliers.sync import SupplierSyncEngine, SupplierSyncOptions
 from makersfridge.sync import SyncEngine, SyncOptions
 from makersfridge.validation import validate_catalog
 
@@ -65,9 +68,7 @@ def enrich_command(
     catalog = Catalog(root.resolve())
     products = catalog.products()
     changed = []
-    for product, enriched in zip(
-        products, enrich_products(products, catalog.root), strict=True
-    ):
+    for product, enriched in zip(products, enrich_products(products, catalog.root), strict=True):
         if enriched != product:
             changed.append(enriched)
     if check and changed:
@@ -91,6 +92,9 @@ def materialize_command(
 
 @app.command("sync")
 def sync_command(
+    suppliers: Annotated[list[str] | None, typer.Option("--supplier")] = None,
+    product_ids: Annotated[list[str] | None, typer.Option("--product-id")] = None,
+    refresh_assets: Annotated[bool, typer.Option("--refresh-assets")] = False,
     regions: Annotated[list[Region] | None, typer.Option("--region")] = None,
     metadata_only: Annotated[bool, typer.Option("--metadata-only")] = False,
     dry_run: Annotated[bool, typer.Option("--dry-run")] = False,
@@ -100,28 +104,57 @@ def sync_command(
     jitter: Annotated[float, typer.Option(min=0.0)] = 1.0,
     root: Annotated[Path, typer.Option(exists=True, file_okay=False)] = Path("."),
 ) -> None:
-    """Synchronize products and assets from official regional storefronts."""
-    selected = tuple(regions) if regions else tuple(Region)
+    """Sync Bambu stores or reviewed supplier pilots (--supplier bigtreetech/biqu/waveshare/all)."""
+    requested = tuple(dict.fromkeys(suppliers or ["bambu-lab"]))
+    if requested == ("all",):
+        requested = tuple(SUPPLIERS)
+    if any(supplier not in SUPPLIERS for supplier in requested):
+        raise typer.BadParameter(f"choose suppliers from {', '.join(SUPPLIERS)}, or all")
+    if product_ids and "bambu-lab" in requested:
+        raise typer.BadParameter("--product-id is supported for reviewed supplier pilots only")
+    if refresh_assets and "bambu-lab" in requested:
+        raise typer.BadParameter("--refresh-assets is supported for supplier pilots only")
+    if refresh_assets and metadata_only:
+        raise typer.BadParameter("--refresh-assets requires binary downloads")
+    selected = tuple(regions) if regions else tuple(STORES)
+    if "bambu-lab" in requested and any(region not in STORES for region in selected):
+        raise typer.BadParameter("Bambu does not have a global storefront; select a Bambu region")
+    if regions and "bambu-lab" not in requested:
+        raise typer.BadParameter("supplier pilots use global offers; omit --region")
     with ArchiveHttpClient(delay=delay, jitter=jitter) as client:
-        result = SyncEngine(root.resolve(), client).run(
-            SyncOptions(
-                regions=selected,
-                metadata_only=metadata_only,
-                dry_run=dry_run,
-                resume=resume,
-                max_products=max_products,
+        if "bambu-lab" in requested:
+            result = SyncEngine(root.resolve(), client).run(
+                SyncOptions(
+                    regions=selected,
+                    metadata_only=metadata_only,
+                    dry_run=dry_run,
+                    resume=resume,
+                    max_products=max_products,
+                )
             )
-        )
-    typer.echo(result.diff.markdown())
-    typer.echo("promoted" if result.promoted else "no tracked changes")
+            typer.echo(result.diff.markdown())
+            typer.echo("promoted" if result.promoted else "no tracked changes")
+        pilot_suppliers = tuple(s for s in requested if s != "bambu-lab")
+        if pilot_suppliers:
+            result = SupplierSyncEngine(root.resolve(), client).run_suppliers(
+                SupplierSyncOptions(
+                    suppliers=pilot_suppliers,
+                    product_ids=tuple(product_ids or []),
+                    metadata_only=metadata_only,
+                    dry_run=dry_run,
+                    resume=resume,
+                    max_products=max_products,
+                    refresh_assets=refresh_assets,
+                )
+            )
+            typer.echo(result.diff.markdown())
+            typer.echo("promoted" if result.promoted else "no tracked changes")
 
 
 @app.command("backfill-assets")
 def backfill_assets_command(
     product_ids: Annotated[list[str] | None, typer.Option("--product-id")] = None,
-    download: Annotated[
-        bool, typer.Option("--download/--discover-only")
-    ] = False,
+    download: Annotated[bool, typer.Option("--download/--discover-only")] = False,
     dry_run: Annotated[bool, typer.Option("--dry-run")] = False,
     resume: Annotated[bool, typer.Option("--resume/--no-resume")] = True,
     delay: Annotated[float, typer.Option(min=2.0)] = 2.0,
@@ -197,8 +230,7 @@ def lfs_preflight_command(
         root.resolve(), max_total_bytes=max_total_bytes, max_file_bytes=max_file_bytes
     )
     typer.echo(
-        f"{report.files} blobs, {report.bytes} bytes total, "
-        f"{report.largest_file} bytes largest"
+        f"{report.files} blobs, {report.bytes} bytes total, {report.largest_file} bytes largest"
     )
     for error in report.errors:
         typer.echo(error, err=True)

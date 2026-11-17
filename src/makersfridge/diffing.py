@@ -5,9 +5,9 @@ from dataclasses import dataclass, field
 from makersfridge.models import Product
 
 
-def _offers(product: Product) -> dict[str, tuple[object, ...]]:
+def _offers(product: Product) -> dict[tuple[str, str], tuple[object, ...]]:
     return {
-        offer.region.value: (
+        (offer.region.value, offer.store_id): (
             offer.price,
             offer.currency,
             offer.available,
@@ -19,8 +19,13 @@ def _offers(product: Product) -> dict[str, tuple[object, ...]]:
     }
 
 
-def _assets(product: Product) -> dict[str, str | None]:
-    return {asset.id: asset.sha256 for asset in product.assets}
+def _assets(product: Product) -> dict[str, object]:
+    # Reviewed applicability, revision and rights corrections must be promotable
+    # even when the underlying CAD bytes have not changed.
+    return {
+        asset.id: asset.model_dump(mode="json", exclude={"retrieved_at"})
+        for asset in product.assets
+    }
 
 
 @dataclass

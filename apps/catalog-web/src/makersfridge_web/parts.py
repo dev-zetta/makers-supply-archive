@@ -69,30 +69,45 @@ def current_price(
 ) -> tuple[str | None, str | None, bool | None]:
     with connect_catalog(catalog_db) as connection:
         offer = connection.execute(
-            """SELECT price, currency, available, listed FROM offers
-               WHERE product_id=? AND region=?""",
-            (product_id, region),
+            """SELECT price, currency, available, listed, region FROM offers
+               WHERE product_id=? AND region IN (?, 'global')
+               ORDER BY (region=?) DESC, listed DESC, rowid LIMIT 1""",
+            (product_id, region, region),
         ).fetchone()
+        variant = None
+        if variant_id:
+            variants = connection.execute(
+                """SELECT price, currency, available, region, store_id FROM variants
+                   WHERE product_id=? AND region IN (?, 'global') AND variant_id=?
+                   ORDER BY (region=?) DESC, rowid""",
+                (product_id, region, variant_id, region),
+            ).fetchall()
+            if not variants:
+                return None, None, False if offer is not None and not offer["listed"] else None
+            variant = variants[0]
+            # Legacy list state stores a variant ID, not a storefront. Do not silently
+            # choose between different storefronts publishing the same identifier.
+            if sum(item["region"] == variant["region"] for item in variants) > 1:
+                return None, None, None
+            offer = connection.execute(
+                """SELECT price, currency, available, listed, region FROM offers
+                   WHERE product_id=? AND region=? AND store_id=?""",
+                (product_id, variant["region"], variant["store_id"]),
+            ).fetchone()
         if offer is None:
             return None, None, None
         if not offer["listed"]:
             return None, None, False
-        if variant_id:
-            variant = connection.execute(
-                """SELECT price, currency, available FROM variants
-                   WHERE product_id=? AND region=? AND variant_id=?""",
-                (product_id, region, variant_id),
-            ).fetchone()
-            if variant and variant["price"]:
-                return _trusted_price(variant, region)
-    return _trusted_price(offer, region)
+        if variant is not None and variant["price"]:
+            return _trusted_price(variant, str(variant["region"]))
+    return _trusted_price(offer, str(offer["region"]))
 
 
 def _trusted_price(row: sqlite3.Row, region: str) -> tuple[str | None, str | None, bool | None]:
     currency = str(row["currency"]) if row["currency"] else None
     # Existing snapshots may predate per-region page isolation. Never total a price carrying
     # another storefront's currency; a fresh complete sync will make it available.
-    if currency != EXPECTED_CURRENCIES[region]:
+    if region != "global" and currency != EXPECTED_CURRENCIES.get(region):
         return None, currency, None
     return (
         None if row["price"] is None else str(row["price"]),

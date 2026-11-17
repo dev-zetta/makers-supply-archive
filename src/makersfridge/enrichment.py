@@ -261,7 +261,11 @@ def _fastener_signature(value: str) -> tuple[str, str] | None:
 
 def _product_name_keys(product: Product) -> set[str]:
     keys = {_name_key(product.name)}
-    keys.update(_name_key(alias.handle.replace("-", " ")) for alias in product.aliases)
+    keys.update(
+        _name_key(alias.handle.replace("-", " "))
+        for alias in product.aliases
+        if alias.supplier_id == product.supplier_id
+    )
     prefix = re.compile(rf"^\s*{re.escape(product.name)}\s+-\s+", re.I)
     for variant in product.variants:
         keys.add(_name_key(prefix.sub("", variant.title, count=1)))
@@ -278,9 +282,7 @@ def _compatible_technical_tokens(query: str, candidate: str) -> bool:
     if not query_tokens or not candidate_tokens:
         return True
     return any(
-        left == right
-        or left.startswith(f"{right}x")
-        or right.startswith(f"{left}x")
+        left == right or left.startswith(f"{right}x") or right.startswith(f"{left}x")
         for left in query_tokens
         for right in candidate_tokens
     )
@@ -322,17 +324,19 @@ def _fuzzy_product_id(
         return None
     best_score, best_id = scores[-1]
     runner_up = scores[-2][0] if len(scores) > 1 else 0.0
-    if (
-        best_score < FUZZY_MATCH_THRESHOLD
-        or best_score - runner_up < FUZZY_MATCH_MARGIN
-    ):
+    if best_score < FUZZY_MATCH_THRESHOLD or best_score - runner_up < FUZZY_MATCH_MARGIN:
         return None
     return best_id
 
 
 def _linked_box_items(products: list[Product]) -> list[Product]:
     handles = _unique_index(
-        [(alias.handle.casefold(), product.id) for product in products for alias in product.aliases]
+        [
+            (alias.handle.casefold(), product.id)
+            for product in products
+            for alias in product.aliases
+            if alias.supplier_id == product.supplier_id
+        ]
     )
     parts = _unique_index(
         [(part.casefold(), product.id) for product in products for part in product.part_numbers]
@@ -356,9 +360,7 @@ def _linked_box_items(products: list[Product]) -> list[Product]:
         ]
     )
     names = _unique_index([(_name_key(product.name), product.id) for product in products])
-    families = _unique_index(
-        [(_family_name_key(product.name), product.id) for product in products]
-    )
+    families = _unique_index([(_family_name_key(product.name), product.id) for product in products])
     fasteners = _unique_index(
         [
             ("|".join(signature), product.id)
@@ -376,8 +378,8 @@ def _linked_box_items(products: list[Product]) -> list[Product]:
     for product in products:
         items: list[BoxItem] = []
         for item in product.box_contents:
-            linked_id = None
-            if item.source_url:
+            linked_id = item.linked_product_id
+            if linked_id is None and item.source_url:
                 segments = [
                     unquote(segment) for segment in urlsplit(str(item.source_url)).path.split("/")
                 ]
@@ -410,7 +412,7 @@ def _linked_box_items(products: list[Product]) -> list[Product]:
                     linked_id = next(iter(candidates))
             # Page-wide part-number extraction can include a kit's component codes.
             # Do not let those codes incorrectly resolve a component to its parent kit.
-            if linked_id == product.id:
+            if linked_id == product.id and item.linked_product_id is None:
                 linked_id = None
             if linked_id is None:
                 linked_id = names.get(_name_key(item.name))
@@ -426,6 +428,8 @@ def _linked_box_items(products: list[Product]) -> list[Product]:
 
 
 def enrich_product(product: Product, root: Path) -> Product:
+    if product.supplier_id != "bambu-lab":
+        return product
     described = product.model_copy(update=_description_data(product))
     described = described.model_copy(update={"related_links": _related_links_for(described)})
     described = described.model_copy(update={"box_contents": box_contents_for(described, root)})
@@ -442,10 +446,16 @@ def enrich_product(product: Product, root: Path) -> Product:
 
 
 def enrich_products(products: list[Product], root: Path) -> list[Product]:
-    """Apply per-record enrichment and cross-catalog component links."""
-    linked = _linked_box_items([enrich_product(product, root) for product in products])
+    """Apply Bambu-specific enrichment within the Bambu supplier namespace."""
+    bambu = [product for product in products if product.supplier_id == "bambu-lab"]
+    linked = _linked_box_items([enrich_product(product, root) for product in bambu])
+    by_id = {product.id: product for product in linked}
     # Explicit reviewed package rows and links are authoritative over inferred matches.
     return [
-        product.model_copy(update={"box_contents": box_contents_for(product, root)})
-        for product in linked
+        by_id[product.id].model_copy(
+            update={"box_contents": box_contents_for(by_id[product.id], root)}
+        )
+        if product.id in by_id
+        else product
+        for product in products
     ]

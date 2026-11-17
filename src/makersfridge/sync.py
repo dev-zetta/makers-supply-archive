@@ -355,8 +355,8 @@ class SyncEngine:
             return previous, downloaded, bytes_downloaded, rejected
         return candidate, downloaded, bytes_downloaded, rejected
 
-    def _promote(self, staged: Catalog) -> None:
-        products = staged.products()
+    def _promote(self, staged: Catalog, product_ids: set[str] | None = None) -> None:
+        products = [p for p in staged.products() if product_ids is None or p.id in product_ids]
         referenced_blobs = sorted(
             {asset.blob_path for product in products for asset in product.assets if asset.blob_path}
         )
@@ -366,9 +366,19 @@ class SyncEngine:
             if not destination.exists():
                 destination.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(blob, destination)
-        self.catalog.write_products(products)
+        # Staging begins with exact copies. Keep untouched suppliers' JSON bytes,
+        # including legacy schema records, rather than serializing them again.
+        for source in sorted(staged.products_dir.glob("*.json")):
+            if product_ids is not None and source.stem not in product_ids:
+                continue
+            destination = self.catalog.products_dir / source.name
+            content = source.read_bytes()
+            if not destination.is_file() or destination.read_bytes() != content:
+                atomic_write(destination, content)
 
     def run(self, options: SyncOptions) -> SyncResult:
+        if not options.regions or any(region not in STORES for region in options.regions):
+            raise ValueError("Bambu synchronization requires supported regional storefronts")
         started_at = utc_now()
         existing = self.catalog.products()
         continuing = self._begin_run(options, started_at)
@@ -445,6 +455,8 @@ class SyncEngine:
 
         if options.max_products is None:
             for product in existing:
+                if product.supplier_id != "bambu-lab":
+                    continue
                 if product.id in seen_ids:
                     continue
                 offers = []
@@ -469,7 +481,11 @@ class SyncEngine:
                 )
                 stage_catalog.write_product(updated)
 
-        stage_catalog.write_products(enrich_products(stage_catalog.products(), self.root))
+        stage_catalog.write_products(
+            enrich_products(
+                [p for p in stage_catalog.products() if p.supplier_id == "bambu-lab"], self.root
+            )
+        )
         issues = validate_catalog(stage_catalog, check_blobs=not options.metadata_only)
         if issues:
             detail = "; ".join(f"{issue.product_id}: {issue.message}" for issue in issues[:10])
@@ -488,7 +504,10 @@ class SyncEngine:
         )
         promoted = diff.has_changes and not options.dry_run
         if promoted:
-            self._promote(stage_catalog)
+            self._promote(
+                stage_catalog,
+                {product.id for product in after if product.supplier_id == "bambu-lab"},
+            )
             atomic_write(self.root / "data" / "runs" / "latest.json", canonical_json(manifest))
             atomic_write(self.root / "reports" / "latest.md", diff.markdown())
         assert self.checkpoint is not None

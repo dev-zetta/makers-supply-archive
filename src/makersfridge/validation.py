@@ -27,12 +27,31 @@ def validate_product(
 ) -> list[ValidationIssue]:
     issues: list[ValidationIssue] = []
     asset_ids: set[str] = set()
-    offer_regions: set[str] = set()
+    offer_keys: set[tuple[str, str]] = set()
+    variant_keys: set[tuple[str, str, str]] = set()
 
     for offer in product.offers:
-        if offer.region.value in offer_regions:
-            issues.append(ValidationIssue(product.id, f"duplicate offer for region {offer.region}"))
-        offer_regions.add(offer.region.value)
+        key = (offer.region.value, offer.store_id)
+        if key in offer_keys:
+            issues.append(
+                ValidationIssue(
+                    product.id,
+                    f"duplicate offer for region {offer.region} and store {offer.store_id!r}",
+                )
+            )
+        offer_keys.add(key)
+
+    for variant in product.variants:
+        variant_key = (variant.region.value, variant.store_id, variant.variant_id)
+        if variant_key in variant_keys:
+            issues.append(
+                ValidationIssue(
+                    product.id,
+                    f"duplicate variant {variant.variant_id!r} for region {variant.region} "
+                    f"and store {variant.store_id!r}",
+                )
+            )
+        variant_keys.add(variant_key)
 
     for asset in product.assets:
         if asset.id in asset_ids:
@@ -63,9 +82,7 @@ def validate_product(
         if asset.rejection_reason:
             if any(value is not None for value in (asset.sha256, asset.size, asset.blob_path)):
                 issues.append(
-                    ValidationIssue(
-                        product.id, f"rejected asset {asset.id} has blob metadata"
-                    )
+                    ValidationIssue(product.id, f"rejected asset {asset.id} has blob metadata")
                 )
             continue
         populated = (asset.sha256, asset.size, asset.blob_path, asset.retrieved_at)
@@ -98,8 +115,7 @@ def validate_catalog(catalog: Catalog, *, check_blobs: bool = True) -> list[Vali
                 issues.append(
                     ValidationIssue(
                         product.id,
-                        f"box item {item.name!r} links to missing product "
-                        f"{item.linked_product_id}",
+                        f"box item {item.name!r} links to missing product {item.linked_product_id}",
                     )
                 )
     return issues

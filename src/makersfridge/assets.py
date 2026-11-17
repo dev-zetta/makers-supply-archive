@@ -177,9 +177,7 @@ class AssetStore:
                 for chunk in response.iter_bytes(CHUNK_SIZE):
                     stream.write(chunk)
                     if stream.tell() > self.limits.max_download_size:
-                        raise UnsafeAssetError(
-                            f"asset exceeds download limit: {asset.source_url}"
-                        )
+                        raise UnsafeAssetError(f"asset exceeds download limit: {asset.source_url}")
         finally:
             response.close()
         if partial.stat().st_size == 0:
@@ -287,6 +285,17 @@ class AssetStore:
                         retrieved_at=archive.retrieved_at,
                         parent_asset_id=archive.id,
                         archive_member_path=member_path.as_posix(),
+                        **archive.model_dump(
+                            include={
+                                "role",
+                                "applies_to_skus",
+                                "hardware_revision",
+                                "source_repository",
+                                "source_commit",
+                                "source_path",
+                                "license_url",
+                            }
+                        ),
                     )
                 )
         return extracted

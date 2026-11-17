@@ -4,6 +4,7 @@ from pathlib import Path
 
 import pytest
 
+from makersfridge.config import STORES
 from makersfridge.models import Region, RegionRun, RunManifest
 from makersfridge.release_evidence import record_acceptance, verify_acceptance
 from makersfridge.storage import snapshot_identity
@@ -15,7 +16,7 @@ def receipt(root: Path) -> Path:
         started_at=now,
         completed_at=now,
         metadata_only=False,
-        regions=[RegionRun(region=r, success=True, products_seen=1) for r in Region],
+        regions=[RegionRun(region=r, success=True, products_seen=1) for r in STORES],
         products_written=0,
         assets_downloaded=0,
         bytes_downloaded=0,
@@ -67,6 +68,32 @@ def test_failed_region_cannot_be_accepted(tmp_path: Path) -> None:
     path.write_text(json.dumps(data))
     with pytest.raises(ValueError, match="eight-region"):
         record_acceptance(tmp_path, tmp_path / "acceptance.json")
+
+
+def test_global_supplier_scope_is_not_required_or_sufficient_for_bambu_acceptance(
+    tmp_path: Path,
+) -> None:
+    path = receipt(tmp_path)
+    source = json.loads(path.read_text())
+    assert len(source["manifest"]["regions"]) == 8
+    assert {item["region"] for item in source["manifest"]["regions"]} == set(STORES)
+    assert Region.GLOBAL not in STORES
+    output = tmp_path / "acceptance.json"
+    record_acceptance(tmp_path, output)
+    verify_acceptance(tmp_path, output)
+
+    global_run = {"region": "global", "success": True, "products_seen": 6}
+    source["manifest"]["regions"] = [global_run]
+    source["manifest"]["supplier_ids"] = ["bigtreetech", "biqu", "waveshare"]
+    path.write_text(json.dumps(source))
+    with pytest.raises(ValueError, match="eight-region"):
+        record_acceptance(tmp_path, output)
+
+    accepted = json.loads(output.read_text())
+    accepted["repeat_sync"]["regions"] = [global_run]
+    output.write_text(json.dumps(accepted))
+    with pytest.raises(ValueError, match="incomplete"):
+        verify_acceptance(tmp_path, output)
 
 
 def test_old_scan_cannot_be_recertified_as_fresh(tmp_path: Path) -> None:

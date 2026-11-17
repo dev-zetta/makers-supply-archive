@@ -1,0 +1,175 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.waveshare.com/ESP32-S3-Touch-AMOLED-1.8.htm",
+      "region": "global",
+      "store_id": "waveshare-global",
+      "supplier_id": "waveshare"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [
+        "29957"
+      ],
+      "blob_path": "data/blobs/sha256/d0/d0b65e213ab8de39b4d0e04684d2b8a06b389c501685b091c8d42252f2cfd4e4.zip",
+      "id": "archive-fe3788676383654e6d4f",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "ESP32-S3-Touch-AMOLED-1.8-3D.zip",
+      "retrieved_at": "2026-11-17T00:49:41Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "d0b65e213ab8de39b4d0e04684d2b8a06b389c501685b091c8d42252f2cfd4e4",
+      "size": 2574465,
+      "source_url": "https://files.waveshare.com/wiki/ESP32-S3-Touch-AMOLED-1.8/ESP32-S3-Touch-AMOLED-1.8-3D.zip"
+    },
+    {
+      "applies_to_skus": [
+        "29957"
+      ],
+      "blob_path": "data/blobs/sha256/31/313286560e8fdcc3750f714426bae50feef0fcea443fd324e2b82afc7645a480.jpg",
+      "id": "image-f19681170222f75462c4",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "esp32-s3-touch-amoled-1.8-1.jpg",
+      "retrieved_at": "2026-11-17T00:49:41Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "313286560e8fdcc3750f714426bae50feef0fcea443fd324e2b82afc7645a480",
+      "size": 2612,
+      "source_url": "https://www.waveshare.com/media/catalog/product/cache/1/thumbnail/122x122/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-amoled-1.8-1.jpg"
+    },
+    {
+      "applies_to_skus": [
+        "29957"
+      ],
+      "archive_member_path": "ESP32-S3-Touch-AMOLED-1.8-3D.stp",
+      "blob_path": "data/blobs/sha256/4f/4f1ce7f7b97bb1485541f5b9065e70fe9b9902dabc5626f2975e96b591455775.stp",
+      "id": "model-806ac2f4aad268a008e1",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "ESP32-S3-Touch-AMOLED-1.8-3D.stp",
+      "parent_asset_id": "archive-fe3788676383654e6d4f",
+      "retrieved_at": "2026-11-17T00:49:41Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "4f1ce7f7b97bb1485541f5b9065e70fe9b9902dabc5626f2975e96b591455775",
+      "size": 13677570,
+      "source_url": "https://files.waveshare.com/wiki/ESP32-S3-Touch-AMOLED-1.8/ESP32-S3-Touch-AMOLED-1.8-3D.zip"
+    },
+    {
+      "applies_to_skus": [
+        "29957"
+      ],
+      "blob_path": "data/blobs/sha256/e5/e539260a3289e61d72b838abe4b8f035c23b861e128e414e1e510479ab87f439.png",
+      "id": "image-display-be2e0c3333c395957366",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 122,
+        "source_sha256": "313286560e8fdcc3750f714426bae50feef0fcea443fd324e2b82afc7645a480",
+        "source_width": 122
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "esp32-s3-touch-amoled-1.8-1.catalog.png",
+      "parent_asset_id": "image-f19681170222f75462c4",
+      "retrieved_at": "2026-11-17T00:49:41Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "e539260a3289e61d72b838abe4b8f035c23b861e128e414e1e510479ab87f439",
+      "size": 119655,
+      "source_url": "https://www.waveshare.com/media/catalog/product/cache/1/thumbnail/122x122/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-touch-amoled-1.8-1.jpg"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.waveshare.com/ESP32-S3-Touch-AMOLED-1.8.htm"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "SKU 29957 includes the 3.7V MX1.25 lithium battery; SKU 29958 excludes it. Documentation distinguishes V1/V2 hardware but does not identify the linked STEP model revision, so model compatibility remains unconfirmed. The configurable shop page exposes a family price range, not a reliable exact per-SKU price."
+    }
+  ],
+  "description_html": "",
+  "description_text": "SKU 29957 includes the 3.7V MX1.25 lithium battery; SKU 29958 excludes it. Documentation distinguishes V1/V2 hardware but does not identify the linked STEP model revision, so model compatibility remains unconfirmed. The configurable shop page exposes a family price range, not a reliable exact per-SKU price.",
+  "first_seen": "2026-11-17T00:49:41Z",
+  "id": "waveshare-29957",
+  "last_seen": "2026-11-17T00:59:43Z",
+  "manufacturer": "Waveshare",
+  "measurements": [],
+  "name": "Waveshare ESP32-S3-Touch-AMOLED-1.8",
+  "offers": [
+    {
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "region": "global",
+      "retrieved_at": "2026-11-17T00:59:43Z",
+      "store_id": "waveshare-global",
+      "url": "https://www.waveshare.com/ESP32-S3-Touch-AMOLED-1.8.htm"
+    }
+  ],
+  "part_numbers": [
+    "ESP32-S3-Touch-AMOLED-1.8"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.waveshare.com/ESP32-S3-Touch-AMOLED-1.8.htm"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.8"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.8/Resources-And-Documents"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [
+    "29957"
+  ],
+  "source_tables": [],
+  "specifications": {
+    "Source review": "revision-unconfirmed"
+  },
+  "supplier_id": "waveshare",
+  "tags": [
+    "waveshare"
+  ],
+  "variants": [
+    {
+      "currency": "USD",
+      "region": "global",
+      "sku": "29957",
+      "store_id": "waveshare-global",
+      "title": "Waveshare ESP32-S3-Touch-AMOLED-1.8 · Included",
+      "url": "https://www.waveshare.com/ESP32-S3-Touch-AMOLED-1.8.htm",
+      "variant_id": "29957"
+    }
+  ]
+}

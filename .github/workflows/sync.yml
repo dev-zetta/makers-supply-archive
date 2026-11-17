@@ -44,10 +44,11 @@ jobs:
       - name: Synchronize
         shell: bash
         run: |
-          args=(--resume)
+          args=(--supplier all --resume)
           if [[ "${{ inputs.metadata_only }}" == "true" ]]; then args+=(--metadata-only); fi
           if [[ -n "${{ inputs.max_products }}" ]]; then args+=(--max-products "${{ inputs.max_products }}"); fi
           uv run makersfridge sync "${args[@]}"
+          cat reports/latest.md reports/suppliers-latest.md > reports/combined-sync.md
       - name: Verify generated data
         run: |
           uv run makersfridge validate
@@ -65,9 +66,9 @@ jobs:
           git commit -m "data: update Maker's Fridge"
           git push --force-with-lease origin "$BRANCH_NAME"
           if gh pr view "$BRANCH_NAME" >/dev/null 2>&1; then
-            gh pr edit "$BRANCH_NAME" --body-file reports/latest.md
+            gh pr edit "$BRANCH_NAME" --body-file reports/combined-sync.md
           else
             gh pr create --base main --head "$BRANCH_NAME" \
               --title "data: weekly Maker's Fridge catalog update" \
-              --body-file reports/latest.md
+              --body-file reports/combined-sync.md
           fi

@@ -318,7 +318,7 @@ async def test_catalog_pages_and_assets_require_login(tmp_path: Path) -> None:
     assert "Official store ↗" in detail.text
     assert detail.text.count(
         'target="_blank" rel="external noopener noreferrer"'
-    ) == 4
+    ) == 5
     assert '<span class="status available">Available</span>' in detail.text
     assert ">Unknown<" not in detail.text
     assert "25" in detail.text

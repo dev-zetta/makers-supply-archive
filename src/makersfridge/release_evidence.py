@@ -5,16 +5,17 @@ import json
 from datetime import UTC, datetime, timedelta
 from pathlib import Path
 
-from makersfridge.models import Region, RunManifest
+from makersfridge.config import STORES
+from makersfridge.models import RunManifest
 from makersfridge.storage import Catalog, atomic_write, canonical_json, snapshot_identity
 from makersfridge.validation import validate_catalog
 
 
 def _full_regions(manifest: RunManifest) -> bool:
     return (
-        len(manifest.regions) == len(Region)
+        len(manifest.regions) == len(STORES)
         and all(item.success for item in manifest.regions)
-        and {item.region for item in manifest.regions} == set(Region)
+        and {item.region for item in manifest.regions} == set(STORES)
     )
 
 

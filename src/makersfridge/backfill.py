@@ -11,7 +11,7 @@ from makersfridge.images import ImageProcessor
 from makersfridge.models import AssetKind, Product, utc_now
 from makersfridge.parser import ParsedProduct, parse_product_page
 from makersfridge.reconcile import REGION_ORDER
-from makersfridge.storage import Catalog
+from makersfridge.storage import Catalog, atomic_write
 from makersfridge.validation import validate_catalog
 
 
@@ -39,7 +39,16 @@ class CachedAssetBackfill:
         self.pages_dir = root / ".staging" / "pages"
 
     def _page(self, product: Product) -> ParsedProduct | None:
-        for alias in sorted(product.aliases, key=lambda item: REGION_ORDER[item.region]):
+        aliases = (
+            [
+                alias
+                for alias in product.aliases
+                if alias.supplier_id == "bambu-lab" and alias.region in REGION_ORDER
+            ]
+            if product.supplier_id == "bambu-lab"
+            else []
+        )
+        for alias in sorted(aliases, key=lambda item: REGION_ORDER[item.region]):
             key = hashlib.sha256(f"{alias.region.value}:{alias.handle}".encode()).hexdigest()
             path = self.pages_dir / f"{key}.html"
             if path.is_file():
@@ -70,10 +79,7 @@ class CachedAssetBackfill:
     def _promote(self, staged: Catalog) -> None:
         products = staged.products()
         referenced = {
-            asset.blob_path
-            for product in products
-            for asset in product.assets
-            if asset.blob_path
+            asset.blob_path for product in products for asset in product.assets if asset.blob_path
         }
         for relative in sorted(referenced):
             source = staged.root / relative
@@ -81,7 +87,11 @@ class CachedAssetBackfill:
             if not destination.exists():
                 destination.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(source, destination)
-        self.catalog.write_products(products)
+        for source in staged.products_dir.glob("*.json"):
+            destination = self.catalog.products_dir / source.name
+            payload = source.read_bytes()
+            if not destination.exists() or destination.read_bytes() != payload:
+                atomic_write(destination, payload)
 
     def run(
         self,
@@ -105,7 +115,7 @@ class CachedAssetBackfill:
         scanned = changed = missing_pages = discovered = downloaded = extracted = rejected = 0
         bytes_downloaded = 0
         for product in products:
-            if product.id not in requested_ids:
+            if product.id not in requested_ids or product.supplier_id != "bambu-lab":
                 continue
             scanned += 1
             parsed = self._page(product)
@@ -113,9 +123,7 @@ class CachedAssetBackfill:
                 missing_pages += 1
                 continue
             existing_urls = {
-                str(asset.source_url)
-                for asset in product.assets
-                if asset.parent_asset_id is None
+                str(asset.source_url) for asset in product.assets if asset.parent_asset_id is None
             }
             missing = [
                 asset
@@ -154,9 +162,7 @@ class CachedAssetBackfill:
         if staged is not None:
             issues = validate_catalog(staged)
             if issues:
-                detail = "; ".join(
-                    f"{issue.product_id}: {issue.message}" for issue in issues[:10]
-                )
+                detail = "; ".join(f"{issue.product_id}: {issue.message}" for issue in issues[:10])
                 raise RuntimeError(f"staged asset backfill failed validation: {detail}")
             promoted = changed > 0 and not dry_run
             if promoted:
