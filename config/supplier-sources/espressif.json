@@ -1,0 +1,401 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-11-17",
+  "notes": "Official Espressif references: four exact PCB-antenna modules with pinned STEP assemblies, plus two revision-matching development-board DXF/PDF outlines. No vendor stock, seller prices, or commercial SKUs are invented. Module-library license metadata is scoped to the KiCad library; board drawings and images remain rights unknown.",
+  "products": [
+    {
+      "id": "espressif-esp32-wroom-32e",
+      "supplier_id": "espressif",
+      "manufacturer": "Espressif Systems",
+      "name": "Espressif ESP32-WROOM-32E",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.espressif.com/en/products/modules/esp32",
+      "documentation_urls": [
+        "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf",
+        "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/README.md",
+        "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "skus": [],
+      "part_numbers": [
+        "ESP32-WROOM-32E"
+      ],
+      "selected_skus": [],
+      "description": "ESP32-WROOM-32E is an Espressif ESP32 surface-mount radio module with an onboard PCB antenna. The official KiCad library supplies a STEP assembly for this module.",
+      "specifications": {
+        "Chip family": "ESP32",
+        "Form factor": "Surface-mount module",
+        "Antenna": "Onboard PCB antenna",
+        "CAD coverage": "Module assembly (STEP)",
+        "CAD license": "CC-BY-SA-4.0 with KiCad exception"
+      },
+      "tags": [
+        "esp32",
+        "module",
+        "pcb-antenna",
+        "reference-only"
+      ],
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "compatibility_notes": "This reference describes the ESP32-WROOM-32E module, not a complete development board. External-antenna variants with different part numbers are excluded. Memory capacity and hardware revision are not inferred from the shared mechanical model. The STEP library is CC BY-SA 4.0 with the published KiCad electronic-design exception; retain the pinned license and attribution when redistributing.",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/espressif/kicad-libraries/d5b68fd9269c639b3a60681e00b91df33b4db4a3/3dmodels/espressif.3dshapes/ESP32-WROOM-32E.STEP",
+          "filename": "ESP32-WROOM-32E.STEP",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/espressif/kicad-libraries",
+          "source_commit": "d5b68fd9269c639b3a60681e00b91df33b4db4a3",
+          "source_path": "3dmodels/espressif.3dshapes/ESP32-WROOM-32E.STEP",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/espressif/kicad-libraries/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "filename": "Espressif-KiCad-LICENSE.md",
+          "role": "document",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/espressif/kicad-libraries",
+          "source_commit": "d5b68fd9269c639b3a60681e00b91df33b4db4a3",
+          "source_path": "LICENSE.md",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "espressif-esp32-s3-wroom-1",
+      "supplier_id": "espressif",
+      "manufacturer": "Espressif Systems",
+      "name": "Espressif ESP32-S3-WROOM-1",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.espressif.com/en/products/modules/esp32-s3",
+      "documentation_urls": [
+        "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf",
+        "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/README.md",
+        "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "skus": [],
+      "part_numbers": [
+        "ESP32-S3-WROOM-1"
+      ],
+      "selected_skus": [],
+      "description": "ESP32-S3-WROOM-1 is an Espressif ESP32-S3 surface-mount radio module with an onboard PCB antenna. The official KiCad library supplies a STEP assembly for this module.",
+      "specifications": {
+        "Chip family": "ESP32-S3",
+        "Form factor": "Surface-mount module",
+        "Antenna": "Onboard PCB antenna",
+        "CAD coverage": "Module assembly (STEP)",
+        "CAD license": "CC-BY-SA-4.0 with KiCad exception"
+      },
+      "tags": [
+        "esp32",
+        "esp32-s3",
+        "module",
+        "pcb-antenna",
+        "reference-only"
+      ],
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "compatibility_notes": "This reference describes the ESP32-S3-WROOM-1 module, not a complete development board. External-antenna variants with different part numbers are excluded. Memory capacity and hardware revision are not inferred from the shared mechanical model. The STEP library is CC BY-SA 4.0 with the published KiCad electronic-design exception; retain the pinned license and attribution when redistributing.",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/espressif/kicad-libraries/d5b68fd9269c639b3a60681e00b91df33b4db4a3/3dmodels/espressif.3dshapes/ESP32-S3-WROOM-1.STEP",
+          "filename": "ESP32-S3-WROOM-1.STEP",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/espressif/kicad-libraries",
+          "source_commit": "d5b68fd9269c639b3a60681e00b91df33b4db4a3",
+          "source_path": "3dmodels/espressif.3dshapes/ESP32-S3-WROOM-1.STEP",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/espressif/kicad-libraries/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "filename": "Espressif-KiCad-LICENSE.md",
+          "role": "document",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/espressif/kicad-libraries",
+          "source_commit": "d5b68fd9269c639b3a60681e00b91df33b4db4a3",
+          "source_path": "LICENSE.md",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "espressif-esp32-c3-mini-1",
+      "supplier_id": "espressif",
+      "manufacturer": "Espressif Systems",
+      "name": "Espressif ESP32-C3-MINI-1",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.espressif.com/en/products/modules/esp32-c3",
+      "documentation_urls": [
+        "https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf",
+        "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/README.md",
+        "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "skus": [],
+      "part_numbers": [
+        "ESP32-C3-MINI-1"
+      ],
+      "selected_skus": [],
+      "description": "ESP32-C3-MINI-1 is an Espressif ESP32-C3 surface-mount radio module with an onboard PCB antenna. The official KiCad library supplies a STEP assembly for this module.",
+      "specifications": {
+        "Chip family": "ESP32-C3",
+        "Form factor": "Surface-mount module",
+        "Antenna": "Onboard PCB antenna",
+        "CAD coverage": "Module assembly (STEP)",
+        "CAD license": "CC-BY-SA-4.0 with KiCad exception"
+      },
+      "tags": [
+        "esp32",
+        "esp32-c3",
+        "module",
+        "pcb-antenna",
+        "reference-only"
+      ],
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "compatibility_notes": "This reference describes the ESP32-C3-MINI-1 module, not a complete development board. External-antenna variants with different part numbers are excluded. Memory capacity and hardware revision are not inferred from the shared mechanical model. The STEP library is CC BY-SA 4.0 with the published KiCad electronic-design exception; retain the pinned license and attribution when redistributing.",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/espressif/kicad-libraries/d5b68fd9269c639b3a60681e00b91df33b4db4a3/3dmodels/espressif.3dshapes/ESP32-C3-MINI-1.STEP",
+          "filename": "ESP32-C3-MINI-1.STEP",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/espressif/kicad-libraries",
+          "source_commit": "d5b68fd9269c639b3a60681e00b91df33b4db4a3",
+          "source_path": "3dmodels/espressif.3dshapes/ESP32-C3-MINI-1.STEP",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/espressif/kicad-libraries/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "filename": "Espressif-KiCad-LICENSE.md",
+          "role": "document",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/espressif/kicad-libraries",
+          "source_commit": "d5b68fd9269c639b3a60681e00b91df33b4db4a3",
+          "source_path": "LICENSE.md",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "espressif-esp32-c6-wroom-1",
+      "supplier_id": "espressif",
+      "manufacturer": "Espressif Systems",
+      "name": "Espressif ESP32-C6-WROOM-1",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.espressif.com/en/products/modules/esp32-c6",
+      "documentation_urls": [
+        "https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf",
+        "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/README.md",
+        "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "skus": [],
+      "part_numbers": [
+        "ESP32-C6-WROOM-1"
+      ],
+      "selected_skus": [],
+      "description": "ESP32-C6-WROOM-1 is an Espressif ESP32-C6 surface-mount radio module with an onboard PCB antenna. The official KiCad library supplies a STEP assembly for this module.",
+      "specifications": {
+        "Chip family": "ESP32-C6",
+        "Form factor": "Surface-mount module",
+        "Antenna": "Onboard PCB antenna",
+        "CAD coverage": "Module assembly (STEP)",
+        "CAD license": "CC-BY-SA-4.0 with KiCad exception"
+      },
+      "tags": [
+        "esp32",
+        "esp32-c6",
+        "module",
+        "pcb-antenna",
+        "reference-only"
+      ],
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "compatibility_notes": "This reference describes the ESP32-C6-WROOM-1 module, not a complete development board. External-antenna variants with different part numbers are excluded. Memory capacity and hardware revision are not inferred from the shared mechanical model. The STEP library is CC BY-SA 4.0 with the published KiCad electronic-design exception; retain the pinned license and attribution when redistributing.",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/espressif/kicad-libraries/d5b68fd9269c639b3a60681e00b91df33b4db4a3/3dmodels/espressif.3dshapes/ESP32-C6-WROOM-1.STEP",
+          "filename": "ESP32-C6-WROOM-1.STEP",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/espressif/kicad-libraries",
+          "source_commit": "d5b68fd9269c639b3a60681e00b91df33b4db4a3",
+          "source_path": "3dmodels/espressif.3dshapes/ESP32-C6-WROOM-1.STEP",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/espressif/kicad-libraries/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "filename": "Espressif-KiCad-LICENSE.md",
+          "role": "document",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/espressif/kicad-libraries",
+          "source_commit": "d5b68fd9269c639b3a60681e00b91df33b4db4a3",
+          "source_path": "LICENSE.md",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "espressif-esp32-devkitc-v4",
+      "supplier_id": "espressif",
+      "manufacturer": "Espressif Systems",
+      "name": "Espressif ESP32-DevKitC V4",
+      "hardware_revision": "V4",
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html",
+      "documentation_urls": [
+        "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "skus": [],
+      "part_numbers": [
+        "ESP32-DevKitC"
+      ],
+      "selected_skus": [],
+      "description": "ESP32-DevKitC V4 is an Espressif development board with pin headers and USB programming connections. The official guide publishes revision-matching mechanical dimensions as DXF and PDF.",
+      "specifications": {
+        "Chip family": "ESP32",
+        "Form factor": "Development board",
+        "Board revision": "V4",
+        "CAD coverage": "2D board dimensions (DXF/PDF); no full-board STEP in reviewed source"
+      },
+      "tags": [
+        "esp32",
+        "development-board",
+        "mechanical-drawing",
+        "reference-only"
+      ],
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "compatibility_notes": "Official V4 board-outline drawings are included. A complete-board STEP assembly was not found in the reviewed official resources, so a module STEP is not substituted for the board. Module, antenna and memory variants must be identified from the physical board before fit-critical design. Third-party boards using similar DevKit names are not covered.",
+      "assets": [
+        {
+          "url": "https://dl.espressif.com/dl/schematics/esp32_devkitc_v4_dimensions.pdf",
+          "filename": "esp32_devkitc_v4_dimensions.pdf",
+          "role": "drawing",
+          "applies_to_skus": [],
+          "hardware_revision": "V4",
+          "rights_status": "unknown"
+        },
+        {
+          "url": "https://dl.espressif.com/dl/schematics/esp32_devkitc_v4_dimensions.dxf",
+          "filename": "esp32_devkitc_v4_dimensions.dxf",
+          "role": "drawing",
+          "applies_to_skus": [],
+          "hardware_revision": "V4",
+          "rights_status": "unknown"
+        },
+        {
+          "url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/_images/esp32-devkitc-v4-functional-overview.png",
+          "filename": "esp32-devkitc-v4-functional-overview.png",
+          "role": "image",
+          "applies_to_skus": [],
+          "hardware_revision": "V4",
+          "rights_status": "unknown"
+        }
+      ]
+    },
+    {
+      "id": "espressif-esp32-s3-devkitc-1-v1-1",
+      "supplier_id": "espressif",
+      "manufacturer": "Espressif Systems",
+      "name": "Espressif ESP32-S3-DevKitC-1 v1.1",
+      "hardware_revision": "v1.1",
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/user_guide_v1.1.html",
+      "documentation_urls": [
+        "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/user_guide_v1.1.html"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "skus": [],
+      "part_numbers": [
+        "ESP32-S3-DevKitC-1"
+      ],
+      "selected_skus": [],
+      "description": "ESP32-S3-DevKitC-1 v1.1 is an Espressif development board with pin headers and USB programming connections. The official guide publishes revision-matching mechanical dimensions as DXF and PDF.",
+      "specifications": {
+        "Chip family": "ESP32-S3",
+        "Form factor": "Development board",
+        "Board revision": "v1.1",
+        "CAD coverage": "2D board dimensions (DXF/PDF); no full-board STEP in reviewed source"
+      },
+      "tags": [
+        "esp32",
+        "esp32-s3",
+        "development-board",
+        "mechanical-drawing",
+        "reference-only"
+      ],
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "compatibility_notes": "Official v1.1 board-outline drawings are included. A complete-board STEP assembly was not found in the reviewed official resources, so a module STEP is not substituted for the board. Module, antenna and memory variants must be identified from the physical board before fit-critical design. Third-party boards using similar DevKit names are not covered.",
+      "assets": [
+        {
+          "url": "https://dl.espressif.com/dl/schematics/esp_idf/DXF_ESP32-S3-DevKitC-1_V1.1_20220429.pdf",
+          "filename": "DXF_ESP32-S3-DevKitC-1_V1.1_20220429.pdf",
+          "role": "drawing",
+          "applies_to_skus": [],
+          "hardware_revision": "v1.1",
+          "rights_status": "unknown"
+        },
+        {
+          "url": "https://dl.espressif.com/dl/schematics/esp_idf/DXF_ESP32-S3-DevKitC-1_V1.1_20220429.dxf",
+          "filename": "DXF_ESP32-S3-DevKitC-1_V1.1_20220429.dxf",
+          "role": "drawing",
+          "applies_to_skus": [],
+          "hardware_revision": "v1.1",
+          "rights_status": "unknown"
+        },
+        {
+          "url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/_images/esp32-s3-devkitc-1-v1.1-isometric.png",
+          "filename": "esp32-s3-devkitc-1-v1.1-isometric.png",
+          "role": "image",
+          "applies_to_skus": [],
+          "hardware_revision": "v1.1",
+          "rights_status": "unknown"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.raspberrypi.com/products/raspberry-pi-4-model-b/",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "raspberry-pi"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/39/390b8a4048fb7963e3800274dc7a6a3031ad438a923f68fdb27f1f5afca40649.dxf",
+      "id": "model-fe43e8bc87baad5a91de",
+      "kind": "model",
+      "media_type": "image/vnd.dxf",
+      "original_filename": "RP-008342-DS-1-raspberry-pi-4-mechanical-drawing.dxf",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "390b8a4048fb7963e3800274dc7a6a3031ad438a923f68fdb27f1f5afca40649",
+      "size": 822959,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/545-raspberry-pi-4-model-b/documents/RP-008342-DS-1-raspberry-pi-4-mechanical-drawing.dxf"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/a5/a5c88057563016631ebca26666fd672614fc9aaa1c59128a541612c7798e9809.pdf",
+      "id": "document-55cb10300c77d426b66b",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "RP-008343-DS-1-raspberry-pi-4-mechanical-drawing.pdf",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "a5c88057563016631ebca26666fd672614fc9aaa1c59128a541612c7798e9809",
+      "size": 22819,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/545-raspberry-pi-4-model-b/documents/RP-008343-DS-1-raspberry-pi-4-mechanical-drawing.pdf"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.raspberrypi.com/products/raspberry-pi-4-model-b/"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Single-board computer with a BCM2711 processor, dual micro-HDMI outputs, Gigabit Ethernet, and USB-C power.\n\nThe reviewed official product portal publishes a two-dimensional mechanical drawing in DXF and PDF, not a STEP board model. These drawings are kept distinct from three-dimensional CAD; memory options, manufacturer family SKUs, physical board revisions, and live reseller offers are not inferred."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Single-board computer with a BCM2711 processor, dual micro-HDMI outputs, Gigabit Ethernet, and USB-C power.\n\nThe reviewed official product portal publishes a two-dimensional mechanical drawing in DXF and PDF, not a STEP board model. These drawings are kept distinct from three-dimensional CAD; memory options, manufacturer family SKUs, physical board revisions, and live reseller offers are not inferred.",
+  "first_seen": "2026-11-17T04:03:55Z",
+  "id": "raspberry-pi-4-model-b",
+  "last_seen": "2026-11-17T04:03:55Z",
+  "manufacturer": "Raspberry Pi",
+  "measurements": [],
+  "name": "Raspberry Pi 4 Model B",
+  "offers": [],
+  "part_numbers": [
+    "4 Model B"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.raspberrypi.com/products/raspberry-pi-4-model-b/"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://pip.raspberrypi.com/categories/545-raspberry-pi-4-model-b"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://pip.raspberrypi.com/categories/559-mechanical"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Board class": "Single-board computer",
+    "CAD representation": "2D DXF and PDF mechanical drawings",
+    "Display connections": "2 x micro-HDMI",
+    "GPIO": "40-pin header",
+    "Processor": "Broadcom BCM2711; quad-core Arm Cortex-A72",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "raspberry-pi",
+  "tags": [
+    "raspberry-pi",
+    "single-board-computer",
+    "bcm2711"
+  ],
+  "variants": []
+}

@@ -18,7 +18,7 @@ from makersfridge.sync import SyncEngine, SyncOptions
 
 ROOT = Path(__file__).parents[1]
 FIXTURES = ROOT / "tests/fixtures/suppliers"
-MANIFEST = ROOT / "config/supplier-pilots.json"
+MANIFEST = FIXTURES / "pilot-baseline.json"
 
 
 def fixture_handler(request: httpx.Request) -> httpx.Response:

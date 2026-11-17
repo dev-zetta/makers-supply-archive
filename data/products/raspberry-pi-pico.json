@@ -1,0 +1,121 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://pip.raspberrypi.com/categories/610-raspberry-pi-pico",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "raspberry-pi"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/40/4008e557bd80d75119872d10460d9f30f2e0faf210606d058bbe78cd6598c931.zip",
+      "hardware_revision": "R3",
+      "id": "archive-f72408871a269afc90a7",
+      "kind": "archive",
+      "license_url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html",
+      "media_type": "application/zip",
+      "original_filename": "RP-008311-DS-1-Pico-R3-step.zip",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "permissive",
+      "role": "component",
+      "sha256": "4008e557bd80d75119872d10460d9f30f2e0faf210606d058bbe78cd6598c931",
+      "size": 266009,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/610-raspberry-pi-pico/documents/RP-008311-DS-1-Pico-R3-step.zip"
+    },
+    {
+      "applies_to_skus": [],
+      "archive_member_path": "Pico-R3.step",
+      "blob_path": "data/blobs/sha256/ea/ea5c693afee3de73e9fcaab1892a5ed44bf789438b9b1e5906e9c4f9859cab8b.step",
+      "hardware_revision": "R3",
+      "id": "model-ba8da77ad11c445f0fbc",
+      "kind": "model",
+      "license_url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html",
+      "media_type": "application/p21",
+      "original_filename": "Pico-R3.step",
+      "parent_asset_id": "archive-f72408871a269afc90a7",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "permissive",
+      "role": "component",
+      "sha256": "ea5c693afee3de73e9fcaab1892a5ed44bf789438b9b1e5906e9c4f9859cab8b",
+      "size": 1721174,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/610-raspberry-pi-pico/documents/RP-008311-DS-1-Pico-R3-step.zip"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://pip.raspberrypi.com/categories/610-raspberry-pi-pico"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "RP2040 microcontroller board with castellated GPIO connections, USB, and on-board flash.\n\nThe official Pico-R3 archive identifies this as an R3 board reference. Presoldered-header variants are not asserted to be represented. The archive contains AppleDouble metadata in __MACOSX; that metadata is not a second model. Source documentation explicitly permits use, copying, modification, and distribution of Pico design files."
+    }
+  ],
+  "description_html": "",
+  "description_text": "RP2040 microcontroller board with castellated GPIO connections, USB, and on-board flash.\n\nThe official Pico-R3 archive identifies this as an R3 board reference. Presoldered-header variants are not asserted to be represented. The archive contains AppleDouble metadata in __MACOSX; that metadata is not a second model. Source documentation explicitly permits use, copying, modification, and distribution of Pico design files.",
+  "first_seen": "2026-11-17T04:03:55Z",
+  "hardware_revision": "R3",
+  "id": "raspberry-pi-pico",
+  "last_seen": "2026-11-17T04:03:55Z",
+  "manufacturer": "Raspberry Pi",
+  "measurements": [],
+  "name": "Raspberry Pi Pico",
+  "offers": [],
+  "part_numbers": [
+    "Pico"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://pip.raspberrypi.com/categories/610-raspberry-pi-pico"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://pip.raspberrypi.com/categories/610-raspberry-pi-pico"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Board class": "Microcontroller board",
+    "CAD license": "Raspberry Pi design-file permission (official documentation)",
+    "CAD representation": "3D STEP, Pico-R3",
+    "Maximum clock": "133 MHz",
+    "Memory": "264 kB SRAM; 2 MB flash",
+    "Microcontroller": "RP2040",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "raspberry-pi",
+  "tags": [
+    "raspberry-pi",
+    "microcontroller",
+    "pico",
+    "rp2040"
+  ],
+  "variants": []
+}

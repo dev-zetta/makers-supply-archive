@@ -15,7 +15,9 @@ def snapshot_identity(root: Path) -> str:
     """Identify the authoritative JSON and reviewed rules, independent of checkout path."""
     digest = hashlib.sha256()
     for relative in ("data/products", "config"):
-        for path in sorted((root / relative).glob("*.json")):
+        directory = root / relative
+        files = directory.rglob("*.json") if relative == "config" else directory.glob("*.json")
+        for path in sorted(files):
             digest.update(path.relative_to(root).as_posix().encode())
             digest.update(b"\0")
             digest.update(path.read_bytes())

@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-11-17",
+  "notes": "Official Raspberry Pi board references. Four products have verified STEP archives, Pi 4 Model B has 2D mechanical drawings, and Pico 2 W is documentation-only. Family SKU lists are not guessed into exact hardware/variant mappings. CAD permissions apply only where recorded per asset; document rights otherwise remain unknown.",
+  "products": [
+    {
+      "id": "raspberry-pi-5",
+      "supplier_id": "raspberry-pi",
+      "manufacturer": "Raspberry Pi",
+      "name": "Raspberry Pi 5",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.raspberrypi.com/products/raspberry-pi-5/",
+      "documentation_urls": [
+        "https://pip.raspberrypi.com/categories/892-raspberry-pi-5",
+        "https://www.raspberrypi.com/documentation/computers/raspberry-pi.html"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "tags": [
+        "single-board-computer",
+        "raspberry-pi",
+        "bcm2712"
+      ],
+      "part_numbers": [
+        "5"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "description": "Single-board computer with a BCM2712 processor, RP1 I/O controller, USB-C power, and PCIe expansion.",
+      "specifications": {
+        "Board class": "Single-board computer",
+        "Processor": "Broadcom BCM2712; quad-core Arm Cortex-A76",
+        "Processor clock": "2.4 GHz",
+        "Power input": "USB-C, 5 V / 5 A",
+        "GPIO": "40-pin header",
+        "CAD representation": "3D STEP, no graphics",
+        "CAD license": "MIT (included LICENSE.txt)"
+      },
+      "compatibility_notes": "Official board-family STEP reference without graphics. The included MIT notice says geometry is guidance only and may not reflect current product revisions; verify the physical board before fit-critical work. Memory-capacity and pack SKUs are not mapped to this model. No reseller price or stock is inferred.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip",
+          "filename": "RP-010083-CA-1-rpi-5 3D STEP - No Graphics small file.zip",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "permissive",
+          "license_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip"
+        }
+      ]
+    },
+    {
+      "id": "raspberry-pi-4-model-b",
+      "supplier_id": "raspberry-pi",
+      "manufacturer": "Raspberry Pi",
+      "name": "Raspberry Pi 4 Model B",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.raspberrypi.com/products/raspberry-pi-4-model-b/",
+      "documentation_urls": [
+        "https://pip.raspberrypi.com/categories/545-raspberry-pi-4-model-b",
+        "https://pip.raspberrypi.com/categories/559-mechanical"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "tags": [
+        "single-board-computer",
+        "raspberry-pi",
+        "bcm2711"
+      ],
+      "part_numbers": [
+        "4 Model B"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "description": "Single-board computer with a BCM2711 processor, dual micro-HDMI outputs, Gigabit Ethernet, and USB-C power.",
+      "specifications": {
+        "Board class": "Single-board computer",
+        "Processor": "Broadcom BCM2711; quad-core Arm Cortex-A72",
+        "GPIO": "40-pin header",
+        "Display connections": "2 x micro-HDMI",
+        "CAD representation": "2D DXF and PDF mechanical drawings"
+      },
+      "compatibility_notes": "The reviewed official product portal publishes a two-dimensional mechanical drawing in DXF and PDF, not a STEP board model. These drawings are kept distinct from three-dimensional CAD; memory options, manufacturer family SKUs, physical board revisions, and live reseller offers are not inferred.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://pip-assets.raspberrypi.com/categories/545-raspberry-pi-4-model-b/documents/RP-008342-DS-1-raspberry-pi-4-mechanical-drawing.dxf",
+          "filename": "RP-008342-DS-1-raspberry-pi-4-mechanical-drawing.dxf",
+          "role": "drawing",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "unknown"
+        },
+        {
+          "url": "https://pip-assets.raspberrypi.com/categories/545-raspberry-pi-4-model-b/documents/RP-008343-DS-1-raspberry-pi-4-mechanical-drawing.pdf",
+          "filename": "RP-008343-DS-1-raspberry-pi-4-mechanical-drawing.pdf",
+          "role": "drawing",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "unknown"
+        }
+      ]
+    },
+    {
+      "id": "raspberry-pi-pico",
+      "supplier_id": "raspberry-pi",
+      "manufacturer": "Raspberry Pi",
+      "name": "Raspberry Pi Pico",
+      "hardware_revision": "R3",
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://pip.raspberrypi.com/categories/610-raspberry-pi-pico",
+      "documentation_urls": [
+        "https://pip.raspberrypi.com/categories/610-raspberry-pi-pico",
+        "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "tags": [
+        "microcontroller",
+        "raspberry-pi",
+        "pico",
+        "rp2040"
+      ],
+      "part_numbers": [
+        "Pico"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "description": "RP2040 microcontroller board with castellated GPIO connections, USB, and on-board flash.",
+      "specifications": {
+        "Board class": "Microcontroller board",
+        "Microcontroller": "RP2040",
+        "Memory": "264 kB SRAM; 2 MB flash",
+        "Maximum clock": "133 MHz",
+        "CAD representation": "3D STEP, Pico-R3",
+        "CAD license": "Raspberry Pi design-file permission (official documentation)"
+      },
+      "compatibility_notes": "The official Pico-R3 archive identifies this as an R3 board reference. Presoldered-header variants are not asserted to be represented. The archive contains AppleDouble metadata in __MACOSX; that metadata is not a second model. Source documentation explicitly permits use, copying, modification, and distribution of Pico design files.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://pip-assets.raspberrypi.com/categories/610-raspberry-pi-pico/documents/RP-008311-DS-1-Pico-R3-step.zip",
+          "filename": "RP-008311-DS-1-Pico-R3-step.zip",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": "R3",
+          "rights_status": "permissive",
+          "license_url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html"
+        }
+      ]
+    },
+    {
+      "id": "raspberry-pi-pico-w",
+      "supplier_id": "raspberry-pi",
+      "manufacturer": "Raspberry Pi",
+      "name": "Raspberry Pi Pico W",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://pip.raspberrypi.com/categories/686-raspberry-pi-pico-w",
+      "documentation_urls": [
+        "https://pip.raspberrypi.com/categories/686-raspberry-pi-pico-w",
+        "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "tags": [
+        "microcontroller",
+        "raspberry-pi",
+        "pico",
+        "rp2040",
+        "wifi",
+        "bluetooth"
+      ],
+      "part_numbers": [
+        "Pico W"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "description": "Wireless RP2040 microcontroller board with USB and on-board flash.",
+      "specifications": {
+        "Board class": "Wireless microcontroller board",
+        "Microcontroller": "RP2040",
+        "Memory": "264 kB SRAM; 2 MB flash",
+        "Wireless": "2.4 GHz Wi-Fi; Bluetooth 5.2",
+        "CAD representation": "3D STEP, PicoW",
+        "CAD license": "Raspberry Pi design-file permission (official documentation)"
+      },
+      "compatibility_notes": "The official PicoW STEP archive is a Pico W reference, not a Pico 2 W or presoldered-header model. The model file does not establish the physical hardware revision. Source documentation explicitly permits use, copying, modification, and distribution of Pico W design files.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://pip-assets.raspberrypi.com/categories/686-raspberry-pi-pico-w/documents/RP-008318-DS-1-PicoW-step.zip",
+          "filename": "RP-008318-DS-1-PicoW-step.zip",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "permissive",
+          "license_url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html"
+        }
+      ]
+    },
+    {
+      "id": "raspberry-pi-pico-2",
+      "supplier_id": "raspberry-pi",
+      "manufacturer": "Raspberry Pi",
+      "name": "Raspberry Pi Pico 2",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://pip.raspberrypi.com/categories/1005-raspberry-pi-pico-2",
+      "documentation_urls": [
+        "https://pip.raspberrypi.com/categories/1005-raspberry-pi-pico-2",
+        "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "tags": [
+        "microcontroller",
+        "raspberry-pi",
+        "pico",
+        "rp2350"
+      ],
+      "part_numbers": [
+        "Pico 2"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "description": "RP2350 microcontroller board with selectable Arm or RISC-V processor architecture.",
+      "specifications": {
+        "Board class": "Microcontroller board",
+        "Microcontroller": "RP2350",
+        "Memory": "520 kB SRAM; 4 MB flash",
+        "Maximum clock": "150 MHz",
+        "CAD representation": "3D STEP, non-wireless Pico 2",
+        "CAD license": "MIT (included LICENSE.txt)"
+      },
+      "compatibility_notes": "Official non-wireless Pico 2 STEP reference. It must not be substituted for Pico 2 W; presoldered headers and the physical board revision are not established by the generic model filename. The included MIT notice says geometry is guidance only and may not reflect current product revisions.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip",
+          "filename": "RP-009061-CA-2-Pico 2 - 3D STEP.zip",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "permissive",
+          "license_url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip"
+        }
+      ]
+    },
+    {
+      "id": "raspberry-pi-pico-2-w",
+      "supplier_id": "raspberry-pi",
+      "manufacturer": "Raspberry Pi",
+      "name": "Raspberry Pi Pico 2 W",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://pip.raspberrypi.com/categories/1088-raspberry-pi-pico-2-w",
+      "documentation_urls": [
+        "https://pip.raspberrypi.com/categories/1088-raspberry-pi-pico-2-w",
+        "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "tags": [
+        "microcontroller",
+        "raspberry-pi",
+        "pico",
+        "rp2350",
+        "wifi",
+        "bluetooth"
+      ],
+      "part_numbers": [
+        "Pico 2 W"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "description": "Wireless RP2350 microcontroller board; this entry retains the official datasheet for hardware reference.",
+      "specifications": {
+        "Board class": "Wireless microcontroller board",
+        "Microcontroller": "RP2350",
+        "Memory": "520 kB SRAM; 4 MB flash",
+        "Wireless": "2.4 GHz Wi-Fi; Bluetooth 5.2",
+        "CAD coverage": "No distinct official Pico 2 W STEP verified; documentation only"
+      },
+      "compatibility_notes": "Documentation-only entry. The reviewed Pico 2 W portal publishes a datasheet, pinout, and schematic but no distinct downloadable STEP model. Its datasheet refers to a Pico 2 STEP resource; that non-wireless model is not attached to Pico 2 W. No CAD compatibility, physical board revision, exact manufacturer SKU, price, or stock is inferred.",
+      "review_status": "documentation-only",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://pip-assets.raspberrypi.com/categories/1088-raspberry-pi-pico-2-w/documents/RP-008304-DS-3-pico-2-w-datasheet.pdf",
+          "filename": "RP-008304-DS-3-pico-2-w-datasheet.pdf",
+          "role": "document",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "unknown"
+        }
+      ]
+    }
+  ]
+}

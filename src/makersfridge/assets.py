@@ -262,7 +262,25 @@ class AssetStore:
                 compressed = max(member.compress_size, 1)
                 if member.file_size / compressed > self.limits.max_compression_ratio:
                     raise UnsafeAssetError(f"suspicious compression ratio: {member.filename}")
-                if member.is_dir() or member_path.suffix.lower() not in EXTRACTABLE_SUFFIXES:
+                # AppleDouble sidecars can have CAD suffixes but are not models.
+                metadata = "__MACOSX" in member_path.parts or member_path.name.startswith("._")
+                notice = member_path.name.casefold() in {
+                    "license",
+                    "license.txt",
+                    "license.md",
+                    "licence",
+                    "licence.txt",
+                    "licence.md",
+                    "copying",
+                    "copying.txt",
+                    "notice",
+                    "notice.txt",
+                }
+                if (
+                    member.is_dir()
+                    or metadata
+                    or (member_path.suffix.lower() not in EXTRACTABLE_SUFFIXES and not notice)
+                ):
                     continue
                 temporary = self.staging_dir / "extract" / archive.id / member_path
                 temporary.parent.mkdir(parents=True, exist_ok=True)
@@ -270,10 +288,11 @@ class AssetStore:
                     shutil.copyfileobj(source, target, CHUNK_SIZE)
                 _check_signature(temporary, member_path.name)
                 digest, size, blob_path = self._store_file(temporary, member_path.name)
+                kind = AssetKind.DOCUMENT if notice else AssetKind.MODEL
                 extracted.append(
                     Asset(
-                        id=make_asset_id(AssetKind.MODEL, f"{archive.id}:{member_path.as_posix()}"),
-                        kind=AssetKind.MODEL,
+                        id=make_asset_id(kind, f"{archive.id}:{member_path.as_posix()}"),
+                        kind=kind,
                         source_url=archive.source_url,
                         original_filename=member_path.name,
                         media_type=mimetypes.guess_type(member_path.name)[0]
@@ -285,9 +304,9 @@ class AssetStore:
                         retrieved_at=archive.retrieved_at,
                         parent_asset_id=archive.id,
                         archive_member_path=member_path.as_posix(),
+                        role="document" if notice else archive.role,
                         **archive.model_dump(
                             include={
-                                "role",
                                 "applies_to_skus",
                                 "hardware_revision",
                                 "source_repository",

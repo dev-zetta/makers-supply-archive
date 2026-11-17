@@ -104,7 +104,7 @@ def sync_command(
     jitter: Annotated[float, typer.Option(min=0.0)] = 1.0,
     root: Annotated[Path, typer.Option(exists=True, file_okay=False)] = Path("."),
 ) -> None:
-    """Sync Bambu stores or reviewed supplier pilots (--supplier bigtreetech/biqu/waveshare/all)."""
+    """Sync official sources; select a supplier with --supplier or use --supplier all."""
     requested = tuple(dict.fromkeys(suppliers or ["bambu-lab"]))
     if requested == ("all",):
         requested = tuple(SUPPLIERS)

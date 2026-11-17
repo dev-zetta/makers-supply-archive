@@ -1,0 +1,135 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.raspberrypi.com/products/raspberry-pi-5/",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "raspberry-pi"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/68/6841637b4cfa97637bf34b529bfe896f24d9634b2c40b57a156781f55d88f06f.zip",
+      "id": "archive-ee2f2fb47548577b8064",
+      "kind": "archive",
+      "license_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip",
+      "media_type": "application/zip",
+      "original_filename": "RP-010083-CA-1-rpi-5 3D STEP - No Graphics small file.zip",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "permissive",
+      "role": "component",
+      "sha256": "6841637b4cfa97637bf34b529bfe896f24d9634b2c40b57a156781f55d88f06f",
+      "size": 13270704,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip"
+    },
+    {
+      "applies_to_skus": [],
+      "archive_member_path": "rpi-5b_no_graphics.step",
+      "blob_path": "data/blobs/sha256/78/78164070c1cc7ab854382950d2e85926c6e35432f1e5a146b733397a7c6afb44.step",
+      "id": "model-975720426e5df14464b9",
+      "kind": "model",
+      "license_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip",
+      "media_type": "application/p21",
+      "original_filename": "rpi-5b_no_graphics.step",
+      "parent_asset_id": "archive-ee2f2fb47548577b8064",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "permissive",
+      "role": "component",
+      "sha256": "78164070c1cc7ab854382950d2e85926c6e35432f1e5a146b733397a7c6afb44",
+      "size": 77627469,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip"
+    },
+    {
+      "applies_to_skus": [],
+      "archive_member_path": "LICENSE.txt",
+      "blob_path": "data/blobs/sha256/4c/4ca2d350552b24137e55587e13fb09a249b757c6af49652ff02ea524d154c7fc.txt",
+      "id": "document-3a881cc23a7b62663ec9",
+      "kind": "document",
+      "license_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip",
+      "media_type": "text/plain",
+      "original_filename": "LICENSE.txt",
+      "parent_asset_id": "archive-ee2f2fb47548577b8064",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "permissive",
+      "role": "document",
+      "sha256": "4ca2d350552b24137e55587e13fb09a249b757c6af49652ff02ea524d154c7fc",
+      "size": 1881,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.raspberrypi.com/products/raspberry-pi-5/"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Single-board computer with a BCM2712 processor, RP1 I/O controller, USB-C power, and PCIe expansion.\n\nOfficial board-family STEP reference without graphics. The included MIT notice says geometry is guidance only and may not reflect current product revisions; verify the physical board before fit-critical work. Memory-capacity and pack SKUs are not mapped to this model. No reseller price or stock is inferred."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Single-board computer with a BCM2712 processor, RP1 I/O controller, USB-C power, and PCIe expansion.\n\nOfficial board-family STEP reference without graphics. The included MIT notice says geometry is guidance only and may not reflect current product revisions; verify the physical board before fit-critical work. Memory-capacity and pack SKUs are not mapped to this model. No reseller price or stock is inferred.",
+  "first_seen": "2026-11-17T04:03:55Z",
+  "id": "raspberry-pi-5",
+  "last_seen": "2026-11-17T04:03:55Z",
+  "manufacturer": "Raspberry Pi",
+  "measurements": [],
+  "name": "Raspberry Pi 5",
+  "offers": [],
+  "part_numbers": [
+    "5"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.raspberrypi.com/products/raspberry-pi-5/"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://pip.raspberrypi.com/categories/892-raspberry-pi-5"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.raspberrypi.com/documentation/computers/raspberry-pi.html"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Board class": "Single-board computer",
+    "CAD license": "MIT (included LICENSE.txt)",
+    "CAD representation": "3D STEP, no graphics",
+    "GPIO": "40-pin header",
+    "Power input": "USB-C, 5 V / 5 A",
+    "Processor": "Broadcom BCM2712; quad-core Arm Cortex-A76",
+    "Processor clock": "2.4 GHz",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "raspberry-pi",
+  "tags": [
+    "raspberry-pi",
+    "single-board-computer",
+    "bcm2712"
+  ],
+  "variants": []
+}

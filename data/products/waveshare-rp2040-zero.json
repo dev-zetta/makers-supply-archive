@@ -1,0 +1,113 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.waveshare.com/wiki/RP2040-Zero",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "waveshare"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/b3/b3f427a30da1c4a2d17fb28470c503189ad5d2c071b1c08b8d66b1d7c1031548.zip",
+      "id": "archive-7e5b7b9bc0158c434fe0",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "RP2040_Zero_stp.zip",
+      "retrieved_at": "2026-11-17T04:06:15Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "b3f427a30da1c4a2d17fb28470c503189ad5d2c071b1c08b8d66b1d7c1031548",
+      "size": 1462340,
+      "source_url": "https://files.waveshare.com/upload/f/f7/RP2040_Zero_stp.zip"
+    },
+    {
+      "applies_to_skus": [],
+      "archive_member_path": "RP2040_Zero.stp",
+      "blob_path": "data/blobs/sha256/ce/ce8a34fcf9417c91c86141acea7cd3e6a2145f3146e7f9e426cfe5c7e3c14764.stp",
+      "id": "model-557a15b9b53f21847e66",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "RP2040_Zero.stp",
+      "parent_asset_id": "archive-7e5b7b9bc0158c434fe0",
+      "retrieved_at": "2026-11-17T04:06:15Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "ce8a34fcf9417c91c86141acea7cd3e6a2145f3146e7f9e426cfe5c7e3c14764",
+      "size": 9554038,
+      "source_url": "https://files.waveshare.com/upload/f/f7/RP2040_Zero_stp.zip"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.waveshare.com/wiki/RP2040-Zero"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Compact Waveshare development board based on Raspberry Pi RP2040, with USB Type-C, castellated PCB edges, an RGB LED, 264KB SRAM, and 2MB board Flash.\n\nThe official CAD ZIP contains RP2040_Zero.stp. A board revision and pre-soldered-header compatibility are not specified, so this is a mechanical reference without an inferred current storefront SKU or sales offer. RP2040 is the chip designer/family; Waveshare manufactures this board."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Compact Waveshare development board based on Raspberry Pi RP2040, with USB Type-C, castellated PCB edges, an RGB LED, 264KB SRAM, and 2MB board Flash.\n\nThe official CAD ZIP contains RP2040_Zero.stp. A board revision and pre-soldered-header compatibility are not specified, so this is a mechanical reference without an inferred current storefront SKU or sales offer. RP2040 is the chip designer/family; Waveshare manufactures this board.",
+  "first_seen": "2026-11-17T04:06:15Z",
+  "id": "waveshare-rp2040-zero",
+  "last_seen": "2026-11-17T04:06:15Z",
+  "manufacturer": "Waveshare",
+  "measurements": [],
+  "name": "Waveshare RP2040-Zero",
+  "offers": [],
+  "part_numbers": [
+    "RP2040-Zero"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.waveshare.com/wiki/RP2040-Zero"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.waveshare.com/wiki/RP2040-Zero"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Clock frequency": "Up to 133 MHz",
+    "Flash": "2 MB",
+    "Microcontroller": "Raspberry Pi RP2040",
+    "Processor": "Dual-core Arm Cortex-M0+",
+    "SRAM": "264 KB",
+    "Source review": "revision-unconfirmed",
+    "USB connector": "USB Type-C"
+  },
+  "supplier_id": "waveshare",
+  "tags": [
+    "waveshare",
+    "microcontroller",
+    "development-board",
+    "raspberry-pi",
+    "rp2040",
+    "usb-c"
+  ],
+  "variants": []
+}

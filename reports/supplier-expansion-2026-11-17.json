@@ -1,0 +1,484 @@
+{
+  "added_products": 16,
+  "catalog_products": 399,
+  "checked_at": "2026-11-17T04:12:42+00:00",
+  "database_reproducible": true,
+  "new_products": [
+    {
+      "asset_count": 2,
+      "assets": [
+        {
+          "filename": "ESP32-C3-MINI-1.STEP",
+          "kind": "model",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "rights_status": "licensed",
+          "role": "component",
+          "sha256": "3ca5ac24b6943edf816eb1e75c525a42f13118cd5546b70812c1d21149bcdcab"
+        },
+        {
+          "filename": "Espressif-KiCad-LICENSE.md",
+          "kind": "document",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "rights_status": "licensed",
+          "role": "document",
+          "sha256": "6eb43c2548ac6714db47ccbd62354bd194e918f606b071a5e9893680b941d75a"
+        }
+      ],
+      "id": "espressif-esp32-c3-mini-1",
+      "manufacturer": "Espressif Systems",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 2,
+      "assets": [
+        {
+          "filename": "ESP32-C6-WROOM-1.STEP",
+          "kind": "model",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "rights_status": "licensed",
+          "role": "component",
+          "sha256": "9565ee695edb06a09ae9a7017485ac54391e0ba9f0cab58609fd185e6351f4ac"
+        },
+        {
+          "filename": "Espressif-KiCad-LICENSE.md",
+          "kind": "document",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "rights_status": "licensed",
+          "role": "document",
+          "sha256": "6eb43c2548ac6714db47ccbd62354bd194e918f606b071a5e9893680b941d75a"
+        }
+      ],
+      "id": "espressif-esp32-c6-wroom-1",
+      "manufacturer": "Espressif Systems",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 4,
+      "assets": [
+        {
+          "filename": "esp32_devkitc_v4_dimensions.pdf",
+          "kind": "document",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "drawing",
+          "sha256": "93769872f5640475a25e6c367230b407606771e4bbee0aba56903263b17d8d30"
+        },
+        {
+          "filename": "esp32_devkitc_v4_dimensions.dxf",
+          "kind": "model",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "drawing",
+          "sha256": "130450f283a9bc2a47b77d33d2275286c5023aeaf53ca74d83f8a084b5ea60b0"
+        },
+        {
+          "filename": "esp32-devkitc-v4-functional-overview.png",
+          "kind": "image",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "image",
+          "sha256": "e078f94904c5396ac7475c1e2349b368b31db7bb4d2716954bc3f72fdad7ab3c"
+        },
+        {
+          "filename": "esp32-devkitc-v4-functional-overview.catalog.png",
+          "kind": "image",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "image",
+          "sha256": "9236a49fa3cfb57edc864c7a1f0cffac3536e2040eb4781e6a54593d70c635d4"
+        }
+      ],
+      "id": "espressif-esp32-devkitc-v4",
+      "manufacturer": "Espressif Systems",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 4,
+      "assets": [
+        {
+          "filename": "DXF_ESP32-S3-DevKitC-1_V1.1_20220429.pdf",
+          "kind": "document",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "drawing",
+          "sha256": "9d092400db6f677b491926a07455bec7874054ec65ef6ccbddb6aa7ed3892a17"
+        },
+        {
+          "filename": "DXF_ESP32-S3-DevKitC-1_V1.1_20220429.dxf",
+          "kind": "model",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "drawing",
+          "sha256": "02c88dea5acf89ef20c8073acd19f1c5fd1ac908fc57a5c0fd005cd021304983"
+        },
+        {
+          "filename": "esp32-s3-devkitc-1-v1.1-isometric.png",
+          "kind": "image",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "image",
+          "sha256": "0fc0c2a32ea79b02cb3ea5552e677386b97385d84473f3da379a877b602e1d04"
+        },
+        {
+          "filename": "esp32-s3-devkitc-1-v1.1-isometric.catalog.png",
+          "kind": "image",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "image",
+          "sha256": "0c067cfcf4b05cdefe5711c2284f4227924e8365f10a3328219ce042164cab8d"
+        }
+      ],
+      "id": "espressif-esp32-s3-devkitc-1-v1-1",
+      "manufacturer": "Espressif Systems",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 2,
+      "assets": [
+        {
+          "filename": "ESP32-S3-WROOM-1.STEP",
+          "kind": "model",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "rights_status": "licensed",
+          "role": "component",
+          "sha256": "02e192087a1a2268ccbe7bf667ef04884370fc76c994484bf85654dfa7407ef6"
+        },
+        {
+          "filename": "Espressif-KiCad-LICENSE.md",
+          "kind": "document",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "rights_status": "licensed",
+          "role": "document",
+          "sha256": "6eb43c2548ac6714db47ccbd62354bd194e918f606b071a5e9893680b941d75a"
+        }
+      ],
+      "id": "espressif-esp32-s3-wroom-1",
+      "manufacturer": "Espressif Systems",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 2,
+      "assets": [
+        {
+          "filename": "ESP32-WROOM-32E.STEP",
+          "kind": "model",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "rights_status": "licensed",
+          "role": "component",
+          "sha256": "024655adaf1d6b3580d928427ec524091e962861453e711d02949ab4094c3281"
+        },
+        {
+          "filename": "Espressif-KiCad-LICENSE.md",
+          "kind": "document",
+          "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+          "rights_status": "licensed",
+          "role": "document",
+          "sha256": "6eb43c2548ac6714db47ccbd62354bd194e918f606b071a5e9893680b941d75a"
+        }
+      ],
+      "id": "espressif-esp32-wroom-32e",
+      "manufacturer": "Espressif Systems",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 2,
+      "assets": [
+        {
+          "filename": "RP-008342-DS-1-raspberry-pi-4-mechanical-drawing.dxf",
+          "kind": "model",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "drawing",
+          "sha256": "390b8a4048fb7963e3800274dc7a6a3031ad438a923f68fdb27f1f5afca40649"
+        },
+        {
+          "filename": "RP-008343-DS-1-raspberry-pi-4-mechanical-drawing.pdf",
+          "kind": "document",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "drawing",
+          "sha256": "a5c88057563016631ebca26666fd672614fc9aaa1c59128a541612c7798e9809"
+        }
+      ],
+      "id": "raspberry-pi-4-model-b",
+      "manufacturer": "Raspberry Pi",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 3,
+      "assets": [
+        {
+          "filename": "RP-010083-CA-1-rpi-5 3D STEP - No Graphics small file.zip",
+          "kind": "archive",
+          "license_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip",
+          "rights_status": "permissive",
+          "role": "component",
+          "sha256": "6841637b4cfa97637bf34b529bfe896f24d9634b2c40b57a156781f55d88f06f"
+        },
+        {
+          "filename": "rpi-5b_no_graphics.step",
+          "kind": "model",
+          "license_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip",
+          "rights_status": "permissive",
+          "role": "component",
+          "sha256": "78164070c1cc7ab854382950d2e85926c6e35432f1e5a146b733397a7c6afb44"
+        },
+        {
+          "filename": "LICENSE.txt",
+          "kind": "document",
+          "license_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip",
+          "rights_status": "permissive",
+          "role": "document",
+          "sha256": "4ca2d350552b24137e55587e13fb09a249b757c6af49652ff02ea524d154c7fc"
+        }
+      ],
+      "id": "raspberry-pi-5",
+      "manufacturer": "Raspberry Pi",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 1,
+      "assets": [
+        {
+          "filename": "RP-008304-DS-3-pico-2-w-datasheet.pdf",
+          "kind": "document",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "document",
+          "sha256": "8f519b945e9f7078ffd3fee464992fca376d8037ebcd1f83bd2a021241717eb2"
+        }
+      ],
+      "id": "raspberry-pi-pico-2-w",
+      "manufacturer": "Raspberry Pi",
+      "source_review": "documentation-only"
+    },
+    {
+      "asset_count": 3,
+      "assets": [
+        {
+          "filename": "RP-009061-CA-2-Pico 2 - 3D STEP.zip",
+          "kind": "archive",
+          "license_url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip",
+          "rights_status": "permissive",
+          "role": "component",
+          "sha256": "74974c52ee695a1d2c638d8288c798b42236c60d7de7af5345b9a5017f993f82"
+        },
+        {
+          "filename": "LICENSE.txt",
+          "kind": "document",
+          "license_url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip",
+          "rights_status": "permissive",
+          "role": "document",
+          "sha256": "719e1649001e3564fdcbb609c5fdfcce695153dcb6c135c9f737cc30a548bd20"
+        },
+        {
+          "filename": "rpi_pico2.step",
+          "kind": "model",
+          "license_url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip",
+          "rights_status": "permissive",
+          "role": "component",
+          "sha256": "d49ada10d893cfcb07cb4abced0a0a0cadca4c4150f153d874268ca06171a24f"
+        }
+      ],
+      "id": "raspberry-pi-pico-2",
+      "manufacturer": "Raspberry Pi",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 2,
+      "assets": [
+        {
+          "filename": "RP-008318-DS-1-PicoW-step.zip",
+          "kind": "archive",
+          "license_url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html",
+          "rights_status": "permissive",
+          "role": "component",
+          "sha256": "fc282d072183f645718b3c1b0f456117b23b681c6b17073a8aa7131b53dba367"
+        },
+        {
+          "filename": "PicoW.stp",
+          "kind": "model",
+          "license_url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html",
+          "rights_status": "permissive",
+          "role": "component",
+          "sha256": "fa3af83ac3163504264fac1d60aaf2d5bb25ea3df44e302771e905576a718f21"
+        }
+      ],
+      "id": "raspberry-pi-pico-w",
+      "manufacturer": "Raspberry Pi",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 2,
+      "assets": [
+        {
+          "filename": "RP-008311-DS-1-Pico-R3-step.zip",
+          "kind": "archive",
+          "license_url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html",
+          "rights_status": "permissive",
+          "role": "component",
+          "sha256": "4008e557bd80d75119872d10460d9f30f2e0faf210606d058bbe78cd6598c931"
+        },
+        {
+          "filename": "Pico-R3.step",
+          "kind": "model",
+          "license_url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html",
+          "rights_status": "permissive",
+          "role": "component",
+          "sha256": "ea5c693afee3de73e9fcaab1892a5ed44bf789438b9b1e5906e9c4f9859cab8b"
+        }
+      ],
+      "id": "raspberry-pi-pico",
+      "manufacturer": "Raspberry Pi",
+      "source_review": "reviewed-reference"
+    },
+    {
+      "asset_count": 3,
+      "assets": [
+        {
+          "filename": "ESP32-S3-Zero_v2-138eb3753cf14afa3252058c380ca416.stp",
+          "kind": "model",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "component",
+          "sha256": "1eb1a41173dad5238624b8c2e7ab529890d60431e895dc3d2bb4191fa31fd9b4"
+        },
+        {
+          "filename": "esp32-s3-zero-1_2.jpg",
+          "kind": "image",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "image",
+          "sha256": "2075be14e8e896901771ec2d83b8e8bf796e73bd2d0b59ac57fee653a960e53e"
+        },
+        {
+          "filename": "esp32-s3-zero-1_2.catalog.png",
+          "kind": "image",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "image",
+          "sha256": "dfec9357e39cbe3c4797cd33a1ed3b7b7a63a0ecccd2c1bdab30c6a59119ac92"
+        }
+      ],
+      "id": "waveshare-25081",
+      "manufacturer": "Waveshare",
+      "source_review": "revision-unconfirmed"
+    },
+    {
+      "asset_count": 4,
+      "assets": [
+        {
+          "filename": "ESP32-S3-Touch-LCD-4in3_3D_Drawing.zip",
+          "kind": "archive",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "component",
+          "sha256": "8721fac43de47b35771c438829a3251a4c0723227d83696b5517efe7d854de15"
+        },
+        {
+          "filename": "esp32-s3-touch-lcd-4_3.stp",
+          "kind": "model",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "component",
+          "sha256": "d535d0e3b561c8f3d45a39f51eb2f1210d5e1d4875d104c339eb33e190a161c2"
+        },
+        {
+          "filename": "esp32-s3-touch-lcd-4.3-1.jpg",
+          "kind": "image",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "image",
+          "sha256": "f89d350b1311137aa5c3d52320b2e15cef5c8a14dbf1b7be07a58185d894fb2c"
+        },
+        {
+          "filename": "esp32-s3-touch-lcd-4.3-1.catalog.png",
+          "kind": "image",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "image",
+          "sha256": "43cc0fc08e98960921d8b92a3849612f13efd005a72058ca0b22c680559a6ba4"
+        }
+      ],
+      "id": "waveshare-25948",
+      "manufacturer": "Waveshare",
+      "source_review": "revision-unconfirmed"
+    },
+    {
+      "asset_count": 2,
+      "assets": [
+        {
+          "filename": "RP2040_Zero_stp.zip",
+          "kind": "archive",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "component",
+          "sha256": "b3f427a30da1c4a2d17fb28470c503189ad5d2c071b1c08b8d66b1d7c1031548"
+        },
+        {
+          "filename": "RP2040_Zero.stp",
+          "kind": "model",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "component",
+          "sha256": "ce8a34fcf9417c91c86141acea7cd3e6a2145f3146e7f9e426cfe5c7e3c14764"
+        }
+      ],
+      "id": "waveshare-rp2040-zero",
+      "manufacturer": "Waveshare",
+      "source_review": "revision-unconfirmed"
+    },
+    {
+      "asset_count": 2,
+      "assets": [
+        {
+          "filename": "RP2350_Zero_step.zip",
+          "kind": "archive",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "component",
+          "sha256": "392250d4a9dcb1f9e3c10a684d958419a7be0557424295a7f7f8ed31fb7f74dc"
+        },
+        {
+          "filename": "RP2350-Zero.step",
+          "kind": "model",
+          "license_url": null,
+          "rights_status": "unknown",
+          "role": "component",
+          "sha256": "35e056647c8cc47ff86458baefa52e94cba55adef9d489f9e061be726c42434a"
+        }
+      ],
+      "id": "waveshare-rp2350-zero",
+      "manufacturer": "Waveshare",
+      "source_review": "revision-unconfirmed"
+    }
+  ],
+  "new_step_models": 12,
+  "original_records": 383,
+  "original_records_changed": [],
+  "recorded_page_replay_has_changes": false,
+  "snapshot_id": "f37e86067469d39c58f0615a3781b86fb59959be3723b4282f5099647c5a4887",
+  "source_state": "working-tree-expanded-sources-20261117",
+  "suppliers": {
+    "bambu-lab": 377,
+    "bigtreetech": 3,
+    "biqu": 1,
+    "espressif": 6,
+    "raspberry-pi": 6,
+    "waveshare": 6
+  },
+  "validation_issues": 0,
+  "verification": {
+    "archive_tests_passed": 254,
+    "archive_tests_skipped": 1,
+    "browser_tests_passed": 20,
+    "desktop_executable": "dist/standalone/makersfridge-expanded-sources/makersfridge-linux-x86_64/makersfridge",
+    "frontend_build_and_types": "passed",
+    "lfs_bytes": 5226319636,
+    "lfs_limit_bytes": 5368709120,
+    "packaged_desktop_tests_passed": 1,
+    "ruff": "passed for source/tests/scripts",
+    "strict_mypy": "passed for core and web",
+    "web_tests_passed": 61
+  }
+}

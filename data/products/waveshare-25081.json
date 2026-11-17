@@ -1,0 +1,169 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.waveshare.com/esp32-s3-zero.htm",
+      "region": "global",
+      "store_id": "waveshare-global",
+      "supplier_id": "waveshare"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [
+        "25081"
+      ],
+      "blob_path": "data/blobs/sha256/1e/1eb1a41173dad5238624b8c2e7ab529890d60431e895dc3d2bb4191fa31fd9b4.stp",
+      "id": "model-f0190064c47d8b717dc4",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "ESP32-S3-Zero_v2-138eb3753cf14afa3252058c380ca416.stp",
+      "retrieved_at": "2026-11-17T04:06:15Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "1eb1a41173dad5238624b8c2e7ab529890d60431e895dc3d2bb4191fa31fd9b4",
+      "size": 3191521,
+      "source_url": "https://files.waveshare.com/wiki/ESP32-S3-Zero/ESP32-S3-Zero_v2-138eb3753cf14afa3252058c380ca416.stp"
+    },
+    {
+      "applies_to_skus": [
+        "25081"
+      ],
+      "blob_path": "data/blobs/sha256/20/2075be14e8e896901771ec2d83b8e8bf796e73bd2d0b59ac57fee653a960e53e.jpg",
+      "id": "image-3cff1700e8090f7f89cb",
+      "kind": "image",
+      "media_type": "image/jpeg",
+      "original_filename": "esp32-s3-zero-1_2.jpg",
+      "retrieved_at": "2026-11-17T04:06:15Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "2075be14e8e896901771ec2d83b8e8bf796e73bd2d0b59ac57fee653a960e53e",
+      "size": 38291,
+      "source_url": "https://www.waveshare.com/media/catalog/product/cache/1/image/560x560/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-zero-1_2.jpg"
+    },
+    {
+      "applies_to_skus": [
+        "25081"
+      ],
+      "blob_path": "data/blobs/sha256/df/dfec9357e39cbe3c4797cd33a1ed3b7b7a63a0ecccd2c1bdab30c6a59119ac92.png",
+      "id": "image-display-306db99d64b2cb5ac5a2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 560,
+        "source_sha256": "2075be14e8e896901771ec2d83b8e8bf796e73bd2d0b59ac57fee653a960e53e",
+        "source_width": 560
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "esp32-s3-zero-1_2.catalog.png",
+      "parent_asset_id": "image-3cff1700e8090f7f89cb",
+      "retrieved_at": "2026-11-17T04:06:15Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "dfec9357e39cbe3c4797cd33a1ed3b7b7a63a0ecccd2c1bdab30c6a59119ac92",
+      "size": 272015,
+      "source_url": "https://www.waveshare.com/media/catalog/product/cache/1/image/560x560/9df78eab33525d08d6e5fb8d27136e95/e/s/esp32-s3-zero-1_2.jpg"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.waveshare.com/esp32-s3-zero.htm"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Compact Waveshare development board with an ESP32-S3FH4R2 processor, wireless connectivity, USB Type-C, castellated edges, and an onboard RGB LED. This entry selects the 4MB Flash / 2MB PSRAM option without pre-soldered headers.\n\nSKU 25081 is the 4MB Flash / 2MB PSRAM board without headers. Exclude the pre-soldered-header SKU 25517 and the N8R8 variants 33879/33549. The official CAD filename includes v2, but the documentation does not establish its exact physical board revision; confirm fit and antenna clearance before mechanical design. The configurable shop page does not establish a reliable exact per-SKU price."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Compact Waveshare development board with an ESP32-S3FH4R2 processor, wireless connectivity, USB Type-C, castellated edges, and an onboard RGB LED. This entry selects the 4MB Flash / 2MB PSRAM option without pre-soldered headers.\n\nSKU 25081 is the 4MB Flash / 2MB PSRAM board without headers. Exclude the pre-soldered-header SKU 25517 and the N8R8 variants 33879/33549. The official CAD filename includes v2, but the documentation does not establish its exact physical board revision; confirm fit and antenna clearance before mechanical design. The configurable shop page does not establish a reliable exact per-SKU price.",
+  "first_seen": "2026-11-17T04:06:15Z",
+  "id": "waveshare-25081",
+  "last_seen": "2026-11-17T04:06:15Z",
+  "manufacturer": "Waveshare",
+  "measurements": [],
+  "name": "Waveshare ESP32-S3-Zero (4MB Flash / 2MB PSRAM, without header)",
+  "offers": [
+    {
+      "currency": "USD",
+      "listed": true,
+      "missing_runs": 0,
+      "region": "global",
+      "retrieved_at": "2026-11-17T04:06:15Z",
+      "store_id": "waveshare-global",
+      "url": "https://www.waveshare.com/esp32-s3-zero.htm"
+    }
+  ],
+  "part_numbers": [
+    "ESP32-S3-Zero"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.waveshare.com/esp32-s3-zero.htm"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://docs.waveshare.com/ESP32-S3-Zero"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://docs.waveshare.com/ESP32-S3-Zero/Resources-And-Documents"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [
+    "25081"
+  ],
+  "source_tables": [],
+  "specifications": {
+    "Clock frequency": "Up to 240 MHz",
+    "Flash": "4 MB",
+    "Header option": "Without header",
+    "Microcontroller": "ESP32-S3FH4R2",
+    "PSRAM": "2 MB",
+    "Source review": "revision-unconfirmed",
+    "USB connector": "USB Type-C",
+    "Wireless": "2.4 GHz Wi-Fi and Bluetooth LE 5"
+  },
+  "supplier_id": "waveshare",
+  "tags": [
+    "waveshare",
+    "microcontroller",
+    "development-board",
+    "esp32",
+    "esp32-s3",
+    "usb-c"
+  ],
+  "variants": [
+    {
+      "currency": "USD",
+      "region": "global",
+      "sku": "25081",
+      "store_id": "waveshare-global",
+      "title": "Waveshare ESP32-S3-Zero (4MB Flash / 2MB PSRAM, without header) · 4MB Flash & 2MB PSRAM · Without header",
+      "url": "https://www.waveshare.com/esp32-s3-zero.htm",
+      "variant_id": "25081"
+    }
+  ]
+}

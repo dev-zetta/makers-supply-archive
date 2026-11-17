@@ -2,13 +2,14 @@
 
 ## Added products
 
-None.
+- waveshare-25081
+- waveshare-25948
+- waveshare-rp2040-zero
+- waveshare-rp2350-zero
 
 ## Changed products
 
-- biqu-hermit-crab
-- btt-ebb36-can-v1-0
-- waveshare-29957
+None.
 
 ## Removed products
 

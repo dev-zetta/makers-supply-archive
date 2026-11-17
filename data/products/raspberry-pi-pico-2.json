@@ -1,0 +1,135 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://pip.raspberrypi.com/categories/1005-raspberry-pi-pico-2",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "raspberry-pi"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/74/74974c52ee695a1d2c638d8288c798b42236c60d7de7af5345b9a5017f993f82.zip",
+      "id": "archive-fb011a56cbaaf66c7099",
+      "kind": "archive",
+      "license_url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip",
+      "media_type": "application/zip",
+      "original_filename": "RP-009061-CA-2-Pico 2 - 3D STEP.zip",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "permissive",
+      "role": "component",
+      "sha256": "74974c52ee695a1d2c638d8288c798b42236c60d7de7af5345b9a5017f993f82",
+      "size": 2215615,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip"
+    },
+    {
+      "applies_to_skus": [],
+      "archive_member_path": "LICENSE.txt",
+      "blob_path": "data/blobs/sha256/71/719e1649001e3564fdcbb609c5fdfcce695153dcb6c135c9f737cc30a548bd20.txt",
+      "id": "document-ec768095fbc797d0d2e8",
+      "kind": "document",
+      "license_url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip",
+      "media_type": "text/plain",
+      "original_filename": "LICENSE.txt",
+      "parent_asset_id": "archive-fb011a56cbaaf66c7099",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "permissive",
+      "role": "document",
+      "sha256": "719e1649001e3564fdcbb609c5fdfcce695153dcb6c135c9f737cc30a548bd20",
+      "size": 1881,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip"
+    },
+    {
+      "applies_to_skus": [],
+      "archive_member_path": "rpi_pico2.step",
+      "blob_path": "data/blobs/sha256/d4/d49ada10d893cfcb07cb4abced0a0a0cadca4c4150f153d874268ca06171a24f.step",
+      "id": "model-447a3a8fefea52262240",
+      "kind": "model",
+      "license_url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip",
+      "media_type": "application/p21",
+      "original_filename": "rpi_pico2.step",
+      "parent_asset_id": "archive-fb011a56cbaaf66c7099",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "permissive",
+      "role": "component",
+      "sha256": "d49ada10d893cfcb07cb4abced0a0a0cadca4c4150f153d874268ca06171a24f",
+      "size": 12391657,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://pip.raspberrypi.com/categories/1005-raspberry-pi-pico-2"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "RP2350 microcontroller board with selectable Arm or RISC-V processor architecture.\n\nOfficial non-wireless Pico 2 STEP reference. It must not be substituted for Pico 2 W; presoldered headers and the physical board revision are not established by the generic model filename. The included MIT notice says geometry is guidance only and may not reflect current product revisions."
+    }
+  ],
+  "description_html": "",
+  "description_text": "RP2350 microcontroller board with selectable Arm or RISC-V processor architecture.\n\nOfficial non-wireless Pico 2 STEP reference. It must not be substituted for Pico 2 W; presoldered headers and the physical board revision are not established by the generic model filename. The included MIT notice says geometry is guidance only and may not reflect current product revisions.",
+  "first_seen": "2026-11-17T04:03:55Z",
+  "id": "raspberry-pi-pico-2",
+  "last_seen": "2026-11-17T04:03:55Z",
+  "manufacturer": "Raspberry Pi",
+  "measurements": [],
+  "name": "Raspberry Pi Pico 2",
+  "offers": [],
+  "part_numbers": [
+    "Pico 2"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://pip.raspberrypi.com/categories/1005-raspberry-pi-pico-2"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://pip.raspberrypi.com/categories/1005-raspberry-pi-pico-2"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Board class": "Microcontroller board",
+    "CAD license": "MIT (included LICENSE.txt)",
+    "CAD representation": "3D STEP, non-wireless Pico 2",
+    "Maximum clock": "150 MHz",
+    "Memory": "520 kB SRAM; 4 MB flash",
+    "Microcontroller": "RP2350",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "raspberry-pi",
+  "tags": [
+    "raspberry-pi",
+    "microcontroller",
+    "pico",
+    "rp2350"
+  ],
+  "variants": []
+}

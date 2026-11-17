@@ -1,0 +1,120 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://pip.raspberrypi.com/categories/686-raspberry-pi-pico-w",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "raspberry-pi"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/fc/fc282d072183f645718b3c1b0f456117b23b681c6b17073a8aa7131b53dba367.zip",
+      "id": "archive-3f5eddc4b1572a6bea69",
+      "kind": "archive",
+      "license_url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html",
+      "media_type": "application/zip",
+      "original_filename": "RP-008318-DS-1-PicoW-step.zip",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "permissive",
+      "role": "component",
+      "sha256": "fc282d072183f645718b3c1b0f456117b23b681c6b17073a8aa7131b53dba367",
+      "size": 838467,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/686-raspberry-pi-pico-w/documents/RP-008318-DS-1-PicoW-step.zip"
+    },
+    {
+      "applies_to_skus": [],
+      "archive_member_path": "PicoW.stp",
+      "blob_path": "data/blobs/sha256/fa/fa3af83ac3163504264fac1d60aaf2d5bb25ea3df44e302771e905576a718f21.stp",
+      "id": "model-18e2159789eec66db752",
+      "kind": "model",
+      "license_url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html",
+      "media_type": "application/p21",
+      "original_filename": "PicoW.stp",
+      "parent_asset_id": "archive-3f5eddc4b1572a6bea69",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "permissive",
+      "role": "component",
+      "sha256": "fa3af83ac3163504264fac1d60aaf2d5bb25ea3df44e302771e905576a718f21",
+      "size": 5153513,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/686-raspberry-pi-pico-w/documents/RP-008318-DS-1-PicoW-step.zip"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://pip.raspberrypi.com/categories/686-raspberry-pi-pico-w"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Wireless RP2040 microcontroller board with USB and on-board flash.\n\nThe official PicoW STEP archive is a Pico W reference, not a Pico 2 W or presoldered-header model. The model file does not establish the physical hardware revision. Source documentation explicitly permits use, copying, modification, and distribution of Pico W design files."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Wireless RP2040 microcontroller board with USB and on-board flash.\n\nThe official PicoW STEP archive is a Pico W reference, not a Pico 2 W or presoldered-header model. The model file does not establish the physical hardware revision. Source documentation explicitly permits use, copying, modification, and distribution of Pico W design files.",
+  "first_seen": "2026-11-17T04:03:55Z",
+  "id": "raspberry-pi-pico-w",
+  "last_seen": "2026-11-17T04:03:55Z",
+  "manufacturer": "Raspberry Pi",
+  "measurements": [],
+  "name": "Raspberry Pi Pico W",
+  "offers": [],
+  "part_numbers": [
+    "Pico W"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://pip.raspberrypi.com/categories/686-raspberry-pi-pico-w"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://pip.raspberrypi.com/categories/686-raspberry-pi-pico-w"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Board class": "Wireless microcontroller board",
+    "CAD license": "Raspberry Pi design-file permission (official documentation)",
+    "CAD representation": "3D STEP, PicoW",
+    "Memory": "264 kB SRAM; 2 MB flash",
+    "Microcontroller": "RP2040",
+    "Source review": "reviewed-reference",
+    "Wireless": "2.4 GHz Wi-Fi; Bluetooth 5.2"
+  },
+  "supplier_id": "raspberry-pi",
+  "tags": [
+    "raspberry-pi",
+    "microcontroller",
+    "pico",
+    "rp2040",
+    "wifi",
+    "bluetooth"
+  ],
+  "variants": []
+}

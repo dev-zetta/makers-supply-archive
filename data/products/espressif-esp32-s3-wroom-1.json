@@ -1,0 +1,128 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.espressif.com/en/products/modules/esp32-s3",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "espressif"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/02/02e192087a1a2268ccbe7bf667ef04884370fc76c994484bf85654dfa7407ef6.step",
+      "id": "model-735ffd48185fa6e5906f",
+      "kind": "model",
+      "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+      "media_type": "application/p21",
+      "original_filename": "ESP32-S3-WROOM-1.STEP",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "licensed",
+      "role": "component",
+      "sha256": "02e192087a1a2268ccbe7bf667ef04884370fc76c994484bf85654dfa7407ef6",
+      "size": 6225940,
+      "source_commit": "d5b68fd9269c639b3a60681e00b91df33b4db4a3",
+      "source_path": "3dmodels/espressif.3dshapes/ESP32-S3-WROOM-1.STEP",
+      "source_repository": "https://github.com/espressif/kicad-libraries",
+      "source_url": "https://raw.githubusercontent.com/espressif/kicad-libraries/d5b68fd9269c639b3a60681e00b91df33b4db4a3/3dmodels/espressif.3dshapes/ESP32-S3-WROOM-1.STEP"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/6e/6eb43c2548ac6714db47ccbd62354bd194e918f606b071a5e9893680b941d75a.md",
+      "id": "document-732b5d9f62bdf4cfa47b",
+      "kind": "document",
+      "license_url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md",
+      "media_type": "text/markdown",
+      "original_filename": "Espressif-KiCad-LICENSE.md",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "licensed",
+      "role": "document",
+      "sha256": "6eb43c2548ac6714db47ccbd62354bd194e918f606b071a5e9893680b941d75a",
+      "size": 982,
+      "source_commit": "d5b68fd9269c639b3a60681e00b91df33b4db4a3",
+      "source_path": "LICENSE.md",
+      "source_repository": "https://github.com/espressif/kicad-libraries",
+      "source_url": "https://raw.githubusercontent.com/espressif/kicad-libraries/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.espressif.com/en/products/modules/esp32-s3"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "ESP32-S3-WROOM-1 is an Espressif ESP32-S3 surface-mount radio module with an onboard PCB antenna. The official KiCad library supplies a STEP assembly for this module.\n\nThis reference describes the ESP32-S3-WROOM-1 module, not a complete development board. External-antenna variants with different part numbers are excluded. Memory capacity and hardware revision are not inferred from the shared mechanical model. The STEP library is CC BY-SA 4.0 with the published KiCad electronic-design exception; retain the pinned license and attribution when redistributing."
+    }
+  ],
+  "description_html": "",
+  "description_text": "ESP32-S3-WROOM-1 is an Espressif ESP32-S3 surface-mount radio module with an onboard PCB antenna. The official KiCad library supplies a STEP assembly for this module.\n\nThis reference describes the ESP32-S3-WROOM-1 module, not a complete development board. External-antenna variants with different part numbers are excluded. Memory capacity and hardware revision are not inferred from the shared mechanical model. The STEP library is CC BY-SA 4.0 with the published KiCad electronic-design exception; retain the pinned license and attribution when redistributing.",
+  "first_seen": "2026-11-17T04:03:55Z",
+  "id": "espressif-esp32-s3-wroom-1",
+  "last_seen": "2026-11-17T04:03:55Z",
+  "manufacturer": "Espressif Systems",
+  "measurements": [],
+  "name": "Espressif ESP32-S3-WROOM-1",
+  "offers": [],
+  "part_numbers": [
+    "ESP32-S3-WROOM-1"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.espressif.com/en/products/modules/esp32-s3"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/README.md"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/espressif/kicad-libraries/blob/d5b68fd9269c639b3a60681e00b91df33b4db4a3/LICENSE.md"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Antenna": "Onboard PCB antenna",
+    "CAD coverage": "Module assembly (STEP)",
+    "CAD license": "CC-BY-SA-4.0 with KiCad exception",
+    "Chip family": "ESP32-S3",
+    "Form factor": "Surface-mount module",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "espressif",
+  "tags": [
+    "espressif",
+    "esp32",
+    "esp32-s3",
+    "module",
+    "pcb-antenna",
+    "reference-only"
+  ],
+  "variants": []
+}

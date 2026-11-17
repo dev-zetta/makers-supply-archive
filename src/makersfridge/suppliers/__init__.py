@@ -5,4 +5,6 @@ SUPPLIERS = {
     "bigtreetech": "BIGTREETECH",
     "biqu": "BIQU",
     "waveshare": "Waveshare",
+    "raspberry-pi": "Raspberry Pi",
+    "espressif": "Espressif Systems",
 }

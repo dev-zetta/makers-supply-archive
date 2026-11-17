@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-11-17",
+  "notes": "Reviewed official-source pilot mappings. Public CAD availability does not establish a redistribution license. Reference-only records deliberately have no current storefront offer.",
+  "products": [
+    {
+      "id": "btt-skr-mini-e3-v3-0",
+      "supplier_id": "bigtreetech",
+      "manufacturer": "BIGTREETECH",
+      "name": "BIGTREETECH SKR Mini E3 V3.0",
+      "hardware_revision": "V3.0",
+      "categories": [
+        "electronics"
+      ],
+      "part_numbers": [
+        "SKR MINI E3 V3.0"
+      ],
+      "skus": [
+        "1060000511",
+        "1060000511*1+3040020432*1"
+      ],
+      "selected_skus": [
+        "1060000511",
+        "1060000511*1+3040020432*1"
+      ],
+      "product_url": "https://biqu.equipment/products/btt-skr-mini-e3-v2-control-board",
+      "documentation_urls": [
+        "https://global.bttwiki.com/SKR%20MINI%20E3.html",
+        "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3"
+      ],
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/bigtreetech/BIGTREETECH-SKR-mini-E3/d7fd822006628143222d1c3c8cdea85ffee29e66/hardware/BTT%20SKR%20MINI%20E3%20V3.0/3D/BTT%20E3%20SKR%20MINI%20V3.0.step",
+          "filename": "BTT E3 SKR MINI V3.0.step",
+          "role": "component",
+          "applies_to_skus": [
+            "1060000511",
+            "1060000511*1+3040020432*1"
+          ],
+          "hardware_revision": "V3.0",
+          "source_repository": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+          "source_commit": "d7fd822006628143222d1c3c8cdea85ffee29e66",
+          "source_path": "hardware/BTT SKR MINI E3 V3.0/3D/BTT E3 SKR MINI V3.0.step"
+        }
+      ],
+      "review_status": "reviewed",
+      "reviewed_at": "2026-11-17",
+      "source_kind": "shopify",
+      "store_id": "biqu-global",
+      "shopify_handle": "btt-skr-mini-e3-v2-control-board",
+      "default_currency": "USD",
+      "compatibility_notes": "The storefront handle says v2 but its selected board variants identify V3.0. Exclude the separate DCDC5V module SKU 2020000064. The cable bundle contains the same V3.0 board."
+    },
+    {
+      "id": "btt-ebb36-can-v1-0",
+      "supplier_id": "bigtreetech",
+      "manufacturer": "BIGTREETECH",
+      "name": "BIGTREETECH EBB36 CAN V1.0",
+      "hardware_revision": "V1.0",
+      "categories": [
+        "electronics"
+      ],
+      "part_numbers": [
+        "EBB36 CAN V1.0"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "product_url": "https://github.com/bigtreetech/EBB/tree/2b839d629b174dc1da4f470cd703e5b5fcb43cbe/EBB%20CAN%20V1.0%20%28STM32F072%29/EBB36%20CAN%20V1.0",
+      "documentation_urls": [
+        "https://github.com/bigtreetech/EBB/blob/2b839d629b174dc1da4f470cd703e5b5fcb43cbe/README.md"
+      ],
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/bigtreetech/EBB/2b839d629b174dc1da4f470cd703e5b5fcb43cbe/EBB%20CAN%20V1.0%20%28STM32F072%29/EBB36%20CAN%20V1.0/3D/EBB36%20CAN%20V1.0.step",
+          "filename": "EBB36 CAN V1.0.step",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": "V1.0",
+          "source_repository": "https://github.com/bigtreetech/EBB",
+          "source_commit": "2b839d629b174dc1da4f470cd703e5b5fcb43cbe",
+          "source_path": "EBB CAN V1.0 (STM32F072)/EBB36 CAN V1.0/3D/EBB36 CAN V1.0.step"
+        }
+      ],
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-17",
+      "source_kind": "reference",
+      "store_id": "",
+      "compatibility_notes": "Original STM32F072 EBB36 CAN V1.0 reference. The current shop sells V1.2 and GEN2 boards, so no current SKU or purchasable offer is assigned to this older model."
+    },
+    {
+      "id": "btt-cb2",
+      "supplier_id": "bigtreetech",
+      "manufacturer": "BIGTREETECH",
+      "name": "BIGTREETECH CB2",
+      "hardware_revision": null,
+      "categories": [
+        "electronics"
+      ],
+      "part_numbers": [
+        "CB2"
+      ],
+      "skus": [
+        "1020000449"
+      ],
+      "selected_skus": [
+        "1020000449"
+      ],
+      "product_url": "https://biqu.equipment/products/bigtreetech-pi-2-cb2",
+      "documentation_urls": [
+        "https://global.bttwiki.com/CB2.html",
+        "https://github.com/bigtreetech/CB2"
+      ],
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/bigtreetech/CB2/a5fc72264062e27b603a024f08ade60eeba3f0ec/3D/BIGTREETECH_CB2%20V1_BoardAndModels.step",
+          "filename": "BIGTREETECH_CB2 V1_BoardAndModels.step",
+          "role": "component",
+          "applies_to_skus": [
+            "1020000449"
+          ],
+          "hardware_revision": "V1",
+          "source_repository": "https://github.com/bigtreetech/CB2",
+          "source_commit": "a5fc72264062e27b603a024f08ade60eeba3f0ec",
+          "source_path": "3D/BIGTREETECH_CB2 V1_BoardAndModels.step"
+        }
+      ],
+      "review_status": "reviewed",
+      "reviewed_at": "2026-11-17",
+      "source_kind": "shopify",
+      "store_id": "biqu-global",
+      "shopify_handle": "bigtreetech-pi-2-cb2",
+      "default_currency": "USD",
+      "compatibility_notes": "Select only the CB2 board SKU 1020000449. Pi 2, CB2 Lite, heatsinks and memory cards are separate hardware. The STEP filename identifies V1; confirm the physical board revision before using it for a fit-critical design."
+    },
+    {
+      "id": "biqu-hermit-crab",
+      "supplier_id": "biqu",
+      "manufacturer": "BIQU",
+      "name": "BIQU Hermit Crab (original reference)",
+      "hardware_revision": null,
+      "categories": [
+        "mechanical"
+      ],
+      "part_numbers": [
+        "Hermit Crab"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "product_url": "https://biqu3d.com/pages/download",
+      "documentation_urls": [
+        "https://biqu3d.com/pages/download"
+      ],
+      "assets": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0550/2209/2502/files/Model_of_Hermit_Crab.stp?v=1636021539",
+          "filename": "Model_of_Hermit_Crab.stp",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0550/2209/2502/files/BIQU_HERMIT_CRAB_TOOL_PLATE.stp?v=1635147374",
+          "filename": "BIQU_HERMIT_CRAB_TOOL_PLATE.stp",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null
+        }
+      ],
+      "review_status": "revision-unconfirmed",
+      "reviewed_at": "2026-11-17",
+      "source_kind": "reference",
+      "store_id": "",
+      "compatibility_notes": "Official legacy download-hub models from 2021. The hub does not establish compatibility with the currently sold Hermit Crab V2.0, so no V2.0 SKU or offer is attached."
+    },
+    {
+      "id": "waveshare-27478",
+      "supplier_id": "waveshare",
+      "manufacturer": "Waveshare",
+      "name": "Waveshare 3.4inch 800x800 LCD",
+      "hardware_revision": null,
+      "categories": [
+        "electronics"
+      ],
+      "part_numbers": [
+        "3.4inch 800x800 LCD"
+      ],
+      "skus": [
+        "27478"
+      ],
+      "selected_skus": [
+        "27478"
+      ],
+      "product_url": "https://www.waveshare.com/3.4inch-800x800-lcd.htm",
+      "documentation_urls": [
+        "https://www.waveshare.com/wiki/3.4inch_800x800_LCD"
+      ],
+      "assets": [
+        {
+          "url": "https://files.waveshare.com/upload/b/b5/3.4inch_800x800_LCD_3D.zip",
+          "filename": "3.4inch_800x800_LCD_3D.zip",
+          "role": "component",
+          "applies_to_skus": [
+            "27478"
+          ],
+          "hardware_revision": null
+        }
+      ],
+      "review_status": "reviewed",
+      "reviewed_at": "2026-11-17",
+      "source_kind": "waveshare",
+      "store_id": "waveshare-global",
+      "default_currency": "USD",
+      "compatibility_notes": "The shop identifies SKU 27478 and part number 3.4inch 800x800 LCD. The official CAD ZIP contains 3_4inch-800x800-lcd.stp. No hardware revision is specified."
+    },
+    {
+      "id": "waveshare-29957",
+      "supplier_id": "waveshare",
+      "manufacturer": "Waveshare",
+      "name": "Waveshare ESP32-S3-Touch-AMOLED-1.8",
+      "hardware_revision": null,
+      "categories": [
+        "electronics"
+      ],
+      "part_numbers": [
+        "ESP32-S3-Touch-AMOLED-1.8"
+      ],
+      "skus": [
+        "29957"
+      ],
+      "selected_skus": [
+        "29957"
+      ],
+      "product_url": "https://www.waveshare.com/ESP32-S3-Touch-AMOLED-1.8.htm",
+      "documentation_urls": [
+        "https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.8",
+        "https://docs.waveshare.com/ESP32-S3-Touch-AMOLED-1.8/Resources-And-Documents"
+      ],
+      "assets": [
+        {
+          "url": "https://files.waveshare.com/wiki/ESP32-S3-Touch-AMOLED-1.8/ESP32-S3-Touch-AMOLED-1.8-3D.zip",
+          "filename": "ESP32-S3-Touch-AMOLED-1.8-3D.zip",
+          "role": "component",
+          "applies_to_skus": [
+            "29957"
+          ],
+          "hardware_revision": null
+        }
+      ],
+      "review_status": "revision-unconfirmed",
+      "reviewed_at": "2026-11-17",
+      "source_kind": "waveshare",
+      "store_id": "waveshare-global",
+      "default_currency": "USD",
+      "compatibility_notes": "SKU 29957 includes the 3.7V MX1.25 lithium battery; SKU 29958 excludes it. Documentation distinguishes V1/V2 hardware but does not identify the linked STEP model revision, so model compatibility remains unconfirmed. The configurable shop page exposes a family price range, not a reliable exact per-SKU price."
+    }
+  ]
+}

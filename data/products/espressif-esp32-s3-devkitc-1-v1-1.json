@@ -1,0 +1,152 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/user_guide_v1.1.html",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "espressif"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/9d/9d092400db6f677b491926a07455bec7874054ec65ef6ccbddb6aa7ed3892a17.pdf",
+      "hardware_revision": "v1.1",
+      "id": "document-966fd88f8ef3b601bcf3",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "DXF_ESP32-S3-DevKitC-1_V1.1_20220429.pdf",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "9d092400db6f677b491926a07455bec7874054ec65ef6ccbddb6aa7ed3892a17",
+      "size": 124348,
+      "source_url": "https://dl.espressif.com/dl/schematics/esp_idf/DXF_ESP32-S3-DevKitC-1_V1.1_20220429.pdf"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/02/02c88dea5acf89ef20c8073acd19f1c5fd1ac908fc57a5c0fd005cd021304983.dxf",
+      "hardware_revision": "v1.1",
+      "id": "model-81a4fedf09a92181228e",
+      "kind": "model",
+      "media_type": "image/vnd.dxf",
+      "original_filename": "DXF_ESP32-S3-DevKitC-1_V1.1_20220429.dxf",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "02c88dea5acf89ef20c8073acd19f1c5fd1ac908fc57a5c0fd005cd021304983",
+      "size": 743753,
+      "source_url": "https://dl.espressif.com/dl/schematics/esp_idf/DXF_ESP32-S3-DevKitC-1_V1.1_20220429.dxf"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/0f/0fc0c2a32ea79b02cb3ea5552e677386b97385d84473f3da379a877b602e1d04.png",
+      "hardware_revision": "v1.1",
+      "id": "image-602dd7b3b05376383c7d",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "esp32-s3-devkitc-1-v1.1-isometric.png",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "0fc0c2a32ea79b02cb3ea5552e677386b97385d84473f3da379a877b602e1d04",
+      "size": 450586,
+      "source_url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/_images/esp32-s3-devkitc-1-v1.1-isometric.png"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/0c/0c067cfcf4b05cdefe5711c2284f4227924e8365f10a3328219ce042164cab8d.png",
+      "hardware_revision": "v1.1",
+      "id": "image-display-ac8b9f3294f63c0cb893",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 695,
+        "source_sha256": "0fc0c2a32ea79b02cb3ea5552e677386b97385d84473f3da379a877b602e1d04",
+        "source_width": 800
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "esp32-s3-devkitc-1-v1.1-isometric.catalog.png",
+      "parent_asset_id": "image-602dd7b3b05376383c7d",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "0c067cfcf4b05cdefe5711c2284f4227924e8365f10a3328219ce042164cab8d",
+      "size": 385757,
+      "source_url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/_images/esp32-s3-devkitc-1-v1.1-isometric.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/user_guide_v1.1.html"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "ESP32-S3-DevKitC-1 v1.1 is an Espressif development board with pin headers and USB programming connections. The official guide publishes revision-matching mechanical dimensions as DXF and PDF.\n\nOfficial v1.1 board-outline drawings are included. A complete-board STEP assembly was not found in the reviewed official resources, so a module STEP is not substituted for the board. Module, antenna and memory variants must be identified from the physical board before fit-critical design. Third-party boards using similar DevKit names are not covered."
+    }
+  ],
+  "description_html": "",
+  "description_text": "ESP32-S3-DevKitC-1 v1.1 is an Espressif development board with pin headers and USB programming connections. The official guide publishes revision-matching mechanical dimensions as DXF and PDF.\n\nOfficial v1.1 board-outline drawings are included. A complete-board STEP assembly was not found in the reviewed official resources, so a module STEP is not substituted for the board. Module, antenna and memory variants must be identified from the physical board before fit-critical design. Third-party boards using similar DevKit names are not covered.",
+  "first_seen": "2026-11-17T04:03:55Z",
+  "hardware_revision": "v1.1",
+  "id": "espressif-esp32-s3-devkitc-1-v1-1",
+  "last_seen": "2026-11-17T04:03:55Z",
+  "manufacturer": "Espressif Systems",
+  "measurements": [],
+  "name": "Espressif ESP32-S3-DevKitC-1 v1.1",
+  "offers": [],
+  "part_numbers": [
+    "ESP32-S3-DevKitC-1"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/user_guide_v1.1.html"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/user_guide_v1.1.html"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Board revision": "v1.1",
+    "CAD coverage": "2D board dimensions (DXF/PDF); no full-board STEP in reviewed source",
+    "Chip family": "ESP32-S3",
+    "Form factor": "Development board",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "espressif",
+  "tags": [
+    "espressif",
+    "esp32",
+    "esp32-s3",
+    "development-board",
+    "mechanical-drawing",
+    "reference-only"
+  ],
+  "variants": []
+}

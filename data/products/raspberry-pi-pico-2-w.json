@@ -1,0 +1,101 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://pip.raspberrypi.com/categories/1088-raspberry-pi-pico-2-w",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "raspberry-pi"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/8f/8f519b945e9f7078ffd3fee464992fca376d8037ebcd1f83bd2a021241717eb2.pdf",
+      "id": "document-87b15510423765a918ed",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "RP-008304-DS-3-pico-2-w-datasheet.pdf",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "document",
+      "sha256": "8f519b945e9f7078ffd3fee464992fca376d8037ebcd1f83bd2a021241717eb2",
+      "size": 3791194,
+      "source_url": "https://pip-assets.raspberrypi.com/categories/1088-raspberry-pi-pico-2-w/documents/RP-008304-DS-3-pico-2-w-datasheet.pdf"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://pip.raspberrypi.com/categories/1088-raspberry-pi-pico-2-w"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Wireless RP2350 microcontroller board; this entry retains the official datasheet for hardware reference.\n\nDocumentation-only entry. The reviewed Pico 2 W portal publishes a datasheet, pinout, and schematic but no distinct downloadable STEP model. Its datasheet refers to a Pico 2 STEP resource; that non-wireless model is not attached to Pico 2 W. No CAD compatibility, physical board revision, exact manufacturer SKU, price, or stock is inferred."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Wireless RP2350 microcontroller board; this entry retains the official datasheet for hardware reference.\n\nDocumentation-only entry. The reviewed Pico 2 W portal publishes a datasheet, pinout, and schematic but no distinct downloadable STEP model. Its datasheet refers to a Pico 2 STEP resource; that non-wireless model is not attached to Pico 2 W. No CAD compatibility, physical board revision, exact manufacturer SKU, price, or stock is inferred.",
+  "first_seen": "2026-11-17T04:03:55Z",
+  "id": "raspberry-pi-pico-2-w",
+  "last_seen": "2026-11-17T04:03:55Z",
+  "manufacturer": "Raspberry Pi",
+  "measurements": [],
+  "name": "Raspberry Pi Pico 2 W",
+  "offers": [],
+  "part_numbers": [
+    "Pico 2 W"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://pip.raspberrypi.com/categories/1088-raspberry-pi-pico-2-w"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://pip.raspberrypi.com/categories/1088-raspberry-pi-pico-2-w"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Board class": "Wireless microcontroller board",
+    "CAD coverage": "No distinct official Pico 2 W STEP verified; documentation only",
+    "Memory": "520 kB SRAM; 4 MB flash",
+    "Microcontroller": "RP2350",
+    "Source review": "documentation-only",
+    "Wireless": "2.4 GHz Wi-Fi; Bluetooth 5.2"
+  },
+  "supplier_id": "raspberry-pi",
+  "tags": [
+    "raspberry-pi",
+    "microcontroller",
+    "pico",
+    "rp2350",
+    "wifi",
+    "bluetooth"
+  ],
+  "variants": []
+}

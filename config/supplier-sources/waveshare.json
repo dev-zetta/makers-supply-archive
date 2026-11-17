@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-11-17",
+  "notes": "Official publisher documentation and CAD downloads reviewed for Waveshare ESP32 and Raspberry Pi MCU boards. Exact configurable-product prices and unconfirmed physical board revisions remain unknown. RP2040/RP2350 CAD URLs were recovered from printed Waveshare wiki copies and verified directly on the official files host; see fixture evidence notes. Public access does not establish redistribution rights.",
+  "products": [
+    {
+      "id": "waveshare-25081",
+      "supplier_id": "waveshare",
+      "manufacturer": "Waveshare",
+      "name": "Waveshare ESP32-S3-Zero (4MB Flash / 2MB PSRAM, without header)",
+      "hardware_revision": null,
+      "source_kind": "waveshare",
+      "store_id": "waveshare-global",
+      "product_url": "https://www.waveshare.com/esp32-s3-zero.htm",
+      "documentation_urls": [
+        "https://docs.waveshare.com/ESP32-S3-Zero",
+        "https://docs.waveshare.com/ESP32-S3-Zero/Resources-And-Documents"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "skus": [
+        "25081"
+      ],
+      "selected_skus": [
+        "25081"
+      ],
+      "part_numbers": [
+        "ESP32-S3-Zero"
+      ],
+      "description": "Compact Waveshare development board with an ESP32-S3FH4R2 processor, wireless connectivity, USB Type-C, castellated edges, and an onboard RGB LED. This entry selects the 4MB Flash / 2MB PSRAM option without pre-soldered headers.",
+      "specifications": {
+        "Microcontroller": "ESP32-S3FH4R2",
+        "Flash": "4 MB",
+        "PSRAM": "2 MB",
+        "Clock frequency": "Up to 240 MHz",
+        "USB connector": "USB Type-C",
+        "Wireless": "2.4 GHz Wi-Fi and Bluetooth LE 5",
+        "Header option": "Without header"
+      },
+      "tags": [
+        "microcontroller",
+        "development-board",
+        "esp32",
+        "esp32-s3",
+        "usb-c"
+      ],
+      "compatibility_notes": "SKU 25081 is the 4MB Flash / 2MB PSRAM board without headers. Exclude the pre-soldered-header SKU 25517 and the N8R8 variants 33879/33549. The official CAD filename includes v2, but the documentation does not establish its exact physical board revision; confirm fit and antenna clearance before mechanical design. The configurable shop page does not establish a reliable exact per-SKU price.",
+      "review_status": "revision-unconfirmed",
+      "reviewed_at": "2026-11-17",
+      "default_currency": "USD",
+      "assets": [
+        {
+          "url": "https://files.waveshare.com/wiki/ESP32-S3-Zero/ESP32-S3-Zero_v2-138eb3753cf14afa3252058c380ca416.stp",
+          "filename": "ESP32-S3-Zero_v2-138eb3753cf14afa3252058c380ca416.stp",
+          "role": "component",
+          "applies_to_skus": [
+            "25081"
+          ],
+          "hardware_revision": null
+        }
+      ]
+    },
+    {
+      "id": "waveshare-25948",
+      "supplier_id": "waveshare",
+      "manufacturer": "Waveshare",
+      "name": "Waveshare ESP32-S3-Touch-LCD-4.3",
+      "hardware_revision": null,
+      "source_kind": "waveshare",
+      "store_id": "waveshare-global",
+      "product_url": "https://www.waveshare.com/esp32-s3-touch-lcd-4.3.htm",
+      "documentation_urls": [
+        "https://docs.waveshare.com/ESP32-S3-Touch-LCD-4.3",
+        "https://docs.waveshare.com/ESP32-S3-Touch-LCD-4.3/Resources-And-Documents"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "skus": [
+        "25948"
+      ],
+      "selected_skus": [
+        "25948"
+      ],
+      "part_numbers": [
+        "ESP32-S3-Touch-LCD-4.3"
+      ],
+      "description": "Waveshare ESP32-S3 display development board with a 4.3-inch 800x480 capacitive touch LCD, Wi-Fi/Bluetooth connectivity, CAN, RS485, I2C, a TF card slot, and USB Type-C. This entry selects the version with touch function.",
+      "specifications": {
+        "Microcontroller module": "ESP32-S3-WROOM-1-N16R8",
+        "Flash": "16 MB",
+        "PSRAM": "8 MB",
+        "Display diagonal": "4.3 inch",
+        "Display resolution": "800 x 480",
+        "Touch": "Capacitive; with touch function",
+        "Interfaces": "CAN, RS485, I2C, TF card, USB Type-C"
+      },
+      "tags": [
+        "microcontroller",
+        "development-board",
+        "esp32",
+        "esp32-s3",
+        "display",
+        "touchscreen",
+        "usb-c"
+      ],
+      "compatibility_notes": "Select only touch SKU 25948; the shop also lists no-touch SKU 30493. This model is for ESP32-S3-Touch-LCD-4.3, not the distinct 4.3B/4.3C products. The official ZIP contains esp32-s3-touch-lcd-4_3.stp without an explicit hardware revision. The configurable shop page does not establish a reliable exact per-SKU price.",
+      "review_status": "revision-unconfirmed",
+      "reviewed_at": "2026-11-17",
+      "default_currency": "USD",
+      "assets": [
+        {
+          "url": "https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3/ESP32-S3-Touch-LCD-4in3_3D_Drawing.zip",
+          "filename": "ESP32-S3-Touch-LCD-4in3_3D_Drawing.zip",
+          "role": "component",
+          "applies_to_skus": [
+            "25948"
+          ],
+          "hardware_revision": null
+        }
+      ]
+    },
+    {
+      "id": "waveshare-rp2040-zero",
+      "supplier_id": "waveshare",
+      "manufacturer": "Waveshare",
+      "name": "Waveshare RP2040-Zero",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.waveshare.com/wiki/RP2040-Zero",
+      "documentation_urls": [
+        "https://www.waveshare.com/wiki/RP2040-Zero"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "part_numbers": [
+        "RP2040-Zero"
+      ],
+      "description": "Compact Waveshare development board based on Raspberry Pi RP2040, with USB Type-C, castellated PCB edges, an RGB LED, 264KB SRAM, and 2MB board Flash.",
+      "specifications": {
+        "Microcontroller": "Raspberry Pi RP2040",
+        "Processor": "Dual-core Arm Cortex-M0+",
+        "Clock frequency": "Up to 133 MHz",
+        "SRAM": "264 KB",
+        "Flash": "2 MB",
+        "USB connector": "USB Type-C"
+      },
+      "tags": [
+        "microcontroller",
+        "development-board",
+        "raspberry-pi",
+        "rp2040",
+        "usb-c"
+      ],
+      "compatibility_notes": "The official CAD ZIP contains RP2040_Zero.stp. A board revision and pre-soldered-header compatibility are not specified, so this is a mechanical reference without an inferred current storefront SKU or sales offer. RP2040 is the chip designer/family; Waveshare manufactures this board.",
+      "review_status": "revision-unconfirmed",
+      "reviewed_at": "2026-11-17",
+      "default_currency": null,
+      "assets": [
+        {
+          "url": "https://files.waveshare.com/upload/f/f7/RP2040_Zero_stp.zip",
+          "filename": "RP2040_Zero_stp.zip",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null
+        }
+      ]
+    },
+    {
+      "id": "waveshare-rp2350-zero",
+      "supplier_id": "waveshare",
+      "manufacturer": "Waveshare",
+      "name": "Waveshare RP2350-Zero",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.waveshare.com/wiki/RP2350-Zero",
+      "documentation_urls": [
+        "https://www.waveshare.com/wiki/RP2350-Zero"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "part_numbers": [
+        "RP2350-Zero"
+      ],
+      "description": "Compact Waveshare development board based on Raspberry Pi RP2350A, with USB Type-C, castellated PCB edges, an RGB LED, 520KB SRAM, and 4MB board Flash. The RP2350A offers selectable dual-core Arm Cortex-M33 or Hazard3 RISC-V processor architectures.",
+      "specifications": {
+        "Microcontroller": "Raspberry Pi RP2350A",
+        "Processor": "Dual-core Arm Cortex-M33 or Hazard3 RISC-V",
+        "Clock frequency": "Up to 150 MHz",
+        "SRAM": "520 KB",
+        "Flash": "4 MB",
+        "USB connector": "USB Type-C"
+      },
+      "tags": [
+        "microcontroller",
+        "development-board",
+        "raspberry-pi",
+        "rp2350",
+        "risc-v",
+        "usb-c"
+      ],
+      "compatibility_notes": "The official CAD ZIP contains RP2350-Zero.step. A board revision and pre-soldered-header compatibility are not specified, so this is a mechanical reference without an inferred current storefront SKU or sales offer. This is distinct from RP2350-Zero-CM, RP2350-One, and RP2350-Plus.",
+      "review_status": "revision-unconfirmed",
+      "reviewed_at": "2026-11-17",
+      "default_currency": null,
+      "assets": [
+        {
+          "url": "https://files.waveshare.com/wiki/RP2350-Zero/RP2350_Zero_step.zip",
+          "filename": "RP2350_Zero_step.zip",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,10 @@
 {
   "schema_version": 1,
+  "includes": [
+    "supplier-sources/raspberry-pi.json",
+    "supplier-sources/espressif.json",
+    "supplier-sources/waveshare.json"
+  ],
   "reviewed_at": "2026-11-17",
   "notes": "Reviewed official-source pilot mappings. Public CAD availability does not establish a redistribution license. Reference-only records deliberately have no current storefront offer.",
   "products": [

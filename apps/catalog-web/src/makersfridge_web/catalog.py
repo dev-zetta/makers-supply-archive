@@ -10,12 +10,9 @@ from decimal import Decimal, InvalidOperation
 from pathlib import Path
 from typing import Any, cast
 
-SUPPLIER_LABELS = {
-    "bambu-lab": "Bambu Lab",
-    "bigtreetech": "BIGTREETECH",
-    "biqu": "BIQU",
-    "waveshare": "Waveshare",
-}
+from makersfridge.suppliers import SUPPLIERS
+
+SUPPLIER_LABELS = SUPPLIERS
 STORE_LABELS = {
     "biqu-global": "BIQU global store",
     "waveshare-global": "Waveshare global store",

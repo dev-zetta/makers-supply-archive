@@ -62,6 +62,17 @@ test("keeps pre-rename selections and sidebar preferences", async ({ page }) => 
   expect(storage.legacy).toBeNull();
 });
 
+test("finds Raspberry Pi boards and ESP32 parts across manufacturers", async ({ page }) => {
+  await page.getByLabel("Supplier", { exact: true }).selectOption("raspberry-pi");
+  await expect(page.locator(".product-card")).toHaveCount(6);
+  await expect(page.locator(".product-card").first()).toContainText("Raspberry Pi");
+  await page.getByLabel("Supplier", { exact: true }).selectOption("");
+  await page.getByLabel("Search").fill("ESP32");
+  await page.getByRole("button", { name: "Apply filters" }).click();
+  await expect(page.locator(".product-card .supplier-label").filter({ hasText: "Waveshare" }).first()).toBeVisible();
+  await expect(page.locator(".product-card .supplier-label").filter({ hasText: "Espressif Systems" }).first()).toBeVisible();
+});
+
 test("renders an archived STL with the shaded model viewer", async ({ page }) => {
   await page.goto("/products/la024-030-micro-dc-motor-with-sh1-0");
   await page.getByRole("button", { name: "Preview 3D" }).first().click();

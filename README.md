@@ -5,7 +5,7 @@ pricing, and project parts lists in one place. Maker's Fridge uses `makersfridge
 as its package, command, and repository name.
 
 The versioned archive catalogs Bambu Lab Maker's Supply alongside reviewed
-BIGTREETECH, BIQU, and Waveshare pilot products and their publicly downloadable design
+BIGTREETECH, BIQU, Waveshare, Raspberry Pi, and Espressif references and their downloadable design
 assets. Canonical, reviewable JSON records are paired with content-addressed files and
 a generated SQLite catalog.
 
@@ -72,6 +72,7 @@ reviewed supplier pilots separately, then rebuild the read-only catalog database
 ```bash
 uv run makersfridge sync --supplier bigtreetech --supplier biqu --resume
 uv run makersfridge sync --supplier waveshare --resume
+uv run makersfridge sync --supplier raspberry-pi --supplier espressif --resume
 uv run makersfridge build-db
 ```
 
@@ -90,10 +91,34 @@ Unconfirmed hardware/model revision compatibility is labeled explicitly. The
 configurable AMOLED page does not establish a per-SKU price, so that price remains
 unknown. Supplier availability never changes saved list quantities or build progress.
 
+Additional reviewed sources in `config/supplier-sources/` cover Raspberry Pi 5,
+Pi 4 Model B, Pico, Pico W, Pico 2, and Pico 2 W; Espressif ESP32-WROOM-32E,
+ESP32-S3-WROOM-1, ESP32-C3-MINI-1, ESP32-C6-WROOM-1, ESP32-DevKitC V4, and
+ESP32-S3-DevKitC-1 v1.1; and Waveshare ESP32-S3-Zero, ESP32-S3-Touch-LCD-4.3,
+RP2040-Zero, and RP2350-Zero. ESP32 is a device family: search finds both Espressif
+modules and Waveshare boards while supplier filters retain each board's manufacturer.
+
+Pi 5, Pico, Pico W, Pico 2, the four Espressif modules, and the four added Waveshare
+boards have verified STEP models. Pi 4 and the two Espressif DevKit entries have
+dimensional drawings; Pico 2 W has documentation only. A module model is never
+substituted for its development board, and a non-wireless Pico model is never
+assigned to Pico 2 W. These reference entries have no inferred reseller price,
+stock status, or memory/header variant SKU.
+
+The source manifest's relative JSON includes keep reviewed manufacturer sets
+separate. Included files are confined to the configuration directory; duplicate
+IDs and cyclic includes fail validation. Resume fingerprints cover every included
+file, and changes to reviewed source definitions during import prevent promotion.
+
 Adapters normalize official structured storefront data and reviewed CAD links.
 GitHub models are pinned to a repository commit and path. Assets carry SKU
 applicability, revision, role, source, hash, and license evidence; a public download
 does not establish redistribution permission. Unknown rights remain `unknown`.
+Explicit MIT-style grants use `permissive`; condition-bearing grants use `licensed`
+and retain their license source. Espressif KiCad library models retain their
+CC-BY-SA 4.0 notice and KiCad exception. Included ZIP `LICENSE`, `COPYING`, and
+`NOTICE` files are preserved as documents alongside extracted CAD; macOS
+AppleDouble files are ignored after archive safety checks.
 Supplier imports write only selected product records, preserving existing Bambu JSON,
 product IDs, and saved references. An incomplete or failed import does not retire
 products from any supplier. Bambu-specific reconciliation and backfills stay scoped

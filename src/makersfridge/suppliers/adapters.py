@@ -89,7 +89,7 @@ def _assets(spec: PilotProduct) -> list[Asset]:
             else AssetKind.IMAGE
             if source.role == "image"
             else AssetKind.DOCUMENT
-            if suffix == ".pdf"
+            if suffix == ".pdf" or source.role == "document"
             else AssetKind.MODEL
         )
         result.append(
@@ -129,8 +129,8 @@ def reference_product(spec: PilotProduct, now: datetime) -> Product:
         skus=spec.skus,
         part_numbers=spec.part_numbers,
         assets=_assets(spec),
-        tags=[spec.supplier_id],
-        specifications={"Source review": spec.review_status},
+        tags=[spec.supplier_id, *spec.tags],
+        specifications={**spec.specifications, "Source review": spec.review_status},
         aliases=[
             SourceAlias(
                 supplier_id=spec.supplier_id,
@@ -333,8 +333,11 @@ def _waveshare_options(spec: PilotProduct, soup: BeautifulSoup, now: datetime) -
             retrieved_at=now,
         )
     ]
-    image = soup.select_one('meta[property="og:image"]')
-    source = str(image.get("content") or "") if image else ""
+    image = soup.select_one('.product-image img[src], img[src*="/image/560x560/"]')
+    source = str(image.get("src") or "") if image else ""
+    if not source:
+        image = soup.select_one('meta[property="og:image"]')
+        source = str(image.get("content") or "") if image else ""
     if not source:
         image = soup.select_one('img[src*="media/catalog/product/"]')
         source = str(image.get("src") or "") if image else ""

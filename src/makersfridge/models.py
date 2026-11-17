@@ -34,6 +34,7 @@ class Region(StrEnum):
 class RightsStatus(StrEnum):
     UNKNOWN = "unknown"
     PERMISSIVE = "permissive"
+    LICENSED = "licensed"
     RESTRICTED = "restricted"
 
 

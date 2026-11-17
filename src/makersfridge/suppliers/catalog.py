@@ -1,13 +1,14 @@
 from __future__ import annotations
 
+import hashlib
 import re
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 from typing import Literal
 from urllib.parse import unquote, urlsplit
 
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl, model_validator
 
-from makersfridge.models import Asset, AssetKind, StableId
+from makersfridge.models import Asset, AssetKind, RightsStatus, StableId
 from makersfridge.suppliers import SUPPLIERS
 
 
@@ -22,6 +23,7 @@ class PilotAsset(BaseModel):
     source_commit: str | None = None
     source_path: str | None = None
     license_url: HttpUrl | None = None
+    rights_status: RightsStatus = RightsStatus.UNKNOWN
     compatibility_notes: str = ""
 
     @model_validator(mode="after")
@@ -34,6 +36,11 @@ class PilotAsset(BaseModel):
             original_filename=self.filename,
             media_type="application/octet-stream",
         )
+        if (
+            self.rights_status in {RightsStatus.PERMISSIVE, RightsStatus.LICENSED}
+            and self.license_url is None
+        ):
+            raise ValueError("licensed assets require explicit license evidence")
         if any((self.source_repository, self.source_commit, self.source_path)):
             if not (self.source_repository and self.source_commit and self.source_path):
                 raise ValueError("GitHub assets require a reviewed repository, commit and path")
@@ -73,6 +80,8 @@ class PilotProduct(BaseModel):
     product_url: HttpUrl
     documentation_urls: list[HttpUrl] = Field(default_factory=list)
     categories: list[str] = Field(default_factory=list)
+    tags: list[str] = Field(default_factory=list)
+    specifications: dict[str, str] = Field(default_factory=dict)
     skus: list[str] = Field(default_factory=list)
     part_numbers: list[str] = Field(default_factory=list)
     selected_skus: list[str] = Field(default_factory=list)
@@ -99,6 +108,7 @@ class PilotCatalog(BaseModel):
     schema_version: Literal[1] = 1
     reviewed_at: str | None = None
     notes: str = ""
+    includes: list[str] = Field(default_factory=list)
     products: list[PilotProduct]
 
     @model_validator(mode="after")
@@ -110,4 +120,40 @@ class PilotCatalog(BaseModel):
 
 
 def load_pilots(path: Path) -> list[PilotProduct]:
-    return PilotCatalog.model_validate_json(path.read_text("utf-8")).products
+    return load_pilots_snapshot(path)[0]
+
+
+def load_pilots_snapshot(path: Path) -> tuple[list[PilotProduct], str]:
+    """Read reviewed sources and bind resume identity to every included file."""
+    base = path.parent.resolve()
+    visited: set[Path] = set()
+    digest = hashlib.sha256()
+    products: list[PilotProduct] = []
+
+    def read(source: Path, depth: int = 0) -> None:
+        resolved = source.resolve()
+        if not resolved.is_relative_to(base):
+            raise ValueError("source include escapes the configuration directory")
+        if resolved in visited or depth > 8:
+            raise ValueError("cyclic or repeated source include")
+        visited.add(resolved)
+        raw = resolved.read_bytes()
+        digest.update(resolved.relative_to(base).as_posix().encode() + b"\0" + raw + b"\0")
+        catalog = PilotCatalog.model_validate_json(raw)
+        products.extend(catalog.products)
+        for name in catalog.includes:
+            relative = PurePosixPath(name)
+            if (
+                not name
+                or "\\" in name
+                or relative.is_absolute()
+                or ".." in relative.parts
+                or relative.suffix.lower() != ".json"
+            ):
+                raise ValueError(f"invalid source include: {name!r}")
+            read(base / relative, depth + 1)
+
+    read(path)
+    # Validate product identities across the complete set of reviewed source files.
+    PilotCatalog(products=products)
+    return products, digest.hexdigest()

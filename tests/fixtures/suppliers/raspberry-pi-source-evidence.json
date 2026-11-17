@@ -1,0 +1,85 @@
+{
+  "reviewed_at": "2026-11-17",
+  "sources": [
+    {
+      "url": "https://pip-assets.raspberrypi.com/categories/1005-raspberry-pi-pico-2/documents/RP-009061-CA-2-Pico%202%20-%203D%20STEP.zip",
+      "size": 2215615,
+      "sha256": "74974c52ee695a1d2c638d8288c798b42236c60d7de7af5345b9a5017f993f82",
+      "members": [
+        {
+          "path": "LICENSE.txt",
+          "size": 1881,
+          "compressed": 983
+        },
+        {
+          "path": "rpi_pico2.step",
+          "size": 12391657,
+          "compressed": 2214264
+        }
+      ]
+    },
+    {
+      "url": "https://pip-assets.raspberrypi.com/categories/610-raspberry-pi-pico/documents/RP-008311-DS-1-Pico-R3-step.zip",
+      "size": 266009,
+      "sha256": "4008e557bd80d75119872d10460d9f30f2e0faf210606d058bbe78cd6598c931",
+      "members": [
+        {
+          "path": "Pico-R3.step",
+          "size": 1721174,
+          "compressed": 265024
+        },
+        {
+          "path": "__MACOSX/._Pico-R3.step",
+          "size": 731,
+          "compressed": 581
+        }
+      ]
+    },
+    {
+      "url": "https://pip-assets.raspberrypi.com/categories/686-raspberry-pi-pico-w/documents/RP-008318-DS-1-PicoW-step.zip",
+      "size": 838467,
+      "sha256": "fc282d072183f645718b3c1b0f456117b23b681c6b17073a8aa7131b53dba367",
+      "members": [
+        {
+          "path": "PicoW.stp",
+          "size": 5153513,
+          "compressed": 838351
+        }
+      ]
+    },
+    {
+      "url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-010083-CA-1-rpi-5%203D%20STEP%20-%20No%20Graphics%20small%20file.zip",
+      "size": 13270704,
+      "sha256": "6841637b4cfa97637bf34b529bfe896f24d9634b2c40b57a156781f55d88f06f",
+      "members": [
+        {
+          "path": "rpi-5b_no_graphics.step",
+          "size": 77627469,
+          "compressed": 13269335
+        },
+        {
+          "path": "LICENSE.txt",
+          "size": 1881,
+          "compressed": 983
+        }
+      ]
+    },
+    {
+      "url": "https://pip-assets.raspberrypi.com/categories/545-raspberry-pi-4-model-b/documents/RP-008342-DS-1-raspberry-pi-4-mechanical-drawing.dxf",
+      "size": 822959,
+      "sha256": "390b8a4048fb7963e3800274dc7a6a3031ad438a923f68fdb27f1f5afca40649"
+    },
+    {
+      "url": "https://pip-assets.raspberrypi.com/categories/545-raspberry-pi-4-model-b/documents/RP-008343-DS-1-raspberry-pi-4-mechanical-drawing.pdf",
+      "size": 22819,
+      "sha256": "a5c88057563016631ebca26666fd672614fc9aaa1c59128a541612c7798e9809"
+    },
+    {
+      "url": "https://pip-assets.raspberrypi.com/categories/1088-raspberry-pi-pico-2-w/documents/RP-008304-DS-3-pico-2-w-datasheet.pdf",
+      "size": 3791194,
+      "sha256": "8f519b945e9f7078ffd3fee464992fca376d8037ebcd1f83bd2a021241717eb2"
+    }
+  ],
+  "pico_design_permission_source": "https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html",
+  "pico_2_w_step_verified": false
+}

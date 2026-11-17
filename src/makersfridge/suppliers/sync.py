@@ -13,8 +13,9 @@ from makersfridge.http import ArchiveHttpClient
 from makersfridge.images import ImageProcessor
 from makersfridge.models import Asset, Region, RegionRun, RunManifest, utc_now
 from makersfridge.storage import atomic_write, canonical_json, snapshot_identity
+from makersfridge.suppliers import SUPPLIERS
 from makersfridge.suppliers.adapters import ADAPTERS
-from makersfridge.suppliers.catalog import load_pilots
+from makersfridge.suppliers.catalog import load_pilots_snapshot
 from makersfridge.sync import SyncEngine, SyncResult, _signature
 from makersfridge.sync_state import SyncCheckpoint, resume_signature
 from makersfridge.validation import validate_catalog
@@ -22,7 +23,7 @@ from makersfridge.validation import validate_catalog
 
 @dataclass(frozen=True)
 class SupplierSyncOptions:
-    suppliers: tuple[str, ...] = ("bigtreetech", "biqu", "waveshare")
+    suppliers: tuple[str, ...] = tuple(s for s in SUPPLIERS if s != "bambu-lab")
     product_ids: tuple[str, ...] = ()
     metadata_only: bool = False
     dry_run: bool = False
@@ -70,7 +71,7 @@ class SupplierSyncEngine(SyncEngine):
             raise ValueError("max_products must be positive")
         started = utc_now()
         manifest_path = options.manifest or self.root / "config" / "supplier-pilots.json"
-        pilots = load_pilots(manifest_path)
+        pilots, manifest_identity = load_pilots_snapshot(manifest_path)
         selected_suppliers = set(options.suppliers)
         known = {spec.supplier_id for spec in pilots}
         if not selected_suppliers or selected_suppliers - known:
@@ -106,7 +107,7 @@ class SupplierSyncEngine(SyncEngine):
                 "dry_run": options.dry_run,
                 "max_products": options.max_products,
                 "refresh_assets": options.refresh_assets,
-                "manifest_sha256": hashlib.sha256(manifest_path.read_bytes()).hexdigest(),
+                "manifest_sha256": manifest_identity,
             },
             snapshot_identity(self.root),
         )
@@ -164,14 +165,19 @@ class SupplierSyncEngine(SyncEngine):
                         update={
                             field: getattr(parents[asset.parent_asset_id], field)
                             for field in (
-                                "role",
                                 "applies_to_skus",
                                 "hardware_revision",
                                 "source_repository",
                                 "source_commit",
                                 "source_path",
                                 "license_url",
+                                "rights_status",
                             )
+                        }
+                        | {
+                            "role": "document"
+                            if asset.kind.value == "document"
+                            else parents[asset.parent_asset_id].role,
                         }
                     )
                     for asset in previous.assets
@@ -225,6 +231,8 @@ class SupplierSyncEngine(SyncEngine):
         )
         promoted = diff.has_changes and not options.dry_run
         if promoted:
+            if load_pilots_snapshot(manifest_path)[1] != manifest_identity:
+                raise RuntimeError("reviewed source manifests changed during import; retry sync")
             for product_id, original in original_bytes.items():
                 path = self.catalog.product_path(product_id)
                 current = path.read_bytes() if path.is_file() else None

@@ -1,0 +1,114 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.waveshare.com/wiki/RP2350-Zero",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "waveshare"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/39/392250d4a9dcb1f9e3c10a684d958419a7be0557424295a7f7f8ed31fb7f74dc.zip",
+      "id": "archive-e73b7d4a5ec564126afa",
+      "kind": "archive",
+      "media_type": "application/zip",
+      "original_filename": "RP2350_Zero_step.zip",
+      "retrieved_at": "2026-11-17T04:06:15Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "392250d4a9dcb1f9e3c10a684d958419a7be0557424295a7f7f8ed31fb7f74dc",
+      "size": 3361569,
+      "source_url": "https://files.waveshare.com/wiki/RP2350-Zero/RP2350_Zero_step.zip"
+    },
+    {
+      "applies_to_skus": [],
+      "archive_member_path": "RP2350-Zero.step",
+      "blob_path": "data/blobs/sha256/35/35e056647c8cc47ff86458baefa52e94cba55adef9d489f9e061be726c42434a.step",
+      "id": "model-eb4942be0cc8559b7c43",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "RP2350-Zero.step",
+      "parent_asset_id": "archive-e73b7d4a5ec564126afa",
+      "retrieved_at": "2026-11-17T04:06:15Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "35e056647c8cc47ff86458baefa52e94cba55adef9d489f9e061be726c42434a",
+      "size": 21063899,
+      "source_url": "https://files.waveshare.com/wiki/RP2350-Zero/RP2350_Zero_step.zip"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.waveshare.com/wiki/RP2350-Zero"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Compact Waveshare development board based on Raspberry Pi RP2350A, with USB Type-C, castellated PCB edges, an RGB LED, 520KB SRAM, and 4MB board Flash. The RP2350A offers selectable dual-core Arm Cortex-M33 or Hazard3 RISC-V processor architectures.\n\nThe official CAD ZIP contains RP2350-Zero.step. A board revision and pre-soldered-header compatibility are not specified, so this is a mechanical reference without an inferred current storefront SKU or sales offer. This is distinct from RP2350-Zero-CM, RP2350-One, and RP2350-Plus."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Compact Waveshare development board based on Raspberry Pi RP2350A, with USB Type-C, castellated PCB edges, an RGB LED, 520KB SRAM, and 4MB board Flash. The RP2350A offers selectable dual-core Arm Cortex-M33 or Hazard3 RISC-V processor architectures.\n\nThe official CAD ZIP contains RP2350-Zero.step. A board revision and pre-soldered-header compatibility are not specified, so this is a mechanical reference without an inferred current storefront SKU or sales offer. This is distinct from RP2350-Zero-CM, RP2350-One, and RP2350-Plus.",
+  "first_seen": "2026-11-17T04:06:15Z",
+  "id": "waveshare-rp2350-zero",
+  "last_seen": "2026-11-17T04:06:15Z",
+  "manufacturer": "Waveshare",
+  "measurements": [],
+  "name": "Waveshare RP2350-Zero",
+  "offers": [],
+  "part_numbers": [
+    "RP2350-Zero"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.waveshare.com/wiki/RP2350-Zero"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.waveshare.com/wiki/RP2350-Zero"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Clock frequency": "Up to 150 MHz",
+    "Flash": "4 MB",
+    "Microcontroller": "Raspberry Pi RP2350A",
+    "Processor": "Dual-core Arm Cortex-M33 or Hazard3 RISC-V",
+    "SRAM": "520 KB",
+    "Source review": "revision-unconfirmed",
+    "USB connector": "USB Type-C"
+  },
+  "supplier_id": "waveshare",
+  "tags": [
+    "waveshare",
+    "microcontroller",
+    "development-board",
+    "raspberry-pi",
+    "rp2350",
+    "risc-v",
+    "usb-c"
+  ],
+  "variants": []
+}

@@ -1,0 +1,151 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "espressif"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/93/93769872f5640475a25e6c367230b407606771e4bbee0aba56903263b17d8d30.pdf",
+      "hardware_revision": "V4",
+      "id": "document-93482e8ec6f7f64d6808",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "esp32_devkitc_v4_dimensions.pdf",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "93769872f5640475a25e6c367230b407606771e4bbee0aba56903263b17d8d30",
+      "size": 901070,
+      "source_url": "https://dl.espressif.com/dl/schematics/esp32_devkitc_v4_dimensions.pdf"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/13/130450f283a9bc2a47b77d33d2275286c5023aeaf53ca74d83f8a084b5ea60b0.dxf",
+      "hardware_revision": "V4",
+      "id": "model-f3c58e150928a94baa91",
+      "kind": "model",
+      "media_type": "image/vnd.dxf",
+      "original_filename": "esp32_devkitc_v4_dimensions.dxf",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "130450f283a9bc2a47b77d33d2275286c5023aeaf53ca74d83f8a084b5ea60b0",
+      "size": 4106429,
+      "source_url": "https://dl.espressif.com/dl/schematics/esp32_devkitc_v4_dimensions.dxf"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/e0/e078f94904c5396ac7475c1e2349b368b31db7bb4d2716954bc3f72fdad7ab3c.png",
+      "hardware_revision": "V4",
+      "id": "image-84c050432ad1e0bbd401",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "esp32-devkitc-v4-functional-overview.png",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "e078f94904c5396ac7475c1e2349b368b31db7bb4d2716954bc3f72fdad7ab3c",
+      "size": 772687,
+      "source_url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/_images/esp32-devkitc-v4-functional-overview.png"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/92/9236a49fa3cfb57edc864c7a1f0cffac3536e2040eb4781e6a54593d70c635d4.png",
+      "hardware_revision": "V4",
+      "id": "image-display-1fc8ec5a1fb590328781",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 751,
+        "source_sha256": "e078f94904c5396ac7475c1e2349b368b31db7bb4d2716954bc3f72fdad7ab3c",
+        "source_width": 1738
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "esp32-devkitc-v4-functional-overview.catalog.png",
+      "parent_asset_id": "image-84c050432ad1e0bbd401",
+      "retrieved_at": "2026-11-17T04:03:55Z",
+      "rights_status": "unknown",
+      "role": "image",
+      "sha256": "9236a49fa3cfb57edc864c7a1f0cffac3536e2040eb4781e6a54593d70c635d4",
+      "size": 188677,
+      "source_url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/_images/esp32-devkitc-v4-functional-overview.png"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "electronics"
+  ],
+  "category_assignments": [
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "path": [
+        "Electronics"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "ESP32-DevKitC V4 is an Espressif development board with pin headers and USB programming connections. The official guide publishes revision-matching mechanical dimensions as DXF and PDF.\n\nOfficial V4 board-outline drawings are included. A complete-board STEP assembly was not found in the reviewed official resources, so a module STEP is not substituted for the board. Module, antenna and memory variants must be identified from the physical board before fit-critical design. Third-party boards using similar DevKit names are not covered."
+    }
+  ],
+  "description_html": "",
+  "description_text": "ESP32-DevKitC V4 is an Espressif development board with pin headers and USB programming connections. The official guide publishes revision-matching mechanical dimensions as DXF and PDF.\n\nOfficial V4 board-outline drawings are included. A complete-board STEP assembly was not found in the reviewed official resources, so a module STEP is not substituted for the board. Module, antenna and memory variants must be identified from the physical board before fit-critical design. Third-party boards using similar DevKit names are not covered.",
+  "first_seen": "2026-11-17T04:03:55Z",
+  "hardware_revision": "V4",
+  "id": "espressif-esp32-devkitc-v4",
+  "last_seen": "2026-11-17T04:03:55Z",
+  "manufacturer": "Espressif Systems",
+  "measurements": [],
+  "name": "Espressif ESP32-DevKitC V4",
+  "offers": [],
+  "part_numbers": [
+    "ESP32-DevKitC"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Board revision": "V4",
+    "CAD coverage": "2D board dimensions (DXF/PDF); no full-board STEP in reviewed source",
+    "Chip family": "ESP32",
+    "Form factor": "Development board",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "espressif",
+  "tags": [
+    "espressif",
+    "esp32",
+    "development-board",
+    "mechanical-drawing",
+    "reference-only"
+  ],
+  "variants": []
+}
