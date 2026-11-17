@@ -1,0 +1,129 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/2-5inch-Disk-Drive-7mm-SATA.step",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "freecad-library"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/fa/fafcb4c08e3af3869942060e6e9daee340df9199cd8e4422e751b3904e1e392d.step",
+      "id": "model-a8e5813e6f16c0ebb5c9",
+      "kind": "model",
+      "license_url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/LICENSE-Assets",
+      "media_type": "application/p21",
+      "original_filename": "2-5inch-Disk-Drive-7mm-SATA.step",
+      "retrieved_at": "2026-11-17T04:45:04Z",
+      "rights_status": "licensed",
+      "role": "component",
+      "sha256": "fafcb4c08e3af3869942060e6e9daee340df9199cd8e4422e751b3904e1e392d",
+      "size": 267882,
+      "source_commit": "f5ca01cdcaa2f69b9295a6382719c2d90628780c",
+      "source_path": "Computing/Storage/HDD/2-5inch-Disk-Drive-7mm-SATA.step",
+      "source_repository": "https://github.com/FreeCAD/FreeCAD-library",
+      "source_url": "https://raw.githubusercontent.com/FreeCAD/FreeCAD-library/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/2-5inch-Disk-Drive-7mm-SATA.step"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/f1/f14f4d7cf4bf40f8f589b6b461a110d849031e2e43958235e018b3763e54b859.txt",
+      "id": "document-9ec2f2f9f57146de7f64",
+      "kind": "document",
+      "license_url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/LICENSE-Assets",
+      "media_type": "text/plain",
+      "original_filename": "FreeCAD-Parts-Library-LICENSE-Assets.txt",
+      "retrieved_at": "2026-11-17T04:45:04Z",
+      "rights_status": "licensed",
+      "role": "document",
+      "sha256": "f14f4d7cf4bf40f8f589b6b461a110d849031e2e43958235e018b3763e54b859",
+      "size": 20620,
+      "source_commit": "f5ca01cdcaa2f69b9295a6382719c2d90628780c",
+      "source_path": "LICENSE-Assets",
+      "source_repository": "https://github.com/FreeCAD/FreeCAD-library",
+      "source_url": "https://raw.githubusercontent.com/FreeCAD/FreeCAD-library/f5ca01cdcaa2f69b9295a6382719c2d90628780c/LICENSE-Assets"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "storage"
+  ],
+  "category_assignments": [
+    {
+      "id": "storage",
+      "label": "Storage",
+      "path": [
+        "Storage"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/2-5inch-Disk-Drive-7mm-SATA.step"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Generic 2.5-inch SATA drive reference from the FreeCAD Parts Library, not a manufacturer product. Model by MrFreez, licensed CC-BY-3.0; unchanged source geometry. Verify fit against the chosen drive before designing a printed tray or enclosure.\n\nCommunity geometry by MrFreez, not a manufacturer model or a certification of any particular drive. The source model body is 100.45 x 69.85 x 7 mm (length x width x height); these are model dimensions, not universal form-factor limits. Mounting holes, SATA connector position, cable bend space and operating clearances must be verified against the chosen physical drive and its manufacturer drawing. Model geometry is retained unchanged; CC-BY-3.0 attribution and the source asset license accompany it. This model is specifically 7 mm high; it does not represent 9.5 mm or 15 mm drives."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Generic 2.5-inch SATA drive reference from the FreeCAD Parts Library, not a manufacturer product. Model by MrFreez, licensed CC-BY-3.0; unchanged source geometry. Verify fit against the chosen drive before designing a printed tray or enclosure.\n\nCommunity geometry by MrFreez, not a manufacturer model or a certification of any particular drive. The source model body is 100.45 x 69.85 x 7 mm (length x width x height); these are model dimensions, not universal form-factor limits. Mounting holes, SATA connector position, cable bend space and operating clearances must be verified against the chosen physical drive and its manufacturer drawing. Model geometry is retained unchanged; CC-BY-3.0 attribution and the source asset license accompany it. This model is specifically 7 mm high; it does not represent 9.5 mm or 15 mm drives.",
+  "first_seen": "2026-11-17T04:45:04Z",
+  "id": "freecad-generic-drive-2-5-inch-7mm",
+  "last_seen": "2026-11-17T04:45:04Z",
+  "manufacturer": "Generic reference",
+  "measurements": [],
+  "name": "Generic 2.5-inch SATA drive (7 mm)",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/2-5inch-Disk-Drive-7mm-SATA.step"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/LICENSE-Assets"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/FreeCAD/FreeCAD-library/commit/2a889007f65471fdfe57d405c0b4ee2dafe5fd4c"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/2-5inch-Disk-Drive-7mm-SATA.fcstd"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Attribution": "2-5inch-Disk-Drive-7mm-SATA.step by MrFreez; FreeCAD Parts Library; CC-BY-3.0; unchanged STEP; https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/2-5inch-Disk-Drive-7mm-SATA.step",
+    "CAD license": "CC-BY-3.0 (FreeCAD Parts Library LICENSE-Assets)",
+    "CAD representation": "3D STEP",
+    "Form factor": "2.5-inch SATA",
+    "Model author": "MrFreez",
+    "Model body dimensions (L x W x H)": "100.45 x 69.85 x 7 mm",
+    "Reference type": "Generic community model",
+    "Source review": "reviewed-generic-reference"
+  },
+  "supplier_id": "freecad-library",
+  "tags": [
+    "freecad-library",
+    "generic-reference",
+    "pc",
+    "nas",
+    "sata",
+    "storage",
+    "drive"
+  ],
+  "variants": []
+}

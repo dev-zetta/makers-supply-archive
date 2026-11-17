@@ -2,10 +2,14 @@
 
 ## Added products
 
-- waveshare-25081
-- waveshare-25948
-- waveshare-rp2040-zero
-- waveshare-rp2350-zero
+- freecad-generic-drive-2-5-inch-7mm
+- freecad-generic-drive-3-5-inch
+- generic-atx-psu
+- generic-sfx-psu
+- noctua-nf-a12x25-pwm
+- noctua-nf-a14x25-g2-pwm
+- noctua-nf-a6x25-pwm
+- noctua-nf-a9-pwm
 
 ## Changed products
 

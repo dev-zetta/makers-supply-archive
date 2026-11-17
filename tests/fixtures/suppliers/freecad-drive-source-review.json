@@ -1,0 +1,34 @@
+{
+  "reviewed_at": "2026-11-17",
+  "repository": "https://github.com/FreeCAD/FreeCAD-library",
+  "reviewed_commit": "f5ca01cdcaa2f69b9295a6382719c2d90628780c",
+  "asset_license_path": "LICENSE-Assets",
+  "models": {
+    "2.5-inch": {
+      "step_path": "Computing/Storage/HDD/2-5inch-Disk-Drive-7mm-SATA.step",
+      "step_size_bytes": 267882,
+      "step_sha256": "fafcb4c08e3af3869942060e6e9daee340df9199cd8e4422e751b3904e1e392d",
+      "author": "MrFreez",
+      "author_evidence_commit": "2a889007f65471fdfe57d405c0b4ee2dafe5fd4c",
+      "fcstd_sha256": "a895a3e60ba4e84502195a2752d4cb85e7467c45100fac17f56c02d3423235aa",
+      "fcstd_license": "CC-BY 3.0",
+      "main_sketch_length_mm": 100.45,
+      "main_sketch_width_mm": 69.85,
+      "main_pad_height_mm": 7,
+      "source_properties_fixture": "freecad-2-5-source-properties.xml"
+    },
+    "3.5-inch": {
+      "step_path": "Computing/Storage/HDD/3-5inch-Disk-Drive-SATA.step",
+      "step_size_bytes": 117560,
+      "step_sha256": "6a921d4e91bdb31c0b8fbe03a902bc6e787a1e79c3493c0623740b14d652c4ad",
+      "author": "Артём",
+      "author_evidence_commit": "d60afebc96d60e7dbf5a5b5bcbe09ca4410bbf9e",
+      "fcstd_sha256": "a2dc21bc1bdbb38d9eec67aa4d37072dbef6272ffa290cbf4a11806ec2e18cf2",
+      "fcstd_license": "All rights reserved",
+      "main_sketch_length_mm": 147,
+      "main_sketch_width_mm": 102,
+      "main_pad_height_mm": 26.1,
+      "source_properties_fixture": "freecad-3-5-source-properties.xml"
+    }
+  }
+}

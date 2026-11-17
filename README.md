@@ -5,9 +5,10 @@ pricing, and project parts lists in one place. Maker's Fridge uses `makersfridge
 as its package, command, and repository name.
 
 The versioned archive catalogs Bambu Lab Maker's Supply alongside reviewed
-BIGTREETECH, BIQU, Waveshare, Raspberry Pi, and Espressif references and their downloadable design
-assets. Canonical, reviewable JSON records are paired with content-addressed files and
-a generated SQLite catalog.
+BIGTREETECH, BIQU, Waveshare, Raspberry Pi, Espressif, and Noctua references,
+plus generic PC fit references from the FreeCAD Parts Library and Intel's PSU
+design guide. Canonical, reviewable JSON records are paired with content-addressed
+files and a generated SQLite catalog.
 
 The archive covers the official USA, EU, UK, Canada, Australia, Japan, Korea, and
 Asia storefronts. It records links to related MakerWorld projects but does not mirror
@@ -73,6 +74,7 @@ reviewed supplier pilots separately, then rebuild the read-only catalog database
 uv run makersfridge sync --supplier bigtreetech --supplier biqu --resume
 uv run makersfridge sync --supplier waveshare --resume
 uv run makersfridge sync --supplier raspberry-pi --supplier espressif --resume
+uv run makersfridge sync --supplier noctua --supplier freecad-library --supplier generic-pc --resume
 uv run makersfridge build-db
 ```
 
@@ -105,6 +107,21 @@ substituted for its development board, and a non-wireless Pico model is never
 assigned to Pico 2 W. These reference entries have no inferred reseller price,
 stock status, or memory/header variant SKU.
 
+The PC/NAS set adds official Noctua NF-A6x25 PWM (60 mm), NF-A9 PWM (92 mm,
+the requested 90 mm class), NF-A12x25 PWM (120 mm), and NF-A14x25 G2 PWM
+(140 mm) STEP references. Frame size, padded envelope, and mounting-hole pitch
+are separate specifications. Noctua's CAD and original README usage terms are
+retained as restricted manufacturer references for integrating purchased fans.
+See [the fan source review](docs/noctua-source-review.md).
+
+The FreeCAD Parts Library provides generic 2.5-inch SATA (7 mm) and 3.5-inch
+SATA STEP models, pinned to a reviewed commit with CC-BY 3.0 license evidence
+and author attribution. Generic ATX and SFX PSU entries link to Intel's mechanical
+drawings and record body dimensions; they are documentation-only references,
+with no downloadable PSU CAD. All four generic entries have a visible **Generic
+reference** badge and names that retain that distinction in saved lists. Check
+actual hardware and cable/connector clearances before a fit-critical design.
+
 The source manifest's relative JSON includes keep reviewed manufacturer sets
 separate. Included files are confined to the configuration directory; duplicate
 IDs and cyclic includes fail validation. Resume fingerprints cover every included
@@ -116,8 +133,8 @@ applicability, revision, role, source, hash, and license evidence; a public down
 does not establish redistribution permission. Unknown rights remain `unknown`.
 Explicit MIT-style grants use `permissive`; condition-bearing grants use `licensed`
 and retain their license source. Espressif KiCad library models retain their
-CC-BY-SA 4.0 notice and KiCad exception. Included ZIP `LICENSE`, `COPYING`, and
-`NOTICE` files are preserved as documents alongside extracted CAD; macOS
+CC-BY-SA 4.0 notice and KiCad exception. Included ZIP `LICENSE`, `COPYING`,
+`NOTICE`, and `README` files are preserved as documents alongside extracted CAD; macOS
 AppleDouble files are ignored after archive safety checks.
 Supplier imports write only selected product records, preserving existing Bambu JSON,
 product IDs, and saved references. An incomplete or failed import does not retire

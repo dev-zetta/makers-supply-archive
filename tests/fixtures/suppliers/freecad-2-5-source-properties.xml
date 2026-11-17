@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FreeCADSourceExcerpt source="Computing/Storage/HDD/2-5inch-Disk-Drive-7mm-SATA.fcstd" commit="f5ca01cdcaa2f69b9295a6382719c2d90628780c">
+  <Properties Count="14">
+    <Property name="Comment" type="App::PropertyString">
+      <String value="" />
+    </Property>
+    <Property name="Company" type="App::PropertyString">
+      <String value="" />
+    </Property>
+    <Property name="CreatedBy" type="App::PropertyString">
+      <String value="" />
+    </Property>
+    <Property name="CreationDate" type="App::PropertyString">
+      <String value="Tue Feb 24 19:44:44 2015&#10;" />
+    </Property>
+    <Property name="FileName" type="App::PropertyString">
+      <String value="/home/florent/.FreeCAD/FreeCAD-library/Electrical Parts/electronic-components/HDD/2-5inch-Disk-Drive-7mm-SATA.fcstd" />
+    </Property>
+    <Property name="Id" type="App::PropertyString">
+      <String value="" />
+    </Property>
+    <Property name="Label" type="App::PropertyString">
+      <String value="2-5inch-Disk-Drive-7mm-SATA" />
+    </Property>
+    <Property name="LastModifiedBy" type="App::PropertyString">
+      <String value="" />
+    </Property>
+    <Property name="LastModifiedDate" type="App::PropertyString">
+      <String value="Thu Mar  5 23:28:52 2015&#10;" />
+    </Property>
+    <Property name="License" type="App::PropertyString">
+      <String value="CC-BY 3.0" />
+    </Property>
+    <Property name="LicenseURL" type="App::PropertyString">
+      <String value="http://creativecommons.org/licenses/by/3.0/" />
+    </Property>
+    <Property name="Material" type="App::PropertyMap">
+      <Map count="0">
+			</Map>
+    </Property>
+    <Property name="Meta" type="App::PropertyMap">
+      <Map count="0">
+			</Map>
+    </Property>
+    <Property name="Uid" type="App::PropertyUUID">
+      <Uuid value="6337ea83-6ec6-4d5f-a12b-7d48263fdaeb" />
+    </Property>
+  </Properties>
+  <Object name="Sketch">
+    <Properties Count="7">
+      <Property name="Constraints" type="Sketcher::PropertyConstraintList">
+        <ConstraintList count="11">
+          <Constrain Name="" Type="1" Value="0.000000000000" First="0" FirstPos="2" Second="1" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10.000000000000" LabelPosition="0.000000000000" />
+          <Constrain Name="" Type="1" Value="0.000000000000" First="1" FirstPos="2" Second="2" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10.000000000000" LabelPosition="0.000000000000" />
+          <Constrain Name="" Type="1" Value="0.000000000000" First="2" FirstPos="2" Second="3" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10.000000000000" LabelPosition="0.000000000000" />
+          <Constrain Name="" Type="1" Value="0.000000000000" First="3" FirstPos="2" Second="0" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10.000000000000" LabelPosition="0.000000000000" />
+          <Constrain Name="" Type="2" Value="0.000000000000" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10.000000000000" LabelPosition="0.000000000000" />
+          <Constrain Name="" Type="2" Value="0.000000000000" First="2" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10.000000000000" LabelPosition="0.000000000000" />
+          <Constrain Name="" Type="3" Value="0.000000000000" First="1" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10.000000000000" LabelPosition="0.000000000000" />
+          <Constrain Name="" Type="3" Value="0.000000000000" First="3" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10.000000000000" LabelPosition="0.000000000000" />
+          <Constrain Name="" Type="1" Value="0.000000000000" First="0" FirstPos="1" Second="-1" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10.000000000000" LabelPosition="0.000000000000" />
+          <Constrain Name="" Type="8" Value="-69.850000000000" First="-1" FirstPos="1" Second="2" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="9.568003654480" LabelPosition="0.000000000000" />
+          <Constrain Name="" Type="7" Value="100.450000000000" First="-1" FirstPos="1" Second="0" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="9.568003654480" LabelPosition="0.000000000000" />
+        </ConstraintList>
+      </Property>
+      <Property name="ExternalGeometry" type="App::PropertyLinkSubList">
+        <LinkSubList count="0">
+					</LinkSubList>
+      </Property>
+      <Property name="Geometry" type="Part::PropertyGeometryList">
+        <GeometryList count="4">
+          <Geometry type="Part::GeomLineSegment">
+            <Construction value="0" />
+            <LineSegment StartX="0.000000000000" StartY="0.000000000000" StartZ="0.000000000000" EndX="100.450000000000" EndY="0.000000000000" EndZ="0.000000000000" />
+          </Geometry>
+          <Geometry type="Part::GeomLineSegment">
+            <Construction value="0" />
+            <LineSegment StartX="100.450000000000" StartY="0.000000000000" StartZ="0.000000000000" EndX="100.450000000000" EndY="-69.850000000000" EndZ="0.000000000000" />
+          </Geometry>
+          <Geometry type="Part::GeomLineSegment">
+            <Construction value="0" />
+            <LineSegment StartX="100.450000000000" StartY="-69.850000000000" StartZ="0.000000000000" EndX="0.000000000000" EndY="-69.850000000000" EndZ="0.000000000000" />
+          </Geometry>
+          <Geometry type="Part::GeomLineSegment">
+            <Construction value="0" />
+            <LineSegment StartX="0.000000000000" StartY="-69.850000000000" StartZ="0.000000000000" EndX="0.000000000000" EndY="0.000000000000" EndZ="0.000000000000" />
+          </Geometry>
+        </GeometryList>
+      </Property>
+      <Property name="Label" type="App::PropertyString">
+        <String value="Sketch" />
+      </Property>
+      <Property name="Placement" type="App::PropertyPlacement">
+        <PropertyPlacement Px="0.000000000000" Py="0.000000000000" Pz="0.000000000000" Q0="0.000000000000" Q1="0.000000000000" Q2="0.000000000000" Q3="1.000000000000" />
+      </Property>
+      <Property name="Shape" type="Part::PropertyPartShape">
+        <Part file="PartShape.brp" />
+      </Property>
+      <Property name="Support" type="App::PropertyLinkSub">
+        <LinkSub value="" count="0">
+					</LinkSub>
+      </Property>
+    </Properties>
+  </Object>
+  <Object name="Pad">
+    <Properties Count="11">
+      <Property name="AddShape" type="Part::PropertyPartShape">
+        <Part file="PartShape1.brp" />
+      </Property>
+      <Property name="Label" type="App::PropertyString">
+        <String value="Pad" />
+      </Property>
+      <Property name="Length" type="App::PropertyLength">
+        <Float value="7.000000000000" />
+      </Property>
+      <Property name="Length2" type="App::PropertyLength">
+        <Float value="4.500000000000" />
+      </Property>
+      <Property name="Midplane" type="App::PropertyBool">
+        <Bool value="false" />
+      </Property>
+      <Property name="Placement" type="App::PropertyPlacement">
+        <PropertyPlacement Px="0.000000000000" Py="0.000000000000" Pz="0.000000000000" Q0="0.000000000000" Q1="0.000000000000" Q2="0.000000000000" Q3="1.000000000000" />
+      </Property>
+      <Property name="Reversed" type="App::PropertyBool">
+        <Bool value="false" />
+      </Property>
+      <Property name="Shape" type="Part::PropertyPartShape">
+        <Part file="PartShape2.brp" />
+      </Property>
+      <Property name="Sketch" type="App::PropertyLink">
+        <Link value="Sketch" />
+      </Property>
+      <Property name="Type" type="App::PropertyEnumeration">
+        <Integer value="0" />
+      </Property>
+      <Property name="UpToFace" type="App::PropertyLinkSub">
+        <LinkSub value="" count="0">
+					</LinkSub>
+      </Property>
+    </Properties>
+  </Object>
+</FreeCADSourceExcerpt>

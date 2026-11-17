@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-11-17",
+  "notes": "Four exact Noctua PWM manufacturer references for PC/NAS enclosure integration. NF-A9 is an actual 92 mm fan in the requested 90 mm class. Nominal frame, padded envelope and mounting-hole pitch are recorded independently from official specifications. Public STEP archives retain source usage terms; CAD is restricted, not open licensed. No commercial offers, reseller SKUs or current hardware revisions are inferred.",
+  "products": [
+    {
+      "id": "noctua-nf-a6x25-pwm",
+      "supplier_id": "noctua",
+      "manufacturer": "Noctua",
+      "name": "Noctua NF-A6x25 PWM (60 mm)",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.noctua.at/en/products/nf-a6x25-pwm",
+      "documentation_urls": [
+        "https://www.noctua.at/en/products/nf-a6x25-pwm/specifications",
+        "https://www.noctua.at/en/products/nf-a6x25-pwm/downloads",
+        "https://www.noctua.at/en/3d-cad-models"
+      ],
+      "categories": [
+        "pc-components",
+        "cooling"
+      ],
+      "tags": [
+        "pc",
+        "nas",
+        "fan",
+        "pwm",
+        "manufacturer-reference",
+        "60mm"
+      ],
+      "part_numbers": [
+        "NF-A6x25 PWM"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "description": "60 mm Noctua 12 V, 4-pin PWM fan manufacturer reference for PC and DIY NAS enclosure design. Public STEP CAD is supplied for reference, visualization and integration only. Noctua prohibits manufacture, reproduction or commercialization of the represented fan or substantially similar products; do not use these models for performance simulations or 3D printing. Retain the original ZIP README and consult the linked CAD policy.",
+      "specifications": {
+        "Reference type": "Manufacturer CAD reference",
+        "Frame dimensions (without pads)": "60 x 60 x 25 mm",
+        "Dimensions (with pads)": "60 x 60 x 26 mm",
+        "Mounting hole spacing": "50 x 50 mm",
+        "Rated voltage": "12 V",
+        "Connector": "4-pin PWM",
+        "CAD representation": "Official public STEP; simplified impeller and internal geometry",
+        "CAD terms": "Restricted to reference, visualization and integration; see original README and Noctua policy"
+      },
+      "compatibility_notes": "Manufacturer CAD for enclosure integration around the purchased fan. The public model represents mounting and external dimensions; impeller and internal frame geometry are deliberately simplified. It is not a production model or a performance-simulation model. Nominal frame size excludes anti-vibration pads; allow the separately listed padded envelope and confirm the physical installation, gasket, fasteners, cable routing and connector clearance. The model filename does not establish the current physical hardware revision. No live price or stock is inferred.",
+      "review_status": "reviewed-manufacturer-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://cdn.noctua.at/media/55f50131/NF-A6x25_Public-CAD.zip?download=true",
+          "filename": "NF-A6x25_Public-CAD.zip",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "restricted",
+          "license_url": "https://www.noctua.at/en/3d-cad-models",
+          "compatibility_notes": "Manufacturer reference with modified internal geometry. The archive includes original README.txt usage terms. Reference, visualization and integration only; no performance simulation, 3D printing, or reproduction of represented/similar products."
+        }
+      ]
+    },
+    {
+      "id": "noctua-nf-a9-pwm",
+      "supplier_id": "noctua",
+      "manufacturer": "Noctua",
+      "name": "Noctua NF-A9 PWM (92 mm)",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.noctua.at/en/products/nf-a9-pwm",
+      "documentation_urls": [
+        "https://www.noctua.at/en/products/nf-a9-pwm/specifications",
+        "https://www.noctua.at/en/products/nf-a9-pwm/downloads",
+        "https://www.noctua.at/en/3d-cad-models"
+      ],
+      "categories": [
+        "pc-components",
+        "cooling"
+      ],
+      "tags": [
+        "pc",
+        "nas",
+        "fan",
+        "pwm",
+        "manufacturer-reference",
+        "92mm"
+      ],
+      "part_numbers": [
+        "NF-A9 PWM"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "description": "92 mm Noctua 12 V, 4-pin PWM fan manufacturer reference for PC and DIY NAS enclosure design. Public STEP CAD is supplied for reference, visualization and integration only. Noctua prohibits manufacture, reproduction or commercialization of the represented fan or substantially similar products; do not use these models for performance simulations or 3D printing. Retain the original ZIP README and consult the linked CAD policy.",
+      "specifications": {
+        "Reference type": "Manufacturer CAD reference",
+        "Frame dimensions (without pads)": "92 x 92 x 25 mm",
+        "Dimensions (with pads)": "93 x 93 x 27 mm",
+        "Mounting hole spacing": "82.5 x 82.5 mm",
+        "Rated voltage": "12 V",
+        "Connector": "4-pin PWM",
+        "CAD representation": "Official public STEP; simplified impeller and internal geometry",
+        "CAD terms": "Restricted to reference, visualization and integration; see original README and Noctua policy"
+      },
+      "compatibility_notes": "Manufacturer CAD for enclosure integration around the purchased fan. The public model represents mounting and external dimensions; impeller and internal frame geometry are deliberately simplified. It is not a production model or a performance-simulation model. Nominal frame size excludes anti-vibration pads; allow the separately listed padded envelope and confirm the physical installation, gasket, fasteners, cable routing and connector clearance. The model filename does not establish the current physical hardware revision. No live price or stock is inferred. The requested 90 mm class is represented by Noctua NF-A9 PWM: its actual frame is 92 mm, not a 90 mm frame.",
+      "review_status": "reviewed-manufacturer-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://cdn.noctua.at/media/ebe9bb51/NF-A9_Public-CAD.zip?download=true",
+          "filename": "NF-A9_Public-CAD.zip",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "restricted",
+          "license_url": "https://www.noctua.at/en/3d-cad-models",
+          "compatibility_notes": "Manufacturer reference with modified internal geometry. The archive includes original README.txt usage terms. Reference, visualization and integration only; no performance simulation, 3D printing, or reproduction of represented/similar products."
+        }
+      ]
+    },
+    {
+      "id": "noctua-nf-a12x25-pwm",
+      "supplier_id": "noctua",
+      "manufacturer": "Noctua",
+      "name": "Noctua NF-A12x25 PWM (120 mm)",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.noctua.at/en/products/nf-a12x25-pwm",
+      "documentation_urls": [
+        "https://www.noctua.at/en/products/nf-a12x25-pwm/specifications",
+        "https://www.noctua.at/en/products/nf-a12x25-pwm/downloads",
+        "https://www.noctua.at/en/3d-cad-models"
+      ],
+      "categories": [
+        "pc-components",
+        "cooling"
+      ],
+      "tags": [
+        "pc",
+        "nas",
+        "fan",
+        "pwm",
+        "manufacturer-reference",
+        "120mm"
+      ],
+      "part_numbers": [
+        "NF-A12x25 PWM"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "description": "120 mm Noctua 12 V, 4-pin PWM fan manufacturer reference for PC and DIY NAS enclosure design. Public STEP CAD is supplied for reference, visualization and integration only. Noctua prohibits manufacture, reproduction or commercialization of the represented fan or substantially similar products; do not use these models for performance simulations or 3D printing. Retain the original ZIP README and consult the linked CAD policy.",
+      "specifications": {
+        "Reference type": "Manufacturer CAD reference",
+        "Frame dimensions (without pads)": "120 x 120 x 25 mm",
+        "Dimensions (with pads)": "120 x 120 x 27 mm",
+        "Mounting hole spacing": "105 x 105 mm",
+        "Rated voltage": "12 V",
+        "Connector": "4-pin PWM",
+        "CAD representation": "Official public STEP; simplified impeller and internal geometry",
+        "CAD terms": "Restricted to reference, visualization and integration; see original README and Noctua policy"
+      },
+      "compatibility_notes": "Manufacturer CAD for enclosure integration around the purchased fan. The public model represents mounting and external dimensions; impeller and internal frame geometry are deliberately simplified. It is not a production model or a performance-simulation model. Nominal frame size excludes anti-vibration pads; allow the separately listed padded envelope and confirm the physical installation, gasket, fasteners, cable routing and connector clearance. The model filename does not establish the current physical hardware revision. No live price or stock is inferred.",
+      "review_status": "reviewed-manufacturer-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://cdn.noctua.at/media/a7ebb752/NF-A12x25_Public-CAD.zip?download=true",
+          "filename": "NF-A12x25_Public-CAD.zip",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "restricted",
+          "license_url": "https://www.noctua.at/en/3d-cad-models",
+          "compatibility_notes": "Manufacturer reference with modified internal geometry. The archive includes original README.txt usage terms. Reference, visualization and integration only; no performance simulation, 3D printing, or reproduction of represented/similar products."
+        }
+      ]
+    },
+    {
+      "id": "noctua-nf-a14x25-g2-pwm",
+      "supplier_id": "noctua",
+      "manufacturer": "Noctua",
+      "name": "Noctua NF-A14x25 G2 PWM (140 mm)",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://www.noctua.at/en/products/nf-a14x25-g2-pwm",
+      "documentation_urls": [
+        "https://www.noctua.at/en/products/nf-a14x25-g2-pwm/specifications",
+        "https://www.noctua.at/en/products/nf-a14x25-g2-pwm/downloads",
+        "https://www.noctua.at/en/3d-cad-models"
+      ],
+      "categories": [
+        "pc-components",
+        "cooling"
+      ],
+      "tags": [
+        "pc",
+        "nas",
+        "fan",
+        "pwm",
+        "manufacturer-reference",
+        "140mm"
+      ],
+      "part_numbers": [
+        "NF-A14x25 G2 PWM"
+      ],
+      "skus": [],
+      "selected_skus": [],
+      "description": "140 mm Noctua 12 V, 4-pin PWM fan manufacturer reference for PC and DIY NAS enclosure design. Public STEP CAD is supplied for reference, visualization and integration only. Noctua prohibits manufacture, reproduction or commercialization of the represented fan or substantially similar products; do not use these models for performance simulations or 3D printing. Retain the original ZIP README and consult the linked CAD policy.",
+      "specifications": {
+        "Reference type": "Manufacturer CAD reference",
+        "Frame dimensions (without pads)": "140 x 140 x 25 mm",
+        "Dimensions (with pads)": "140 x 140 x 27 mm",
+        "Mounting hole spacing": "124.5 x 124.5 mm",
+        "Rated voltage": "12 V",
+        "Connector": "4-pin PWM",
+        "CAD representation": "Official public STEP; simplified impeller and internal geometry",
+        "CAD terms": "Restricted to reference, visualization and integration; see original README and Noctua policy"
+      },
+      "compatibility_notes": "Manufacturer CAD for enclosure integration around the purchased fan. The public model represents mounting and external dimensions; impeller and internal frame geometry are deliberately simplified. It is not a production model or a performance-simulation model. Nominal frame size excludes anti-vibration pads; allow the separately listed padded envelope and confirm the physical installation, gasket, fasteners, cable routing and connector clearance. The model filename does not establish the current physical hardware revision. No live price or stock is inferred.",
+      "review_status": "reviewed-manufacturer-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://cdn.noctua.at/media/aebef570/NF-A14x25_G2_Public-CAD.zip?download=true",
+          "filename": "NF-A14x25_G2_Public-CAD.zip",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "rights_status": "restricted",
+          "license_url": "https://www.noctua.at/en/3d-cad-models",
+          "compatibility_notes": "Manufacturer reference with modified internal geometry. The archive includes original README.txt usage terms. Reference, visualization and integration only; no performance simulation, 3D printing, or reproduction of represented/similar products."
+        }
+      ]
+    }
+  ]
+}

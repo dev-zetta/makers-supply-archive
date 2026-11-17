@@ -1,0 +1,115 @@
+{
+  "reviewed_at": "2026-11-17",
+  "cad_policy_url": "https://www.noctua.at/en/3d-cad-models",
+  "method": "Official product Specifications and Downloads pages; linked ZIPs fetched using ArchiveHttpClient and member STEP headers verified. Nominal frames and padded envelopes are separate measurements.",
+  "products": {
+    "nf-a6x25-pwm": {
+      "part_number": "NF-A6x25 PWM",
+      "specifications_url": "https://www.noctua.at/en/products/nf-a6x25-pwm/specifications",
+      "downloads_url": "https://www.noctua.at/en/products/nf-a6x25-pwm/downloads",
+      "frame": "60 x 60 x 25 mm",
+      "padded": "60 x 60 x 26 mm",
+      "mounting_pitch": "50 x 50 mm",
+      "slug": "nf-a6x25-pwm",
+      "download_url": "https://cdn.noctua.at/media/55f50131/NF-A6x25_Public-CAD.zip?download=true",
+      "zip_size": 489233,
+      "zip_sha256": "85be99b463ad38c31dd175d960814903b9fd74d4254785c4a80126727dff7c62",
+      "members": [
+        {
+          "path": "NF-A6x25_Public-CAD.stp",
+          "size": 2490766,
+          "sha256": "b9870504582b03fc890b45a137fff0725623f733e21457b66372b12169deed65",
+          "step_header": true
+        },
+        {
+          "path": "README.txt",
+          "size": 1950,
+          "sha256": "b303b2622b3ab8e56f804dd67d2984470e61355532d318e6acf913acce367793",
+          "step_header": false
+        }
+      ],
+      "archive_filename": "NF-A6x25_Public-CAD.zip"
+    },
+    "nf-a9-pwm": {
+      "part_number": "NF-A9 PWM",
+      "specifications_url": "https://www.noctua.at/en/products/nf-a9-pwm/specifications",
+      "downloads_url": "https://www.noctua.at/en/products/nf-a9-pwm/downloads",
+      "frame": "92 x 92 x 25 mm",
+      "padded": "93 x 93 x 27 mm",
+      "mounting_pitch": "82.5 x 82.5 mm",
+      "slug": "nf-a9-pwm",
+      "download_url": "https://cdn.noctua.at/media/ebe9bb51/NF-A9_Public-CAD.zip?download=true",
+      "zip_size": 532421,
+      "zip_sha256": "fe35a3b19568944a6cdbb19d1a1706dec03f7c55888063e832a671e5f72e294b",
+      "members": [
+        {
+          "path": "NF-A9_Public-Cad.stp",
+          "size": 2898131,
+          "sha256": "005b877b39f5abd19078b5604675f322951cc021906c3ec9bbaa848eac57609a",
+          "step_header": true
+        },
+        {
+          "path": "README.txt",
+          "size": 1950,
+          "sha256": "b303b2622b3ab8e56f804dd67d2984470e61355532d318e6acf913acce367793",
+          "step_header": false
+        }
+      ],
+      "archive_filename": "NF-A9_Public-CAD.zip"
+    },
+    "nf-a12x25-pwm": {
+      "part_number": "NF-A12x25 PWM",
+      "specifications_url": "https://www.noctua.at/en/products/nf-a12x25-pwm/specifications",
+      "downloads_url": "https://www.noctua.at/en/products/nf-a12x25-pwm/downloads",
+      "frame": "120 x 120 x 25 mm",
+      "padded": "120 x 120 x 27 mm",
+      "mounting_pitch": "105 x 105 mm",
+      "slug": "nf-a12x25-pwm",
+      "download_url": "https://cdn.noctua.at/media/a7ebb752/NF-A12x25_Public-CAD.zip?download=true",
+      "zip_size": 723782,
+      "zip_sha256": "0ab32c8ff9bfd05822c373caf73f8e2e756acb15cf3b0f6c346f9f4288075771",
+      "members": [
+        {
+          "path": "NF-A12x25_Public-CAD.stp",
+          "size": 3551327,
+          "sha256": "e0322f51018f81bbb7aa0614d0412820608b4f7e706baa92b66ca6f0c9f03ed3",
+          "step_header": true
+        },
+        {
+          "path": "README.txt",
+          "size": 1950,
+          "sha256": "b303b2622b3ab8e56f804dd67d2984470e61355532d318e6acf913acce367793",
+          "step_header": false
+        }
+      ],
+      "archive_filename": "NF-A12x25_Public-CAD.zip"
+    },
+    "nf-a14x25-g2-pwm": {
+      "part_number": "NF-A14x25 G2 PWM",
+      "specifications_url": "https://www.noctua.at/en/products/nf-a14x25-g2-pwm/specifications",
+      "downloads_url": "https://www.noctua.at/en/products/nf-a14x25-g2-pwm/downloads",
+      "frame": "140 x 140 x 25 mm",
+      "padded": "140 x 140 x 27 mm",
+      "mounting_pitch": "124.5 x 124.5 mm",
+      "slug": "nf-a14x25-g2-pwm",
+      "download_url": "https://cdn.noctua.at/media/aebef570/NF-A14x25_G2_Public-CAD.zip?download=true",
+      "zip_size": 1012945,
+      "zip_sha256": "05d4fa25957392937a15657a399c0aa6facf6054c5df8c45bbffb7c76badb64d",
+      "members": [
+        {
+          "path": "NF-A14x25_G2_Public-CAD.stp",
+          "size": 5249831,
+          "sha256": "3223593f56a5281d154e0ae86c28aeacee1e30be123195b05b52bf1da7439796",
+          "step_header": true
+        },
+        {
+          "path": "README.txt",
+          "size": 1950,
+          "sha256": "b303b2622b3ab8e56f804dd67d2984470e61355532d318e6acf913acce367793",
+          "step_header": false
+        }
+      ],
+      "archive_filename": "NF-A14x25_G2_Public-CAD.zip"
+    }
+  }
+}

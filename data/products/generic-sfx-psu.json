@@ -1,0 +1,87 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/reduced-depth-top-mount-fan-physical/",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "generic-pc"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "pc-components"
+  ],
+  "category_assignments": [
+    {
+      "id": "pc-components",
+      "label": "Pc-Components",
+      "path": [
+        "Pc-Components"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/reduced-depth-top-mount-fan-physical/"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Generic 125 x 100 x 63.5 mm SFX body reference for compact-case planning. The linked Intel reduced-depth package drawing supplies the mechanical context; no exact vendor PSU is represented.\n\nGeneric documentation reference, not manufacturer-certified fit geometry. This 125 mm wide, 100 mm deep body must not be substituted for SFX-L or other SFX package profiles. Intel's illustrated fan projection is outside the body dimensions. Verify the selected PSU's mounting-hole locations, complete fan/grille envelope, connector and switch layout, cable bend space, and ventilation before designing a printed case. No wattage, electrical conformity, exact SKU, price, or inventory stock is inferred."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Generic 125 x 100 x 63.5 mm SFX body reference for compact-case planning. The linked Intel reduced-depth package drawing supplies the mechanical context; no exact vendor PSU is represented.\n\nGeneric documentation reference, not manufacturer-certified fit geometry. This 125 mm wide, 100 mm deep body must not be substituted for SFX-L or other SFX package profiles. Intel's illustrated fan projection is outside the body dimensions. Verify the selected PSU's mounting-hole locations, complete fan/grille envelope, connector and switch layout, cable bend space, and ventilation before designing a printed case. No wattage, electrical conformity, exact SKU, price, or inventory stock is inferred.",
+  "first_seen": "2026-11-17T04:45:04Z",
+  "id": "generic-sfx-psu",
+  "last_seen": "2026-11-17T04:45:04Z",
+  "manufacturer": "Generic reference",
+  "measurements": [],
+  "name": "Generic SFX PSU reference",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/reduced-depth-top-mount-fan-physical/"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/fan-requirements-required_2/"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/sfx12v-specific-guidelines-4-1/"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "CAD coverage": "Documentation only; no CAD model attached",
+    "Clearance coverage": "Body reference only; connector, cable bend, inlet, switch, fan and airflow clearances must be designed separately",
+    "Dimension source": "Intel guide 2.1a, SFX12V 4.1, Figure 14-6",
+    "Form factor": "SFX12V; 125 mm rear-face width, reduced-depth body",
+    "Guide profile limitation": "The illustrated top-mount fan projects 17 mm beyond the 63.5 mm body; inspect the chosen PSU's complete envelope",
+    "Mounting reference": "Three No. 6-32 UNC-2B holes in the linked package drawing; verify the chosen PSU",
+    "Reference body (width x depth x height)": "125 x 100 x 63.5 mm",
+    "Reference type": "Generic form-factor reference",
+    "Source review": "documentation-only"
+  },
+  "supplier_id": "generic-pc",
+  "tags": [
+    "generic-pc",
+    "generic-reference",
+    "pc",
+    "nas",
+    "power-supply",
+    "sfx"
+  ],
+  "variants": []
+}

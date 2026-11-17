@@ -1,0 +1,158 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.noctua.at/en/products/nf-a14x25-g2-pwm",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "noctua"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/05/05d4fa25957392937a15657a399c0aa6facf6054c5df8c45bbffb7c76badb64d.zip",
+      "id": "archive-447b9e6682de55a1163b",
+      "kind": "archive",
+      "license_url": "https://www.noctua.at/en/3d-cad-models",
+      "media_type": "application/zip",
+      "original_filename": "NF-A14x25_G2_Public-CAD.zip",
+      "retrieved_at": "2026-11-17T04:45:04Z",
+      "rights_status": "restricted",
+      "role": "component",
+      "sha256": "05d4fa25957392937a15657a399c0aa6facf6054c5df8c45bbffb7c76badb64d",
+      "size": 1012945,
+      "source_url": "https://cdn.noctua.at/media/aebef570/NF-A14x25_G2_Public-CAD.zip?download=true"
+    },
+    {
+      "applies_to_skus": [],
+      "archive_member_path": "NF-A14x25_G2_Public-CAD.stp",
+      "blob_path": "data/blobs/sha256/32/3223593f56a5281d154e0ae86c28aeacee1e30be123195b05b52bf1da7439796.stp",
+      "id": "model-ec00ad2683fbcd5a1166",
+      "kind": "model",
+      "license_url": "https://www.noctua.at/en/3d-cad-models",
+      "media_type": "application/p21",
+      "original_filename": "NF-A14x25_G2_Public-CAD.stp",
+      "parent_asset_id": "archive-447b9e6682de55a1163b",
+      "retrieved_at": "2026-11-17T04:45:04Z",
+      "rights_status": "restricted",
+      "role": "component",
+      "sha256": "3223593f56a5281d154e0ae86c28aeacee1e30be123195b05b52bf1da7439796",
+      "size": 5249831,
+      "source_url": "https://cdn.noctua.at/media/aebef570/NF-A14x25_G2_Public-CAD.zip?download=true"
+    },
+    {
+      "applies_to_skus": [],
+      "archive_member_path": "README.txt",
+      "blob_path": "data/blobs/sha256/b3/b303b2622b3ab8e56f804dd67d2984470e61355532d318e6acf913acce367793.txt",
+      "id": "document-966ee32a32a44a40ed80",
+      "kind": "document",
+      "license_url": "https://www.noctua.at/en/3d-cad-models",
+      "media_type": "text/plain",
+      "original_filename": "README.txt",
+      "parent_asset_id": "archive-447b9e6682de55a1163b",
+      "retrieved_at": "2026-11-17T04:45:04Z",
+      "rights_status": "restricted",
+      "role": "document",
+      "sha256": "b303b2622b3ab8e56f804dd67d2984470e61355532d318e6acf913acce367793",
+      "size": 1950,
+      "source_url": "https://cdn.noctua.at/media/aebef570/NF-A14x25_G2_Public-CAD.zip?download=true"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "pc-components",
+    "cooling"
+  ],
+  "category_assignments": [
+    {
+      "id": "pc-components",
+      "label": "Pc-Components",
+      "path": [
+        "Pc-Components"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.noctua.at/en/products/nf-a14x25-g2-pwm"
+      }
+    },
+    {
+      "id": "cooling",
+      "label": "Cooling",
+      "path": [
+        "Cooling"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.noctua.at/en/products/nf-a14x25-g2-pwm"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "140 mm Noctua 12 V, 4-pin PWM fan manufacturer reference for PC and DIY NAS enclosure design. Public STEP CAD is supplied for reference, visualization and integration only. Noctua prohibits manufacture, reproduction or commercialization of the represented fan or substantially similar products; do not use these models for performance simulations or 3D printing. Retain the original ZIP README and consult the linked CAD policy.\n\nManufacturer CAD for enclosure integration around the purchased fan. The public model represents mounting and external dimensions; impeller and internal frame geometry are deliberately simplified. It is not a production model or a performance-simulation model. Nominal frame size excludes anti-vibration pads; allow the separately listed padded envelope and confirm the physical installation, gasket, fasteners, cable routing and connector clearance. The model filename does not establish the current physical hardware revision. No live price or stock is inferred."
+    }
+  ],
+  "description_html": "",
+  "description_text": "140 mm Noctua 12 V, 4-pin PWM fan manufacturer reference for PC and DIY NAS enclosure design. Public STEP CAD is supplied for reference, visualization and integration only. Noctua prohibits manufacture, reproduction or commercialization of the represented fan or substantially similar products; do not use these models for performance simulations or 3D printing. Retain the original ZIP README and consult the linked CAD policy.\n\nManufacturer CAD for enclosure integration around the purchased fan. The public model represents mounting and external dimensions; impeller and internal frame geometry are deliberately simplified. It is not a production model or a performance-simulation model. Nominal frame size excludes anti-vibration pads; allow the separately listed padded envelope and confirm the physical installation, gasket, fasteners, cable routing and connector clearance. The model filename does not establish the current physical hardware revision. No live price or stock is inferred.",
+  "first_seen": "2026-11-17T04:45:04Z",
+  "id": "noctua-nf-a14x25-g2-pwm",
+  "last_seen": "2026-11-17T04:45:04Z",
+  "manufacturer": "Noctua",
+  "measurements": [],
+  "name": "Noctua NF-A14x25 G2 PWM (140 mm)",
+  "offers": [],
+  "part_numbers": [
+    "NF-A14x25 G2 PWM"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.noctua.at/en/products/nf-a14x25-g2-pwm"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.noctua.at/en/products/nf-a14x25-g2-pwm/specifications"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.noctua.at/en/products/nf-a14x25-g2-pwm/downloads"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.noctua.at/en/3d-cad-models"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "CAD representation": "Official public STEP; simplified impeller and internal geometry",
+    "CAD terms": "Restricted to reference, visualization and integration; see original README and Noctua policy",
+    "Connector": "4-pin PWM",
+    "Dimensions (with pads)": "140 x 140 x 27 mm",
+    "Frame dimensions (without pads)": "140 x 140 x 25 mm",
+    "Mounting hole spacing": "124.5 x 124.5 mm",
+    "Rated voltage": "12 V",
+    "Reference type": "Manufacturer CAD reference",
+    "Source review": "reviewed-manufacturer-reference"
+  },
+  "supplier_id": "noctua",
+  "tags": [
+    "noctua",
+    "pc",
+    "nas",
+    "fan",
+    "pwm",
+    "manufacturer-reference",
+    "140mm"
+  ],
+  "variants": []
+}

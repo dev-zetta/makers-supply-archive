@@ -42,7 +42,7 @@
             {% if product.image_id %}<img loading="lazy" decoding="async" src="/assets/{{ product.id }}/{{ product.image_id }}" alt="{{ product.name }}" data-image-fallback><div class="image-placeholder" hidden><span aria-hidden="true">◇</span><span>Image unavailable</span></div>{% else %}<div class="image-placeholder"><span aria-hidden="true">◇</span><span>No image published</span></div>{% endif %}
           </div>
           <div class="card-body">
-            <div class="card-meta"><span class="meta-labels"><span class="eyebrow">{{ product.categories|join(' · ') or 'Uncategorized' }}</span>{% if 'kit' in product.tags %}<span class="type-badge">Kit</span>{% endif %}</span>{% if product.available %}<span class="status available">Available</span>{% elif product.available == 0 %}<span class="status unavailable">Unavailable</span>{% endif %}</div>
+            <div class="card-meta"><span class="meta-labels"><span class="eyebrow">{{ product.categories|join(' · ') or 'Uncategorized' }}</span>{% if 'kit' in product.tags %}<span class="type-badge">Kit</span>{% endif %}{% if 'generic-reference' in product.tags %}<span class="type-badge reference-badge">Generic reference</span>{% endif %}</span>{% if product.available %}<span class="status available">Available</span>{% elif product.available == 0 %}<span class="status unavailable">Unavailable</span>{% endif %}</div>
             <p class="supplier-label">{{ product.supplier_label }}{% if product.hardware_revision %} · {{ product.hardware_revision }}{% endif %}</p>
             <h3>{{ product.name }}</h3>
             <p class="muted clamp">{{ product.description_text }}</p>

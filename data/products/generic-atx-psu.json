@@ -1,0 +1,82 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/atx12v-specific-guidelines-3-1/",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "generic-pc"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "pc-components"
+  ],
+  "category_assignments": [
+    {
+      "id": "pc-components",
+      "label": "Pc-Components",
+      "path": [
+        "Pc-Components"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/atx12v-specific-guidelines-3-1/"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Generic ATX case-planning reference based on Intel's mechanical outline. This is a form-factor reference rather than an exact power-supply product.\n\nGeneric documentation reference, not manufacturer-certified fit geometry. The 140 mm reference depth is not a universal ATX PSU depth. Verify the selected PSU's actual body, mounting-hole locations, fan/grille projections, connector and switch layout, cable bend space, and ventilation before designing a printed case. No wattage, electrical conformity, exact SKU, price, or inventory stock is inferred."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Generic ATX case-planning reference based on Intel's mechanical outline. This is a form-factor reference rather than an exact power-supply product.\n\nGeneric documentation reference, not manufacturer-certified fit geometry. The 140 mm reference depth is not a universal ATX PSU depth. Verify the selected PSU's actual body, mounting-hole locations, fan/grille projections, connector and switch layout, cable bend space, and ventilation before designing a printed case. No wattage, electrical conformity, exact SKU, price, or inventory stock is inferred.",
+  "first_seen": "2026-11-17T04:45:04Z",
+  "id": "generic-atx-psu",
+  "last_seen": "2026-11-17T04:45:04Z",
+  "manufacturer": "Generic reference",
+  "measurements": [],
+  "name": "Generic ATX PSU reference",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/atx12v-specific-guidelines-3-1/"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "CAD coverage": "Documentation only; no CAD model attached",
+    "Clearance coverage": "Body reference only; connector, cable bend, inlet, switch, fan and airflow clearances must be designed separately",
+    "Dimension source": "Intel guide 2.1a, ATX12V 3.1, Figure 13-1",
+    "Form factor": "ATX12V",
+    "Mounting reference": "Four No. 6-32 UNC-2B holes; use the linked drawing and chosen PSU to locate them",
+    "Rear face (width x height)": "150 x 86 mm (reference dimensions)",
+    "Reference body depth": "140 mm; actual product depths vary",
+    "Reference type": "Generic form-factor reference",
+    "Source review": "documentation-only"
+  },
+  "supplier_id": "generic-pc",
+  "tags": [
+    "generic-pc",
+    "generic-reference",
+    "pc",
+    "nas",
+    "power-supply",
+    "atx"
+  ],
+  "variants": []
+}

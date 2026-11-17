@@ -275,6 +275,10 @@ class AssetStore:
                     "copying.txt",
                     "notice",
                     "notice.txt",
+                    # Manufacturer usage conditions can be shipped as a README.
+                    "readme",
+                    "readme.txt",
+                    "readme.md",
                 }
                 if (
                     member.is_dir()

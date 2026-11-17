@@ -1,0 +1,129 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/3-5inch-Disk-Drive-SATA.step",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "freecad-library"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/6a/6a921d4e91bdb31c0b8fbe03a902bc6e787a1e79c3493c0623740b14d652c4ad.step",
+      "id": "model-6263abf62cbf6cf11795",
+      "kind": "model",
+      "license_url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/LICENSE-Assets",
+      "media_type": "application/p21",
+      "original_filename": "3-5inch-Disk-Drive-SATA.step",
+      "retrieved_at": "2026-11-17T04:45:04Z",
+      "rights_status": "licensed",
+      "role": "component",
+      "sha256": "6a921d4e91bdb31c0b8fbe03a902bc6e787a1e79c3493c0623740b14d652c4ad",
+      "size": 117560,
+      "source_commit": "f5ca01cdcaa2f69b9295a6382719c2d90628780c",
+      "source_path": "Computing/Storage/HDD/3-5inch-Disk-Drive-SATA.step",
+      "source_repository": "https://github.com/FreeCAD/FreeCAD-library",
+      "source_url": "https://raw.githubusercontent.com/FreeCAD/FreeCAD-library/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/3-5inch-Disk-Drive-SATA.step"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/f1/f14f4d7cf4bf40f8f589b6b461a110d849031e2e43958235e018b3763e54b859.txt",
+      "id": "document-9ec2f2f9f57146de7f64",
+      "kind": "document",
+      "license_url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/LICENSE-Assets",
+      "media_type": "text/plain",
+      "original_filename": "FreeCAD-Parts-Library-LICENSE-Assets.txt",
+      "retrieved_at": "2026-11-17T04:45:04Z",
+      "rights_status": "licensed",
+      "role": "document",
+      "sha256": "f14f4d7cf4bf40f8f589b6b461a110d849031e2e43958235e018b3763e54b859",
+      "size": 20620,
+      "source_commit": "f5ca01cdcaa2f69b9295a6382719c2d90628780c",
+      "source_path": "LICENSE-Assets",
+      "source_repository": "https://github.com/FreeCAD/FreeCAD-library",
+      "source_url": "https://raw.githubusercontent.com/FreeCAD/FreeCAD-library/f5ca01cdcaa2f69b9295a6382719c2d90628780c/LICENSE-Assets"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "storage"
+  ],
+  "category_assignments": [
+    {
+      "id": "storage",
+      "label": "Storage",
+      "path": [
+        "Storage"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/3-5inch-Disk-Drive-SATA.step"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Generic 3.5-inch SATA drive reference from the FreeCAD Parts Library, not a manufacturer product. Model by Артём, licensed CC-BY-3.0; unchanged source geometry. Verify fit against the chosen drive before designing a printed tray or enclosure.\n\nCommunity geometry by Артём, not a manufacturer model or a certification of any particular drive. The source model body is 147 x 102 x 26.1 mm (length x width x height); these are model dimensions, not universal form-factor limits. Mounting holes, SATA connector position, cable bend space and operating clearances must be verified against the chosen physical drive and its manufacturer drawing. Model geometry is retained unchanged; CC-BY-3.0 attribution and the source asset license accompany it. Its 102 mm model width must not be read as the standard width or a fit guarantee. The source FCStd metadata says All rights reserved, while the reviewed repository LICENSE-Assets explicitly covers this exported STEP under CC-BY-3.0; that repository license is the recorded license evidence."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Generic 3.5-inch SATA drive reference from the FreeCAD Parts Library, not a manufacturer product. Model by Артём, licensed CC-BY-3.0; unchanged source geometry. Verify fit against the chosen drive before designing a printed tray or enclosure.\n\nCommunity geometry by Артём, not a manufacturer model or a certification of any particular drive. The source model body is 147 x 102 x 26.1 mm (length x width x height); these are model dimensions, not universal form-factor limits. Mounting holes, SATA connector position, cable bend space and operating clearances must be verified against the chosen physical drive and its manufacturer drawing. Model geometry is retained unchanged; CC-BY-3.0 attribution and the source asset license accompany it. Its 102 mm model width must not be read as the standard width or a fit guarantee. The source FCStd metadata says All rights reserved, while the reviewed repository LICENSE-Assets explicitly covers this exported STEP under CC-BY-3.0; that repository license is the recorded license evidence.",
+  "first_seen": "2026-11-17T04:45:04Z",
+  "id": "freecad-generic-drive-3-5-inch",
+  "last_seen": "2026-11-17T04:45:04Z",
+  "manufacturer": "Generic reference",
+  "measurements": [],
+  "name": "Generic 3.5-inch SATA drive",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/3-5inch-Disk-Drive-SATA.step"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/LICENSE-Assets"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/FreeCAD/FreeCAD-library/commit/d60afebc96d60e7dbf5a5b5bcbe09ca4410bbf9e"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/3-5inch-Disk-Drive-SATA.fcstd"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Attribution": "3-5inch-Disk-Drive-SATA.step by Артём; FreeCAD Parts Library; CC-BY-3.0; unchanged STEP; https://github.com/FreeCAD/FreeCAD-library/blob/f5ca01cdcaa2f69b9295a6382719c2d90628780c/Computing/Storage/HDD/3-5inch-Disk-Drive-SATA.step",
+    "CAD license": "CC-BY-3.0 (FreeCAD Parts Library LICENSE-Assets)",
+    "CAD representation": "3D STEP",
+    "Form factor": "3.5-inch SATA",
+    "Model author": "Артём",
+    "Model body dimensions (L x W x H)": "147 x 102 x 26.1 mm",
+    "Reference type": "Generic community model",
+    "Source review": "reviewed-generic-reference"
+  },
+  "supplier_id": "freecad-library",
+  "tags": [
+    "freecad-library",
+    "generic-reference",
+    "pc",
+    "nas",
+    "sata",
+    "storage",
+    "drive"
+  ],
+  "variants": []
+}

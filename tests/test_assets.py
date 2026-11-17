@@ -58,9 +58,12 @@ def test_ingest_deduplicates_and_extracts_supported_models(tmp_path: Path) -> No
         client.close()
     assert stored.blob_path and (tmp_path / stored.blob_path).is_file()
     assert stat.S_IMODE((tmp_path / stored.blob_path).stat().st_mode) == 0o644
-    assert len(extracted) == 1
+    assert len(extracted) == 2
     assert extracted[0].archive_member_path == "CAD/board.step"
     assert extracted[0].parent_asset_id == stored.id
+    assert extracted[1].archive_member_path == "readme.txt"
+    assert extracted[1].kind == AssetKind.DOCUMENT
+    assert extracted[1].role == "document"
 
 
 def test_ingest_reuses_verified_completed_download(tmp_path: Path) -> None:

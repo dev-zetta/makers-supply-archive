@@ -7,4 +7,7 @@ SUPPLIERS = {
     "waveshare": "Waveshare",
     "raspberry-pi": "Raspberry Pi",
     "espressif": "Espressif Systems",
+    "noctua": "Noctua",
+    "freecad-library": "FreeCAD Parts Library",
+    "generic-pc": "Generic PC references",
 }

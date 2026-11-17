@@ -73,6 +73,39 @@ test("finds Raspberry Pi boards and ESP32 parts across manufacturers", async ({ 
   await expect(page.locator(".product-card .supplier-label").filter({ hasText: "Espressif Systems" }).first()).toBeVisible();
 });
 
+test("distinguishes generic PC references from exact Noctua fan models", async ({ page }) => {
+  await page.getByLabel("Supplier", { exact: true }).selectOption("noctua");
+  await expect(page.locator(".product-card")).toHaveCount(4);
+  await expect(page.getByRole("heading", { name: "Noctua NF-A9 PWM (92 mm)", exact: true })).toBeVisible();
+  await expect(page.locator(".product-card .reference-badge")).toHaveCount(0);
+  await page.getByLabel("Supplier", { exact: true }).selectOption("freecad-library");
+  await expect(page.locator(".product-card")).toHaveCount(2);
+  for (const badge of await page.locator(".product-card .reference-badge").all()) {
+    await expect(badge).toBeVisible();
+    await expect(badge).toHaveText("Generic reference");
+  }
+  await page.getByRole("heading", { name: "Generic 2.5-inch SATA drive (7 mm)", exact: true }).click();
+  await expect(page.locator(".product-heading .reference-badge")).toBeVisible();
+  await expect(page.locator(".reference-note")).toContainText("Verify the actual part");
+  await expect(page.locator(".product-heading")).toContainText("MrFreez");
+  await page.locator("a.brand").click();
+  await page.getByLabel("Supplier", { exact: true }).selectOption("generic-pc");
+  await expect(page.locator(".product-card")).toHaveCount(2);
+  await page.getByRole("heading", { name: "Generic SFX PSU reference", exact: true }).click();
+  await expect(page.locator(".product-heading .reference-badge")).toBeVisible();
+  await expect(page.getByText("Documentation only; no CAD model attached", { exact: true })).toBeVisible();
+  await expect(page.locator(".asset-card")).toHaveCount(0);
+  const toggle = page.locator("[data-description-toggle]");
+  if (await toggle.isVisible()) {
+    const bounds = await toggle.boundingBox();
+    const createList = await page.getByRole("link", { name: "Create a parts list" }).boundingBox();
+    expect(bounds).not.toBeNull();
+    expect(createList).not.toBeNull();
+    expect(bounds!.y + bounds!.height).toBeLessThanOrEqual(createList!.y);
+  }
+  await page.screenshot({ path: "test-results/generic-sfx-reference.png", fullPage: true });
+});
+
 test("renders an archived STL with the shaded model viewer", async ({ page }) => {
   await page.goto("/products/la024-030-micro-dc-motor-with-sh1-0");
   await page.getByRole("button", { name: "Preview 3D" }).first().click();
