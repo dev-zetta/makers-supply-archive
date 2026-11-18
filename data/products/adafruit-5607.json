@@ -1,0 +1,92 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.adafruit.com/product/5607",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "adafruit"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/50/50c8e954990ef3178871ebf45949ed28e750f2613df98c774bf2d69439dc44a8.pdf",
+      "id": "document-4ec0f4e4153fc8111bd2",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "Adafruit-5607-DC-socket-drawing.pdf",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "50c8e954990ef3178871ebf45949ed28e750f2613df98c774bf2d69439dc44a8",
+      "size": 16708,
+      "source_url": "https://cdn-shop.adafruit.com/product-files/5607/C17817-DC_Socket.pdf"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Connectors & Panel Controls"
+  ],
+  "category_assignments": [
+    {
+      "id": "connectors-panel-controls",
+      "label": "Connectors & Panel Controls",
+      "path": [
+        "Electronics",
+        "Connectors & Panel Controls"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.adafruit.com/product/5607"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Round DC barrel socket extension with a threaded panel fitting."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Round DC barrel socket extension with a threaded panel fitting.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "adafruit-5607",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Unspecified",
+  "measurements": [],
+  "name": "Adafruit 5607 Round Panel DC Barrel Jack Extension",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.adafruit.com/product/5607"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [
+    "5607"
+  ],
+  "source_tables": [],
+  "specifications": {
+    "Adafruit product ID": "5607",
+    "Barrel size": "5.5 × 2.1 mm",
+    "Cable length": "30 cm",
+    "Flange diameter": "30 mm",
+    "Maximum panel thickness": "16 mm",
+    "Source review": "reviewed-reference",
+    "Threaded body diameter": "23 mm"
+  },
+  "supplier_id": "adafruit",
+  "tags": [
+    "adafruit",
+    "dc-barrel-jack",
+    "panel-mount",
+    "power-connector",
+    "bulkhead"
+  ],
+  "variants": []
+}

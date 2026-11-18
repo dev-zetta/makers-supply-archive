@@ -1,0 +1,147 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "openbuilds"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/d6/d6ea73779d1818cb7d62b5bb571b6f97b5d6e1cdb41f356b6ebca617c0c89905.step",
+      "id": "model-16babc9e305c0b3c827b",
+      "kind": "model",
+      "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+      "media_type": "application/p21",
+      "original_filename": "Solid V Wheel.step",
+      "retrieved_at": "2026-11-17T05:12:26Z",
+      "rights_status": "licensed",
+      "role": "component",
+      "sha256": "d6ea73779d1818cb7d62b5bb571b6f97b5d6e1cdb41f356b6ebca617c0c89905",
+      "size": 35889,
+      "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/2 - Wheels/Solid V Wheel.step",
+      "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+      "source_url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/2%20-%20Wheels/Solid%20V%20Wheel.step"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/cb/cb56efbaa06333d22d180af5d4eddab6652fafd61bc5e854740c23f84ee93f84.txt",
+      "id": "document-4e372dbe4517bafe86a8",
+      "kind": "document",
+      "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+      "media_type": "text/plain",
+      "original_filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+      "retrieved_at": "2026-11-17T05:12:26Z",
+      "rights_status": "licensed",
+      "role": "document",
+      "sha256": "cb56efbaa06333d22d180af5d4eddab6652fafd61bc5e854740c23f84ee93f84",
+      "size": 2557,
+      "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+      "source_path": "_ref/OpenBuilds_STEP/license.txt",
+      "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+      "source_url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "mechanical",
+    "wheels"
+  ],
+  "category_assignments": [
+    {
+      "id": "mechanical",
+      "label": "Mechanical Components",
+      "path": [
+        "Hardware",
+        "Mechanical Components"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    },
+    {
+      "id": "wheels",
+      "label": "Wheels",
+      "path": [
+        "Wheels"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Legacy OpenBuilds Delrin / POM bare wheel reference for V-Slot linear motion, not an assembled wheel kit. The original drawing lists Delrin and polycarbonate versions separately; this entry selects the Delrin material, without treating an Xtreme polycarbonate wheel as POM. Bearings, shims, spacers, nuts and screws are not included in this bare wheel CAD file.\n\nLegacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. The STEP geometry is the bare wheel, from the library's 2 - Wheels folder rather than Assemblies/Wheels. Original OpenBuilds wheel drawings distinguish Delrin from the geometrically similar polycarbonate variant; material is a product selection, not something proven by the STEP shape. Check bearing-seat tolerances, wheel preload, and the actual rail profile."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Legacy OpenBuilds Delrin / POM bare wheel reference for V-Slot linear motion, not an assembled wheel kit. The original drawing lists Delrin and polycarbonate versions separately; this entry selects the Delrin material, without treating an Xtreme polycarbonate wheel as POM. Bearings, shims, spacers, nuts and screws are not included in this bare wheel CAD file.\n\nLegacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. The STEP geometry is the bare wheel, from the library's 2 - Wheels folder rather than Assemblies/Wheels. Original OpenBuilds wheel drawings distinguish Delrin from the geometrically similar polycarbonate variant; material is a product selection, not something proven by the STEP shape. Check bearing-seat tolerances, wheel preload, and the actual rail profile.",
+  "first_seen": "2026-11-17T05:12:26Z",
+  "id": "openbuilds-solid-v-wheel-delrin",
+  "last_seen": "2026-11-17T05:12:26Z",
+  "manufacturer": "OpenBuilds",
+  "measurements": [],
+  "name": "OpenBuilds Solid V Wheel (Delrin / POM legacy reference)",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/2%20-%20Wheels/Solid%20V%20Wheel.step"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://raw.githubusercontent.com/Botland-com-pl/v-slot-profiles-models/ae050c376202ed475d0f9b7d16f980e93e6c61b4/SOLID_WORKS/PDF%20Drawings/Solid%20V%20Wheel.PDF"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Attribution": "Solid V Wheel.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+    "Bearing seat bore (drawing)": "16 mm nominal",
+    "CAD license": "CC-BY-SA-4.0; original library license retained",
+    "CAD representation": "3D STEP; bare wheel without bearings",
+    "Drawing dimensions (OD x width)": "23.90 x 10.20 mm",
+    "Library source": "OpenBuilds STEP Parts Library 1.5",
+    "Reference type": "Legacy manufacturer design; community-hosted CAD",
+    "Source review": "reviewed-legacy-reference",
+    "Wheel material": "Delrin / POM (acetal)",
+    "Wheel outside diameter": "23.90 mm",
+    "Wheel width": "10.20 mm"
+  },
+  "supplier_id": "openbuilds",
+  "tags": [
+    "openbuilds",
+    "pom",
+    "delrin",
+    "acetal",
+    "wheel",
+    "v-slot",
+    "legacy-reference",
+    "community-hosted-cad"
+  ],
+  "variants": []
+}

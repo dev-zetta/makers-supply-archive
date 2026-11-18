@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-11-18",
+  "notes": "Reviewed starter references for power supplies, conversion, battery holders, fuse holders and sensors. Asset coverage follows exact vendor or family files, with published dimensions and drawings linked where applicable.",
+  "products": [
+    {
+      "id": "mean-well-lrs-150-24",
+      "supplier_id": "mean-well",
+      "manufacturer": "MEAN WELL",
+      "name": "MEAN WELL LRS-150-24 enclosed power supply",
+      "source_kind": "reference",
+      "product_url": "https://www.meanwell.com/webapp/product/search.aspx?prod=LRS-150",
+      "documentation_urls": [
+        "https://www.meanwell.com/Upload/PDF/LRS-150/LRS-150-SPEC.PDF",
+        "https://www.meanwell.com/upload/pdf/LRS-150/LRS-150-3D.zip"
+      ],
+      "categories": [
+        "Power & Battery Hardware"
+      ],
+      "tags": [
+        "ac-dc",
+        "power-supply",
+        "24v",
+        "enclosed-psu"
+      ],
+      "part_numbers": [
+        "LRS-150-24"
+      ],
+      "skus": [],
+      "description": "Single-output enclosed AC-DC supply for 24 V projects. The data sheet includes mounting geometry.",
+      "specifications": {
+        "Rated output": "24 V DC, 6.5 A, 156 W",
+        "Case dimensions (L x W x H)": "159 x 97 x 30 mm",
+        "Manufacturer case": "241A",
+        "CAD coverage": "Manufacturer LRS-150 series enclosure outline, via external download link"
+      },
+      "compatibility_notes": "Use the shared LRS-150 outline for case fit and the LRS-150-24 column of the data sheet for electrical specifications.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "pololu-d24v22f5",
+      "supplier_id": "pololu",
+      "manufacturer": "Pololu",
+      "name": "Pololu D24V22F5 5 V step-down regulator",
+      "source_kind": "reference",
+      "product_url": "https://www.pololu.com/product/2858",
+      "documentation_urls": [
+        "https://www.pololu.com/product/2858/resources",
+        "https://www.pololu.com/file/0J1031/d24v22fx-step-down-voltage-regulator-dimension-diagram.pdf"
+      ],
+      "categories": [
+        "Power & Battery Hardware"
+      ],
+      "tags": [
+        "buck",
+        "dc-dc",
+        "regulator",
+        "5v"
+      ],
+      "part_numbers": [
+        "D24V22F5"
+      ],
+      "skus": [
+        "2858"
+      ],
+      "description": "Compact fixed-output DC-DC buck regulator with two mounting holes.",
+      "specifications": {
+        "Output": "5 V DC",
+        "Input range": "5.3–36 V DC, subject to dropout",
+        "Typical maximum output current": "2.5 A at 24 V input; varies with input and cooling",
+        "Board": "17.8 x 17.8 mm",
+        "Mounting holes": "Two 2.18 mm holes on opposite corners, spaced 13.2 mm on each axis",
+        "CAD coverage": "Manufacturer D24V22Fx family STEP and mounting drill guide"
+      },
+      "compatibility_notes": "The STEP models the D24V22Fx family geometry. The F5 variant supplies 5 V. Check connector and terminal clearances when adding headers.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://www.pololu.com/file/0J1413/d24v22fx-step-down-voltage-regulator.step",
+          "filename": "d24v22fx-step-down-voltage-regulator.step",
+          "role": "component",
+          "rights_status": "unknown",
+          "applies_to_skus": [
+            "2858"
+          ]
+        },
+        {
+          "url": "https://www.pololu.com/file/0J1181/reg19a-drill.dxf",
+          "filename": "reg19a-drill.dxf",
+          "role": "drawing",
+          "rights_status": "unknown",
+          "applies_to_skus": [
+            "2858"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adafruit-3287-aa-battery-holder",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 3287 switched 3 × AA battery holder",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/3287",
+      "documentation_urls": [],
+      "categories": [
+        "Power & Battery Hardware"
+      ],
+      "tags": [
+        "battery-holder",
+        "aa",
+        "jst-ph",
+        "switch"
+      ],
+      "part_numbers": [],
+      "skus": [
+        "3287"
+      ],
+      "description": "Enclosed AA holder for portable builds, with a switched two-pin power lead.",
+      "specifications": {
+        "Cells": "3 AA in series",
+        "Dimensions": "78 x 49 x 29 mm",
+        "Cable": "6 in, two-pin JST-PH",
+        "Features": "On/off switch and belt clip",
+        "CAD coverage": "Published dimensions"
+      },
+      "compatibility_notes": "Allow space for the belt clip, switch, battery replacement and cable exit. Verify plug polarity against the mating device.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "littelfuse-03450121h",
+      "supplier_id": "littelfuse",
+      "manufacturer": "Littelfuse",
+      "name": "Littelfuse 03450121H 5 × 20 mm fuse holder",
+      "source_kind": "reference",
+      "product_url": "https://www.littelfuse.com/assetdocs/littelfuse-fuse-holder-345-hv-datasheet.pdf?assetguid=24b8038e-c1fe-4f79-8710-58a78b64bf02",
+      "documentation_urls": [],
+      "categories": [
+        "Power & Battery Hardware"
+      ],
+      "tags": [
+        "fuse-holder",
+        "cartridge-fuse",
+        "5x20",
+        "pcb-mount"
+      ],
+      "part_numbers": [
+        "03450121H"
+      ],
+      "skus": [],
+      "description": "Enclosed board-mount cartridge fuse holder with a removable screwdriver-slot cap.",
+      "specifications": {
+        "Series": "345 HV",
+        "Fuse size": "5 x 20 mm",
+        "Mounting": "PCB through-hole solder",
+        "Overall length": "45.0 mm",
+        "CAD coverage": "Dimensioned PCB footprint and enclosure drawing"
+      },
+      "compatibility_notes": "The 5 x 20 mm version uses the black cap. Use the PCB footprint in the data sheet and reserve access to withdraw the cap.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "adafruit-3967-vl53l1x",
+      "supplier_id": "adafruit",
+      "manufacturer": "Adafruit",
+      "name": "Adafruit VL53L1X time-of-flight distance sensor",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/3967",
+      "documentation_urls": [
+        "https://learn.adafruit.com/adafruit-vl53l1x/downloads",
+        "https://github.com/adafruit/Adafruit_CAD_Parts/tree/9f2a89f3d5c3491886d58cb7fe83385417563cf4/3967%20VL5SL1X%20TOF%20Sensor"
+      ],
+      "categories": [
+        "Sensors & Breakout Boards"
+      ],
+      "tags": [
+        "distance-sensor",
+        "tof",
+        "lidar",
+        "stemma-qt",
+        "qwiic",
+        "i2c"
+      ],
+      "part_numbers": [],
+      "skus": [
+        "3967"
+      ],
+      "description": "Optical ranging breakout for measuring distance in a compact enclosure.",
+      "specifications": {
+        "Sensor": "ST VL53L1X / VL53L1CX",
+        "Published measurement range": "Approximately 30–4000 mm, depending on conditions",
+        "Interface": "I²C via STEMMA QT / Qwiic",
+        "Board assembly dimensions": "25.5 x 17.5 x 4.6 mm",
+        "CAD coverage": "Adafruit item 3967 STEP",
+        "CAD license": "MIT"
+      },
+      "compatibility_notes": "The STEP is linked by Adafruit's item 3967 guide. Its filename uses the repository's VL5SL1X spelling. Reserve space for the optical aperture and both cable connectors.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/adafruit/Adafruit_CAD_Parts/9f2a89f3d5c3491886d58cb7fe83385417563cf4/3967%20VL5SL1X%20TOF%20Sensor/3967%20VL5SL1X%20TOF%20Sensor.step",
+          "filename": "3967 VL5SL1X TOF Sensor.step",
+          "role": "component",
+          "rights_status": "permissive",
+          "source_repository": "https://github.com/adafruit/Adafruit_CAD_Parts",
+          "source_commit": "9f2a89f3d5c3491886d58cb7fe83385417563cf4",
+          "source_path": "3967 VL5SL1X TOF Sensor/3967 VL5SL1X TOF Sensor.step",
+          "license_url": "https://github.com/adafruit/Adafruit_CAD_Parts/blob/9f2a89f3d5c3491886d58cb7fe83385417563cf4/LICENSE",
+          "applies_to_skus": [
+            "3967"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/adafruit/Adafruit_CAD_Parts/9f2a89f3d5c3491886d58cb7fe83385417563cf4/LICENSE",
+          "filename": "Adafruit-CAD-Parts-LICENSE.txt",
+          "role": "document",
+          "rights_status": "permissive",
+          "source_repository": "https://github.com/adafruit/Adafruit_CAD_Parts",
+          "source_commit": "9f2a89f3d5c3491886d58cb7fe83385417563cf4",
+          "source_path": "LICENSE",
+          "license_url": "https://github.com/adafruit/Adafruit_CAD_Parts/blob/9f2a89f3d5c3491886d58cb7fe83385417563cf4/LICENSE"
+        }
+      ]
+    },
+    {
+      "id": "adafruit-189-pir-motion-sensor",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 189 PIR motion sensor",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/189",
+      "documentation_urls": [
+        "https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor"
+      ],
+      "categories": [
+        "Sensors & Breakout Boards"
+      ],
+      "tags": [
+        "pir",
+        "motion-sensor",
+        "digital-output"
+      ],
+      "part_numbers": [],
+      "skus": [
+        "189"
+      ],
+      "description": "Passive infrared motion module with an adjustable trigger and a domed lens.",
+      "specifications": {
+        "Body assembly dimensions (L x W x H)": "24.03 x 32.34 x 24.66 mm, including lens height",
+        "Mounting holes": "2 mm diameter, 28 mm spacing",
+        "Supply": "5–12 V DC",
+        "Output": "3.3 V logic",
+        "CAD coverage": "Published dimensions and mounting-hole spacing"
+      },
+      "compatibility_notes": "Provide an opening for the lens and space for the cable and sensitivity adjustments.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "adafruit-4541-5kg-load-cell",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 4541 5 kg strain-gauge load cell",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/4541",
+      "documentation_urls": [
+        "https://learn.adafruit.com/adafruit-hx711-24-bit-adc/overview"
+      ],
+      "categories": [
+        "Sensors & Breakout Boards"
+      ],
+      "tags": [
+        "load-cell",
+        "strain-gauge",
+        "weighing",
+        "wheatstone-bridge"
+      ],
+      "part_numbers": [],
+      "skus": [
+        "4541"
+      ],
+      "description": "Aluminium bar load cell for weighing and force measurement. A separate ADC reads the bridge signal.",
+      "specifications": {
+        "Nominal capacity": "5 kg",
+        "Body dimensions": "75.0 x 12.7 x 12.7 mm",
+        "Connection": "Four wires",
+        "CAD coverage": "Published body dimensions"
+      },
+      "compatibility_notes": "This record describes the 75 mm body. Use the installed sensor's mounting geometry and calibrate after assembly.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "adafruit-5974-hx711",
+      "supplier_id": "adafruit",
+      "manufacturer": "Adafruit",
+      "name": "Adafruit HX711 24-bit load-cell ADC breakout",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/5974",
+      "documentation_urls": [
+        "https://learn.adafruit.com/adafruit-hx711-24-bit-adc/downloads",
+        "https://github.com/adafruit/Adafruit-HX711-24-bit-ADC-PCB"
+      ],
+      "categories": [
+        "Sensors & Breakout Boards"
+      ],
+      "tags": [
+        "hx711",
+        "load-cell",
+        "adc",
+        "breakout",
+        "weighing"
+      ],
+      "part_numbers": [],
+      "skus": [
+        "5974"
+      ],
+      "description": "Strain-gauge breakout with a six-position terminal block for bridge wiring.",
+      "specifications": {
+        "ADC": "HX711, 24-bit differential",
+        "Data rate": "10 or 80 samples/s",
+        "Host interface": "DATA and SCK",
+        "Assembly dimensions": "25.5 x 23.0 x 12.1 mm",
+        "CAD coverage": "Schematic, fabrication drawing and Eagle PCB source"
+      },
+      "compatibility_notes": "Reserve access to the screw terminals and the sample-rate switch.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "adafruit-819-roller-limit-switch",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 819 roller-lever limit switch",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/819",
+      "documentation_urls": [
+        "https://cdn-shop.adafruit.com/datasheets/baolianroller.jpg"
+      ],
+      "categories": [
+        "Sensors & Breakout Boards"
+      ],
+      "tags": [
+        "limit-switch",
+        "microswitch",
+        "roller-lever",
+        "endstop"
+      ],
+      "part_numbers": [],
+      "skus": [
+        "819"
+      ],
+      "description": "Three-terminal microswitch for a motion endstop or position detector.",
+      "specifications": {
+        "Actuator": "Momentary roller lever",
+        "Contacts": "Common, normally open and normally closed",
+        "Terminal width": "0.187 in",
+        "CAD coverage": "Supplier dimensioned drawing"
+      },
+      "compatibility_notes": "Leave room for roller travel and the mating terminal connectors.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    }
+  ]
+}

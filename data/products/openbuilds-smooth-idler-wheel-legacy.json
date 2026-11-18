@@ -1,0 +1,122 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/4%20-%20Pulleys/Smooth%20Idler%20Pulley%20Wheel.step",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "openbuilds"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/2e/2e4daa1b981980b1105a48fc34f64da9b8222cd97723e7c81f151bbabccedf46.step",
+      "id": "model-25d16fa8c4052db96425",
+      "kind": "model",
+      "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+      "media_type": "application/p21",
+      "original_filename": "Smooth Idler Pulley Wheel.step",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "licensed",
+      "role": "component",
+      "sha256": "2e4daa1b981980b1105a48fc34f64da9b8222cd97723e7c81f151bbabccedf46",
+      "size": 40096,
+      "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/4 - Pulleys/Smooth Idler Pulley Wheel.step",
+      "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+      "source_url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/4%20-%20Pulleys/Smooth%20Idler%20Pulley%20Wheel.step"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/cb/cb56efbaa06333d22d180af5d4eddab6652fafd61bc5e854740c23f84ee93f84.txt",
+      "id": "document-4e372dbe4517bafe86a8",
+      "kind": "document",
+      "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+      "media_type": "text/plain",
+      "original_filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "licensed",
+      "role": "document",
+      "sha256": "cb56efbaa06333d22d180af5d4eddab6652fafd61bc5e854740c23f84ee93f84",
+      "size": 2557,
+      "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+      "source_path": "_ref/OpenBuilds_STEP/license.txt",
+      "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+      "source_url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Linear Motion & Transmission"
+  ],
+  "category_assignments": [
+    {
+      "id": "linear-motion-transmission",
+      "label": "Linear Motion & Transmission",
+      "path": [
+        "Hardware",
+        "Linear Motion & Transmission"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/4%20-%20Pulleys/Smooth%20Idler%20Pulley%20Wheel.step"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Bare smooth belt idler wheel with 22 mm flanges and 16 mm bearing seats in the source STEP.\n\nConfirm belt pitch, working width, bearing hardware and installed clearances against the physical part before using this historical geometry."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Bare smooth belt idler wheel with 22 mm flanges and 16 mm bearing seats in the source STEP.\n\nConfirm belt pitch, working width, bearing hardware and installed clearances against the physical part before using this historical geometry.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "openbuilds-smooth-idler-wheel-legacy",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "OpenBuilds",
+  "measurements": [],
+  "name": "OpenBuilds smooth idler pulley wheel (legacy reference)",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/4%20-%20Pulleys/Smooth%20Idler%20Pulley%20Wheel.step"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Attribution": "OpenBuilds, LLC, STEP Parts Library 1.5 by Rob Stehlik, CC BY-SA 4.0, community mirror by mirage335. Original STEP.",
+    "Belt running surface": "Smooth",
+    "CAD contents": "Bare pulley wheel",
+    "Library source": "OpenBuilds STEP Parts Library 1.5",
+    "Model bearing seat diameter": "16 mm",
+    "Model flange diameter": "22 mm",
+    "Source review": "reviewed-legacy-reference"
+  },
+  "supplier_id": "openbuilds",
+  "tags": [
+    "openbuilds",
+    "idler",
+    "smooth-idler",
+    "belt-drive",
+    "legacy-reference"
+  ],
+  "variants": []
+}

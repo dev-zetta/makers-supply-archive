@@ -1,0 +1,90 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.e-switch.com/product/r1966-series-illuminated-power-rocker-switch/",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "e-switch"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/eb/ebce3692a868448f8eb2d095ce2c774a7c340d74645a8e7001ea254f0976935f.pdf",
+      "id": "document-e2c156af75b81e19bf1f",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "E-Switch-R1966ABLKBLKEFGRN-drawing.pdf",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "ebce3692a868448f8eb2d095ce2c774a7c340d74645a8e7001ea254f0976935f",
+      "size": 356428,
+      "source_url": "https://configured-product-images.s3.amazonaws.com/2D/specs/R1966ABLKBLKEFGRN.pdf"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Connectors & Panel Controls"
+  ],
+  "category_assignments": [
+    {
+      "id": "connectors-panel-controls",
+      "label": "Connectors & Panel Controls",
+      "path": [
+        "Electronics",
+        "Connectors & Panel Controls"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.e-switch.com/product/r1966-series-illuminated-power-rocker-switch/"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Snap-in SPST on-off rocker switch with a black housing, black actuator and green illumination.\n\nUse the part drawing for the accepted cutout and panel-thickness tolerances."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Snap-in SPST on-off rocker switch with a black housing, black actuator and green illumination.\n\nUse the part drawing for the accepted cutout and panel-thickness tolerances.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "e-switch-r1966ablkblkefgrn",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "E-Switch",
+  "measurements": [],
+  "name": "E-Switch R1966ABLKBLKEFGRN Rocker Switch",
+  "offers": [],
+  "part_numbers": [
+    "R1966ABLKBLKEFGRN"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.e-switch.com/product/r1966-series-illuminated-power-rocker-switch/"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Circuit": "SPST on-off",
+    "Panel cutout": "19.2 × 13 mm (product page nominal)",
+    "Source review": "reviewed-reference",
+    "Switch rating": "15 A at 125 V AC",
+    "Terminal": "0.187 in quick connect"
+  },
+  "supplier_id": "e-switch",
+  "tags": [
+    "e-switch",
+    "rocker-switch",
+    "panel-mount",
+    "snap-in",
+    "spst"
+  ],
+  "variants": []
+}

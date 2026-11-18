@@ -1,0 +1,87 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.pololu.com/product/2818",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "pololu"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "Robotics & Small Actuators"
+  ],
+  "category_assignments": [
+    {
+      "id": "robotics-small-actuators",
+      "label": "Robotics & Small Actuators",
+      "path": [
+        "Hardware",
+        "Robotics & Small Actuators"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.pololu.com/product/2818"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Position-control micro servo with included servo horns and hardware.\n\nPololu links a FEETECH sheet titled FS90-C. Confirm the delivered revision, mounting tabs and horn spline before designing around that drawing. FS90R is a separate continuous-rotation model."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Position-control micro servo with included servo horns and hardware.\n\nPololu links a FEETECH sheet titled FS90-C. Confirm the delivered revision, mounting tabs and horn spline before designing around that drawing. FS90R is a separate continuous-rotation model.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "pololu-2818-feetech-fs90",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "FEETECH",
+  "measurements": [],
+  "name": "FEETECH FS90 analog micro servo (Pololu 2818)",
+  "offers": [],
+  "part_numbers": [
+    "FS90",
+    "2818"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.pololu.com/product/2818"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/product/2818/specs"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/product/2818/resources"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Body dimensions listed by Pololu": "23.2 × 12.5 × 22 mm",
+    "Control": "Analog position servo",
+    "Data source": "Pololu item specification and linked FEETECH sheet",
+    "Source review": "reviewed-reference",
+    "Supplier item": "Pololu 2818",
+    "Weight listed by Pololu": "9 g"
+  },
+  "supplier_id": "pololu",
+  "tags": [
+    "pololu",
+    "servo",
+    "micro-servo",
+    "fs90",
+    "robotics"
+  ],
+  "variants": []
+}

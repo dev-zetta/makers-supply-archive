@@ -1,0 +1,90 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.adafruit.com/product/6069",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "adafruit"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/7d/7d92a7118c2b1c1363424bcafe234f26a034a78623b017b132f012fea053dcc2.pdf",
+      "id": "document-b64763eb86aa74e51d74",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "Adafruit-6069-USB-C-panel-mount-drawing.pdf",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "7d92a7118c2b1c1363424bcafe234f26a034a78623b017b132f012fea053dcc2",
+      "size": 158467,
+      "source_url": "https://cdn-shop.adafruit.com/product-files/6069/P6069+PCM-0726_TYPE_C___________F-M_L300MM.pdf"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Connectors & Panel Controls"
+  ],
+  "category_assignments": [
+    {
+      "id": "connectors-panel-controls",
+      "label": "Connectors & Panel Controls",
+      "path": [
+        "Electronics",
+        "Connectors & Panel Controls"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.adafruit.com/product/6069"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "USB-C socket to plug extension with a round panel fitting and protective cap."
+    }
+  ],
+  "description_html": "",
+  "description_text": "USB-C socket to plug extension with a round panel fitting and protective cap.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "adafruit-6069",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Unspecified",
+  "measurements": [],
+  "name": "Adafruit 6069 USB-C Round Bulkhead Extension",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.adafruit.com/product/6069"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [
+    "6069"
+  ],
+  "source_tables": [],
+  "specifications": {
+    "Adafruit product ID": "6069",
+    "Connection": "USB-C receptacle to plug",
+    "Maximum panel thickness": "13 mm",
+    "Panel hole diameter": "12–18 mm",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "adafruit",
+  "tags": [
+    "adafruit",
+    "usb-c",
+    "bulkhead",
+    "panel-mount",
+    "connector"
+  ],
+  "variants": []
+}

@@ -1,0 +1,85 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.meanwell.com/webapp/product/search.aspx?prod=LRS-150",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "mean-well"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "Power & Battery Hardware"
+  ],
+  "category_assignments": [
+    {
+      "id": "power-battery-hardware",
+      "label": "Power & Battery Hardware",
+      "path": [
+        "Electronics",
+        "Power & Battery Hardware"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.meanwell.com/webapp/product/search.aspx?prod=LRS-150"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Single-output enclosed AC-DC supply for 24 V projects. The data sheet includes mounting geometry.\n\nUse the shared LRS-150 outline for case fit and the LRS-150-24 column of the data sheet for electrical specifications."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Single-output enclosed AC-DC supply for 24 V projects. The data sheet includes mounting geometry.\n\nUse the shared LRS-150 outline for case fit and the LRS-150-24 column of the data sheet for electrical specifications.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "mean-well-lrs-150-24",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "MEAN WELL",
+  "measurements": [],
+  "name": "MEAN WELL LRS-150-24 enclosed power supply",
+  "offers": [],
+  "part_numbers": [
+    "LRS-150-24"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.meanwell.com/webapp/product/search.aspx?prod=LRS-150"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.meanwell.com/Upload/PDF/LRS-150/LRS-150-SPEC.PDF"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.meanwell.com/upload/pdf/LRS-150/LRS-150-3D.zip"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "CAD coverage": "Manufacturer LRS-150 series enclosure outline, via external download link",
+    "Case dimensions (L x W x H)": "159 x 97 x 30 mm",
+    "Manufacturer case": "241A",
+    "Rated output": "24 V DC, 6.5 A, 156 W",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "mean-well",
+  "tags": [
+    "mean-well",
+    "ac-dc",
+    "power-supply",
+    "24v",
+    "enclosed-psu"
+  ],
+  "variants": []
+}

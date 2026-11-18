@@ -1,0 +1,143 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "openbuilds"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/3c/3c74e89d47b1c9152263d8f6074156a86b9c1a1c34f446d1ec40f6dd202cb064.step",
+      "id": "model-c91d1fa3188488674d85",
+      "kind": "model",
+      "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+      "media_type": "application/p21",
+      "original_filename": "Eccentric Spacer 6mm.step",
+      "retrieved_at": "2026-11-17T05:12:26Z",
+      "rights_status": "licensed",
+      "role": "component",
+      "sha256": "3c74e89d47b1c9152263d8f6074156a86b9c1a1c34f446d1ec40f6dd202cb064",
+      "size": 76205,
+      "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/10 - Shims and Spacers/Eccentric Spacer 6mm.step",
+      "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+      "source_url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/10%20-%20Shims%20and%20Spacers/Eccentric%20Spacer%206mm.step"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/cb/cb56efbaa06333d22d180af5d4eddab6652fafd61bc5e854740c23f84ee93f84.txt",
+      "id": "document-4e372dbe4517bafe86a8",
+      "kind": "document",
+      "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+      "media_type": "text/plain",
+      "original_filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+      "retrieved_at": "2026-11-17T05:12:26Z",
+      "rights_status": "licensed",
+      "role": "document",
+      "sha256": "cb56efbaa06333d22d180af5d4eddab6652fafd61bc5e854740c23f84ee93f84",
+      "size": 2557,
+      "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+      "source_path": "_ref/OpenBuilds_STEP/license.txt",
+      "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+      "source_url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "mechanical",
+    "spacers"
+  ],
+  "category_assignments": [
+    {
+      "id": "mechanical",
+      "label": "Mechanical Components",
+      "path": [
+        "Hardware",
+        "Mechanical Components"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    },
+    {
+      "id": "spacers",
+      "label": "Spacers",
+      "path": [
+        "Spacers"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Legacy OpenBuilds standard eccentric spacer with a 6 mm spacing height, for adjusting V-wheel contact on a linear-motion assembly.\n\nLegacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. This is the standard 6 mm spacer, not the 0.25-inch (6.35 mm) part or the separate Mini Eccentric Spacer. Confirm the mating plate hole and cam geometry before use."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Legacy OpenBuilds standard eccentric spacer with a 6 mm spacing height, for adjusting V-wheel contact on a linear-motion assembly.\n\nLegacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. This is the standard 6 mm spacer, not the 0.25-inch (6.35 mm) part or the separate Mini Eccentric Spacer. Confirm the mating plate hole and cam geometry before use.",
+  "first_seen": "2026-11-17T05:12:26Z",
+  "id": "openbuilds-eccentric-spacer-6mm",
+  "last_seen": "2026-11-17T05:12:26Z",
+  "manufacturer": "OpenBuilds",
+  "measurements": [],
+  "name": "OpenBuilds Eccentric Spacer (6 mm legacy reference)",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/10%20-%20Shims%20and%20Spacers/Eccentric%20Spacer%206mm.step"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://raw.githubusercontent.com/Botland-com-pl/v-slot-profiles-models/ae050c376202ed475d0f9b7d16f980e93e6c61b4/SOLID_WORKS/PDF%20Drawings/Eccentric%20Spacer%206mm.PDF"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Attribution": "Eccentric Spacer 6mm.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+    "Bore diameter (drawing)": "5 mm",
+    "CAD license": "CC-BY-SA-4.0; original library license retained",
+    "CAD representation": "3D STEP; standard 6 mm eccentric spacer",
+    "Library source": "OpenBuilds STEP Parts Library 1.5",
+    "Material (drawing)": "Stainless steel",
+    "Reference type": "Legacy manufacturer design; community-hosted CAD",
+    "Source review": "reviewed-legacy-reference",
+    "Spacer height": "6 mm"
+  },
+  "supplier_id": "openbuilds",
+  "tags": [
+    "openbuilds",
+    "eccentric-spacer",
+    "v-slot",
+    "wheel-adjustment",
+    "legacy-reference",
+    "community-hosted-cad"
+  ],
+  "variants": []
+}

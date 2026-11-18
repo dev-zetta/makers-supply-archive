@@ -1,0 +1,515 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-11-18",
+  "notes": "Reviewed panel and enclosure references. Manufacturer drawing links are separate from the pinned Adafruit CAD model. Retail product IDs and manufacturer part numbers are recorded where published.",
+  "products": [
+    {
+      "id": "adafruit-6069",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 6069 USB-C Round Bulkhead Extension",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/6069",
+      "documentation_urls": [],
+      "categories": [
+        "Connectors & Panel Controls"
+      ],
+      "tags": [
+        "usb-c",
+        "bulkhead",
+        "panel-mount",
+        "connector"
+      ],
+      "specifications": {
+        "Adafruit product ID": "6069",
+        "Panel hole diameter": "12–18 mm",
+        "Maximum panel thickness": "13 mm",
+        "Connection": "USB-C receptacle to plug"
+      },
+      "part_numbers": [],
+      "skus": [
+        "6069"
+      ],
+      "description": "USB-C socket to plug extension with a round panel fitting and protective cap.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://cdn-shop.adafruit.com/product-files/6069/P6069+PCM-0726_TYPE_C___________F-M_L300MM.pdf",
+          "filename": "Adafruit-6069-USB-C-panel-mount-drawing.pdf",
+          "role": "drawing"
+        }
+      ]
+    },
+    {
+      "id": "trendnet-tc-k25c6-v2",
+      "supplier_id": "trendnet",
+      "manufacturer": "TRENDnet",
+      "name": "TRENDnet TC-K25C6 Cat 6 RJ45 Keystone Jack",
+      "source_kind": "reference",
+      "product_url": "https://www.trendnet.com/support/support-detail.asp?prod=115_TC-K25C6",
+      "documentation_urls": [
+        "https://downloads.trendnet.com/TC-K25C6_v2/datasheets/EN_intl_datasheets_TC-K25C6_%28v2.0R%29.pdf",
+        "https://downloads.trendnet.com/TC-K50C6/QIG/QIG_TC-K25C6_TC-K50C6.pdf"
+      ],
+      "categories": [
+        "Connectors & Panel Controls"
+      ],
+      "tags": [
+        "rj45",
+        "keystone",
+        "ethernet",
+        "cat6",
+        "connector"
+      ],
+      "specifications": {
+        "Overall size": "40 × 22 × 17 mm",
+        "Termination": "90° tool-less",
+        "Wiring label": "T568B",
+        "Package quantity": "25"
+      },
+      "part_numbers": [
+        "TC-K25C6"
+      ],
+      "skus": [],
+      "description": "Tool-less Cat 6 RJ45 jack with a 90° cable termination, supplied as a 25-pack.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [],
+      "hardware_revision": "v2.0R",
+      "compatibility_notes": "Overall size includes the housing. Test the snap fit against the chosen panel or wall plate."
+    },
+    {
+      "id": "leviton-61110-rw6",
+      "supplier_id": "leviton",
+      "manufacturer": "Leviton",
+      "name": "Leviton 61110-RW6 Cat 6 RJ45 QUICKPORT Jack",
+      "source_kind": "reference",
+      "product_url": "https://leviton.com/products/61110-rw6",
+      "documentation_urls": [
+        "https://leviton.com/content/dam/leviton/network-solutions/product_documents/product_specification/Leviton-Spec-61110-EXTREME-Cat-6-UTP-Jacks.pdf"
+      ],
+      "categories": [
+        "Connectors & Panel Controls"
+      ],
+      "tags": [
+        "rj45",
+        "ethernet",
+        "quickport",
+        "cat6",
+        "connector"
+      ],
+      "specifications": {
+        "Overall size": "30.6 × 16.1 × 22.5 mm (length × max width × height)",
+        "Installation system": "QUICKPORT",
+        "Package quantity": "1"
+      },
+      "part_numbers": [
+        "61110-RW6"
+      ],
+      "skus": [],
+      "description": "White UTP jack for QUICKPORT panels with rear punch-down termination.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://leviton.com/content/dam/leviton/network-solutions/product_documents/dimensional_drawing/61110-Rx6.dxf",
+          "filename": "Leviton-61110-Rx6.dxf",
+          "role": "drawing"
+        }
+      ],
+      "compatibility_notes": "The published DXF is the 61110 family drawing. Check the receiving panel for QUICKPORT compatibility."
+    },
+    {
+      "id": "adafruit-5607",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 5607 Round Panel DC Barrel Jack Extension",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/5607",
+      "documentation_urls": [],
+      "categories": [
+        "Connectors & Panel Controls"
+      ],
+      "tags": [
+        "dc-barrel-jack",
+        "panel-mount",
+        "power-connector",
+        "bulkhead"
+      ],
+      "specifications": {
+        "Adafruit product ID": "5607",
+        "Barrel size": "5.5 × 2.1 mm",
+        "Cable length": "30 cm",
+        "Flange diameter": "30 mm",
+        "Threaded body diameter": "23 mm",
+        "Maximum panel thickness": "16 mm"
+      },
+      "part_numbers": [],
+      "skus": [
+        "5607"
+      ],
+      "description": "Round DC barrel socket extension with a threaded panel fitting.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://cdn-shop.adafruit.com/product-files/5607/C17817-DC_Socket.pdf",
+          "filename": "Adafruit-5607-DC-socket-drawing.pdf",
+          "role": "drawing"
+        }
+      ]
+    },
+    {
+      "id": "e-switch-r1966ablkblkefgrn",
+      "supplier_id": "e-switch",
+      "manufacturer": "E-Switch",
+      "name": "E-Switch R1966ABLKBLKEFGRN Rocker Switch",
+      "source_kind": "reference",
+      "product_url": "https://www.e-switch.com/product/r1966-series-illuminated-power-rocker-switch/",
+      "documentation_urls": [],
+      "categories": [
+        "Connectors & Panel Controls"
+      ],
+      "tags": [
+        "rocker-switch",
+        "panel-mount",
+        "snap-in",
+        "spst"
+      ],
+      "specifications": {
+        "Panel cutout": "19.2 × 13 mm (product page nominal)",
+        "Circuit": "SPST on-off",
+        "Terminal": "0.187 in quick connect",
+        "Switch rating": "15 A at 125 V AC"
+      },
+      "part_numbers": [
+        "R1966ABLKBLKEFGRN"
+      ],
+      "skus": [],
+      "description": "Snap-in SPST on-off rocker switch with a black housing, black actuator and green illumination.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://configured-product-images.s3.amazonaws.com/2D/specs/R1966ABLKBLKEFGRN.pdf",
+          "filename": "E-Switch-R1966ABLKBLKEFGRN-drawing.pdf",
+          "role": "drawing"
+        }
+      ],
+      "compatibility_notes": "Use the part drawing for the accepted cutout and panel-thickness tolerances."
+    },
+    {
+      "id": "adafruit-377",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 377 Panel Rotary Encoder with Push Switch",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/377",
+      "documentation_urls": [],
+      "categories": [
+        "Connectors & Panel Controls"
+      ],
+      "tags": [
+        "rotary-encoder",
+        "panel-mount",
+        "quadrature",
+        "push-switch"
+      ],
+      "specifications": {
+        "Adafruit product ID": "377",
+        "Encoder steps": "24 detents per revolution",
+        "Shaft": "6 mm D-shaft",
+        "Bushing": "M7 × 0.75",
+        "Output": "Incremental quadrature"
+      },
+      "part_numbers": [],
+      "skus": [
+        "377"
+      ],
+      "description": "Panel-mount incremental encoder with a D-shaft knob, mounting hardware and momentary push switch.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://cdn-shop.adafruit.com/datasheets/pec11.pdf",
+          "filename": "PEC11-encoder-family-datasheet.pdf",
+          "role": "document"
+        }
+      ]
+    },
+    {
+      "id": "adafruit-5880",
+      "supplier_id": "adafruit",
+      "manufacturer": "Adafruit Industries",
+      "name": "Adafruit 5880 STEMMA QT I²C Rotary Encoder",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/5880",
+      "documentation_urls": [
+        "https://learn.adafruit.com/adafruit-i2c-qt-rotary-encoder/downloads"
+      ],
+      "categories": [
+        "Connectors & Panel Controls"
+      ],
+      "tags": [
+        "rotary-encoder",
+        "stemma-qt",
+        "qwiic",
+        "i2c"
+      ],
+      "specifications": {
+        "Adafruit product ID": "5880",
+        "PCB size": "25.4 × 25.4 mm",
+        "Power supply": "3–5 V DC",
+        "I²C addresses": "0x36–0x3D",
+        "CAD format": "STEP"
+      },
+      "part_numbers": [],
+      "skus": [
+        "5880"
+      ],
+      "description": "Assembled I²C breakout with a pre-soldered incremental rotary encoder and push switch.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/adafruit/Adafruit_CAD_Parts/9f2a89f3d5c3491886d58cb7fe83385417563cf4/5880%20Rotary%20Encoder%20I2C%20STEMMA%20QT/5880%20Rotary%20Encoder%20I2C%20STEMMA%20QT.step",
+          "filename": "5880 Rotary Encoder I2C STEMMA QT.step",
+          "role": "component",
+          "rights_status": "permissive",
+          "source_repository": "https://github.com/adafruit/Adafruit_CAD_Parts",
+          "source_commit": "9f2a89f3d5c3491886d58cb7fe83385417563cf4",
+          "source_path": "5880 Rotary Encoder I2C STEMMA QT/5880 Rotary Encoder I2C STEMMA QT.step",
+          "license_url": "https://github.com/adafruit/Adafruit_CAD_Parts/blob/9f2a89f3d5c3491886d58cb7fe83385417563cf4/LICENSE",
+          "applies_to_skus": [
+            "5880"
+          ]
+        },
+        {
+          "url": "https://raw.githubusercontent.com/adafruit/Adafruit_CAD_Parts/9f2a89f3d5c3491886d58cb7fe83385417563cf4/LICENSE",
+          "filename": "Adafruit-CAD-Parts-LICENSE.txt",
+          "role": "document",
+          "rights_status": "permissive",
+          "source_repository": "https://github.com/adafruit/Adafruit_CAD_Parts",
+          "source_commit": "9f2a89f3d5c3491886d58cb7fe83385417563cf4",
+          "source_path": "LICENSE",
+          "license_url": "https://github.com/adafruit/Adafruit_CAD_Parts/blob/9f2a89f3d5c3491886d58cb7fe83385417563cf4/LICENSE",
+          "applies_to_skus": [
+            "5880"
+          ]
+        }
+      ],
+      "compatibility_notes": "This model is filed under product 5880 in Adafruit CAD Parts. Use the separate 4991 product for the board sold without the encoder."
+    },
+    {
+      "id": "adafruit-4256",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 4256 M3 × 3 mm Brass Heat-Set Inserts",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/4256",
+      "documentation_urls": [],
+      "categories": [
+        "Enclosure & Assembly Hardware"
+      ],
+      "tags": [
+        "heat-set-insert",
+        "threaded-insert",
+        "m3",
+        "brass"
+      ],
+      "specifications": {
+        "Adafruit product ID": "4256",
+        "Thread size": "M3",
+        "Insert length": "3 mm",
+        "Material": "Brass",
+        "Package quantity": "50"
+      },
+      "part_numbers": [],
+      "skus": [
+        "4256"
+      ],
+      "description": "Brass insert for a reusable M3 thread in a thermoplastic part.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://cdn-shop.adafruit.com/product-files/4256/C13491+Specification.pdf",
+          "filename": "Adafruit-4256-M3-heat-set-insert-specification.pdf",
+          "role": "drawing"
+        }
+      ]
+    },
+    {
+      "id": "adafruit-3299",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 3299 M2.5 Nylon Standoff and Screw Set",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/3299",
+      "documentation_urls": [],
+      "categories": [
+        "Enclosure & Assembly Hardware"
+      ],
+      "tags": [
+        "standoff",
+        "pcb-mount",
+        "m2-5",
+        "nylon",
+        "kit"
+      ],
+      "specifications": {
+        "Adafruit product ID": "3299",
+        "Thread size": "M2.5",
+        "Female-female standoff lengths": "6, 8, 10, 12 mm",
+        "Male-female standoff lengths": "6, 12 mm",
+        "Material": "Nylon"
+      },
+      "part_numbers": [],
+      "skus": [
+        "3299"
+      ],
+      "description": "Black nylon mounting assortment for circuit boards, with hex standoffs, screws and nuts.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "southco-e6-10-301-20",
+      "supplier_id": "southco",
+      "manufacturer": "Southco",
+      "name": "Southco E6-10-301-20 Adjustable Torque Hinge",
+      "source_kind": "reference",
+      "product_url": "https://southco.com/en_us_int/e6-10-301-20",
+      "documentation_urls": [
+        "https://media.southco.com/media/static/Literature/e6.en.pdf",
+        "https://media.southco.com/media/static/JDrawing/J-E6-10-301-20.pdf"
+      ],
+      "categories": [
+        "Enclosure & Assembly Hardware"
+      ],
+      "tags": [
+        "hinge",
+        "adjustable-torque",
+        "access-panel",
+        "acetal"
+      ],
+      "specifications": {
+        "Mounting": "Rivet or screw",
+        "Torque": "0.79 N·m forward and reverse",
+        "Material": "Acetal copolymer",
+        "Mounting clearance hole diameter": "4.5 mm nominal, per medium hinge pattern"
+      },
+      "part_numbers": [
+        "E6-10-301-20"
+      ],
+      "skus": [],
+      "description": "Medium black acetal hinge for guiding and positioning a service panel or lid.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [],
+      "compatibility_notes": "The product page provides Southco's CAD download. The linked medium-hinge drawing shows the mounting pattern."
+    },
+    {
+      "id": "southco-c2-33-35",
+      "supplier_id": "southco",
+      "manufacturer": "Southco",
+      "name": "Southco C2-33-35 Compression Lever Latch",
+      "source_kind": "reference",
+      "product_url": "https://southco.com/en_us_int/c2-33-35",
+      "documentation_urls": [
+        "https://media.southco.com/media/static/Literature/C2.en.pdf",
+        "https://media.southco.com/media/static/JDrawing/J-C2-33-3.pdf"
+      ],
+      "categories": [
+        "Enclosure & Assembly Hardware"
+      ],
+      "tags": [
+        "latch",
+        "compression-latch",
+        "panel-mount",
+        "access-panel"
+      ],
+      "specifications": {
+        "Grip adjustment": "23–46 mm",
+        "Panel thickness": "1–5 mm (manufacturer product designation)",
+        "Material": "Black powder-coated zinc alloy",
+        "Seal": "Unsealed"
+      },
+      "part_numbers": [
+        "C2-33-35"
+      ],
+      "skus": [],
+      "description": "Flush-trigger compression latch for a removable or hinged enclosure panel.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [],
+      "compatibility_notes": "The product page provides Southco's CAD download. Check the trade drawing for the cutout and grip dimensions."
+    },
+    {
+      "id": "adafruit-762",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 762 PG-7 Cable Gland",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/762",
+      "documentation_urls": [],
+      "categories": [
+        "Enclosure & Assembly Hardware"
+      ],
+      "tags": [
+        "cable-gland",
+        "pg7",
+        "strain-relief",
+        "panel-mount"
+      ],
+      "specifications": {
+        "Adafruit product ID": "762",
+        "Cable diameter range": "0.118–0.169 in (approximately 3.0–4.3 mm)",
+        "Screw end diameter": "11.5 mm"
+      },
+      "part_numbers": [],
+      "skus": [
+        "762"
+      ],
+      "description": "PG-7 enclosure cable gland supplied with an O-ring.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [],
+      "compatibility_notes": "Confirm the enclosure opening and cable jacket fit against the actual gland."
+    },
+    {
+      "id": "adafruit-550",
+      "supplier_id": "adafruit",
+      "manufacturer": "Unspecified",
+      "name": "Adafruit 550 Adhesive Rubber Bumper Feet",
+      "source_kind": "reference",
+      "product_url": "https://www.adafruit.com/product/550",
+      "documentation_urls": [],
+      "categories": [
+        "Enclosure & Assembly Hardware"
+      ],
+      "tags": [
+        "rubber-feet",
+        "bumper-feet",
+        "adhesive",
+        "polyurethane"
+      ],
+      "specifications": {
+        "Adafruit product ID": "550",
+        "Approximate diameter": "8 mm",
+        "Approximate height": "4 mm",
+        "Package quantity": "4"
+      },
+      "part_numbers": [],
+      "skus": [
+        "550"
+      ],
+      "description": "Self-adhesive polyurethane feet for electronics enclosures and circuit boards.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [],
+      "compatibility_notes": "The supplier publishes approximate dimensions and says the bumper profile can vary."
+    }
+  ]
+}

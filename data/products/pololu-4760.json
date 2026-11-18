@@ -1,0 +1,107 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.pololu.com/product/4760",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "pololu"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/32/32cde1d63bbdb63f9f9aa64ed4b1753e72ea47dc04ed295f74fbc1b3ff188496.pdf",
+      "id": "document-7a195d246fb99e7db9ac",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "pololu-4760-4761-dimensions.pdf",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "32cde1d63bbdb63f9f9aa64ed4b1753e72ea47dc04ed295f74fbc1b3ff188496",
+      "size": 393608,
+      "source_url": "https://www.pololu.com/file/0J1721/pololu-4760-4761-dimensions.pdf"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Robotics & Small Actuators"
+  ],
+  "category_assignments": [
+    {
+      "id": "robotics-small-actuators",
+      "label": "Robotics & Small Actuators",
+      "path": [
+        "Hardware",
+        "Robotics & Small Actuators"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.pololu.com/product/4760"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Two Hall-effect quadrature encoder boards and two magnetic discs for compatible Micro Metal Gearmotors.\n\nRequires a compatible Micro Metal Gearmotor with an extended back shaft. Use page 1 of the linked drawing for top-entry board geometry. The family archive includes a side-entry PCB for the separate item 4761."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Two Hall-effect quadrature encoder boards and two magnetic discs for compatible Micro Metal Gearmotors.\n\nRequires a compatible Micro Metal Gearmotor with an extended back shaft. Use page 1 of the linked drawing for top-entry board geometry. The family archive includes a side-entry PCB for the separate item 4761.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "pololu-4760",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Pololu",
+  "measurements": [],
+  "name": "Pololu 4760 top-entry magnetic encoder pair kit",
+  "offers": [],
+  "part_numbers": [
+    "4760"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.pololu.com/product/4760"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/product/4760/resources"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/file/0J1721/pololu-4760-4761-dimensions.pdf"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/file/0J1720/pololu-4760-4761-models.zip"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "CAD member": "magnetic-encoder-with-top-entry-connector-for-micro-metal-gearmotors.step plus magnetic-encoder-disc-for-micro-metal-gearmotors.step",
+    "Connector": "Top-entry 6-pin JST SH type",
+    "Operating voltage": "2.7–18 V",
+    "Outputs": "Two-channel quadrature",
+    "PCB code": "enc03c",
+    "Resolution": "12 counts per motor-shaft revolution with both edges of both channels",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "pololu",
+  "tags": [
+    "pololu",
+    "encoder",
+    "quadrature",
+    "magnetic-encoder",
+    "robotics"
+  ],
+  "variants": []
+}

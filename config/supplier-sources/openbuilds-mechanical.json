@@ -1,0 +1,501 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-11-17",
+  "notes": "Eight legacy OpenBuilds mechanical references from original STEP Parts Library 1.5 files in a pinned community mirror. Fixed rail lengths, bare wheel geometry, material selection and 6 mm spacer identity are explicit. The original OpenBuilds attribution/license notice accompanies each model; no current storefront SKU, price, stock or hardware revision is inferred.",
+  "products": [
+    {
+      "id": "openbuilds-v-slot-20x20-500mm",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds V-Slot 20x20 linear rail (500 mm legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "documentation_urls": [
+        "https://support.openbuilds.com/support/solutions/articles/65000167811-what-is-v-slot-",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/V-Slot%2020x20x500%20Linear%20Rail.step",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+      ],
+      "categories": [
+        "mechanical",
+        "aluminium-extrusions"
+      ],
+      "tags": [
+        "aluminium-extrusion",
+        "aluminum-extrusion",
+        "v-slot",
+        "linear-rail",
+        "legacy-reference",
+        "community-hosted-cad"
+      ],
+      "description": "Legacy OpenBuilds V-Slot aluminium linear-rail reference with a 20 x 20 mm cross-section and exactly 500 mm CAD length. The file is not a parametric extrusion, and it does not represent other lengths or a live length/finish variant.",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Profile cross-section": "20 x 20 mm",
+        "CAD length": "500 mm",
+        "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+        "CAD representation": "3D STEP; fixed-length rail",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "V-Slot 20x20x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      },
+      "compatibility_notes": "Legacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. Other lengths, end tapping, cutting tolerances, anodizing, slot radii, mating T-nuts, wheel contact and fit are not established by this fixed-length CAD reference.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/V-Slot%2020x20x500%20Linear%20Rail.step",
+          "filename": "V-Slot 20x20x500 Linear Rail.step",
+          "role": "component",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/V-Slot 20x20x500 Linear Rail.step",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-v-slot-20x40-500mm",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds V-Slot 20x40 linear rail (500 mm legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "documentation_urls": [
+        "https://support.openbuilds.com/support/solutions/articles/65000167811-what-is-v-slot-",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/V-Slot%2020x40x500%20Linear%20Rail.step",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+      ],
+      "categories": [
+        "mechanical",
+        "aluminium-extrusions"
+      ],
+      "tags": [
+        "aluminium-extrusion",
+        "aluminum-extrusion",
+        "v-slot",
+        "linear-rail",
+        "legacy-reference",
+        "community-hosted-cad"
+      ],
+      "description": "Legacy OpenBuilds V-Slot aluminium linear-rail reference with a 20 x 40 mm cross-section and exactly 500 mm CAD length. The file is not a parametric extrusion, and it does not represent other lengths or a live length/finish variant.",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Profile cross-section": "20 x 40 mm",
+        "CAD length": "500 mm",
+        "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+        "CAD representation": "3D STEP; fixed-length rail",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "V-Slot 20x40x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      },
+      "compatibility_notes": "Legacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. Other lengths, end tapping, cutting tolerances, anodizing, slot radii, mating T-nuts, wheel contact and fit are not established by this fixed-length CAD reference.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/V-Slot%2020x40x500%20Linear%20Rail.step",
+          "filename": "V-Slot 20x40x500 Linear Rail.step",
+          "role": "component",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/V-Slot 20x40x500 Linear Rail.step",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-v-slot-20x60-500mm",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds V-Slot 20x60 linear rail (500 mm legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "documentation_urls": [
+        "https://support.openbuilds.com/support/solutions/articles/65000167811-what-is-v-slot-",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/V-Slot%2020x60x500%20Linear%20Rail.step",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+      ],
+      "categories": [
+        "mechanical",
+        "aluminium-extrusions"
+      ],
+      "tags": [
+        "aluminium-extrusion",
+        "aluminum-extrusion",
+        "v-slot",
+        "linear-rail",
+        "legacy-reference",
+        "community-hosted-cad"
+      ],
+      "description": "Legacy OpenBuilds V-Slot aluminium linear-rail reference with a 20 x 60 mm cross-section and exactly 500 mm CAD length. The file is not a parametric extrusion, and it does not represent other lengths or a live length/finish variant.",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Profile cross-section": "20 x 60 mm",
+        "CAD length": "500 mm",
+        "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+        "CAD representation": "3D STEP; fixed-length rail",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "V-Slot 20x60x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      },
+      "compatibility_notes": "Legacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. Other lengths, end tapping, cutting tolerances, anodizing, slot radii, mating T-nuts, wheel contact and fit are not established by this fixed-length CAD reference.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/V-Slot%2020x60x500%20Linear%20Rail.step",
+          "filename": "V-Slot 20x60x500 Linear Rail.step",
+          "role": "component",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/V-Slot 20x60x500 Linear Rail.step",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-v-slot-20x80-500mm",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds V-Slot 20x80 linear rail (500 mm legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "documentation_urls": [
+        "https://support.openbuilds.com/support/solutions/articles/65000167811-what-is-v-slot-",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/V-Slot%2020x80x500%20Linear%20Rail.step",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+      ],
+      "categories": [
+        "mechanical",
+        "aluminium-extrusions"
+      ],
+      "tags": [
+        "aluminium-extrusion",
+        "aluminum-extrusion",
+        "v-slot",
+        "linear-rail",
+        "legacy-reference",
+        "community-hosted-cad"
+      ],
+      "description": "Legacy OpenBuilds V-Slot aluminium linear-rail reference with a 20 x 80 mm cross-section and exactly 500 mm CAD length. The file is not a parametric extrusion, and it does not represent other lengths or a live length/finish variant.",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Profile cross-section": "20 x 80 mm",
+        "CAD length": "500 mm",
+        "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+        "CAD representation": "3D STEP; fixed-length rail",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "V-Slot 20x80x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      },
+      "compatibility_notes": "Legacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. Other lengths, end tapping, cutting tolerances, anodizing, slot radii, mating T-nuts, wheel contact and fit are not established by this fixed-length CAD reference.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/V-Slot%2020x80x500%20Linear%20Rail.step",
+          "filename": "V-Slot 20x80x500 Linear Rail.step",
+          "role": "component",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/V-Slot 20x80x500 Linear Rail.step",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-c-beam-40x80-500mm",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds C-Beam 40x80 linear rail (500 mm legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "documentation_urls": [
+        "https://support.openbuilds.com/support/solutions/articles/65000167811-what-is-v-slot-",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/C-Beam%2040x80x500%20Linear%20Rail.step",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+      ],
+      "categories": [
+        "mechanical",
+        "aluminium-extrusions"
+      ],
+      "tags": [
+        "aluminium-extrusion",
+        "aluminum-extrusion",
+        "v-slot",
+        "c-beam",
+        "linear-rail",
+        "legacy-reference",
+        "community-hosted-cad"
+      ],
+      "description": "Legacy OpenBuilds C-Beam aluminium linear-rail reference with a 40 x 80 mm cross-section and exactly 500 mm CAD length. The file is not a parametric extrusion, and it does not represent other lengths or a live length/finish variant.",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Profile cross-section": "40 x 80 mm",
+        "CAD length": "500 mm",
+        "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+        "CAD representation": "3D STEP; fixed-length rail",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "C-Beam 40x80x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      },
+      "compatibility_notes": "Legacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. Other lengths, end tapping, cutting tolerances, anodizing, slot radii, mating T-nuts, wheel contact and fit are not established by this fixed-length CAD reference.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/C-Beam%2040x80x500%20Linear%20Rail.step",
+          "filename": "C-Beam 40x80x500 Linear Rail.step",
+          "role": "component",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/C-Beam 40x80x500 Linear Rail.step",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-solid-v-wheel-delrin",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds Solid V Wheel (Delrin / POM legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "documentation_urls": [
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/2%20-%20Wheels/Solid%20V%20Wheel.step",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+        "https://raw.githubusercontent.com/Botland-com-pl/v-slot-profiles-models/ae050c376202ed475d0f9b7d16f980e93e6c61b4/SOLID_WORKS/PDF%20Drawings/Solid%20V%20Wheel.PDF"
+      ],
+      "categories": [
+        "mechanical",
+        "wheels"
+      ],
+      "tags": [
+        "pom",
+        "delrin",
+        "acetal",
+        "wheel",
+        "v-slot",
+        "legacy-reference",
+        "community-hosted-cad"
+      ],
+      "description": "Legacy OpenBuilds Delrin / POM bare wheel reference for V-Slot linear motion, not an assembled wheel kit. The original drawing lists Delrin and polycarbonate versions separately; this entry selects the Delrin material, without treating an Xtreme polycarbonate wheel as POM. Bearings, shims, spacers, nuts and screws are not included in this bare wheel CAD file.",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Wheel material": "Delrin / POM (acetal)",
+        "Wheel outside diameter": "23.90 mm",
+        "Wheel width": "10.20 mm",
+        "Bearing seat bore (drawing)": "16 mm nominal",
+        "Drawing dimensions (OD x width)": "23.90 x 10.20 mm",
+        "CAD representation": "3D STEP; bare wheel without bearings",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "Solid V Wheel.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      },
+      "compatibility_notes": "Legacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. The STEP geometry is the bare wheel, from the library's 2 - Wheels folder rather than Assemblies/Wheels. Original OpenBuilds wheel drawings distinguish Delrin from the geometrically similar polycarbonate variant; material is a product selection, not something proven by the STEP shape. Check bearing-seat tolerances, wheel preload, and the actual rail profile.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/2%20-%20Wheels/Solid%20V%20Wheel.step",
+          "filename": "Solid V Wheel.step",
+          "role": "component",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/2 - Wheels/Solid V Wheel.step",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-delrin-mini-v-wheel",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds Delrin Mini V Wheel (POM legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "documentation_urls": [
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/2%20-%20Wheels/Delrin%20Mini%20V%20Wheel.step",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+        "https://raw.githubusercontent.com/Botland-com-pl/v-slot-profiles-models/ae050c376202ed475d0f9b7d16f980e93e6c61b4/SOLID_WORKS/PDF%20Drawings/Mini%20V%20Wheel.PDF"
+      ],
+      "categories": [
+        "mechanical",
+        "wheels"
+      ],
+      "tags": [
+        "pom",
+        "delrin",
+        "acetal",
+        "wheel",
+        "v-slot",
+        "legacy-reference",
+        "community-hosted-cad"
+      ],
+      "description": "Legacy OpenBuilds Delrin / POM bare wheel reference for V-Slot linear motion, not an assembled wheel kit. The original drawing lists Delrin and polycarbonate versions separately; this entry selects the Delrin material, without treating an Xtreme polycarbonate wheel as POM. Bearings, shims, spacers, nuts and screws are not included in this bare wheel CAD file.",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Wheel material": "Delrin / POM (acetal)",
+        "Wheel outside diameter": "15.23 mm",
+        "Wheel width": "8.80 mm",
+        "Bearing seat bore (drawing)": "10 mm nominal",
+        "Drawing dimensions (OD x width)": "15.23 x 8.80 mm",
+        "CAD representation": "3D STEP; bare wheel without bearings",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "Delrin Mini V Wheel.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      },
+      "compatibility_notes": "Legacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. The STEP geometry is the bare wheel, from the library's 2 - Wheels folder rather than Assemblies/Wheels. Original OpenBuilds wheel drawings distinguish Delrin from the geometrically similar polycarbonate variant; material is a product selection, not something proven by the STEP shape. Check bearing-seat tolerances, wheel preload, and the actual rail profile.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/2%20-%20Wheels/Delrin%20Mini%20V%20Wheel.step",
+          "filename": "Delrin Mini V Wheel.step",
+          "role": "component",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/2 - Wheels/Delrin Mini V Wheel.step",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-eccentric-spacer-6mm",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds Eccentric Spacer (6 mm legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "documentation_urls": [
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/10%20-%20Shims%20and%20Spacers/Eccentric%20Spacer%206mm.step",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+        "https://raw.githubusercontent.com/Botland-com-pl/v-slot-profiles-models/ae050c376202ed475d0f9b7d16f980e93e6c61b4/SOLID_WORKS/PDF%20Drawings/Eccentric%20Spacer%206mm.PDF"
+      ],
+      "categories": [
+        "mechanical",
+        "spacers"
+      ],
+      "tags": [
+        "eccentric-spacer",
+        "v-slot",
+        "wheel-adjustment",
+        "legacy-reference",
+        "community-hosted-cad"
+      ],
+      "description": "Legacy OpenBuilds standard eccentric spacer with a 6 mm spacing height, for adjusting V-wheel contact on a linear-motion assembly.",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Spacer height": "6 mm",
+        "Bore diameter (drawing)": "5 mm",
+        "Material (drawing)": "Stainless steel",
+        "CAD representation": "3D STEP; standard 6 mm eccentric spacer",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "Eccentric Spacer 6mm.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      },
+      "compatibility_notes": "Legacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. This is the standard 6 mm spacer, not the 0.25-inch (6.35 mm) part or the separate Mini Eccentric Spacer. Confirm the mating plate hole and cam geometry before use.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/10%20-%20Shims%20and%20Spacers/Eccentric%20Spacer%206mm.step",
+          "filename": "Eccentric Spacer 6mm.step",
+          "role": "component",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/10 - Shims and Spacers/Eccentric Spacer 6mm.step",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    }
+  ]
+}

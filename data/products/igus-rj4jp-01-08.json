@@ -1,0 +1,86 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.igus.com/product/drylin_RJ4JP_01",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "igus"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "Linear Motion & Transmission"
+  ],
+  "category_assignments": [
+    {
+      "id": "linear-motion-transmission",
+      "label": "Linear Motion & Transmission",
+      "path": [
+        "Hardware",
+        "Linear Motion & Transmission"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.igus.com/product/drylin_RJ4JP_01"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "All-polymer plain linear bearing for an 8 mm shaft with retaining grooves for circlips.\n\nigus lists the same nominal dimensions as LM8UU. Check the shaft material, housing, operating loads and sliding performance for the actual installation."
+    }
+  ],
+  "description_html": "",
+  "description_text": "All-polymer plain linear bearing for an 8 mm shaft with retaining grooves for circlips.\n\nigus lists the same nominal dimensions as LM8UU. Check the shaft material, housing, operating loads and sliding performance for the actual installation.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "igus-rj4jp-01-08",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "igus",
+  "measurements": [],
+  "name": "igus drylin R RJ4JP-01-08 linear slide bearing",
+  "offers": [],
+  "part_numbers": [
+    "RJ4JP-01-08"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.igus.com/product/drylin_RJ4JP_01"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.igus.com/industry/3d-printer/frequently-used-products"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://igus.widen.net/content/vczwylwbrw/webp/Zg_RJ4JP-01-xx.webp?quality=65"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Bearing type": "Plain slide bearing",
+    "CAD access": "Manufacturer product-page download configurator",
+    "Material": "iglide J4",
+    "Retention": "Circlips",
+    "Shaft diameter": "8 mm",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "igus",
+  "tags": [
+    "igus",
+    "linear-bearing",
+    "linear-bushing",
+    "8-mm-shaft",
+    "lm8uu"
+  ],
+  "variants": []
+}

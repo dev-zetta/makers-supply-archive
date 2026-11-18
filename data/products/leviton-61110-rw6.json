@@ -1,0 +1,95 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://leviton.com/products/61110-rw6",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "leviton"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/0a/0a5306b762998e2f77769e4326279a33270b64e4c552eb069332b8529c7d749d.dxf",
+      "id": "model-9373bb389a929e0b7da7",
+      "kind": "model",
+      "media_type": "image/vnd.dxf",
+      "original_filename": "Leviton-61110-Rx6.dxf",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "0a5306b762998e2f77769e4326279a33270b64e4c552eb069332b8529c7d749d",
+      "size": 328933,
+      "source_url": "https://leviton.com/content/dam/leviton/network-solutions/product_documents/dimensional_drawing/61110-Rx6.dxf"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Connectors & Panel Controls"
+  ],
+  "category_assignments": [
+    {
+      "id": "connectors-panel-controls",
+      "label": "Connectors & Panel Controls",
+      "path": [
+        "Electronics",
+        "Connectors & Panel Controls"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://leviton.com/products/61110-rw6"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "White UTP jack for QUICKPORT panels with rear punch-down termination.\n\nThe published DXF is the 61110 family drawing. Check the receiving panel for QUICKPORT compatibility."
+    }
+  ],
+  "description_html": "",
+  "description_text": "White UTP jack for QUICKPORT panels with rear punch-down termination.\n\nThe published DXF is the 61110 family drawing. Check the receiving panel for QUICKPORT compatibility.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "leviton-61110-rw6",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Leviton",
+  "measurements": [],
+  "name": "Leviton 61110-RW6 Cat 6 RJ45 QUICKPORT Jack",
+  "offers": [],
+  "part_numbers": [
+    "61110-RW6"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://leviton.com/products/61110-rw6"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://leviton.com/content/dam/leviton/network-solutions/product_documents/product_specification/Leviton-Spec-61110-EXTREME-Cat-6-UTP-Jacks.pdf"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Installation system": "QUICKPORT",
+    "Overall size": "30.6 × 16.1 × 22.5 mm (length × max width × height)",
+    "Package quantity": "1",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "leviton",
+  "tags": [
+    "leviton",
+    "rj45",
+    "ethernet",
+    "quickport",
+    "cat6",
+    "connector"
+  ],
+  "variants": []
+}

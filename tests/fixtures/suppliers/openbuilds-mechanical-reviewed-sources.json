@@ -1,0 +1,173 @@
+{
+  "reviewed_at": "2026-11-17",
+  "repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+  "commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+  "library": "OpenBuilds STEP Parts Library 1.5",
+  "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+  "models": {
+    "openbuilds-v-slot-20x20-500mm": {
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/V-Slot 20x20x500 Linear Rail.step",
+      "filename": "V-Slot 20x20x500 Linear Rail.step",
+      "size": 171371,
+      "sha256": "7fa914a049ceef06de1ae72b9b5066dbe1b69ea822ea23311a27e95c30f52499",
+      "step_header": "ISO-10303-21;\nHEADER;\nFILE_DESCRIPTION (( 'STEP AP203' ),\n    '1' );\nFILE_NAME ('V-Slot 20x20x500 Linear Rail.step',\n    '2015-07-29T19:33:39',\n    ( '' ),\n    ( '' ),\n    'SwSTEP 2.0',\n    'SolidWorks 2014',\n    '' );\nFILE_SCHEMA (( 'CONFIG_CONTROL_DESIGN' ));\nENDSEC;\n\nDATA;\n#1 = VERTEX_POINT ( 'NONE', #1096 ) ;\n#2 = LINE ( 'NONE', #1371, #499 ) ;\n#3 = ORIENTED_EDGE ( 'NONE', *, *, #522, .F. ) ;\n#4 = PLANE ( 'NONE',  #2277 ) ;\n#5 = EDGE_CURVE ( 'NONE', #1925, #1247, #85, .T. ) ;\n#6 = PLANE ( 'NONE',  #1354 ) ;\n#7 = DIRECTION ( 'NONE',  ( -0.7071067811865468000, -0.7071067811865483500, 0.00000",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Profile cross-section": "20 x 20 mm",
+        "CAD length": "500 mm",
+        "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+        "CAD representation": "3D STEP; fixed-length rail",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "V-Slot 20x20x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    },
+    "openbuilds-v-slot-20x40-500mm": {
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/V-Slot 20x40x500 Linear Rail.step",
+      "filename": "V-Slot 20x40x500 Linear Rail.step",
+      "size": 275462,
+      "sha256": "642f316ce23c2add614cb77492d021c093df8be57995b8ff16f588e33b1821d6",
+      "step_header": "ISO-10303-21;\nHEADER;\nFILE_DESCRIPTION (( 'STEP AP203' ),\n    '1' );\nFILE_NAME ('V-Slot 20x40x500 Linear Rail.step',\n    '2015-07-29T19:33:48',\n    ( '' ),\n    ( '' ),\n    'SwSTEP 2.0',\n    'SolidWorks 2014',\n    '' );\nFILE_SCHEMA (( 'CONFIG_CONTROL_DESIGN' ));\nENDSEC;\n\nDATA;\n#1 = DIRECTION ( 'NONE',  ( -0.0000000000000000000, -0.0000000000000000000, -1.000000000000000000 ) ) ;\n#2 = FACE_OUTER_BOUND ( 'NONE', #2551, .T. ) ;\n#3 = ORIENTED_EDGE ( 'NONE', *, *, #1222, .F. ) ;\n#4 = EDGE_CURVE ( 'NONE', #3026, #1824, #3631, .T. ) ;\n#5 = ORIENTED_EDGE ( 'NONE', *, *, #741, .F. ) ;\n#6 = VECTOR ( 'NON",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Profile cross-section": "20 x 40 mm",
+        "CAD length": "500 mm",
+        "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+        "CAD representation": "3D STEP; fixed-length rail",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "V-Slot 20x40x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    },
+    "openbuilds-v-slot-20x60-500mm": {
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/V-Slot 20x60x500 Linear Rail.step",
+      "filename": "V-Slot 20x60x500 Linear Rail.step",
+      "size": 379981,
+      "sha256": "7bf06aa0136168a410934a08ec5881fc41fd405b41d1c7c354200c6a4ef25a93",
+      "step_header": "ISO-10303-21;\nHEADER;\nFILE_DESCRIPTION (( 'STEP AP203' ),\n    '1' );\nFILE_NAME ('V-Slot 20x60x500 Linear Rail.step',\n    '2015-07-29T19:33:58',\n    ( '' ),\n    ( '' ),\n    'SwSTEP 2.0',\n    'SolidWorks 2014',\n    '' );\nFILE_SCHEMA (( 'CONFIG_CONTROL_DESIGN' ));\nENDSEC;\n\nDATA;\n#1 = EDGE_CURVE ( 'NONE', #472, #1733, #4241, .T. ) ;\n#2 = VECTOR ( 'NONE', #2965, 1000.000000000000000 ) ;\n#3 = CARTESIAN_POINT ( 'NONE',  ( -2.839339828220217100, 23.90000000000000200, 0.0000000000000000000 ) ) ;\n#4 = VECTOR ( 'NONE', #4089, 1000.000000000000000 ) ;\n#5 = CARTESIAN_POINT ( 'NONE',  ( -12.7100000000000430",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Profile cross-section": "20 x 60 mm",
+        "CAD length": "500 mm",
+        "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+        "CAD representation": "3D STEP; fixed-length rail",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "V-Slot 20x60x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    },
+    "openbuilds-v-slot-20x80-500mm": {
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/V-Slot 20x80x500 Linear Rail.step",
+      "filename": "V-Slot 20x80x500 Linear Rail.step",
+      "size": 484045,
+      "sha256": "d9dc1cd4f211d6f857e1421dcfe7bce67aff42a383381b0a8ecd8504d495afeb",
+      "step_header": "ISO-10303-21;\nHEADER;\nFILE_DESCRIPTION (( 'STEP AP203' ),\n    '1' );\nFILE_NAME ('V-Slot 20x80x500 Linear Rail.step',\n    '2015-07-29T19:34:09',\n    ( '' ),\n    ( '' ),\n    'SwSTEP 2.0',\n    'SolidWorks 2014',\n    '' );\nFILE_SCHEMA (( 'CONFIG_CONTROL_DESIGN' ));\nENDSEC;\n\nDATA;\n#1 = LINE ( 'NONE', #2088, #1263 ) ;\n#2 = ADVANCED_FACE ( 'NONE', ( #251 ), #5403, .F. ) ;\n#3 = ADVANCED_FACE ( 'NONE', ( #3337 ), #686, .T. ) ;\n#4 = CARTESIAN_POINT ( 'NONE',  ( -2.100000000000000100, 10.00000000000000000, 500.0000000000000000 ) ) ;\n#5 = EDGE_LOOP ( 'NONE', ( #880, #1770, #3592, #5175 ) ) ;\n#6 = ORIENTED",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Profile cross-section": "20 x 80 mm",
+        "CAD length": "500 mm",
+        "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+        "CAD representation": "3D STEP; fixed-length rail",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "V-Slot 20x80x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    },
+    "openbuilds-c-beam-40x80-500mm": {
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/C-Beam 40x80x500 Linear Rail.step",
+      "filename": "C-Beam 40x80x500 Linear Rail.step",
+      "size": 698441,
+      "sha256": "3c06d8d007f33019ff85b9d5e691c306d2932f9c5447501949f73b5096dfbd6a",
+      "step_header": "ISO-10303-21;\nHEADER;\nFILE_DESCRIPTION (( 'STEP AP203' ),\n    '1' );\nFILE_NAME ('C-Beam 40x80x500 Linear Rail.step',\n    '2015-07-29T19:33:21',\n    ( '' ),\n    ( '' ),\n    'SwSTEP 2.0',\n    'SolidWorks 2014',\n    '' );\nFILE_SCHEMA (( 'CONFIG_CONTROL_DESIGN' ));\nENDSEC;\n\nDATA;\n#1 = CARTESIAN_POINT ( 'NONE',  ( 4.500000000000059500, 21.79999999999995800, 500.0000000000000000 ) ) ;\n#2 = EDGE_CURVE ( 'NONE', #4835, #7796, #8809, .T. ) ;\n#3 = ORIENTED_EDGE ( 'NONE', *, *, #7652, .F. ) ;\n#4 = DIRECTION ( 'NONE',  ( 7.917075415014877600E-015, -1.000000000000000000, 0.0000000000000000000 ) ) ;\n#5 = DI",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Profile cross-section": "40 x 80 mm",
+        "CAD length": "500 mm",
+        "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+        "CAD representation": "3D STEP; fixed-length rail",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "C-Beam 40x80x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    },
+    "openbuilds-solid-v-wheel-delrin": {
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/2 - Wheels/Solid V Wheel.step",
+      "filename": "Solid V Wheel.step",
+      "size": 35889,
+      "sha256": "d6ea73779d1818cb7d62b5bb571b6f97b5d6e1cdb41f356b6ebca617c0c89905",
+      "step_header": "ISO-10303-21;\nHEADER;\nFILE_DESCRIPTION (( 'STEP AP203' ),\n    '1' );\nFILE_NAME ('Solid V Wheel.step',\n    '2015-07-29T19:35:20',\n    ( '' ),\n    ( '' ),\n    'SwSTEP 2.0',\n    'SolidWorks 2014',\n    '' );\nFILE_SCHEMA (( 'CONFIG_CONTROL_DESIGN' ));\nENDSEC;\n\nDATA;\n#1 = DIRECTION ( 'NONE',  ( 1.000000000000000000, 0.0000000000000000000, -0.0000000000000000000 ) ) ;\n#2 = CARTESIAN_POINT ( 'NONE',  ( 5.099999999999998800, 0.0000000000000000000, 0.0000000000000000000 ) ) ;\n#3 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;\n#4 = SECURITY_CLASSIFICATIO",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Wheel material": "Delrin / POM (acetal)",
+        "Wheel outside diameter": "23.90 mm",
+        "Wheel width": "10.20 mm",
+        "Bearing seat bore (drawing)": "16 mm nominal",
+        "Drawing dimensions (OD x width)": "23.90 x 10.20 mm",
+        "CAD representation": "3D STEP; bare wheel without bearings",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "Solid V Wheel.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    },
+    "openbuilds-delrin-mini-v-wheel": {
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/2 - Wheels/Delrin Mini V Wheel.step",
+      "filename": "Delrin Mini V Wheel.step",
+      "size": 35903,
+      "sha256": "6a4aef4426f26c7d5c26970a39a7a46fd98807b47f9d9d835319fe2287b96d34",
+      "step_header": "ISO-10303-21;\nHEADER;\nFILE_DESCRIPTION (( 'STEP AP203' ),\n    '1' );\nFILE_NAME ('Delrin Mini V Wheel.step',\n    '2015-07-29T19:35:12',\n    ( '' ),\n    ( '' ),\n    'SwSTEP 2.0',\n    'SolidWorks 2014',\n    '' );\nFILE_SCHEMA (( 'CONFIG_CONTROL_DESIGN' ));\nENDSEC;\n\nDATA;\n#1 = DIRECTION ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, -1.000000000000000000 ) ) ;\n#2 = CARTESIAN_POINT ( 'NONE',  ( 0.0000000000000000000, 0.0000000000000000000, 0.0000000000000000000 ) ) ;\n#3 = PERSON_AND_ORGANIZATION ( #321, #136 ) ;\n#4 = CARTESIAN_POINT ( 'NONE',  ( -2.890000000000000100, 9.32568537550709510",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Wheel material": "Delrin / POM (acetal)",
+        "Wheel outside diameter": "15.23 mm",
+        "Wheel width": "8.80 mm",
+        "Bearing seat bore (drawing)": "10 mm nominal",
+        "Drawing dimensions (OD x width)": "15.23 x 8.80 mm",
+        "CAD representation": "3D STEP; bare wheel without bearings",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "Delrin Mini V Wheel.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    },
+    "openbuilds-eccentric-spacer-6mm": {
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/10 - Shims and Spacers/Eccentric Spacer 6mm.step",
+      "filename": "Eccentric Spacer 6mm.step",
+      "size": 76205,
+      "sha256": "3c74e89d47b1c9152263d8f6074156a86b9c1a1c34f446d1ec40f6dd202cb064",
+      "step_header": "ISO-10303-21;\nHEADER;\nFILE_DESCRIPTION (( 'STEP AP203' ),\n    '1' );\nFILE_NAME ('Eccentric Spacer 6mm.step',\n    '2015-07-29T19:34:47',\n    ( '' ),\n    ( '' ),\n    'SwSTEP 2.0',\n    'SolidWorks 2014',\n    '' );\nFILE_SCHEMA (( 'CONFIG_CONTROL_DESIGN' ));\nENDSEC;\n\nDATA;\n#1 = FACE_OUTER_BOUND ( 'NONE', #458, .T. ) ;\n#2 = DIRECTION ( 'NONE',  ( -0.5000000000000003300, 0.0000000000000000000, -0.8660254037844383700 ) ) ;\n#3 = CARTESIAN_POINT ( 'NONE',  ( -2.886751345948134900, 5.400000000000000400, 4.999999999999998200 ) ) ;\n#4 = CARTESIAN_POINT ( 'NONE',  ( 2.886751345948128700, 6.00000000000000000",
+      "specifications": {
+        "Reference type": "Legacy manufacturer design; community-hosted CAD",
+        "Spacer height": "6 mm",
+        "Bore diameter (drawing)": "5 mm",
+        "Material (drawing)": "Stainless steel",
+        "CAD representation": "3D STEP; standard 6 mm eccentric spacer",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "CAD license": "CC-BY-SA-4.0; original library license retained",
+        "Attribution": "Eccentric Spacer 6mm.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    }
+  },
+  "original_drawing_evidence": {
+    "Solid V Wheel": {
+      "url": "https://raw.githubusercontent.com/Botland-com-pl/v-slot-profiles-models/ae050c376202ed475d0f9b7d16f980e93e6c61b4/SOLID_WORKS/PDF%20Drawings/Solid%20V%20Wheel.PDF",
+      "size": 115955,
+      "sha256": "44c58d8eee274a2f82f00611fc8181cd9287896c7840081a27eaf957b7526e27"
+    },
+    "Mini V Wheel": {
+      "url": "https://raw.githubusercontent.com/Botland-com-pl/v-slot-profiles-models/ae050c376202ed475d0f9b7d16f980e93e6c61b4/SOLID_WORKS/PDF%20Drawings/Mini%20V%20Wheel.PDF",
+      "size": 104667,
+      "sha256": "0474f88bfc5b61db9973d7659290f27568b75ebf78dcaec7030e1864f4355955"
+    },
+    "Eccentric Spacer 6mm": {
+      "url": "https://raw.githubusercontent.com/Botland-com-pl/v-slot-profiles-models/ae050c376202ed475d0f9b7d16f980e93e6c61b4/SOLID_WORKS/PDF%20Drawings/Eccentric%20Spacer%206mm.PDF",
+      "size": 97028,
+      "sha256": "058ea14858eb2f656671a325c2855e364a8bb3d67ff762a8c965952078313f2f"
+    }
+  },
+  "license_evidence": {
+    "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+    "sha256": "cb56efbaa06333d22d180af5d4eddab6652fafd61bc5e854740c23f84ee93f84",
+    "size": 2557,
+    "scope": "Original files under orig retain the recorded OpenBuilds CC-BY-SA-4.0 license; the mirror author GPL fallback is separate.",
+    "attribution": "OpenBuilds, LLC; STEP Parts Library 1.5"
+  }
+}

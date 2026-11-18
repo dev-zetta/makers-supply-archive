@@ -1,0 +1,80 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.adafruit.com/product/819",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "adafruit"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "Sensors & Breakout Boards"
+  ],
+  "category_assignments": [
+    {
+      "id": "sensors-breakout-boards",
+      "label": "Sensors & Breakout Boards",
+      "path": [
+        "Electronics",
+        "Sensors & Breakout Boards"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.adafruit.com/product/819"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Three-terminal microswitch for a motion endstop or position detector.\n\nLeave room for roller travel and the mating terminal connectors."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Three-terminal microswitch for a motion endstop or position detector.\n\nLeave room for roller travel and the mating terminal connectors.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "adafruit-819-roller-limit-switch",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Unspecified",
+  "measurements": [],
+  "name": "Adafruit 819 roller-lever limit switch",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.adafruit.com/product/819"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://cdn-shop.adafruit.com/datasheets/baolianroller.jpg"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [
+    "819"
+  ],
+  "source_tables": [],
+  "specifications": {
+    "Actuator": "Momentary roller lever",
+    "CAD coverage": "Supplier dimensioned drawing",
+    "Contacts": "Common, normally open and normally closed",
+    "Source review": "reviewed-reference",
+    "Terminal width": "0.187 in"
+  },
+  "supplier_id": "adafruit",
+  "tags": [
+    "adafruit",
+    "limit-switch",
+    "microswitch",
+    "roller-lever",
+    "endstop"
+  ],
+  "variants": []
+}

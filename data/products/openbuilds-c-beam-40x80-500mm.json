@@ -1,0 +1,145 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "openbuilds"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/3c/3c06d8d007f33019ff85b9d5e691c306d2932f9c5447501949f73b5096dfbd6a.step",
+      "id": "model-133509be4f74a5d2a982",
+      "kind": "model",
+      "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+      "media_type": "application/p21",
+      "original_filename": "C-Beam 40x80x500 Linear Rail.step",
+      "retrieved_at": "2026-11-17T05:12:26Z",
+      "rights_status": "licensed",
+      "role": "component",
+      "sha256": "3c06d8d007f33019ff85b9d5e691c306d2932f9c5447501949f73b5096dfbd6a",
+      "size": 698441,
+      "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/1 - Linear Rail/C-Beam 40x80x500 Linear Rail.step",
+      "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+      "source_url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/C-Beam%2040x80x500%20Linear%20Rail.step"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/cb/cb56efbaa06333d22d180af5d4eddab6652fafd61bc5e854740c23f84ee93f84.txt",
+      "id": "document-4e372dbe4517bafe86a8",
+      "kind": "document",
+      "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+      "media_type": "text/plain",
+      "original_filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+      "retrieved_at": "2026-11-17T05:12:26Z",
+      "rights_status": "licensed",
+      "role": "document",
+      "sha256": "cb56efbaa06333d22d180af5d4eddab6652fafd61bc5e854740c23f84ee93f84",
+      "size": 2557,
+      "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+      "source_path": "_ref/OpenBuilds_STEP/license.txt",
+      "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+      "source_url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "mechanical",
+    "aluminium-extrusions"
+  ],
+  "category_assignments": [
+    {
+      "id": "mechanical",
+      "label": "Mechanical Components",
+      "path": [
+        "Hardware",
+        "Mechanical Components"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    },
+    {
+      "id": "aluminium-extrusions",
+      "label": "Aluminium-Extrusions",
+      "path": [
+        "Aluminium-Extrusions"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Legacy OpenBuilds C-Beam aluminium linear-rail reference with a 40 x 80 mm cross-section and exactly 500 mm CAD length. The file is not a parametric extrusion, and it does not represent other lengths or a live length/finish variant.\n\nLegacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. Other lengths, end tapping, cutting tolerances, anodizing, slot radii, mating T-nuts, wheel contact and fit are not established by this fixed-length CAD reference."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Legacy OpenBuilds C-Beam aluminium linear-rail reference with a 40 x 80 mm cross-section and exactly 500 mm CAD length. The file is not a parametric extrusion, and it does not represent other lengths or a live length/finish variant.\n\nLegacy OpenBuilds design reference from the community-hosted mirage335 mirror of STEP Parts Library 1.5. The direct original STEP is retained unchanged, with OpenBuilds, LLC attribution and the recorded CC-BY-SA-4.0 license. This is not a current manufacturer-hosted download or a confirmed current hardware revision. No current SKU, price, stock or complete purchasable kit is inferred. Verify the chosen physical part and its manufacturer drawing before a fit-critical design. Other lengths, end tapping, cutting tolerances, anodizing, slot radii, mating T-nuts, wheel contact and fit are not established by this fixed-length CAD reference.",
+  "first_seen": "2026-11-17T05:12:26Z",
+  "id": "openbuilds-c-beam-40x80-500mm",
+  "last_seen": "2026-11-17T05:12:26Z",
+  "manufacturer": "OpenBuilds",
+  "measurements": [],
+  "name": "OpenBuilds C-Beam 40x80 linear rail (500 mm legacy reference)",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://builds.openbuilds.com/projectresources/step-parts-library.162/"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://support.openbuilds.com/support/solutions/articles/65000167811-what-is-v-slot-"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/1%20-%20Linear%20Rail/C-Beam%2040x80x500%20Linear%20Rail.step"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Attribution": "C-Beam 40x80x500 Linear Rail.step; OpenBuilds, LLC design work shared under CC-BY-SA-4.0; STEP Parts Library 1.5 by Rob Stehlik; community-hosted mirror by mirage335; unchanged original STEP. https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+    "CAD length": "500 mm",
+    "CAD license": "CC-BY-SA-4.0; original library license retained",
+    "CAD representation": "3D STEP; fixed-length rail",
+    "Library source": "OpenBuilds STEP Parts Library 1.5",
+    "Material": "6063-T5 aluminium; OpenBuilds V-Slot/C-Beam family specification",
+    "Profile cross-section": "40 x 80 mm",
+    "Reference type": "Legacy manufacturer design; community-hosted CAD",
+    "Source review": "reviewed-legacy-reference"
+  },
+  "supplier_id": "openbuilds",
+  "tags": [
+    "openbuilds",
+    "aluminium-extrusion",
+    "aluminum-extrusion",
+    "v-slot",
+    "c-beam",
+    "linear-rail",
+    "legacy-reference",
+    "community-hosted-cad"
+  ],
+  "variants": []
+}

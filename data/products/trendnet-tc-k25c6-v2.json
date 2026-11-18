@@ -1,0 +1,87 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.trendnet.com/support/support-detail.asp?prod=115_TC-K25C6",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "trendnet"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "Connectors & Panel Controls"
+  ],
+  "category_assignments": [
+    {
+      "id": "connectors-panel-controls",
+      "label": "Connectors & Panel Controls",
+      "path": [
+        "Electronics",
+        "Connectors & Panel Controls"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.trendnet.com/support/support-detail.asp?prod=115_TC-K25C6"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Tool-less Cat 6 RJ45 jack with a 90° cable termination, supplied as a 25-pack.\n\nOverall size includes the housing. Test the snap fit against the chosen panel or wall plate."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Tool-less Cat 6 RJ45 jack with a 90° cable termination, supplied as a 25-pack.\n\nOverall size includes the housing. Test the snap fit against the chosen panel or wall plate.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "hardware_revision": "v2.0R",
+  "id": "trendnet-tc-k25c6-v2",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "TRENDnet",
+  "measurements": [],
+  "name": "TRENDnet TC-K25C6 Cat 6 RJ45 Keystone Jack",
+  "offers": [],
+  "part_numbers": [
+    "TC-K25C6"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.trendnet.com/support/support-detail.asp?prod=115_TC-K25C6"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://downloads.trendnet.com/TC-K25C6_v2/datasheets/EN_intl_datasheets_TC-K25C6_%28v2.0R%29.pdf"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://downloads.trendnet.com/TC-K50C6/QIG/QIG_TC-K25C6_TC-K50C6.pdf"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Overall size": "40 × 22 × 17 mm",
+    "Package quantity": "25",
+    "Source review": "reviewed-reference",
+    "Termination": "90° tool-less",
+    "Wiring label": "T568B"
+  },
+  "supplier_id": "trendnet",
+  "tags": [
+    "trendnet",
+    "rj45",
+    "keystone",
+    "ethernet",
+    "cat6",
+    "connector"
+  ],
+  "variants": []
+}

@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-11-17",
+  "notes": "Three legacy OpenBuilds stepper motor references from the attributed original STEP Parts Library 1.5, preserved through an immutable community mirror. The manufacturer's current store was unavailable during review; no current SKU mapping, offers or electrical ratings are inferred. NEMA frame families remain distinct from exact body lengths and shaft geometry.",
+  "products": [
+    {
+      "id": "openbuilds-nema17-legacy",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds NEMA 17 stepper motor (legacy CAD reference)",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/6%20-%20Electronics/Nema%2017%20Stepper%20Motor.step",
+      "documentation_urls": [
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+        "https://openbuilds.com/projectresources/step-parts-library.162/",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "categories": [
+        "motors",
+        "motion"
+      ],
+      "tags": [
+        "stepper-motor",
+        "nema-17",
+        "legacy-reference",
+        "community-mirror",
+        "manufacturer-design"
+      ],
+      "part_numbers": [],
+      "skus": [],
+      "selected_skus": [],
+      "description": "Legacy OpenBuilds NEMA 17 STEP reference with a 48 mm model body, from STEP Parts Library 1.5. The original export is preserved unchanged through a pinned community mirror. NEMA frame labels do not establish a universal motor body, shaft, electrical rating, or current product SKU. OpenBuilds, LLC — STEP Parts Library 1.5; unchanged source geometry mirrored by mirage335; Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+      "specifications": {
+        "Reference type": "Legacy OpenBuilds design, community-hosted mirror",
+        "Motor frame family": "NEMA 17",
+        "Model body face": "Approximately 42.42 x 42.42 mm",
+        "Model body length": "48 mm",
+        "Model shaft diameter": "5 mm",
+        "Model shaft projection from mounting face": "24 mm",
+        "Model mounting-hole pitch": "31 x 31 mm",
+        "Dimension source": "Source STEP millimetre coordinates, front-hole centres and shaft-circle radius; model-specific reference dimensions",
+        "CAD representation": "Unchanged 3D STEP; STEP Parts Library 1.5",
+        "CAD export timestamp": "2015-07-29T19:36:26",
+        "CAD license": "CC BY-SA 4.0 (original-library attribution notice)",
+        "Attribution": "OpenBuilds, LLC — STEP Parts Library 1.5; unchanged source geometry mirrored by mirage335; Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+        "Electrical characteristics": "Not established by this legacy geometry; consult the chosen motor's datasheet"
+      },
+      "compatibility_notes": "Legacy model geometry, not a verified CAD mapping to current stock. Confirm the purchased motor's body length, mounting holes, shaft diameter and flat, shaft projection, connector and cable clearances before designing a mount. NEMA frame size alone does not establish those details or electrical compatibility. Dimensions listed here describe this STEP file; the export timestamp is not a physical hardware revision. No current SKU, torque, current, price or stock is inferred.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/6%20-%20Electronics/Nema%2017%20Stepper%20Motor.step",
+          "filename": "Nema 17 Stepper Motor.step",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/6 - Electronics/Nema 17 Stepper Motor.step",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-nema23-legacy",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds NEMA 23 stepper motor (legacy CAD reference)",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/6%20-%20Electronics/Nema%2023%20Stepper%20Motor.step",
+      "documentation_urls": [
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+        "https://openbuilds.com/projectresources/step-parts-library.162/",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "categories": [
+        "motors",
+        "motion"
+      ],
+      "tags": [
+        "stepper-motor",
+        "nema-23",
+        "legacy-reference",
+        "community-mirror",
+        "manufacturer-design"
+      ],
+      "part_numbers": [],
+      "skus": [],
+      "selected_skus": [],
+      "description": "Legacy OpenBuilds NEMA 23 STEP reference with a 56 mm model body, from STEP Parts Library 1.5. The original export is preserved unchanged through a pinned community mirror. NEMA frame labels do not establish a universal motor body, shaft, electrical rating, or current product SKU. OpenBuilds, LLC — STEP Parts Library 1.5; unchanged source geometry mirrored by mirage335; Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+      "specifications": {
+        "Reference type": "Legacy OpenBuilds design, community-hosted mirror",
+        "Motor frame family": "NEMA 23",
+        "Model body face": "Approximately 56.4 x 56.4 mm",
+        "Model body length": "56 mm",
+        "Model shaft diameter": "6.35 mm",
+        "Model shaft projection from mounting face": "20.6 mm",
+        "Model mounting-hole pitch": "47.14 x 47.14 mm",
+        "Dimension source": "Source STEP millimetre coordinates, front-hole centres and shaft-circle radius; model-specific reference dimensions",
+        "CAD representation": "Unchanged 3D STEP; STEP Parts Library 1.5",
+        "CAD export timestamp": "2015-07-29T19:36:29",
+        "CAD license": "CC BY-SA 4.0 (original-library attribution notice)",
+        "Attribution": "OpenBuilds, LLC — STEP Parts Library 1.5; unchanged source geometry mirrored by mirage335; Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+        "Electrical characteristics": "Not established by this legacy geometry; consult the chosen motor's datasheet"
+      },
+      "compatibility_notes": "Legacy model geometry, not a verified CAD mapping to current stock. Confirm the purchased motor's body length, mounting holes, shaft diameter and flat, shaft projection, connector and cable clearances before designing a mount. NEMA frame size alone does not establish those details or electrical compatibility. Dimensions listed here describe this STEP file; the export timestamp is not a physical hardware revision. No current SKU, torque, current, price or stock is inferred.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/6%20-%20Electronics/Nema%2023%20Stepper%20Motor.step",
+          "filename": "Nema 23 Stepper Motor.step",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/6 - Electronics/Nema 23 Stepper Motor.step",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-nema23-high-torque-legacy",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds NEMA 23 High Torque stepper motor (legacy CAD reference)",
+      "hardware_revision": null,
+      "source_kind": "reference",
+      "store_id": "",
+      "product_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/6%20-%20Electronics/Nema%2023%20High%20Torque%20Stepper%20Motor.STEP",
+      "documentation_urls": [
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+        "https://openbuilds.com/projectresources/step-parts-library.162/",
+        "https://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "categories": [
+        "motors",
+        "motion"
+      ],
+      "tags": [
+        "stepper-motor",
+        "nema-23",
+        "legacy-reference",
+        "community-mirror",
+        "manufacturer-design"
+      ],
+      "part_numbers": [],
+      "skus": [],
+      "selected_skus": [],
+      "description": "Legacy OpenBuilds NEMA 23 High Torque STEP reference with a 86 mm model body, from STEP Parts Library 1.5. The original export is preserved unchanged through a pinned community mirror. NEMA frame labels do not establish a universal motor body, shaft, electrical rating, or current product SKU. OpenBuilds, LLC — STEP Parts Library 1.5; unchanged source geometry mirrored by mirage335; Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+      "specifications": {
+        "Reference type": "Legacy OpenBuilds design, community-hosted mirror",
+        "Motor frame family": "NEMA 23",
+        "Model body face": "Approximately 56.4 x 56.4 mm",
+        "Model body length": "86 mm",
+        "Model shaft diameter": "6.35 mm",
+        "Model shaft projection from mounting face": "20.6 mm",
+        "Model mounting-hole pitch": "47.14 x 47.14 mm",
+        "Dimension source": "Source STEP millimetre coordinates, front-hole centres and shaft-circle radius; model-specific reference dimensions",
+        "CAD representation": "Unchanged 3D STEP; STEP Parts Library 1.5",
+        "CAD export timestamp": "2016-09-02T18:19:03",
+        "CAD license": "CC BY-SA 4.0 (original-library attribution notice)",
+        "Attribution": "OpenBuilds, LLC — STEP Parts Library 1.5; unchanged source geometry mirrored by mirage335; Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+        "Electrical characteristics": "Not established by this legacy geometry; consult the chosen motor's datasheet"
+      },
+      "compatibility_notes": "Legacy model geometry, not a verified CAD mapping to current stock. Confirm the purchased motor's body length, mounting holes, shaft diameter and flat, shaft projection, connector and cable clearances before designing a mount. NEMA frame size alone does not establish those details or electrical compatibility. Dimensions listed here describe this STEP file; the export timestamp is not a physical hardware revision. No current SKU, torque, current, price or stock is inferred.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-17",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/6%20-%20Electronics/Nema%2023%20High%20Torque%20Stepper%20Motor.STEP",
+          "filename": "Nema 23 High Torque Stepper Motor.STEP",
+          "role": "component",
+          "applies_to_skus": [],
+          "hardware_revision": null,
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/6 - Electronics/Nema 23 High Torque Stepper Motor.STEP",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "rights_status": "licensed",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    }
+  ]
+}

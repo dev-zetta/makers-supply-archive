@@ -1,0 +1,84 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://server1.openbuilds.com/builds/c-beam-machine-xlarge.3675/",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "openbuilds"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "Linear Motion & Transmission"
+  ],
+  "category_assignments": [
+    {
+      "id": "linear-motion-transmission",
+      "label": "Linear Motion & Transmission",
+      "path": [
+        "Hardware",
+        "Linear Motion & Transmission"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://server1.openbuilds.com/builds/c-beam-machine-xlarge.3675/"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "500 mm OpenBuilds metric lead screw documented in the C-Beam Machine XLarge parts list.\n\nThe part number is the historical BOM identifier. Select a nut with the matching thread and lead, and verify the required end machining."
+    }
+  ],
+  "description_html": "",
+  "description_text": "500 mm OpenBuilds metric lead screw documented in the C-Beam Machine XLarge parts list.\n\nThe part number is the historical BOM identifier. Select a nut with the matching thread and lead, and verify the required end machining.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "openbuilds-tr8x8-lead-screw-500mm",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "OpenBuilds",
+  "measurements": [],
+  "name": "OpenBuilds T8 lead screw, 8 mm lead, 500 mm (legacy reference)",
+  "offers": [],
+  "part_numbers": [
+    "20-LP"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://server1.openbuilds.com/builds/c-beam-machine-xlarge.3675/"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://builds.openbuilds.com/uploadfiles/Manuals/New_C-Beam%20Machine%20XLarge-Mech%20Manual_2.pdf"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Axial pitch": "2 mm",
+    "CAD access": "Documentation reference",
+    "Lead": "8 mm per revolution",
+    "Length": "500 mm",
+    "Nominal diameter": "8 mm",
+    "Source review": "reviewed-legacy-reference",
+    "Thread designation": "Tr8x8(P2)",
+    "Thread starts": "4"
+  },
+  "supplier_id": "openbuilds",
+  "tags": [
+    "openbuilds",
+    "t8",
+    "tr8x8",
+    "lead-screw",
+    "linear-drive",
+    "legacy-reference"
+  ],
+  "variants": []
+}

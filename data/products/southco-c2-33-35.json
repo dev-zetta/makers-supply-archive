@@ -1,0 +1,85 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://southco.com/en_us_int/c2-33-35",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "southco"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "Enclosure & Assembly Hardware"
+  ],
+  "category_assignments": [
+    {
+      "id": "enclosure-assembly-hardware",
+      "label": "Enclosure & Assembly Hardware",
+      "path": [
+        "Hardware",
+        "Enclosure & Assembly Hardware"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://southco.com/en_us_int/c2-33-35"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Flush-trigger compression latch for a removable or hinged enclosure panel.\n\nThe product page provides Southco's CAD download. Check the trade drawing for the cutout and grip dimensions."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Flush-trigger compression latch for a removable or hinged enclosure panel.\n\nThe product page provides Southco's CAD download. Check the trade drawing for the cutout and grip dimensions.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "southco-c2-33-35",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Southco",
+  "measurements": [],
+  "name": "Southco C2-33-35 Compression Lever Latch",
+  "offers": [],
+  "part_numbers": [
+    "C2-33-35"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://southco.com/en_us_int/c2-33-35"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://media.southco.com/media/static/Literature/C2.en.pdf"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://media.southco.com/media/static/JDrawing/J-C2-33-3.pdf"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Grip adjustment": "23–46 mm",
+    "Material": "Black powder-coated zinc alloy",
+    "Panel thickness": "1–5 mm (manufacturer product designation)",
+    "Seal": "Unsealed",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "southco",
+  "tags": [
+    "southco",
+    "latch",
+    "compression-latch",
+    "panel-mount",
+    "access-panel"
+  ],
+  "variants": []
+}

@@ -1,22 +1,31 @@
 {
-  "assets_downloaded": 8,
+  "assets_downloaded": 20,
   "assets_rejected": 0,
-  "bytes_downloaded": 3185063,
-  "completed_at": "2026-11-17T04:45:24Z",
+  "bytes_downloaded": 10414597,
+  "completed_at": "2026-11-18T19:29:25Z",
   "metadata_only": false,
-  "products_written": 8,
+  "products_written": 33,
   "regions": [
     {
-      "products_seen": 8,
+      "products_seen": 33,
       "region": "global",
       "success": true
     }
   ],
   "schema_version": 1,
-  "started_at": "2026-11-17T04:45:04Z",
+  "started_at": "2026-11-18T19:28:52Z",
   "supplier_ids": [
-    "freecad-library",
-    "generic-pc",
-    "noctua"
+    "adafruit",
+    "du-bro",
+    "e-switch",
+    "hiwin",
+    "igus",
+    "leviton",
+    "littelfuse",
+    "mean-well",
+    "openbuilds",
+    "pololu",
+    "southco",
+    "trendnet"
   ]
 }

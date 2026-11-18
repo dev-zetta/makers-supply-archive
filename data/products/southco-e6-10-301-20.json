@@ -1,0 +1,85 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://southco.com/en_us_int/e6-10-301-20",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "southco"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "Enclosure & Assembly Hardware"
+  ],
+  "category_assignments": [
+    {
+      "id": "enclosure-assembly-hardware",
+      "label": "Enclosure & Assembly Hardware",
+      "path": [
+        "Hardware",
+        "Enclosure & Assembly Hardware"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://southco.com/en_us_int/e6-10-301-20"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Medium black acetal hinge for guiding and positioning a service panel or lid.\n\nThe product page provides Southco's CAD download. The linked medium-hinge drawing shows the mounting pattern."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Medium black acetal hinge for guiding and positioning a service panel or lid.\n\nThe product page provides Southco's CAD download. The linked medium-hinge drawing shows the mounting pattern.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "southco-e6-10-301-20",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Southco",
+  "measurements": [],
+  "name": "Southco E6-10-301-20 Adjustable Torque Hinge",
+  "offers": [],
+  "part_numbers": [
+    "E6-10-301-20"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://southco.com/en_us_int/e6-10-301-20"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://media.southco.com/media/static/Literature/e6.en.pdf"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://media.southco.com/media/static/JDrawing/J-E6-10-301-20.pdf"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Material": "Acetal copolymer",
+    "Mounting": "Rivet or screw",
+    "Mounting clearance hole diameter": "4.5 mm nominal, per medium hinge pattern",
+    "Source review": "reviewed-reference",
+    "Torque": "0.79 N·m forward and reverse"
+  },
+  "supplier_id": "southco",
+  "tags": [
+    "southco",
+    "hinge",
+    "adjustable-torque",
+    "access-panel",
+    "acetal"
+  ],
+  "variants": []
+}

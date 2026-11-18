@@ -1,0 +1,80 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.adafruit.com/product/4541",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "adafruit"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "Sensors & Breakout Boards"
+  ],
+  "category_assignments": [
+    {
+      "id": "sensors-breakout-boards",
+      "label": "Sensors & Breakout Boards",
+      "path": [
+        "Electronics",
+        "Sensors & Breakout Boards"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.adafruit.com/product/4541"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Aluminium bar load cell for weighing and force measurement. A separate ADC reads the bridge signal.\n\nThis record describes the 75 mm body. Use the installed sensor's mounting geometry and calibrate after assembly."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Aluminium bar load cell for weighing and force measurement. A separate ADC reads the bridge signal.\n\nThis record describes the 75 mm body. Use the installed sensor's mounting geometry and calibrate after assembly.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "adafruit-4541-5kg-load-cell",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Unspecified",
+  "measurements": [],
+  "name": "Adafruit 4541 5 kg strain-gauge load cell",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.adafruit.com/product/4541"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://learn.adafruit.com/adafruit-hx711-24-bit-adc/overview"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [
+    "4541"
+  ],
+  "source_tables": [],
+  "specifications": {
+    "Body dimensions": "75.0 x 12.7 x 12.7 mm",
+    "CAD coverage": "Published body dimensions",
+    "Connection": "Four wires",
+    "Nominal capacity": "5 kg",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "adafruit",
+  "tags": [
+    "adafruit",
+    "load-cell",
+    "strain-gauge",
+    "weighing",
+    "wheatstone-bridge"
+  ],
+  "variants": []
+}

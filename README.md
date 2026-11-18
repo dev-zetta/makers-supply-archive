@@ -5,7 +5,7 @@ pricing, and project parts lists in one place. Maker's Fridge uses `makersfridge
 as its package, command, and repository name.
 
 The versioned archive catalogs Bambu Lab Maker's Supply alongside reviewed
-BIGTREETECH, BIQU, Waveshare, Raspberry Pi, Espressif, and Noctua references,
+BIGTREETECH, BIQU, Waveshare, Raspberry Pi, Espressif, Noctua, and OpenBuilds references,
 plus generic PC fit references from the FreeCAD Parts Library and Intel's PSU
 design guide. Canonical, reviewable JSON records are paired with content-addressed
 files and a generated SQLite catalog.
@@ -75,6 +75,7 @@ uv run makersfridge sync --supplier bigtreetech --supplier biqu --resume
 uv run makersfridge sync --supplier waveshare --resume
 uv run makersfridge sync --supplier raspberry-pi --supplier espressif --resume
 uv run makersfridge sync --supplier noctua --supplier freecad-library --supplier generic-pc --resume
+uv run makersfridge sync --supplier openbuilds --resume
 uv run makersfridge build-db
 ```
 
@@ -121,6 +122,29 @@ drawings and record body dimensions; they are documentation-only references,
 with no downloadable PSU CAD. All four generic entries have a visible **Generic
 reference** badge and names that retain that distinction in saved lists. Check
 actual hardware and cable/connector clearances before a fit-critical design.
+
+The OpenBuilds set adds four V-Slot extrusion profiles (20x20, 20x40, 20x60,
+20x80) and C-Beam 40x80, each represented by a 500 mm STEP model; Solid V and
+Mini V Delrin/POM wheels; a 6 mm eccentric spacer; and NEMA 17, NEMA 23 and
+NEMA 23 High Torque stepper models. These are legacy CAD references from the
+original STEP Parts Library 1.5, retrieved from a pinned community mirror with
+the original attribution and CC-BY-SA 4.0 notice. They are labeled as legacy
+references, with no inferred current storefront SKU, price or stock. Source
+motor body lengths and shaft dimensions describe those particular models;
+a NEMA frame designation does not establish another motor's body length,
+electrical ratings, shaft, connector or cable clearances. Extrusion CAD length
+does not imply compatibility with every current rail SKU. See the
+[mechanical source review](docs/openbuilds-mechanical-sources.md) and
+[motor source review](docs/openbuilds-motor-sources.md).
+
+The maker starter sets cover Linear Motion & Transmission, Connectors & Panel
+Controls, Power & Battery Hardware, Sensors & Breakout Boards, Enclosure &
+Assembly Hardware, and Robotics & Small Actuators. Find them using the category
+filter or search by manufacturer part number. Each reference links to its source
+and lists the dimensions or variant details relevant to fit. Verified CAD files
+and drawings appear in Downloads. When a manufacturer publishes a combined CAD
+library, the reference links to that library and identifies the matching member
+where the source establishes the mapping.
 
 The source manifest's relative JSON includes keep reviewed manufacturer sets
 separate. Included files are confined to the configuration directory; duplicate

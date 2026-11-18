@@ -1,0 +1,128 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.adafruit.com/product/3967",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "adafruit"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [
+        "3967"
+      ],
+      "blob_path": "data/blobs/sha256/1f/1f03e8789f0c7f90312453970ac0cc147338092a4ab039baaee40fff2302bc08.step",
+      "id": "model-6c08ae9ce71aa993be9c",
+      "kind": "model",
+      "license_url": "https://github.com/adafruit/Adafruit_CAD_Parts/blob/9f2a89f3d5c3491886d58cb7fe83385417563cf4/LICENSE",
+      "media_type": "application/p21",
+      "original_filename": "3967 VL5SL1X TOF Sensor.step",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "permissive",
+      "role": "component",
+      "sha256": "1f03e8789f0c7f90312453970ac0cc147338092a4ab039baaee40fff2302bc08",
+      "size": 956659,
+      "source_commit": "9f2a89f3d5c3491886d58cb7fe83385417563cf4",
+      "source_path": "3967 VL5SL1X TOF Sensor/3967 VL5SL1X TOF Sensor.step",
+      "source_repository": "https://github.com/adafruit/Adafruit_CAD_Parts",
+      "source_url": "https://raw.githubusercontent.com/adafruit/Adafruit_CAD_Parts/9f2a89f3d5c3491886d58cb7fe83385417563cf4/3967%20VL5SL1X%20TOF%20Sensor/3967%20VL5SL1X%20TOF%20Sensor.step"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/f6/f60436644e066301d4c2e8f1f0674a157b1f60e4fd5586717b99dde255cc18cd.txt",
+      "id": "document-7540994acedc801a1a71",
+      "kind": "document",
+      "license_url": "https://github.com/adafruit/Adafruit_CAD_Parts/blob/9f2a89f3d5c3491886d58cb7fe83385417563cf4/LICENSE",
+      "media_type": "text/plain",
+      "original_filename": "Adafruit-CAD-Parts-LICENSE.txt",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "permissive",
+      "role": "document",
+      "sha256": "f60436644e066301d4c2e8f1f0674a157b1f60e4fd5586717b99dde255cc18cd",
+      "size": 1076,
+      "source_commit": "9f2a89f3d5c3491886d58cb7fe83385417563cf4",
+      "source_path": "LICENSE",
+      "source_repository": "https://github.com/adafruit/Adafruit_CAD_Parts",
+      "source_url": "https://raw.githubusercontent.com/adafruit/Adafruit_CAD_Parts/9f2a89f3d5c3491886d58cb7fe83385417563cf4/LICENSE"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Sensors & Breakout Boards"
+  ],
+  "category_assignments": [
+    {
+      "id": "sensors-breakout-boards",
+      "label": "Sensors & Breakout Boards",
+      "path": [
+        "Electronics",
+        "Sensors & Breakout Boards"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.adafruit.com/product/3967"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Optical ranging breakout for measuring distance in a compact enclosure.\n\nThe STEP is linked by Adafruit's item 3967 guide. Its filename uses the repository's VL5SL1X spelling. Reserve space for the optical aperture and both cable connectors."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Optical ranging breakout for measuring distance in a compact enclosure.\n\nThe STEP is linked by Adafruit's item 3967 guide. Its filename uses the repository's VL5SL1X spelling. Reserve space for the optical aperture and both cable connectors.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "adafruit-3967-vl53l1x",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Adafruit",
+  "measurements": [],
+  "name": "Adafruit VL53L1X time-of-flight distance sensor",
+  "offers": [],
+  "part_numbers": [],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.adafruit.com/product/3967"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://learn.adafruit.com/adafruit-vl53l1x/downloads"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://github.com/adafruit/Adafruit_CAD_Parts/tree/9f2a89f3d5c3491886d58cb7fe83385417563cf4/3967%20VL5SL1X%20TOF%20Sensor"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [
+    "3967"
+  ],
+  "source_tables": [],
+  "specifications": {
+    "Board assembly dimensions": "25.5 x 17.5 x 4.6 mm",
+    "CAD coverage": "Adafruit item 3967 STEP",
+    "CAD license": "MIT",
+    "Interface": "I²C via STEMMA QT / Qwiic",
+    "Published measurement range": "Approximately 30–4000 mm, depending on conditions",
+    "Sensor": "ST VL53L1X / VL53L1CX",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "adafruit",
+  "tags": [
+    "adafruit",
+    "distance-sensor",
+    "tof",
+    "lidar",
+    "stemma-qt",
+    "qwiic",
+    "i2c"
+  ],
+  "variants": []
+}

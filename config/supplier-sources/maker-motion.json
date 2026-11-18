@@ -1,0 +1,478 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-11-18",
+  "notes": "Reviewed motion and robotics parts with manufacturer specifications, accessible drawings and variant-specific CAD where verified. Pololu family archives are linked with identifying member names. OpenBuilds legacy parts retain their historical source identity and original STEP library attribution.",
+  "products": [
+    {
+      "id": "hiwin-mgnr09r1200hm",
+      "supplier_id": "hiwin",
+      "manufacturer": "HIWIN",
+      "name": "HIWIN MGN9 miniature linear rail (1200 mm manufacturing length)",
+      "source_kind": "reference",
+      "product_url": "https://www.hiwin.de/en/Products/Linear-guideways/Profile-rails/Miniature-guides/MGNR-HIRES-series/MGNR09R1200HM/p/5-001068",
+      "documentation_urls": [
+        "https://www.hiwin.de/en/Products/Linear-guideways/Profile-rails/Miniature-guides/MGNR-HIRES-series",
+        "https://hiwin.com/products/linear-guideways/mg-series/"
+      ],
+      "categories": [
+        "Linear Motion & Transmission"
+      ],
+      "tags": [
+        "linear-rail",
+        "linear-guide",
+        "mgn",
+        "mgn9"
+      ],
+      "description": "Narrow MGNR profile rail supplied in manufacturing length for cut-to-length linear guides.",
+      "specifications": {
+        "Model": "MGNR09R1200HM",
+        "Rail width": "9 mm",
+        "Rail height": "6.5 mm",
+        "Mounting hole pitch": "20 mm",
+        "Nominal manufacturing length": "1200 mm",
+        "CAD access": "Manufacturer rail configurator and dimensional tables"
+      },
+      "part_numbers": [
+        "MGNR09R1200HM",
+        "5-001068"
+      ],
+      "compatibility_notes": "Verify end-hole offsets and cut length in HIWIN's rail configurator before designing the mounting pattern. The rail is a separate part from the carriage.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "hiwin-mgnr12r2000hm",
+      "supplier_id": "hiwin",
+      "manufacturer": "HIWIN",
+      "name": "HIWIN MGN12 miniature linear rail (2000 mm manufacturing length)",
+      "source_kind": "reference",
+      "product_url": "https://www.hiwin.de/en/Products/Linear-guideways/Profile-rails/Miniature-guides/MGNR-HIRES-series/MGNR12R2000HM/p/5-001078",
+      "documentation_urls": [
+        "https://www.hiwin.de/en/Products/Linear-guideways/Profile-rails/Miniature-guides/MGNR-HIRES-series",
+        "https://hiwin.com/products/linear-guideways/mg-series/"
+      ],
+      "categories": [
+        "Linear Motion & Transmission"
+      ],
+      "tags": [
+        "linear-rail",
+        "linear-guide",
+        "mgn",
+        "mgn12"
+      ],
+      "description": "Narrow MGNR profile rail supplied in manufacturing length for cut-to-length linear guides.",
+      "specifications": {
+        "Model": "MGNR12R2000HM",
+        "Rail width": "12 mm",
+        "Rail height": "8 mm",
+        "Mounting hole pitch": "25 mm",
+        "Nominal manufacturing length": "2000 mm",
+        "CAD access": "Manufacturer rail configurator and dimensional tables"
+      },
+      "part_numbers": [
+        "MGNR12R2000HM",
+        "5-001078"
+      ],
+      "compatibility_notes": "Verify end-hole offsets and cut length in HIWIN's rail configurator before designing the mounting pattern. The rail is a separate part from the carriage.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "igus-rj4jp-01-08",
+      "supplier_id": "igus",
+      "manufacturer": "igus",
+      "name": "igus drylin R RJ4JP-01-08 linear slide bearing",
+      "source_kind": "reference",
+      "product_url": "https://www.igus.com/product/drylin_RJ4JP_01",
+      "documentation_urls": [
+        "https://www.igus.com/industry/3d-printer/frequently-used-products",
+        "https://igus.widen.net/content/vczwylwbrw/webp/Zg_RJ4JP-01-xx.webp?quality=65"
+      ],
+      "categories": [
+        "Linear Motion & Transmission"
+      ],
+      "tags": [
+        "linear-bearing",
+        "linear-bushing",
+        "8-mm-shaft",
+        "lm8uu"
+      ],
+      "description": "All-polymer plain linear bearing for an 8 mm shaft with retaining grooves for circlips.",
+      "specifications": {
+        "Shaft diameter": "8 mm",
+        "Bearing type": "Plain slide bearing",
+        "Material": "iglide J4",
+        "Retention": "Circlips",
+        "CAD access": "Manufacturer product-page download configurator"
+      },
+      "part_numbers": [
+        "RJ4JP-01-08"
+      ],
+      "compatibility_notes": "igus lists the same nominal dimensions as LM8UU. Check the shaft material, housing, operating loads and sliding performance for the actual installation.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "openbuilds-gt2-20t-legacy",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds GT2 timing pulley, 20 teeth (legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/4%20-%20Pulleys/GT2%20Timing%20Pulley%2020%20Tooth.step",
+      "documentation_urls": [
+        "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+      ],
+      "categories": [
+        "Linear Motion & Transmission"
+      ],
+      "tags": [
+        "gt2",
+        "timing-pulley",
+        "20t",
+        "legacy-reference"
+      ],
+      "description": "Legacy 20-tooth driver pulley with a 5 mm bore in the source model. The STEP is an envelope with a simplified tooth region.",
+      "specifications": {
+        "Profile": "GT2",
+        "Nominal tooth count": "20",
+        "Model shaft bore": "5 mm",
+        "Model flange diameter": "15 mm",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "Attribution": "OpenBuilds, LLC, STEP Parts Library 1.5 by Rob Stehlik, CC BY-SA 4.0, community mirror by mirage335. Original STEP."
+      },
+      "part_numbers": [],
+      "compatibility_notes": "Confirm belt pitch, working width, bearing hardware and installed clearances against the physical part before using this historical geometry.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/4%20-%20Pulleys/GT2%20Timing%20Pulley%2020%20Tooth.step",
+          "filename": "GT2 Timing Pulley 20 Tooth.step",
+          "role": "component",
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/4 - Pulleys/GT2 Timing Pulley 20 Tooth.step",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-smooth-idler-wheel-legacy",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds smooth idler pulley wheel (legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/4%20-%20Pulleys/Smooth%20Idler%20Pulley%20Wheel.step",
+      "documentation_urls": [
+        "https://builds.openbuilds.com/projectresources/step-parts-library.162/",
+        "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+      ],
+      "categories": [
+        "Linear Motion & Transmission"
+      ],
+      "tags": [
+        "idler",
+        "smooth-idler",
+        "belt-drive",
+        "legacy-reference"
+      ],
+      "description": "Bare smooth belt idler wheel with 22 mm flanges and 16 mm bearing seats in the source STEP.",
+      "specifications": {
+        "Belt running surface": "Smooth",
+        "Model flange diameter": "22 mm",
+        "Model bearing seat diameter": "16 mm",
+        "CAD contents": "Bare pulley wheel",
+        "Library source": "OpenBuilds STEP Parts Library 1.5",
+        "Attribution": "OpenBuilds, LLC, STEP Parts Library 1.5 by Rob Stehlik, CC BY-SA 4.0, community mirror by mirage335. Original STEP."
+      },
+      "part_numbers": [],
+      "compatibility_notes": "Confirm belt pitch, working width, bearing hardware and installed clearances against the physical part before using this historical geometry.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/orig/STEP%20Parts%20Library%201.5/4%20-%20Pulleys/Smooth%20Idler%20Pulley%20Wheel.step",
+          "filename": "Smooth Idler Pulley Wheel.step",
+          "role": "component",
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/4 - Pulleys/Smooth Idler Pulley Wheel.step",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mirage335/templates-lib-OpenBuilds_STEP/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+          "filename": "OpenBuilds-STEP-Library-LICENSE.txt",
+          "role": "document",
+          "rights_status": "licensed",
+          "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+          "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+          "source_path": "_ref/OpenBuilds_STEP/license.txt",
+          "license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt"
+        }
+      ]
+    },
+    {
+      "id": "openbuilds-tr8x8-lead-screw-500mm",
+      "supplier_id": "openbuilds",
+      "manufacturer": "OpenBuilds",
+      "name": "OpenBuilds T8 lead screw, 8 mm lead, 500 mm (legacy reference)",
+      "source_kind": "reference",
+      "product_url": "https://server1.openbuilds.com/builds/c-beam-machine-xlarge.3675/",
+      "documentation_urls": [
+        "https://builds.openbuilds.com/uploadfiles/Manuals/New_C-Beam%20Machine%20XLarge-Mech%20Manual_2.pdf"
+      ],
+      "categories": [
+        "Linear Motion & Transmission"
+      ],
+      "tags": [
+        "t8",
+        "tr8x8",
+        "lead-screw",
+        "linear-drive",
+        "legacy-reference"
+      ],
+      "description": "500 mm OpenBuilds metric lead screw documented in the C-Beam Machine XLarge parts list.",
+      "specifications": {
+        "Thread designation": "Tr8x8(P2)",
+        "Nominal diameter": "8 mm",
+        "Axial pitch": "2 mm",
+        "Lead": "8 mm per revolution",
+        "Thread starts": "4",
+        "Length": "500 mm",
+        "CAD access": "Documentation reference"
+      },
+      "part_numbers": [
+        "20-LP"
+      ],
+      "compatibility_notes": "The part number is the historical BOM identifier. Select a nut with the matching thread and lead, and verify the required end machining.",
+      "review_status": "reviewed-legacy-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "pololu-3700",
+      "supplier_id": "pololu",
+      "manufacturer": "Pololu",
+      "name": "Pololu 3700 25:1 20D brushed DC gearmotor (6 V)",
+      "source_kind": "reference",
+      "product_url": "https://www.pololu.com/product/3700",
+      "documentation_urls": [
+        "https://www.pololu.com/product/3700/resources",
+        "https://www.pololu.com/file/0J1242/20d-metal-gearmotor-dimension-diagram.pdf",
+        "https://www.pololu.com/file/0J1243/20d-metal-gearmotors-3d-models.zip"
+      ],
+      "categories": [
+        "Robotics & Small Actuators"
+      ],
+      "tags": [
+        "dc-gearmotor",
+        "brushed-dc",
+        "20d-gearmotor",
+        "robotics"
+      ],
+      "description": "Carbon-brush DC gearmotor with a metal spur gearbox and a 4 mm D-shaped output shaft.",
+      "specifications": {
+        "Nominal voltage": "6 V",
+        "Gear ratio": "25:1",
+        "Body diameter": "20 mm",
+        "Nominal body length": "41 mm",
+        "Output shaft": "4 mm diameter, D-shaped, 18 mm exposed",
+        "CAD member": "20d-metal-gearmotor-25-31.step in the linked 20D family archive"
+      },
+      "part_numbers": [
+        "3700"
+      ],
+      "compatibility_notes": "Use the family archive member named in the specifications for the 25:1 motor without an extended rear shaft. The drawing covers multiple gearbox lengths, and the STEP family covers the newer 18 mm output shaft.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://www.pololu.com/file/0J1242/20d-metal-gearmotor-dimension-diagram.pdf",
+          "filename": "20d-metal-gearmotor-dimension-diagram.pdf",
+          "role": "drawing",
+          "rights_status": "unknown"
+        }
+      ]
+    },
+    {
+      "id": "pololu-2818-feetech-fs90",
+      "supplier_id": "pololu",
+      "manufacturer": "FEETECH",
+      "name": "FEETECH FS90 analog micro servo (Pololu 2818)",
+      "source_kind": "reference",
+      "product_url": "https://www.pololu.com/product/2818",
+      "documentation_urls": [
+        "https://www.pololu.com/product/2818/specs",
+        "https://www.pololu.com/product/2818/resources"
+      ],
+      "categories": [
+        "Robotics & Small Actuators"
+      ],
+      "tags": [
+        "servo",
+        "micro-servo",
+        "fs90",
+        "robotics"
+      ],
+      "description": "Position-control micro servo with included servo horns and hardware.",
+      "specifications": {
+        "Supplier item": "Pololu 2818",
+        "Control": "Analog position servo",
+        "Body dimensions listed by Pololu": "23.2 × 12.5 × 22 mm",
+        "Weight listed by Pololu": "9 g",
+        "Data source": "Pololu item specification and linked FEETECH sheet"
+      },
+      "part_numbers": [
+        "FS90",
+        "2818"
+      ],
+      "compatibility_notes": "Pololu links a FEETECH sheet titled FS90-C. Confirm the delivered revision, mounting tabs and horn spline before designing around that drawing. FS90R is a separate continuous-rotation model.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    },
+    {
+      "id": "pololu-4760",
+      "supplier_id": "pololu",
+      "manufacturer": "Pololu",
+      "name": "Pololu 4760 top-entry magnetic encoder pair kit",
+      "source_kind": "reference",
+      "product_url": "https://www.pololu.com/product/4760",
+      "documentation_urls": [
+        "https://www.pololu.com/product/4760/resources",
+        "https://www.pololu.com/file/0J1721/pololu-4760-4761-dimensions.pdf",
+        "https://www.pololu.com/file/0J1720/pololu-4760-4761-models.zip"
+      ],
+      "categories": [
+        "Robotics & Small Actuators"
+      ],
+      "tags": [
+        "encoder",
+        "quadrature",
+        "magnetic-encoder",
+        "robotics"
+      ],
+      "description": "Two Hall-effect quadrature encoder boards and two magnetic discs for compatible Micro Metal Gearmotors.",
+      "specifications": {
+        "Outputs": "Two-channel quadrature",
+        "Resolution": "12 counts per motor-shaft revolution with both edges of both channels",
+        "Operating voltage": "2.7–18 V",
+        "Connector": "Top-entry 6-pin JST SH type",
+        "PCB code": "enc03c",
+        "CAD member": "magnetic-encoder-with-top-entry-connector-for-micro-metal-gearmotors.step plus magnetic-encoder-disc-for-micro-metal-gearmotors.step"
+      },
+      "part_numbers": [
+        "4760"
+      ],
+      "compatibility_notes": "Requires a compatible Micro Metal Gearmotor with an extended back shaft. Use page 1 of the linked drawing for top-entry board geometry. The family archive includes a side-entry PCB for the separate item 4761.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://www.pololu.com/file/0J1721/pololu-4760-4761-dimensions.pdf",
+          "filename": "pololu-4760-4761-dimensions.pdf",
+          "role": "drawing",
+          "rights_status": "unknown"
+        }
+      ]
+    },
+    {
+      "id": "pololu-1996",
+      "supplier_id": "pololu",
+      "manufacturer": "Pololu",
+      "name": "Pololu 1996 aluminium mounting hub, 3 mm shaft and M3 holes",
+      "source_kind": "reference",
+      "product_url": "https://www.pololu.com/product/1996",
+      "documentation_urls": [
+        "https://www.pololu.com/product/1996/resources",
+        "https://www.pololu.com/file/0J661/1996-3mm-m3-hub-dimensions.pdf"
+      ],
+      "categories": [
+        "Robotics & Small Actuators"
+      ],
+      "tags": [
+        "mounting-hub",
+        "wheel-hub",
+        "shaft-adapter",
+        "robotics"
+      ],
+      "description": "Pair of set-screw mounting hubs for attaching wheels and mechanisms to a 3 mm motor shaft.",
+      "specifications": {
+        "Shaft diameter": "3 mm",
+        "Face holes": "4 × M3 tapped",
+        "Quantity supplied": "2 hubs",
+        "Material": "Aluminium",
+        "CAD": "Official STEP of one hub"
+      },
+      "part_numbers": [
+        "1996"
+      ],
+      "compatibility_notes": "",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": [
+        {
+          "url": "https://www.pololu.com/file/0J1156/pololu-universal-aluminum-mounting-hub-for-3mm-shaft-m3-holes.step",
+          "filename": "pololu-universal-aluminum-mounting-hub-for-3mm-shaft-m3-holes.step",
+          "role": "component",
+          "rights_status": "unknown"
+        },
+        {
+          "url": "https://www.pololu.com/file/0J661/1996-3mm-m3-hub-dimensions.pdf",
+          "filename": "1996-3mm-m3-hub-dimensions.pdf",
+          "role": "drawing",
+          "rights_status": "unknown"
+        }
+      ]
+    },
+    {
+      "id": "du-bro-181",
+      "supplier_id": "du-bro",
+      "manufacturer": "DU-BRO",
+      "name": "DU-BRO 181 2-56 threaded ball link",
+      "source_kind": "reference",
+      "product_url": "https://www.dubro.com/products/2-56-threaded-ball-link",
+      "documentation_urls": [],
+      "categories": [
+        "Robotics & Small Actuators"
+      ],
+      "tags": [
+        "linkage-joint",
+        "ball-link",
+        "servo-linkage",
+        "robotics"
+      ],
+      "description": "Compact pivoting ball link for steering or servo linkages, with an adjustable rod coupler and nylon socket.",
+      "specifications": {
+        "Thread": "2-56",
+        "Coupler length": "3/4 in",
+        "Rod diameter supported": "Up to 0.072 in",
+        "Assembly": "Threaded ball, threaded coupler, nylon socket, washer and nut",
+        "CAD access": "Manufacturer product reference"
+      },
+      "part_numbers": [
+        "181"
+      ],
+      "compatibility_notes": "Use the stated imperial thread and rod dimensions when choosing mating hardware.",
+      "review_status": "reviewed-reference",
+      "reviewed_at": "2026-11-18",
+      "assets": []
+    }
+  ]
+}

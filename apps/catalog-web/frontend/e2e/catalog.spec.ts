@@ -106,6 +106,23 @@ test("distinguishes generic PC references from exact Noctua fan models", async (
   await page.screenshot({ path: "test-results/generic-sfx-reference.png", fullPage: true });
 });
 
+test("finds OpenBuilds rails, wheels and model-specific legacy steppers", async ({ page }) => {
+  await page.getByLabel("Supplier", { exact: true }).selectOption("openbuilds");
+  await expect(page).toHaveURL(/supplier_id=openbuilds/);
+  await expect(page.getByRole("heading", { name: /OpenBuilds Solid V Wheel/ })).toBeVisible();
+  await page.locator('a[href^="/products/openbuilds-v-slot-20x20-500mm?"]').click();
+  await expect(page.locator(".product-primary-facts")).toContainText("OpenBuilds");
+  await expect(page.getByRole("heading", { level: 1 })).toContainText(/legacy/i);
+  await expect(page.locator(".asset-card").filter({ hasText: "OpenBuilds-STEP-Library-LICENSE.txt" })).toBeVisible();
+  await page.locator("a.brand").click();
+  await page.getByLabel("Search").fill("NEMA");
+  await page.getByRole("button", { name: "Apply filters" }).click();
+  await page.locator('a[href^="/products/openbuilds-nema17-legacy?"]').click();
+  await expect(page.getByRole("heading", { level: 1 })).toContainText("NEMA 17");
+  await expect(page.getByRole("heading", { level: 1 })).toContainText(/legacy/i);
+  await expect(page.locator(".product-heading")).toContainText(/body|length/i);
+});
+
 test("renders an archived STL with the shaded model viewer", async ({ page }) => {
   await page.goto("/products/la024-030-micro-dc-motor-with-sh1-0");
   await page.getByRole("button", { name: "Preview 3D" }).first().click();

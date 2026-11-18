@@ -1,0 +1,107 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.pololu.com/product/3700",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "pololu"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/b7/b7bba63034fb1fc2a7fdc198425e7e7a04ecb514abb1a49a90c0dde8137d1568.pdf",
+      "id": "document-f7c5d34c241544c378b7",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "20d-metal-gearmotor-dimension-diagram.pdf",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "b7bba63034fb1fc2a7fdc198425e7e7a04ecb514abb1a49a90c0dde8137d1568",
+      "size": 99137,
+      "source_url": "https://www.pololu.com/file/0J1242/20d-metal-gearmotor-dimension-diagram.pdf"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Robotics & Small Actuators"
+  ],
+  "category_assignments": [
+    {
+      "id": "robotics-small-actuators",
+      "label": "Robotics & Small Actuators",
+      "path": [
+        "Hardware",
+        "Robotics & Small Actuators"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.pololu.com/product/3700"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Carbon-brush DC gearmotor with a metal spur gearbox and a 4 mm D-shaped output shaft.\n\nUse the family archive member named in the specifications for the 25:1 motor without an extended rear shaft. The drawing covers multiple gearbox lengths, and the STEP family covers the newer 18 mm output shaft."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Carbon-brush DC gearmotor with a metal spur gearbox and a 4 mm D-shaped output shaft.\n\nUse the family archive member named in the specifications for the 25:1 motor without an extended rear shaft. The drawing covers multiple gearbox lengths, and the STEP family covers the newer 18 mm output shaft.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "pololu-3700",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Pololu",
+  "measurements": [],
+  "name": "Pololu 3700 25:1 20D brushed DC gearmotor (6 V)",
+  "offers": [],
+  "part_numbers": [
+    "3700"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.pololu.com/product/3700"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/product/3700/resources"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/file/0J1242/20d-metal-gearmotor-dimension-diagram.pdf"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/file/0J1243/20d-metal-gearmotors-3d-models.zip"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "Body diameter": "20 mm",
+    "CAD member": "20d-metal-gearmotor-25-31.step in the linked 20D family archive",
+    "Gear ratio": "25:1",
+    "Nominal body length": "41 mm",
+    "Nominal voltage": "6 V",
+    "Output shaft": "4 mm diameter, D-shaped, 18 mm exposed",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "pololu",
+  "tags": [
+    "pololu",
+    "dc-gearmotor",
+    "brushed-dc",
+    "20d-gearmotor",
+    "robotics"
+  ],
+  "variants": []
+}

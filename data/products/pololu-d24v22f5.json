@@ -1,0 +1,122 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.pololu.com/product/2858",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "pololu"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [
+        "2858"
+      ],
+      "blob_path": "data/blobs/sha256/f8/f887d4ee47b068fcd9935b71d46f82366295e2eb7c5a464b5db8aac8bf2ac266.step",
+      "id": "model-c122e9367938643dbefc",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "d24v22fx-step-down-voltage-regulator.step",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "f887d4ee47b068fcd9935b71d46f82366295e2eb7c5a464b5db8aac8bf2ac266",
+      "size": 4426225,
+      "source_url": "https://www.pololu.com/file/0J1413/d24v22fx-step-down-voltage-regulator.step"
+    },
+    {
+      "applies_to_skus": [
+        "2858"
+      ],
+      "blob_path": "data/blobs/sha256/4e/4e4fdec0007612a32fb6360bec7fc10b217ebec375772c6651e39a89805b8ca6.dxf",
+      "id": "model-b3f762991cdcf6266086",
+      "kind": "model",
+      "media_type": "image/vnd.dxf",
+      "original_filename": "reg19a-drill.dxf",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "4e4fdec0007612a32fb6360bec7fc10b217ebec375772c6651e39a89805b8ca6",
+      "size": 27316,
+      "source_url": "https://www.pololu.com/file/0J1181/reg19a-drill.dxf"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Power & Battery Hardware"
+  ],
+  "category_assignments": [
+    {
+      "id": "power-battery-hardware",
+      "label": "Power & Battery Hardware",
+      "path": [
+        "Electronics",
+        "Power & Battery Hardware"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.pololu.com/product/2858"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Compact fixed-output DC-DC buck regulator with two mounting holes.\n\nThe STEP models the D24V22Fx family geometry. The F5 variant supplies 5 V. Check connector and terminal clearances when adding headers."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Compact fixed-output DC-DC buck regulator with two mounting holes.\n\nThe STEP models the D24V22Fx family geometry. The F5 variant supplies 5 V. Check connector and terminal clearances when adding headers.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "pololu-d24v22f5",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Pololu",
+  "measurements": [],
+  "name": "Pololu D24V22F5 5 V step-down regulator",
+  "offers": [],
+  "part_numbers": [
+    "D24V22F5"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.pololu.com/product/2858"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/product/2858/resources"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/file/0J1031/d24v22fx-step-down-voltage-regulator-dimension-diagram.pdf"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [
+    "2858"
+  ],
+  "source_tables": [],
+  "specifications": {
+    "Board": "17.8 x 17.8 mm",
+    "CAD coverage": "Manufacturer D24V22Fx family STEP and mounting drill guide",
+    "Input range": "5.3–36 V DC, subject to dropout",
+    "Mounting holes": "Two 2.18 mm holes on opposite corners, spaced 13.2 mm on each axis",
+    "Output": "5 V DC",
+    "Source review": "reviewed-reference",
+    "Typical maximum output current": "2.5 A at 24 V input; varies with input and cooling"
+  },
+  "supplier_id": "pololu",
+  "tags": [
+    "pololu",
+    "buck",
+    "dc-dc",
+    "regulator",
+    "5v"
+  ],
+  "variants": []
+}

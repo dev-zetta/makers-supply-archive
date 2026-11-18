@@ -1,0 +1,59 @@
+{
+  "reviewed_at": "2026-11-17",
+  "source_repository": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP",
+  "source_commit": "48a8a2bf44ef9818edc2f070c848417938816002",
+  "source_library": "STEP Parts Library 1.5",
+  "source_license_url": "https://github.com/mirage335/templates-lib-OpenBuilds_STEP/blob/48a8a2bf44ef9818edc2f070c848417938816002/_ref/OpenBuilds_STEP/license.txt",
+  "attribution": "OpenBuilds, LLC — STEP Parts Library 1.5; unchanged source geometry mirrored by mirage335; Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+  "measurement_method": "Read source STEP AP203 in millimetres: referenced VERTEX_POINT coordinates establish body Z range and shaft tip, front-hole CIRCLE centres establish pitch, and shaft CIRCLE radius establishes diameter. These bounded coordinate checks do not establish current product fit or physical validation.",
+  "models": [
+    {
+      "product_id": "openbuilds-nema17-legacy",
+      "filename": "Nema 17 Stepper Motor.step",
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/6 - Electronics/Nema 17 Stepper Motor.step",
+      "size": 136992,
+      "sha256": "4690a41f6fe474dbf479035add01a67d2e5df61cb7d3d24e7dfdd0f4533ebcc5",
+      "step_exported_at": "2015-07-29T19:36:26",
+      "body_length_mm": 48,
+      "body_z_min_mm": -48,
+      "mounting_face_z_mm": 0,
+      "shaft_tip_z_mm": 24,
+      "shaft_radius_mm": 2.5,
+      "shaft_diameter_mm": 5,
+      "front_hole_center_abs_xy_mm": 15.5,
+      "mount_pitch_mm": 31
+    },
+    {
+      "product_id": "openbuilds-nema23-legacy",
+      "filename": "Nema 23 Stepper Motor.step",
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/6 - Electronics/Nema 23 Stepper Motor.step",
+      "size": 243354,
+      "sha256": "03aaed3e2cd171ab56339df81a3fc9a557223d037c47fc9ddecc8e9a03d028db",
+      "step_exported_at": "2015-07-29T19:36:29",
+      "body_length_mm": 56,
+      "body_z_min_mm": -56,
+      "mounting_face_z_mm": 0,
+      "shaft_tip_z_mm": 20.6,
+      "shaft_radius_mm": 3.175,
+      "shaft_diameter_mm": 6.35,
+      "front_hole_center_abs_xy_mm": 23.57,
+      "mount_pitch_mm": 47.14
+    },
+    {
+      "product_id": "openbuilds-nema23-high-torque-legacy",
+      "filename": "Nema 23 High Torque Stepper Motor.STEP",
+      "source_path": "_ref/OpenBuilds_STEP/orig/STEP Parts Library 1.5/6 - Electronics/Nema 23 High Torque Stepper Motor.STEP",
+      "size": 243405,
+      "sha256": "85548c85316b2785945bac9f0c40a5ac24fe6e9e7de25a6cf8f18ace70af2923",
+      "step_exported_at": "2016-09-02T18:19:03",
+      "body_length_mm": 86,
+      "body_z_min_mm": -86,
+      "mounting_face_z_mm": 0,
+      "shaft_tip_z_mm": 20.6,
+      "shaft_radius_mm": 3.175,
+      "shaft_diameter_mm": 6.35,
+      "front_hole_center_abs_xy_mm": 23.57,
+      "mount_pitch_mm": 47.14
+    }
+  ]
+}

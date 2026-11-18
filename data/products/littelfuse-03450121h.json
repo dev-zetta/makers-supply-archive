@@ -1,0 +1,76 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.littelfuse.com/assetdocs/littelfuse-fuse-holder-345-hv-datasheet.pdf?assetguid=24b8038e-c1fe-4f79-8710-58a78b64bf02",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "littelfuse"
+    }
+  ],
+  "assets": [],
+  "box_contents": [],
+  "categories": [
+    "Power & Battery Hardware"
+  ],
+  "category_assignments": [
+    {
+      "id": "power-battery-hardware",
+      "label": "Power & Battery Hardware",
+      "path": [
+        "Electronics",
+        "Power & Battery Hardware"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.littelfuse.com/assetdocs/littelfuse-fuse-holder-345-hv-datasheet.pdf?assetguid=24b8038e-c1fe-4f79-8710-58a78b64bf02"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Enclosed board-mount cartridge fuse holder with a removable screwdriver-slot cap.\n\nThe 5 x 20 mm version uses the black cap. Use the PCB footprint in the data sheet and reserve access to withdraw the cap."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Enclosed board-mount cartridge fuse holder with a removable screwdriver-slot cap.\n\nThe 5 x 20 mm version uses the black cap. Use the PCB footprint in the data sheet and reserve access to withdraw the cap.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "littelfuse-03450121h",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Littelfuse",
+  "measurements": [],
+  "name": "Littelfuse 03450121H 5 × 20 mm fuse holder",
+  "offers": [],
+  "part_numbers": [
+    "03450121H"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.littelfuse.com/assetdocs/littelfuse-fuse-holder-345-hv-datasheet.pdf?assetguid=24b8038e-c1fe-4f79-8710-58a78b64bf02"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "CAD coverage": "Dimensioned PCB footprint and enclosure drawing",
+    "Fuse size": "5 x 20 mm",
+    "Mounting": "PCB through-hole solder",
+    "Overall length": "45.0 mm",
+    "Series": "345 HV",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "littelfuse",
+  "tags": [
+    "littelfuse",
+    "fuse-holder",
+    "cartridge-fuse",
+    "5x20",
+    "pcb-mount"
+  ],
+  "variants": []
+}

@@ -1,0 +1,115 @@
+{
+  "active": true,
+  "aliases": [
+    {
+      "handle": "https://www.pololu.com/product/1996",
+      "region": "global",
+      "store_id": "",
+      "supplier_id": "pololu"
+    }
+  ],
+  "assets": [
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/65/657efb6f4b9833b1c6699e6aaf035a07ead4ff4186d8c116bb3f50b7fd6e1492.step",
+      "id": "model-320892490b8c1ec4a2d9",
+      "kind": "model",
+      "media_type": "application/p21",
+      "original_filename": "pololu-universal-aluminum-mounting-hub-for-3mm-shaft-m3-holes.step",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "unknown",
+      "role": "component",
+      "sha256": "657efb6f4b9833b1c6699e6aaf035a07ead4ff4186d8c116bb3f50b7fd6e1492",
+      "size": 1291670,
+      "source_url": "https://www.pololu.com/file/0J1156/pololu-universal-aluminum-mounting-hub-for-3mm-shaft-m3-holes.step"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/8f/8fd51a50af43618195e183104884d9295e582fd3710a557240cb66c5a2a54ecb.pdf",
+      "id": "document-d7a1fb6fc550b92f3caa",
+      "kind": "document",
+      "media_type": "application/pdf",
+      "original_filename": "1996-3mm-m3-hub-dimensions.pdf",
+      "retrieved_at": "2026-11-18T19:28:52Z",
+      "rights_status": "unknown",
+      "role": "drawing",
+      "sha256": "8fd51a50af43618195e183104884d9295e582fd3710a557240cb66c5a2a54ecb",
+      "size": 33377,
+      "source_url": "https://www.pololu.com/file/0J661/1996-3mm-m3-hub-dimensions.pdf"
+    }
+  ],
+  "box_contents": [],
+  "categories": [
+    "Robotics & Small Actuators"
+  ],
+  "category_assignments": [
+    {
+      "id": "robotics-small-actuators",
+      "label": "Robotics & Small Actuators",
+      "path": [
+        "Hardware",
+        "Robotics & Small Actuators"
+      ],
+      "provenance": {
+        "kind": "manual_override",
+        "reference": "reviewed supplier pilot manifest",
+        "source_url": "https://www.pololu.com/product/1996"
+      }
+    }
+  ],
+  "description_blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Pair of set-screw mounting hubs for attaching wheels and mechanisms to a 3 mm motor shaft."
+    }
+  ],
+  "description_html": "",
+  "description_text": "Pair of set-screw mounting hubs for attaching wheels and mechanisms to a 3 mm motor shaft.",
+  "first_seen": "2026-11-18T19:28:52Z",
+  "id": "pololu-1996",
+  "last_seen": "2026-11-18T19:28:52Z",
+  "manufacturer": "Pololu",
+  "measurements": [],
+  "name": "Pololu 1996 aluminium mounting hub, 3 mm shaft and M3 holes",
+  "offers": [],
+  "part_numbers": [
+    "1996"
+  ],
+  "related_links": [
+    {
+      "kind": "other",
+      "title": "Official product / source",
+      "url": "https://www.pololu.com/product/1996"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/product/1996/resources"
+    },
+    {
+      "kind": "documentation",
+      "title": "Official documentation",
+      "url": "https://www.pololu.com/file/0J661/1996-3mm-m3-hub-dimensions.pdf"
+    }
+  ],
+  "schema_version": 5,
+  "skus": [],
+  "source_tables": [],
+  "specifications": {
+    "CAD": "Official STEP of one hub",
+    "Face holes": "4 × M3 tapped",
+    "Material": "Aluminium",
+    "Quantity supplied": "2 hubs",
+    "Shaft diameter": "3 mm",
+    "Source review": "reviewed-reference"
+  },
+  "supplier_id": "pololu",
+  "tags": [
+    "pololu",
+    "mounting-hub",
+    "wheel-hub",
+    "shaft-adapter",
+    "robotics"
+  ],
+  "variants": []
+}
