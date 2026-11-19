@@ -58,8 +58,9 @@ function reservePort() {
 
 async function waitForBackend(url) {
   for (let attempt = 0; attempt < 1200; attempt += 1) {
-    if (backend?.exitCode !== null) {
-      throw new Error(`Catalog service exited with code ${backend.exitCode}.\n${backendError}`)
+    if (backend.exitCode !== null || backend.signalCode !== null) {
+      const reason = backend.signalCode ?? `code ${backend.exitCode}`
+      throw new Error(`Catalog service exited with ${reason}.\n${backendError}`)
     }
     try {
       const response = await fetch(`${url}/healthz`)
@@ -101,6 +102,7 @@ async function loadInitialPage(window, url) {
 
 async function startApplication() {
   const port = await reservePort()
+  if (quitting) return
   const url = `http://127.0.0.1:${port}`
   backend = spawn(
     backendExecutable(),
@@ -126,6 +128,7 @@ async function startApplication() {
     }
   })
   await Promise.race([waitForBackend(url), spawnFailure])
+  if (quitting) return
 
   mainWindow = new BrowserWindow({
     width: 1440,
@@ -170,9 +173,22 @@ if (!singleInstance) {
   })
 }
 
-app.on('before-quit', () => {
+app.on('before-quit', event => {
+  const service = backend
+  if (!service?.pid || service.exitCode !== null || service.signalCode !== null) {
+    quitting = true
+    return
+  }
+  event.preventDefault()
+  if (quitting) return
   quitting = true
-  if (backend && backend.exitCode === null) backend.kill()
+  // Keep the desktop process alive until its service has released the port.
+  const deadline = setTimeout(() => service.kill('SIGKILL'), 5_000)
+  service.once('exit', () => {
+    clearTimeout(deadline)
+    app.quit()
+  })
+  service.kill()
 })
 
 app.on('window-all-closed', () => app.quit())

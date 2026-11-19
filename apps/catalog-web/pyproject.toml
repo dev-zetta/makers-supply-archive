@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "makersfridge-web"
-version = "1.3.0"
+version = "1.4.0"
 description = "Visual browser and parts-list manager for Maker's Fridge"
 requires-python = ">=3.12"
 dependencies = [

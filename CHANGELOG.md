@@ -1,18 +1,21 @@
 # Changelog
 
-## Unreleased
+## v1.4.0
 
 - Rename the project to Maker's Fridge (`makersfridge`), including the app, Python
   packages, commands, desktop artifacts, Docker configuration, and CAD agent skill.
 - Preserve existing desktop profiles, web configuration, sessions, browser selections,
   Docker state, and CAD reference exports across the rename. Source catalog records
   and previously published release assets and evidence retain their original identity.
+- Expand the catalog to 451 products with new supplier filters, board and module
+  references, PC and NAS components, OpenBuilds motion hardware, and six starter
+  categories for electronics and mechanical parts.
+- Wait for the local catalog service to exit when closing the desktop app, including
+  after a project export. Stop a stalled service after a five-second grace period.
 
 This project uses Semantic Versioning beginning with `v1.0.0`. Development before
 the first versioned release is summarized below by day from the original commit
 history; those commits were consolidated into the `v1.0.0` release commit.
-
-## Unreleased
 
 ## v1.3.0 - 2026-11-16
 

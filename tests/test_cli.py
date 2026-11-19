@@ -6,7 +6,7 @@ from makersfridge import __version__
 
 
 def test_version() -> None:
-    assert __version__ == "1.3.0"
+    assert __version__ == "1.4.0"
 
 
 def test_package_and_lock_versions_are_consistent() -> None:

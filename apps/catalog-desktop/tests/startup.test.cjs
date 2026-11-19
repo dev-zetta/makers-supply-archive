@@ -1,4 +1,5 @@
 const assert = require('node:assert/strict')
+const { EventEmitter } = require('node:events')
 const fs = require('node:fs')
 const path = require('node:path')
 const test = require('node:test')
@@ -62,4 +63,59 @@ test('renamed desktop app reuses its old profile and honors explicit overrides',
   assert.equal(choose(), path.resolve('/legacy-override'))
   env.MAKERSFRIDGE_DESKTOP_STATE = '/new-override'
   assert.equal(choose(), path.resolve('/new-override'))
+})
+
+function shutdownFixture() {
+  const app = new EventEmitter()
+  const service = new EventEmitter()
+  const signals = []
+  const timers = new Set()
+  Object.assign(service, {
+    pid: 42, exitCode: null, signalCode: null,
+    kill(signal = 'SIGTERM') { signals.push(signal); return true }
+  })
+  let exits = 0
+  Object.assign(app, {
+    getPath: () => '/tmp/makersfridge-shutdown-test',
+    setPath() {}, requestSingleInstanceLock: () => false,
+    quit() {
+      let waiting = false
+      app.emit('before-quit', { preventDefault() { waiting = true } })
+      if (!waiting) exits++
+    }
+  })
+  vm.runInNewContext(source + '\nbackend = service;', {
+    require: name => name === 'electron' ? { app } : require(name),
+    process: { env: {} }, console, service,
+    setTimeout(callback) { timers.add(callback); return callback },
+    clearTimeout(callback) { timers.delete(callback) }
+  })
+  // The failed instance-lock path calls quit before the test service is attached.
+  exits = 0
+  return { app, service, signals, timers, exits: () => exits }
+}
+
+test('quit waits for the catalog service and handles repeat close requests', () => {
+  const { app, service, signals, timers, exits } = shutdownFixture()
+  app.quit()
+  app.quit()
+  assert.equal(exits(), 0)
+  assert.deepEqual(signals, ['SIGTERM'])
+  service.exitCode = 0
+  service.emit('exit', 0)
+  assert.equal(exits(), 1)
+  assert.equal(timers.size, 0)
+})
+
+test('quit force-stops a catalog service that exceeds the grace period', () => {
+  const { app, service, signals, timers, exits } = shutdownFixture()
+  app.quit()
+  const [expire] = timers
+  assert.ok(expire)
+  expire()
+  assert.deepEqual(signals, ['SIGTERM', 'SIGKILL'])
+  assert.equal(exits(), 0)
+  service.signalCode = 'SIGKILL'
+  service.emit('exit', null, 'SIGKILL')
+  assert.equal(exits(), 1)
 })

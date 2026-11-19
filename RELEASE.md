@@ -1,38 +1,30 @@
-# Maker's Fridge v1.3.0
+# Maker's Fridge v1.4.0
 
-The project was renamed from Maker's Supply Archive after v1.3.0. That published
-release retains its original app names, skill archive, data-pack filenames, and
-checksums. New source builds use `makersfridge`; existing user-state directories
-remain usable. The instructions below identify the actual v1.3.0 downloads.
+This release includes 451 catalog products. It adds BIGTREETECH, BIQU, Waveshare,
+Raspberry Pi, Espressif, Noctua, OpenBuilds, and other part sources. The catalog
+covers PC and NAS builds, linear motion, panel controls, power, sensors,
+enclosure hardware, and robotics. Supplier filters work alongside category
+and region filters.
 
-[Download v1.3.0](https://github.com/dev-zetta/makersfridge/releases/tag/v1.3.0).
+Closing the desktop window waits for the local catalog service to exit, including
+after project export. The app stops a stalled service after five seconds so it
+can finish quitting.
 
-Version 1.3.0 adds Chili3D to the portable CAD agent skill for Codex, Claude Code
-and other Agent Skills clients. The real EA028 bearing-housing workflow was run
-through Chili3D 0.8.0 and its official MCP bridge, including eight editable features,
-native save/reopen, clearance edits, interference controls and verified STEP/STL
-exports. A local build installer and optional app patch support reliable exporter
-byte transfer and fingerprinted JavaScript assets; the pinned upstream source and
-patch are retained with the installation.
+The project now uses `makersfridge` for packages, commands, and build artifacts.
+The app discovers existing Maker's Supply Archive profiles during upgrade. Earlier
+versions are available on the [GitHub releases page](https://github.com/dev-zetta/makersfridge/releases).
 
-The `makers-supply-cad.zip` asset contains offline JSON/SQLite lookup, verified CAD
-reference export, and runnable Chili3D, Extrudo and SolidCraft bearing-housing examples.
-That published skill is invoked as `makers-supply-cad`; new source packages use
-`makersfridge-cad`.
-Extract the complete skill folder into the agent's skill directory; see `skills/README.md`.
-Python 3.10+ is required for the helper; CAD runtimes are separate optional tools.
-The skill ZIP contains original code/instructions, without third-party CAD models.
-The separate Chili3D app patch is AGPL-3.0, with its license in `integrations/chili3d/`.
-
-Extrudo was exercised with its real kernel and web app; SolidCraft 0.41.0 was
-exercised through CLI, headless MCP and its native desktop MCP bridge. The archive
-also retains project ZIP export and durable build tracking from v1.2.0. Existing
-release tags and assets are preserved.
+The `makersfridge-cad.zip` asset contains offline JSON and SQLite lookup, verified
+CAD reference export, and runnable Chili3D, Extrudo, and SolidCraft examples.
+Extract the complete skill folder into the agent's skill directory. See `skills/README.md`.
+Python 3.10+ is required for the helper. CAD runtimes are separate optional tools.
+The skill ZIP contains original code and instructions. The separate Chili3D app
+patch is AGPL-3.0, with its license in `integrations/chili3d/`.
 
 ## Downloads and installation
 
 Choose one app archive: Linux x64, Windows x64, macOS Intel, or macOS Apple Silicon.
-Download **every** `makers-supply-data-1.3.0-*.zip` pack from the same release. Verify
+Download **every** `makersfridge-data-1.4.0-*.zip` pack from the same release. Verify
 `SHA256SUMS.txt`, then extract the app and every data ZIP into one directory. These
 archives contain matching root-relative paths; no file joining is needed. On Windows
 prefer a short directory such as `C:\MakersFridge` to avoid legacy path limits.
@@ -78,14 +70,8 @@ in the [Electron support schedule](https://releases.electronjs.org/schedule).
 eight-region binary scan plus full blob validation for the exact snapshot, within
 seven days of assembly. The default policy requires an unchanged repeat.
 
-This v1.3.0 candidate retains the identical catalog snapshot accepted for v1.1.0.
-For that snapshot, the maintainer approved a validated snapshot with reviewed
-live commerce changes after five complete scans continued to capture stock and title
-updates. The selected fifth scan changed only EU inventory: four variants became
-unavailable and two PTFE tube variants became available. Its receipt explicitly says
-`acceptance_policy=reviewed-live-changes` and `unchanged_repeat=false`; it binds
-`release-1.1.0-fifth-sync-2026-11-10.json` by SHA-256. That attached review records the
-exact variant deltas, unchanged assets, full blob validation, and reproducible database.
+The historical v1.3.0 acceptance reused the v1.1.0 catalog and its approved
+commerce-change review. Its original evidence remains attached to that release.
 
 Both policies require complete successful scans and all validation/platform checks.
 Failed scans, tests, or packaging checks block draft creation. Unexecuted checks remain
@@ -105,7 +91,7 @@ uv run python scripts/release-acceptance.py
 A completed run starts a new scan even with `--resume`; only matching interrupted runs
 reuse verified pages. If the repeat contains real changes, review them and obtain an
 unchanged complete repeat before recording acceptance under the default policy.
-The explicitly selected policy for this candidate is recorded with:
+If the maintainer explicitly approves a reviewed set of live commerce changes, record it with:
 
 ```bash
 uv run python scripts/release-acceptance.py --reviewed-live-changes reports/release-1.1.0-fifth-sync-2026-11-10.json
@@ -117,7 +103,7 @@ catalog changes cannot use this exception. Commit generated data and its accepta
 separately from source changes.
 
 Push the reviewed commit and run **Prepare unpublished release candidate**, version
-`1.3.0`, on that commit. Reruns may update the same draft only; they cannot replace a
+`1.4.0`, on that commit. Reruns may update the same draft only; they cannot replace a
 published release or reuse the version for a different commit. **Build and test
 standalone apps** can validate portable artifacts without creating any release.
 Weekly catalog updates remain pull requests. Dispatch **Test** on the update branch
