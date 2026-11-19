@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 
 import httpx
@@ -48,6 +49,42 @@ def test_discover_products_uses_regional_api() -> None:
         products = discover_products(client, STORES[Region.US])
     assert products[0].handle == "power-board"
     assert products[0].price == "5.29"
+
+
+@pytest.mark.parametrize("case", ["complete", "empty", "duplicate", "wrong-page", "changed-total"])
+def test_collection_fallback_checks_paginated_and_fragmented_responses(case: str) -> None:
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/robots.txt":
+            return httpx.Response(200, text="User-agent: *\nAllow: /")
+        if request.method == "POST":
+            return httpx.Response(404)
+        page = int(request.url.params.get("page", 1))
+        handle = "a" if page == 1 or case == "duplicate" else "b"
+        props = {
+            "size": 1,
+            "initialPage": 1 if case == "wrong-page" else page,
+            "seriesId": "123",
+            "productList": [] if case == "empty" else [
+                {"id": handle, "seoCode": handle, "name": handle},
+            ],
+            "total": 0 if case == "empty" else 3 if page == 2 and case == "changed-total" else 2,
+        }
+        payload = "1:" + json.dumps(props, separators=(",", ":"))
+        split = payload.index("productList") + 4
+        html = "".join(
+            f"<script>self.__next_f.push({json.dumps([1, part])})</script>"
+            for part in (payload[:split], payload[split:])
+        )
+        return httpx.Response(200, text=html)
+
+    with ArchiveHttpClient(delay=0, transport=httpx.MockTransport(handler)) as client:
+        if case in {"duplicate", "wrong-page", "changed-total"}:
+            with pytest.raises(ValueError, match="storefront collection"):
+                discover_products(client, STORES[Region.US])
+        else:
+            products = discover_products(client, STORES[Region.US])
+            expected = [] if case == "empty" else ["a", "b"]
+            assert [product.handle for product in products] == expected
 
 
 def test_parse_product_page() -> None:

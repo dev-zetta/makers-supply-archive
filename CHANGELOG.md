@@ -12,6 +12,8 @@
   categories for electronics and mechanical parts.
 - Wait for the local catalog service to exit when closing the desktop app, including
   after a project export. Stop a stalled service after a five-second grace period.
+- Recover Bambu Lab discovery from the paginated storefront collection when the
+  regional catalog API returns 404. Reject incomplete or inconsistent listings.
 
 This project uses Semantic Versioning beginning with `v1.0.0`. Development before
 the first versioned release is summarized below by day from the original commit
