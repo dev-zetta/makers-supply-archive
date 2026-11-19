@@ -4,36 +4,49 @@
     {
       "handle": "coffee-dispenser",
       "product_id": "744066177917284352",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "coffee-dispenser",
       "product_id": "744065153983508480",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "coffee-dispenser",
       "product_id": "744066879217762304",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "coffee-dispenser",
       "product_id": "744065428088979456",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "coffee-dispenser",
       "product_id": "744064529020411904",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "coffee-dispenser",
       "product_id": "744040094383501312",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/55/553033970d74aadd24163dcad430fa3f1d350fe01713681fbca221b2a1724a3d.png",
       "id": "image-6bcb5eaafdc893c86f93",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH143-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "553033970d74aadd24163dcad430fa3f1d350fe01713681fbca221b2a1724a3d",
       "size": 908082,
       "source_url": "https://store.bblcdn.com/s7/default/709eaeb86e1f435abd7951ba185a8043/B-ZH143-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e4/e4ae8b5c619af75d2d0531a05921903e0f7123b5bad11bc25ba887e5795bf452.png",
       "id": "image-1c1f77be4b17713e29ab",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH143-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e4ae8b5c619af75d2d0531a05921903e0f7123b5bad11bc25ba887e5795bf452",
       "size": 282603,
       "source_url": "https://store.bblcdn.com/s7/default/ec6bacabb8654e3f9e63f2c23b1e28b6/B-ZH143-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b4/b447d6ecde0fa0afcb948ccd61cd381c07e2425b6323ad80e3d187238a43e3cd.png",
       "id": "image-display-c19957023acadc0572fa",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-6bcb5eaafdc893c86f93",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b447d6ecde0fa0afcb948ccd61cd381c07e2425b6323ad80e3d187238a43e3cd",
       "size": 769762,
       "source_url": "https://store.bblcdn.com/s7/default/709eaeb86e1f435abd7951ba185a8043/B-ZH143-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e3/e3d0f96d32cbe114c6a39ed713f5ae3780e78919a69d69070f7791f9751193b1.png",
       "id": "image-display-377b483c2fc1feca61fe",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-1c1f77be4b17713e29ab",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e3d0f96d32cbe114c6a39ed713f5ae3780e78919a69d69070f7791f9751193b1",
       "size": 83790,
       "source_url": "https://store.bblcdn.com/s7/default/ec6bacabb8654e3f9e63f2c23b1e28b6/B-ZH143-1.png"
@@ -154,7 +174,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Coffee Dispenser. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Coffee Dispenser on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh143-coffee-dispenser",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Coffee Dispenser",
   "offers": [
@@ -166,6 +187,7 @@
       "price": "2.7",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
     },
     {
@@ -176,6 +198,7 @@
       "price": "3.23",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
     },
     {
@@ -186,6 +209,7 @@
       "price": "3.6",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
     },
     {
@@ -196,6 +220,7 @@
       "price": "3.35",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
     },
     {
@@ -206,6 +231,7 @@
       "price": "5.93",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
     },
     {
@@ -216,6 +242,7 @@
       "price": "2.47",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/coffee-dispenser?skr=yes"
     }
   ],
@@ -266,6 +293,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -278,6 +306,7 @@
       "price": "2.7",
       "region": "us",
       "sku": "744066177929867266",
+      "store_id": "",
       "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
       "url": "https://us.store.bambulab.com/products/coffee-dispenser?id=744066177929867266",
       "variant_id": "744066177929867266"
@@ -290,6 +319,7 @@
       "price": "3.23",
       "region": "ca",
       "sku": "744065154000285698",
+      "store_id": "",
       "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
       "url": "https://ca.store.bambulab.com/products/coffee-dispenser?id=744065154000285698",
       "variant_id": "744065154000285698"
@@ -302,6 +332,7 @@
       "price": "3.6",
       "region": "eu",
       "sku": "744066879238733826",
+      "store_id": "",
       "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
       "url": "https://eu.store.bambulab.com/products/coffee-dispenser?id=744066879238733826",
       "variant_id": "744066879238733826"
@@ -314,6 +345,7 @@
       "price": "3.35",
       "region": "uk",
       "sku": "744065428114145282",
+      "store_id": "",
       "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
       "url": "https://uk.store.bambulab.com/products/coffee-dispenser?id=744065428114145282",
       "variant_id": "744065428114145282"
@@ -326,6 +358,7 @@
       "price": "5.93",
       "region": "au",
       "sku": "744064529070743554",
+      "store_id": "",
       "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
       "url": "https://au.store.bambulab.com/products/coffee-dispenser?id=744064529070743554",
       "variant_id": "744064529070743554"
@@ -338,6 +371,7 @@
       "price": "2.47",
       "region": "asia",
       "sku": "744040094496747522",
+      "store_id": "",
       "title": "Coffee Dispenser - Coffee Dispenser - ZH143",
       "url": "https://asia.store.bambulab.com/products/coffee-dispenser?id=744040094496747522",
       "variant_id": "744040094496747522"

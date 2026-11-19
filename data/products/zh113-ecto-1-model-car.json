@@ -4,36 +4,49 @@
     {
       "handle": "ecto-1-model-car",
       "product_id": "655300764301365248",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ecto-1-model-car",
       "product_id": "655299499180068864",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ecto-1-model-car",
       "product_id": "655301508038234112",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ecto-1-model-car",
       "product_id": "655300047091777536",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ecto-1-model-car",
       "product_id": "655298504629882880",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ecto-1-model-car",
       "product_id": "655291548343066624",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b4/b4a181c5804a76ec27f0d8184cde9344daf290063ce242232342a5b228acee35.png",
       "id": "image-26318c946561b041defb",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH113-1.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b4a181c5804a76ec27f0d8184cde9344daf290063ce242232342a5b228acee35",
       "size": 2140229,
       "source_url": "https://store.bblcdn.com/s5/default/285aafc5c3b84fdc86d1994aeff432f3/B-ZH113-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fb/fbb8064f98914e6be3d5a8100d57c5acf0e9e6fd6a971677d47ea9315aebcfc5.png",
       "id": "image-68b137961feba56447fe",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH113-2.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fbb8064f98914e6be3d5a8100d57c5acf0e9e6fd6a971677d47ea9315aebcfc5",
       "size": 163430,
       "source_url": "https://store.bblcdn.com/s5/default/80408474fef64601a8dd511f8273c938/ZH113-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9a/9a22399fac5176eff2cb9d2d32393b7295397f6d6afa41530b0e8449e8690d72.png",
       "id": "image-display-2cebaf0efb4a9b54dd64",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-26318c946561b041defb",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9a22399fac5176eff2cb9d2d32393b7295397f6d6afa41530b0e8449e8690d72",
       "size": 677838,
       "source_url": "https://store.bblcdn.com/s5/default/285aafc5c3b84fdc86d1994aeff432f3/B-ZH113-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1a/1a3f8d9d3233ad77e8004deddae9c92d89971cfac686f02a5bffaf3fb055a7e6.png",
       "id": "image-display-83ff230ca674cbb0e207",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-68b137961feba56447fe",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1a3f8d9d3233ad77e8004deddae9c92d89971cfac686f02a5bffaf3fb055a7e6",
       "size": 49541,
       "source_url": "https://store.bblcdn.com/s5/default/80408474fef64601a8dd511f8273c938/ZH113-2.png"
@@ -173,6 +193,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh113-ecto-1-model-car",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Ecto 1 Model Car",
   "offers": [
@@ -184,6 +205,7 @@
       "price": "8.5",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
     },
     {
@@ -194,6 +216,7 @@
       "price": "9.83",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
     },
     {
@@ -204,6 +227,7 @@
       "price": "8.53",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
     },
     {
@@ -214,6 +238,7 @@
       "price": "6.82",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
     },
     {
@@ -224,6 +249,7 @@
       "price": "15.41",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
     },
     {
@@ -234,6 +260,7 @@
       "price": "7.74",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/ecto-1-model-car?skr=yes"
     }
   ],
@@ -300,6 +327,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -312,6 +340,7 @@
       "price": "8.5",
       "region": "us",
       "sku": "655300764343308290",
+      "store_id": "",
       "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
       "url": "https://us.store.bambulab.com/products/ecto-1-model-car?id=655300764343308290",
       "variant_id": "655300764343308290"
@@ -324,6 +353,7 @@
       "price": "9.83",
       "region": "ca",
       "sku": "655299499222011906",
+      "store_id": "",
       "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
       "url": "https://ca.store.bambulab.com/products/ecto-1-model-car?id=655299499222011906",
       "variant_id": "655299499222011906"
@@ -336,6 +366,7 @@
       "price": "8.53",
       "region": "eu",
       "sku": "655301508055011330",
+      "store_id": "",
       "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
       "url": "https://eu.store.bambulab.com/products/ecto-1-model-car?id=655301508055011330",
       "variant_id": "655301508055011330"
@@ -348,6 +379,7 @@
       "price": "6.82",
       "region": "uk",
       "sku": "655300047163080705",
+      "store_id": "",
       "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
       "url": "https://uk.store.bambulab.com/products/ecto-1-model-car?id=655300047163080705",
       "variant_id": "655300047163080705"
@@ -360,6 +392,7 @@
       "price": "15.41",
       "region": "au",
       "sku": "655298504680214530",
+      "store_id": "",
       "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
       "url": "https://au.store.bambulab.com/products/ecto-1-model-car?id=655298504680214530",
       "variant_id": "655298504680214530"
@@ -372,6 +405,7 @@
       "price": "7.74",
       "region": "asia",
       "sku": "655291548410175489",
+      "store_id": "",
       "title": "Ecto 1 Model Car - Ecto 1 Model Car - ZH113",
       "url": "https://asia.store.bambulab.com/products/ecto-1-model-car?id=655291548410175489",
       "variant_id": "655291548410175489"

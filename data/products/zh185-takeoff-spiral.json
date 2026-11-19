@@ -4,36 +4,49 @@
     {
       "handle": "takeoff-spiral",
       "product_id": "787912188189757440",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "takeoff-spiral",
       "product_id": "787911223751507968",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "takeoff-spiral",
       "product_id": "787912576682975232",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "takeoff-spiral",
       "product_id": "787911850783170560",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "takeoff-spiral",
       "product_id": "787910595776118784",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "takeoff-spiral",
       "product_id": "785369422159159296",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/89/897234296e8a9f28418260bd00002b4d3f181d87149272140e80933bbdd1e931.png",
       "id": "image-34d7f4a6162e4e38fccb",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "KV_with_Mark.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "897234296e8a9f28418260bd00002b4d3f181d87149272140e80933bbdd1e931",
       "size": 3048230,
       "source_url": "https://store.bblcdn.com/s7/default/0c0309a4dda8474183b578a0191c065b/KV_with_Mark.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bcf1639eae067cae0a6ef41b441cdd7283a24f70be0d00932af7fcb7f09bfe1b.png",
       "id": "image-6eb8943783a78f384d38",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZC003.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bcf1639eae067cae0a6ef41b441cdd7283a24f70be0d00932af7fcb7f09bfe1b",
       "size": 539605,
       "source_url": "https://store.bblcdn.com/s7/default/e098c66f13564b4d9dc5eeca290d0707/ZC003.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/44/44bb471ed6fae820238a6966eca9154817d76cb1f5cb992afb08fa2a4ff8cb1a.png",
       "id": "image-display-90182df8f020ba6ef501",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-34d7f4a6162e4e38fccb",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "44bb471ed6fae820238a6966eca9154817d76cb1f5cb992afb08fa2a4ff8cb1a",
       "size": 812721,
       "source_url": "https://store.bblcdn.com/s7/default/0c0309a4dda8474183b578a0191c065b/KV_with_Mark.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4d/4d66ea14700d0f2afd537a5b73a5bcc0dc0131e983ba146a9839e29bdc8aca36.png",
       "id": "image-display-5491e2194fe18b7c156c",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-6eb8943783a78f384d38",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4d66ea14700d0f2afd537a5b73a5bcc0dc0131e983ba146a9839e29bdc8aca36",
       "size": 127054,
       "source_url": "https://store.bblcdn.com/s7/default/e098c66f13564b4d9dc5eeca290d0707/ZC003.png"
@@ -149,7 +169,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Ascension Spiral. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Ascension Spiral on MakerWorld.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zh185-takeoff-spiral",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Ascension Spiral",
   "offers": [
@@ -161,6 +182,7 @@
       "price": "19.99",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/takeoff-spiral?skr=yes"
     },
     {
@@ -171,6 +193,7 @@
       "price": "22.79",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/takeoff-spiral?skr=yes"
     },
     {
@@ -181,6 +204,7 @@
       "price": "18.65",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/takeoff-spiral?skr=yes"
     },
     {
@@ -191,6 +215,7 @@
       "price": "15.84",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/takeoff-spiral?skr=yes"
     },
     {
@@ -201,6 +226,7 @@
       "price": "35.77",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/takeoff-spiral?skr=yes"
     },
     {
@@ -211,6 +237,7 @@
       "price": "18",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/takeoff-spiral?skr=yes"
     }
   ],
@@ -254,6 +281,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -266,6 +294,7 @@
       "price": "19.99",
       "region": "us",
       "sku": "787912188202340354",
+      "store_id": "",
       "title": "Ascension Spiral - Ascension Spiral - ZH185",
       "url": "https://us.store.bambulab.com/products/takeoff-spiral?id=787912188202340354",
       "variant_id": "787912188202340354"
@@ -278,6 +307,7 @@
       "price": "22.79",
       "region": "ca",
       "sku": "787911223759896578",
+      "store_id": "",
       "title": "Ascension Spiral - Ascension Spiral - ZH185",
       "url": "https://ca.store.bambulab.com/products/takeoff-spiral?id=787911223759896578",
       "variant_id": "787911223759896578"
@@ -290,6 +320,7 @@
       "price": "18.65",
       "region": "eu",
       "sku": "787912576699752450",
+      "store_id": "",
       "title": "Ascension Spiral - Ascension Spiral - ZH185",
       "url": "https://eu.store.bambulab.com/products/takeoff-spiral?id=787912576699752450",
       "variant_id": "787912576699752450"
@@ -302,6 +333,7 @@
       "price": "15.84",
       "region": "uk",
       "sku": "787911850799947778",
+      "store_id": "",
       "title": "Ascension Spiral - Ascension Spiral - ZH185",
       "url": "https://uk.store.bambulab.com/products/takeoff-spiral?id=787911850799947778",
       "variant_id": "787911850799947778"
@@ -314,6 +346,7 @@
       "price": "35.77",
       "region": "au",
       "sku": "787910595792896002",
+      "store_id": "",
       "title": "Ascension Spiral - Ascension Spiral - ZH185",
       "url": "https://au.store.bambulab.com/products/takeoff-spiral?id=787910595792896002",
       "variant_id": "787910595792896002"
@@ -326,6 +359,7 @@
       "price": "18",
       "region": "asia",
       "sku": "786797506410348546",
+      "store_id": "",
       "title": "Ascension Spiral - Ascension Spiral - ZH185",
       "url": "https://asia.store.bambulab.com/products/takeoff-spiral?id=786797506410348546",
       "variant_id": "786797506410348546"

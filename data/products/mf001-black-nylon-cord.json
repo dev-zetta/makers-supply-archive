@@ -4,36 +4,49 @@
     {
       "handle": "black-nylon-cord",
       "product_id": "8280136188040",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "black-nylon-cord",
       "product_id": "8931016802544",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "black-nylon-cord",
       "product_id": "9487543861596",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "black-nylon-cord",
       "product_id": "7709512040508",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "black-nylon-cord",
       "product_id": "8538429685923",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "black-nylon-cord",
       "product_id": "7690188947571",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9e/9ea67a20e91a6f3d42f1b248462cfaaec66250680d518c8f7ddf9f159b956ee5.png",
       "id": "image-6fbf2fd5745f28ab3f79",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "MF001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9ea67a20e91a6f3d42f1b248462cfaaec66250680d518c8f7ddf9f159b956ee5",
       "size": 64887,
       "source_url": "https://store.bblcdn.com/s7/default/67d21e8577a74e82a25273debc550e9b/MF001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5b/5b2bf10815db502aab89c4b7a0d6d002267ee264099a7e4b33a00d098c7b8f36.png",
       "id": "image-d3e0e9438f4de29c6b95",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "MF001-2_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5b2bf10815db502aab89c4b7a0d6d002267ee264099a7e4b33a00d098c7b8f36",
       "size": 197109,
       "source_url": "https://store.bblcdn.com/s7/default/51d7c1b8acbb4c37a013ebc90df33d3f/MF001-2_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/76/76b69c4b5dfff043203eb8c7427ed6ab6ffa6870532864e08e19abff9da2ec87.png",
       "id": "image-display-ee2f4b6495e728cb5e2e",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-6fbf2fd5745f28ab3f79",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "76b69c4b5dfff043203eb8c7427ed6ab6ffa6870532864e08e19abff9da2ec87",
       "size": 51723,
       "source_url": "https://store.bblcdn.com/s7/default/67d21e8577a74e82a25273debc550e9b/MF001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f1f32c4945f44fcf9775e2632c5d29c4f6e76e08c2913d727466b8953e764327.png",
       "id": "image-display-6aa30f75c44246f7ca5c",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-d3e0e9438f4de29c6b95",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1f32c4945f44fcf9775e2632c5d29c4f6e76e08c2913d727466b8953e764327",
       "size": 52536,
       "source_url": "https://store.bblcdn.com/s7/default/51d7c1b8acbb4c37a013ebc90df33d3f/MF001-2_1.png"
@@ -143,6 +163,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "mf001-black-nylon-cord",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "H (mm) Diameter",
@@ -173,6 +194,7 @@
       "price": "1.31",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
     },
     {
@@ -183,6 +205,7 @@
       "price": "1.51",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
     },
     {
@@ -193,6 +216,7 @@
       "price": "1.23",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
     },
     {
@@ -203,6 +227,7 @@
       "price": "1.05",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
     },
     {
@@ -213,6 +238,7 @@
       "price": "2.37",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
     },
     {
@@ -223,6 +249,7 @@
       "price": "1.19",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/black-nylon-cord?skr=yes"
     }
   ],
@@ -298,6 +325,7 @@
     "Material": "Nylon",
     "Product ID": "MF001"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -308,6 +336,7 @@
       "price": "1.31",
       "region": "us",
       "sku": "42731737219208",
+      "store_id": "",
       "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
       "url": "https://us.store.bambulab.com/products/black-nylon-cord?id=42731737219208",
       "variant_id": "42731737219208"
@@ -320,6 +349,7 @@
       "price": "1.51",
       "region": "ca",
       "sku": "46329631703280",
+      "store_id": "",
       "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
       "url": "https://ca.store.bambulab.com/products/black-nylon-cord?id=46329631703280",
       "variant_id": "46329631703280"
@@ -332,6 +362,7 @@
       "price": "1.23",
       "region": "eu",
       "sku": "49058911682908",
+      "store_id": "",
       "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
       "url": "https://eu.store.bambulab.com/products/black-nylon-cord?id=49058911682908",
       "variant_id": "49058911682908"
@@ -344,6 +375,7 @@
       "price": "1.05",
       "region": "uk",
       "sku": "42005247230012",
+      "store_id": "",
       "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
       "url": "https://uk.store.bambulab.com/products/black-nylon-cord?id=42005247230012",
       "variant_id": "42005247230012"
@@ -356,6 +388,7 @@
       "price": "2.37",
       "region": "au",
       "sku": "44811684511907",
+      "store_id": "",
       "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
       "url": "https://au.store.bambulab.com/products/black-nylon-cord?id=44811684511907",
       "variant_id": "44811684511907"
@@ -368,6 +401,7 @@
       "price": "1.19",
       "region": "asia",
       "sku": "42072565940339",
+      "store_id": "",
       "title": "Black Nylon Cord - 0.6mmx5m（1PCS）- MF001",
       "url": "https://asia.store.bambulab.com/products/black-nylon-cord?id=42072565940339",
       "variant_id": "42072565940339"

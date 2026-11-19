@@ -4,36 +4,49 @@
     {
       "handle": "ommo-dartboard-ring-for-autodarts",
       "product_id": "738646865164529664",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ommo-dartboard-ring-for-autodarts",
       "product_id": "738653504362430464",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ommo-dartboard-ring-for-autodarts",
       "product_id": "738653094150746112",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ommo-dartboard-ring-for-autodarts",
       "product_id": "738659052912779264",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ommo-dartboard-ring-for-autodarts",
       "product_id": "738659411689951232",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ommo-dartboard-ring-for-autodarts",
       "product_id": "738643572898160640",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/29/2992a56caf996cdd89daf1f1829a5de261b8cdea5217668a3faecf0a0700852c.png",
       "id": "image-0b260429370f3a91faf2",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZH135.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2992a56caf996cdd89daf1f1829a5de261b8cdea5217668a3faecf0a0700852c",
       "size": 4134913,
       "source_url": "https://store.bblcdn.com/s7/default/0d2d9c1d390149d187059d8934abda88/ZH135.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ac/ac201728655437fe20f3b674877c417b5c071eb706371f8bb0b11b84cde04992.png",
       "id": "image-625a37113dddaa79c623",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH135_V.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ac201728655437fe20f3b674877c417b5c071eb706371f8bb0b11b84cde04992",
       "size": 329652,
       "source_url": "https://store.bblcdn.com/s7/default/a564b01424964ad8bc6498a279695236/ZH135_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/73/730c482518f7146e810612ab4886063fd6d1beeb9d6fc9a15fdc260b7ea609fc.png",
       "id": "image-display-7e499b76d825e6ce4b8d",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-0b260429370f3a91faf2",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "730c482518f7146e810612ab4886063fd6d1beeb9d6fc9a15fdc260b7ea609fc",
       "size": 1053693,
       "source_url": "https://store.bblcdn.com/s7/default/0d2d9c1d390149d187059d8934abda88/ZH135.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7f/7fc3a9d34635f992039f3853f12c31ae1889c4941311e61d31ec0c42c86804f9.png",
       "id": "image-display-84afc6451ae7544c4344",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-625a37113dddaa79c623",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7fc3a9d34635f992039f3853f12c31ae1889c4941311e61d31ec0c42c86804f9",
       "size": 87107,
       "source_url": "https://store.bblcdn.com/s7/default/a564b01424964ad8bc6498a279695236/ZH135_V.png"
@@ -205,7 +225,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional OMMO Dartboard ring for Autodarts. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the OMMO Dartboard ring for Autodarts on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh135-ommo-dartboard-ring-for-autodarts",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "OMMO Dartboard ring for Autodarts",
   "offers": [
@@ -217,6 +238,7 @@
       "price": "78.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/ommo-dartboard-ring-for-autodarts?skr=yes"
     },
     {
@@ -227,16 +249,18 @@
       "price": "91.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/ommo-dartboard-ring-for-autodarts?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
       "price": "75.99",
       "region": "eu",
-      "retrieved_at": "2026-11-10T12:06:28Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/ommo-dartboard-ring-for-autodarts?skr=yes"
     },
     {
@@ -247,6 +271,7 @@
       "price": "58.99",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/ommo-dartboard-ring-for-autodarts?skr=yes"
     },
     {
@@ -257,6 +282,7 @@
       "price": "146.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/ommo-dartboard-ring-for-autodarts?skr=yes"
     },
     {
@@ -267,6 +293,7 @@
       "price": "71.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/ommo-dartboard-ring-for-autodarts?skr=yes"
     }
   ],
@@ -351,6 +378,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -363,6 +391,7 @@
       "price": "78.99",
       "region": "us",
       "sku": "738646865185501184",
+      "store_id": "",
       "title": "OMMO Dartboard ring for Autodarts - OMMO Dartboard ring for Autodarts - ZH135",
       "url": "https://us.store.bambulab.com/products/ommo-dartboard-ring-for-autodarts?id=738646865185501184",
       "variant_id": "738646865185501184"
@@ -375,18 +404,20 @@
       "price": "91.99",
       "region": "ca",
       "sku": "738653504408567810",
+      "store_id": "",
       "title": "OMMO Dartboard ring for Autodarts - OMMO Dartboard ring for Autodarts - ZH135",
       "url": "https://ca.store.bambulab.com/products/ommo-dartboard-ring-for-autodarts?id=738653504408567810",
       "variant_id": "738653504408567810"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/6cc21ffd33e647f9b807f5ec3bca11fe/ZH135.png",
       "part_number": "ZH135",
       "price": "75.99",
       "region": "eu",
       "sku": "738653094163329026",
+      "store_id": "",
       "title": "OMMO Dartboard ring for Autodarts - OMMO Dartboard ring for Autodarts - ZH135",
       "url": "https://eu.store.bambulab.com/products/ommo-dartboard-ring-for-autodarts?id=738653094163329026",
       "variant_id": "738653094163329026"
@@ -399,6 +430,7 @@
       "price": "58.99",
       "region": "uk",
       "sku": "738659052967305217",
+      "store_id": "",
       "title": "OMMO Dartboard ring for Autodarts - OMMO Dartboard ring for Autodarts - ZH135",
       "url": "https://uk.store.bambulab.com/products/ommo-dartboard-ring-for-autodarts?id=738659052967305217",
       "variant_id": "738659052967305217"
@@ -411,6 +443,7 @@
       "price": "146.99",
       "region": "au",
       "sku": "738659411706728450",
+      "store_id": "",
       "title": "OMMO Dartboard ring for Autodarts - OMMO Dartboard ring for Autodarts - ZH135",
       "url": "https://au.store.bambulab.com/products/ommo-dartboard-ring-for-autodarts?id=738659411706728450",
       "variant_id": "738659411706728450"
@@ -423,6 +456,7 @@
       "price": "71.99",
       "region": "asia",
       "sku": "738643572956880898",
+      "store_id": "",
       "title": "OMMO Dartboard ring for Autodarts - OMMO Dartboard ring for Autodarts - ZH135",
       "url": "https://asia.store.bambulab.com/products/ommo-dartboard-ring-for-autodarts?id=738643572956880898",
       "variant_id": "738643572956880898"

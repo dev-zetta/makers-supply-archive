@@ -4,41 +4,56 @@
     {
       "handle": "bambu-cmyk-backlight-board",
       "product_id": "7441298161800",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bambu-cmyk-backlight-board",
       "product_id": "8292797251824",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bambu-cmyk-backlight-board",
       "product_id": "8463733686620",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bambu-cmyk-backlight-board",
       "product_id": "7136749977660",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bambu-cmyk-backlight-board",
       "product_id": "8046866825379",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bambu-cmyk-backlight-board",
       "product_id": "758232136426762240",
-      "region": "kr"
+      "region": "kr",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bambu-cmyk-backlight-board",
       "product_id": "7169428947059",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/74/744cc85795436a01d01d73e278e6f258ef108b264826fff1d56bbc78af6f4d35.jpg",
       "id": "image-1639235d3812d33e4fae",
       "kind": "image",
@@ -46,11 +61,13 @@
       "original_filename": "board.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "744cc85795436a01d01d73e278e6f258ef108b264826fff1d56bbc78af6f4d35",
       "size": 391212,
       "source_url": "https://store.bblcdn.com/s7/default/d80cacd2415f4f5686352650f047302c/board.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/55/55d810fb82c13b2dee23f7a428f1206116c03baac6efc3d1561e105acc75cf13.jpg",
       "id": "image-1bd94804cdd1e4d92bec",
       "kind": "image",
@@ -58,11 +75,13 @@
       "original_filename": "backlightboard2.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "55d810fb82c13b2dee23f7a428f1206116c03baac6efc3d1561e105acc75cf13",
       "size": 59643,
       "source_url": "https://store.bblcdn.com/s7/default/5450ad5b2b3f479ea817c69920a9a2ef/backlightboard2.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a1/a195bf8a9d847756d523e506541edfb4cd6298147ab6877182d8a674bd9ff758.png",
       "id": "image-956799f86f47f1c834cf",
       "kind": "image",
@@ -70,11 +89,13 @@
       "original_filename": "CMYKBacklightBoard.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a195bf8a9d847756d523e506541edfb4cd6298147ab6877182d8a674bd9ff758",
       "size": 355796,
       "source_url": "https://store.bblcdn.com/s7/default/20bdcf8d110b4811a5d26864a9f3934f/CMYKBacklightBoard.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9e/9e47b72e555da3d133d34ff4ac902279bc292ddda3e6dc252b6ce69fb5b38acc.png",
       "id": "image-display-e4d0ed8b99222f363df1",
       "image_processing": {
@@ -92,11 +113,13 @@
       "parent_asset_id": "image-1639235d3812d33e4fae",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9e47b72e555da3d133d34ff4ac902279bc292ddda3e6dc252b6ce69fb5b38acc",
       "size": 260084,
       "source_url": "https://store.bblcdn.com/s7/default/d80cacd2415f4f5686352650f047302c/board.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2c/2c53ea76b73c16e3bba7218ed5ad8d385666e2f4ad211a98c0f945e8349494ac.png",
       "id": "image-display-3512b7166857d91f6088",
       "image_processing": {
@@ -114,11 +137,13 @@
       "parent_asset_id": "image-1bd94804cdd1e4d92bec",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2c53ea76b73c16e3bba7218ed5ad8d385666e2f4ad211a98c0f945e8349494ac",
       "size": 62637,
       "source_url": "https://store.bblcdn.com/s7/default/5450ad5b2b3f479ea817c69920a9a2ef/backlightboard2.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8d/8d74173c230d1fa4e906766d90a3033021734284356084dd6761dd6b440f0b6b.png",
       "id": "image-display-ddb59885ef5565e7a3b0",
       "image_processing": {
@@ -136,6 +161,7 @@
       "parent_asset_id": "image-956799f86f47f1c834cf",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8d74173c230d1fa4e906766d90a3033021734284356084dd6761dd6b440f0b6b",
       "size": 311323,
       "source_url": "https://store.bblcdn.com/s7/default/20bdcf8d110b4811a5d26864a9f3934f/CMYKBacklightBoard.png"
@@ -164,6 +190,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "faz007-bambu-cmyk-backlight-board",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Size",
@@ -185,6 +212,7 @@
       "price": "9.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/bambu-cmyk-backlight-board?skr=yes"
     },
     {
@@ -195,6 +223,7 @@
       "price": "12.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/bambu-cmyk-backlight-board?skr=yes"
     },
     {
@@ -205,6 +234,7 @@
       "price": "10.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/bambu-cmyk-backlight-board?skr=yes"
     },
     {
@@ -215,6 +245,7 @@
       "price": "9.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/bambu-cmyk-backlight-board?skr=yes"
     },
     {
@@ -225,6 +256,7 @@
       "price": "14.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/bambu-cmyk-backlight-board?skr=yes"
     },
     {
@@ -235,6 +267,7 @@
       "price": "14700",
       "region": "kr",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://kr.store.bambulab.com/en/products/bambu-cmyk-backlight-board?skr=yes"
     },
     {
@@ -245,6 +278,7 @@
       "price": "9.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/bambu-cmyk-backlight-board?skr=yes"
     }
   ],
@@ -325,6 +359,7 @@
     "Wattage": "5W",
     "Weight": "59g"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -335,6 +370,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "42235769979016",
+      "store_id": "",
       "title": "Bambu CMYK LED Backlight Board - CMYK LED Backlight Board (1pcs) - FAZ007",
       "url": "https://us.store.bambulab.com/products/bambu-cmyk-backlight-board?id=42235769979016",
       "variant_id": "42235769979016"
@@ -347,6 +383,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "45843500466416",
+      "store_id": "",
       "title": "Bambu CMYK LED Backlight Board - CMYK LED Backlight Board (1pcs) - FAZ007",
       "url": "https://ca.store.bambulab.com/products/bambu-cmyk-backlight-board?id=45843500466416",
       "variant_id": "45843500466416"
@@ -359,6 +396,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "48057228755292",
+      "store_id": "",
       "title": "Bambu CMYK LED Backlight Board - CMYK LED Backlight Board (1pcs) - FAZ007",
       "url": "https://eu.store.bambulab.com/products/bambu-cmyk-backlight-board?id=48057228755292",
       "variant_id": "48057228755292"
@@ -371,6 +409,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "41531355660348",
+      "store_id": "",
       "title": "Bambu CMYK LED Backlight Board - CMYK LED Backlight Board (1pcs) - FAZ007",
       "url": "https://uk.store.bambulab.com/products/bambu-cmyk-backlight-board?id=41531355660348",
       "variant_id": "41531355660348"
@@ -383,6 +422,7 @@
       "price": "14.99",
       "region": "au",
       "sku": "44440948408483",
+      "store_id": "",
       "title": "Bambu CMYK LED Backlight Board - CMYK LED Backlight Board (1pcs) - FAZ007",
       "url": "https://au.store.bambulab.com/products/bambu-cmyk-backlight-board?id=44440948408483",
       "variant_id": "44440948408483"
@@ -395,6 +435,7 @@
       "price": "14700",
       "region": "kr",
       "sku": "758232136430956546",
+      "store_id": "",
       "title": "Bambu CMYK LED 백라이트 보드 - CMYK LED 백라이트 보드(1pcs) - FAZ007",
       "url": "https://kr.store.bambulab.com/products/bambu-cmyk-backlight-board?id=758232136430956546",
       "variant_id": "758232136430956546"
@@ -407,6 +448,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "41695252250739",
+      "store_id": "",
       "title": "Bambu CMYK LED Backlight Board - 156 mm*120 mm (1PC) - FAZ007",
       "url": "https://asia.store.bambulab.com/products/bambu-cmyk-backlight-board?id=41695252250739",
       "variant_id": "41695252250739"

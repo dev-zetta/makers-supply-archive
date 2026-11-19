@@ -4,36 +4,49 @@
     {
       "handle": "droid-e3d-robot-cyberbrick-rc",
       "product_id": "731650928243961856",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "droid-e3d-robot-cyberbrick-rc",
       "product_id": "731650399882231808",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "droid-e3d-robot-cyberbrick-rc",
       "product_id": "731651109558038528",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "droid-e3d-robot-cyberbrick-rc",
       "product_id": "731650659925839872",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "droid-e3d-robot-cyberbrick-rc",
       "product_id": "731650147111559168",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "droid-e3d-robot-cyberbrick-rc",
       "product_id": "725906658689605632",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7e/7ef2d9ed05941681bc4104566892587f3e549887f24c88f6027669ef20e0d07b.png",
       "id": "image-b2348c4d81abbbcdb4f1",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "BANNER02.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7ef2d9ed05941681bc4104566892587f3e549887f24c88f6027669ef20e0d07b",
       "size": 3146067,
       "source_url": "https://store.bblcdn.eu/s8/default/0ac4435d4e6c4f5ab7dc58fd471562f4/BANNER02.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/22/22e379c7ec72700baf57fdd8c1020e0f1085d9b5397da9eb808ccda2fbe5f6ba.png",
       "id": "image-65651b107283041353ae",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "BANNER01.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "22e379c7ec72700baf57fdd8c1020e0f1085d9b5397da9eb808ccda2fbe5f6ba",
       "size": 3241023,
       "source_url": "https://store.bblcdn.eu/s8/default/a52661e93daa418095a6cd463ae857e4/BANNER01.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/42/42a5909628c3543d34dc39d2c0feb616767caa6008c6a9fe73b0a46c26733116.png",
       "id": "image-5419a75695a124ade14b",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "BANNER03.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "42a5909628c3543d34dc39d2c0feb616767caa6008c6a9fe73b0a46c26733116",
       "size": 3003002,
       "source_url": "https://store.bblcdn.eu/s8/default/b68f3c0abcd243528990e0ac4dde2c90/BANNER03.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/40/4061ff72864e720c020a1405804961a6255a537e94e64679c24c9f79a6c5467b.png",
       "id": "image-b82c0f3adaa531beee31",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "BANNER05.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4061ff72864e720c020a1405804961a6255a537e94e64679c24c9f79a6c5467b",
       "size": 3232567,
       "source_url": "https://store.bblcdn.eu/s8/default/0b13b93b01a7493ab197d4a4b37c54f7/BANNER05.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/02/020def2fe7f50c6af773a927458c4bce76c2a02477f7c7902c13a3910c24539f.png",
       "id": "image-07ffc381a574dfc354cc",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "BANNER04.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "020def2fe7f50c6af773a927458c4bce76c2a02477f7c7902c13a3910c24539f",
       "size": 2732132,
       "source_url": "https://store.bblcdn.eu/s8/default/ec70513741f94888b74fd0d5ef96b17d/BANNER04.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ee/ee6f9f17c491bfd318f9fdfe044f939b39bb66d5ac144671de1db0a57787e2f6.png",
       "id": "image-display-cb5130153f2124763f0d",
       "image_processing": {
@@ -111,11 +134,13 @@
       "parent_asset_id": "image-b2348c4d81abbbcdb4f1",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ee6f9f17c491bfd318f9fdfe044f939b39bb66d5ac144671de1db0a57787e2f6",
       "size": 892385,
       "source_url": "https://store.bblcdn.eu/s8/default/0ac4435d4e6c4f5ab7dc58fd471562f4/BANNER02.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c9/c9d59e67792e82b49525b2d439bdb00f1d3ccfbc96bb518f5d457c4a9bf399d9.png",
       "id": "image-display-c968dd2792cb4a005719",
       "image_processing": {
@@ -133,11 +158,13 @@
       "parent_asset_id": "image-65651b107283041353ae",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c9d59e67792e82b49525b2d439bdb00f1d3ccfbc96bb518f5d457c4a9bf399d9",
       "size": 850543,
       "source_url": "https://store.bblcdn.eu/s8/default/a52661e93daa418095a6cd463ae857e4/BANNER01.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/30/30be0459474ef90ea4409071489b8ce729b2a7ef9d5982d089c21744bab35708.png",
       "id": "image-display-791c8990d63a23bbaa39",
       "image_processing": {
@@ -155,11 +182,13 @@
       "parent_asset_id": "image-5419a75695a124ade14b",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "30be0459474ef90ea4409071489b8ce729b2a7ef9d5982d089c21744bab35708",
       "size": 795298,
       "source_url": "https://store.bblcdn.eu/s8/default/b68f3c0abcd243528990e0ac4dde2c90/BANNER03.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f6/f672da5310876b9fc421db42ec251251cb49ec165f84c14a9b443ab57c2a2dcc.png",
       "id": "image-display-ad4dcee8a7fa3a2951a2",
       "image_processing": {
@@ -177,11 +206,13 @@
       "parent_asset_id": "image-b82c0f3adaa531beee31",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f672da5310876b9fc421db42ec251251cb49ec165f84c14a9b443ab57c2a2dcc",
       "size": 903395,
       "source_url": "https://store.bblcdn.eu/s8/default/0b13b93b01a7493ab197d4a4b37c54f7/BANNER05.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f0/f084feb6d049506db0519e0f344d29c2cf45f0b079c805c574ce07c0e5c752f2.png",
       "id": "image-display-30379f1020782c355014",
       "image_processing": {
@@ -199,6 +230,7 @@
       "parent_asset_id": "image-07ffc381a574dfc354cc",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f084feb6d049506db0519e0f344d29c2cf45f0b079c805c574ce07c0e5c752f2",
       "size": 656663,
       "source_url": "https://store.bblcdn.eu/s8/default/ec70513741f94888b74fd0d5ef96b17d/BANNER04.png"
@@ -571,6 +603,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl024-droid-e3d-robot-cyberbrick-rc",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Droid-e3D Robot - CyberBrick RC",
   "offers": [
@@ -582,6 +615,7 @@
       "price": "58.79",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/droid-e3d-robot-cyberbrick-rc?skr=yes"
     },
     {
@@ -592,6 +626,7 @@
       "price": "74.89",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/droid-e3d-robot-cyberbrick-rc?skr=yes"
     },
     {
@@ -602,6 +637,7 @@
       "price": "53.89",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/droid-e3d-robot-cyberbrick-rc?skr=yes"
     },
     {
@@ -612,6 +648,7 @@
       "price": "49.69",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/droid-e3d-robot-cyberbrick-rc?skr=yes"
     },
     {
@@ -622,6 +659,7 @@
       "price": "121.49",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/droid-e3d-robot-cyberbrick-rc?skr=yes"
     },
     {
@@ -632,6 +670,7 @@
       "price": "65.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/droid-e3d-robot-cyberbrick-rc?skr=yes"
     }
   ],
@@ -777,6 +816,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -787,6 +827,7 @@
       "price": "58.79",
       "region": "us",
       "sku": "731650928285904902",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - YES / Droid-e3D Robot - Remote Control included - ZL024",
       "url": "https://us.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=731650928285904902",
       "variant_id": "731650928285904902"
@@ -799,6 +840,7 @@
       "price": "48.29",
       "region": "us",
       "sku": "731650928285904907",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - NO / Droid-e3D Robot - Remote Control not included - ZL024-1",
       "url": "https://us.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=731650928285904907",
       "variant_id": "731650928285904907"
@@ -811,6 +853,7 @@
       "price": "74.89",
       "region": "ca",
       "sku": "731650399899009030",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - YES / Droid-e3D Robot - Remote Control included - ZL024",
       "url": "https://ca.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=731650399899009030",
       "variant_id": "731650399899009030"
@@ -823,6 +866,7 @@
       "price": "60.19",
       "region": "ca",
       "sku": "731650399899009035",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - NO / Droid-e3D Robot - Remote Control not included - ZL024-1",
       "url": "https://ca.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=731650399899009035",
       "variant_id": "731650399899009035"
@@ -835,6 +879,7 @@
       "price": "53.89",
       "region": "eu",
       "sku": "731651109574815750",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - YES / Droid-e3D Robot - Remote Control included - ZL024",
       "url": "https://eu.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=731651109574815750",
       "variant_id": "731651109574815750"
@@ -847,6 +892,7 @@
       "price": "44.09",
       "region": "eu",
       "sku": "731651109574815757",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - NO / Droid-e3D Robot - Remote Control not included - ZL024-1",
       "url": "https://eu.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=731651109574815757",
       "variant_id": "731651109574815757"
@@ -859,6 +905,7 @@
       "price": "49.69",
       "region": "uk",
       "sku": "731650659942617094",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - YES / Droid-e3D Robot - Remote Control included - ZL024",
       "url": "https://uk.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=731650659942617094",
       "variant_id": "731650659942617094"
@@ -871,6 +918,7 @@
       "price": "40.59",
       "region": "uk",
       "sku": "731650659942617099",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - NO / Droid-e3D Robot - Remote Control not included - ZL024-1",
       "url": "https://uk.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=731650659942617099",
       "variant_id": "731650659942617099"
@@ -883,6 +931,7 @@
       "price": "121.49",
       "region": "au",
       "sku": "731650147136724998",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - YES / Droid-e3D Robot - Remote Control included - ZL024",
       "url": "https://au.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=731650147136724998",
       "variant_id": "731650147136724998"
@@ -895,6 +944,7 @@
       "price": "100.79",
       "region": "au",
       "sku": "731650147136725003",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - NO / Droid-e3D Robot - Remote Control not included - ZL024-1",
       "url": "https://au.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=731650147136725003",
       "variant_id": "731650147136725003"
@@ -907,6 +957,7 @@
       "price": "65.99",
       "region": "asia",
       "sku": "730636331491319811",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - YES / Droid-e3D Robot - Remote Control included - ZL024",
       "url": "https://asia.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=730636331491319811",
       "variant_id": "730636331491319811"
@@ -919,6 +970,7 @@
       "price": "49.99",
       "region": "asia",
       "sku": "730636331491319816",
+      "store_id": "",
       "title": "Droid-e3D Robot - CyberBrick RC - NO / Droid-e3D Robot - Remote Control not included - ZL024-1",
       "url": "https://asia.store.bambulab.com/products/droid-e3d-robot-cyberbrick-rc?id=730636331491319816",
       "variant_id": "730636331491319816"

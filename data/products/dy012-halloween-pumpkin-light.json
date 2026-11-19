@@ -4,31 +4,42 @@
     {
       "handle": "halloween-pumpkin-light",
       "product_id": "8375543300232",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-pumpkin-light",
       "product_id": "9037731266800",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-pumpkin-light",
       "product_id": "9598874583388",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-pumpkin-light",
       "product_id": "7798359621692",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-pumpkin-light",
       "product_id": "514036683751481344",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/61/61f87cace3eb9e3397024edd48784789f2c3f0247885f1b127183a7952f775b3.jpg",
       "id": "image-2bac7119e4967da5601d",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "TREE2-1.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "61f87cace3eb9e3397024edd48784789f2c3f0247885f1b127183a7952f775b3",
       "size": 68643,
       "source_url": "https://store.bblcdn.com/s7/default/5c7b37d3b2e243cc9d5366019d68672d/TREE2-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/74/74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0.png",
       "id": "image-66422ccae4757102bf3f",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "flame_098046b9-85a7-45bb-961c-46b4a00f5fab.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0",
       "size": 216756,
       "source_url": "https://store.bblcdn.com/s7/default/8c319063e0904565809dd412fd8eed1b/flame_098046b9-85a7-45bb-961c-46b4a00f5fab.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/46/4665d29cf40ab4aee14fbb28d0ac8893d8036c04dccaac7f42956f21154eda59.png",
       "id": "image-display-3fce0ed5719b39ed9179",
       "image_processing": {
@@ -70,11 +85,13 @@
       "parent_asset_id": "image-2bac7119e4967da5601d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4665d29cf40ab4aee14fbb28d0ac8893d8036c04dccaac7f42956f21154eda59",
       "size": 322429,
       "source_url": "https://store.bblcdn.com/s7/default/5c7b37d3b2e243cc9d5366019d68672d/TREE2-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/45/450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037.png",
       "id": "image-display-341e1f8451bec6989e0a",
       "image_processing": {
@@ -92,6 +109,7 @@
       "parent_asset_id": "image-66422ccae4757102bf3f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037",
       "size": 69316,
       "source_url": "https://store.bblcdn.com/s7/default/8c319063e0904565809dd412fd8eed1b/flame_098046b9-85a7-45bb-961c-46b4a00f5fab.png"
@@ -143,7 +161,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Halloween Pumpkin Light. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Halloween Pumpkin Light and obtain detailed information, please visit the Halloween Pumpkin Light on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "dy012-halloween-pumpkin-light",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Halloween Pumpkin Light",
   "offers": [
@@ -155,6 +174,7 @@
       "price": "8.79",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/halloween-pumpkin-light?skr=yes"
     },
     {
@@ -165,6 +185,7 @@
       "price": "10.12",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/halloween-pumpkin-light?skr=yes"
     },
     {
@@ -175,6 +196,7 @@
       "price": "8.28",
       "region": "eu",
       "retrieved_at": "2026-11-10T13:13:00Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/halloween-pumpkin-light?skr=yes"
     },
     {
@@ -185,6 +207,7 @@
       "price": "7.03",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/halloween-pumpkin-light?skr=yes"
     },
     {
@@ -195,6 +218,7 @@
       "price": "7.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/halloween-pumpkin-light?skr=yes"
     }
   ],
@@ -238,6 +262,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -250,6 +275,7 @@
       "price": "8.79",
       "region": "us",
       "sku": "42938708000904",
+      "store_id": "",
       "title": "Halloween Pumpkin Light - Halloween Pumpkin Light - DY012",
       "url": "https://us.store.bambulab.com/products/halloween-pumpkin-light?id=42938708000904",
       "variant_id": "42938708000904"
@@ -262,6 +288,7 @@
       "price": "10.12",
       "region": "ca",
       "sku": "46610836488432",
+      "store_id": "",
       "title": "Halloween Pumpkin Light - Halloween Pumpkin Light - DY012",
       "url": "https://ca.store.bambulab.com/products/halloween-pumpkin-light?id=46610836488432",
       "variant_id": "46610836488432"
@@ -274,6 +301,7 @@
       "price": "8.28",
       "region": "eu",
       "sku": "49410513535324",
+      "store_id": "",
       "title": "Halloween Pumpkin Light - Halloween Pumpkin Light - DY012",
       "url": "https://eu.store.bambulab.com/products/halloween-pumpkin-light?id=49410513535324",
       "variant_id": "49410513535324"
@@ -286,6 +314,7 @@
       "price": "7.03",
       "region": "uk",
       "sku": "42195734691900",
+      "store_id": "",
       "title": "Halloween Pumpkin Light - Halloween Pumpkin Light - DY012",
       "url": "https://uk.store.bambulab.com/products/halloween-pumpkin-light?id=42195734691900",
       "variant_id": "42195734691900"
@@ -298,6 +327,7 @@
       "price": "7.99",
       "region": "asia",
       "sku": "514036683755675651",
+      "store_id": "",
       "title": "Halloween Pumpkin Light - Halloween Pumpkin Light - DY012",
       "url": "https://asia.store.bambulab.com/products/halloween-pumpkin-light?id=514036683755675651",
       "variant_id": "514036683755675651"

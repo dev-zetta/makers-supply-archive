@@ -4,36 +4,49 @@
     {
       "handle": "magic-night-cat-pumpkin-lantern",
       "product_id": "776214394576089088",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "magic-night-cat-pumpkin-lantern",
       "product_id": "776213694962008064",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "magic-night-cat-pumpkin-lantern",
       "product_id": "776214650466390016",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "magic-night-cat-pumpkin-lantern",
       "product_id": "776214057358249984",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "magic-night-cat-pumpkin-lantern",
       "product_id": "776213427642216448",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "magic-night-cat-pumpkin-lantern",
       "product_id": "774837000506224640",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/31/31d838d42ccd28f9026bf7170c59f1fcdcbd317ef25791f270fda726fb6b8640.png",
       "id": "image-44c86fff6bd89f638ea0",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH184_upgrade.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "31d838d42ccd28f9026bf7170c59f1fcdcbd317ef25791f270fda726fb6b8640",
       "size": 3148708,
       "source_url": "https://store.bblcdn.com/s7/default/05bd93acb1494cb0b76e81b872c74c16/B-ZH184_upgrade.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5d/5d6a8689f713c871f2a3488787f56a43a293861db026d57755f3337cc9f3199d.png",
       "id": "image-dd14cd65e78ab7a35682",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "KC007update.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5d6a8689f713c871f2a3488787f56a43a293861db026d57755f3337cc9f3199d",
       "size": 675628,
       "source_url": "https://store.bblcdn.com/s7/default/33f4eb480451443fb11620a69cf6a3a5/KC007update.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b3/b37dd0045a18d291386e6b81f49c9f00ad00c39f42a9372ded76a0c4adab5b06.png",
       "id": "image-display-7c60f6cd1dd5aea4f81f",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-44c86fff6bd89f638ea0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b37dd0045a18d291386e6b81f49c9f00ad00c39f42a9372ded76a0c4adab5b06",
       "size": 817031,
       "source_url": "https://store.bblcdn.com/s7/default/05bd93acb1494cb0b76e81b872c74c16/B-ZH184_upgrade.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/68/68b8ec28d0528854a8adbdcd1405d49538b42e0682bc3e32658892e6a35f11f1.png",
       "id": "image-display-d81c242de5a9c6301119",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-dd14cd65e78ab7a35682",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "68b8ec28d0528854a8adbdcd1405d49538b42e0682bc3e32658892e6a35f11f1",
       "size": 157924,
       "source_url": "https://store.bblcdn.com/s7/default/33f4eb480451443fb11620a69cf6a3a5/KC007update.png"
@@ -149,7 +169,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Magic Night Cat Pumpkin Lantern. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Magic Night Cat Pumpkin Lantern on MakerWorld.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zh184-magic-night-cat-pumpkin-lantern",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Magic Night Cat Pumpkin Lantern",
   "offers": [
@@ -161,6 +182,7 @@
       "price": "7.99",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
     },
     {
@@ -171,6 +193,7 @@
       "price": "8.85",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
     },
     {
@@ -181,6 +204,7 @@
       "price": "7.24",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
     },
     {
@@ -191,6 +215,7 @@
       "price": "6.15",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
     },
     {
@@ -201,6 +226,7 @@
       "price": "13.89",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
     },
     {
@@ -211,6 +237,7 @@
       "price": "6.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/magic-night-cat-pumpkin-lantern?skr=yes"
     }
   ],
@@ -256,6 +283,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -268,6 +296,7 @@
       "price": "7.99",
       "region": "us",
       "sku": "776214394588672002",
+      "store_id": "",
       "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
       "url": "https://us.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776214394588672002",
       "variant_id": "776214394588672002"
@@ -280,6 +309,7 @@
       "price": "8.85",
       "region": "ca",
       "sku": "776213694974590978",
+      "store_id": "",
       "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
       "url": "https://ca.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776213694974590978",
       "variant_id": "776213694974590978"
@@ -292,6 +322,7 @@
       "price": "7.24",
       "region": "eu",
       "sku": "776214650487361538",
+      "store_id": "",
       "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
       "url": "https://eu.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776214650487361538",
       "variant_id": "776214650487361538"
@@ -304,6 +335,7 @@
       "price": "6.15",
       "region": "uk",
       "sku": "776214057375027202",
+      "store_id": "",
       "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
       "url": "https://uk.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776214057375027202",
       "variant_id": "776214057375027202"
@@ -316,6 +348,7 @@
       "price": "13.89",
       "region": "au",
       "sku": "776213427658993666",
+      "store_id": "",
       "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
       "url": "https://au.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=776213427658993666",
       "variant_id": "776213427658993666"
@@ -328,6 +361,7 @@
       "price": "6.99",
       "region": "asia",
       "sku": "774837000523001858",
+      "store_id": "",
       "title": "Magic Night Cat Pumpkin Lantern - Magic Night Cat Pumpkin Lantern - ZH184",
       "url": "https://asia.store.bambulab.com/products/magic-night-cat-pumpkin-lantern?id=774837000523001858",
       "variant_id": "774837000523001858"

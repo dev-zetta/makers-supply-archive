@@ -4,36 +4,49 @@
     {
       "handle": "100-mm-wire-pair-with-ph2-0",
       "product_id": "7975690436744",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "100-mm-wire-pair-with-ph2-0",
       "product_id": "8650977509616",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "100-mm-wire-pair-with-ph2-0",
       "product_id": "8855723671900",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "100-mm-wire-pair-with-ph2-0",
       "product_id": "7390456512572",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "100-mm-wire-pair-with-ph2-0",
       "product_id": "8316255568035",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "100-mm-wire-pair-with-ph2-0",
       "product_id": "7491339616371",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b6/b60f575794e1a4190c5fa9cb2df5bba0d92bc5987b4977c513028b6a735d2138.png",
       "id": "image-5bd27a44bbb295079d72",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "WirePairwithPH2.0-IC008.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b60f575794e1a4190c5fa9cb2df5bba0d92bc5987b4977c513028b6a735d2138",
       "size": 93449,
       "source_url": "https://store.bblcdn.com/s7/default/d9ebff626ccd4aebab93601c27960bed/WirePairwithPH2.0-IC008.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/77/77172dec74c4000947e4084daad9762ba831956f10a3a5e89a998d19745d1ce0.png",
       "id": "image-55c0aa6cd26816fbcc4c",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "100mmWirePairwithPH2.0_2PCS.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "77172dec74c4000947e4084daad9762ba831956f10a3a5e89a998d19745d1ce0",
       "size": 112709,
       "source_url": "https://store.bblcdn.com/s7/default/4bee8843ced2439bab3b44932c438fe0/100mmWirePairwithPH2.0_2PCS.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7f/7fd64ddd19f979efe99ac8ce8c69c7453646d6a106a4663999668fa9dd594971.pdf",
       "id": "document-bf290db2dafb585d01fc",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "100mm_Wire_Pair_with_PH2.0.pdf",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7fd64ddd19f979efe99ac8ce8c69c7453646d6a106a4663999668fa9dd594971",
       "size": 1123428,
       "source_url": "https://store.bblcdn.com/s7/default/5ceea1dcfd6c41adac40e3f3b24fcb20/100mm_Wire_Pair_with_PH2.0.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/91/912d22d366f3f15a75b7c9cbfe6f2c57e54227d8d8d83fbc024d599b6b185a72.zip",
       "id": "archive-b734d7506ff0c979d0cb",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "100_mm_Wire_Pair_with_PH2.0.zip",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "912d22d366f3f15a75b7c9cbfe6f2c57e54227d8d8d83fbc024d599b6b185a72",
       "size": 52856,
       "source_url": "https://store.bblcdn.com/s7/default/5d6f5ba495a648079cbecf7eb272880e/100_mm_Wire_Pair_with_PH2.0.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "100 mm Wire Pair with PH2.0/100 mm Wire Pair with PH2.0-IC008.stl",
       "blob_path": "data/blobs/sha256/29/29d8cdeb17e04216f949ff4b922f2e46f54b7d48738d5f38d9ec0926b9b66a8c.stl",
       "id": "model-94f917c2d2db6a606717",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-b734d7506ff0c979d0cb",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "29d8cdeb17e04216f949ff4b922f2e46f54b7d48738d5f38d9ec0926b9b66a8c",
       "size": 99684,
       "source_url": "https://store.bblcdn.com/s7/default/5d6f5ba495a648079cbecf7eb272880e/100_mm_Wire_Pair_with_PH2.0.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "100 mm Wire Pair with PH2.0/100 mm Wire Pair with PH2.0-IC008.stp",
       "blob_path": "data/blobs/sha256/c0/c0808ee3edb0eaa90fa2be38f013810b8c4685b5e825d47cf985ea6c36f92530.stp",
       "id": "model-d73941f0fbd6ade46645",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-b734d7506ff0c979d0cb",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c0808ee3edb0eaa90fa2be38f013810b8c4685b5e825d47cf985ea6c36f92530",
       "size": 205690,
       "source_url": "https://store.bblcdn.com/s7/default/5d6f5ba495a648079cbecf7eb272880e/100_mm_Wire_Pair_with_PH2.0.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3c/3c75736b2dc298740b6562c105896e589b74ec0785ff9df0c999cb6d0adb9a04.png",
       "id": "image-display-fd26797ebd6e8e19f90e",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-5bd27a44bbb295079d72",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3c75736b2dc298740b6562c105896e589b74ec0785ff9df0c999cb6d0adb9a04",
       "size": 33334,
       "source_url": "https://store.bblcdn.com/s7/default/d9ebff626ccd4aebab93601c27960bed/WirePairwithPH2.0-IC008.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/be/bef9d642a127a586541c1ea127a155ee2be7e75ec20a6694631fa2a3abe18c6c.png",
       "id": "image-display-02dba2465d82c0e3d7a1",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-55c0aa6cd26816fbcc4c",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bef9d642a127a586541c1ea127a155ee2be7e75ec20a6694631fa2a3abe18c6c",
       "size": 29604,
       "source_url": "https://store.bblcdn.com/s7/default/4bee8843ced2439bab3b44932c438fe0/100mmWirePairwithPH2.0_2PCS.png"
@@ -194,6 +222,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ic008-100-mm-wire-pair-with-ph2-0",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Length (mm)",
@@ -233,6 +262,7 @@
       "price": "1.64",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/100-mm-wire-pair-with-ph2-0?skr=yes"
     },
     {
@@ -243,6 +273,7 @@
       "price": "1.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/100-mm-wire-pair-with-ph2-0?skr=yes"
     },
     {
@@ -253,6 +284,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/100-mm-wire-pair-with-ph2-0?skr=yes"
     },
     {
@@ -263,6 +295,7 @@
       "price": "2.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/100-mm-wire-pair-with-ph2-0?skr=yes"
     },
     {
@@ -273,6 +306,7 @@
       "price": "3.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/100-mm-wire-pair-with-ph2-0?skr=yes"
     },
     {
@@ -283,6 +317,7 @@
       "price": "1.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/100-mm-wire-pair-with-ph2-0?skr=yes"
     }
   ],
@@ -335,6 +370,7 @@
     "Product ID": "IC008",
     "Wire Gauge Size": "26 AWG"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -345,6 +381,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42123210031240",
+      "store_id": "",
       "title": "100mm Wire Pair with PH2.0 - 100mm Wire Pair with PH2.0(2PCS)  - IC008",
       "url": "https://us.store.bambulab.com/products/100-mm-wire-pair-with-ph2-0?id=42123210031240",
       "variant_id": "42123210031240"
@@ -357,6 +394,7 @@
       "price": "1.99",
       "region": "ca",
       "sku": "45672505573616",
+      "store_id": "",
       "title": "100mm Wire Pair with PH2.0(2PCS) - IC008 - 100mm Wire Pair with PH2.0(2PCS)  - IC008",
       "url": "https://ca.store.bambulab.com/products/100-mm-wire-pair-with-ph2-0?id=45672505573616",
       "variant_id": "45672505573616"
@@ -369,6 +407,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "47978308796764",
+      "store_id": "",
       "title": "100mm Wire Pair with PH2.0(2PCS) - IC008 - 100mm Wire Pair with PH2.0(2PCS)  - IC008",
       "url": "https://eu.store.bambulab.com/products/100-mm-wire-pair-with-ph2-0?id=47978308796764",
       "variant_id": "47978308796764"
@@ -381,6 +420,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "41367733731388",
+      "store_id": "",
       "title": "100mm Wire Pair with PH2.0(2PCS) - IC008 - 100mm Wire Pair with PH2.0(2PCS)  - IC008",
       "url": "https://uk.store.bambulab.com/products/100-mm-wire-pair-with-ph2-0?id=41367733731388",
       "variant_id": "41367733731388"
@@ -393,6 +433,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "44315773534371",
+      "store_id": "",
       "title": "100mm Wire Pair with PH2.0(2PCS) - IC008 - 100mm Wire Pair with PH2.0(2PCS)  - IC008",
       "url": "https://au.store.bambulab.com/products/100-mm-wire-pair-with-ph2-0?id=44315773534371",
       "variant_id": "44315773534371"
@@ -405,6 +446,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "41589006762099",
+      "store_id": "",
       "title": "100mm Wire Pair with PH2.0(2PCS) - IC008 - 100mm Wire Pair with PH2.0(2PCS)  - IC008",
       "url": "https://asia.store.bambulab.com/products/100-mm-wire-pair-with-ph2-0?id=41589006762099",
       "variant_id": "41589006762099"

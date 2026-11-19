@@ -4,36 +4,49 @@
     {
       "handle": "m2-5-button-head-cap-machine-screws-bhcs",
       "product_id": "7967980716168",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-button-head-cap-machine-screws-bhcs",
       "product_id": "8642123923696",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-button-head-cap-machine-screws-bhcs",
       "product_id": "8849611981148",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-button-head-cap-machine-screws-bhcs",
       "product_id": "7372765823036",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-button-head-cap-machine-screws-bhcs",
       "product_id": "8263037681827",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-button-head-cap-machine-screws-bhcs",
       "product_id": "7484372615283",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/84/8473d2f73106ef70526cd59307dd395711399013aaea98bbffe88f9a6ca0b854.png",
       "id": "image-463db7e8993f6775b8f3",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "Group48461.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8473d2f73106ef70526cd59307dd395711399013aaea98bbffe88f9a6ca0b854",
       "size": 93542,
       "source_url": "https://store.bblcdn.com/s7/default/3e5d81389ebb4504bb7b6b166a02d534/Group48461.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5e/5e8d9b4be113bf418b691fc3cd880bcf05155dc7c0e56bdf32e79b8ab339f44d.png",
       "id": "image-d16a2a0b146941dbe459",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "M2.5ButtonHeadCapMachineScrews_BHCS.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5e8d9b4be113bf418b691fc3cd880bcf05155dc7c0e56bdf32e79b8ab339f44d",
       "size": 204203,
       "source_url": "https://store.bblcdn.com/s7/default/9a404c16d33642dd9a080df09e5f4966/M2.5ButtonHeadCapMachineScrews_BHCS.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/58/5821acc6cad29057719d7dafd397e8f7dcae69e52c9e6b4151442dbc92814632.pdf",
       "id": "document-153076f2412f6c31ff91",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "M2.5_Button_Head_Cap_Machine_Screws_BHCS_b4a3f0ce-44b3-417f-a357-fbe3eed2c2b8.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5821acc6cad29057719d7dafd397e8f7dcae69e52c9e6b4151442dbc92814632",
       "size": 1424259,
       "source_url": "https://store.bblcdn.com/s7/default/63e086bccf1e4868b89c33aafbe0e321/M2.5_Button_Head_Cap_Machine_Screws_BHCS_b4a3f0ce-44b3-417f-a357-fbe3eed2c2b8.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/62/6207a20b4d86ede72b48ecdb63a3ffc1b4d34f16df8dfbadd24e5dc95d706e21.zip",
       "id": "archive-ed84e7223e6faa68e5d6",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "M2.5_Button_Head_Cap_Machine_Screws_BHCS.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6207a20b4d86ede72b48ecdb63a3ffc1b4d34f16df8dfbadd24e5dc95d706e21",
       "size": 240766,
       "source_url": "https://store.bblcdn.com/s7/default/66bc76f7332044b59e975385af942fcc/M2.5_Button_Head_Cap_Machine_Screws_BHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2.5 Button Head Cap Machine Screws (BHCS)/M2.5x6 BHCS - AA013/M2.5x6 BHCS - AA013.stl",
       "blob_path": "data/blobs/sha256/33/3326034ca6c67bbb43c0c2036f63076950ea0f0db298fb6426089a0639efe9e4.stl",
       "id": "model-eab3c75dff058046c148",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-ed84e7223e6faa68e5d6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3326034ca6c67bbb43c0c2036f63076950ea0f0db298fb6426089a0639efe9e4",
       "size": 1075684,
       "source_url": "https://store.bblcdn.com/s7/default/66bc76f7332044b59e975385af942fcc/M2.5_Button_Head_Cap_Machine_Screws_BHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2.5 Button Head Cap Machine Screws (BHCS)/M2.5x6 BHCS - AA013/M2.5x6 BHCS - AA013.stp",
       "blob_path": "data/blobs/sha256/3b/3b4c15d50e72fe3dec5759369041b9a6a69732d3caaa7795388053ada15a21a7.stp",
       "id": "model-e607aa75536792e188fa",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-ed84e7223e6faa68e5d6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3b4c15d50e72fe3dec5759369041b9a6a69732d3caaa7795388053ada15a21a7",
       "size": 63646,
       "source_url": "https://store.bblcdn.com/s7/default/66bc76f7332044b59e975385af942fcc/M2.5_Button_Head_Cap_Machine_Screws_BHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d9/d9cd322f677143097946ddbe32605bcda204a0e7c23e1b1a512e63f8be3570d3.png",
       "id": "image-display-8cb47f17e5256236e07d",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-463db7e8993f6775b8f3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d9cd322f677143097946ddbe32605bcda204a0e7c23e1b1a512e63f8be3570d3",
       "size": 90572,
       "source_url": "https://store.bblcdn.com/s7/default/3e5d81389ebb4504bb7b6b166a02d534/Group48461.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9b/9b7cd5269f940acb164fa587a203b8237d723c598de821e786790eb07f07b890.png",
       "id": "image-display-5264580473413e724044",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-d16a2a0b146941dbe459",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9b7cd5269f940acb164fa587a203b8237d723c598de821e786790eb07f07b890",
       "size": 70300,
       "source_url": "https://store.bblcdn.com/s7/default/9a404c16d33642dd9a080df09e5f4966/M2.5ButtonHeadCapMachineScrews_BHCS.png"
@@ -211,6 +239,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa013-m2-5-button-head-cap-machine-screws-bhcs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",
@@ -277,6 +306,7 @@
       "price": "1.64",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/m2-5-button-head-cap-machine-screws-bhcs?skr=yes"
     },
     {
@@ -287,6 +317,7 @@
       "price": "1.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/m2-5-button-head-cap-machine-screws-bhcs?skr=yes"
     },
     {
@@ -297,6 +328,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/m2-5-button-head-cap-machine-screws-bhcs?skr=yes"
     },
     {
@@ -307,6 +339,7 @@
       "price": "2.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/m2-5-button-head-cap-machine-screws-bhcs?skr=yes"
     },
     {
@@ -317,6 +350,7 @@
       "price": "3.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/m2-5-button-head-cap-machine-screws-bhcs?skr=yes"
     },
     {
@@ -327,6 +361,7 @@
       "price": "1.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/m2-5-button-head-cap-machine-screws-bhcs?skr=yes"
     }
   ],
@@ -446,6 +481,7 @@
     "k (mm) Hexagon Across Flats": "1.5",
     "t (mm) Groove Depth": "1"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -456,6 +492,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42102774661256",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Button Head Cap Machine Screws (BHCS) - M2.5x6 BHCS Machine Screw (20PCS) - AA013",
       "url": "https://us.store.bambulab.com/products/m2-5-button-head-cap-machine-screws-bhcs?id=42102774661256",
       "variant_id": "42102774661256"
@@ -468,6 +505,7 @@
       "price": "1.99",
       "region": "ca",
       "sku": "45646999847152",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Button Head Cap Machine Screws (BHCS) - M2.5x6 BHCS Machine Screw (20PCS) - AA013",
       "url": "https://ca.store.bambulab.com/products/m2-5-button-head-cap-machine-screws-bhcs?id=45646999847152",
       "variant_id": "45646999847152"
@@ -480,6 +518,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "47966811652444",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Button Head Cap Machine Screws (BHCS) - M2.5x6 BHCS Machine Screw (20PCS) - AA013",
       "url": "https://eu.store.bambulab.com/products/m2-5-button-head-cap-machine-screws-bhcs?id=47966811652444",
       "variant_id": "47966811652444"
@@ -492,6 +531,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "41313117536316",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Button Head Cap Machine Screws (BHCS) - M2.5x6 BHCS Machine Screw (20PCS) - AA013",
       "url": "https://uk.store.bambulab.com/products/m2-5-button-head-cap-machine-screws-bhcs?id=41313117536316",
       "variant_id": "41313117536316"
@@ -504,6 +544,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "44121398673571",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Button Head Cap Machine Screws (BHCS) - M2.5x6 BHCS Machine Screw (20PCS) - AA013",
       "url": "https://au.store.bambulab.com/products/m2-5-button-head-cap-machine-screws-bhcs?id=44121398673571",
       "variant_id": "44121398673571"
@@ -516,6 +557,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "41566242865267",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Button Head Cap Machine Screws (BHCS) - M2.5x6 BHCS Machine Screw (20PCS) - AA013",
       "url": "https://asia.store.bambulab.com/products/m2-5-button-head-cap-machine-screws-bhcs?id=41566242865267",
       "variant_id": "41566242865267"

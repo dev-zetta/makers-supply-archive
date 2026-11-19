@@ -4,36 +4,49 @@
     {
       "handle": "the-machine-core-mechanical-puzzle-box",
       "product_id": "763276603789766656",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-machine-core-mechanical-puzzle-box",
       "product_id": "763282950476361728",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-machine-core-mechanical-puzzle-box",
       "product_id": "763277407959474176",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-machine-core-mechanical-puzzle-box",
       "product_id": "763278070638534656",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-machine-core-mechanical-puzzle-box",
       "product_id": "763283828621012992",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-machine-core-mechanical-puzzle-box",
       "product_id": "763166462255919104",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/12/120e6e4a11cc21bdb2be6e833ffe964595534813a1d53c8dd9fb28f0f8b2afe7.png",
       "id": "image-427b8018c0dc7c1504d3",
       "kind": "image",
@@ -41,23 +54,13 @@
       "original_filename": "ZH162.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "120e6e4a11cc21bdb2be6e833ffe964595534813a1d53c8dd9fb28f0f8b2afe7",
       "size": 3329248,
       "source_url": "https://store.bblcdn.com/s7/default/37fe0e5cbba54729b8b0d604895a260c/ZH162.png"
     },
     {
-      "blob_path": "data/blobs/sha256/12/120e6e4a11cc21bdb2be6e833ffe964595534813a1d53c8dd9fb28f0f8b2afe7.png",
-      "id": "image-ab90984d507d84dc7b11",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "ZH162.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "120e6e4a11cc21bdb2be6e833ffe964595534813a1d53c8dd9fb28f0f8b2afe7",
-      "size": 3329248,
-      "source_url": "https://store.bblcdn.com/s1/default/ed486271f8894ab79126f5916a7619c4/ZH162.png"
-    },
-    {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/77/77cd45ec558d084e28c4f340bdd1845ba6b835d3185ae28dbbdd1d8f28f681b0.png",
       "id": "image-df0516319740d6fb0e3f",
       "kind": "image",
@@ -65,11 +68,27 @@
       "original_filename": "1280X1280.PNG",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "77cd45ec558d084e28c4f340bdd1845ba6b835d3185ae28dbbdd1d8f28f681b0",
       "size": 86566,
       "source_url": "https://store.bblcdn.com/s7/default/f1f60f1d8fe141b2b67a651618cdfe07/1280X1280.PNG"
     },
     {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/12/120e6e4a11cc21bdb2be6e833ffe964595534813a1d53c8dd9fb28f0f8b2afe7.png",
+      "id": "image-ab90984d507d84dc7b11",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH162.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "role": "other",
+      "sha256": "120e6e4a11cc21bdb2be6e833ffe964595534813a1d53c8dd9fb28f0f8b2afe7",
+      "size": 3329248,
+      "source_url": "https://store.bblcdn.com/s1/default/ed486271f8894ab79126f5916a7619c4/ZH162.png"
+    },
+    {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b2/b2881958114127a39e634ee7469b2bbbbee8a5c7fc6450b2c8bff8f9b09fcb2d.png",
       "id": "image-display-890b77847faa6488efb7",
       "image_processing": {
@@ -87,33 +106,13 @@
       "parent_asset_id": "image-427b8018c0dc7c1504d3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b2881958114127a39e634ee7469b2bbbbee8a5c7fc6450b2c8bff8f9b09fcb2d",
       "size": 927921,
       "source_url": "https://store.bblcdn.com/s7/default/37fe0e5cbba54729b8b0d604895a260c/ZH162.png"
     },
     {
-      "blob_path": "data/blobs/sha256/b2/b2881958114127a39e634ee7469b2bbbbee8a5c7fc6450b2c8bff8f9b09fcb2d.png",
-      "id": "image-display-ca6cb77c3249f8d4e0b7",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 1600,
-        "source_sha256": "120e6e4a11cc21bdb2be6e833ffe964595534813a1d53c8dd9fb28f0f8b2afe7",
-        "source_width": 1600
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "ZH162.catalog.png",
-      "parent_asset_id": "image-ab90984d507d84dc7b11",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "b2881958114127a39e634ee7469b2bbbbee8a5c7fc6450b2c8bff8f9b09fcb2d",
-      "size": 927921,
-      "source_url": "https://store.bblcdn.com/s1/default/ed486271f8894ab79126f5916a7619c4/ZH162.png"
-    },
-    {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/70/70f696b9c3120d185feafb3d1dc02103ce2117fbc9be3dbf2b38c1b56c5a1d10.png",
       "id": "image-display-1287694ecddf777a4c2d",
       "image_processing": {
@@ -131,9 +130,34 @@
       "parent_asset_id": "image-df0516319740d6fb0e3f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "70f696b9c3120d185feafb3d1dc02103ce2117fbc9be3dbf2b38c1b56c5a1d10",
       "size": 43037,
       "source_url": "https://store.bblcdn.com/s7/default/f1f60f1d8fe141b2b67a651618cdfe07/1280X1280.PNG"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/b2/b2881958114127a39e634ee7469b2bbbbee8a5c7fc6450b2c8bff8f9b09fcb2d.png",
+      "id": "image-display-ca6cb77c3249f8d4e0b7",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "120e6e4a11cc21bdb2be6e833ffe964595534813a1d53c8dd9fb28f0f8b2afe7",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH162.catalog.png",
+      "parent_asset_id": "image-ab90984d507d84dc7b11",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "role": "other",
+      "sha256": "b2881958114127a39e634ee7469b2bbbbee8a5c7fc6450b2c8bff8f9b09fcb2d",
+      "size": 927921,
+      "source_url": "https://store.bblcdn.com/s1/default/ed486271f8894ab79126f5916a7619c4/ZH162.png"
     }
   ],
   "box_contents": [
@@ -197,7 +221,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional The Machine Core - Mechanical Puzzle Box. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the The Machine Core - Mechanical Puzzle Box on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh162-the-machine-core-mechanical-puzzle-box",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "The Machine Core - Mechanical Puzzle Box",
   "offers": [
@@ -209,6 +234,7 @@
       "price": "4.72",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/the-machine-core-mechanical-puzzle-box?skr=yes"
     },
     {
@@ -219,6 +245,7 @@
       "price": "5.23",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/the-machine-core-mechanical-puzzle-box?skr=yes"
     },
     {
@@ -229,6 +256,7 @@
       "price": "4.49",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/the-machine-core-mechanical-puzzle-box?skr=yes"
     },
     {
@@ -239,6 +267,7 @@
       "price": "3.63",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/the-machine-core-mechanical-puzzle-box?skr=yes"
     },
     {
@@ -249,6 +278,7 @@
       "price": "8.2",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/the-machine-core-mechanical-puzzle-box?skr=yes"
     },
     {
@@ -259,6 +289,7 @@
       "price": "4.13",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/the-machine-core-mechanical-puzzle-box?skr=yes"
     }
   ],
@@ -313,6 +344,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -325,6 +357,7 @@
       "price": "4.72",
       "region": "us",
       "sku": "763276603802349570",
+      "store_id": "",
       "title": "The Machine Core - Mechanical Puzzle Box - The Machine Core - Mechanical Puzzle Box - ZH162",
       "url": "https://us.store.bambulab.com/products/the-machine-core-mechanical-puzzle-box?id=763276603802349570",
       "variant_id": "763276603802349570"
@@ -337,6 +370,7 @@
       "price": "5.23",
       "region": "ca",
       "sku": "763282950488944642",
+      "store_id": "",
       "title": "The Machine Core - Mechanical Puzzle Box - The Machine Core - Mechanical Puzzle Box - ZH162",
       "url": "https://ca.store.bambulab.com/products/the-machine-core-mechanical-puzzle-box?id=763282950488944642",
       "variant_id": "763282950488944642"
@@ -349,6 +383,7 @@
       "price": "4.49",
       "region": "eu",
       "sku": "763277407984640001",
+      "store_id": "",
       "title": "The Machine Core - Mechanical Puzzle Box - The Machine Core - Mechanical Puzzle Box - ZH162",
       "url": "https://eu.store.bambulab.com/products/the-machine-core-mechanical-puzzle-box?id=763277407984640001",
       "variant_id": "763277407984640001"
@@ -361,6 +396,7 @@
       "price": "3.63",
       "region": "uk",
       "sku": "763278070655311874",
+      "store_id": "",
       "title": "The Machine Core - Mechanical Puzzle Box - The Machine Core - Mechanical Puzzle Box - ZH162",
       "url": "https://uk.store.bambulab.com/products/the-machine-core-mechanical-puzzle-box?id=763278070655311874",
       "variant_id": "763278070655311874"
@@ -373,6 +409,7 @@
       "price": "8.2",
       "region": "au",
       "sku": "763283828633595905",
+      "store_id": "",
       "title": "The Machine Core - Mechanical Puzzle Box - The Machine Core - Mechanical Puzzle Box - ZH162",
       "url": "https://au.store.bambulab.com/products/the-machine-core-mechanical-puzzle-box?id=763283828633595905",
       "variant_id": "763283828633595905"
@@ -385,6 +422,7 @@
       "price": "4.13",
       "region": "asia",
       "sku": "763166462306250754",
+      "store_id": "",
       "title": "The Machine Core - Mechanical Puzzle Box - The Machine Core - Mechanical Puzzle Box - ZH162",
       "url": "https://asia.store.bambulab.com/products/the-machine-core-mechanical-puzzle-box?id=763166462306250754",
       "variant_id": "763166462306250754"

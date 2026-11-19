@@ -4,36 +4,49 @@
     {
       "handle": "l-type-hex-wrench",
       "product_id": "600833437526675456",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "l-type-hex-wrench",
       "product_id": "600834423802101760",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "l-type-hex-wrench",
       "product_id": "600832151595372544",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "l-type-hex-wrench",
       "product_id": "600834700793372672",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "l-type-hex-wrench",
       "product_id": "600833993447370752",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "l-type-hex-wrench",
       "product_id": "600823661830742016",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b3/b3aa1e997d8c47613096a1b42e607dad174c7f640bcf1dd326cf987825d8db42.png",
       "id": "image-18bd92646cf12dc97a43",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-QA006.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b3aa1e997d8c47613096a1b42e607dad174c7f640bcf1dd326cf987825d8db42",
       "size": 127756,
       "source_url": "https://store.bblcdn.com/s7/default/e7a647c4bf7c410f88d84d5a27b35c8f/B-QA006.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0c/0c7c4597bf6be52286726f3db5617a902d4cfbebff79320b7c30f5912dc322a3.png",
       "id": "image-a1e38f6c46002ec4bade",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-QA007.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0c7c4597bf6be52286726f3db5617a902d4cfbebff79320b7c30f5912dc322a3",
       "size": 126275,
       "source_url": "https://store.bblcdn.com/s7/default/267e3f4686a24145878926a82d3c3d02/B-QA007.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f7/f764b3b164aaa2ae6c3acc6c7d1e6ce090d8d4a1f8d0407236c644a6afe09655.png",
       "id": "image-5ed5f655e6583d491c8c",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-QA006-QA007.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f764b3b164aaa2ae6c3acc6c7d1e6ce090d8d4a1f8d0407236c644a6afe09655",
       "size": 154008,
       "source_url": "https://store.bblcdn.com/s7/default/56acf0a599844c2b988a47e31422e4a7/B-QA006-QA007.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/24/24785aef7dbe567044a340c6929558fa4fd1f976e4dc863090da449f111f3e22.png",
       "id": "image-display-346e90b63cf1e8efafbd",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-18bd92646cf12dc97a43",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "24785aef7dbe567044a340c6929558fa4fd1f976e4dc863090da449f111f3e22",
       "size": 44659,
       "source_url": "https://store.bblcdn.com/s7/default/e7a647c4bf7c410f88d84d5a27b35c8f/B-QA006.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b8/b804447305c2ad17f7fbe5e5b067242c6e9af32b87de667b6df4c707743ad4db.png",
       "id": "image-display-00eb7ccce6726d538ea0",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-a1e38f6c46002ec4bade",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b804447305c2ad17f7fbe5e5b067242c6e9af32b87de667b6df4c707743ad4db",
       "size": 44557,
       "source_url": "https://store.bblcdn.com/s7/default/267e3f4686a24145878926a82d3c3d02/B-QA007.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e3/e30edbd113b81456b284de5584bebd018d45e9defead8d02bd81e82192206e0b.png",
       "id": "image-display-e2271f747cd18301e5db",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-5ed5f655e6583d491c8c",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e30edbd113b81456b284de5584bebd018d45e9defead8d02bd81e82192206e0b",
       "size": 33940,
       "source_url": "https://store.bblcdn.com/s7/default/56acf0a599844c2b988a47e31422e4a7/B-QA006-QA007.png"
@@ -168,6 +192,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "qa006-l-type-hex-wrench",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "L Type Hex Wrench",
   "offers": [
@@ -179,6 +204,7 @@
       "price": "1.99",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/l-type-hex-wrench?skr=yes"
     },
     {
@@ -189,6 +215,7 @@
       "price": "2.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/l-type-hex-wrench?skr=yes"
     },
     {
@@ -199,6 +226,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/l-type-hex-wrench?skr=yes"
     },
     {
@@ -209,6 +237,7 @@
       "price": "1.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/l-type-hex-wrench?skr=yes"
     },
     {
@@ -219,6 +248,7 @@
       "price": "3.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/l-type-hex-wrench?skr=yes"
     },
     {
@@ -229,6 +259,7 @@
       "price": "1.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/l-type-hex-wrench?skr=yes"
     }
   ],
@@ -289,6 +320,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -299,6 +331,7 @@
       "price": "1.99",
       "region": "us",
       "sku": "600833437543452675",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H2.5 Hex Wrench (2PCS) - QA006",
       "url": "https://us.store.bambulab.com/products/l-type-hex-wrench?id=600833437543452675",
       "variant_id": "600833437543452675"
@@ -311,6 +344,7 @@
       "price": "2.49",
       "region": "us",
       "sku": "600833437543452679",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H4 Hex Wrench (2PCS) - QA007",
       "url": "https://us.store.bambulab.com/products/l-type-hex-wrench?id=600833437543452679",
       "variant_id": "600833437543452679"
@@ -322,6 +356,7 @@
       "price": "3.58",
       "region": "us",
       "sku": "714973264694280194",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type Hex Wrench Kit",
       "url": "https://us.store.bambulab.com/products/l-type-hex-wrench?id=714973264694280194",
       "variant_id": "714973264694280194"
@@ -334,6 +369,7 @@
       "price": "2.99",
       "region": "ca",
       "sku": "600834423818878979",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H2.5 Hex Wrench (2PCS) - QA006",
       "url": "https://ca.store.bambulab.com/products/l-type-hex-wrench?id=600834423818878979",
       "variant_id": "600834423818878979"
@@ -346,6 +382,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "600834423818878983",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H4 Hex Wrench (2PCS) - QA007",
       "url": "https://ca.store.bambulab.com/products/l-type-hex-wrench?id=600834423818878983",
       "variant_id": "600834423818878983"
@@ -357,6 +394,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "600832151616344067",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H2.5 Hex Wrench (2PCS)",
       "url": "https://eu.store.bambulab.com/products/l-type-hex-wrench?id=600832151616344067",
       "variant_id": "600832151616344067"
@@ -368,6 +406,7 @@
       "price": "2.99",
       "region": "eu",
       "sku": "600832151620538368",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H4 Hex Wrench (2PCS)",
       "url": "https://eu.store.bambulab.com/products/l-type-hex-wrench?id=600832151620538368",
       "variant_id": "600832151620538368"
@@ -379,6 +418,7 @@
       "price": "4.38",
       "region": "eu",
       "sku": "731724647472078850",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type Hex Wrench Kit",
       "url": "https://eu.store.bambulab.com/products/l-type-hex-wrench?id=731724647472078850",
       "variant_id": "731724647472078850"
@@ -391,6 +431,7 @@
       "price": "1.99",
       "region": "uk",
       "sku": "600834700810149891",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H2.5 Hex Wrench (2PCS) - QA006",
       "url": "https://uk.store.bambulab.com/products/l-type-hex-wrench?id=600834700810149891",
       "variant_id": "600834700810149891"
@@ -403,6 +444,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "600834700810149895",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H4 Hex Wrench (2PCS) - QA007",
       "url": "https://uk.store.bambulab.com/products/l-type-hex-wrench?id=600834700810149895",
       "variant_id": "600834700810149895"
@@ -415,6 +457,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "600833993468342275",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H2.5 Hex Wrench (2PCS) - QA006",
       "url": "https://au.store.bambulab.com/products/l-type-hex-wrench?id=600833993468342275",
       "variant_id": "600833993468342275"
@@ -427,6 +470,7 @@
       "price": "4.99",
       "region": "au",
       "sku": "600833993468342279",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H4 Hex Wrench (2PCS) - QA007",
       "url": "https://au.store.bambulab.com/products/l-type-hex-wrench?id=600833993468342279",
       "variant_id": "600833993468342279"
@@ -439,6 +483,7 @@
       "price": "1.99",
       "region": "asia",
       "sku": "600823661843324931",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H2.5 Hex Wrench (2PCS) - QA006",
       "url": "https://asia.store.bambulab.com/products/l-type-hex-wrench?id=600823661843324931",
       "variant_id": "600823661843324931"
@@ -451,6 +496,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "600823661843324935",
+      "store_id": "",
       "title": "L Type Hex Wrench - L Type H4 Hex Wrench (2PCS) - QA007",
       "url": "https://asia.store.bambulab.com/products/l-type-hex-wrench?id=600823661843324935",
       "variant_id": "600823661843324935"

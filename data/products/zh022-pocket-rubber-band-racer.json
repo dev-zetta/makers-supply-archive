@@ -4,36 +4,49 @@
     {
       "handle": "pocket-rubber-band-racer",
       "product_id": "8351415369864",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pocket-rubber-band-racer",
       "product_id": "9022842732784",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pocket-rubber-band-racer",
       "product_id": "9582324416860",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pocket-rubber-band-racer",
       "product_id": "7787777163324",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pocket-rubber-band-racer",
       "product_id": "510731885206007808",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pocket-rubber-band-racer",
       "product_id": "510731870386802688",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bf/bfb6521aac03b92aa98116d7f4583dfeadf5a8af4e78371e000681d1707c948e.jpg",
       "id": "image-0f57604bb55a754e3170",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "rubber.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bfb6521aac03b92aa98116d7f4583dfeadf5a8af4e78371e000681d1707c948e",
       "size": 99949,
       "source_url": "https://store.bblcdn.com/s7/default/4ebfce3a348247979e231d06d0d72a4d/rubber.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/82/82566bfc5df37d4bbf5efe533f9ca0ed58948889e5f470c154a83901fcca3248.png",
       "id": "image-77127b698bf9c1f465d5",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "car-right.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "82566bfc5df37d4bbf5efe533f9ca0ed58948889e5f470c154a83901fcca3248",
       "size": 291275,
       "source_url": "https://store.bblcdn.com/s7/default/bd1f175f98ad4f479b77eb243f3048ef/car-right.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/85/85d0899b4bab4df50d3e3b0d1d990e4558c9f52fecb004754c6297f22999a08f.png",
       "id": "image-display-5bdf181ba38b7d4206ad",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-0f57604bb55a754e3170",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "85d0899b4bab4df50d3e3b0d1d990e4558c9f52fecb004754c6297f22999a08f",
       "size": 529237,
       "source_url": "https://store.bblcdn.com/s7/default/4ebfce3a348247979e231d06d0d72a4d/rubber.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ea/ea1308bc51d2d17f4e7145c5b73f53a7fa358d40a6c2a06363a802eaa209a2f7.png",
       "id": "image-display-e5adf5c74765e6a98754",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-77127b698bf9c1f465d5",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ea1308bc51d2d17f4e7145c5b73f53a7fa358d40a6c2a06363a802eaa209a2f7",
       "size": 94952,
       "source_url": "https://store.bblcdn.com/s7/default/bd1f175f98ad4f479b77eb243f3048ef/car-right.png"
@@ -160,7 +180,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Pocket Rubber Band Racer. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Pocket Rubber Band Racer and obtain detailed information, please visit the Pocket Rubber Band Racer on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh022-pocket-rubber-band-racer",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Pocket Rubber Band Racer",
   "offers": [
@@ -172,6 +193,7 @@
       "price": "6.09",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
     },
     {
@@ -182,6 +204,7 @@
       "price": "6.8",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
     },
     {
@@ -192,6 +215,7 @@
       "price": "5.56",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
     },
     {
@@ -202,6 +226,7 @@
       "price": "4.72",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
     },
     {
@@ -212,6 +237,7 @@
       "price": "10.67",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
     },
     {
@@ -222,6 +248,7 @@
       "price": "5.37",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/pocket-rubber-band-racer?skr=yes"
     }
   ],
@@ -277,6 +304,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -289,6 +317,7 @@
       "price": "6.09",
       "region": "us",
       "sku": "42899858882696",
+      "store_id": "",
       "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
       "url": "https://us.store.bambulab.com/products/pocket-rubber-band-racer?id=42899858882696",
       "variant_id": "42899858882696"
@@ -301,6 +330,7 @@
       "price": "6.8",
       "region": "ca",
       "sku": "46577905303792",
+      "store_id": "",
       "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
       "url": "https://ca.store.bambulab.com/products/pocket-rubber-band-racer?id=46577905303792",
       "variant_id": "46577905303792"
@@ -313,6 +343,7 @@
       "price": "5.56",
       "region": "eu",
       "sku": "49354257006940",
+      "store_id": "",
       "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
       "url": "https://eu.store.bambulab.com/products/pocket-rubber-band-racer?id=49354257006940",
       "variant_id": "49354257006940"
@@ -325,6 +356,7 @@
       "price": "4.72",
       "region": "uk",
       "sku": "42169780633660",
+      "store_id": "",
       "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
       "url": "https://uk.store.bambulab.com/products/pocket-rubber-band-racer?id=42169780633660",
       "variant_id": "42169780633660"
@@ -337,6 +369,7 @@
       "price": "10.67",
       "region": "au",
       "sku": "510731885214396419",
+      "store_id": "",
       "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
       "url": "https://au.store.bambulab.com/products/pocket-rubber-band-racer?id=510731885214396419",
       "variant_id": "510731885214396419"
@@ -349,6 +382,7 @@
       "price": "5.37",
       "region": "asia",
       "sku": "510731870386802692",
+      "store_id": "",
       "title": "Pocket Rubber Band Racer - Pocket Rubber Band Racer - ZH022",
       "url": "https://asia.store.bambulab.com/products/pocket-rubber-band-racer?id=510731870386802692",
       "variant_id": "510731870386802692"

@@ -4,31 +4,42 @@
     {
       "handle": "cyberbrick-official-soccerbot",
       "product_id": "657362015950311424",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-official-soccerbot",
       "product_id": "657361841117368320",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-official-soccerbot",
       "product_id": "657362137750278144",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-official-soccerbot",
       "product_id": "657361931458560000",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-official-soccerbot",
       "product_id": "657359188224540672",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3c/3cb78865422cb4f7f4d666ebca887ee256314b3989786b36cfab879105e641a1.png",
       "id": "image-4cc2b72d650a41eb3bac",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "CyberBrick_Official_SoccerBot.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3cb78865422cb4f7f4d666ebca887ee256314b3989786b36cfab879105e641a1",
       "size": 4084160,
       "source_url": "https://store.bblcdn.com/s7/default/d470e1cb11a84a7bbf68dcefbc20952c/CyberBrick_Official_SoccerBot.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/60/60d71b9236940e0f325409436146e21893b3506ba0e85f01d5b44964486970fc.png",
       "id": "image-51ac2f72d71aad89f899",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "DSCF0260_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "60d71b9236940e0f325409436146e21893b3506ba0e85f01d5b44964486970fc",
       "size": 4396457,
       "source_url": "https://store.bblcdn.com/s7/default/6a029652d11740a5aeeccf53dad55c9a/DSCF0260_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ae/ae24d91f5a9ea845b9eafb87a098fa35627440cc9a837e3af2464f1a5d54ccf5.png",
       "id": "image-562d9aac08d0177eb93a",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "DSCF0261_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ae24d91f5a9ea845b9eafb87a098fa35627440cc9a837e3af2464f1a5d54ccf5",
       "size": 4963381,
       "source_url": "https://store.bblcdn.com/s7/default/7abf4de40b8749a7ba089bad866b246f/DSCF0261_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7f/7f6c9188c7d66274fb632f2e76b2ebac3619e93cd6b6fa047e4baaddb4d42ae9.png",
       "id": "image-bbaba1abd1bdb490535f",
       "kind": "image",
@@ -72,11 +89,13 @@
       "original_filename": "Frame_1123863594.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7f6c9188c7d66274fb632f2e76b2ebac3619e93cd6b6fa047e4baaddb4d42ae9",
       "size": 1393341,
       "source_url": "https://store.bblcdn.com/s7/default/130ec6d3281d4c82aeaaf91409f9488e/Frame_1123863594.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bd/bd4f38a728b7385f94d0b0e2131ece72e78bcefa99c1827fc915ac7fb3df2caa.pdf",
       "id": "document-e765ce3bd7df7130ed01",
       "kind": "document",
@@ -84,11 +103,13 @@
       "original_filename": "0722CyberBrick_SoccerBot_Assembly_Guide.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bd4f38a728b7385f94d0b0e2131ece72e78bcefa99c1827fc915ac7fb3df2caa",
       "size": 11982719,
       "source_url": "https://store.bblcdn.com/s2/default/7834d86a386b4181bdfa034a47d94817/0722CyberBrick_SoccerBot_Assembly_Guide.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0e/0e7a1e132654a9d4780d472ddab71496908f4fc7bf0466d540ff3ab7ab592b17.zip",
       "id": "archive-6ace954af4b7610d9dc2",
       "kind": "archive",
@@ -96,11 +117,13 @@
       "original_filename": "RC_Framework-SoccerBot.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0e7a1e132654a9d4780d472ddab71496908f4fc7bf0466d540ff3ab7ab592b17",
       "size": 2014,
       "source_url": "https://store.bblcdn.com/s2/default/c4cff52dfcd34047885926ec3a2bc8cb/RC_Framework-SoccerBot.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/09/09b95e8b1d09f0a7eb61e3aa1c5b99acd88104792022ac0b8624dfa1c9e99fb0.png",
       "id": "image-display-d58f437768fa62528d8b",
       "image_processing": {
@@ -118,11 +141,13 @@
       "parent_asset_id": "image-4cc2b72d650a41eb3bac",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "09b95e8b1d09f0a7eb61e3aa1c5b99acd88104792022ac0b8624dfa1c9e99fb0",
       "size": 1066588,
       "source_url": "https://store.bblcdn.com/s7/default/d470e1cb11a84a7bbf68dcefbc20952c/CyberBrick_Official_SoccerBot.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/35/3553c6b4a24fc8619b20844a76b9322cf5bc059121a996509648cfc9818b41de.png",
       "id": "image-display-a380e652ff0f41064492",
       "image_processing": {
@@ -140,11 +165,13 @@
       "parent_asset_id": "image-51ac2f72d71aad89f899",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3553c6b4a24fc8619b20844a76b9322cf5bc059121a996509648cfc9818b41de",
       "size": 933134,
       "source_url": "https://store.bblcdn.com/s7/default/6a029652d11740a5aeeccf53dad55c9a/DSCF0260_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/af/afaadb37fb8c8b993892a678c8a1c2bcc067c88edc2d23cfc0d8a20a20b82802.png",
       "id": "image-display-65e940def905789ac7bf",
       "image_processing": {
@@ -162,11 +189,13 @@
       "parent_asset_id": "image-562d9aac08d0177eb93a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "afaadb37fb8c8b993892a678c8a1c2bcc067c88edc2d23cfc0d8a20a20b82802",
       "size": 1001470,
       "source_url": "https://store.bblcdn.com/s7/default/7abf4de40b8749a7ba089bad866b246f/DSCF0261_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c5/c54748560fdbd3693eecb97e1289dd192b02d8a98d5d5dd62d0487d499b4f62d.png",
       "id": "image-display-b92e1a791731156745cd",
       "image_processing": {
@@ -184,6 +213,7 @@
       "parent_asset_id": "image-bbaba1abd1bdb490535f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c54748560fdbd3693eecb97e1289dd192b02d8a98d5d5dd62d0487d499b4f62d",
       "size": 1130484,
       "source_url": "https://store.bblcdn.com/s7/default/130ec6d3281d4c82aeaaf91409f9488e/Frame_1123863594.png"
@@ -289,7 +319,8 @@
   "description_text": "Experience the thrill of mini robot soccer with this innovative battle set. Featuring Remote control, SoccerBots deliver powerful kicks and precise movements for strategic matches. The system encourages creativity through event-based programming, allowing you to code special moves and custom rules. Furthermore, the fully 3D-printable design enables endless DIY upgrades. You can choose your preferred filament color to print the SoccerBot, experience a dynamic and customizable platform where high-tech meets the thrill of competition.\n\nReady to build your own soccer game? Find all files and details on its MakerWorld Page.\n\n*For a smooth build, we recommend reviewing the assembly guide first.\n\nThe SoccerBot is designed to work with the CyberBrick Official Remote. Pre-configured settings have been uploaded for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\nTo ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product.\n\nIntended Users: This product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use.\n\nFirmware Safety: Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nOperational Safety: Do not touch the moving tracks or wheels while the device is operating to prevent pinching injuries, and do not make any modifications to the ball launcher.\n\nBattery & Charging: DO NOT use chargers with output higher than 5V or 2A, only the officially designated battery and charger must be used. Avoid exposing the battery to high temperatures or water.\n\nMaintenance & Storage: Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nOur company is not liable for any equipment damage, failure, fire, or other loss caused by non-compliance with the above requirements.\n\nPlease strictly follow the safety instructions for this product.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl004-cyberbrick-official-soccerbot",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "CyberBrick Official SoccerBot",
   "offers": [
@@ -301,6 +332,7 @@
       "price": "61.59",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/cyberbrick-official-soccerbot?skr=yes"
     },
     {
@@ -311,6 +343,7 @@
       "price": "81.9",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/cyberbrick-official-soccerbot?skr=yes"
     },
     {
@@ -321,6 +354,7 @@
       "price": "62.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/cyberbrick-official-soccerbot?skr=yes"
     },
     {
@@ -331,6 +365,7 @@
       "price": "51.09",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/cyberbrick-official-soccerbot?skr=yes"
     },
     {
@@ -341,6 +376,7 @@
       "price": "93.1",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/cyberbrick-official-soccerbot?skr=yes"
     }
   ],
@@ -417,6 +453,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -427,6 +464,7 @@
       "price": "61.59",
       "region": "us",
       "sku": "657362015988060162",
+      "store_id": "",
       "title": "CyberBrick Official SoccerBot - CyberBrick Official SoccerBot (2 Cars 2 Remotes) - ZL004",
       "url": "https://us.store.bambulab.com/products/cyberbrick-official-soccerbot?id=657362015988060162",
       "variant_id": "657362015988060162"
@@ -439,6 +477,7 @@
       "price": "81.9",
       "region": "ca",
       "sku": "657361841155117058",
+      "store_id": "",
       "title": "CyberBrick Official SoccerBot - CyberBrick Official SoccerBot (2 Cars 2 Remotes) - ZL004",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-official-soccerbot?id=657361841155117058",
       "variant_id": "657361841155117058"
@@ -451,6 +490,7 @@
       "price": "62.99",
       "region": "eu",
       "sku": "657362137758666754",
+      "store_id": "",
       "title": "CyberBrick Official SoccerBot - CyberBrick Official SoccerBot (2 Cars 2 Remotes) - ZL004",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-official-soccerbot?id=657362137758666754",
       "variant_id": "657362137758666754"
@@ -463,6 +503,7 @@
       "price": "51.09",
       "region": "uk",
       "sku": "657361931496308738",
+      "store_id": "",
       "title": "CyberBrick Official SoccerBot - CyberBrick Official SoccerBot (2 Cars 2 Remotes) - ZL004",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-official-soccerbot?id=657361931496308738",
       "variant_id": "657361931496308738"
@@ -475,6 +516,7 @@
       "price": "93.1",
       "region": "au",
       "sku": "657359188270678018",
+      "store_id": "",
       "title": "CyberBrick Official SoccerBot - CyberBrick Official SoccerBot (2 Cars 2 Remotes) - ZL004",
       "url": "https://au.store.bambulab.com/products/cyberbrick-official-soccerbot?id=657359188270678018",
       "variant_id": "657359188270678018"

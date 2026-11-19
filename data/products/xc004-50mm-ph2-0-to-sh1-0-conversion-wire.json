@@ -4,36 +4,49 @@
     {
       "handle": "50mm-ph2-0-to-sh1-0-conversion-wire",
       "product_id": "8211484311688",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "50mm-ph2-0-to-sh1-0-conversion-wire",
       "product_id": "8885993636080",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "50mm-ph2-0-to-sh1-0-conversion-wire",
       "product_id": "9432650088796",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "50mm-ph2-0-to-sh1-0-conversion-wire",
       "product_id": "7655037141052",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "50mm-ph2-0-to-sh1-0-conversion-wire",
       "product_id": "8492979355811",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "50mm-ph2-0-to-sh1-0-conversion-wire",
       "product_id": "7666498601075",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d6/d6d87bd58ade2e02e88177cfeeb9dadf3e22170ef71bfb709420ebe816a028e8.png",
       "id": "image-4152d796169bb25bbffc",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "50mmPH2.0toSH1.0ConversionWire1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d6d87bd58ade2e02e88177cfeeb9dadf3e22170ef71bfb709420ebe816a028e8",
       "size": 32388,
       "source_url": "https://store.bblcdn.com/s7/default/9a9b9d47e2df436281e95f8ae6e063b1/50mmPH2.0toSH1.0ConversionWire1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a6/a6080d9fc1927071e8ef6f07732384e804c25b296f9a07ef7f4ee66da800c790.png",
       "id": "image-d22068153ae96de49cb4",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "50mm_PH2.0_to_SH1.0_Conversion_Wire.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a6080d9fc1927071e8ef6f07732384e804c25b296f9a07ef7f4ee66da800c790",
       "size": 76350,
       "source_url": "https://store.bblcdn.com/s7/default/29761372ec464dc188cd4005ff4cecf8/50mm_PH2.0_to_SH1.0_Conversion_Wire.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b0/b0180bb19fb093ccf1e3ea426be51aff7953e7e8f9f01f108da28d1fb6f67d7b.zip",
       "id": "archive-d541ae07c550e6d0baf0",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "50mm_PH2.0_to_SH1.0_Conversion_Wire.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b0180bb19fb093ccf1e3ea426be51aff7953e7e8f9f01f108da28d1fb6f67d7b",
       "size": 1106406,
       "source_url": "https://store.bblcdn.com/s7/default/a0eac0290c4e4261a2ebf09e411ccf1f/50mm_PH2.0_to_SH1.0_Conversion_Wire.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f2/f2da9a259a30d46efa5c7a2555efb1075f9392e738b36ae57448ef113052960d.zip",
       "id": "archive-75d16882330fbc98ae9c",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "50mm_PH2.0_to_SH1.0_Conversion_Wire.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f2da9a259a30d46efa5c7a2555efb1075f9392e738b36ae57448ef113052960d",
       "size": 178627,
       "source_url": "https://store.bblcdn.com/s7/default/de9e7709a1c6489597c0f32d0a2b46f6/50mm_PH2.0_to_SH1.0_Conversion_Wire.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "50mm PH2.0 to SH1.0 Conversion Wire/50mm PH2.0 to SH1.0 Conversion Wire - XC004.stl",
       "blob_path": "data/blobs/sha256/91/912f980d8d76e2a466d6f190874a19a70e6c8bd8a56be0d2de092b8060c54782.stl",
       "id": "model-83662d08e32f09b7a027",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-d541ae07c550e6d0baf0",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "912f980d8d76e2a466d6f190874a19a70e6c8bd8a56be0d2de092b8060c54782",
       "size": 1863084,
       "source_url": "https://store.bblcdn.com/s7/default/a0eac0290c4e4261a2ebf09e411ccf1f/50mm_PH2.0_to_SH1.0_Conversion_Wire.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "50mm PH2.0 to SH1.0 Conversion Wire/50mm PH2.0 to SH1.0 Conversion Wire - XC004.stp",
       "blob_path": "data/blobs/sha256/15/15ecd5ac9000d2669bff661578701c0bf8c65134db3327ce981349d43faeb780.stp",
       "id": "model-6de036942b7c0baac32e",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-d541ae07c550e6d0baf0",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "15ecd5ac9000d2669bff661578701c0bf8c65134db3327ce981349d43faeb780",
       "size": 1348919,
       "source_url": "https://store.bblcdn.com/s7/default/a0eac0290c4e4261a2ebf09e411ccf1f/50mm_PH2.0_to_SH1.0_Conversion_Wire.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/31/31ec07720ef5d37cb21b8b2f1b1ec7cf7f22c04d85eb65c4c08486e542ce70a5.png",
       "id": "image-display-edd3b0bd01457319b852",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-4152d796169bb25bbffc",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "31ec07720ef5d37cb21b8b2f1b1ec7cf7f22c04d85eb65c4c08486e542ce70a5",
       "size": 23007,
       "source_url": "https://store.bblcdn.com/s7/default/9a9b9d47e2df436281e95f8ae6e063b1/50mmPH2.0toSH1.0ConversionWire1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/07/07bbe11f57aeda760db910f317ddd63f7ac238b6b0b16924411c9166376a5f40.png",
       "id": "image-display-cef5fa1220b34ddcbe2c",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-d22068153ae96de49cb4",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "07bbe11f57aeda760db910f317ddd63f7ac238b6b0b16924411c9166376a5f40",
       "size": 66210,
       "source_url": "https://store.bblcdn.com/s7/default/29761372ec464dc188cd4005ff4cecf8/50mm_PH2.0_to_SH1.0_Conversion_Wire.png"
@@ -194,6 +222,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xc004-50mm-ph2-0-to-sh1-0-conversion-wire",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Length(mm)",
@@ -224,6 +253,7 @@
       "price": "1.08",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/50mm-ph2-0-to-sh1-0-conversion-wire?skr=yes"
     },
     {
@@ -234,6 +264,7 @@
       "price": "1.13",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/50mm-ph2-0-to-sh1-0-conversion-wire?skr=yes"
     },
     {
@@ -244,6 +275,7 @@
       "price": "1.29",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/50mm-ph2-0-to-sh1-0-conversion-wire?skr=yes"
     },
     {
@@ -254,6 +286,7 @@
       "price": "0.78",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/50mm-ph2-0-to-sh1-0-conversion-wire?skr=yes"
     },
     {
@@ -264,6 +297,7 @@
       "price": "1.77",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/50mm-ph2-0-to-sh1-0-conversion-wire?skr=yes"
     },
     {
@@ -274,6 +308,7 @@
       "price": "0.89",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/50mm-ph2-0-to-sh1-0-conversion-wire?skr=yes"
     }
   ],
@@ -326,6 +361,7 @@
     "Product ID": "XC004",
     "Wire Gauge": "32AWG"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -336,6 +372,7 @@
       "price": "1.08",
       "region": "us",
       "sku": "42591069601928",
+      "store_id": "",
       "title": "50mm PH2.0 to SH1.0 Conversion Wire - 50mm (2PCS) - XC004",
       "url": "https://us.store.bambulab.com/products/50mm-ph2-0-to-sh1-0-conversion-wire?id=42591069601928",
       "variant_id": "42591069601928"
@@ -348,6 +385,7 @@
       "price": "1.13",
       "region": "ca",
       "sku": "46201773490416",
+      "store_id": "",
       "title": "50mm PH2.0 to SH1.0 Conversion Wire - 50mm (2PCS) - XC004",
       "url": "https://ca.store.bambulab.com/products/50mm-ph2-0-to-sh1-0-conversion-wire?id=46201773490416",
       "variant_id": "46201773490416"
@@ -360,6 +398,7 @@
       "price": "1.29",
       "region": "eu",
       "sku": "48903859667292",
+      "store_id": "",
       "title": "50mm PH2.0 to SH1.0 Conversion Wire - 50mm (2PCS) - XC004",
       "url": "https://eu.store.bambulab.com/products/50mm-ph2-0-to-sh1-0-conversion-wire?id=48903859667292",
       "variant_id": "48903859667292"
@@ -372,6 +411,7 @@
       "price": "0.78",
       "region": "uk",
       "sku": "41861453709372",
+      "store_id": "",
       "title": "50mm PH2.0 to SH1.0 Conversion Wire - 50mm (2PCS) - XC004",
       "url": "https://uk.store.bambulab.com/products/50mm-ph2-0-to-sh1-0-conversion-wire?id=41861453709372",
       "variant_id": "41861453709372"
@@ -384,6 +424,7 @@
       "price": "1.77",
       "region": "au",
       "sku": "44713002729635",
+      "store_id": "",
       "title": "50mm PH2.0 to SH1.0 Conversion Wire - 50mm (2PCS) - XC004",
       "url": "https://au.store.bambulab.com/products/50mm-ph2-0-to-sh1-0-conversion-wire?id=44713002729635",
       "variant_id": "44713002729635"
@@ -396,6 +437,7 @@
       "price": "0.89",
       "region": "asia",
       "sku": "42004713767027",
+      "store_id": "",
       "title": "50mm PH2.0 to SH1.0 Conversion Wire - 50mm (2PCS) - XC004",
       "url": "https://asia.store.bambulab.com/products/50mm-ph2-0-to-sh1-0-conversion-wire?id=42004713767027",
       "variant_id": "42004713767027"

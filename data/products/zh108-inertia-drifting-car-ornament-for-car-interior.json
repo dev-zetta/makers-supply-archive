@@ -4,36 +4,49 @@
     {
       "handle": "inertia-drifting-car-ornament-for-car-interior",
       "product_id": "656995402205990912",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "inertia-drifting-car-ornament-for-car-interior",
       "product_id": "656995905037045760",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "inertia-drifting-car-ornament-for-car-interior",
       "product_id": "656995680940036096",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "inertia-drifting-car-ornament-for-car-interior",
       "product_id": "656994876708339712",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "inertia-drifting-car-ornament-for-car-interior",
       "product_id": "656996161425444864",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "inertia-drifting-car-ornament-for-car-interior",
       "product_id": "656994097970405376",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/12/120cb1b1f25b2ba91e129a9ee39cfa47ca1072e58702c214a1d80ec62d80b57c.png",
       "id": "image-b659f3797291f3ef59e3",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH108.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "120cb1b1f25b2ba91e129a9ee39cfa47ca1072e58702c214a1d80ec62d80b57c",
       "size": 897984,
       "source_url": "https://store.bblcdn.com/s7/default/150e5a486ed549168db95fa7f2416da2/B-ZH108.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/88/8828864940af7f480dbd66ee4909099e45539c05522f6513beae1978f08c1f08.png",
       "id": "image-238056630e5448532294",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH108.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8828864940af7f480dbd66ee4909099e45539c05522f6513beae1978f08c1f08",
       "size": 291631,
       "source_url": "https://store.bblcdn.com/s7/default/8faa23d45a7245e8b35b516f9592957b/ZH108.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/70/70a1b17b27096681b4e32daae9d1dc2fc0d558b7013124fce63a53f6c5e2f83f.png",
       "id": "image-display-5935d2fb948f735208e9",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-b659f3797291f3ef59e3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "70a1b17b27096681b4e32daae9d1dc2fc0d558b7013124fce63a53f6c5e2f83f",
       "size": 439073,
       "source_url": "https://store.bblcdn.com/s7/default/150e5a486ed549168db95fa7f2416da2/B-ZH108.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5f/5f4f07520f4577c73a9b363bddb3396f95b709b665f222d77b5e37f149cd355a.png",
       "id": "image-display-861c74f03c1638a75da6",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-238056630e5448532294",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5f4f07520f4577c73a9b363bddb3396f95b709b665f222d77b5e37f149cd355a",
       "size": 71159,
       "source_url": "https://store.bblcdn.com/s7/default/8faa23d45a7245e8b35b516f9592957b/ZH108.png"
@@ -160,7 +180,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Inertia Drifting Car Ornament for Car Interior. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Inertia Drifting Car Ornament for Car Interior on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh108-inertia-drifting-car-ornament-for-car-interior",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Inertia Drifting Car Ornament for Car Interior",
   "offers": [
@@ -172,6 +193,7 @@
       "price": "7.63",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
     },
     {
@@ -182,6 +204,7 @@
       "price": "8.84",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
     },
     {
@@ -192,6 +215,7 @@
       "price": "7.34",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
     },
     {
@@ -202,6 +226,7 @@
       "price": "6.14",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
     },
     {
@@ -212,6 +237,7 @@
       "price": "13.88",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
     },
     {
@@ -222,6 +248,7 @@
       "price": "6.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/inertia-drifting-car-ornament-for-car-interior?skr=yes"
     }
   ],
@@ -277,6 +304,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -289,6 +317,7 @@
       "price": "7.63",
       "region": "us",
       "sku": "656995402243739650",
+      "store_id": "",
       "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
       "url": "https://us.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656995402243739650",
       "variant_id": "656995402243739650"
@@ -301,6 +330,7 @@
       "price": "8.84",
       "region": "ca",
       "sku": "656995905078988802",
+      "store_id": "",
       "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
       "url": "https://ca.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656995905078988802",
       "variant_id": "656995905078988802"
@@ -313,6 +343,7 @@
       "price": "7.34",
       "region": "eu",
       "sku": "656995680952619010",
+      "store_id": "",
       "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
       "url": "https://eu.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656995680952619010",
       "variant_id": "656995680952619010"
@@ -325,6 +356,7 @@
       "price": "6.14",
       "region": "uk",
       "sku": "656994876741894146",
+      "store_id": "",
       "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
       "url": "https://uk.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656994876741894146",
       "variant_id": "656994876741894146"
@@ -337,6 +369,7 @@
       "price": "13.88",
       "region": "au",
       "sku": "656996161438027778",
+      "store_id": "",
       "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
       "url": "https://au.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656996161438027778",
       "variant_id": "656996161438027778"
@@ -349,6 +382,7 @@
       "price": "6.99",
       "region": "asia",
       "sku": "656994098016542722",
+      "store_id": "",
       "title": "Inertia Drifting Car Ornament for Car Interior - Inertia Drifting Car Ornament for Car Interior - ZH108",
       "url": "https://asia.store.bambulab.com/products/inertia-drifting-car-ornament-for-car-interior?id=656994098016542722",
       "variant_id": "656994098016542722"

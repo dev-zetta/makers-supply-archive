@@ -4,36 +4,49 @@
     {
       "handle": "gamma-fist",
       "product_id": "566840030784098304",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gamma-fist",
       "product_id": "566815451044904960",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gamma-fist",
       "product_id": "14886849413468",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gamma-fist",
       "product_id": "566815243148402688",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gamma-fist",
       "product_id": "566785799975964672",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gamma-fist",
       "product_id": "566784188849905664",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/53/53c8b33ba782438370beef1996f4a5db8dbe19c0533b8191abb4618bf1628411.png",
       "id": "image-cec4d7bb6f4fc43f7fd3",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "217.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "53c8b33ba782438370beef1996f4a5db8dbe19c0533b8191abb4618bf1628411",
       "size": 112617,
       "source_url": "https://store.bblcdn.com/s5/default/f15eac429a7a442495869b2d9da2272c/217.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d6/d62c66212279accef07dc63ab3026cb93ac1b41df5ef67707af54a5d5e1d369b.png",
       "id": "image-display-6cfc6d114911456c26f8",
       "image_processing": {
@@ -63,6 +78,7 @@
       "parent_asset_id": "image-cec4d7bb6f4fc43f7fd3",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d62c66212279accef07dc63ab3026cb93ac1b41df5ef67707af54a5d5e1d369b",
       "size": 93009,
       "source_url": "https://store.bblcdn.com/s5/default/f15eac429a7a442495869b2d9da2272c/217.png"
@@ -115,6 +131,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh060-gamma-fist",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Gamma Fist",
   "offers": [
@@ -126,6 +143,7 @@
       "price": "3.84",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/gamma-fist?skr=yes"
     },
     {
@@ -136,6 +154,7 @@
       "price": "4.42",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/gamma-fist?skr=yes"
     },
     {
@@ -146,6 +165,7 @@
       "price": "3.62",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/gamma-fist?skr=yes"
     },
     {
@@ -156,6 +176,7 @@
       "price": "3.07",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/gamma-fist?skr=yes"
     },
     {
@@ -166,6 +187,7 @@
       "price": "6.94",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/gamma-fist?skr=yes"
     },
     {
@@ -176,6 +198,7 @@
       "price": "3.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/gamma-fist?skr=yes"
     }
   ],
@@ -221,6 +244,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -233,6 +257,7 @@
       "price": "3.84",
       "region": "us",
       "sku": "566840030792486914",
+      "store_id": "",
       "title": "Gamma Fist - Gamma Fist - ZH060",
       "url": "https://us.store.bambulab.com/products/gamma-fist?id=566840030792486914",
       "variant_id": "566840030792486914"
@@ -245,6 +270,7 @@
       "price": "4.42",
       "region": "ca",
       "sku": "566815451053293570",
+      "store_id": "",
       "title": "Gamma Fist - Gamma Fist - ZH060",
       "url": "https://ca.store.bambulab.com/products/gamma-fist?id=566815451053293570",
       "variant_id": "566815451053293570"
@@ -257,6 +283,7 @@
       "price": "3.62",
       "region": "eu",
       "sku": "53971657654620",
+      "store_id": "",
       "title": "Gamma Fist - Gamma Fist - ZH060",
       "url": "https://eu.store.bambulab.com/products/gamma-fist?id=53971657654620",
       "variant_id": "53971657654620"
@@ -269,6 +296,7 @@
       "price": "3.07",
       "region": "uk",
       "sku": "566815243160985602",
+      "store_id": "",
       "title": "Gamma Fist - Gamma Fist - ZH060",
       "url": "https://uk.store.bambulab.com/products/gamma-fist?id=566815243160985602",
       "variant_id": "566815243160985602"
@@ -281,6 +309,7 @@
       "price": "6.94",
       "region": "au",
       "sku": "566785800013713410",
+      "store_id": "",
       "title": "Gamma Fist - Gamma Fist - ZH060",
       "url": "https://au.store.bambulab.com/products/gamma-fist?id=566785800013713410",
       "variant_id": "566785800013713410"
@@ -293,6 +322,7 @@
       "price": "3.49",
       "region": "asia",
       "sku": "566784188862488578",
+      "store_id": "",
       "title": "Gamma Fist - Gamma Fist - ZH060",
       "url": "https://asia.store.bambulab.com/products/gamma-fist?id=566784188862488578",
       "variant_id": "566784188862488578"

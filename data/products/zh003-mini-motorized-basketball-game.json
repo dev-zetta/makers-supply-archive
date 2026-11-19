@@ -4,36 +4,49 @@
     {
       "handle": "mini-motorized-basketball-game",
       "product_id": "8276762099848",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-motorized-basketball-game",
       "product_id": "8934829883632",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-motorized-basketball-game",
       "product_id": "9491930710364",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-motorized-basketball-game",
       "product_id": "7713531068476",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-motorized-basketball-game",
       "product_id": "8541644521635",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-motorized-basketball-game",
       "product_id": "7707223228531",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/71/71a6a46806d413e0d163e7bb13033144fbbab33bc1050add9fae73733e7c7641.png",
       "id": "image-f986deb7b7ccc7d2f7ca",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "basketball01.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "71a6a46806d413e0d163e7bb13033144fbbab33bc1050add9fae73733e7c7641",
       "size": 360297,
       "source_url": "https://store.bblcdn.com/s7/default/75ad7806b4f14519a1089dbf988f86f4/basketball01.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d3/d37fbcd26fe22a20822da1418a56412ff636a89b81458ae646f148fcf7b2b434.png",
       "id": "image-4162dbf0994f1c49a8d6",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "basketball.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d37fbcd26fe22a20822da1418a56412ff636a89b81458ae646f148fcf7b2b434",
       "size": 417752,
       "source_url": "https://store.bblcdn.com/s7/default/8484a26480dd451c8dad3c92cd7354ca/basketball.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5a/5af39ee5d6e85dcd2c2e5d14b2c2dad49bdca7b9c2f8d82c27b103ca83befbb8.png",
       "id": "image-display-788e88ffe78e01c1da46",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-f986deb7b7ccc7d2f7ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5af39ee5d6e85dcd2c2e5d14b2c2dad49bdca7b9c2f8d82c27b103ca83befbb8",
       "size": 316508,
       "source_url": "https://store.bblcdn.com/s7/default/75ad7806b4f14519a1089dbf988f86f4/basketball01.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9b/9bb7caa836dd11f8ac4bf022546d0586e1629c307bc6a9b47375886b685573e5.png",
       "id": "image-display-dfd31a8f80e63f397cc6",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-4162dbf0994f1c49a8d6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9bb7caa836dd11f8ac4bf022546d0586e1629c307bc6a9b47375886b685573e5",
       "size": 141084,
       "source_url": "https://store.bblcdn.com/s7/default/8484a26480dd451c8dad3c92cd7354ca/basketball.png"
@@ -216,7 +236,8 @@
   "description_text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of Mini Motorized Basketball Game and obtain detailed information, please visit the Mini Motorized Basketball Game on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh003-mini-motorized-basketball-game",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Mini Motorized Basketball Game",
   "offers": [
@@ -228,6 +249,7 @@
       "price": "36.73",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     },
     {
@@ -238,6 +260,7 @@
       "price": "42.41",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     },
     {
@@ -248,6 +271,7 @@
       "price": "34.7",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     },
     {
@@ -258,6 +282,7 @@
       "price": "29.47",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     },
     {
@@ -268,6 +293,7 @@
       "price": "66.57",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     },
     {
@@ -278,6 +304,7 @@
       "price": "33.5",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/mini-motorized-basketball-game?skr=yes"
     }
   ],
@@ -382,6 +409,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -394,6 +422,7 @@
       "price": "36.73",
       "region": "us",
       "sku": "42724100472968",
+      "store_id": "",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
       "url": "https://us.store.bambulab.com/products/mini-motorized-basketball-game?id=42724100472968",
       "variant_id": "42724100472968"
@@ -406,6 +435,7 @@
       "price": "42.41",
       "region": "ca",
       "sku": "46346343940336",
+      "store_id": "",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
       "url": "https://ca.store.bambulab.com/products/mini-motorized-basketball-game?id=46346343940336",
       "variant_id": "46346343940336"
@@ -418,6 +448,7 @@
       "price": "34.7",
       "region": "eu",
       "sku": "49074935824732",
+      "store_id": "",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
       "url": "https://eu.store.bambulab.com/products/mini-motorized-basketball-game?id=49074935824732",
       "variant_id": "49074935824732"
@@ -430,6 +461,7 @@
       "price": "29.47",
       "region": "uk",
       "sku": "42013097001020",
+      "store_id": "",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
       "url": "https://uk.store.bambulab.com/products/mini-motorized-basketball-game?id=42013097001020",
       "variant_id": "42013097001020"
@@ -442,6 +474,7 @@
       "price": "66.57",
       "region": "au",
       "sku": "44830279860387",
+      "store_id": "",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
       "url": "https://au.store.bambulab.com/products/mini-motorized-basketball-game?id=44830279860387",
       "variant_id": "44830279860387"
@@ -454,6 +487,7 @@
       "price": "33.5",
       "region": "asia",
       "sku": "42098595725427",
+      "store_id": "",
       "title": "Mini Motorized Basketball Game - Mini Motorized Basketball Game - ZH003",
       "url": "https://asia.store.bambulab.com/products/mini-motorized-basketball-game?id=42098595725427",
       "variant_id": "42098595725427"

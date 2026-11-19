@@ -4,36 +4,49 @@
     {
       "handle": "maker-s-supply-long-nose-pliers",
       "product_id": "725557209992646656",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-long-nose-pliers",
       "product_id": "725556825688322048",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-long-nose-pliers",
       "product_id": "725557786571268096",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-long-nose-pliers",
       "product_id": "725556973525016576",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-long-nose-pliers",
       "product_id": "725556584550375424",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "long-nose-pliers",
       "product_id": "720434060632125440",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/33/3320b3c075b16b468e7c70cf79a344faf3ac1962fbddd23759769e028961fe1f.png",
       "id": "image-39c19e2da2f8439f0ef2",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-QA019.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3320b3c075b16b468e7c70cf79a344faf3ac1962fbddd23759769e028961fe1f",
       "size": 612758,
       "source_url": "https://store.bblcdn.com/s7/default/291ca34f97804ecfbaebf0d41267090e/B-QA019.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2f/2fe56d34b0fb55f9dd861a5263d533684585ba1fe9cc1930056eaace57370418.png",
       "id": "image-bc75b67cbd09cc3940db",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "5.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2fe56d34b0fb55f9dd861a5263d533684585ba1fe9cc1930056eaace57370418",
       "size": 7825818,
       "source_url": "https://store.bblcdn.com/s7/default/d2c0525c0b4946fbaf393c84db652ebc/5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/14/149c472a5a5400c91c01905a64b9dab11d7123914de53cd94ea2339b3e5ec3af.png",
       "id": "image-d749103f3a21adccf4a6",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "4.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "149c472a5a5400c91c01905a64b9dab11d7123914de53cd94ea2339b3e5ec3af",
       "size": 8032003,
       "source_url": "https://store.bblcdn.com/s7/default/b2489c0f4ab14068b00a7bedbaff3294/4.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cc/cca655ccf4576d1f3f7d182663579a86baa0998e344f914574894a4647c657f5.png",
       "id": "image-4736a87a06d7a3bad91b",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "B-QA019-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cca655ccf4576d1f3f7d182663579a86baa0998e344f914574894a4647c657f5",
       "size": 924804,
       "source_url": "https://store.bblcdn.com/s7/default/3a3697c3984d40508c58fbea3355cfd3/B-QA019-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4e/4ed5bcc679ed119280796e5fb60399fa078af936b49630bd90983b976f1a51cc.png",
       "id": "image-display-a261edf8350108d7c75d",
       "image_processing": {
@@ -99,11 +120,13 @@
       "parent_asset_id": "image-39c19e2da2f8439f0ef2",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4ed5bcc679ed119280796e5fb60399fa078af936b49630bd90983b976f1a51cc",
       "size": 57725,
       "source_url": "https://store.bblcdn.com/s7/default/291ca34f97804ecfbaebf0d41267090e/B-QA019.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/93/9394d94360a132c9be145d7245466b65a4809a91902920a4e4f136105e4d493d.png",
       "id": "image-display-d17f39a9b3a9f8905bd4",
       "image_processing": {
@@ -121,11 +144,13 @@
       "parent_asset_id": "image-bc75b67cbd09cc3940db",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9394d94360a132c9be145d7245466b65a4809a91902920a4e4f136105e4d493d",
       "size": 647890,
       "source_url": "https://store.bblcdn.com/s7/default/d2c0525c0b4946fbaf393c84db652ebc/5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/10/107bad848857f8a132be7c23d215454cd8747752bfdcbd5750bc3adf557751c1.png",
       "id": "image-display-46483e2adec361946b1e",
       "image_processing": {
@@ -143,11 +168,13 @@
       "parent_asset_id": "image-d749103f3a21adccf4a6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "107bad848857f8a132be7c23d215454cd8747752bfdcbd5750bc3adf557751c1",
       "size": 641916,
       "source_url": "https://store.bblcdn.com/s7/default/b2489c0f4ab14068b00a7bedbaff3294/4.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1d/1d6ba1b6e979a4640ade2d116f7001b60f09c9174d52eaf8b185ea9697dcf5a4.png",
       "id": "image-display-6b99f1eb122632b59c91",
       "image_processing": {
@@ -165,6 +192,7 @@
       "parent_asset_id": "image-4736a87a06d7a3bad91b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1d6ba1b6e979a4640ade2d116f7001b60f09c9174d52eaf8b185ea9697dcf5a4",
       "size": 107661,
       "source_url": "https://store.bblcdn.com/s7/default/3a3697c3984d40508c58fbea3355cfd3/B-QA019-1.png"
@@ -218,6 +246,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "b-qa019-maker-s-supply-long-nose-pliers",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Jaw Length",
@@ -252,6 +281,7 @@
       "price": "12.74",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
     },
     {
@@ -262,6 +292,7 @@
       "price": "18.69",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
     },
     {
@@ -272,6 +303,7 @@
       "price": "14.44",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
     },
     {
@@ -282,6 +314,7 @@
       "price": "11.89",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
     },
     {
@@ -292,6 +325,7 @@
       "price": "22.94",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/maker-s-supply-long-nose-pliers?skr=yes"
     },
     {
@@ -302,6 +336,7 @@
       "price": "12.74",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/long-nose-pliers?skr=yes"
     }
   ],
@@ -374,6 +409,7 @@
     "Spring-Assisted Opening": "Yes",
     "Tip Thickness": "0.8 mm"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -383,6 +419,7 @@
       "price": "12.74",
       "region": "us",
       "sku": "725557210042978306",
+      "store_id": "",
       "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725557210042978306",
       "variant_id": "725557210042978306"
@@ -394,6 +431,7 @@
       "price": "18.69",
       "region": "ca",
       "sku": "725556825705099266",
+      "store_id": "",
       "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725556825705099266",
       "variant_id": "725556825705099266"
@@ -405,6 +443,7 @@
       "price": "14.44",
       "region": "eu",
       "sku": "725557786592239618",
+      "store_id": "",
       "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725557786592239618",
       "variant_id": "725557786592239618"
@@ -416,6 +455,7 @@
       "price": "11.89",
       "region": "uk",
       "sku": "725556973583736834",
+      "store_id": "",
       "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725556973583736834",
       "variant_id": "725556973583736834"
@@ -427,6 +467,7 @@
       "price": "22.94",
       "region": "au",
       "sku": "725556584613289986",
+      "store_id": "",
       "title": "Maker's Supply Long Nose Pliers - Maker's Supply Long Nose Pliers",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-long-nose-pliers?id=725556584613289986",
       "variant_id": "725556584613289986"
@@ -438,6 +479,7 @@
       "price": "12.74",
       "region": "asia",
       "sku": "720434060686651393",
+      "store_id": "",
       "title": "Long Nose Pliers - Maker's Supply Long Nose Pliers",
       "url": "https://asia.store.bambulab.com/products/long-nose-pliers?id=720434060686651393",
       "variant_id": "720434060686651393"

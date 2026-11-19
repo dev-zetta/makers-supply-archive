@@ -4,36 +4,49 @@
     {
       "handle": "ws2812b-rgb-led-strip-light-bundle",
       "product_id": "8398050787464",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ws2812b-rgb-led-strip-light-bundle",
       "product_id": "9067148640496",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ws2812b-rgb-led-strip-light-bundle",
       "product_id": "9643913675100",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ws2812b-rgb-led-strip-light-bundle",
       "product_id": "7826030821436",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ws2812b-rgb-led-strip-light-bundle",
       "product_id": "523597905289793536",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ws2812b-rgb-led-strip-light-bundle",
       "product_id": "523599946381598720",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/23/23d335ebf282c11a3a03cdf196f067f364d52bba1d4ebd46b77115fdae110a90.png",
       "id": "image-6a7f9f968ea75d51e756",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "WS2812B.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "23d335ebf282c11a3a03cdf196f067f364d52bba1d4ebd46b77115fdae110a90",
       "size": 635105,
       "source_url": "https://store.bblcdn.com/s7/default/a4d79695f8f347c3b10736763638572c/WS2812B.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/93/938ba6f0146aff66bd790d0b1050f863f16bd411445d65ec5ba3bff1db8c66eb.png",
       "id": "image-display-cce5f893e912956df2fb",
       "image_processing": {
@@ -63,6 +78,7 @@
       "parent_asset_id": "image-6a7f9f968ea75d51e756",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "938ba6f0146aff66bd790d0b1050f863f16bd411445d65ec5ba3bff1db8c66eb",
       "size": 158981,
       "source_url": "https://store.bblcdn.com/s7/default/a4d79695f8f347c3b10736763638572c/WS2812B.png"
@@ -108,6 +124,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh037-ws2812b-rgb-led-strip-light-bundle",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "WS2812B RGB LED Strip Light Bundle",
   "offers": [
@@ -119,6 +136,7 @@
       "price": "34.77",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light-bundle?skr=yes"
     },
     {
@@ -129,6 +147,7 @@
       "price": "35.42",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light-bundle?skr=yes"
     },
     {
@@ -139,6 +158,7 @@
       "price": "27.97",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light-bundle?skr=yes"
     },
     {
@@ -149,6 +169,7 @@
       "price": "24.61",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light-bundle?skr=yes"
     },
     {
@@ -159,6 +180,7 @@
       "price": "55.59",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light-bundle?skr=yes"
     },
     {
@@ -169,6 +191,7 @@
       "price": "27.97",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/ws2812b-rgb-led-strip-light-bundle?skr=yes"
     }
   ],
@@ -190,6 +213,7 @@
   ],
   "source_tables": [],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -202,6 +226,7 @@
       "price": "34.77",
       "region": "us",
       "sku": "43005544530056",
+      "store_id": "",
       "title": "WS2812B RGB LED Strip Light Bundle - WS2812B RGB LED Strip Light Bundle - ZH037",
       "url": "https://us.store.bambulab.com/products/ws2812b-rgb-led-strip-light-bundle?id=43005544530056",
       "variant_id": "43005544530056"
@@ -214,6 +239,7 @@
       "price": "35.42",
       "region": "ca",
       "sku": "46692371235056",
+      "store_id": "",
       "title": "WS2812B RGB LED Strip Light Bundle - WS2812B RGB LED Strip Light Bundle - ZH037",
       "url": "https://ca.store.bambulab.com/products/ws2812b-rgb-led-strip-light-bundle?id=46692371235056",
       "variant_id": "46692371235056"
@@ -226,6 +252,7 @@
       "price": "27.97",
       "region": "eu",
       "sku": "49556762001756",
+      "store_id": "",
       "title": "WS2812B RGB LED Strip Light Bundle - WS2812B RGB LED Strip Light Bundle - ZH037",
       "url": "https://eu.store.bambulab.com/products/ws2812b-rgb-led-strip-light-bundle?id=49556762001756",
       "variant_id": "49556762001756"
@@ -238,6 +265,7 @@
       "price": "24.61",
       "region": "uk",
       "sku": "42271976030268",
+      "store_id": "",
       "title": "WS2812B RGB LED Strip Light Bundle - WS2812B RGB LED Strip Light Bundle - ZH037",
       "url": "https://uk.store.bambulab.com/products/ws2812b-rgb-led-strip-light-bundle?id=42271976030268",
       "variant_id": "42271976030268"
@@ -250,6 +278,7 @@
       "price": "55.59",
       "region": "au",
       "sku": "523597905293987843",
+      "store_id": "",
       "title": "WS2812B RGB LED Strip Light Bundle - WS2812B RGB LED Strip Light Bundle - ZH037",
       "url": "https://au.store.bambulab.com/products/ws2812b-rgb-led-strip-light-bundle?id=523597905293987843",
       "variant_id": "523597905293987843"
@@ -262,6 +291,7 @@
       "price": "27.97",
       "region": "asia",
       "sku": "523599946385793027",
+      "store_id": "",
       "title": "WS2812B RGB LED Strip Light Bundle - WS2812B RGB LED Strip Light Bundle - ZH037",
       "url": "https://asia.store.bambulab.com/products/ws2812b-rgb-led-strip-light-bundle?id=523599946385793027",
       "variant_id": "523599946385793027"

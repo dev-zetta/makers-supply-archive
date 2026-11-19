@@ -4,36 +4,49 @@
     {
       "handle": "white-cct-tunable-cob-led-strip-light",
       "product_id": "7737754681480",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "white-cct-tunable-cob-led-strip-light",
       "product_id": "8450535719152",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "white-cct-tunable-cob-led-strip-light",
       "product_id": "8690270208348",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "white-cct-tunable-cob-led-strip-light",
       "product_id": "7237243011132",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "white-cct-tunable-cob-led-strip-light",
       "product_id": "8176522264739",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "white-cct-tunable-cob-led-strip-light",
       "product_id": "7503302361203",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/25/258118b829941bca0d244eaa687e62e3ad180aa81f11c7368ae07eed338d6808.png",
       "id": "image-eea7de996412298e1261",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "Group48446.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "258118b829941bca0d244eaa687e62e3ad180aa81f11c7368ae07eed338d6808",
       "size": 522755,
       "source_url": "https://store.bblcdn.com/s7/default/dd03284a210d40ea825925ca098ed0ce/Group48446.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/80/807a7398cd14f0971177eb45d482552c842ec1a78faceab6612f756fb3ac5299.png",
       "id": "image-158281ade8d887ee363e",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "KA003.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "807a7398cd14f0971177eb45d482552c842ec1a78faceab6612f756fb3ac5299",
       "size": 3452655,
       "source_url": "https://store.bblcdn.com/s7/default/7c6184d3867248429812671868981274/KA003.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c7/c7b6e18ed4f7380e65618ad5222833eb397e2b3323eb65d775fdb968e910b4af.png",
       "id": "image-display-8b8d66b12e7037754dfe",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-eea7de996412298e1261",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c7b6e18ed4f7380e65618ad5222833eb397e2b3323eb65d775fdb968e910b4af",
       "size": 218122,
       "source_url": "https://store.bblcdn.com/s7/default/dd03284a210d40ea825925ca098ed0ce/Group48446.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ab/ab9c386ea94503b547307418eef89bb1571ce855e74014fd6cb3cc93fb32125b.png",
       "id": "image-display-b5a214c33755cb48c873",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-158281ade8d887ee363e",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ab9c386ea94503b547307418eef89bb1571ce855e74014fd6cb3cc93fb32125b",
       "size": 672759,
       "source_url": "https://store.bblcdn.com/s7/default/7c6184d3867248429812671868981274/KA003.png"
@@ -174,6 +194,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ka003-white-cct-tunable-cob-led-strip-light",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "LED Strip Width",
@@ -206,6 +227,7 @@
       "price": "43.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light?skr=yes"
     },
     {
@@ -216,6 +238,7 @@
       "price": "52",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light?skr=yes"
     },
     {
@@ -226,6 +249,7 @@
       "price": "42.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light?skr=yes"
     },
     {
@@ -236,6 +260,7 @@
       "price": "31",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light?skr=yes"
     },
     {
@@ -246,6 +271,7 @@
       "price": "83.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light?skr=yes"
     },
     {
@@ -256,6 +282,7 @@
       "price": "39.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/white-cct-tunable-cob-led-strip-light?skr=yes"
     }
   ],
@@ -390,6 +417,7 @@
     "Type of Strip": "COB (chip on board)",
     "Waterproof": "IP 20"
   },
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -402,6 +430,7 @@
       "price": "43.99",
       "region": "us",
       "sku": "41632090259592",
+      "store_id": "",
       "title": "White CCT Tunable COB LED Strip Light - White CCT Tunable COB LED Strip Light (1pcs) - KA003 / C/CW/W(10000)",
       "url": "https://us.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light?id=41632090259592",
       "variant_id": "41632090259592"
@@ -414,6 +443,7 @@
       "price": "52",
       "region": "ca",
       "sku": "44855904633072",
+      "store_id": "",
       "title": "White CCT Tunable COB LED Strip Light - White CCT Tunable COB LED Strip Light (1pcs) - KA003 / C/CW/W(10000)",
       "url": "https://ca.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light?id=44855904633072",
       "variant_id": "44855904633072"
@@ -426,6 +456,7 @@
       "price": "42.99",
       "region": "eu",
       "sku": "47493689409884",
+      "store_id": "",
       "title": "White CCT Tunable COB LED Strip Light - White CCT Tunable COB LED Strip Light (1pcs) - KA003 / CCWW(19004)",
       "url": "https://eu.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light?id=47493689409884",
       "variant_id": "47493689409884"
@@ -438,6 +469,7 @@
       "price": "31",
       "region": "uk",
       "sku": "40921219039292",
+      "store_id": "",
       "title": "White CCT Tunable COB LED Strip Light - White CCT Tunable COB LED Strip Light (1pcs) - KA003 / CCWW(19004)",
       "url": "https://uk.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light?id=40921219039292",
       "variant_id": "40921219039292"
@@ -450,6 +482,7 @@
       "price": "83.99",
       "region": "au",
       "sku": "43856911204515",
+      "store_id": "",
       "title": "White CCT Tunable COB LED Strip Light - White CCT Tunable COB LED Strip Light (1pcs) - KA003 / CCWW(19004)",
       "url": "https://au.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light?id=43856911204515",
       "variant_id": "43856911204515"
@@ -462,6 +495,7 @@
       "price": "39.99",
       "region": "asia",
       "sku": "41623262199923",
+      "store_id": "",
       "title": "White CCT Tunable COB LED Strip Light - White CCT Tunable COB LED Strip Light (1pcs) - KA003 / CCWW(19004)",
       "url": "https://asia.store.bambulab.com/products/white-cct-tunable-cob-led-strip-light?id=41623262199923",
       "variant_id": "41623262199923"

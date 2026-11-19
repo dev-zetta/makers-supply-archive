@@ -4,36 +4,49 @@
     {
       "handle": "mini-screwdriver-toolkit",
       "product_id": "657492261641293824",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-screwdriver-toolkit",
       "product_id": "657491971336654848",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-screwdriver-toolkit",
       "product_id": "657492605025153024",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-screwdriver-toolkit",
       "product_id": "657492113020047360",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-screwdriver-toolkit",
       "product_id": "657491820317065216",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-screwdriver-toolkit",
       "product_id": "657452237573976064",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/24/24c3a12bb170942a6cc69e8fd554cdc52ca8f9cb002603d42d85e7319a7277b6.png",
       "id": "image-1aa22164b25a40b47bba",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "tool2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "24c3a12bb170942a6cc69e8fd554cdc52ca8f9cb002603d42d85e7319a7277b6",
       "size": 75878,
       "source_url": "https://store.bblcdn.com/s7/default/97b388a5a3a84dceb5c0cdb1e717ca2e/tool2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e0/e0583f980915504b8dcb85543e7edcca3740f82f33953e3acc586ecdb8dfb7ac.png",
       "id": "image-0cbb114042b1394ee670",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "tool.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e0583f980915504b8dcb85543e7edcca3740f82f33953e3acc586ecdb8dfb7ac",
       "size": 74946,
       "source_url": "https://store.bblcdn.com/s7/default/e0566043a0b344dcb1ff26397bb323dc/tool.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/53/53e611eb0ae68de7b46d155d1cec741ce7325c540e77138672d25937379089e5.png",
       "id": "image-display-114f0b92bc90fc7eab46",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-1aa22164b25a40b47bba",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "53e611eb0ae68de7b46d155d1cec741ce7325c540e77138672d25937379089e5",
       "size": 61810,
       "source_url": "https://store.bblcdn.com/s7/default/97b388a5a3a84dceb5c0cdb1e717ca2e/tool2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ce/cef3f0e96e4c60fd9aefd07a1c83253924a914daabb2ac737417a448cd3e67a3.png",
       "id": "image-display-c2506e565f6478dea73a",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-0cbb114042b1394ee670",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cef3f0e96e4c60fd9aefd07a1c83253924a914daabb2ac737417a448cd3e67a3",
       "size": 60879,
       "source_url": "https://store.bblcdn.com/s7/default/e0566043a0b344dcb1ff26397bb323dc/tool.png"
@@ -184,6 +204,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "mini-screwdriver-toolkit",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Mini Screwdriver Toolkit",
   "offers": [
@@ -195,6 +216,7 @@
       "price": "2",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
     },
     {
@@ -205,6 +227,7 @@
       "price": "3",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
     },
     {
@@ -215,6 +238,7 @@
       "price": "2",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
     },
     {
@@ -225,6 +249,7 @@
       "price": "2",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
     },
     {
@@ -235,6 +260,7 @@
       "price": "3",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
     },
     {
@@ -245,6 +271,7 @@
       "price": "2",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/mini-screwdriver-toolkit?skr=yes"
     }
   ],
@@ -287,6 +314,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -298,6 +326,7 @@
       "price": "2",
       "region": "us",
       "sku": "657492261687431170",
+      "store_id": "",
       "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
       "url": "https://us.store.bambulab.com/products/mini-screwdriver-toolkit?id=657492261687431170",
       "variant_id": "657492261687431170"
@@ -309,6 +338,7 @@
       "price": "3",
       "region": "ca",
       "sku": "657491971382792194",
+      "store_id": "",
       "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
       "url": "https://ca.store.bambulab.com/products/mini-screwdriver-toolkit?id=657491971382792194",
       "variant_id": "657491971382792194"
@@ -320,6 +350,7 @@
       "price": "2",
       "region": "eu",
       "sku": "657492605041930242",
+      "store_id": "",
       "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
       "url": "https://eu.store.bambulab.com/products/mini-screwdriver-toolkit?id=657492605041930242",
       "variant_id": "657492605041930242"
@@ -331,6 +362,7 @@
       "price": "2",
       "region": "uk",
       "sku": "657492113116516353",
+      "store_id": "",
       "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
       "url": "https://uk.store.bambulab.com/products/mini-screwdriver-toolkit?id=657492113116516353",
       "variant_id": "657492113116516353"
@@ -342,6 +374,7 @@
       "price": "3",
       "region": "au",
       "sku": "657491820359008258",
+      "store_id": "",
       "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
       "url": "https://au.store.bambulab.com/products/mini-screwdriver-toolkit?id=657491820359008258",
       "variant_id": "657491820359008258"
@@ -353,6 +386,7 @@
       "price": "2",
       "region": "asia",
       "sku": "657453719577526275",
+      "store_id": "",
       "title": "Mini Screwdriver Toolkit - Mini Screwdriver Toolkit",
       "url": "https://asia.store.bambulab.com/products/mini-screwdriver-toolkit?id=657453719577526275",
       "variant_id": "657453719577526275"

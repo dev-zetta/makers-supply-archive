@@ -4,36 +4,49 @@
     {
       "handle": "snapatrack",
       "product_id": "578817523121741824",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "snapatrack",
       "product_id": "578817216043782144",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "snapatrack",
       "product_id": "14930183586140",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "snapatrack",
       "product_id": "578817001134084096",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "snapatrack",
       "product_id": "578816543150399488",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "snapatrack",
       "product_id": "578467958865469440",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f3/f3f660d542a80eeb08fb8a7c6c563922ba485253be66637f1dca97d7ce924f75.png",
       "id": "image-b9ebec49b960be209acc",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH070.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f3f660d542a80eeb08fb8a7c6c563922ba485253be66637f1dca97d7ce924f75",
       "size": 411898,
       "source_url": "https://store.bblcdn.com/s7/default/6634e515bf8f476b8827bce05b1263a3/B-ZH070.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/49/491648b14c9f33a141ef02dafe541c048121f263339b15a6d06cfd2f62fe8d88.png",
       "id": "image-47111c8388f212053564",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH070-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "491648b14c9f33a141ef02dafe541c048121f263339b15a6d06cfd2f62fe8d88",
       "size": 826223,
       "source_url": "https://store.bblcdn.com/s7/default/3fbb01ae8ff54aa2a0231bc29d58c938/B-ZH070-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c8/c871ccc7179287628b9528d3a70654fda90e499a0db386d527f21da7dadc1385.png",
       "id": "image-ca7a627d1fdb12d0d952",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-ZH070-3.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c871ccc7179287628b9528d3a70654fda90e499a0db386d527f21da7dadc1385",
       "size": 1729086,
       "source_url": "https://store.bblcdn.com/s7/default/0eec3e3236c74ea281fee93fd03d8df6/B-ZH070-3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c1/c152691f00cfe5a835f64abe838e1fd636810de5eae571100bf86d1f57820d2e.png",
       "id": "image-0ced4c57e5b624fa6ec2",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "B-ZH070-4.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c152691f00cfe5a835f64abe838e1fd636810de5eae571100bf86d1f57820d2e",
       "size": 2810619,
       "source_url": "https://store.bblcdn.com/s7/default/dce046dd53b447cda861a1583d69d685/B-ZH070-4.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/55/557689b67b28c0f316c550779c54c850507488029da4eff7a52e5e52d23a738e.png",
       "id": "image-37f0288dbaae4a8ca82d",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "B-ZH070-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "557689b67b28c0f316c550779c54c850507488029da4eff7a52e5e52d23a738e",
       "size": 3660992,
       "source_url": "https://store.bblcdn.com/s7/default/6876eb64f5c14172aeb3e550e9928c1a/B-ZH070-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b3/b3981457941f5ea34f1d35a81d9a4a887b47f4821197c33f33690d656d534e04.png",
       "id": "image-e7bff4eb608f78f2b966",
       "kind": "image",
@@ -101,11 +124,13 @@
       "original_filename": "B-ZH070-5.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b3981457941f5ea34f1d35a81d9a4a887b47f4821197c33f33690d656d534e04",
       "size": 4031042,
       "source_url": "https://store.bblcdn.com/s7/default/7b0f5c1ba8634fc5850bf1beeaeda323/B-ZH070-5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/08/084aa8faeda76e7cb5b9117d8ec400a20abd9a910178fac0231501de1eb12672.png",
       "id": "image-fed2a2744832ec5e569a",
       "kind": "image",
@@ -113,11 +138,13 @@
       "original_filename": "B-ZH070-7.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "084aa8faeda76e7cb5b9117d8ec400a20abd9a910178fac0231501de1eb12672",
       "size": 241070,
       "source_url": "https://store.bblcdn.com/s7/default/4ba5041cd99b408d9713fd3b7b503490/B-ZH070-7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e7/e76534f987e3b536bf3351e94b18213d0fe3b2083261b50730d8576dd375e965.png",
       "id": "image-67b6b61cd8c00bdd884a",
       "kind": "image",
@@ -125,11 +152,13 @@
       "original_filename": "B-ZH070-8.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e76534f987e3b536bf3351e94b18213d0fe3b2083261b50730d8576dd375e965",
       "size": 255896,
       "source_url": "https://store.bblcdn.com/s7/default/eefd7dbacb924d18b0786b31ac8f83a2/B-ZH070-8.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2a/2aaac03a436bd0dd1f1b2a528c0af329f08bc43cb7ce6b5ef5dc2fdb456f88a6.png",
       "id": "image-532f5c5a94b13324995f",
       "kind": "image",
@@ -137,11 +166,13 @@
       "original_filename": "B-ZH070-6.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2aaac03a436bd0dd1f1b2a528c0af329f08bc43cb7ce6b5ef5dc2fdb456f88a6",
       "size": 1398692,
       "source_url": "https://store.bblcdn.com/s7/default/765e2508104d4f13a63730899b1d6259/B-ZH070-6.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5e/5ea0ac67518398de73a30a7e240a72d79b80a238890a4746d2fe9fff62f49dc9.png",
       "id": "image-display-fc408f62f93320c3018e",
       "image_processing": {
@@ -159,11 +190,13 @@
       "parent_asset_id": "image-b9ebec49b960be209acc",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5ea0ac67518398de73a30a7e240a72d79b80a238890a4746d2fe9fff62f49dc9",
       "size": 117091,
       "source_url": "https://store.bblcdn.com/s7/default/6634e515bf8f476b8827bce05b1263a3/B-ZH070.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/60/606c4e254ffbac403180a481c2deeec92fb73d3f5784da5dfbb27dd6b5ed0a36.png",
       "id": "image-display-a3651a54a7ed8b9e96aa",
       "image_processing": {
@@ -181,11 +214,13 @@
       "parent_asset_id": "image-47111c8388f212053564",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "606c4e254ffbac403180a481c2deeec92fb73d3f5784da5dfbb27dd6b5ed0a36",
       "size": 698385,
       "source_url": "https://store.bblcdn.com/s7/default/3fbb01ae8ff54aa2a0231bc29d58c938/B-ZH070-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/81/81a65c9f70972e7a539b16205e12d678fc2761a5e363d75fa83949b01d7cd565.png",
       "id": "image-display-179ebd46fd38b55a40fb",
       "image_processing": {
@@ -203,11 +238,13 @@
       "parent_asset_id": "image-ca7a627d1fdb12d0d952",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "81a65c9f70972e7a539b16205e12d678fc2761a5e363d75fa83949b01d7cd565",
       "size": 421260,
       "source_url": "https://store.bblcdn.com/s7/default/0eec3e3236c74ea281fee93fd03d8df6/B-ZH070-3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dd/ddb6c938ca824d5b4ff65e8a0216735afbe73f4730ee2307d0ac94ccf7d4c82c.png",
       "id": "image-display-7121d25518de6bb4f1d4",
       "image_processing": {
@@ -225,11 +262,13 @@
       "parent_asset_id": "image-0ced4c57e5b624fa6ec2",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ddb6c938ca824d5b4ff65e8a0216735afbe73f4730ee2307d0ac94ccf7d4c82c",
       "size": 709137,
       "source_url": "https://store.bblcdn.com/s7/default/dce046dd53b447cda861a1583d69d685/B-ZH070-4.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3e/3ea0ce5ac174f8d8319f8097ea6348f8844c83e3d9895fc853d0e30844e81693.png",
       "id": "image-display-05b8f08b9acf7290a60e",
       "image_processing": {
@@ -247,11 +286,13 @@
       "parent_asset_id": "image-37f0288dbaae4a8ca82d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3ea0ce5ac174f8d8319f8097ea6348f8844c83e3d9895fc853d0e30844e81693",
       "size": 874302,
       "source_url": "https://store.bblcdn.com/s7/default/6876eb64f5c14172aeb3e550e9928c1a/B-ZH070-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/84/840d02c7e1bcc9ebe9404009b5bfeda04c7b894572d131b21ed915606cd32e8e.png",
       "id": "image-display-b978a16e2a25fbd3ae85",
       "image_processing": {
@@ -269,11 +310,13 @@
       "parent_asset_id": "image-e7bff4eb608f78f2b966",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "840d02c7e1bcc9ebe9404009b5bfeda04c7b894572d131b21ed915606cd32e8e",
       "size": 1005532,
       "source_url": "https://store.bblcdn.com/s7/default/7b0f5c1ba8634fc5850bf1beeaeda323/B-ZH070-5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2d/2d7a9f0a52af4595ed4a0dc976365ec543657b44cda717d9d8d9f09103c9bdec.png",
       "id": "image-display-ea6e2f55237256f1b200",
       "image_processing": {
@@ -291,11 +334,13 @@
       "parent_asset_id": "image-fed2a2744832ec5e569a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2d7a9f0a52af4595ed4a0dc976365ec543657b44cda717d9d8d9f09103c9bdec",
       "size": 201098,
       "source_url": "https://store.bblcdn.com/s7/default/4ba5041cd99b408d9713fd3b7b503490/B-ZH070-7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/61/6151b1af5ac911f2fe9c77240f5b011ec8572666a4e2d7a434bd9900148fadbe.png",
       "id": "image-display-1417efd805eced4df333",
       "image_processing": {
@@ -313,11 +358,13 @@
       "parent_asset_id": "image-67b6b61cd8c00bdd884a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6151b1af5ac911f2fe9c77240f5b011ec8572666a4e2d7a434bd9900148fadbe",
       "size": 214389,
       "source_url": "https://store.bblcdn.com/s7/default/eefd7dbacb924d18b0786b31ac8f83a2/B-ZH070-8.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/90/902dd7d56694f1a6d72abcaae1d74a1786a49e654c751b0cac2ef6d0f1133c86.png",
       "id": "image-display-194d92f3d0bb493fa111",
       "image_processing": {
@@ -335,6 +382,7 @@
       "parent_asset_id": "image-532f5c5a94b13324995f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "902dd7d56694f1a6d72abcaae1d74a1786a49e654c751b0cac2ef6d0f1133c86",
       "size": 352700,
       "source_url": "https://store.bblcdn.com/s7/default/765e2508104d4f13a63730899b1d6259/B-ZH070-6.png"
@@ -432,7 +480,8 @@
   "description_text": "After a while, your vehicle may have difficulty climbing the bridge. First wash the O-rings in warm soapy water. The O-rings are dust magnets and will need to be cleaned every now and again.\n\nTurning the lights off will help the batteries last longer.\n\nIf the wheels spin in the wrong direction, simply rotate the motor.\n\nEach kit contains all the parts you need to complete one car model.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh070-snapatrack",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Snapa Track",
   "offers": [
@@ -444,6 +493,7 @@
       "price": "16.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/snapatrack?skr=yes"
     },
     {
@@ -454,6 +504,7 @@
       "price": "21.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/snapatrack?skr=yes"
     },
     {
@@ -464,6 +515,7 @@
       "price": "17.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/snapatrack?skr=yes"
     },
     {
@@ -474,6 +526,7 @@
       "price": "14.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/snapatrack?skr=yes"
     },
     {
@@ -484,6 +537,7 @@
       "price": "33.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/snapatrack?skr=yes"
     },
     {
@@ -494,6 +548,7 @@
       "price": "16.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/snapatrack?skr=yes"
     }
   ],
@@ -574,6 +629,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -586,6 +642,7 @@
       "price": "16.99",
       "region": "us",
       "sku": "578817523134324738",
+      "store_id": "",
       "title": "Snapa Track - SnapaTrack - ZH070",
       "url": "https://us.store.bambulab.com/products/snapatrack?id=578817523134324738",
       "variant_id": "578817523134324738"
@@ -598,6 +655,7 @@
       "price": "21.99",
       "region": "ca",
       "sku": "578817216056365058",
+      "store_id": "",
       "title": "Snapa Track - SnapaTrack - ZH070",
       "url": "https://ca.store.bambulab.com/products/snapatrack?id=578817216056365058",
       "variant_id": "578817216056365058"
@@ -610,6 +668,7 @@
       "price": "17.99",
       "region": "eu",
       "sku": "54175864160604",
+      "store_id": "",
       "title": "Snapa Track - SnapaTrack - ZH070",
       "url": "https://eu.store.bambulab.com/products/snapatrack?id=54175864160604",
       "variant_id": "54175864160604"
@@ -622,6 +681,7 @@
       "price": "14.99",
       "region": "uk",
       "sku": "578817001146667010",
+      "store_id": "",
       "title": "Snapa Track - SnapaTrack - ZH070",
       "url": "https://uk.store.bambulab.com/products/snapatrack?id=578817001146667010",
       "variant_id": "578817001146667010"
@@ -634,6 +694,7 @@
       "price": "33.99",
       "region": "au",
       "sku": "578816543167176706",
+      "store_id": "",
       "title": "Snapa Track - SnapaTrack - ZH070",
       "url": "https://au.store.bambulab.com/products/snapatrack?id=578816543167176706",
       "variant_id": "578816543167176706"
@@ -646,6 +707,7 @@
       "price": "16.99",
       "region": "asia",
       "sku": "578467958869663747",
+      "store_id": "",
       "title": "Snapa Track - SnapaTrack - ZH070",
       "url": "https://asia.store.bambulab.com/products/snapatrack?id=578467958869663747",
       "variant_id": "578467958869663747"

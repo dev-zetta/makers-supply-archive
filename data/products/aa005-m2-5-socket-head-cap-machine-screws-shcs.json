@@ -4,36 +4,49 @@
     {
       "handle": "m2-5-socket-head-cap-machine-screws-shcs",
       "product_id": "7967900500104",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-socket-head-cap-machine-screws-shcs",
       "product_id": "8641634173168",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-socket-head-cap-machine-screws-shcs",
       "product_id": "8849512300892",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-socket-head-cap-machine-screws-shcs",
       "product_id": "7372749733948",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-socket-head-cap-machine-screws-shcs",
       "product_id": "8261839356067",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-socket-head-cap-machine-screws-shcs",
       "product_id": "7483223048307",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a2/a26a183caff93057bae086f2448d7a670408b5971196029c76ec6500fa7bb071.png",
       "id": "image-92c356d4adaa430b165b",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "AA005.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a26a183caff93057bae086f2448d7a670408b5971196029c76ec6500fa7bb071",
       "size": 293114,
       "source_url": "https://store.bblcdn.com/s7/default/62a523b693d74e8db866d762021cc477/AA005.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2b/2b8c0612ac033f999dcafb8f91949f199984fe6b559954a0ff3e9f3d0f649439.png",
       "id": "image-8837ab59b924ec685956",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "M2.5x10SHCSMachineScrew_20PCS_-AA005.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2b8c0612ac033f999dcafb8f91949f199984fe6b559954a0ff3e9f3d0f649439",
       "size": 253820,
       "source_url": "https://store.bblcdn.com/s7/default/5926f7569442442e856479153649ad12/M2.5x10SHCSMachineScrew_20PCS_-AA005.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/85/857203daff418e851c7c74caa9487567b7dfd006ace2ce833896b8b8f7939a24.pdf",
       "id": "document-29c382f842fe40317124",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "M2.5_Socket_Head_Cap_Machine_Screws_SHCS.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "857203daff418e851c7c74caa9487567b7dfd006ace2ce833896b8b8f7939a24",
       "size": 1484336,
       "source_url": "https://store.bblcdn.com/s7/default/94c590c7a81546d1b1214c277768f4fa/M2.5_Socket_Head_Cap_Machine_Screws_SHCS.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ef/efb06f66f9f41ecd0355202eab67bb5a2c6dd1d6afdbf5e77a18ec913703b6d1.zip",
       "id": "archive-5b8430de78cb1fb7aefe",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "efb06f66f9f41ecd0355202eab67bb5a2c6dd1d6afdbf5e77a18ec913703b6d1",
       "size": 192713,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x10 SHSS Machine Screw - AA205/M2x2.5x10 SHSS Machine Screw - AA205.stl",
       "blob_path": "data/blobs/sha256/aa/aa512bd0602b19e27dc88ee81da390e0f7822708ee53d1da27f510a194606e01.stl",
       "id": "model-22d3d40c2bfe2bcbb9ec",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "aa512bd0602b19e27dc88ee81da390e0f7822708ee53d1da27f510a194606e01",
       "size": 46684,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x10 SHSS Machine Screw - AA205/M2x2.5x10 SHSS Machine Screw - AA205.stp",
       "blob_path": "data/blobs/sha256/76/769bfc4c7ca37d936ceeacc0364600f5bd4b27fee640298eeea0b63f2a938de0.stp",
       "id": "model-c549de73550e34cc1f29",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "769bfc4c7ca37d936ceeacc0364600f5bd4b27fee640298eeea0b63f2a938de0",
       "size": 54914,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x12 SHSS Machine Screw  - AA116/M2x2.5x12 SHSS Machine Screw  - AA116.stl",
       "blob_path": "data/blobs/sha256/17/17b69eab1d84f70e12cbfc68536bdb91e311191bdc2e3b582f6bf0533e210b22.stl",
       "id": "model-5f47d3a2bf2539fcb35c",
@@ -119,11 +144,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "17b69eab1d84f70e12cbfc68536bdb91e311191bdc2e3b582f6bf0533e210b22",
       "size": 33184,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x12 SHSS Machine Screw  - AA116/M2x2.5x12 SHSS Machine Screw  - AA116.stp",
       "blob_path": "data/blobs/sha256/62/62f54526db367a04c0154ac8a1ac62d8be1e6a321177774cf471581f9a432dff.stp",
       "id": "model-bbc5dcdcfa067b47439b",
@@ -133,11 +160,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "62f54526db367a04c0154ac8a1ac62d8be1e6a321177774cf471581f9a432dff",
       "size": 17484,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x14 SHSS Machine Screw - AA206/M2x2.5x14 SHSS Machine Screw - AA206.stl",
       "blob_path": "data/blobs/sha256/3e/3eeabf4edd7e6bbdf65ac154b995a802d524bed8cd9bad6a8d9358ebbb28a80e.stl",
       "id": "model-ce986b2c518aa29d2942",
@@ -147,11 +176,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3eeabf4edd7e6bbdf65ac154b995a802d524bed8cd9bad6a8d9358ebbb28a80e",
       "size": 29084,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x14 SHSS Machine Screw - AA206/M2x2.5x14 SHSS Machine Screw - AA206.stp",
       "blob_path": "data/blobs/sha256/5a/5abe6ceb69f52f2248aed046f4c493060d946242b0556d2cc110cc741025686d.stp",
       "id": "model-e09e35919d3fb0d771e3",
@@ -161,11 +192,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5abe6ceb69f52f2248aed046f4c493060d946242b0556d2cc110cc741025686d",
       "size": 54917,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x16 SHSS Machine Screw  - AA117/M2x2.5x16 SHSS Machine Screw  - AA117.stl",
       "blob_path": "data/blobs/sha256/08/083077804c8eee3a995b65eecec96b5fcf7e8ef14d085934a46c2e6e990070f1.stl",
       "id": "model-01e0039f2ac38f90b894",
@@ -175,11 +208,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "083077804c8eee3a995b65eecec96b5fcf7e8ef14d085934a46c2e6e990070f1",
       "size": 33184,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x16 SHSS Machine Screw  - AA117/M2x2.5x16 SHSS Machine Screw  - AA117.stp",
       "blob_path": "data/blobs/sha256/c6/c6c18649ec4ddaa7458c888fc1046772135ff2b1f49314f54c5cb763eda669ac.stp",
       "id": "model-2eed0b3b57f26b188287",
@@ -189,11 +224,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c6c18649ec4ddaa7458c888fc1046772135ff2b1f49314f54c5cb763eda669ac",
       "size": 17491,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x18 SHSS Machine Screw - AA207/M2x2.5x18 SHSS Machine Screw - AA207.stl",
       "blob_path": "data/blobs/sha256/9c/9c1f354635dea4e988824329b815fe2fa1ce53b8ca5d7922a135b1703f7b0583.stl",
       "id": "model-e99667b0534b7d24c382",
@@ -203,11 +240,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9c1f354635dea4e988824329b815fe2fa1ce53b8ca5d7922a135b1703f7b0583",
       "size": 37084,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x18 SHSS Machine Screw - AA207/M2x2.5x18 SHSS Machine Screw - AA207.stp",
       "blob_path": "data/blobs/sha256/ca/ca440522a618300d3e30e93a1b8c72e647f967bdb4b01ea8beafd637fcc5e2bb.stp",
       "id": "model-c3e0f3b417475965b119",
@@ -217,11 +256,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ca440522a618300d3e30e93a1b8c72e647f967bdb4b01ea8beafd637fcc5e2bb",
       "size": 54917,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x20 SHSS Machine Screw  - AA118/M2x2.5x20 SHSS Machine Screw  - AA118.stl",
       "blob_path": "data/blobs/sha256/5c/5c9eccd81b9e50f3858a44c3dc0827c0e769180dcdaed726c2d427a14b8701aa.stl",
       "id": "model-4d1e927adeb1f4144222",
@@ -231,11 +272,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5c9eccd81b9e50f3858a44c3dc0827c0e769180dcdaed726c2d427a14b8701aa",
       "size": 33184,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x20 SHSS Machine Screw  - AA118/M2x2.5x20 SHSS Machine Screw  - AA118.stp",
       "blob_path": "data/blobs/sha256/2a/2a3c2b893985e257ff3bc6ef377b92425b34b46f10386fee581464beb962f166.stp",
       "id": "model-732b6c4d8f4a0653c3b2",
@@ -245,11 +288,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2a3c2b893985e257ff3bc6ef377b92425b34b46f10386fee581464beb962f166",
       "size": 17417,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x25 SHSS Machine Screw  - AA119/M2x2.5x25 SHSS Machine Screw  - AA119.stl",
       "blob_path": "data/blobs/sha256/1c/1c2bc66d76ec6cf6cedb53685787d8b6105c984f4d9c5ec4f0d0bcee0aef662e.stl",
       "id": "model-0f687396c99748c84f6b",
@@ -259,11 +304,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1c2bc66d76ec6cf6cedb53685787d8b6105c984f4d9c5ec4f0d0bcee0aef662e",
       "size": 33184,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x25 SHSS Machine Screw  - AA119/M2x2.5x25 SHSS Machine Screw  - AA119.stp",
       "blob_path": "data/blobs/sha256/cf/cf92bd8ec9fa6a356cecdfbb73fc2f0fcdb4734acee0b79148195711c19df2d9.stp",
       "id": "model-e57ca59e15a9bf8b272a",
@@ -273,11 +320,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cf92bd8ec9fa6a356cecdfbb73fc2f0fcdb4734acee0b79148195711c19df2d9",
       "size": 17461,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x30 SHSS Machine Screw  - AA120/M2x2.5x30 SHSS Machine Screw  - AA120.stl",
       "blob_path": "data/blobs/sha256/6c/6ce59f7e9514d3ee32fdb212f98224533dd5cf340688972ed2a3dcb2e984ee2f.stl",
       "id": "model-9b13194776d624bb312f",
@@ -287,11 +336,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6ce59f7e9514d3ee32fdb212f98224533dd5cf340688972ed2a3dcb2e984ee2f",
       "size": 33184,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x30 SHSS Machine Screw  - AA120/M2x2.5x30 SHSS Machine Screw  - AA120.stp",
       "blob_path": "data/blobs/sha256/26/260d24d7f9a5914b2b19451d6cc7271371270c835320a94003618a72c15306b7.stp",
       "id": "model-c07511547dbf7716a062",
@@ -301,11 +352,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "260d24d7f9a5914b2b19451d6cc7271371270c835320a94003618a72c15306b7",
       "size": 17529,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x4 SHSS Machine Screw - AA203/M2x2.5x4 SHSS Machine Screw - AA203.STEP",
       "blob_path": "data/blobs/sha256/62/625aa520514b180424bc8b7f6500a78694ed94596d04e35fb0bb6afdc73f1c52.step",
       "id": "model-b51e948829494c662824",
@@ -315,11 +368,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "625aa520514b180424bc8b7f6500a78694ed94596d04e35fb0bb6afdc73f1c52",
       "size": 53453,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x4 SHSS Machine Screw - AA203/M2x2.5x4 SHSS Machine Screw - AA203.stl",
       "blob_path": "data/blobs/sha256/73/73f1bf3a393947333cdf85809285373b1145d534d92fdc8502698fb93dc75705.stl",
       "id": "model-657e6553cba3acb5b1bc",
@@ -329,11 +384,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "73f1bf3a393947333cdf85809285373b1145d534d92fdc8502698fb93dc75705",
       "size": 48084,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x5 SHSS Machine Screw - AA204/M2x2.5x5 SHSS Machine Screw - AA204.stl",
       "blob_path": "data/blobs/sha256/2c/2cec1aa0ac62c50128cfb60af7c545c3c407ac22772eca417022dffc611fc689.stl",
       "id": "model-67b261e1ad905279d6f2",
@@ -343,11 +400,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2cec1aa0ac62c50128cfb60af7c545c3c407ac22772eca417022dffc611fc689",
       "size": 42684,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x5 SHSS Machine Screw - AA204/M2x2.5x5 SHSS Machine Screw - AA204.stp",
       "blob_path": "data/blobs/sha256/0e/0eb83a4336b7bdba30ab57a89444a673cf542ffa586c29b138c4bb1f453d112a.stp",
       "id": "model-2df50c9d6bbabf5942ee",
@@ -357,11 +416,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0eb83a4336b7bdba30ab57a89444a673cf542ffa586c29b138c4bb1f453d112a",
       "size": 54903,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x6 SHSS Machine Screw  - AA114/M2x2.5x6 SHSS Machine Screw  - AA114.stl",
       "blob_path": "data/blobs/sha256/b3/b329820aa31451c0b5642721d0997e681986c340c13d3ec6c8c5e2759350aacb.stl",
       "id": "model-5e088ffbe277ddfced26",
@@ -371,11 +432,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b329820aa31451c0b5642721d0997e681986c340c13d3ec6c8c5e2759350aacb",
       "size": 33184,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x6 SHSS Machine Screw  - AA114/M2x2.5x6 SHSS Machine Screw  - AA114.stp",
       "blob_path": "data/blobs/sha256/ad/ad7dd807aabe4a03347c08555ddc7a76e3c85aed70c50773e7fc5fa1acdd4375.stp",
       "id": "model-fa4f69e559eda1fc3d14",
@@ -385,11 +448,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ad7dd807aabe4a03347c08555ddc7a76e3c85aed70c50773e7fc5fa1acdd4375",
       "size": 17425,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x8 SHSS Machine Screw  - AA115/M2x2.5x8 SHSS Machine Screw  - AA115.stl",
       "blob_path": "data/blobs/sha256/21/215f1f10b8c1590bf5206bded916b1151d908f64fdc75c62760064aad04d088e.stl",
       "id": "model-029d2925a254a72555ea",
@@ -399,11 +464,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "215f1f10b8c1590bf5206bded916b1151d908f64fdc75c62760064aad04d088e",
       "size": 33184,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 SHSS Machine Screw Model/M2x2.5x8 SHSS Machine Screw  - AA115/M2x2.5x8 SHSS Machine Screw  - AA115.stp",
       "blob_path": "data/blobs/sha256/2d/2d378fc4181f3662a8a67ed874b5a8179f0aa1831670e011117061bb752aa4ff.stp",
       "id": "model-97036cfaa07df899c7c6",
@@ -413,11 +480,13 @@
       "parent_asset_id": "archive-5b8430de78cb1fb7aefe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2d378fc4181f3662a8a67ed874b5a8179f0aa1831670e011117061bb752aa4ff",
       "size": 17453,
       "source_url": "https://store.bblcdn.com/s7/default/7754dff97ac04fe9a1c3df16895c35d7/M2.5_Socket_Head_Cap_Machine_Screws_SHCS_2.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cd/cdcbe96eb0c0bc798b1eb5fffd0f778a13f0459a4f2ceee8c1ea0417cd154a18.png",
       "id": "image-display-c9fed19d2c2e51bd5787",
       "image_processing": {
@@ -435,11 +504,13 @@
       "parent_asset_id": "image-92c356d4adaa430b165b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cdcbe96eb0c0bc798b1eb5fffd0f778a13f0459a4f2ceee8c1ea0417cd154a18",
       "size": 112014,
       "source_url": "https://store.bblcdn.com/s7/default/62a523b693d74e8db866d762021cc477/AA005.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ee/eebb6b1f04ffc06d7b03e9fe6d69b8356e8724121c863aaaa8a5ab04e427ccae.png",
       "id": "image-display-679697ef912f3aae3940",
       "image_processing": {
@@ -457,6 +528,7 @@
       "parent_asset_id": "image-8837ab59b924ec685956",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "eebb6b1f04ffc06d7b03e9fe6d69b8356e8724121c863aaaa8a5ab04e427ccae",
       "size": 85065,
       "source_url": "https://store.bblcdn.com/s7/default/5926f7569442442e856479153649ad12/M2.5x10SHCSMachineScrew_20PCS_-AA005.png"
@@ -519,6 +591,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa005-m2-5-socket-head-cap-machine-screws-shcs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",
@@ -585,6 +658,7 @@
       "price": "2.19",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/m2-5-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -595,6 +669,7 @@
       "price": "2.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/m2-5-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -605,6 +680,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/m2-5-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -615,6 +691,7 @@
       "price": "2.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/m2-5-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -625,6 +702,7 @@
       "price": "4.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/m2-5-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -635,6 +713,7 @@
       "price": "1.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/m2-5-socket-head-cap-machine-screws-shcs?skr=yes"
     }
   ],
@@ -754,6 +833,7 @@
     "k (mm) Hexagon Across Flats": "2",
     "t (mm) Groove Depth": "1.1"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -764,6 +844,7 @@
       "price": "2.19",
       "region": "us",
       "sku": "42102636773512",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Socket Head Cap Machine Screws (SHCS) - M2.5x10 SHCS Machine Screw (20PCS) - AA005",
       "url": "https://us.store.bambulab.com/products/m2-5-socket-head-cap-machine-screws-shcs?id=42102636773512",
       "variant_id": "42102636773512"
@@ -776,6 +857,7 @@
       "price": "2.99",
       "region": "ca",
       "sku": "45646475329776",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Socket Head Cap Machine Screws (SHCS) - M2.5x10 SHCS Machine Screw (20PCS) - AA005",
       "url": "https://ca.store.bambulab.com/products/m2-5-socket-head-cap-machine-screws-shcs?id=45646475329776",
       "variant_id": "45646475329776"
@@ -788,6 +870,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "47966603542876",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Socket Head Cap Machine Screws (SHCS) - M2.5x10 SHCS Machine Screw (20PCS) - AA005",
       "url": "https://eu.store.bambulab.com/products/m2-5-socket-head-cap-machine-screws-shcs?id=47966603542876",
       "variant_id": "47966603542876"
@@ -800,6 +883,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "41313049477180",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Socket Head Cap Machine Screws (SHCS) - M2.5x10 SHCS Machine Screw (20PCS) - AA005",
       "url": "https://uk.store.bambulab.com/products/m2-5-socket-head-cap-machine-screws-shcs?id=41313049477180",
       "variant_id": "41313049477180"
@@ -812,6 +896,7 @@
       "price": "4.99",
       "region": "au",
       "sku": "44118840311971",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Socket Head Cap Machine Screws (SHCS) - M2.5x10 SHCS Machine Screw (20PCS) - AA005",
       "url": "https://au.store.bambulab.com/products/m2-5-socket-head-cap-machine-screws-shcs?id=44118840311971",
       "variant_id": "44118840311971"
@@ -824,6 +909,7 @@
       "price": "1.99",
       "region": "asia",
       "sku": "41564956754035",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Socket Head Cap Machine Screws (SHCS) - M2.5x10 SHCS Machine Screw (20PCS) - AA005",
       "url": "https://asia.store.bambulab.com/products/m2-5-socket-head-cap-machine-screws-shcs?id=41564956754035",
       "variant_id": "41564956754035"

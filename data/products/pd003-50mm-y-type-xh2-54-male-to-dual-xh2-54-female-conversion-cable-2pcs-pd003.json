@@ -4,36 +4,49 @@
     {
       "handle": "50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003",
       "product_id": "713292671665938432",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003",
       "product_id": "713291912949501952",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003",
       "product_id": "713292761691926528",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003",
       "product_id": "713291996001173504",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003",
       "product_id": "713291807599808512",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003",
       "product_id": "712865896936103936",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9f/9f0629e15ba5b7927d0b5bc48f883623ce72ec007c3bf06cce621fa742d14f4d.png",
       "id": "image-e100045386a1764d37c8",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "PD003-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9f0629e15ba5b7927d0b5bc48f883623ce72ec007c3bf06cce621fa742d14f4d",
       "size": 231370,
       "source_url": "https://store.bblcdn.com/s7/default/3557c0fe927e4ebfb030a2abdf88c85f/PD003-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/81/81b49d130306c247f588b75c91404e6bb729b7d953a0b3dad07f7f2454c50417.png",
       "id": "image-7db5b4805353f5efe1fd",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "PD003-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "81b49d130306c247f588b75c91404e6bb729b7d953a0b3dad07f7f2454c50417",
       "size": 221390,
       "source_url": "https://store.bblcdn.com/s7/default/51fcc4654b9f4393955756030529bc14/PD003-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/45/451621cc575a28b25b576d175ae7e0fd8934d77f1fcb7fdfb006deec78b847e2.png",
       "id": "image-display-830e54b62a1cc295c54b",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-e100045386a1764d37c8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "451621cc575a28b25b576d175ae7e0fd8934d77f1fcb7fdfb006deec78b847e2",
       "size": 59606,
       "source_url": "https://store.bblcdn.com/s7/default/3557c0fe927e4ebfb030a2abdf88c85f/PD003-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b3/b36f462982abd02dbda980759ede76d4ef7f266ae4922cd017fb33d0b82683aa.png",
       "id": "image-display-290440c2eab0e85c1cdc",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-7db5b4805353f5efe1fd",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b36f462982abd02dbda980759ede76d4ef7f266ae4922cd017fb33d0b82683aa",
       "size": 57345,
       "source_url": "https://store.bblcdn.com/s7/default/51fcc4654b9f4393955756030529bc14/PD003-1.png"
@@ -150,6 +170,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "pd003-50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Length(mm)",
@@ -180,6 +201,7 @@
       "price": "2.49",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?skr=yes"
     },
     {
@@ -190,6 +212,7 @@
       "price": "3.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?skr=yes"
     },
     {
@@ -200,6 +223,7 @@
       "price": "2.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?skr=yes"
     },
     {
@@ -210,6 +234,7 @@
       "price": "2.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?skr=yes"
     },
     {
@@ -220,6 +245,7 @@
       "price": "3.99",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?skr=yes"
     },
     {
@@ -230,6 +256,7 @@
       "price": "2.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?skr=yes"
     }
   ],
@@ -279,6 +306,7 @@
     "Product ID": "PD003",
     "Wire Gauge": "24AWG"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -289,6 +317,7 @@
       "price": "2.49",
       "region": "us",
       "sku": "713292671678521346",
+      "store_id": "",
       "title": "Y Type XH2.54 Male to Dual XH2.54 Female Conversion Cable - 50mm Y Type XH2.54 Male to Dual XH2.54 Female (2PCS) - PD003",
       "url": "https://us.store.bambulab.com/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?id=713292671678521346",
       "variant_id": "713292671678521346"
@@ -301,6 +330,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "713291912962084866",
+      "store_id": "",
       "title": "Y Type XH2.54 Male to Dual XH2.54 Female Conversion Cable - 50mm Y Type XH2.54 Male to Dual XH2.54 Female (2PCS) - PD003",
       "url": "https://ca.store.bambulab.com/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?id=713291912962084866",
       "variant_id": "713291912962084866"
@@ -313,6 +343,7 @@
       "price": "2.99",
       "region": "eu",
       "sku": "713292761708703746",
+      "store_id": "",
       "title": "Y Type XH2.54 Male to Dual XH2.54 Female Conversion Cable - 50mm Y Type XH2.54 Male to Dual XH2.54 Female (2PCS) - PD003",
       "url": "https://eu.store.bambulab.com/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?id=713292761708703746",
       "variant_id": "713292761708703746"
@@ -325,6 +356,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "713291996022145026",
+      "store_id": "",
       "title": "Y Type XH2.54 Male to Dual XH2.54 Female Conversion Cable - 50mm Y Type XH2.54 Male to Dual XH2.54 Female (2PCS) - PD003",
       "url": "https://uk.store.bambulab.com/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?id=713291996022145026",
       "variant_id": "713291996022145026"
@@ -337,6 +369,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "713291807616585730",
+      "store_id": "",
       "title": "Y Type XH2.54 Male to Dual XH2.54 Female Conversion Cable - 50mm Y Type XH2.54 Male to Dual XH2.54 Female (2PCS) - PD003",
       "url": "https://au.store.bambulab.com/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?id=713291807616585730",
       "variant_id": "713291807616585730"
@@ -349,6 +382,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "712865896957075458",
+      "store_id": "",
       "title": "Y Type XH2.54 Male to Dual XH2.54 Female Conversion Cable - 50mm Y Type XH2.54 Male to Dual XH2.54 Female (2PCS) - PD003",
       "url": "https://asia.store.bambulab.com/products/50mm-y-type-xh2-54-male-to-dual-xh2-54-female-conversion-cable-2pcs-pd003?id=712865896957075458",
       "variant_id": "712865896957075458"

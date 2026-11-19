@@ -4,36 +4,49 @@
     {
       "handle": "mxl-timing-belt",
       "product_id": "8206141358216",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mxl-timing-belt",
       "product_id": "8882182062320",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mxl-timing-belt",
       "product_id": "9425851941212",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mxl-timing-belt",
       "product_id": "7651300737084",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mxl-timing-belt",
       "product_id": "8491633606819",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mxl-timing-belt",
       "product_id": "7664087564403",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/94/944ce5289ddd8060296994e3680ae216ab002fb3a2d58fd59ba1f9da01456dc4.png",
       "id": "image-9f290dde10076d9a00e3",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "MXLTimingbelt1_2bc66750-7bf0-4361-8f03-811d05ee1db7.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "944ce5289ddd8060296994e3680ae216ab002fb3a2d58fd59ba1f9da01456dc4",
       "size": 60727,
       "source_url": "https://store.bblcdn.com/s7/default/03c43b4d59454b3bbbcce4f46e5f2562/MXLTimingbelt1_2bc66750-7bf0-4361-8f03-811d05ee1db7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/89/89d6440f4e3e36d0b3325556e8c573a52079dc6384c1301fb72eae6c5552a961.png",
       "id": "image-9fd0ca207e3933981390",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "MXLTimingbelt2_da357138-7285-4325-8a41-e43515285f0b.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "89d6440f4e3e36d0b3325556e8c573a52079dc6384c1301fb72eae6c5552a961",
       "size": 61235,
       "source_url": "https://store.bblcdn.com/s7/default/ebf61bce699442e1b3af71243c84c60b/MXLTimingbelt2_da357138-7285-4325-8a41-e43515285f0b.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4a/4ace524ae6d2f78becd1b8cb55ff1ff06872af6746e8c1a1529da98abf3b2880.png",
       "id": "image-2fa67f75447ea1acf24d",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "MXLTimingbelt.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4ace524ae6d2f78becd1b8cb55ff1ff06872af6746e8c1a1529da98abf3b2880",
       "size": 100816,
       "source_url": "https://store.bblcdn.com/s7/default/ef64815db8bb432cb85c43c1161a210e/MXLTimingbelt.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5e/5e3a44ead3e7404f9425071d3c0ce8b1ff69630d3e9a81c7c96c160213b4eba6.pdf",
       "id": "document-e2b4b755962d749d5676",
       "kind": "document",
@@ -77,11 +96,13 @@
       "original_filename": "MXLTiming_belt.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5e3a44ead3e7404f9425071d3c0ce8b1ff69630d3e9a81c7c96c160213b4eba6",
       "size": 396130,
       "source_url": "https://store.bblcdn.com/s7/default/edfeabac8a644c4089e87c158f7f5a49/MXLTiming_belt.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ef/ef8819d5c4b2154d6d1f796f52ec9dc2072e9ec6f71f1aa6cae2b618920c6d21.zip",
       "id": "archive-63eeb4799a2f70d150e4",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "MXL_Timing_Belt.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ef8819d5c4b2154d6d1f796f52ec9dc2072e9ec6f71f1aa6cae2b618920c6d21",
       "size": 742127,
       "source_url": "https://store.bblcdn.com/s7/default/aae6533001114c02892bc384e1643f0f/MXL_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "MXL Timing Belt/B42MXL 3mm - RD001/B42MXL 3mm Timing Belt - RD001.STEP",
       "blob_path": "data/blobs/sha256/f1/f1fe27438ed4ee33d285219b64f47bea992a9d3d7e3ff1c948511cc5a95254bc.step",
       "id": "model-c6dcc1e460a9d8e430b4",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-63eeb4799a2f70d150e4",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1fe27438ed4ee33d285219b64f47bea992a9d3d7e3ff1c948511cc5a95254bc",
       "size": 1209702,
       "source_url": "https://store.bblcdn.com/s7/default/aae6533001114c02892bc384e1643f0f/MXL_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "MXL Timing Belt/B42MXL 3mm - RD001/B42MXL 3mm Timing Belt - RD001.STL",
       "blob_path": "data/blobs/sha256/29/29bb48298b99c9690013e17963c549d1bc4712c640b988d9014c77f49741c5a7.stl",
       "id": "model-955e90d6e3147b23b627",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-63eeb4799a2f70d150e4",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "29bb48298b99c9690013e17963c549d1bc4712c640b988d9014c77f49741c5a7",
       "size": 372884,
       "source_url": "https://store.bblcdn.com/s7/default/aae6533001114c02892bc384e1643f0f/MXL_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "MXL Timing Belt/B55MXL 3mm - RD002/B55MXL 3mm Timing Belt - RD002.STEP",
       "blob_path": "data/blobs/sha256/84/8481be1041ecbe589195fc43f9eacd16f4341d42cef8eca760274da6a7c843ef.step",
       "id": "model-cb5bf5565c2981edbf08",
@@ -131,11 +158,13 @@
       "parent_asset_id": "archive-63eeb4799a2f70d150e4",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8481be1041ecbe589195fc43f9eacd16f4341d42cef8eca760274da6a7c843ef",
       "size": 1566318,
       "source_url": "https://store.bblcdn.com/s7/default/aae6533001114c02892bc384e1643f0f/MXL_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "MXL Timing Belt/B55MXL 3mm - RD002/B55MXL 3mm Timing Belt - RD002.STL",
       "blob_path": "data/blobs/sha256/42/42dd144e3914333e544cda6d4799cb218563326952e2ee1ebfd8e6348dfd3d4d.stl",
       "id": "model-63af05bae5c39a8c5a7d",
@@ -145,11 +174,13 @@
       "parent_asset_id": "archive-63eeb4799a2f70d150e4",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "42dd144e3914333e544cda6d4799cb218563326952e2ee1ebfd8e6348dfd3d4d",
       "size": 454084,
       "source_url": "https://store.bblcdn.com/s7/default/aae6533001114c02892bc384e1643f0f/MXL_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fa/fa63b713dd934c124d696835e0502be6537f5c468c295032ecf19568e27e39ee.png",
       "id": "image-display-aea1af71a9bf21fbc10c",
       "image_processing": {
@@ -167,11 +198,13 @@
       "parent_asset_id": "image-9f290dde10076d9a00e3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fa63b713dd934c124d696835e0502be6537f5c468c295032ecf19568e27e39ee",
       "size": 48315,
       "source_url": "https://store.bblcdn.com/s7/default/03c43b4d59454b3bbbcce4f46e5f2562/MXLTimingbelt1_2bc66750-7bf0-4361-8f03-811d05ee1db7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e2/e25ce3003c9ad513c1ca3573074735d44dd145a4bf6fd15d47bfe41446382e8c.png",
       "id": "image-display-d18014e5bc42081a962b",
       "image_processing": {
@@ -189,11 +222,13 @@
       "parent_asset_id": "image-9fd0ca207e3933981390",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e25ce3003c9ad513c1ca3573074735d44dd145a4bf6fd15d47bfe41446382e8c",
       "size": 48331,
       "source_url": "https://store.bblcdn.com/s7/default/ebf61bce699442e1b3af71243c84c60b/MXLTimingbelt2_da357138-7285-4325-8a41-e43515285f0b.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bf/bf348c75a0bdae82dfbed21f80fad0bd556ffe59c7c7d0e05507d84b83b7cc42.png",
       "id": "image-display-f4a28badd819cc844cc8",
       "image_processing": {
@@ -211,6 +246,7 @@
       "parent_asset_id": "image-2fa67f75447ea1acf24d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bf348c75a0bdae82dfbed21f80fad0bd556ffe59c7c7d0e05507d84b83b7cc42",
       "size": 84992,
       "source_url": "https://store.bblcdn.com/s7/default/ef64815db8bb432cb85c43c1161a210e/MXLTimingbelt.png"
@@ -261,6 +297,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "rd001-mxl-timing-belt",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "MXL Timing Belts",
   "offers": [
@@ -272,6 +309,7 @@
       "price": "2.08",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/mxl-timing-belt?skr=yes"
     },
     {
@@ -282,6 +320,7 @@
       "price": "2.39",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/mxl-timing-belt?skr=yes"
     },
     {
@@ -292,6 +331,7 @@
       "price": "1.96",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/mxl-timing-belt?skr=yes"
     },
     {
@@ -302,6 +342,7 @@
       "price": "1.66",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/mxl-timing-belt?skr=yes"
     },
     {
@@ -312,6 +353,7 @@
       "price": "3.76",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/mxl-timing-belt?skr=yes"
     },
     {
@@ -322,6 +364,7 @@
       "price": "1.89",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/mxl-timing-belt?skr=yes"
     }
   ],
@@ -429,6 +472,7 @@
     "Surface Type": "Single sided",
     "Teeth Type": "MXL"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -439,6 +483,7 @@
       "price": "2.08",
       "region": "us",
       "sku": "42580213432456",
+      "store_id": "",
       "title": "MXL Timing Belts - B42MXL 3mm (1PCS) - RD001",
       "url": "https://us.store.bambulab.com/products/mxl-timing-belt?id=42580213432456",
       "variant_id": "42580213432456"
@@ -451,6 +496,7 @@
       "price": "2.19",
       "region": "us",
       "sku": "42580213465224",
+      "store_id": "",
       "title": "MXL Timing Belts - B55MXL 3mm (1PCS) - RD002",
       "url": "https://us.store.bambulab.com/products/mxl-timing-belt?id=42580213465224",
       "variant_id": "42580213465224"
@@ -463,6 +509,7 @@
       "price": "2.39",
       "region": "ca",
       "sku": "46185753051376",
+      "store_id": "",
       "title": "MXL 3mm Timing Belt - B42MXL 3mm (1PCS) - RD001",
       "url": "https://ca.store.bambulab.com/products/mxl-timing-belt?id=46185753051376",
       "variant_id": "46185753051376"
@@ -475,6 +522,7 @@
       "price": "2.52",
       "region": "ca",
       "sku": "46185753084144",
+      "store_id": "",
       "title": "MXL 3mm Timing Belt - B55MXL 3mm (1PCS) - RD002",
       "url": "https://ca.store.bambulab.com/products/mxl-timing-belt?id=46185753084144",
       "variant_id": "46185753084144"
@@ -487,6 +535,7 @@
       "price": "1.96",
       "region": "eu",
       "sku": "48888889737564",
+      "store_id": "",
       "title": "MXL 3mm Timing Belt - B42MXL 3mm (1PCS) - RD001",
       "url": "https://eu.store.bambulab.com/products/mxl-timing-belt?id=48888889737564",
       "variant_id": "48888889737564"
@@ -499,6 +548,7 @@
       "price": "2.06",
       "region": "eu",
       "sku": "48888889770332",
+      "store_id": "",
       "title": "MXL 3mm Timing Belt - B55MXL 3mm (1PCS) - RD002",
       "url": "https://eu.store.bambulab.com/products/mxl-timing-belt?id=48888889770332",
       "variant_id": "48888889770332"
@@ -511,6 +561,7 @@
       "price": "1.66",
       "region": "uk",
       "sku": "41848307777596",
+      "store_id": "",
       "title": "MXL 3mm Timing Belt - B42MXL 3mm (1PCS) - RD001",
       "url": "https://uk.store.bambulab.com/products/mxl-timing-belt?id=41848307777596",
       "variant_id": "41848307777596"
@@ -523,6 +574,7 @@
       "price": "1.75",
       "region": "uk",
       "sku": "41848307810364",
+      "store_id": "",
       "title": "MXL 3mm Timing Belt - B55MXL 3mm (1PCS) - RD002",
       "url": "https://uk.store.bambulab.com/products/mxl-timing-belt?id=41848307810364",
       "variant_id": "41848307810364"
@@ -535,6 +587,7 @@
       "price": "3.76",
       "region": "au",
       "sku": "44709629657251",
+      "store_id": "",
       "title": "MXL 3mm Timing Belt - B42MXL 3mm (1PCS) - RD001",
       "url": "https://au.store.bambulab.com/products/mxl-timing-belt?id=44709629657251",
       "variant_id": "44709629657251"
@@ -547,6 +600,7 @@
       "price": "3.95",
       "region": "au",
       "sku": "44709629690019",
+      "store_id": "",
       "title": "MXL 3mm Timing Belt - B55MXL 3mm (1PCS) - RD002",
       "url": "https://au.store.bambulab.com/products/mxl-timing-belt?id=44709629690019",
       "variant_id": "44709629690019"
@@ -559,6 +613,7 @@
       "price": "1.89",
       "region": "asia",
       "sku": "41999507390579",
+      "store_id": "",
       "title": "MXL 3mm Timing Belt - B42MXL 3mm (1PCS) - RD001",
       "url": "https://asia.store.bambulab.com/products/mxl-timing-belt?id=41999507390579",
       "variant_id": "41999507390579"
@@ -571,6 +626,7 @@
       "price": "1.99",
       "region": "asia",
       "sku": "41999507423347",
+      "store_id": "",
       "title": "MXL 3mm Timing Belt - B55MXL 3mm (1PCS) - RD002",
       "url": "https://asia.store.bambulab.com/products/mxl-timing-belt?id=41999507423347",
       "variant_id": "41999507423347"

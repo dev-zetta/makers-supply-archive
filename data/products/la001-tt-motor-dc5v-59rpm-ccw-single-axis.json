@@ -4,36 +4,49 @@
     {
       "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
       "product_id": "7970104737928",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
       "product_id": "8644568547568",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
       "product_id": "8849764712796",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
       "product_id": "7373063847996",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
       "product_id": "8272323674275",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tt-motor-dc5v-59rpm-ccw-single-axis",
       "product_id": "7486617616499",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/40/4009827dd08df07a55491db2d6da6d4992a0b2f3da9c31fb81a337f95b818cfb.png",
       "id": "image-1f1f513ea6342ca814bd",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "TTMotor_DC5V59RPMCCWSingleAxis_5fb8ef4c-3aaf-4a6d-88fa-ea1f7e5c55ef.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4009827dd08df07a55491db2d6da6d4992a0b2f3da9c31fb81a337f95b818cfb",
       "size": 534310,
       "source_url": "https://store.bblcdn.com/s7/default/f20e4acd12ac4679ab96d645b5ac386f/TTMotor_DC5V59RPMCCWSingleAxis_5fb8ef4c-3aaf-4a6d-88fa-ea1f7e5c55ef.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/61/612a5dd3b5ea9818e306ea8378022caec82446dd14a6f0ecfaf625c2cfe20b5a.png",
       "id": "image-382f1451e63d0f06d964",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-KC008.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "612a5dd3b5ea9818e306ea8378022caec82446dd14a6f0ecfaf625c2cfe20b5a",
       "size": 850883,
       "source_url": "https://store.bblcdn.com/s7/default/f216e803137f4e96ac24e135c8c467f6/B-KC008.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ee/ee567992ebccce97a2a8c132549887186e8fe2fa2bcd4ff199a97e88422e6457.jpg",
       "id": "image-45901b1eedf629e3929c",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "TT_motor_Z.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ee567992ebccce97a2a8c132549887186e8fe2fa2bcd4ff199a97e88422e6457",
       "size": 174625,
       "source_url": "https://store.bblcdn.com/s7/default/ed7e3c0cdec74acaa9e54b9ba3ad8a8e/TT_motor_Z.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b4/b404f19c8128e42543cfae7fc1dc0ee0b97c3069593548a45c1ee9acdcc4699f.pdf",
       "id": "document-983a3a7f62ebb22ef236",
       "kind": "document",
@@ -77,11 +96,13 @@
       "original_filename": "B-LA001.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b404f19c8128e42543cfae7fc1dc0ee0b97c3069593548a45c1ee9acdcc4699f",
       "size": 399418,
       "source_url": "https://store.bblcdn.com/s7/default/a6d57b6906094d6987dab12cc7df852a/B-LA001.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/42/4259e9f890d9dcd1010eaf5e59c2cf3e2ed35e20fa726eb6bf36d04d9688775e.zip",
       "id": "archive-e370a87ad0d874fbc617",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "TT_Motor_DC5V_59RPM_CCW_Single_Axis.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4259e9f890d9dcd1010eaf5e59c2cf3e2ed35e20fa726eb6bf36d04d9688775e",
       "size": 694984,
       "source_url": "https://store.bblcdn.com/s7/default/71e0b4be42544329a4dd2dd44b7a01fe/TT_Motor_DC5V_59RPM_CCW_Single_Axis.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "TT Motor (DC5V 59RPM CCW Single Axis)/TT Motor - LA001.stl",
       "blob_path": "data/blobs/sha256/aa/aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c.stl",
       "id": "model-c63027c1f828a2a8c1ec",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-e370a87ad0d874fbc617",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c",
       "size": 4143684,
       "source_url": "https://store.bblcdn.com/s7/default/71e0b4be42544329a4dd2dd44b7a01fe/TT_Motor_DC5V_59RPM_CCW_Single_Axis.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "TT Motor (DC5V 59RPM CCW Single Axis)/TT Motor - LA001.stp",
       "blob_path": "data/blobs/sha256/a0/a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c.stp",
       "id": "model-8a2434a8f9d6100f561d",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-e370a87ad0d874fbc617",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c",
       "size": 199317,
       "source_url": "https://store.bblcdn.com/s7/default/71e0b4be42544329a4dd2dd44b7a01fe/TT_Motor_DC5V_59RPM_CCW_Single_Axis.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/82/82212ee99a1d23c1864f6003b766fbacd5754f339d31c2ee7a313ec1ebe20d8f.png",
       "id": "image-display-7fa46706798310830216",
       "image_processing": {
@@ -139,11 +166,13 @@
       "parent_asset_id": "image-1f1f513ea6342ca814bd",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "82212ee99a1d23c1864f6003b766fbacd5754f339d31c2ee7a313ec1ebe20d8f",
       "size": 132365,
       "source_url": "https://store.bblcdn.com/s7/default/f20e4acd12ac4679ab96d645b5ac386f/TTMotor_DC5V59RPMCCWSingleAxis_5fb8ef4c-3aaf-4a6d-88fa-ea1f7e5c55ef.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fb/fbdd14c376160853c32cfa4c4d0cb6e20ed32b2bff22e0c6f984c15ab3a3b128.png",
       "id": "image-display-4ceddb4d60e7261718f4",
       "image_processing": {
@@ -161,11 +190,13 @@
       "parent_asset_id": "image-382f1451e63d0f06d964",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fbdd14c376160853c32cfa4c4d0cb6e20ed32b2bff22e0c6f984c15ab3a3b128",
       "size": 742754,
       "source_url": "https://store.bblcdn.com/s7/default/f216e803137f4e96ac24e135c8c467f6/B-KC008.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2c/2c6f3761d461ef5c85f6d5b3e25683a0a3ec2bf446a523671da09c040b1f2b05.png",
       "id": "image-display-7b1f70288fd85c3d6be2",
       "image_processing": {
@@ -183,6 +214,7 @@
       "parent_asset_id": "image-45901b1eedf629e3929c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2c6f3761d461ef5c85f6d5b3e25683a0a3ec2bf446a523671da09c040b1f2b05",
       "size": 691595,
       "source_url": "https://store.bblcdn.com/s7/default/ed7e3c0cdec74acaa9e54b9ba3ad8a8e/TT_motor_Z.jpg"
@@ -212,6 +244,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "la001-tt-motor-dc5v-59rpm-ccw-single-axis",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001",
   "offers": [
@@ -223,6 +256,7 @@
       "price": "5.49",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
     },
     {
@@ -233,6 +267,7 @@
       "price": "6.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
     },
     {
@@ -243,6 +278,7 @@
       "price": "5.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
     },
     {
@@ -253,6 +289,7 @@
       "price": "4.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
     },
     {
@@ -263,6 +300,7 @@
       "price": "11.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
     },
     {
@@ -273,6 +311,7 @@
       "price": "4.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/tt-motor-dc5v-59rpm-ccw-single-axis?skr=yes"
     }
   ],
@@ -400,6 +439,7 @@
     "Starting Voltage": "≤4.0V",
     "Temperature Range": "-10℃～+65℃"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -410,6 +450,7 @@
       "price": "5.49",
       "region": "us",
       "sku": "42106729398408",
+      "store_id": "",
       "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
       "url": "https://us.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=42106729398408",
       "variant_id": "42106729398408"
@@ -422,6 +463,7 @@
       "price": "6.99",
       "region": "ca",
       "sku": "45651265159408",
+      "store_id": "",
       "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
       "url": "https://ca.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=45651265159408",
       "variant_id": "45651265159408"
@@ -434,6 +476,7 @@
       "price": "5.99",
       "region": "eu",
       "sku": "47967270928732",
+      "store_id": "",
       "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
       "url": "https://eu.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=47967270928732",
       "variant_id": "47967270928732"
@@ -446,6 +489,7 @@
       "price": "4.99",
       "region": "uk",
       "sku": "41314639577148",
+      "store_id": "",
       "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
       "url": "https://uk.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=41314639577148",
       "variant_id": "41314639577148"
@@ -458,6 +502,7 @@
       "price": "11.99",
       "region": "au",
       "sku": "44156722643107",
+      "store_id": "",
       "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
       "url": "https://au.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=44156722643107",
       "variant_id": "44156722643107"
@@ -470,6 +515,7 @@
       "price": "4.99",
       "region": "asia",
       "sku": "41568341622899",
+      "store_id": "",
       "title": "TT Motor DC5V 59RPM CCW Single Axis(1PCS) - LA001 - TT Motor (DC5V 59RPM CCW Single Axis) -1PCS - LA001",
       "url": "https://asia.store.bambulab.com/products/tt-motor-dc5v-59rpm-ccw-single-axis?id=41568341622899",
       "variant_id": "41568341622899"

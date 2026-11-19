@@ -4,36 +4,49 @@
     {
       "handle": "ams-drawer-for-x-p-series-with-printed-slides",
       "product_id": "778841924084719616",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-drawer-for-x-p-series-with-printed-slides",
       "product_id": "778844079126503424",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-drawer-for-x-p-series-with-printed-slides",
       "product_id": "778839969677451264",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-drawer-for-x-p-series-with-printed-slides",
       "product_id": "778843111567663104",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-drawer-for-x-p-series-with-printed-slides",
       "product_id": "778851395733315584",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-drawer-for-x-p-series-with-printed-slides",
       "product_id": "774102298900082688",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fa/faf70687d00a5c1f3ed94352de9a8af1f143d4130a6e243e79eba92d3b74cc92.png",
       "id": "image-2ba2a0de4135c19c4b9f",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH174_M.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "faf70687d00a5c1f3ed94352de9a8af1f143d4130a6e243e79eba92d3b74cc92",
       "size": 3252422,
       "source_url": "https://store.bblcdn.com/s7/default/a37e8ce03ef1463a8df208c0f6d2f3a3/B-ZH174_M.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/99/99353c4e26f10cf7b3818d501aa835f96512c50b2469d98482026257adc8e716.png",
       "id": "image-2b5d7c599a7aa62230d1",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH174_V.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "99353c4e26f10cf7b3818d501aa835f96512c50b2469d98482026257adc8e716",
       "size": 405708,
       "source_url": "https://store.bblcdn.com/s7/default/1c24c8ac457a4221b8c097b559185288/B-ZH174_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/16/16765d3691939ef617a889d55d8ead85f2a4a30d1aef115db31c9994fd406bca.png",
       "id": "image-display-2c396594899a53ab7a0b",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-2ba2a0de4135c19c4b9f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "16765d3691939ef617a889d55d8ead85f2a4a30d1aef115db31c9994fd406bca",
       "size": 854829,
       "source_url": "https://store.bblcdn.com/s7/default/a37e8ce03ef1463a8df208c0f6d2f3a3/B-ZH174_M.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2a/2abb630bc8490fb44643106c0f4b41cd32a4d050071a09e5a2ba90af57d2da5f.png",
       "id": "image-display-c3819ed8bc4a410b2aa8",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-2b5d7c599a7aa62230d1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2abb630bc8490fb44643106c0f4b41cd32a4d050071a09e5a2ba90af57d2da5f",
       "size": 95234,
       "source_url": "https://store.bblcdn.com/s7/default/1c24c8ac457a4221b8c097b559185288/B-ZH174_V.png"
@@ -163,7 +183,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional AMS Drawer for X/P-Series with Printed Slides. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the AMS Drawer for X/P-Series with Printed Slides on MakerWorld.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zh174-ams-drawer-for-x-p-series-with-printed-slides",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "AMS Drawer for X/P-Series with Printed Slides",
   "offers": [
@@ -175,6 +196,7 @@
       "price": "16.88",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/ams-drawer-for-x-p-series-with-printed-slides?skr=yes"
     },
     {
@@ -185,6 +207,7 @@
       "price": "20.91",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/ams-drawer-for-x-p-series-with-printed-slides?skr=yes"
     },
     {
@@ -195,6 +218,7 @@
       "price": "17.89",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/ams-drawer-for-x-p-series-with-printed-slides?skr=yes"
     },
     {
@@ -205,6 +229,7 @@
       "price": "15.49",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/ams-drawer-for-x-p-series-with-printed-slides?skr=yes"
     },
     {
@@ -215,6 +240,7 @@
       "price": "29.44",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/ams-drawer-for-x-p-series-with-printed-slides?skr=yes"
     },
     {
@@ -225,6 +251,7 @@
       "price": "16.25",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/ams-drawer-for-x-p-series-with-printed-slides?skr=yes"
     }
   ],
@@ -279,6 +306,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -291,6 +319,7 @@
       "price": "16.88",
       "region": "us",
       "sku": "778841924097302530",
+      "store_id": "",
       "title": "AMS Drawer for X/P-Series with Printed Slides - AMS Drawer for X/P-Series with Printed Slides - ZH174",
       "url": "https://us.store.bambulab.com/products/ams-drawer-for-x-p-series-with-printed-slides?id=778841924097302530",
       "variant_id": "778841924097302530"
@@ -303,6 +332,7 @@
       "price": "20.91",
       "region": "ca",
       "sku": "778844079139086336",
+      "store_id": "",
       "title": "AMS Drawer for X/P-Series with Printed Slides - AMS Drawer for X/P-Series with Printed Slides - ZH174",
       "url": "https://ca.store.bambulab.com/products/ams-drawer-for-x-p-series-with-printed-slides?id=778844079139086336",
       "variant_id": "778844079139086336"
@@ -315,6 +345,7 @@
       "price": "17.89",
       "region": "eu",
       "sku": "778839969752948738",
+      "store_id": "",
       "title": "AMS Drawer for X/P-Series with Printed Slides - AMS Drawer for X/P-Series with Printed Slides - ZH174",
       "url": "https://eu.store.bambulab.com/products/ams-drawer-for-x-p-series-with-printed-slides?id=778839969752948738",
       "variant_id": "778839969752948738"
@@ -327,6 +358,7 @@
       "price": "15.49",
       "region": "uk",
       "sku": "778843111584440322",
+      "store_id": "",
       "title": "AMS Drawer for X/P-Series with Printed Slides - AMS Drawer for X/P-Series with Printed Slides - ZH174",
       "url": "https://uk.store.bambulab.com/products/ams-drawer-for-x-p-series-with-printed-slides?id=778843111584440322",
       "variant_id": "778843111584440322"
@@ -339,6 +371,7 @@
       "price": "29.44",
       "region": "au",
       "sku": "778851395745898498",
+      "store_id": "",
       "title": "AMS Drawer for X/P-Series with Printed Slides - AMS Drawer for X/P-Series with Printed Slides - ZH174",
       "url": "https://au.store.bambulab.com/products/ams-drawer-for-x-p-series-with-printed-slides?id=778851395745898498",
       "variant_id": "778851395745898498"
@@ -351,6 +384,7 @@
       "price": "16.25",
       "region": "asia",
       "sku": "774102298971385858",
+      "store_id": "",
       "title": "AMS Drawer for X/P-Series with Printed Slides - AMS Drawer for X/P-Series with Printed Slides - ZH174",
       "url": "https://asia.store.bambulab.com/products/ams-drawer-for-x-p-series-with-printed-slides?id=774102298971385858",
       "variant_id": "774102298971385858"

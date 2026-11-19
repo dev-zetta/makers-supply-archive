@@ -4,36 +4,49 @@
     {
       "handle": "victorian-clock-tower-a-book-nook-timepiece",
       "product_id": "729574054176628736",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "victorian-clock-tower-a-book-nook-timepiece",
       "product_id": "729575460526145536",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "victorian-clock-tower-a-book-nook-timepiece",
       "product_id": "729575018819366912",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "victorian-clock-tower-a-book-nook-timepiece",
       "product_id": "729576289929826304",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "victorian-clock-tower-a-book-nook-timepiece",
       "product_id": "729575831771217920",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "victorian-clock-tower-a-book-nook-timepiece",
       "product_id": "729569511586185216",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c0/c0037f1db7ffbdc4bd4661567baf039947beea393fd15a2498f6c99b087b86a6.png",
       "id": "image-4736eeaf63e613f69126",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH131.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c0037f1db7ffbdc4bd4661567baf039947beea393fd15a2498f6c99b087b86a6",
       "size": 4659618,
       "source_url": "https://store.bblcdn.com/s7/default/47853e1b7e8b47e2907463c805ac5655/B-ZH131.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/67/6761cc5519af4128f69b13384b14dd398e376778401020a18b10877b9718c940.png",
       "id": "image-7aeb1b00f82af74c19ce",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH131.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6761cc5519af4128f69b13384b14dd398e376778401020a18b10877b9718c940",
       "size": 338993,
       "source_url": "https://store.bblcdn.com/s7/default/bd3c0360e9644460851d2dffacd7c337/ZH131.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cb/cb021d714bd6e46686d9bf2679849168614424410eb6d8ffe94b47f60fb6445a.png",
       "id": "image-display-6bfe0cef67673ceb0432",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-4736eeaf63e613f69126",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cb021d714bd6e46686d9bf2679849168614424410eb6d8ffe94b47f60fb6445a",
       "size": 1071766,
       "source_url": "https://store.bblcdn.com/s7/default/47853e1b7e8b47e2907463c805ac5655/B-ZH131.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ff/ff00a17f6a496ff3c7c8c4971391f3ccc6aa9557b6053118cd571ea4c3003e2d.png",
       "id": "image-display-d0504b04bd76edf1142c",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-7aeb1b00f82af74c19ce",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ff00a17f6a496ff3c7c8c4971391f3ccc6aa9557b6053118cd571ea4c3003e2d",
       "size": 80492,
       "source_url": "https://store.bblcdn.com/s7/default/bd3c0360e9644460851d2dffacd7c337/ZH131.png"
@@ -156,7 +176,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Victorian Clock Tower - A Book Nook Timepiece. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Victorian Clock Tower - A Book Nook Timepiece on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh131-victorian-clock-tower-a-book-nook-timepiece",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Victorian Clock Tower - A Book Nook Timepiece",
   "offers": [
@@ -168,6 +189,7 @@
       "price": "18.89",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/victorian-clock-tower-a-book-nook-timepiece?skr=yes"
     },
     {
@@ -178,6 +200,7 @@
       "price": "22.38",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/victorian-clock-tower-a-book-nook-timepiece?skr=yes"
     },
     {
@@ -188,6 +211,7 @@
       "price": "19.31",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/victorian-clock-tower-a-book-nook-timepiece?skr=yes"
     },
     {
@@ -198,6 +222,7 @@
       "price": "14.91",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/victorian-clock-tower-a-book-nook-timepiece?skr=yes"
     },
     {
@@ -208,6 +233,7 @@
       "price": "30.87",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/victorian-clock-tower-a-book-nook-timepiece?skr=yes"
     },
     {
@@ -218,6 +244,7 @@
       "price": "16.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/victorian-clock-tower-a-book-nook-timepiece?skr=yes"
     }
   ],
@@ -268,6 +295,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -280,6 +308,7 @@
       "price": "18.89",
       "region": "us",
       "sku": "729574054226960384",
+      "store_id": "",
       "title": "Victorian Clock Tower - A Book Nook Timepiece - Victorian Clock Tower - A Book Nook Timepiece - ZH131",
       "url": "https://us.store.bambulab.com/products/victorian-clock-tower-a-book-nook-timepiece?id=729574054226960384",
       "variant_id": "729574054226960384"
@@ -292,6 +321,7 @@
       "price": "22.38",
       "region": "ca",
       "sku": "729575460538728450",
+      "store_id": "",
       "title": "Victorian Clock Tower - A Book Nook Timepiece - Victorian Clock Tower - A Book Nook Timepiece - ZH131",
       "url": "https://ca.store.bambulab.com/products/victorian-clock-tower-a-book-nook-timepiece?id=729575460538728450",
       "variant_id": "729575460538728450"
@@ -304,6 +334,7 @@
       "price": "19.31",
       "region": "eu",
       "sku": "729575018840338432",
+      "store_id": "",
       "title": "Victorian Clock Tower - A Book Nook Timepiece - Victorian Clock Tower - A Book Nook Timepiece - ZH131",
       "url": "https://eu.store.bambulab.com/products/victorian-clock-tower-a-book-nook-timepiece?id=729575018840338432",
       "variant_id": "729575018840338432"
@@ -316,6 +347,7 @@
       "price": "14.91",
       "region": "uk",
       "sku": "729576289992740866",
+      "store_id": "",
       "title": "Victorian Clock Tower - A Book Nook Timepiece - Victorian Clock Tower - A Book Nook Timepiece - ZH131",
       "url": "https://uk.store.bambulab.com/products/victorian-clock-tower-a-book-nook-timepiece?id=729576289992740866",
       "variant_id": "729576289992740866"
@@ -328,6 +360,7 @@
       "price": "30.87",
       "region": "au",
       "sku": "729575831792189440",
+      "store_id": "",
       "title": "Victorian Clock Tower - A Book Nook Timepiece - Victorian Clock Tower - A Book Nook Timepiece - ZH131",
       "url": "https://au.store.bambulab.com/products/victorian-clock-tower-a-book-nook-timepiece?id=729575831792189440",
       "variant_id": "729575831792189440"
@@ -340,6 +373,7 @@
       "price": "16.99",
       "region": "asia",
       "sku": "729569511602962434",
+      "store_id": "",
       "title": "Victorian Clock Tower - A Book Nook Timepiece - Victorian Clock Tower - A Book Nook Timepiece - ZH131",
       "url": "https://asia.store.bambulab.com/products/victorian-clock-tower-a-book-nook-timepiece?id=729569511602962434",
       "variant_id": "729569511602962434"

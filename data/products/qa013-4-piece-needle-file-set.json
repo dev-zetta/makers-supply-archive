@@ -4,36 +4,49 @@
     {
       "handle": "4-piece-needle-file-set",
       "product_id": "670488638418518016",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "4-piece-needle-file-set",
       "product_id": "670779746625048576",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "4-piece-needle-file-set",
       "product_id": "670779093589475328",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "4-piece-needle-file-set",
       "product_id": "670779532682604544",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "4-piece-needle-file-set",
       "product_id": "670779926221811712",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-needle-file-set",
       "product_id": "670780081358204928",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4f/4fbc31e6e0f859a1dcba9c1cf3f272abab9dd2c56c232ce667daa6ccae8904c6.png",
       "id": "image-0282c3dba635e237619b",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "QA013.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4fbc31e6e0f859a1dcba9c1cf3f272abab9dd2c56c232ce667daa6ccae8904c6",
       "size": 5056634,
       "source_url": "https://store.bblcdn.com/s7/default/775709cdfe534f38858d261e623d2b57/QA013.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f9/f992a8d1712eafe403ca6010b5eba78adfdde62fae7d88d17a77b87d3324c5b8.jpg",
       "id": "image-ab6ac7849432a7993e07",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "Group_47954.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f992a8d1712eafe403ca6010b5eba78adfdde62fae7d88d17a77b87d3324c5b8",
       "size": 3678307,
       "source_url": "https://store.bblcdn.com/s7/default/e6235853db2e404da64465c8654397dc/Group_47954.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3a/3aef2c7ea2a623e3adbe0cdc7f185444e435ee1725d2c1ca43946dbc4e47cb4d.png",
       "id": "image-d5a7f307a4b7191256d3",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "Group_1312317869.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3aef2c7ea2a623e3adbe0cdc7f185444e435ee1725d2c1ca43946dbc4e47cb4d",
       "size": 7948063,
       "source_url": "https://store.bblcdn.com/s7/default/f51335a66ac6414ea95b184b76d9bc6b/Group_1312317869.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/06/06595ac278649cd0f604bdf10c291d916ff0d1af6607a32782f732d1bc50a8ec.png",
       "id": "image-display-02fe630299f006571f74",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-0282c3dba635e237619b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "06595ac278649cd0f604bdf10c291d916ff0d1af6607a32782f732d1bc50a8ec",
       "size": 129381,
       "source_url": "https://store.bblcdn.com/s7/default/775709cdfe534f38858d261e623d2b57/QA013.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/64/6470371e7081dcb4aa53b24e9b708ede08fd95741ac8550694d2e95b49e1ff0f.png",
       "id": "image-display-17fe239d10452bf41cc3",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-ab6ac7849432a7993e07",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6470371e7081dcb4aa53b24e9b708ede08fd95741ac8550694d2e95b49e1ff0f",
       "size": 802551,
       "source_url": "https://store.bblcdn.com/s7/default/e6235853db2e404da64465c8654397dc/Group_47954.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d4/d495c2babbf02448396a4f2d76d3f5d69338a4b6d2f020278590c5dc09d33a0c.png",
       "id": "image-display-4bc003868c0702cdcaf8",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-d5a7f307a4b7191256d3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d495c2babbf02448396a4f2d76d3f5d69338a4b6d2f020278590c5dc09d33a0c",
       "size": 722990,
       "source_url": "https://store.bblcdn.com/s7/default/f51335a66ac6414ea95b184b76d9bc6b/Group_1312317869.png"
@@ -204,6 +228,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "qa013-4-piece-needle-file-set",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Effective Filing Length",
@@ -234,6 +259,7 @@
       "price": "4.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/4-piece-needle-file-set?skr=yes"
     },
     {
@@ -244,6 +270,7 @@
       "price": "6.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/4-piece-needle-file-set?skr=yes"
     },
     {
@@ -254,6 +281,7 @@
       "price": "5.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/4-piece-needle-file-set?skr=yes"
     },
     {
@@ -264,6 +292,7 @@
       "price": "4.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/4-piece-needle-file-set?skr=yes"
     },
     {
@@ -274,6 +303,7 @@
       "price": "7.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/4-piece-needle-file-set?skr=yes"
     },
     {
@@ -284,6 +314,7 @@
       "price": "4.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/maker-s-supply-needle-file-set?skr=yes"
     }
   ],
@@ -356,6 +387,7 @@
     "Surface": "Sandblasted",
     "Tooth Density": "Fine teeth (240 grit), ~23 teeth per cm"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -365,6 +397,7 @@
       "price": "4.99",
       "region": "us",
       "sku": "670488638435295234",
+      "store_id": "",
       "title": "Maker's Supply Needle File Set - 4-piece Needle File Set",
       "url": "https://us.store.bambulab.com/products/4-piece-needle-file-set?id=670488638435295234",
       "variant_id": "670488638435295234"
@@ -376,6 +409,7 @@
       "price": "6.99",
       "region": "ca",
       "sku": "670779746675380226",
+      "store_id": "",
       "title": "Maker's Supply Needle File Set - 4-piece Needle File Set",
       "url": "https://ca.store.bambulab.com/products/4-piece-needle-file-set?id=670779746675380226",
       "variant_id": "670779746675380226"
@@ -387,6 +421,7 @@
       "price": "5.99",
       "region": "eu",
       "sku": "670779093602058242",
+      "store_id": "",
       "title": "Maker's Supply Needle File Set - 4-piece Needle File Set",
       "url": "https://eu.store.bambulab.com/products/4-piece-needle-file-set?id=670779093602058242",
       "variant_id": "670779093602058242"
@@ -398,6 +433,7 @@
       "price": "4.99",
       "region": "uk",
       "sku": "670779532699381762",
+      "store_id": "",
       "title": "Maker's Supply Needle File Set - 4-piece Needle File Set",
       "url": "https://uk.store.bambulab.com/products/4-piece-needle-file-set?id=670779532699381762",
       "variant_id": "670779532699381762"
@@ -409,6 +445,7 @@
       "price": "7.99",
       "region": "au",
       "sku": "670779926263754752",
+      "store_id": "",
       "title": "Maker's Supply Needle File Set - 4-piece Needle File Set",
       "url": "https://au.store.bambulab.com/products/4-piece-needle-file-set?id=670779926263754752",
       "variant_id": "670779926263754752"
@@ -420,6 +457,7 @@
       "price": "4.99",
       "region": "asia",
       "sku": "670780081370787842",
+      "store_id": "",
       "title": "Maker's Supply Needle File Set - 4-piece Needle File Set",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-needle-file-set?id=670780081370787842",
       "variant_id": "670780081370787842"

@@ -4,31 +4,42 @@
     {
       "handle": "reading-ghost-halloween-tea-light-decor",
       "product_id": "8384173998216",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "reading-ghost-halloween-tea-light-decor",
       "product_id": "9045032468720",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "reading-ghost-halloween-tea-light-decor",
       "product_id": "9613782876508",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "reading-ghost-halloween-tea-light-decor",
       "product_id": "7804789817404",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "reading-ghost-halloween-tea-light-decor",
       "product_id": "517120686663081984",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/13/13679438c79db14aa4e122e1ffc7a4f1e136212297179e6f78a94fea145de1e2.jpg",
       "id": "image-e79bbd290cc5fb706715",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "TREE2_f72622a5-58e3-427a-9a00-bb85324b959d.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "13679438c79db14aa4e122e1ffc7a4f1e136212297179e6f78a94fea145de1e2",
       "size": 64779,
       "source_url": "https://store.bblcdn.com/s7/default/52e3f3513d83418d863f3db19cbdb1e8/TREE2_f72622a5-58e3-427a-9a00-bb85324b959d.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/74/74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0.png",
       "id": "image-e722e14fa7f48ab0d101",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "flame_847ca5cc-84f4-4059-bc9f-0fea2459007b.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0",
       "size": 216756,
       "source_url": "https://store.bblcdn.com/s7/default/e197e8f6808c4a85b0e093744c3a0baf/flame_847ca5cc-84f4-4059-bc9f-0fea2459007b.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ac/acd643aad7b3317cfb8ff36cf34081ec1a1c47d28d23c431152ff49e55ccc4c1.png",
       "id": "image-display-fccc757b4052818f1b77",
       "image_processing": {
@@ -70,11 +85,13 @@
       "parent_asset_id": "image-e79bbd290cc5fb706715",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "acd643aad7b3317cfb8ff36cf34081ec1a1c47d28d23c431152ff49e55ccc4c1",
       "size": 350403,
       "source_url": "https://store.bblcdn.com/s7/default/52e3f3513d83418d863f3db19cbdb1e8/TREE2_f72622a5-58e3-427a-9a00-bb85324b959d.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/45/450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037.png",
       "id": "image-display-736b80c64f7ea342b40f",
       "image_processing": {
@@ -92,6 +109,7 @@
       "parent_asset_id": "image-e722e14fa7f48ab0d101",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037",
       "size": 69316,
       "source_url": "https://store.bblcdn.com/s7/default/e197e8f6808c4a85b0e093744c3a0baf/flame_847ca5cc-84f4-4059-bc9f-0fea2459007b.png"
@@ -143,7 +161,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Reading Ghost Halloween Tea Light Decor. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Reading Ghost Halloween Tea Light Decor and obtain detailed information, please visit the Reading Ghost Halloween Tea Light Decor on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "dy015-reading-ghost-halloween-tea-light-decor",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Reading Ghost Halloween Tea Light Decor",
   "offers": [
@@ -155,6 +174,7 @@
       "price": "8.79",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/reading-ghost-halloween-tea-light-decor?skr=yes"
     },
     {
@@ -165,6 +185,7 @@
       "price": "10.12",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/reading-ghost-halloween-tea-light-decor?skr=yes"
     },
     {
@@ -175,6 +196,7 @@
       "price": "8.28",
       "region": "eu",
       "retrieved_at": "2026-11-10T14:27:25Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/reading-ghost-halloween-tea-light-decor?skr=yes"
     },
     {
@@ -185,6 +207,7 @@
       "price": "7.03",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/reading-ghost-halloween-tea-light-decor?skr=yes"
     },
     {
@@ -195,6 +218,7 @@
       "price": "7.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/reading-ghost-halloween-tea-light-decor?skr=yes"
     }
   ],
@@ -238,6 +262,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -250,6 +275,7 @@
       "price": "8.79",
       "region": "us",
       "sku": "42961344331912",
+      "store_id": "",
       "title": "Reading Ghost Halloween Tea Light Decor - Reading Ghost Halloween Tea Light Decor - DY015",
       "url": "https://us.store.bambulab.com/products/reading-ghost-halloween-tea-light-decor?id=42961344331912",
       "variant_id": "42961344331912"
@@ -262,6 +288,7 @@
       "price": "10.12",
       "region": "ca",
       "sku": "46629896192240",
+      "store_id": "",
       "title": "Reading Ghost Halloween Tea Light Decor - Reading Ghost Halloween Tea Light Decor - DY015",
       "url": "https://ca.store.bambulab.com/products/reading-ghost-halloween-tea-light-decor?id=46629896192240",
       "variant_id": "46629896192240"
@@ -274,6 +301,7 @@
       "price": "8.28",
       "region": "eu",
       "sku": "49450972676444",
+      "store_id": "",
       "title": "Reading Ghost Halloween Tea Light Decor - Reading Ghost Halloween Tea Light Decor - DY015",
       "url": "https://eu.store.bambulab.com/products/reading-ghost-halloween-tea-light-decor?id=49450972676444",
       "variant_id": "49450972676444"
@@ -286,6 +314,7 @@
       "price": "7.03",
       "region": "uk",
       "sku": "42214531334204",
+      "store_id": "",
       "title": "Reading Ghost Halloween Tea Light Decor - Reading Ghost Halloween Tea Light Decor - DY015",
       "url": "https://uk.store.bambulab.com/products/reading-ghost-halloween-tea-light-decor?id=42214531334204",
       "variant_id": "42214531334204"
@@ -298,6 +327,7 @@
       "price": "7.99",
       "region": "asia",
       "sku": "517120686667276291",
+      "store_id": "",
       "title": "Reading Ghost Halloween Tea Light Decor - Reading Ghost Halloween Tea Light Decor - DY015",
       "url": "https://asia.store.bambulab.com/products/reading-ghost-halloween-tea-light-decor?id=517120686667276291",
       "variant_id": "517120686667276291"

@@ -4,36 +4,49 @@
     {
       "handle": "apex-legends-wingman-with-reload-mechanics",
       "product_id": "8341845475464",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "apex-legends-wingman-with-reload-mechanics",
       "product_id": "9008816161008",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "apex-legends-wingman-with-reload-mechanics",
       "product_id": "9567376867676",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "apex-legends-wingman-with-reload-mechanics",
       "product_id": "7778388541500",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "apex-legends-wingman-with-reload-mechanics",
       "product_id": "508063992748244992",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "apex-legends-wingman-with-reload-mechanics",
       "product_id": "507682362555969536",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4e/4e51f60b994714aaf5e8ab1a6054374a979f4fd194ecda75bd7a1f43a550854d.jpg",
       "id": "image-f99af94601aca0c8f497",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "Apex.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4e51f60b994714aaf5e8ab1a6054374a979f4fd194ecda75bd7a1f43a550854d",
       "size": 51415,
       "source_url": "https://store.bblcdn.com/s7/default/d7be4cb88e084b3d93f6ae0567870fbb/Apex.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/94/941ba922d3faf17df839e54300052169bff9893fa2d83aa5e8e19a870a219144.png",
       "id": "image-f7979007b3dcf9ac4154",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-DY001-1-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "941ba922d3faf17df839e54300052169bff9893fa2d83aa5e8e19a870a219144",
       "size": 352805,
       "source_url": "https://store.bblcdn.com/s7/default/a2d96cc199ac414f8ec5c92eff80e8ad/B-DY001-1-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8b/8b608a69182d99c17ad814e0d79cd6b2833e7afd954728ff8e2af0727aacdcfc.png",
       "id": "image-display-bfe71afd4c84ecb4c255",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-f99af94601aca0c8f497",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8b608a69182d99c17ad814e0d79cd6b2833e7afd954728ff8e2af0727aacdcfc",
       "size": 186543,
       "source_url": "https://store.bblcdn.com/s7/default/d7be4cb88e084b3d93f6ae0567870fbb/Apex.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b3/b3c389ef160e090c1ffb738b3c7a7474fca9096869303833ea0aea44c00e6623.png",
       "id": "image-display-8f73a632386b08f5d057",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-f7979007b3dcf9ac4154",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b3c389ef160e090c1ffb738b3c7a7474fca9096869303833ea0aea44c00e6623",
       "size": 124020,
       "source_url": "https://store.bblcdn.com/s7/default/a2d96cc199ac414f8ec5c92eff80e8ad/B-DY001-1-1.png"
@@ -156,7 +176,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling various functional Apex Legends Wingman with Reload Mechanics. To complete the work, you also need to download the Apex Legends Wingman with Reload Mechanics and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh018-apex-legends-wingman-with-reload-mechanics",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Apex Legends Wingman with Reload Mechanics",
   "offers": [
@@ -168,6 +189,7 @@
       "price": "5.06",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/apex-legends-wingman-with-reload-mechanics?skr=yes"
     },
     {
@@ -178,6 +200,7 @@
       "price": "5.81",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/apex-legends-wingman-with-reload-mechanics?skr=yes"
     },
     {
@@ -188,6 +211,7 @@
       "price": "4.76",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/apex-legends-wingman-with-reload-mechanics?skr=yes"
     },
     {
@@ -198,6 +222,7 @@
       "price": "4.04",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/apex-legends-wingman-with-reload-mechanics?skr=yes"
     },
     {
@@ -208,6 +233,7 @@
       "price": "9.12",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/apex-legends-wingman-with-reload-mechanics?skr=yes"
     },
     {
@@ -218,6 +244,7 @@
       "price": "4.59",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/apex-legends-wingman-with-reload-mechanics?skr=yes"
     }
   ],
@@ -293,6 +320,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -305,6 +333,7 @@
       "price": "5.06",
       "region": "us",
       "sku": "42879147573384",
+      "store_id": "",
       "title": "Apex Legends Wingman with Reload Mechanics - Apex Legends Wingman with Reload Mechanics - ZH018",
       "url": "https://us.store.bambulab.com/products/apex-legends-wingman-with-reload-mechanics?id=42879147573384",
       "variant_id": "42879147573384"
@@ -317,6 +346,7 @@
       "price": "5.81",
       "region": "ca",
       "sku": "46545012359408",
+      "store_id": "",
       "title": "Apex Legends Wingman with Reload Mechanics - Apex Legends Wingman with Reload Mechanics - ZH018",
       "url": "https://ca.store.bambulab.com/products/apex-legends-wingman-with-reload-mechanics?id=46545012359408",
       "variant_id": "46545012359408"
@@ -329,6 +359,7 @@
       "price": "4.76",
       "region": "eu",
       "sku": "49309534781788",
+      "store_id": "",
       "title": "Apex Legends Wingman with Reload Mechanics - Apex Legends Wingman with Reload Mechanics - ZH018",
       "url": "https://eu.store.bambulab.com/products/apex-legends-wingman-with-reload-mechanics?id=49309534781788",
       "variant_id": "49309534781788"
@@ -341,6 +372,7 @@
       "price": "4.04",
       "region": "uk",
       "sku": "42148084056124",
+      "store_id": "",
       "title": "Apex Legends Wingman with Reload Mechanics - Apex Legends Wingman with Reload Mechanics - ZH018",
       "url": "https://uk.store.bambulab.com/products/apex-legends-wingman-with-reload-mechanics?id=42148084056124",
       "variant_id": "42148084056124"
@@ -353,6 +385,7 @@
       "price": "9.12",
       "region": "au",
       "sku": "508063992756633603",
+      "store_id": "",
       "title": "Apex Legends Wingman with Reload Mechanics - Apex Legends Wingman - ZH018",
       "url": "https://au.store.bambulab.com/products/apex-legends-wingman-with-reload-mechanics?id=508063992756633603",
       "variant_id": "508063992756633603"
@@ -365,6 +398,7 @@
       "price": "4.59",
       "region": "asia",
       "sku": "507682362555969540",
+      "store_id": "",
       "title": "Apex Legends Wingman with Reload Mechanics - Apex Legends Wingman - ZH018",
       "url": "https://asia.store.bambulab.com/products/apex-legends-wingman-with-reload-mechanics?id=507682362555969540",
       "variant_id": "507682362555969540"

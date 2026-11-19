@@ -4,36 +4,49 @@
     {
       "handle": "led-light-strip-remote-controller",
       "product_id": "8427764646024",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "led-light-strip-remote-controller",
       "product_id": "542910884932616192",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "led-light-strip-remote-controller",
       "product_id": "14805200273756",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "led-light-strip-remote-controller",
       "product_id": "542910698205257728",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "led-light-strip-remote-controller",
       "product_id": "542910563487944704",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "led-light-strip-remote-controller",
       "product_id": "542910349210570752",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2d/2ddf0377d19777b0e411255cdf3b6867d75d9203178976ac6b22d751e2adb1f6.png",
       "id": "image-6a26a853d19b26c1c494",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "KC019_-_2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2ddf0377d19777b0e411255cdf3b6867d75d9203178976ac6b22d751e2adb1f6",
       "size": 651495,
       "source_url": "https://store.bblcdn.com/s7/default/c491a7342c1049c598d11d415af8bd08/KC019_-_2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e6/e6499919f2a0414ba0d2f405cce97296d67346e7f7a62af60c5cbdd973dd7901.png",
       "id": "image-display-dc93138edb2f51149d70",
       "image_processing": {
@@ -63,6 +78,7 @@
       "parent_asset_id": "image-6a26a853d19b26c1c494",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e6499919f2a0414ba0d2f405cce97296d67346e7f7a62af60c5cbdd973dd7901",
       "size": 160896,
       "source_url": "https://store.bblcdn.com/s7/default/c491a7342c1049c598d11d415af8bd08/KC019_-_2.png"
@@ -125,6 +141,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "kc019-led-light-strip-remote-controller",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "LED Light Strip Remote Controller",
   "offers": [
@@ -136,6 +153,7 @@
       "price": "6.59",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/led-light-strip-remote-controller?skr=yes"
     },
     {
@@ -146,6 +164,7 @@
       "price": "7.58",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/led-light-strip-remote-controller?skr=yes"
     },
     {
@@ -156,6 +175,7 @@
       "price": "6.21",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/led-light-strip-remote-controller?skr=yes"
     },
     {
@@ -166,6 +186,7 @@
       "price": "5.27",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/led-light-strip-remote-controller?skr=yes"
     },
     {
@@ -176,6 +197,7 @@
       "price": "11.9",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/led-light-strip-remote-controller?skr=yes"
     },
     {
@@ -186,6 +208,7 @@
       "price": "5.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/led-light-strip-remote-controller?skr=yes"
     }
   ],
@@ -230,6 +253,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -242,6 +266,7 @@
       "price": "6.59",
       "region": "us",
       "sku": "43114242015368",
+      "store_id": "",
       "title": "LED Light Strip Remote Controller - LED Light Strip Remote Controller - KC019",
       "url": "https://us.store.bambulab.com/products/led-light-strip-remote-controller?id=43114242015368",
       "variant_id": "43114242015368"
@@ -254,6 +279,7 @@
       "price": "7.58",
       "region": "ca",
       "sku": "542910884941004802",
+      "store_id": "",
       "title": "LED Light Strip Remote Controller - LED Light Strip Remote Controller - KC019",
       "url": "https://ca.store.bambulab.com/products/led-light-strip-remote-controller?id=542910884941004802",
       "variant_id": "542910884941004802"
@@ -266,6 +292,7 @@
       "price": "6.21",
       "region": "eu",
       "sku": "53602847916380",
+      "store_id": "",
       "title": "LED Light Strip Remote Controller - LED Light Strip Remote Controller - KC019",
       "url": "https://eu.store.bambulab.com/products/led-light-strip-remote-controller?id=53602847916380",
       "variant_id": "53602847916380"
@@ -278,6 +305,7 @@
       "price": "5.27",
       "region": "uk",
       "sku": "542910698217840642",
+      "store_id": "",
       "title": "LED Light Strip Remote Controller - LED Light Strip Remote Controller - KC019",
       "url": "https://uk.store.bambulab.com/products/led-light-strip-remote-controller?id=542910698217840642",
       "variant_id": "542910698217840642"
@@ -290,6 +318,7 @@
       "price": "11.9",
       "region": "au",
       "sku": "542910563500527618",
+      "store_id": "",
       "title": "LED Light Strip Remote Controller - LED Light Strip Remote Controller - KC019",
       "url": "https://au.store.bambulab.com/products/led-light-strip-remote-controller?id=542910563500527618",
       "variant_id": "542910563500527618"
@@ -302,6 +331,7 @@
       "price": "5.99",
       "region": "asia",
       "sku": "542910349223153666",
+      "store_id": "",
       "title": "LED Light Strip Remote Controller - LED Light Strip Remote Controller - KC019",
       "url": "https://asia.store.bambulab.com/products/led-light-strip-remote-controller?id=542910349223153666",
       "variant_id": "542910349223153666"

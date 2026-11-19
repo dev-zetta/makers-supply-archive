@@ -4,36 +4,49 @@
     {
       "handle": "breezebuddy",
       "product_id": "8315038204040",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "breezebuddy",
       "product_id": "8976764240112",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "breezebuddy",
       "product_id": "9520430711132",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "breezebuddy",
       "product_id": "7752678670396",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "breezebuddy",
       "product_id": "8565072920739",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "breezebuddy",
       "product_id": "500182286257549312",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fb/fb53e3e08eacba1457d42ef7a8908fb21a3e3af71468d0781ad8ac84dfcd7337.png",
       "id": "image-ba8bf6001515061e2b2f",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "breezybuddy-02.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fb53e3e08eacba1457d42ef7a8908fb21a3e3af71468d0781ad8ac84dfcd7337",
       "size": 294061,
       "source_url": "https://store.bblcdn.com/s7/default/71f1119add544f928655878bd618fd6a/breezybuddy-02.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a5/a5ba96861ca13d7840c2651c65d14c770c760f81a8f3959a70c9b06199f15eef.png",
       "id": "image-13e02cf9a72223074f89",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "BreezeBuddy3.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a5ba96861ca13d7840c2651c65d14c770c760f81a8f3959a70c9b06199f15eef",
       "size": 1875211,
       "source_url": "https://store.bblcdn.com/s7/default/681690026f574ecea15afedf64d6fc9f/BreezeBuddy3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cc/cc1e5fc3060235767c4260a1febbc64809894fcd34cb0bfeed2dcfc0f384ca02.jpg",
       "id": "image-ca8fefaeaa80a49ed570",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "BreezeBuddy1.jpg",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cc1e5fc3060235767c4260a1febbc64809894fcd34cb0bfeed2dcfc0f384ca02",
       "size": 47582,
       "source_url": "https://store.bblcdn.com/s7/default/79da398f597042b0bd61adf1dc5c3684/BreezeBuddy1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0f/0fc513146a9ebd493f088d15b9d97ab18be168876efdaca03fe22a7caa1dcf8f.png",
       "id": "image-display-c20e09e2f5d426260fd1",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-ba8bf6001515061e2b2f",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0fc513146a9ebd493f088d15b9d97ab18be168876efdaca03fe22a7caa1dcf8f",
       "size": 111512,
       "source_url": "https://store.bblcdn.com/s7/default/71f1119add544f928655878bd618fd6a/breezybuddy-02.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d6/d67ada0b5d654a94cfe9110da488a63be8ab5c8518067c45e0acceb0d80cb255.png",
       "id": "image-display-efb845a267c3e57646f9",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-13e02cf9a72223074f89",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d67ada0b5d654a94cfe9110da488a63be8ab5c8518067c45e0acceb0d80cb255",
       "size": 735198,
       "source_url": "https://store.bblcdn.com/s7/default/681690026f574ecea15afedf64d6fc9f/BreezeBuddy3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/84/841be25f1177ec9ffdad2acbef3313e10af267b2021944222e02cdc803ee0d09.png",
       "id": "image-display-c1ee7641d3b55ce8aeb3",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-ca8fefaeaa80a49ed570",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "841be25f1177ec9ffdad2acbef3313e10af267b2021944222e02cdc803ee0d09",
       "size": 109177,
       "source_url": "https://store.bblcdn.com/s7/default/79da398f597042b0bd61adf1dc5c3684/BreezeBuddy1.jpg"
@@ -188,7 +212,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional BreezeBuddy. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the BreezeBuddy and obtain detailed information, please visit the BreezeBuddy on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh011-breezebuddy",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "BreezeBuddy",
   "offers": [
@@ -200,6 +225,7 @@
       "price": "2.13",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/breezebuddy?skr=yes"
     },
     {
@@ -210,6 +236,7 @@
       "price": "2.51",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/breezebuddy?skr=yes"
     },
     {
@@ -220,6 +247,7 @@
       "price": "2.05",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/breezebuddy?skr=yes"
     },
     {
@@ -230,6 +258,7 @@
       "price": "1.74",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/breezebuddy?skr=yes"
     },
     {
@@ -240,6 +269,7 @@
       "price": "3.94",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/breezebuddy?skr=yes"
     },
     {
@@ -250,6 +280,7 @@
       "price": "1.98",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/breezebuddy?skr=yes"
     }
   ],
@@ -299,6 +330,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -311,6 +343,7 @@
       "price": "2.13",
       "region": "us",
       "sku": "42823968555144",
+      "store_id": "",
       "title": "BreezeBuddy - BreezeBuddy - ZH011",
       "url": "https://us.store.bambulab.com/products/breezebuddy?id=42823968555144",
       "variant_id": "42823968555144"
@@ -323,6 +356,7 @@
       "price": "2.51",
       "region": "ca",
       "sku": "46472276148464",
+      "store_id": "",
       "title": "BreezeBuddy - BreezeBuddy - ZH011",
       "url": "https://ca.store.bambulab.com/products/breezebuddy?id=46472276148464",
       "variant_id": "46472276148464"
@@ -335,6 +369,7 @@
       "price": "2.05",
       "region": "eu",
       "sku": "49193401844060",
+      "store_id": "",
       "title": "BreezeBuddy - BreezeBuddy - ZH011",
       "url": "https://eu.store.bambulab.com/products/breezebuddy?id=49193401844060",
       "variant_id": "49193401844060"
@@ -347,6 +382,7 @@
       "price": "1.74",
       "region": "uk",
       "sku": "42097460019260",
+      "store_id": "",
       "title": "BreezeBuddy - BreezeBuddy - ZH011",
       "url": "https://uk.store.bambulab.com/products/breezebuddy?id=42097460019260",
       "variant_id": "42097460019260"
@@ -359,6 +395,7 @@
       "price": "3.94",
       "region": "au",
       "sku": "45095127548067",
+      "store_id": "",
       "title": "BreezeBuddy - BreezeBuddy - ZH011",
       "url": "https://au.store.bambulab.com/products/breezebuddy?id=45095127548067",
       "variant_id": "45095127548067"
@@ -371,6 +408,7 @@
       "price": "1.98",
       "region": "asia",
       "sku": "500182286261743617",
+      "store_id": "",
       "title": "BreezeBuddy - BreezeBuddy - ZH011",
       "url": "https://asia.store.bambulab.com/products/breezebuddy?id=500182286261743617",
       "variant_id": "500182286261743617"

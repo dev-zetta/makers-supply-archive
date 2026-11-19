@@ -4,36 +4,49 @@
     {
       "handle": "xl-timing-belts",
       "product_id": "8206623637640",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "xl-timing-belts",
       "product_id": "8882492801264",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "xl-timing-belts",
       "product_id": "9426427019612",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "xl-timing-belts",
       "product_id": "7651530735676",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "xl-timing-belts",
       "product_id": "8491901485219",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "xl-timing-belts",
       "product_id": "7664246423667",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3a/3a128d868f7a204f4314ebd35c884ef1ac4f17b950db8ec0f2ad4fe43462e44e.png",
       "id": "image-8ab99a17577addcb04cb",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "XL.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3a128d868f7a204f4314ebd35c884ef1ac4f17b950db8ec0f2ad4fe43462e44e",
       "size": 44723,
       "source_url": "https://store.bblcdn.com/s7/default/96ee6d0b048a4e96b6e0a1746c27f4cf/XL.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b0/b06859419b4a068e1c855fd6964912dcf62c270954d7fba61cd2c949664b516d.png",
       "id": "image-c47fc69c2ddbb5616eef",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "XL_-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b06859419b4a068e1c855fd6964912dcf62c270954d7fba61cd2c949664b516d",
       "size": 44376,
       "source_url": "https://store.bblcdn.com/s7/default/e63912825b494c84836a125412371ee9/XL_-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ee/ee27f3d1a8fe39bbe51196fd95395256c1b141bf1e67bde00d606904dc84cd73.png",
       "id": "image-75bd11400e719c977711",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "XLTimingbelt.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ee27f3d1a8fe39bbe51196fd95395256c1b141bf1e67bde00d606904dc84cd73",
       "size": 300794,
       "source_url": "https://store.bblcdn.com/s7/default/ff2ee062464743c982470a49a10b8594/XLTimingbelt.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ba/ba49101ee8fd63d91701575780059f99cbf193a81313e7748ba8efef8f4bcb24.pdf",
       "id": "document-1e53bd207ffd5baee461",
       "kind": "document",
@@ -77,11 +96,13 @@
       "original_filename": "XL_Timing_Belt.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ba49101ee8fd63d91701575780059f99cbf193a81313e7748ba8efef8f4bcb24",
       "size": 389513,
       "source_url": "https://store.bblcdn.com/s7/default/19e4d9f8eb1b4839be2188f4b91728f1/XL_Timing_Belt.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8c/8c154d2840d6304d311dee8e5cde5184a045c525e92a2cfcb2d631fe52b7eb48.zip",
       "id": "archive-69da45b787d4e7da344d",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "XL_Timing_Belt.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8c154d2840d6304d311dee8e5cde5184a045c525e92a2cfcb2d631fe52b7eb48",
       "size": 384945,
       "source_url": "https://store.bblcdn.com/s7/default/ad4739208bb54b64813b3ca45c1993b2/XL_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "XL Timing Belt/60 XL 0.25 inch - RD003/60 XL 0.25 inch Timing Belt - RD003.STEP",
       "blob_path": "data/blobs/sha256/96/967a363db034249c1b3a09e6403fb06611970bd8e4ad6ec03228eb8966f2f0d8.step",
       "id": "model-f1e985e07e3205143adb",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-69da45b787d4e7da344d",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "967a363db034249c1b3a09e6403fb06611970bd8e4ad6ec03228eb8966f2f0d8",
       "size": 675533,
       "source_url": "https://store.bblcdn.com/s7/default/ad4739208bb54b64813b3ca45c1993b2/XL_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "XL Timing Belt/60 XL 0.25 inch - RD003/60 XL 0.25 inch Timing Belt - RD003.STL",
       "blob_path": "data/blobs/sha256/f1/f116462d17d7d5809553aefb79e6eb9f4f007f3a3a5aa70f891edfefcb746257.stl",
       "id": "model-e3d75800cae71cb86c0e",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-69da45b787d4e7da344d",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f116462d17d7d5809553aefb79e6eb9f4f007f3a3a5aa70f891edfefcb746257",
       "size": 204484,
       "source_url": "https://store.bblcdn.com/s7/default/ad4739208bb54b64813b3ca45c1993b2/XL_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "XL Timing Belt/80 XL 0.25 inch - RD004/80 XL 0.25 inch Timing Belt - RD004.STEP",
       "blob_path": "data/blobs/sha256/e9/e9400f3717eb29e34ae6eb9e089bc4436924a17729762d3cd59d960be637592b.step",
       "id": "model-2f6423bcca2396feb845",
@@ -131,11 +158,13 @@
       "parent_asset_id": "archive-69da45b787d4e7da344d",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e9400f3717eb29e34ae6eb9e089bc4436924a17729762d3cd59d960be637592b",
       "size": 902096,
       "source_url": "https://store.bblcdn.com/s7/default/ad4739208bb54b64813b3ca45c1993b2/XL_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "XL Timing Belt/80 XL 0.25 inch - RD004/80 XL 0.25 inch Timing Belt - RD004.STL",
       "blob_path": "data/blobs/sha256/c4/c4b1085998268c72f3e193acea83c32236c78b5ac4273edb8d8fad98c098d79c.stl",
       "id": "model-98206f7172b765455fb2",
@@ -145,11 +174,13 @@
       "parent_asset_id": "archive-69da45b787d4e7da344d",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c4b1085998268c72f3e193acea83c32236c78b5ac4273edb8d8fad98c098d79c",
       "size": 268484,
       "source_url": "https://store.bblcdn.com/s7/default/ad4739208bb54b64813b3ca45c1993b2/XL_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/40/404a0508aa8e934bec34db41134b5303ab28451aacb9c94269a9bb27f2406c7b.png",
       "id": "image-display-c6f1d251c0b4f7c9521f",
       "image_processing": {
@@ -167,11 +198,13 @@
       "parent_asset_id": "image-8ab99a17577addcb04cb",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "404a0508aa8e934bec34db41134b5303ab28451aacb9c94269a9bb27f2406c7b",
       "size": 35652,
       "source_url": "https://store.bblcdn.com/s7/default/96ee6d0b048a4e96b6e0a1746c27f4cf/XL.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a4/a414fe7459ad3cdec7a970349f4c319b52a857e59f7abaa2263cf7b4123d7171.png",
       "id": "image-display-e2a4fba6391081950802",
       "image_processing": {
@@ -189,11 +222,13 @@
       "parent_asset_id": "image-c47fc69c2ddbb5616eef",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a414fe7459ad3cdec7a970349f4c319b52a857e59f7abaa2263cf7b4123d7171",
       "size": 35596,
       "source_url": "https://store.bblcdn.com/s7/default/e63912825b494c84836a125412371ee9/XL_-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f8/f8ed4d7b81320b4168f70c3b3753d9d53df5c33dc4b7c1e0aa19aa34b15dfb5c.png",
       "id": "image-display-928539880ff5f568ebf0",
       "image_processing": {
@@ -211,6 +246,7 @@
       "parent_asset_id": "image-75bd11400e719c977711",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f8ed4d7b81320b4168f70c3b3753d9d53df5c33dc4b7c1e0aa19aa34b15dfb5c",
       "size": 82458,
       "source_url": "https://store.bblcdn.com/s7/default/ff2ee062464743c982470a49a10b8594/XLTimingbelt.png"
@@ -261,6 +297,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "rd003-xl-timing-belts",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "XL Timing Belts",
   "offers": [
@@ -272,6 +309,7 @@
       "price": "2.19",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/xl-timing-belts?skr=yes"
     },
     {
@@ -282,6 +320,7 @@
       "price": "2.52",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/xl-timing-belts?skr=yes"
     },
     {
@@ -292,6 +331,7 @@
       "price": "2.06",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/xl-timing-belts?skr=yes"
     },
     {
@@ -302,6 +342,7 @@
       "price": "1.75",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/xl-timing-belts?skr=yes"
     },
     {
@@ -312,6 +353,7 @@
       "price": "3.95",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/xl-timing-belts?skr=yes"
     },
     {
@@ -322,6 +364,7 @@
       "price": "1.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/xl-timing-belts?skr=yes"
     }
   ],
@@ -429,6 +472,7 @@
     "Surface Type": "Single sided",
     "Teeth Type": "XL"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -439,6 +483,7 @@
       "price": "2.19",
       "region": "us",
       "sku": "42580876656776",
+      "store_id": "",
       "title": "XL Timing Belts - 60 XL 0.25 inch (1PCS) - RD003",
       "url": "https://us.store.bambulab.com/products/xl-timing-belts?id=42580876656776",
       "variant_id": "42580876656776"
@@ -451,6 +496,7 @@
       "price": "2.52",
       "region": "us",
       "sku": "42580876689544",
+      "store_id": "",
       "title": "XL Timing Belts - 80 XL 0.25 inch (1PCS) - RD004",
       "url": "https://us.store.bambulab.com/products/xl-timing-belts?id=42580876689544",
       "variant_id": "42580876689544"
@@ -463,6 +509,7 @@
       "price": "2.52",
       "region": "ca",
       "sku": "46186693329136",
+      "store_id": "",
       "title": "XL Timing Belts - 60 XL 0.25 inch (1PCS) - RD003",
       "url": "https://ca.store.bambulab.com/products/xl-timing-belts?id=46186693329136",
       "variant_id": "46186693329136"
@@ -475,6 +522,7 @@
       "price": "2.9",
       "region": "ca",
       "sku": "46186693361904",
+      "store_id": "",
       "title": "XL Timing Belts - 80 XL 0.25 inch (1PCS) - RD004",
       "url": "https://ca.store.bambulab.com/products/xl-timing-belts?id=46186693361904",
       "variant_id": "46186693361904"
@@ -487,6 +535,7 @@
       "price": "2.06",
       "region": "eu",
       "sku": "48889771917660",
+      "store_id": "",
       "title": "XL Timing Belts - 60 XL 0.25 inch (1PCS) - RD003",
       "url": "https://eu.store.bambulab.com/products/xl-timing-belts?id=48889771917660",
       "variant_id": "48889771917660"
@@ -499,6 +548,7 @@
       "price": "2.37",
       "region": "eu",
       "sku": "48889771950428",
+      "store_id": "",
       "title": "XL Timing Belts - 80 XL 0.25 inch (1PCS) - RD004",
       "url": "https://eu.store.bambulab.com/products/xl-timing-belts?id=48889771950428",
       "variant_id": "48889771950428"
@@ -511,6 +561,7 @@
       "price": "1.75",
       "region": "uk",
       "sku": "41849295994940",
+      "store_id": "",
       "title": "XL Timing Belts - 60 XL 0.25 inch (1PCS) - RD003",
       "url": "https://uk.store.bambulab.com/products/xl-timing-belts?id=41849295994940",
       "variant_id": "41849295994940"
@@ -523,6 +574,7 @@
       "price": "2.01",
       "region": "uk",
       "sku": "41849296027708",
+      "store_id": "",
       "title": "XL Timing Belts - 80 XL 0.25 inch (1PCS) - RD004",
       "url": "https://uk.store.bambulab.com/products/xl-timing-belts?id=41849296027708",
       "variant_id": "41849296027708"
@@ -535,6 +587,7 @@
       "price": "3.95",
       "region": "au",
       "sku": "44710043779235",
+      "store_id": "",
       "title": "XL Timing Belts - 60 XL 0.25 inch (1PCS) - RD003",
       "url": "https://au.store.bambulab.com/products/xl-timing-belts?id=44710043779235",
       "variant_id": "44710043779235"
@@ -547,6 +600,7 @@
       "price": "4.55",
       "region": "au",
       "sku": "44710043812003",
+      "store_id": "",
       "title": "XL Timing Belts - 80 XL 0.25 inch (1PCS) - RD004",
       "url": "https://au.store.bambulab.com/products/xl-timing-belts?id=44710043812003",
       "variant_id": "44710043812003"
@@ -559,6 +613,7 @@
       "price": "1.99",
       "region": "asia",
       "sku": "41999899066483",
+      "store_id": "",
       "title": "XL Timing Belts - 60 XL 0.25 inch (1PCS) - RD003",
       "url": "https://asia.store.bambulab.com/products/xl-timing-belts?id=41999899066483",
       "variant_id": "41999899066483"
@@ -571,6 +626,7 @@
       "price": "2.29",
       "region": "asia",
       "sku": "41999899099251",
+      "store_id": "",
       "title": "XL Timing Belts - 80 XL 0.25 inch (1PCS) - RD004",
       "url": "https://asia.store.bambulab.com/products/xl-timing-belts?id=41999899099251",
       "variant_id": "41999899099251"

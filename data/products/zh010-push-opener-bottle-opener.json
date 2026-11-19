@@ -4,36 +4,49 @@
     {
       "handle": "push-opener-bottle-opener",
       "product_id": "8276202651784",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "push-opener-bottle-opener",
       "product_id": "8932875272432",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "push-opener-bottle-opener",
       "product_id": "9490319212892",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "push-opener-bottle-opener",
       "product_id": "7712165920828",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "push-opener-bottle-opener",
       "product_id": "8540918186147",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "push-opener-bottle-opener",
       "product_id": "7705964576883",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/75/75f069d2cca053e186218950c621c224b85ed626e4f6f18498038bf6c52a76f3.png",
       "id": "image-a3bff1d37329a443babf",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "opener-1_31ceaf00-0123-4487-af2f-97747961cf3f.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "75f069d2cca053e186218950c621c224b85ed626e4f6f18498038bf6c52a76f3",
       "size": 276375,
       "source_url": "https://store.bblcdn.com/s7/default/376afb2faed84265817870e425c665c5/opener-1_31ceaf00-0123-4487-af2f-97747961cf3f.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e2/e2e3f51cc79f9d5004cebfbf69c2971bff54aaf32501a25dac5246c92d14f4fd.png",
       "id": "image-76a521e7bcf5bbc6a714",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "opener-2_cc656979-ff72-49b8-a41d-98c1ece1db46.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e2e3f51cc79f9d5004cebfbf69c2971bff54aaf32501a25dac5246c92d14f4fd",
       "size": 289934,
       "source_url": "https://store.bblcdn.com/s7/default/b924cc05345645a78543b3c514129b10/opener-2_cc656979-ff72-49b8-a41d-98c1ece1db46.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/68/68a7cd11d7764ada604a8aeb465516c4943f68fc891df9305965b52e761d323a.png",
       "id": "image-2b15b1922adf5ca1b92b",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "opener-4_c85ded82-d9c9-44bd-ac43-fab5c2e523fa.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "68a7cd11d7764ada604a8aeb465516c4943f68fc891df9305965b52e761d323a",
       "size": 270051,
       "source_url": "https://store.bblcdn.com/s7/default/c110d0d5066e4e6c85eabae121d8baa0/opener-4_c85ded82-d9c9-44bd-ac43-fab5c2e523fa.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/13/139b56008ffd8c7c52542790d2eb18f6f1b025f3720a6a882a88fb30e817649d.png",
       "id": "image-25a4c744c590f43e8eb5",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "opener-3_4dd72167-33a6-4c80-bb72-ff6c1d2ed09a.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "139b56008ffd8c7c52542790d2eb18f6f1b025f3720a6a882a88fb30e817649d",
       "size": 579718,
       "source_url": "https://store.bblcdn.com/s7/default/050a1502951444518e67e1923b705a85/opener-3_4dd72167-33a6-4c80-bb72-ff6c1d2ed09a.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c2/c2d68471378a5d78c1dca260bc02661be8dc38e28df889fbf3239951b9d44b8e.png",
       "id": "image-display-cb52946523bf81d470ff",
       "image_processing": {
@@ -99,11 +120,13 @@
       "parent_asset_id": "image-a3bff1d37329a443babf",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c2d68471378a5d78c1dca260bc02661be8dc38e28df889fbf3239951b9d44b8e",
       "size": 250246,
       "source_url": "https://store.bblcdn.com/s7/default/376afb2faed84265817870e425c665c5/opener-1_31ceaf00-0123-4487-af2f-97747961cf3f.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/57/57c58172c21afd041e385df6cadc3efae01143145d5000815d6a771f566bcd64.png",
       "id": "image-display-68bef8ac31808ad690a7",
       "image_processing": {
@@ -121,11 +144,13 @@
       "parent_asset_id": "image-76a521e7bcf5bbc6a714",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "57c58172c21afd041e385df6cadc3efae01143145d5000815d6a771f566bcd64",
       "size": 261676,
       "source_url": "https://store.bblcdn.com/s7/default/b924cc05345645a78543b3c514129b10/opener-2_cc656979-ff72-49b8-a41d-98c1ece1db46.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/32/326b5e998fc931fc73def1961d45ace70d048568907c07925a0ea6be18e4a13e.png",
       "id": "image-display-c0b0c38b65e3bddf2cc8",
       "image_processing": {
@@ -143,11 +168,13 @@
       "parent_asset_id": "image-2b15b1922adf5ca1b92b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "326b5e998fc931fc73def1961d45ace70d048568907c07925a0ea6be18e4a13e",
       "size": 93460,
       "source_url": "https://store.bblcdn.com/s7/default/c110d0d5066e4e6c85eabae121d8baa0/opener-4_c85ded82-d9c9-44bd-ac43-fab5c2e523fa.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/40/40927ade93ace157a6954eda5fa85e55b92ea2bbeab2fe12adf450680f332986.png",
       "id": "image-display-d8c4f33552cac58194a1",
       "image_processing": {
@@ -165,6 +192,7 @@
       "parent_asset_id": "image-25a4c744c590f43e8eb5",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "40927ade93ace157a6954eda5fa85e55b92ea2bbeab2fe12adf450680f332986",
       "size": 176607,
       "source_url": "https://store.bblcdn.com/s7/default/050a1502951444518e67e1923b705a85/opener-3_4dd72167-33a6-4c80-bb72-ff6c1d2ed09a.png"
@@ -228,7 +256,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Push Opener (bottle opener）. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Push Opener (bottle opener) and obtain detailed information, please visit the Push Opener (bottle opener) on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh010-push-opener-bottle-opener",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Push Opener (bottle opener)",
   "offers": [
@@ -240,6 +269,7 @@
       "price": "3.63",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/push-opener-bottle-opener?skr=yes"
     },
     {
@@ -250,6 +280,7 @@
       "price": "3.96",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/push-opener-bottle-opener?skr=yes"
     },
     {
@@ -260,6 +291,7 @@
       "price": "3.24",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/push-opener-bottle-opener?skr=yes"
     },
     {
@@ -270,6 +302,7 @@
       "price": "2.75",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/push-opener-bottle-opener?skr=yes"
     },
     {
@@ -280,6 +313,7 @@
       "price": "6.22",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/push-opener-bottle-opener?skr=yes"
     },
     {
@@ -290,6 +324,7 @@
       "price": "3.13",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/push-opener-bottle-opener?skr=yes"
     }
   ],
@@ -344,6 +379,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -356,6 +392,7 @@
       "price": "3.63",
       "region": "us",
       "sku": "42731111088264",
+      "store_id": "",
       "title": "Push Opener (bottle opener) - Push Opener (bottle opener) - ZH010",
       "url": "https://us.store.bambulab.com/products/push-opener-bottle-opener?id=42731111088264",
       "variant_id": "42731111088264"
@@ -368,6 +405,7 @@
       "price": "3.96",
       "region": "ca",
       "sku": "46336716374256",
+      "store_id": "",
       "title": "Push Opener (bottle opener) - Push Opener (bottle opener) - ZH010",
       "url": "https://ca.store.bambulab.com/products/push-opener-bottle-opener?id=46336716374256",
       "variant_id": "46336716374256"
@@ -380,6 +418,7 @@
       "price": "3.24",
       "region": "eu",
       "sku": "49069610434908",
+      "store_id": "",
       "title": "Push Opener (bottle opener) - Push Opener (bottle opener) - ZH010",
       "url": "https://eu.store.bambulab.com/products/push-opener-bottle-opener?id=49069610434908",
       "variant_id": "49069610434908"
@@ -392,6 +431,7 @@
       "price": "2.75",
       "region": "uk",
       "sku": "42010550599740",
+      "store_id": "",
       "title": "Push Opener (bottle opener) - Push Opener (bottle opener) - ZH010",
       "url": "https://uk.store.bambulab.com/products/push-opener-bottle-opener?id=42010550599740",
       "variant_id": "42010550599740"
@@ -404,6 +444,7 @@
       "price": "6.22",
       "region": "au",
       "sku": "44820492877987",
+      "store_id": "",
       "title": "Push Opener (bottle opener) - Push Opener (bottle opener) - ZH010",
       "url": "https://au.store.bambulab.com/products/push-opener-bottle-opener?id=44820492877987",
       "variant_id": "44820492877987"
@@ -416,6 +457,7 @@
       "price": "3.13",
       "region": "asia",
       "sku": "42095942238323",
+      "store_id": "",
       "title": "Push Opener (bottle opener) - Push Opener (bottle opener) - ZH010",
       "url": "https://asia.store.bambulab.com/products/push-opener-bottle-opener?id=42095942238323",
       "variant_id": "42095942238323"

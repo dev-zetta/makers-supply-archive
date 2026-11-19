@@ -4,36 +4,49 @@
     {
       "handle": "rechargeable-power-kit",
       "product_id": "8384142999688",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rechargeable-power-kit",
       "product_id": "9045890269424",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rechargeable-power-kit",
       "product_id": "9614415233372",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rechargeable-power-kit",
       "product_id": "7805256400956",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rechargeable-power-kit",
       "product_id": "514717626147155968",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rechargeable-power-kit",
       "product_id": "514716657076592640",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/db/dbde051c4b2ec1f97d7f93c874c7be62a6799ac289ec7d08b577d5aa8affdbb9.png",
       "id": "image-9f5ba637d624d11b853e",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZC003.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dbde051c4b2ec1f97d7f93c874c7be62a6799ac289ec7d08b577d5aa8affdbb9",
       "size": 102914,
       "source_url": "https://store.bblcdn.com/s7/default/3a1df0644de14ba7934884ab9c9eb125/ZC003.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/15/15c315af263ad14075a16804554db1dd6e623950a9f49210517fb4e9c05acb9c.png",
       "id": "image-de4c63b1dee0fe3acc7c",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "right.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "15c315af263ad14075a16804554db1dd6e623950a9f49210517fb4e9c05acb9c",
       "size": 3150590,
       "source_url": "https://store.bblcdn.com/s7/default/39c570b399d04302aa1c44b3cb7615c0/right.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4f/4f692630d87daefdf777250e4c91b9eca2198930bbe37fb172796a2aee948b59.zip",
       "id": "archive-bae20902fa4e377a3c8f",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "Rechargeable_Power_Kit-ZC003_model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4f692630d87daefdf777250e4c91b9eca2198930bbe37fb172796a2aee948b59",
       "size": 138555,
       "source_url": "https://store.bblcdn.com/s7/default/7be8cf00072247e8a7c91c37339fb237/Rechargeable_Power_Kit-ZC003_model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Rechargeable Power Kit-ZC003 model/board/board.stl",
       "blob_path": "data/blobs/sha256/98/985731ca0540a7d57a8c25950a202d6573dfd785273e49f2231cbd5d41ac5899.stl",
       "id": "model-9533070b911d3798bf8c",
@@ -79,11 +98,13 @@
       "parent_asset_id": "archive-bae20902fa4e377a3c8f",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "985731ca0540a7d57a8c25950a202d6573dfd785273e49f2231cbd5d41ac5899",
       "size": 115884,
       "source_url": "https://store.bblcdn.com/s7/default/7be8cf00072247e8a7c91c37339fb237/Rechargeable_Power_Kit-ZC003_model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Rechargeable Power Kit-ZC003 model/board/board.stp",
       "blob_path": "data/blobs/sha256/07/07352e6af50de6d04f56be9c161158bbff9cac536fe3c5a841ec61088f8bc26c.stp",
       "id": "model-3bdc562b9467502557f6",
@@ -93,11 +114,13 @@
       "parent_asset_id": "archive-bae20902fa4e377a3c8f",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "07352e6af50de6d04f56be9c161158bbff9cac536fe3c5a841ec61088f8bc26c",
       "size": 150260,
       "source_url": "https://store.bblcdn.com/s7/default/7be8cf00072247e8a7c91c37339fb237/Rechargeable_Power_Kit-ZC003_model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Rechargeable Power Kit-ZC003 model/Lipo/lipo.stl",
       "blob_path": "data/blobs/sha256/06/064ae8db8d7c8f1da5f08fb1dad58073fb18b30417f12294306f4c3b2f710571.stl",
       "id": "model-fc0639573f6a4f5338e2",
@@ -107,11 +130,13 @@
       "parent_asset_id": "archive-bae20902fa4e377a3c8f",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "064ae8db8d7c8f1da5f08fb1dad58073fb18b30417f12294306f4c3b2f710571",
       "size": 88484,
       "source_url": "https://store.bblcdn.com/s7/default/7be8cf00072247e8a7c91c37339fb237/Rechargeable_Power_Kit-ZC003_model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Rechargeable Power Kit-ZC003 model/Lipo/lipo.stp",
       "blob_path": "data/blobs/sha256/64/6431aeca5628598dd9f7129ab605a00c7c641f29efb5b0cd2254cc8e4ce99eac.stp",
       "id": "model-d632007cb2f1469983bd",
@@ -121,11 +146,13 @@
       "parent_asset_id": "archive-bae20902fa4e377a3c8f",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6431aeca5628598dd9f7129ab605a00c7c641f29efb5b0cd2254cc8e4ce99eac",
       "size": 52063,
       "source_url": "https://store.bblcdn.com/s7/default/7be8cf00072247e8a7c91c37339fb237/Rechargeable_Power_Kit-ZC003_model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Rechargeable Power Kit-ZC003 model/N20motor/n20_reduction_gear_motor.stl",
       "blob_path": "data/blobs/sha256/8c/8ce05525b3647a55c655780a874a2734d3205ba069f80b32602fa025c3fc6e63.stl",
       "id": "model-a1732d51c25ee1b31ff5",
@@ -135,11 +162,13 @@
       "parent_asset_id": "archive-bae20902fa4e377a3c8f",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8ce05525b3647a55c655780a874a2734d3205ba069f80b32602fa025c3fc6e63",
       "size": 108584,
       "source_url": "https://store.bblcdn.com/s7/default/7be8cf00072247e8a7c91c37339fb237/Rechargeable_Power_Kit-ZC003_model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Rechargeable Power Kit-ZC003 model/N20motor/n20_reduction_gear_motor.stp",
       "blob_path": "data/blobs/sha256/73/73feacb83f450d6ef115b9df5067d1bf99338c3dc3fa1e006f307d97fcb3744f.stp",
       "id": "model-50fd40c43a233db8bcc0",
@@ -149,11 +178,13 @@
       "parent_asset_id": "archive-bae20902fa4e377a3c8f",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "73feacb83f450d6ef115b9df5067d1bf99338c3dc3fa1e006f307d97fcb3744f",
       "size": 130998,
       "source_url": "https://store.bblcdn.com/s7/default/7be8cf00072247e8a7c91c37339fb237/Rechargeable_Power_Kit-ZC003_model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e2/e2f125ce3d6a997b2d173b53eb7ff87d618d2d66c73afc4338d4f7605239136b.png",
       "id": "image-display-20979bef9ddef21fc5bb",
       "image_processing": {
@@ -171,11 +202,13 @@
       "parent_asset_id": "image-9f5ba637d624d11b853e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e2f125ce3d6a997b2d173b53eb7ff87d618d2d66c73afc4338d4f7605239136b",
       "size": 89534,
       "source_url": "https://store.bblcdn.com/s7/default/3a1df0644de14ba7934884ab9c9eb125/ZC003.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/00/00e97150bc478b4b6d33af1b66ad962f71293a7f086e0e3b18ded55020abef3a.png",
       "id": "image-display-2fc4f8574edc743bb330",
       "image_processing": {
@@ -193,6 +226,7 @@
       "parent_asset_id": "image-de4c63b1dee0fe3acc7c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "00e97150bc478b4b6d33af1b66ad962f71293a7f086e0e3b18ded55020abef3a",
       "size": 775493,
       "source_url": "https://store.bblcdn.com/s7/default/39c570b399d04302aa1c44b3cb7615c0/right.png"
@@ -250,6 +284,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zc003-rechargeable-power-kit",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Rechargeable Power Kit",
   "offers": [
@@ -261,6 +296,7 @@
       "price": "19.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/rechargeable-power-kit?skr=yes"
     },
     {
@@ -271,6 +307,7 @@
       "price": "22.79",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/rechargeable-power-kit?skr=yes"
     },
     {
@@ -281,6 +318,7 @@
       "price": "18.65",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/rechargeable-power-kit?skr=yes"
     },
     {
@@ -291,6 +329,7 @@
       "price": "15.84",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/rechargeable-power-kit?skr=yes"
     },
     {
@@ -301,6 +340,7 @@
       "price": "35.77",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/rechargeable-power-kit?skr=yes"
     },
     {
@@ -311,6 +351,7 @@
       "price": "18",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/rechargeable-power-kit?skr=yes"
     }
   ],
@@ -423,6 +464,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -435,6 +477,7 @@
       "price": "19.99",
       "region": "us",
       "sku": "42961221976200",
+      "store_id": "",
       "title": "Rechargeable Power Kit - Rechargeable Power Kit - ZC003",
       "url": "https://us.store.bambulab.com/products/rechargeable-power-kit?id=42961221976200",
       "variant_id": "42961221976200"
@@ -447,6 +490,7 @@
       "price": "22.79",
       "region": "ca",
       "sku": "46631530365168",
+      "store_id": "",
       "title": "Rechargeable Power Kit - Rechargeable Power Kit - ZC003",
       "url": "https://ca.store.bambulab.com/products/rechargeable-power-kit?id=46631530365168",
       "variant_id": "46631530365168"
@@ -459,6 +503,7 @@
       "price": "18.65",
       "region": "eu",
       "sku": "49453765951836",
+      "store_id": "",
       "title": "Rechargeable Power Kit - Rechargeable Power Kit - ZC003",
       "url": "https://eu.store.bambulab.com/products/rechargeable-power-kit?id=49453765951836",
       "variant_id": "49453765951836"
@@ -471,6 +516,7 @@
       "price": "15.84",
       "region": "uk",
       "sku": "42215665205308",
+      "store_id": "",
       "title": "Rechargeable Power Kit - Rechargeable Power Kit - ZC003",
       "url": "https://uk.store.bambulab.com/products/rechargeable-power-kit?id=42215665205308",
       "variant_id": "42215665205308"
@@ -483,6 +529,7 @@
       "price": "35.77",
       "region": "au",
       "sku": "514717626155544579",
+      "store_id": "",
       "title": "Rechargeable Power Kit - Rechargeable Power Kit - ZC003",
       "url": "https://au.store.bambulab.com/products/rechargeable-power-kit?id=514717626155544579",
       "variant_id": "514717626155544579"
@@ -495,6 +542,7 @@
       "price": "18",
       "region": "asia",
       "sku": "514716657084981251",
+      "store_id": "",
       "title": "Rechargeable Power Kit - Rechargeable Power Kit - ZC003",
       "url": "https://store.bambulab.com/products/rechargeable-power-kit?id=514716657084981251",
       "variant_id": "514716657084981251"

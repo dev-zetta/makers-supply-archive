@@ -4,36 +4,49 @@
     {
       "handle": "electric-train",
       "product_id": "772359679547334656",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-train",
       "product_id": "772358476985806848",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-train",
       "product_id": "772360303995277312",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-train",
       "product_id": "772359258414055424",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-train",
       "product_id": "772356641772331008",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-train",
       "product_id": "772337300632821760",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b9/b984a0c0bcae9c04e83ac1c211f77afa222e800eebe2cacf39ccfdb2af253bee.png",
       "id": "image-de68c7149b2600173f68",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH153new.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b984a0c0bcae9c04e83ac1c211f77afa222e800eebe2cacf39ccfdb2af253bee",
       "size": 3693134,
       "source_url": "https://store.bblcdn.com/s7/default/7b9179c525904d818d7147a85652adeb/B-ZH153new.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c9/c90510a6e14e344f1c0d053548c64c235095419f2361ebbb9bdd5191a35f725f.png",
       "id": "image-05ec601991dc87ceb281",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH153-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c90510a6e14e344f1c0d053548c64c235095419f2361ebbb9bdd5191a35f725f",
       "size": 438107,
       "source_url": "https://store.bblcdn.com/s7/default/bf7dffd1a927435691a924e79287c8da/B-ZH153-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/25/25907d13c02d885ed4795a3ee97290265eaeb1da2c3c94edfd28ff2abf796354.png",
       "id": "image-display-804ec49b2d5292d2ea56",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-de68c7149b2600173f68",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "25907d13c02d885ed4795a3ee97290265eaeb1da2c3c94edfd28ff2abf796354",
       "size": 661217,
       "source_url": "https://store.bblcdn.com/s7/default/7b9179c525904d818d7147a85652adeb/B-ZH153new.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/05/0549626c2333adf4956ed94ea0dc439118da938bd4327c97820e481ca77a769a.png",
       "id": "image-display-b26381048d37bf89d983",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-05ec601991dc87ceb281",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0549626c2333adf4956ed94ea0dc439118da938bd4327c97820e481ca77a769a",
       "size": 125854,
       "source_url": "https://store.bblcdn.com/s7/default/bf7dffd1a927435691a924e79287c8da/B-ZH153-1.png"
@@ -186,7 +206,8 @@
   "description_text": "To download the model files please visit the Electric Train on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh153-brio-electric-train",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Electric Train",
   "offers": [
@@ -198,6 +219,7 @@
       "price": "17.71",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/electric-train?skr=yes"
     },
     {
@@ -208,6 +230,7 @@
       "price": "20.89",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/electric-train?skr=yes"
     },
     {
@@ -218,6 +241,7 @@
       "price": "18.74",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/electric-train?skr=yes"
     },
     {
@@ -228,6 +252,7 @@
       "price": "16.27",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/electric-train?skr=yes"
     },
     {
@@ -238,6 +263,7 @@
       "price": "33.82",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/electric-train?skr=yes"
     },
     {
@@ -248,6 +274,7 @@
       "price": "15.93",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/electric-train?skr=yes"
     }
   ],
@@ -328,6 +355,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -338,6 +366,7 @@
       "price": "17.71",
       "region": "us",
       "sku": "772359679559917570",
+      "store_id": "",
       "title": "Electric Train - Electric Train - ZH153",
       "url": "https://us.store.bambulab.com/products/electric-train?id=772359679559917570",
       "variant_id": "772359679559917570"
@@ -350,6 +379,7 @@
       "price": "20.89",
       "region": "ca",
       "sku": "772358476998389762",
+      "store_id": "",
       "title": "Electric Train - Electric Train - ZH153",
       "url": "https://ca.store.bambulab.com/products/electric-train?id=772358476998389762",
       "variant_id": "772358476998389762"
@@ -362,6 +392,7 @@
       "price": "18.74",
       "region": "eu",
       "sku": "772360304016248834",
+      "store_id": "",
       "title": "Electric Train - Electric Train - ZH153",
       "url": "https://eu.store.bambulab.com/products/electric-train?id=772360304016248834",
       "variant_id": "772360304016248834"
@@ -374,6 +405,7 @@
       "price": "16.27",
       "region": "uk",
       "sku": "772359258426638338",
+      "store_id": "",
       "title": "Electric Train - Electric Train - ZH153",
       "url": "https://uk.store.bambulab.com/products/electric-train?id=772359258426638338",
       "variant_id": "772359258426638338"
@@ -386,6 +418,7 @@
       "price": "33.82",
       "region": "au",
       "sku": "772356641789108225",
+      "store_id": "",
       "title": "Electric Train - Electric Train - ZH153",
       "url": "https://au.store.bambulab.com/products/electric-train?id=772356641789108225",
       "variant_id": "772356641789108225"
@@ -398,6 +431,7 @@
       "price": "15.93",
       "region": "asia",
       "sku": "772337300649598978",
+      "store_id": "",
       "title": "Electric Train - Electric Train - ZH153",
       "url": "https://asia.store.bambulab.com/products/electric-train?id=772337300649598978",
       "variant_id": "772337300649598978"

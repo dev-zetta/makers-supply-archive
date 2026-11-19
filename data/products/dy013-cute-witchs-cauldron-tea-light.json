@@ -4,31 +4,42 @@
     {
       "handle": "cute-witchs-cauldron-tea-light",
       "product_id": "8384170164360",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cute-witchs-cauldron-tea-light",
       "product_id": "9045032403184",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cute-witchs-cauldron-tea-light",
       "product_id": "9613782712668",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cute-witchs-cauldron-tea-light",
       "product_id": "7804789653564",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cute-witch-s-cauldron-tea-light",
       "product_id": "517116642833932288",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dd/ddc054bb8d05d554a94840dc91063e934c7560eb39c6619436ed5cf90e59fda0.jpg",
       "id": "image-80e701a4449d33484d7b",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "222_963d8be8-ecc6-4e77-a241-c9da9abb741f.jpg",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ddc054bb8d05d554a94840dc91063e934c7560eb39c6619436ed5cf90e59fda0",
       "size": 141808,
       "source_url": "https://store.bblcdn.com/s7/default/79a20b38d755494ab44f080f2daf032f/222_963d8be8-ecc6-4e77-a241-c9da9abb741f.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/74/74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0.png",
       "id": "image-8b2006a9f4fb07f77543",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "flame_c2ace1b3-e588-4e0c-8834-50d853b4cca0.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0",
       "size": 216756,
       "source_url": "https://store.bblcdn.com/s7/default/151e7675812d401683ff3366ba9fd5a6/flame_c2ace1b3-e588-4e0c-8834-50d853b4cca0.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f7/f7491eff5d486d9c1135821169b4275c716f4ea99cc883698a82e7f4ca5bef9d.png",
       "id": "image-display-f0c2ad9758420e9962f8",
       "image_processing": {
@@ -70,11 +85,13 @@
       "parent_asset_id": "image-80e701a4449d33484d7b",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f7491eff5d486d9c1135821169b4275c716f4ea99cc883698a82e7f4ca5bef9d",
       "size": 768748,
       "source_url": "https://store.bblcdn.com/s7/default/79a20b38d755494ab44f080f2daf032f/222_963d8be8-ecc6-4e77-a241-c9da9abb741f.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/45/450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037.png",
       "id": "image-display-0f51f23e094ce58a7e0c",
       "image_processing": {
@@ -92,6 +109,7 @@
       "parent_asset_id": "image-8b2006a9f4fb07f77543",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037",
       "size": 69316,
       "source_url": "https://store.bblcdn.com/s7/default/151e7675812d401683ff3366ba9fd5a6/flame_c2ace1b3-e588-4e0c-8834-50d853b4cca0.png"
@@ -143,7 +161,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Cute Witch's Cauldron Tea Light. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Cute Witch's Cauldron Tea Light and obtain detailed information, please visit the Cute Witch's Cauldron Tea Light on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "dy013-cute-witchs-cauldron-tea-light",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Cute Witch's Cauldron Tea Light",
   "offers": [
@@ -155,6 +174,7 @@
       "price": "8.79",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/cute-witchs-cauldron-tea-light?skr=yes"
     },
     {
@@ -165,6 +185,7 @@
       "price": "10.12",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/cute-witchs-cauldron-tea-light?skr=yes"
     },
     {
@@ -175,6 +196,7 @@
       "price": "8.28",
       "region": "eu",
       "retrieved_at": "2026-11-10T15:04:23Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/cute-witchs-cauldron-tea-light?skr=yes"
     },
     {
@@ -185,6 +207,7 @@
       "price": "7.03",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/cute-witchs-cauldron-tea-light?skr=yes"
     },
     {
@@ -195,6 +218,7 @@
       "price": "7.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/cute-witch-s-cauldron-tea-light?skr=yes"
     }
   ],
@@ -238,6 +262,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -250,6 +275,7 @@
       "price": "8.79",
       "region": "us",
       "sku": "42961334141064",
+      "store_id": "",
       "title": "Cute Witch's Cauldron Tea Light - Cute Witch's Cauldron Tea Light - DY013",
       "url": "https://us.store.bambulab.com/products/cute-witchs-cauldron-tea-light?id=42961334141064",
       "variant_id": "42961334141064"
@@ -262,6 +288,7 @@
       "price": "10.12",
       "region": "ca",
       "sku": "46629896126704",
+      "store_id": "",
       "title": "Cute Witch's Cauldron Tea Light - Cute Witch's Cauldron Tea Light - DY013",
       "url": "https://ca.store.bambulab.com/products/cute-witchs-cauldron-tea-light?id=46629896126704",
       "variant_id": "46629896126704"
@@ -274,6 +301,7 @@
       "price": "8.28",
       "region": "eu",
       "sku": "49450972479836",
+      "store_id": "",
       "title": "Cute Witch's Cauldron Tea Light - Cute Witch's Cauldron Tea Light - DY013",
       "url": "https://eu.store.bambulab.com/products/cute-witchs-cauldron-tea-light?id=49450972479836",
       "variant_id": "49450972479836"
@@ -286,6 +314,7 @@
       "price": "7.03",
       "region": "uk",
       "sku": "42214530940988",
+      "store_id": "",
       "title": "Cute Witch's Cauldron Tea Light - Cute Witch's Cauldron Tea Light - DY013",
       "url": "https://uk.store.bambulab.com/products/cute-witchs-cauldron-tea-light?id=42214530940988",
       "variant_id": "42214530940988"
@@ -298,6 +327,7 @@
       "price": "7.99",
       "region": "asia",
       "sku": "517116642838126595",
+      "store_id": "",
       "title": "Cute Witch's Cauldron Tea Light - Cute Witch's Cauldron Tea Light - DY013",
       "url": "https://asia.store.bambulab.com/products/cute-witch-s-cauldron-tea-light?id=517116642838126595",
       "variant_id": "517116642838126595"

@@ -4,36 +4,49 @@
     {
       "handle": "usb-a-power-cable-with-ph2-0-connector",
       "product_id": "7975605141640",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-a-power-cable-with-ph2-0-connector",
       "product_id": "8650965844208",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-a-power-cable-with-ph2-0-connector",
       "product_id": "8855638180188",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-a-power-cable-with-ph2-0-connector",
       "product_id": "7390417256508",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-a-power-cable-with-ph2-0-connector",
       "product_id": "8312084660387",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-a-power-cable-with-ph2-0-connector",
       "product_id": "7491319201907",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/87/873adaa4ceacb0c868d48ecb47e25bb1162b8f7a00d0b2a5141cfe350908c394.png",
       "id": "image-da0985a284d17a512405",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "USB-A_Power_Cable_-_IC001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "873adaa4ceacb0c868d48ecb47e25bb1162b8f7a00d0b2a5141cfe350908c394",
       "size": 266128,
       "source_url": "https://store.bblcdn.com/s7/default/29ac8978756f46578f797a47946138c6/USB-A_Power_Cable_-_IC001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/29/296476b38da74d1c8981fd4ad9039fd2fadcaed8f39859bc1b337184b533737e.png",
       "id": "image-1e75219ceedbd6a6e701",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "USB-APowerCablewithPH2.0Connector.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "296476b38da74d1c8981fd4ad9039fd2fadcaed8f39859bc1b337184b533737e",
       "size": 256675,
       "source_url": "https://store.bblcdn.com/s7/default/a54f697e24864735acd2a868e5b034d2/USB-APowerCablewithPH2.0Connector.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a8/a8e6df37b63745dea57a34b26fffd239e07065fd759e38428257026cf4aa7083.pdf",
       "id": "document-3e10d745b063b4eab0cb",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "USB-A_Power_Cable_with_PH2.0_Connector.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a8e6df37b63745dea57a34b26fffd239e07065fd759e38428257026cf4aa7083",
       "size": 930085,
       "source_url": "https://store.bblcdn.com/s1/default/41915eb3059d48ed88235cff315ae1af/USB-A_Power_Cable_with_PH2.0_Connector.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bd/bd84fb7b2d8b96aac3d266128761f7f66eba64f713239235203228f65e9b7616.zip",
       "id": "archive-f51130a24f4e6a49fdd6",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "USB-A_Power_Cable_with_PH2.0_Connector.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bd84fb7b2d8b96aac3d266128761f7f66eba64f713239235203228f65e9b7616",
       "size": 36886,
       "source_url": "https://store.bblcdn.com/s1/default/4a2bf0e620a34b9195f0329f0ccde428/USB-A_Power_Cable_with_PH2.0_Connector.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "USB-A Power Cable with PH2.0 Connector/usb_power_cable_with_wire_ph2_0.stl",
       "blob_path": "data/blobs/sha256/55/55ba1076b9478e5221e65d6b8be5a7f6e2b84aa4326d8a63789eacdb43eca895.stl",
       "id": "model-71c944cb2e7a6ce3dfe2",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-f51130a24f4e6a49fdd6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "55ba1076b9478e5221e65d6b8be5a7f6e2b84aa4326d8a63789eacdb43eca895",
       "size": 148584,
       "source_url": "https://store.bblcdn.com/s1/default/4a2bf0e620a34b9195f0329f0ccde428/USB-A_Power_Cable_with_PH2.0_Connector.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "USB-A Power Cable with PH2.0 Connector/usb_power_cable_with_wire_ph2_0.stp",
       "blob_path": "data/blobs/sha256/77/77ec287240625473e5f3ed98191f0c4a44655c42935e9b0a721af608bf6cc68b.stp",
       "id": "model-f4e7be6db576f12d2e0a",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-f51130a24f4e6a49fdd6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "77ec287240625473e5f3ed98191f0c4a44655c42935e9b0a721af608bf6cc68b",
       "size": 55302,
       "source_url": "https://store.bblcdn.com/s1/default/4a2bf0e620a34b9195f0329f0ccde428/USB-A_Power_Cable_with_PH2.0_Connector.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/42/42ff1e9aa9603308dcdbeebc5206eb802613f52a2450cf934f60ddc8fc568ffa.png",
       "id": "image-display-95607bcc8ed8521c7c4d",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-da0985a284d17a512405",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "42ff1e9aa9603308dcdbeebc5206eb802613f52a2450cf934f60ddc8fc568ffa",
       "size": 71312,
       "source_url": "https://store.bblcdn.com/s7/default/29ac8978756f46578f797a47946138c6/USB-A_Power_Cable_-_IC001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8a/8a6e9c7f99617bd26f766e93c95b865ddf4b42bcd683cf6a5542815bb777c1c3.png",
       "id": "image-display-64102e561dccab1183db",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-1e75219ceedbd6a6e701",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8a6e9c7f99617bd26f766e93c95b865ddf4b42bcd683cf6a5542815bb777c1c3",
       "size": 64455,
       "source_url": "https://store.bblcdn.com/s7/default/a54f697e24864735acd2a868e5b034d2/USB-APowerCablewithPH2.0Connector.png"
@@ -194,6 +222,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ic001-usb-a-power-cable-with-ph2-0-connector",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Length (mm)",
@@ -224,6 +253,7 @@
       "price": "2.19",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/usb-a-power-cable-with-ph2-0-connector?skr=yes"
     },
     {
@@ -234,6 +264,7 @@
       "price": "2.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/usb-a-power-cable-with-ph2-0-connector?skr=yes"
     },
     {
@@ -244,6 +275,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/usb-a-power-cable-with-ph2-0-connector?skr=yes"
     },
     {
@@ -254,6 +286,7 @@
       "price": "2.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/usb-a-power-cable-with-ph2-0-connector?skr=yes"
     },
     {
@@ -264,6 +297,7 @@
       "price": "4.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/usb-a-power-cable-with-ph2-0-connector?skr=yes"
     },
     {
@@ -274,6 +308,7 @@
       "price": "1.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/usb-a-power-cable-with-ph2-0-connector?skr=yes"
     }
   ],
@@ -329,6 +364,7 @@
     "Product ID": "IC001",
     "Rated Voltage (V)": "5V"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -339,6 +375,7 @@
       "price": "2.19",
       "region": "us",
       "sku": "42122946445448",
+      "store_id": "",
       "title": "USB-A Power Cable with PH2.0 Connector - USB-A Power Cable with PH2.0 Connector (1PCS) - IC001",
       "url": "https://us.store.bambulab.com/products/usb-a-power-cable-with-ph2-0-connector?id=42122946445448",
       "variant_id": "42122946445448"
@@ -351,6 +388,7 @@
       "price": "2.99",
       "region": "ca",
       "sku": "45672470216944",
+      "store_id": "",
       "title": "USB-A Power Cable with PH2.0 Connector - USB-A Power Cable with PH2.0 Connector (1PCS) - IC001",
       "url": "https://ca.store.bambulab.com/products/usb-a-power-cable-with-ph2-0-connector?id=45672470216944",
       "variant_id": "45672470216944"
@@ -363,6 +401,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "47978088399196",
+      "store_id": "",
       "title": "USB-A Power Cable with PH2.0 Connector - USB-A Power Cable with PH2.0 Connector (1PCS) - IC001",
       "url": "https://eu.store.bambulab.com/products/usb-a-power-cable-with-ph2-0-connector?id=47978088399196",
       "variant_id": "47978088399196"
@@ -375,6 +414,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "41367610261564",
+      "store_id": "",
       "title": "USB-A Power Cable with PH2.0 Connector - USB-A Power Cable with PH2.0 Connector (1PCS) - IC001",
       "url": "https://uk.store.bambulab.com/products/usb-a-power-cable-with-ph2-0-connector?id=41367610261564",
       "variant_id": "41367610261564"
@@ -387,6 +427,7 @@
       "price": "4.99",
       "region": "au",
       "sku": "44313007227043",
+      "store_id": "",
       "title": "USB-A Power Cable with PH2.0 Connector - USB-A Power Cable with PH2.0 Connector (1PCS) - IC001",
       "url": "https://au.store.bambulab.com/products/usb-a-power-cable-with-ph2-0-connector?id=44313007227043",
       "variant_id": "44313007227043"
@@ -399,6 +440,7 @@
       "price": "1.99",
       "region": "asia",
       "sku": "41588968882291",
+      "store_id": "",
       "title": "USB-A Power Cable with PH2.0 Connector - USB-A Power Cable with PH2.0 Connector (1PCS) - IC001",
       "url": "https://asia.store.bambulab.com/products/usb-a-power-cable-with-ph2-0-connector?id=41588968882291",
       "variant_id": "41588968882291"

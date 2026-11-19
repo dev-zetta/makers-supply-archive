@@ -4,36 +4,49 @@
     {
       "handle": "nfc-tag-sticker",
       "product_id": "8337936220296",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "nfc-tag-sticker",
       "product_id": "9006451130608",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "nfc-tag-sticker",
       "product_id": "9561451888988",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "nfc-tag-sticker",
       "product_id": "7776427704380",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "nfc-tag-sticker",
       "product_id": "8582172901539",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "nfc-tag-sticker",
       "product_id": "506948087502155776",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bf/bf92979ccf5b53c406140314f41feb822bb3c94c51cf551b56c3bb6f356522c9.png",
       "id": "image-ba2b62f4622f2ad9cc25",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "XD001_39a8a895-dba9-4064-bff5-0cd90289c378.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bf92979ccf5b53c406140314f41feb822bb3c94c51cf551b56c3bb6f356522c9",
       "size": 186099,
       "source_url": "https://store.bblcdn.com/s7/default/44c5a769c1694c9cb481dabc35be6bee/XD001_39a8a895-dba9-4064-bff5-0cd90289c378.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/93/935425a69154054b3c274bc827b54c783d00f31e3ef791c66817509020d3a977.png",
       "id": "image-3e513b4ceb2f5ff7a5d4",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "XD001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "935425a69154054b3c274bc827b54c783d00f31e3ef791c66817509020d3a977",
       "size": 790720,
       "source_url": "https://store.bblcdn.com/s7/default/cb98c4d02c14426bafbdc85e3a0bb3b0/XD001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/75/7504f224bf9c91ae308831caf72260cd5ae4088f642e9c9587ff4f41f02f9e71.png",
       "id": "image-display-f03a7b1407a6bf65c3cd",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-ba2b62f4622f2ad9cc25",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7504f224bf9c91ae308831caf72260cd5ae4088f642e9c9587ff4f41f02f9e71",
       "size": 160721,
       "source_url": "https://store.bblcdn.com/s7/default/44c5a769c1694c9cb481dabc35be6bee/XD001_39a8a895-dba9-4064-bff5-0cd90289c378.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ef/efea7a1f4c8062216c9fb3e147f111d29c80c02db06fc07d7bb8283c61aebdaf.png",
       "id": "image-display-cc1680d9c2a55fbee0d1",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-3e513b4ceb2f5ff7a5d4",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "efea7a1f4c8062216c9fb3e147f111d29c80c02db06fc07d7bb8283c61aebdaf",
       "size": 174524,
       "source_url": "https://store.bblcdn.com/s7/default/cb98c4d02c14426bafbdc85e3a0bb3b0/XD001.png"
@@ -203,6 +223,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xd001-nfc-tag-sticker",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "NFC Tag Sticker (20pcs)",
   "offers": [
@@ -214,6 +235,7 @@
       "price": "6.59",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
     },
     {
@@ -224,6 +246,7 @@
       "price": "7.58",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
     },
     {
@@ -234,6 +257,7 @@
       "price": "6.21",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
     },
     {
@@ -244,6 +268,7 @@
       "price": "5.27",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
     },
     {
@@ -254,6 +279,7 @@
       "price": "11.9",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
     },
     {
@@ -264,6 +290,7 @@
       "price": "5.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/nfc-tag-sticker?skr=yes"
     }
   ],
@@ -373,6 +400,7 @@
     "Read Durability": "100,000 cycles",
     "Read Range": "0-5CM"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -383,6 +411,7 @@
       "price": "6.59",
       "region": "us",
       "sku": "42872107270280",
+      "store_id": "",
       "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
       "url": "https://us.store.bambulab.com/products/nfc-tag-sticker?id=42872107270280",
       "variant_id": "42872107270280"
@@ -395,6 +424,7 @@
       "price": "7.58",
       "region": "ca",
       "sku": "46540090507504",
+      "store_id": "",
       "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
       "url": "https://ca.store.bambulab.com/products/nfc-tag-sticker?id=46540090507504",
       "variant_id": "46540090507504"
@@ -407,6 +437,7 @@
       "price": "6.21",
       "region": "eu",
       "sku": "49298217501020",
+      "store_id": "",
       "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
       "url": "https://eu.store.bambulab.com/products/nfc-tag-sticker?id=49298217501020",
       "variant_id": "49298217501020"
@@ -419,6 +450,7 @@
       "price": "5.27",
       "region": "uk",
       "sku": "42144903331900",
+      "store_id": "",
       "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
       "url": "https://uk.store.bambulab.com/products/nfc-tag-sticker?id=42144903331900",
       "variant_id": "42144903331900"
@@ -431,6 +463,7 @@
       "price": "11.9",
       "region": "au",
       "sku": "45158805766307",
+      "store_id": "",
       "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
       "url": "https://au.store.bambulab.com/products/nfc-tag-sticker?id=45158805766307",
       "variant_id": "45158805766307"
@@ -443,6 +476,7 @@
       "price": "5.99",
       "region": "asia",
       "sku": "506948087502155780",
+      "store_id": "",
       "title": "NFC Tag Sticker (20pcs) - NFC Tag Sticker (20PCS) - XD001",
       "url": "https://asia.store.bambulab.com/products/nfc-tag-sticker?id=506948087502155780",
       "variant_id": "506948087502155780"

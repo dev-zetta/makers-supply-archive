@@ -4,36 +4,49 @@
     {
       "handle": "round-double-sided-foam-tape",
       "product_id": "8214452600968",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "round-double-sided-foam-tape",
       "product_id": "8887321133296",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "round-double-sided-foam-tape",
       "product_id": "9434342687068",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "round-double-sided-foam-tape",
       "product_id": "7656533327932",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "round-double-sided-foam-tape",
       "product_id": "8494063747235",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "round-double-sided-foam-tape",
       "product_id": "7667679330419",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fe/fe53625573e49e1a25df1786177c17a70861bee6e71d242dd9bdfc48da4f07b3.png",
       "id": "image-08b224fe584ea302eedb",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "b55c46a24c3cfcf5b904690e5abde036_4346c5b1-d7cc-49a6-b4b7-bd58181bf557.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fe53625573e49e1a25df1786177c17a70861bee6e71d242dd9bdfc48da4f07b3",
       "size": 470557,
       "source_url": "https://store.bblcdn.com/s7/default/851ae58742404d818e2a4fcb32de4851/b55c46a24c3cfcf5b904690e5abde036_4346c5b1-d7cc-49a6-b4b7-bd58181bf557.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a5/a515996fae81f3b65185c31b08cad6ad6e4caff16eaa8ce2a7652bde00778ea1.png",
       "id": "image-75d7598a2956041532c7",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "2_c066b23f-a757-413b-9d8e-ac487b02f3dd.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a515996fae81f3b65185c31b08cad6ad6e4caff16eaa8ce2a7652bde00778ea1",
       "size": 471429,
       "source_url": "https://store.bblcdn.com/s7/default/392ab3d5740b43bb95f60fb3bd73b7e1/2_c066b23f-a757-413b-9d8e-ac487b02f3dd.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b6/b6c3b3c46a9b98db60ea5079fe3a3f74a1f379035bc9d2af5cdf32a1499869c4.png",
       "id": "image-6077d7307669526282b0",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "1_3ed679ae-8f4b-4e2e-a273-0e0fb5dc3b41.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b6c3b3c46a9b98db60ea5079fe3a3f74a1f379035bc9d2af5cdf32a1499869c4",
       "size": 469443,
       "source_url": "https://store.bblcdn.com/s7/default/db6120d8a6124ed190d2bd4e85a6ac18/1_3ed679ae-8f4b-4e2e-a273-0e0fb5dc3b41.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/85/853ec37178afcfd552043991519aa165632daca8fe18d043c29d67781c57888a.png",
       "id": "image-d57480a39d555905064c",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "ce740d9fb554f2606b5524400beed8b1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "853ec37178afcfd552043991519aa165632daca8fe18d043c29d67781c57888a",
       "size": 401828,
       "source_url": "https://store.bblcdn.com/s7/default/a42520cc9bdb4c5487d507d07b391028/ce740d9fb554f2606b5524400beed8b1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/70/7092712e239d31915265fbfad4f7af2b541cdbe4985fce92208509ec4ac4e205.png",
       "id": "image-display-9f4f3de4952f70660cce",
       "image_processing": {
@@ -99,11 +120,13 @@
       "parent_asset_id": "image-08b224fe584ea302eedb",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7092712e239d31915265fbfad4f7af2b541cdbe4985fce92208509ec4ac4e205",
       "size": 121730,
       "source_url": "https://store.bblcdn.com/s7/default/851ae58742404d818e2a4fcb32de4851/b55c46a24c3cfcf5b904690e5abde036_4346c5b1-d7cc-49a6-b4b7-bd58181bf557.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/14/14c4003002e732254a13594b15b5fede318b1b14ada8a15156ad98b9c60ec24e.png",
       "id": "image-display-d1c7361cfefcf190f333",
       "image_processing": {
@@ -121,11 +144,13 @@
       "parent_asset_id": "image-75d7598a2956041532c7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "14c4003002e732254a13594b15b5fede318b1b14ada8a15156ad98b9c60ec24e",
       "size": 121822,
       "source_url": "https://store.bblcdn.com/s7/default/392ab3d5740b43bb95f60fb3bd73b7e1/2_c066b23f-a757-413b-9d8e-ac487b02f3dd.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/22/22d1c46a8711ae95f31c45a051298dc99c3f389ff6db123056a3176cfd0851fc.png",
       "id": "image-display-a0996f293f7147a2f262",
       "image_processing": {
@@ -143,11 +168,13 @@
       "parent_asset_id": "image-6077d7307669526282b0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "22d1c46a8711ae95f31c45a051298dc99c3f389ff6db123056a3176cfd0851fc",
       "size": 121635,
       "source_url": "https://store.bblcdn.com/s7/default/db6120d8a6124ed190d2bd4e85a6ac18/1_3ed679ae-8f4b-4e2e-a273-0e0fb5dc3b41.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a9/a9bb5803df170529aa0604ad4adae3e29ed1e868e38918f46407675fb49edbfa.png",
       "id": "image-display-8ff84c17a1e541b25855",
       "image_processing": {
@@ -165,6 +192,7 @@
       "parent_asset_id": "image-d57480a39d555905064c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a9bb5803df170529aa0604ad4adae3e29ed1e868e38918f46407675fb49edbfa",
       "size": 97844,
       "source_url": "https://store.bblcdn.com/s7/default/a42520cc9bdb4c5487d507d07b391028/ce740d9fb554f2606b5524400beed8b1.png"
@@ -215,6 +243,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "nb005-round-double-sided-foam-tape",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Thickness",
@@ -236,6 +265,7 @@
       "price": "2.74",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/round-double-sided-foam-tape?skr=yes"
     },
     {
@@ -246,6 +276,7 @@
       "price": "3.15",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/round-double-sided-foam-tape?skr=yes"
     },
     {
@@ -256,6 +287,7 @@
       "price": "2.58",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/round-double-sided-foam-tape?skr=yes"
     },
     {
@@ -266,6 +298,7 @@
       "price": "2.19",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/round-double-sided-foam-tape?skr=yes"
     },
     {
@@ -276,6 +309,7 @@
       "price": "4.95",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/round-double-sided-foam-tape?skr=yes"
     },
     {
@@ -286,6 +320,7 @@
       "price": "2.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/round-double-sided-foam-tape?skr=yes"
     }
   ],
@@ -391,6 +426,7 @@
     "Thickness": "1.1mm(0.45inch)",
     "Type": "3M™ 4950"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -401,6 +437,7 @@
       "price": "2.74",
       "region": "us",
       "sku": "42598784663688",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D20mm (10PCS) - NB005",
       "url": "https://us.store.bambulab.com/products/round-double-sided-foam-tape?id=42598784663688",
       "variant_id": "42598784663688"
@@ -413,6 +450,7 @@
       "price": "3.29",
       "region": "us",
       "sku": "42598784696456",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D30mm (10PCS) - NB006",
       "url": "https://us.store.bambulab.com/products/round-double-sided-foam-tape?id=42598784696456",
       "variant_id": "42598784696456"
@@ -425,6 +463,7 @@
       "price": "4.39",
       "region": "us",
       "sku": "42598784729224",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D40mm (10PCS) - NB007",
       "url": "https://us.store.bambulab.com/products/round-double-sided-foam-tape?id=42598784729224",
       "variant_id": "42598784729224"
@@ -437,6 +476,7 @@
       "price": "3.15",
       "region": "ca",
       "sku": "46205818929392",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D20mm (10PCS) - NB005",
       "url": "https://ca.store.bambulab.com/products/round-double-sided-foam-tape?id=46205818929392",
       "variant_id": "46205818929392"
@@ -449,6 +489,7 @@
       "price": "3.79",
       "region": "ca",
       "sku": "46205818962160",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D30mm (10PCS) - NB006",
       "url": "https://ca.store.bambulab.com/products/round-double-sided-foam-tape?id=46205818962160",
       "variant_id": "46205818962160"
@@ -461,6 +502,7 @@
       "price": "5.05",
       "region": "ca",
       "sku": "46205818994928",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D40mm (10PCS) - NB007",
       "url": "https://ca.store.bambulab.com/products/round-double-sided-foam-tape?id=46205818994928",
       "variant_id": "46205818994928"
@@ -473,6 +515,7 @@
       "price": "2.58",
       "region": "eu",
       "sku": "48909183484252",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D20mm (10PCS) - NB005",
       "url": "https://eu.store.bambulab.com/products/round-double-sided-foam-tape?id=48909183484252",
       "variant_id": "48909183484252"
@@ -485,6 +528,7 @@
       "price": "3.1",
       "region": "eu",
       "sku": "48909183517020",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D30mm (10PCS) - NB006",
       "url": "https://eu.store.bambulab.com/products/round-double-sided-foam-tape?id=48909183517020",
       "variant_id": "48909183517020"
@@ -497,6 +541,7 @@
       "price": "4.13",
       "region": "eu",
       "sku": "48909183549788",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D40mm (10PCS) - NB007",
       "url": "https://eu.store.bambulab.com/products/round-double-sided-foam-tape?id=48909183549788",
       "variant_id": "48909183549788"
@@ -509,6 +554,7 @@
       "price": "2.19",
       "region": "uk",
       "sku": "41867876335676",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D20mm (10PCS) - NB005",
       "url": "https://uk.store.bambulab.com/products/round-double-sided-foam-tape?id=41867876335676",
       "variant_id": "41867876335676"
@@ -521,6 +567,7 @@
       "price": "2.63",
       "region": "uk",
       "sku": "41867876368444",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D30mm (10PCS) - NB006",
       "url": "https://uk.store.bambulab.com/products/round-double-sided-foam-tape?id=41867876368444",
       "variant_id": "41867876368444"
@@ -533,6 +580,7 @@
       "price": "3.51",
       "region": "uk",
       "sku": "41867876401212",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D40mm (10PCS) - NB007",
       "url": "https://uk.store.bambulab.com/products/round-double-sided-foam-tape?id=41867876401212",
       "variant_id": "41867876401212"
@@ -545,6 +593,7 @@
       "price": "4.95",
       "region": "au",
       "sku": "44716204654755",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D20mm (10PCS) - NB005",
       "url": "https://au.store.bambulab.com/products/round-double-sided-foam-tape?id=44716204654755",
       "variant_id": "44716204654755"
@@ -557,6 +606,7 @@
       "price": "5.94",
       "region": "au",
       "sku": "44716204687523",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D30mm (10PCS) - NB006",
       "url": "https://au.store.bambulab.com/products/round-double-sided-foam-tape?id=44716204687523",
       "variant_id": "44716204687523"
@@ -569,6 +619,7 @@
       "price": "7.93",
       "region": "au",
       "sku": "44716204720291",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D40mm (10PCS) - NB007",
       "url": "https://au.store.bambulab.com/products/round-double-sided-foam-tape?id=44716204720291",
       "variant_id": "44716204720291"
@@ -581,6 +632,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "42007681433715",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D20mm (10PCS) - NB005",
       "url": "https://asia.store.bambulab.com/products/round-double-sided-foam-tape?id=42007681433715",
       "variant_id": "42007681433715"
@@ -593,6 +645,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "42007681466483",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D30mm (10PCS) - NB006",
       "url": "https://asia.store.bambulab.com/products/round-double-sided-foam-tape?id=42007681466483",
       "variant_id": "42007681466483"
@@ -605,6 +658,7 @@
       "price": "3.99",
       "region": "asia",
       "sku": "42007681499251",
+      "store_id": "",
       "title": "Round Double Sided Foam Tape - D40mm (10PCS) - NB007",
       "url": "https://asia.store.bambulab.com/products/round-double-sided-foam-tape?id=42007681499251",
       "variant_id": "42007681499251"

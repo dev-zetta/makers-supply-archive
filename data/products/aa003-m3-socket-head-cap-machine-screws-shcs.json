@@ -4,36 +4,49 @@
     {
       "handle": "m3-socket-head-cap-machine-screws-shcs",
       "product_id": "7967980519560",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m3-socket-head-cap-machine-screws-shcs",
       "product_id": "8642121138416",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m3-socket-head-cap-machine-screws-shcs",
       "product_id": "8849611719004",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m3-socket-head-cap-machine-screws-shcs",
       "product_id": "7372755632188",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m3-socket-head-cap-machine-screws-shcs",
       "product_id": "8262523945123",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m3-socket-head-cap-machine-screws-shcs",
       "product_id": "7483846033523",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6c/6c318ceeaa82bd9161026d8aa9bc90ca617fa1f4ca1a2c6cc60ab8c8c4c2bd9e.png",
       "id": "image-0055afe1291e550a54ea",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "AA003.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6c318ceeaa82bd9161026d8aa9bc90ca617fa1f4ca1a2c6cc60ab8c8c4c2bd9e",
       "size": 84472,
       "source_url": "https://store.bblcdn.com/s7/default/d990cc2abb7f4691ae59cb58aba838cb/AA003.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6e/6e328d3ecf2fadf5c8090d71356e7fc4462c68379585d643b5d87159a94e99c4.png",
       "id": "image-e1fe2d3dbacb7f9b3c12",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "M3SocketHeadCapMachineScrews_SHCS_-AA003.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6e328d3ecf2fadf5c8090d71356e7fc4462c68379585d643b5d87159a94e99c4",
       "size": 238251,
       "source_url": "https://store.bblcdn.com/s7/default/68d7e10ad8a047f1a1e028f7116eb4a5/M3SocketHeadCapMachineScrews_SHCS_-AA003.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6b/6b035907e00300fcf8844040c5f21a2d9e30c21821051b7ec03f48513cb9991b.pdf",
       "id": "document-00b6746ca5c240801729",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "M3_Socket_Head_Cap_Machine_Screws_SHCS_9477cf97-9a1a-4799-9dcd-43482d3cb308.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6b035907e00300fcf8844040c5f21a2d9e30c21821051b7ec03f48513cb9991b",
       "size": 543951,
       "source_url": "https://store.bblcdn.com/s7/default/09fa4bb2ed334da499d541b6ef203e39/M3_Socket_Head_Cap_Machine_Screws_SHCS_9477cf97-9a1a-4799-9dcd-43482d3cb308.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/00/00557eb8053b7ee1304cb32d7e62a1599fec04fc0ff22009d24791454ac18cd2.zip",
       "id": "archive-32386fcbe36d0265e0c2",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "M3_Socket_Head_Cap_Machine_Screws_SHCS.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "00557eb8053b7ee1304cb32d7e62a1599fec04fc0ff22009d24791454ac18cd2",
       "size": 159253,
       "source_url": "https://store.bblcdn.com/s7/default/bbb9563722c7452d9fc1ec55b0ce9c42/M3_Socket_Head_Cap_Machine_Screws_SHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3 Socket Head Cap Machine Screws (SHCS)/M3x23 SHCS - AA003/M3x23 SHCS - AA003.stl",
       "blob_path": "data/blobs/sha256/d8/d879032581b81692262758f60aab20767d16fa222b5ac73d99c1990f1126c5f8.stl",
       "id": "model-468afe550bfdb09227b7",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-32386fcbe36d0265e0c2",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d879032581b81692262758f60aab20767d16fa222b5ac73d99c1990f1126c5f8",
       "size": 736984,
       "source_url": "https://store.bblcdn.com/s7/default/bbb9563722c7452d9fc1ec55b0ce9c42/M3_Socket_Head_Cap_Machine_Screws_SHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3 Socket Head Cap Machine Screws (SHCS)/M3x23 SHCS - AA003/M3x23 SHCS - AA003.stp",
       "blob_path": "data/blobs/sha256/75/7534a25c3eb13f6bb65f9b3a418d4903694388b93e52a50ba75741deeeb7ffdf.stp",
       "id": "model-3f3c0bfc61c2a78459b0",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-32386fcbe36d0265e0c2",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7534a25c3eb13f6bb65f9b3a418d4903694388b93e52a50ba75741deeeb7ffdf",
       "size": 86399,
       "source_url": "https://store.bblcdn.com/s7/default/bbb9563722c7452d9fc1ec55b0ce9c42/M3_Socket_Head_Cap_Machine_Screws_SHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c6/c6a7502ac0269e98d951d793f53845fd138aac91b4b50e9d98db13b515840dc7.png",
       "id": "image-display-760f6cb09eccfe25f3a5",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-0055afe1291e550a54ea",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c6a7502ac0269e98d951d793f53845fd138aac91b4b50e9d98db13b515840dc7",
       "size": 71953,
       "source_url": "https://store.bblcdn.com/s7/default/d990cc2abb7f4691ae59cb58aba838cb/AA003.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2e/2e243a1d2c31155851abbf9405925471b1774af47114b6dca259644a4770bcd6.png",
       "id": "image-display-449775a0f847fbddd698",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-e1fe2d3dbacb7f9b3c12",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2e243a1d2c31155851abbf9405925471b1774af47114b6dca259644a4770bcd6",
       "size": 61841,
       "source_url": "https://store.bblcdn.com/s7/default/68d7e10ad8a047f1a1e028f7116eb4a5/M3SocketHeadCapMachineScrews_SHCS_-AA003.png"
@@ -195,6 +223,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa003-m3-socket-head-cap-machine-screws-shcs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",
@@ -279,6 +308,7 @@
       "price": "1.64",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/m3-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -289,6 +319,7 @@
       "price": "1.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/m3-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -299,6 +330,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/m3-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -309,6 +341,7 @@
       "price": "2.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/m3-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -319,6 +352,7 @@
       "price": "3.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/m3-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -329,6 +363,7 @@
       "price": "1.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/m3-socket-head-cap-machine-screws-shcs?skr=yes"
     }
   ],
@@ -454,6 +489,7 @@
     "k (mm) Hexagon Across Flats": "2",
     "t (mm) Groove Depth": "1.2"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -464,6 +500,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42102774268040",
+      "store_id": "",
       "title": "M3 Socket Head Cap Machine Screws (SHCS) - Half Thread - M3x23 SHCS Machine Screw (10PCS) -AA003",
       "url": "https://us.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs?id=42102774268040",
       "variant_id": "42102774268040"
@@ -476,6 +513,7 @@
       "price": "1.99",
       "region": "ca",
       "sku": "45646997094640",
+      "store_id": "",
       "title": "M3 Socket Head Cap Machine Screws (SHCS) - Half Thread - M3x23 SHCS Machine Screw (10PCS) -AA003",
       "url": "https://ca.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs?id=45646997094640",
       "variant_id": "45646997094640"
@@ -488,6 +526,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "47966811390300",
+      "store_id": "",
       "title": "M3 Socket Head Cap Machine Screws (SHCS) - Half Thread - M3x23 SHCS Machine Screw (10PCS) -AA003",
       "url": "https://eu.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs?id=47966811390300",
       "variant_id": "47966811390300"
@@ -500,6 +539,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "41313073823804",
+      "store_id": "",
       "title": "M3 Socket Head Cap Machine Screws (SHCS) - Half Thread - M3x23 SHCS Machine Screw (10PCS) -AA003",
       "url": "https://uk.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs?id=41313073823804",
       "variant_id": "41313073823804"
@@ -512,6 +552,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "44119596728483",
+      "store_id": "",
       "title": "M3 Socket Head Cap Machine Screws (SHCS) - Half Thread - M3x23 SHCS Machine Screw (10PCS) -AA003",
       "url": "https://au.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs?id=44119596728483",
       "variant_id": "44119596728483"
@@ -524,6 +565,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "41565663920243",
+      "store_id": "",
       "title": "M3 Socket Head Cap Machine Screws (SHCS) - Half Thread - M3x23 SHCS Machine Screw (10PCS) -AA003",
       "url": "https://asia.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs?id=41565663920243",
       "variant_id": "41565663920243"

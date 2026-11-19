@@ -4,36 +4,49 @@
     {
       "handle": "balloon-wind-spinner-led-vawt",
       "product_id": "736816959333658624",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "balloon-wind-spinner-led-vawt",
       "product_id": "736815903122821120",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "balloon-wind-spinner-led-vawt",
       "product_id": "736817229233467392",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "balloon-wind-spinner-led-vawt",
       "product_id": "736816430309056512",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "balloon-wind-spinner-led-vawt",
       "product_id": "736815349970194432",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "balloon-wind-spinner-led-vawt",
       "product_id": "736806908890472448",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/23/23a5e6d85bc28c1a0f631ab05e6d86f58c08f4cb7755bb6e0a830df5f0ba6662.png",
       "id": "image-1657f339057b95b7a5c5",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH144.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "23a5e6d85bc28c1a0f631ab05e6d86f58c08f4cb7755bb6e0a830df5f0ba6662",
       "size": 815988,
       "source_url": "https://store.bblcdn.com/s7/default/6bbb0c529cb64dc7a10b177161bf49fa/B-ZH144.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/26/26a6f0108f4e746d5c6397c3a5379f4868a372646528a7ab458573eb16df6e95.png",
       "id": "image-455ba00082f23329c76e",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH144-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "26a6f0108f4e746d5c6397c3a5379f4868a372646528a7ab458573eb16df6e95",
       "size": 175509,
       "source_url": "https://store.bblcdn.com/s7/default/d4a198769d6244408122fda1f06ba9f8/B-ZH144-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/34/345c48d488e2feadc22b3c6dfd47fa34c0bc05bb6e3dfc6170abd226feadada7.png",
       "id": "image-display-8131f08da028d461dfb7",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-1657f339057b95b7a5c5",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "345c48d488e2feadc22b3c6dfd47fa34c0bc05bb6e3dfc6170abd226feadada7",
       "size": 674728,
       "source_url": "https://store.bblcdn.com/s7/default/6bbb0c529cb64dc7a10b177161bf49fa/B-ZH144.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/52/528a1f0ad1da0a4814136ea27f22ec2397d31ddecc2367bd8762bb7323d58318.png",
       "id": "image-display-e2c1067ac72edb00abd8",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-455ba00082f23329c76e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "528a1f0ad1da0a4814136ea27f22ec2397d31ddecc2367bd8762bb7323d58318",
       "size": 147850,
       "source_url": "https://store.bblcdn.com/s7/default/d4a198769d6244408122fda1f06ba9f8/B-ZH144-1.png"
@@ -148,7 +168,8 @@
   "description_text": "To download the model files please visit the Balloon Wind Spinner - LED VAWT on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh144-balloon-wind-spinner-led-vawt",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Balloon Wind Spinner - LED VAWT",
   "offers": [
@@ -160,6 +181,7 @@
       "price": "19.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/balloon-wind-spinner-led-vawt?skr=yes"
     },
     {
@@ -170,6 +192,7 @@
       "price": "22.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/balloon-wind-spinner-led-vawt?skr=yes"
     },
     {
@@ -180,6 +203,7 @@
       "price": "18.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/balloon-wind-spinner-led-vawt?skr=yes"
     },
     {
@@ -190,6 +214,7 @@
       "price": "15.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/balloon-wind-spinner-led-vawt?skr=yes"
     },
     {
@@ -200,6 +225,7 @@
       "price": "35.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/balloon-wind-spinner-led-vawt?skr=yes"
     },
     {
@@ -210,6 +236,7 @@
       "price": "17.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/balloon-wind-spinner-led-vawt?skr=yes"
     }
   ],
@@ -265,6 +292,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -275,6 +303,7 @@
       "price": "19.99",
       "region": "us",
       "sku": "736816959346241538",
+      "store_id": "",
       "title": "Balloon Wind Spinner - LED VAWT - Balloon Wind Spinner - LED VAWT - ZH144",
       "url": "https://us.store.bambulab.com/products/balloon-wind-spinner-led-vawt?id=736816959346241538",
       "variant_id": "736816959346241538"
@@ -287,6 +316,7 @@
       "price": "22.99",
       "region": "ca",
       "sku": "736815903135404034",
+      "store_id": "",
       "title": "Balloon Wind Spinner - LED VAWT - Balloon Wind Spinner - LED VAWT - ZH144",
       "url": "https://ca.store.bambulab.com/products/balloon-wind-spinner-led-vawt?id=736815903135404034",
       "variant_id": "736815903135404034"
@@ -299,6 +329,7 @@
       "price": "18.99",
       "region": "eu",
       "sku": "736817229258633218",
+      "store_id": "",
       "title": "Balloon Wind Spinner - LED VAWT - Balloon Wind Spinner - LED VAWT - ZH144",
       "url": "https://eu.store.bambulab.com/products/balloon-wind-spinner-led-vawt?id=736817229258633218",
       "variant_id": "736817229258633218"
@@ -311,6 +342,7 @@
       "price": "15.99",
       "region": "uk",
       "sku": "736816430359388162",
+      "store_id": "",
       "title": "Balloon Wind Spinner - LED VAWT - Balloon Wind Spinner - LED VAWT - ZH144",
       "url": "https://uk.store.bambulab.com/products/balloon-wind-spinner-led-vawt?id=736816430359388162",
       "variant_id": "736816430359388162"
@@ -323,6 +355,7 @@
       "price": "35.99",
       "region": "au",
       "sku": "736815349995360258",
+      "store_id": "",
       "title": "Balloon Wind Spinner - LED VAWT - Balloon Wind Spinner - LED VAWT - ZH144",
       "url": "https://au.store.bambulab.com/products/balloon-wind-spinner-led-vawt?id=736815349995360258",
       "variant_id": "736815349995360258"
@@ -335,6 +368,7 @@
       "price": "17.99",
       "region": "asia",
       "sku": "736806908907249666",
+      "store_id": "",
       "title": "Balloon Wind Spinner - LED VAWT - Balloon Wind Spinner - LED VAWT - ZH144",
       "url": "https://asia.store.bambulab.com/products/balloon-wind-spinner-led-vawt?id=736806908907249666",
       "variant_id": "736806908907249666"

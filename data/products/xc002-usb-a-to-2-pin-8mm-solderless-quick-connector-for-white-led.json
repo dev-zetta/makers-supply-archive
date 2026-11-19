@@ -4,36 +4,49 @@
     {
       "handle": "usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led",
       "product_id": "8199551123592",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led",
       "product_id": "8877727777008",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led",
       "product_id": "9418258645340",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led",
       "product_id": "7644028141628",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led",
       "product_id": "8487071056035",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led",
       "product_id": "7649539948659",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f9/f9f9654391d065fd6784926bcada301b574e2ddb8fde6df68bdb763725f7d0ef.png",
       "id": "image-4f89d2b2bc075b2210f5",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "Group1123861026.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f9f9654391d065fd6784926bcada301b574e2ddb8fde6df68bdb763725f7d0ef",
       "size": 41663,
       "source_url": "https://store.bblcdn.com/s7/default/d1cfae21079d4c96b78e6108460daa63/Group1123861026.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/28/28b4dfd4bc601fa05c9b750662a7b902a3e181a7f163c13a3f389e81d1371228.png",
       "id": "image-f5d428710306892c29ac",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "XC002_2f086aa1-676b-49ee-899f-af76f8323f96.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "28b4dfd4bc601fa05c9b750662a7b902a3e181a7f163c13a3f389e81d1371228",
       "size": 163611,
       "source_url": "https://store.bblcdn.com/s7/default/5d1a30759c5f45a08b49e5d1568838f6/XC002_2f086aa1-676b-49ee-899f-af76f8323f96.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d1/d140488d8697aa9505c54ad30bee1d10082fd360c0de28c8b20226f8c5d8b7cf.png",
       "id": "image-display-a8f0b6ab8f851e5009d4",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-4f89d2b2bc075b2210f5",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d140488d8697aa9505c54ad30bee1d10082fd360c0de28c8b20226f8c5d8b7cf",
       "size": 30156,
       "source_url": "https://store.bblcdn.com/s7/default/d1cfae21079d4c96b78e6108460daa63/Group1123861026.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3c/3c97ee54166c9fad664318cbb64a6e77a2b39d2dfbac97a358e4aa8ddea6d93c.png",
       "id": "image-display-a7ada1d1b1fe15f09c89",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-f5d428710306892c29ac",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3c97ee54166c9fad664318cbb64a6e77a2b39d2dfbac97a358e4aa8ddea6d93c",
       "size": 47310,
       "source_url": "https://store.bblcdn.com/s7/default/5d1a30759c5f45a08b49e5d1568838f6/XC002_2f086aa1-676b-49ee-899f-af76f8323f96.png"
@@ -158,6 +178,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xc002-usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Cable Length",
@@ -190,6 +211,7 @@
       "price": "2.19",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?skr=yes"
     },
     {
@@ -200,6 +222,7 @@
       "price": "2.43",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?skr=yes"
     },
     {
@@ -210,6 +233,7 @@
       "price": "2.06",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?skr=yes"
     },
     {
@@ -220,6 +244,7 @@
       "price": "1.75",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?skr=yes"
     },
     {
@@ -230,6 +255,7 @@
       "price": "3.81",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?skr=yes"
     },
     {
@@ -240,6 +266,7 @@
       "price": "1.92",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?skr=yes"
     }
   ],
@@ -289,6 +316,7 @@
     "Product ID": "XC002",
     "Quantity": "2 pcs"
   },
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -301,6 +329,7 @@
       "price": "2.19",
       "region": "us",
       "sku": "42561772224648",
+      "store_id": "",
       "title": "USB-A to 2 Pin 8mm Solderless Quick Connector For White LED - USB-A to 2 Pin 8mm (2PCS) - XC002",
       "url": "https://us.store.bambulab.com/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?id=42561772224648",
       "variant_id": "42561772224648"
@@ -313,6 +342,7 @@
       "price": "2.43",
       "region": "ca",
       "sku": "46172231401712",
+      "store_id": "",
       "title": "USB-A to 2 Pin 8mm Solderless Quick Connector For White LED - USB-A to 2 Pin 8mm (2PCS) - XC002",
       "url": "https://ca.store.bambulab.com/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?id=46172231401712",
       "variant_id": "46172231401712"
@@ -325,6 +355,7 @@
       "price": "2.06",
       "region": "eu",
       "sku": "48871973814620",
+      "store_id": "",
       "title": "USB-A to 2 Pin 8mm Solderless Quick Connector For White LED - USB-A to 2 Pin 8mm (2PCS) - XC002",
       "url": "https://eu.store.bambulab.com/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?id=48871973814620",
       "variant_id": "48871973814620"
@@ -337,6 +368,7 @@
       "price": "1.75",
       "region": "uk",
       "sku": "41833283223612",
+      "store_id": "",
       "title": "USB-A to 2 Pin 8mm Solderless Quick Connector For White LED - USB-A to 2 Pin 8mm (2PCS) - XC002",
       "url": "https://uk.store.bambulab.com/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?id=41833283223612",
       "variant_id": "41833283223612"
@@ -349,6 +381,7 @@
       "price": "3.81",
       "region": "au",
       "sku": "44700350546083",
+      "store_id": "",
       "title": "USB-A to 2 Pin 8mm Solderless Quick Connector For White LED - USB-A to 2 Pin 8mm (2PCS) - XC002",
       "url": "https://au.store.bambulab.com/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?id=44700350546083",
       "variant_id": "44700350546083"
@@ -361,6 +394,7 @@
       "price": "1.92",
       "region": "asia",
       "sku": "41923273031795",
+      "store_id": "",
       "title": "USB-A to 2 Pin 8mm Solderless Quick Connector For White LED - USB-A to 2 Pin 8mm (2PCS) - XC002",
       "url": "https://asia.store.bambulab.com/products/usb-a-to-2-pin-8mm-solderless-quick-connector-for-white-led?id=41923273031795",
       "variant_id": "41923273031795"

@@ -4,41 +4,56 @@
     {
       "handle": "electric-coffee-wdt-tool-kit-k013",
       "product_id": "7854480588936",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-coffee-wdt-tool-kit-k013",
       "product_id": "8538641629424",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-coffee-wdt-tool-kit-k013",
       "product_id": "8779063066972",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-coffee-wdt-tool-kit-k013",
       "product_id": "7305602039868",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-coffee-wdt-tool-kit-k013",
       "product_id": "8251639890083",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-coffee-wdt-tool-kit-k013",
       "product_id": "9897334866212",
-      "region": "jp"
+      "region": "jp",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-coffee-wdt-tool-kit-k013",
       "product_id": "7428167532659",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/09/09950532f4d359211d26853d95a7cb51024fb13a82a2c9f4014eef1512a91acc.png",
       "id": "image-9e977a529f664376d897",
       "kind": "image",
@@ -46,11 +61,13 @@
       "original_filename": "CP_5c1d8497-de99-4ea8-865b-8c25853eb90d.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "09950532f4d359211d26853d95a7cb51024fb13a82a2c9f4014eef1512a91acc",
       "size": 1626381,
       "source_url": "https://store.bblcdn.com/s7/default/42233930690a4adeb21c6f20859c7105/CP_5c1d8497-de99-4ea8-865b-8c25853eb90d.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c7/c7c15ad935589b72f3a7a66137b9db996d4dffff9a1a8c913cbdbae3fcfa55da.png",
       "id": "image-a89d9591c2452db8fb09",
       "kind": "image",
@@ -58,11 +75,13 @@
       "original_filename": "CP_41946a8c-5a05-416c-8cbd-0667204abd59.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c7c15ad935589b72f3a7a66137b9db996d4dffff9a1a8c913cbdbae3fcfa55da",
       "size": 1221787,
       "source_url": "https://store.bblcdn.com/s7/default/8a220ab1463c487b9d4b4fed4e4d43d0/CP_41946a8c-5a05-416c-8cbd-0667204abd59.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0a/0a293e5aa5a5e8920ca78cce77331ad088fd75a0160037699030bafabf5e8497.png",
       "id": "image-763d1c10c0904d9877e8",
       "kind": "image",
@@ -70,11 +89,13 @@
       "original_filename": "a4390f7fb97472a8db834b9b2fb41318.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0a293e5aa5a5e8920ca78cce77331ad088fd75a0160037699030bafabf5e8497",
       "size": 600339,
       "source_url": "https://store.bblcdn.com/s7/default/46d4e422c2c84f17b65474fef700b79a/a4390f7fb97472a8db834b9b2fb41318.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/15/15a5695aaf16d782e1145a65ec876b6acffd98cee1cd939a71cd4419b6222e6b.png",
       "id": "image-display-e01f854a389a99a59d27",
       "image_processing": {
@@ -92,11 +113,13 @@
       "parent_asset_id": "image-9e977a529f664376d897",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "15a5695aaf16d782e1145a65ec876b6acffd98cee1cd939a71cd4419b6222e6b",
       "size": 531634,
       "source_url": "https://store.bblcdn.com/s7/default/42233930690a4adeb21c6f20859c7105/CP_5c1d8497-de99-4ea8-865b-8c25853eb90d.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2b/2baf123ddc3eab043f1a391fc6ec6267597aadfaa17c7bee6676911b31f83f12.png",
       "id": "image-display-50ead880a7f366032ce3",
       "image_processing": {
@@ -114,11 +137,13 @@
       "parent_asset_id": "image-a89d9591c2452db8fb09",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2baf123ddc3eab043f1a391fc6ec6267597aadfaa17c7bee6676911b31f83f12",
       "size": 259239,
       "source_url": "https://store.bblcdn.com/s7/default/8a220ab1463c487b9d4b4fed4e4d43d0/CP_41946a8c-5a05-416c-8cbd-0667204abd59.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6a/6a24f4a27589c07da7d075f209bed123a2abbe4313b23620a5cf52a4ee14aa20.png",
       "id": "image-display-593c95a491b7e0eff0a4",
       "image_processing": {
@@ -136,6 +161,7 @@
       "parent_asset_id": "image-763d1c10c0904d9877e8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6a24f4a27589c07da7d075f209bed123a2abbe4313b23620a5cf52a4ee14aa20",
       "size": 154856,
       "source_url": "https://store.bblcdn.com/s7/default/46d4e422c2c84f17b65474fef700b79a/a4390f7fb97472a8db834b9b2fb41318.png"
@@ -228,7 +254,8 @@
   "description_text": "The Electric Coffee WDT Tool Kit contains all the non-3D printed parts for assembling an entirely functional Electric Coffee WDT Tool. To complete the work, you need to download the model files and 3D print the parts. To download the model files and obtain detailed information, please visit the BooKoo Coffee Electric WDT on Makerworld.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\n1. The needles in the kit are made of stainless steel and have undergone strict sterilization before packaging. It is recommended to sterilize them again before use to ensure food safety. Please be careful not to get injured by the needles when installing them. 2. It is compatible with most 2-ear 58mm coffee portafilters (with ear width within 30mm).",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "k013-electric-coffee-wdt-tool-kit-k013",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Electric Coffee WDT Tool Kit-K013",
   "offers": [
@@ -240,6 +267,7 @@
       "price": "30.4",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
     },
     {
@@ -250,6 +278,7 @@
       "price": "36",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
     },
     {
@@ -260,6 +289,7 @@
       "price": "29.6",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
     },
     {
@@ -270,6 +300,7 @@
       "price": "24.8",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
     },
     {
@@ -280,6 +311,7 @@
       "price": "45.6",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
     },
     {
@@ -290,6 +322,7 @@
       "price": "5500",
       "region": "jp",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://jp.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
     },
     {
@@ -300,6 +333,7 @@
       "price": "28",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/electric-coffee-wdt-tool-kit-k013?skr=yes"
     }
   ],
@@ -414,6 +448,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -426,6 +461,7 @@
       "price": "30.4",
       "region": "us",
       "sku": "41834158751880",
+      "store_id": "",
       "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
       "url": "https://us.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=41834158751880",
       "variant_id": "41834158751880"
@@ -438,6 +474,7 @@
       "price": "36",
       "region": "ca",
       "sku": "45193745268976",
+      "store_id": "",
       "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
       "url": "https://ca.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=45193745268976",
       "variant_id": "45193745268976"
@@ -450,6 +487,7 @@
       "price": "29.6",
       "region": "eu",
       "sku": "47743252300124",
+      "store_id": "",
       "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
       "url": "https://eu.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=47743252300124",
       "variant_id": "47743252300124"
@@ -462,6 +500,7 @@
       "price": "24.8",
       "region": "uk",
       "sku": "41123087646780",
+      "store_id": "",
       "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
       "url": "https://uk.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=41123087646780",
       "variant_id": "41123087646780"
@@ -474,6 +513,7 @@
       "price": "45.6",
       "region": "au",
       "sku": "44084322369699",
+      "store_id": "",
       "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
       "url": "https://au.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=44084322369699",
       "variant_id": "44084322369699"
@@ -486,6 +526,7 @@
       "price": "5500",
       "region": "jp",
       "sku": "49994763501860",
+      "store_id": "",
       "title": "電動コーヒーWDTツールキット-K013 - 電動コーヒーWDTツールキット（×1点）-K013",
       "url": "https://jp.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=49994763501860",
       "variant_id": "49994763501860"
@@ -498,6 +539,7 @@
       "price": "28",
       "region": "asia",
       "sku": "41399871504499",
+      "store_id": "",
       "title": "Electric Coffee WDT Tool Kit-K013 - Electric Coffee WDT Tool Kit (1pcs)-K013",
       "url": "https://asia.store.bambulab.com/products/electric-coffee-wdt-tool-kit-k013?id=41399871504499",
       "variant_id": "41399871504499"

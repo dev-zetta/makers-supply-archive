@@ -4,36 +4,49 @@
     {
       "handle": "nfc-tag-with-adhesive",
       "product_id": "8337876451464",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "nfc-tag-with-adhesive",
       "product_id": "9002425483504",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "nfc-tag-with-adhesive",
       "product_id": "9555416023388",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "nfc-tag-with-adhesive",
       "product_id": "7773949165628",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "nfc-tag-with-adhesive",
       "product_id": "8582172967075",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "nfc-tag-with-adhesive",
       "product_id": "505992666711076864",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a9/a9e3970c7440dc3551499a7439c1220252480efcdd7bf550ce821d9378066db1.png",
       "id": "image-179f2b7b885408ab3f8b",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "8301.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a9e3970c7440dc3551499a7439c1220252480efcdd7bf550ce821d9378066db1",
       "size": 221168,
       "source_url": "https://store.bblcdn.com/s7/default/eeae5774e3004e7594e659b1dd8578a8/8301.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/df/dff8c4b400f1ed77ebc2d18588c0dca700795871ee46b0b1d103d7c014e06088.png",
       "id": "image-7b630998381c3f93490d",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "XD002.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dff8c4b400f1ed77ebc2d18588c0dca700795871ee46b0b1d103d7c014e06088",
       "size": 316515,
       "source_url": "https://store.bblcdn.com/s7/default/7f8f3540a733457d8fe04511f7421c64/XD002.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/97/97f96e1b9af20c64f420e53c5592a44a3a03a9c77473f20c0a7a12912ba8b68e.png",
       "id": "image-display-911175e0e0bdad42af3b",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-179f2b7b885408ab3f8b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "97f96e1b9af20c64f420e53c5592a44a3a03a9c77473f20c0a7a12912ba8b68e",
       "size": 183705,
       "source_url": "https://store.bblcdn.com/s7/default/eeae5774e3004e7594e659b1dd8578a8/8301.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/85/85d458cff886fe24b8a6f0edffc9df77536141690642427ff629a6262c2eec48.png",
       "id": "image-display-5e8d9d1c7a2f4d2abf93",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-7b630998381c3f93490d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "85d458cff886fe24b8a6f0edffc9df77536141690642427ff629a6262c2eec48",
       "size": 86534,
       "source_url": "https://store.bblcdn.com/s7/default/7f8f3540a733457d8fe04511f7421c64/XD002.png"
@@ -203,6 +223,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xd002-nfc-tag-with-adhesive",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "NFC Tag with Adhesive (20pcs)",
   "offers": [
@@ -214,6 +235,7 @@
       "price": "7.69",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
     },
     {
@@ -224,6 +246,7 @@
       "price": "8.85",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
     },
     {
@@ -234,6 +257,7 @@
       "price": "7.24",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
     },
     {
@@ -244,6 +268,7 @@
       "price": "6.15",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
     },
     {
@@ -254,6 +279,7 @@
       "price": "13.89",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
     },
     {
@@ -264,6 +290,7 @@
       "price": "6.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/nfc-tag-with-adhesive?skr=yes"
     }
   ],
@@ -373,6 +400,7 @@
     "Read Durability": "100,000 cycles",
     "Read Range": "0-5CM"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -383,6 +411,7 @@
       "price": "7.69",
       "region": "us",
       "sku": "42872074240136",
+      "store_id": "",
       "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
       "url": "https://us.store.bambulab.com/products/nfc-tag-with-adhesive?id=42872074240136",
       "variant_id": "42872074240136"
@@ -395,6 +424,7 @@
       "price": "8.85",
       "region": "ca",
       "sku": "46530740912368",
+      "store_id": "",
       "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
       "url": "https://ca.store.bambulab.com/products/nfc-tag-with-adhesive?id=46530740912368",
       "variant_id": "46530740912368"
@@ -407,6 +437,7 @@
       "price": "7.24",
       "region": "eu",
       "sku": "49285033427292",
+      "store_id": "",
       "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
       "url": "https://eu.store.bambulab.com/products/nfc-tag-with-adhesive?id=49285033427292",
       "variant_id": "49285033427292"
@@ -419,6 +450,7 @@
       "price": "6.15",
       "region": "uk",
       "sku": "42140425060412",
+      "store_id": "",
       "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
       "url": "https://uk.store.bambulab.com/products/nfc-tag-with-adhesive?id=42140425060412",
       "variant_id": "42140425060412"
@@ -431,6 +463,7 @@
       "price": "13.89",
       "region": "au",
       "sku": "45158805864611",
+      "store_id": "",
       "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
       "url": "https://au.store.bambulab.com/products/nfc-tag-with-adhesive?id=45158805864611",
       "variant_id": "45158805864611"
@@ -443,6 +476,7 @@
       "price": "6.99",
       "region": "asia",
       "sku": "505992666711076868",
+      "store_id": "",
       "title": "NFC Tag with Adhesive (20pcs) - NFC Tag with Adhesive (20PCS) - XD002",
       "url": "https://asia.store.bambulab.com/products/nfc-tag-with-adhesive?id=505992666711076868",
       "variant_id": "505992666711076868"

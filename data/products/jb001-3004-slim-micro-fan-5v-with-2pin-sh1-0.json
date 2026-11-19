@@ -4,36 +4,49 @@
     {
       "handle": "3004-slim-micro-fan-5v-with-2pin-sh1-0",
       "product_id": "8200775401608",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "3004-slim-micro-fan-5v-with-2pin-sh1-0",
       "product_id": "8890775240944",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "3004-slim-micro-fan-5v-with-2pin-sh1-0",
       "product_id": "9439388270940",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "3004-slim-micro-fan-5v-with-2pin-sh1-0",
       "product_id": "7659444666428",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "3004-slim-micro-fan-5v-with-2pin-sh1-0",
       "product_id": "8496613621923",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "3004-slim-micro-fan-5v-with-2pin-sh1-0",
       "product_id": "7670588244083",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ec/ece712cd95ce0d530cec528d067a69ecfd6219c0b8710eecdef425a97903ffde.png",
       "id": "image-02fab7d597be1ccc96a6",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "3004_Slim_Micro_Fan_5V_with_2pin_PH1.0.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ece712cd95ce0d530cec528d067a69ecfd6219c0b8710eecdef425a97903ffde",
       "size": 186370,
       "source_url": "https://store.bblcdn.com/s7/default/d816556f8eca40ee9e9f7a3fec56eb45/3004_Slim_Micro_Fan_5V_with_2pin_PH1.0.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/61/61c547eae81cff8f722112f5d2f8078422f04d06ee6a82da35a05f39609f49ee.png",
       "id": "image-8951cf0652f2ff4df27a",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "10.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "61c547eae81cff8f722112f5d2f8078422f04d06ee6a82da35a05f39609f49ee",
       "size": 518302,
       "source_url": "https://store.bblcdn.com/s7/default/f550910fab624c60bf14cf5212960358/10.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8f/8f57650e05072bc584147a7a836ddcc2a9a637cd75da34cb24b30ff2137c74d5.png",
       "id": "image-9d594dd3d2a9a48c7c29",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "11_45205291-172c-4537-bcbe-5b29d352efc7.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8f57650e05072bc584147a7a836ddcc2a9a637cd75da34cb24b30ff2137c74d5",
       "size": 503953,
       "source_url": "https://store.bblcdn.com/s7/default/ef831f09b6824a4c971b7ad1f7709bb8/11_45205291-172c-4537-bcbe-5b29d352efc7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f1d6b85c93ebfbe35c1d92c5e38b1e91148574a3ee20020a3cf2f5b84f9f7c93.pdf",
       "id": "document-14663f8af8e600040fef",
       "kind": "document",
@@ -77,11 +96,13 @@
       "original_filename": "3004_Slim_Micro_Fan_5V_with_2pin_PH1.0.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1d6b85c93ebfbe35c1d92c5e38b1e91148574a3ee20020a3cf2f5b84f9f7c93",
       "size": 208081,
       "source_url": "https://store.bblcdn.com/s7/default/421bb3bd5b5d4682a028426f72ac224b/3004_Slim_Micro_Fan_5V_with_2pin_PH1.0.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ca/ca0977370ea27e66114d7d92f9b286f515e0a24433b431429b82fad718fead1f.zip",
       "id": "archive-bc31ff2c0e2472ff5848",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "3004_Slim_Micro_Fan_5V_with_2pin_PH1.0_1PCS_-_JB001.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ca0977370ea27e66114d7d92f9b286f515e0a24433b431429b82fad718fead1f",
       "size": 831123,
       "source_url": "https://store.bblcdn.com/s7/default/c12c88cb33804fccaeac95b4a0973061/3004_Slim_Micro_Fan_5V_with_2pin_PH1.0_1PCS_-_JB001.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3004└δ╨─╔╚/3004 Slim Micro Fan 5V with 2pin PH1.0 (1PCS) - JB001.stl",
       "blob_path": "data/blobs/sha256/82/82e2a984b57accda6bf6e4cb4651e4d730cc626266f29fb24dbe5cfffe0a2a3e.stl",
       "id": "model-e84321f74d8edd08e0f4",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-bc31ff2c0e2472ff5848",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "82e2a984b57accda6bf6e4cb4651e4d730cc626266f29fb24dbe5cfffe0a2a3e",
       "size": 1745984,
       "source_url": "https://store.bblcdn.com/s7/default/c12c88cb33804fccaeac95b4a0973061/3004_Slim_Micro_Fan_5V_with_2pin_PH1.0_1PCS_-_JB001.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3004└δ╨─╔╚/3004 Slim Micro Fan 5V with 2pin PH1.0 (1PCS) - JB001.stp",
       "blob_path": "data/blobs/sha256/46/46d8f5bbd45c5e33063346c4759ba1537b01e509a3bc2eb87f256a5f7d30396b.stp",
       "id": "model-64543a88b5a747b03e2f",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-bc31ff2c0e2472ff5848",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "46d8f5bbd45c5e33063346c4759ba1537b01e509a3bc2eb87f256a5f7d30396b",
       "size": 1111619,
       "source_url": "https://store.bblcdn.com/s7/default/c12c88cb33804fccaeac95b4a0973061/3004_Slim_Micro_Fan_5V_with_2pin_PH1.0_1PCS_-_JB001.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e8/e84aca259a39dfcad66522928f29e33e80a83414a18778628937a435570087c8.png",
       "id": "image-display-0652956f0781127025d8",
       "image_processing": {
@@ -139,11 +166,13 @@
       "parent_asset_id": "image-02fab7d597be1ccc96a6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e84aca259a39dfcad66522928f29e33e80a83414a18778628937a435570087c8",
       "size": 157566,
       "source_url": "https://store.bblcdn.com/s7/default/d816556f8eca40ee9e9f7a3fec56eb45/3004_Slim_Micro_Fan_5V_with_2pin_PH1.0.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b5/b51b032290626d3f2ec830d5d5ae025a89faa4fe451c20bdc203b069fee39ee5.png",
       "id": "image-display-125dd622ce2ee7dd7652",
       "image_processing": {
@@ -161,11 +190,13 @@
       "parent_asset_id": "image-8951cf0652f2ff4df27a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b51b032290626d3f2ec830d5d5ae025a89faa4fe451c20bdc203b069fee39ee5",
       "size": 139132,
       "source_url": "https://store.bblcdn.com/s7/default/f550910fab624c60bf14cf5212960358/10.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/92/929577bfc361c33866e64da703754520916f2cae7fa521b09e991473ec039885.png",
       "id": "image-display-8a4e329c56160ee3ac59",
       "image_processing": {
@@ -183,6 +214,7 @@
       "parent_asset_id": "image-9d594dd3d2a9a48c7c29",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "929577bfc361c33866e64da703754520916f2cae7fa521b09e991473ec039885",
       "size": 130399,
       "source_url": "https://store.bblcdn.com/s7/default/ef831f09b6824a4c971b7ad1f7709bb8/11_45205291-172c-4537-bcbe-5b29d352efc7.png"
@@ -248,6 +280,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "jb001-3004-slim-micro-fan-5v-with-2pin-sh1-0",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Cable Length (mm)",
@@ -278,6 +311,7 @@
       "price": "3.84",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?skr=yes"
     },
     {
@@ -288,6 +322,7 @@
       "price": "4.42",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?skr=yes"
     },
     {
@@ -298,6 +333,7 @@
       "price": "3.62",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?skr=yes"
     },
     {
@@ -308,6 +344,7 @@
       "price": "3.07",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?skr=yes"
     },
     {
@@ -318,6 +355,7 @@
       "price": "6.94",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?skr=yes"
     },
     {
@@ -328,6 +366,7 @@
       "price": "3.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?skr=yes"
     }
   ],
@@ -420,6 +459,7 @@
     "Rated Speed (RPM)": "10000 ±15%",
     "Rated Voltage (V)": "5V"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -430,6 +470,7 @@
       "price": "3.84",
       "region": "us",
       "sku": "42564236017800",
+      "store_id": "",
       "title": "3004 5V Slim Micro Fan with 2pin SH1.0 - 3004 Slim Micro Fan 5V with 2pin SH1.0 (1PCS) - JB001",
       "url": "https://us.store.bambulab.com/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?id=42564236017800",
       "variant_id": "42564236017800"
@@ -442,6 +483,7 @@
       "price": "4.42",
       "region": "ca",
       "sku": "46214665961712",
+      "store_id": "",
       "title": "3004 5V Slim Micro Fan with 2pin SH1.0 - 3004 Slim Micro Fan 5V with 2pin SH1.0 (1PCS) - JB001",
       "url": "https://ca.store.bambulab.com/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?id=46214665961712",
       "variant_id": "46214665961712"
@@ -454,6 +496,7 @@
       "price": "3.62",
       "region": "eu",
       "sku": "48921650463068",
+      "store_id": "",
       "title": "3004 5V Slim Micro Fan with 2pin SH1.0 - 3004 Slim Micro Fan 5V with 2pin SH1.0 (1PCS) - JB001",
       "url": "https://eu.store.bambulab.com/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?id=48921650463068",
       "variant_id": "48921650463068"
@@ -466,6 +509,7 @@
       "price": "3.07",
       "region": "uk",
       "sku": "41877249982524",
+      "store_id": "",
       "title": "3004 5V Slim Micro Fan with 2pin SH1.0 - 3004 Slim Micro Fan 5V with 2pin SH1.0 (1PCS) - JB001",
       "url": "https://uk.store.bambulab.com/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?id=41877249982524",
       "variant_id": "41877249982524"
@@ -478,6 +522,7 @@
       "price": "6.94",
       "region": "au",
       "sku": "44722975899811",
+      "store_id": "",
       "title": "3004 5V Slim Micro Fan with 2pin SH1.0 - 3004 Slim Micro Fan 5V with 2pin SH1.0 (1PCS) - JB001",
       "url": "https://au.store.bambulab.com/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?id=44722975899811",
       "variant_id": "44722975899811"
@@ -490,6 +535,7 @@
       "price": "3.49",
       "region": "asia",
       "sku": "42013601202291",
+      "store_id": "",
       "title": "3004 5V Slim Micro Fan with 2pin SH1.0 - 3004 Slim Micro Fan 5V with 2pin SH1.0 (1PCS) - JB001",
       "url": "https://asia.store.bambulab.com/products/3004-slim-micro-fan-5v-with-2pin-sh1-0?id=42013601202291",
       "variant_id": "42013601202291"

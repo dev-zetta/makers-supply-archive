@@ -4,36 +4,49 @@
     {
       "handle": "time-machine-haynes-original-edition",
       "product_id": "654951446127738880",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "time-machine-haynes-original-edition",
       "product_id": "654952124540661760",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "time-machine-haynes-original-edition",
       "product_id": "654952000053796864",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "time-machine-haynes-original-edition",
       "product_id": "654951737596645376",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "time-machine-haynes-original-edition",
       "product_id": "654952304516157440",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "time-machine-haynes-original-edition",
       "product_id": "654936362235531264",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/af/affd4657e4fcfa5349f687cb2b663a63d5e88b4ab2d59fbe32ecece2c842122f.png",
       "declared_media_type": "image/jpeg",
       "id": "image-dbcaa721dac5ec89b659",
@@ -42,11 +55,13 @@
       "original_filename": "B-ZH110-1.jpg",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "affd4657e4fcfa5349f687cb2b663a63d5e88b4ab2d59fbe32ecece2c842122f",
       "size": 1167918,
       "source_url": "https://store.bblcdn.com/s1/default/117905cd34934910a64aac74d267eed5/B-ZH110-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/97/9700fb199a765763e4c5759e38e732143e03d32f2e81ff755b49c5fa82b765d5.png",
       "id": "image-a5d94e4598b6dda85054",
       "kind": "image",
@@ -54,11 +69,13 @@
       "original_filename": "ZH110.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9700fb199a765763e4c5759e38e732143e03d32f2e81ff755b49c5fa82b765d5",
       "size": 221182,
       "source_url": "https://store.bblcdn.com/s1/default/670b8feb23434e29b958b35e609d5da4/ZH110.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6a/6ae35984d0b56fc5441eb141bf23bcefbaa4a63e0a9966f691e8ab7e2fc7b5fa.png",
       "id": "image-display-a2f6f82ea105d03de666",
       "image_processing": {
@@ -76,11 +93,13 @@
       "parent_asset_id": "image-dbcaa721dac5ec89b659",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6ae35984d0b56fc5441eb141bf23bcefbaa4a63e0a9966f691e8ab7e2fc7b5fa",
       "size": 395208,
       "source_url": "https://store.bblcdn.com/s1/default/117905cd34934910a64aac74d267eed5/B-ZH110-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/14/1482ac11a8d35438aa4a370e83c23b9abb2827650d6d43542cf0c6fbbc0a7809.png",
       "id": "image-display-e07790dc86ea92b187fd",
       "image_processing": {
@@ -98,6 +117,7 @@
       "parent_asset_id": "image-a5d94e4598b6dda85054",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1482ac11a8d35438aa4a370e83c23b9abb2827650d6d43542cf0c6fbbc0a7809",
       "size": 60352,
       "source_url": "https://store.bblcdn.com/s1/default/670b8feb23434e29b958b35e609d5da4/ZH110.png"
@@ -174,6 +194,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh110-time-machine-haynes-original-edition",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Time Machine - HAYNES ORIGINAL EDITION",
   "offers": [
@@ -185,6 +206,7 @@
       "price": "6.6",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
     },
     {
@@ -195,6 +217,7 @@
       "price": "7.38",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
     },
     {
@@ -205,6 +228,7 @@
       "price": "6.81",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
     },
     {
@@ -215,6 +239,7 @@
       "price": "5.12",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
     },
     {
@@ -225,6 +250,7 @@
       "price": "11.59",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
     },
     {
@@ -235,6 +261,7 @@
       "price": "5.82",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/time-machine-haynes-original-edition?skr=yes"
     }
   ],
@@ -301,6 +328,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -313,6 +341,7 @@
       "price": "6.6",
       "region": "us",
       "sku": "654951446173876224",
+      "store_id": "",
       "title": "Time Machine - HAYNES ORIGINAL EDITION - Time Machine - HAYNES ORIGINAL EDITION - ZH110",
       "url": "https://us.store.bambulab.com/products/time-machine-haynes-original-edition?id=654951446173876224",
       "variant_id": "654951446173876224"
@@ -325,6 +354,7 @@
       "price": "7.38",
       "region": "ca",
       "sku": "654952124590993408",
+      "store_id": "",
       "title": "Time Machine - HAYNES ORIGINAL EDITION - Time Machine - HAYNES ORIGINAL EDITION - ZH110",
       "url": "https://ca.store.bambulab.com/products/time-machine-haynes-original-edition?id=654952124590993408",
       "variant_id": "654952124590993408"
@@ -337,6 +367,7 @@
       "price": "6.81",
       "region": "eu",
       "sku": "654952000070574082",
+      "store_id": "",
       "title": "Time Machine - HAYNES ORIGINAL EDITION - Delorean Time Machine - HAYNES ORIGINAL EDITION - ZH110",
       "url": "https://eu.store.bambulab.com/products/time-machine-haynes-original-edition?id=654952000070574082",
       "variant_id": "654952000070574082"
@@ -349,6 +380,7 @@
       "price": "5.12",
       "region": "uk",
       "sku": "654951737634394114",
+      "store_id": "",
       "title": "Time Machine - HAYNES ORIGINAL EDITION - Time Machine - HAYNES ORIGINAL EDITION - ZH110",
       "url": "https://uk.store.bambulab.com/products/time-machine-haynes-original-edition?id=654951737634394114",
       "variant_id": "654951737634394114"
@@ -361,6 +393,7 @@
       "price": "11.59",
       "region": "au",
       "sku": "654952304566489090",
+      "store_id": "",
       "title": "Time Machine - HAYNES ORIGINAL EDITION - Time Machine - HAYNES ORIGINAL EDITION - ZH110",
       "url": "https://au.store.bambulab.com/products/time-machine-haynes-original-edition?id=654952304566489090",
       "variant_id": "654952304566489090"
@@ -373,6 +406,7 @@
       "price": "5.82",
       "region": "asia",
       "sku": "654936362273280002",
+      "store_id": "",
       "title": "Time Machine - HAYNES ORIGINAL EDITION - Time Machine - HAYNES ORIGINAL EDITION - ZH110",
       "url": "https://asia.store.bambulab.com/products/time-machine-haynes-original-edition?id=654936362273280002",
       "variant_id": "654936362273280002"

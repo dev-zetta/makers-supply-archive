@@ -4,36 +4,49 @@
     {
       "handle": "dual-inputs-for-your-x2d-or-p2s",
       "product_id": "789642537068445696",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "dual-inputs-for-your-x2d-or-p2s",
       "product_id": "789640809090695168",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "dual-inputs-for-your-x2d-or-p2s",
       "product_id": "789655985747701760",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "dual-inputs-for-your-x2d-or-p2s",
       "product_id": "789641771813482496",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "dual-inputs-for-your-x2d-or-p2s",
       "product_id": "789638522804944896",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "dual-inputs-for-your-x2d-or-p2s",
       "product_id": "789361180937338880",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c0/c0c5d4ee67d7e41fabbb4c8c6d6a73d96a2476483b2f782488d34cb255a17ec4.jpg",
       "id": "image-3df09aaa74b079c84b20",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH181_model.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c0c5d4ee67d7e41fabbb4c8c6d6a73d96a2476483b2f782488d34cb255a17ec4",
       "size": 1080419,
       "source_url": "https://store.bblcdn.com/s7/default/88b16815561a458586e7afd3283c3d26/B-ZH181_model.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f7/f74914c6c96727f42a31958787eb8f420b6d129ea48afe792e3d9ec3f3b9865b.png",
       "id": "image-15cfef311d0995048992",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH181.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f74914c6c96727f42a31958787eb8f420b6d129ea48afe792e3d9ec3f3b9865b",
       "size": 297722,
       "source_url": "https://store.bblcdn.com/s7/default/8102bde372954593ace550b62e0c458e/B-ZH181.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ad/adfb17a5eb769eb717dbbebcf46f6633f8957e7056e1bfcae4579bf393566e32.png",
       "id": "image-display-c22c188b9a07ba7cea75",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-3df09aaa74b079c84b20",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "adfb17a5eb769eb717dbbebcf46f6633f8957e7056e1bfcae4579bf393566e32",
       "size": 921726,
       "source_url": "https://store.bblcdn.com/s7/default/88b16815561a458586e7afd3283c3d26/B-ZH181_model.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0c/0c386bad2fb23a2a3035935178c2eb06512bb22006788bb058685e128ff68879.png",
       "id": "image-display-d339163eb97901e7d2d0",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-15cfef311d0995048992",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0c386bad2fb23a2a3035935178c2eb06512bb22006788bb058685e128ff68879",
       "size": 83619,
       "source_url": "https://store.bblcdn.com/s7/default/8102bde372954593ace550b62e0c458e/B-ZH181.png"
@@ -178,7 +198,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Dual Inputs for your X2D or P2S - MIM. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Dual Inputs for your X2D or P2S - MIM on MakerWorld.\n\nOnce you've downloaded the 3D files and finished printing, use the hardware kit sold via this link to complete the assembly. Check out the video tutorial below, and for more detailed written instructions, please visit the model page on MakerWorld.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zh181-dual-inputs-for-your-x2d-or-p2s",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Dual Inputs for your X2D or P2S",
   "offers": [
@@ -190,6 +211,7 @@
       "price": "13.4",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/dual-inputs-for-your-x2d-or-p2s?skr=yes"
     },
     {
@@ -200,6 +222,7 @@
       "price": "16.91",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/dual-inputs-for-your-x2d-or-p2s?skr=yes"
     },
     {
@@ -210,6 +233,7 @@
       "price": "14.4",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/dual-inputs-for-your-x2d-or-p2s?skr=yes"
     },
     {
@@ -220,6 +244,7 @@
       "price": "12.72",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/dual-inputs-for-your-x2d-or-p2s?skr=yes"
     },
     {
@@ -230,6 +255,7 @@
       "price": "23.15",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/dual-inputs-for-your-x2d-or-p2s?skr=yes"
     },
     {
@@ -240,6 +266,7 @@
       "price": "13.09",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/dual-inputs-for-your-x2d-or-p2s?skr=yes"
     }
   ],
@@ -299,6 +326,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -311,6 +339,7 @@
       "price": "13.4",
       "region": "us",
       "sku": "789642537085222914",
+      "store_id": "",
       "title": "Dual Inputs for your X2D or P2S - Dual Inputs for your X2D or P2S - ZH181",
       "url": "https://us.store.bambulab.com/products/dual-inputs-for-your-x2d-or-p2s?id=789642537085222914",
       "variant_id": "789642537085222914"
@@ -323,6 +352,7 @@
       "price": "16.91",
       "region": "ca",
       "sku": "789640809103278082",
+      "store_id": "",
       "title": "Dual Inputs for your X2D or P2S - Dual Inputs for your X2D or P2S - ZH181",
       "url": "https://ca.store.bambulab.com/products/dual-inputs-for-your-x2d-or-p2s?id=789640809103278082",
       "variant_id": "789640809103278082"
@@ -335,6 +365,7 @@
       "price": "14.4",
       "region": "eu",
       "sku": "789655985768673282",
+      "store_id": "",
       "title": "Dual Inputs for your X2D or P2S - Dual Inputs for your X2D or P2S - ZH181",
       "url": "https://eu.store.bambulab.com/products/dual-inputs-for-your-x2d-or-p2s?id=789655985768673282",
       "variant_id": "789655985768673282"
@@ -347,6 +378,7 @@
       "price": "12.72",
       "region": "uk",
       "sku": "789641771842842626",
+      "store_id": "",
       "title": "Dual Inputs for your X2D or P2S - Dual Inputs for your X2D or P2S - ZH181",
       "url": "https://uk.store.bambulab.com/products/dual-inputs-for-your-x2d-or-p2s?id=789641771842842626",
       "variant_id": "789641771842842626"
@@ -359,6 +391,7 @@
       "price": "23.15",
       "region": "au",
       "sku": "789638522817527810",
+      "store_id": "",
       "title": "Dual Inputs for your X2D or P2S - Dual Inputs for your X2D or P2S - ZH181",
       "url": "https://au.store.bambulab.com/products/dual-inputs-for-your-x2d-or-p2s?id=789638522817527810",
       "variant_id": "789638522817527810"
@@ -371,6 +404,7 @@
       "price": "13.09",
       "region": "asia",
       "sku": "789361180949921794",
+      "store_id": "",
       "title": "Dual Inputs for your X2D or P2S - Dual Inputs for your X2D or P2S - ZH181",
       "url": "https://asia.store.bambulab.com/products/dual-inputs-for-your-x2d-or-p2s?id=789361180949921794",
       "variant_id": "789361180949921794"

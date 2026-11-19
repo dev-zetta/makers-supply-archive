@@ -4,36 +4,49 @@
     {
       "handle": "mini-suv-cyberbrick-rc",
       "product_id": "657358241415139328",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-suv-cyberbrick-rc",
       "product_id": "657357565464842240",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-suv-cyberbrick-rc",
       "product_id": "657358437311168512",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-suv-cyberbrick-rc",
       "product_id": "657358136204836864",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-suv-cyberbrick-rc",
       "product_id": "657357990754942976",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mini-suv-cyberbrick-rc",
       "product_id": "655557213886472192",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3f/3ff4fcda95657d24e7fb95a885e07e3861057f591a5f2ae4008157f5ddd9786e.png",
       "id": "image-33deff0f5324439d66e8",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "Mini_SUV.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3ff4fcda95657d24e7fb95a885e07e3861057f591a5f2ae4008157f5ddd9786e",
       "size": 2824722,
       "source_url": "https://store.bblcdn.com/s7/default/11268ce7179f4e0795296b7e4ba37bb6/Mini_SUV.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/12/12e0be0fc1f3a57130d3ec613175fb3a10716b57a44c3cb417d97d90fb4ad68b.png",
       "id": "image-55e270e19036cf341852",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "12e0be0fc1f3a57130d3ec613175fb3a10716b57a44c3cb417d97d90fb4ad68b",
       "size": 1085856,
       "source_url": "https://store.bblcdn.com/s7/default/93f9fb9bb3b540d1ac3a022069e7ed94/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fa/fa30eb7de3da8b9654df1b6ee8edf1b83a51bda85e0898deddecbd9c5af18fcd.png",
       "id": "image-e71c602acbee9108e918",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "10.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fa30eb7de3da8b9654df1b6ee8edf1b83a51bda85e0898deddecbd9c5af18fcd",
       "size": 1191632,
       "source_url": "https://store.bblcdn.com/s7/default/62f0e0bfa69549e4bcbb16d05717bd79/10.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b8/b8bf9bff171685fb4ea4db470b745521e2130536f5ebbbd0a50f90dedf4ab88e.png",
       "id": "image-d7c0daef49529a0fdb7f",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b8bf9bff171685fb4ea4db470b745521e2130536f5ebbbd0a50f90dedf4ab88e",
       "size": 992347,
       "source_url": "https://store.bblcdn.com/s7/default/33fbbb3fa016466ba48430856b52ac4b/2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9a/9a1fd93624961a68f3436293ca34c3f22368b86837f859a447bbe3343cea5a37.png",
       "id": "image-184ace9fa4951001ea89",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "12.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9a1fd93624961a68f3436293ca34c3f22368b86837f859a447bbe3343cea5a37",
       "size": 267518,
       "source_url": "https://store.bblcdn.com/s7/default/6315ec07a17f48c2b87f6a1be1819a14/12.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/43/43d072a93d9e82853e3d18fca12bdf5cd160ac481853c301b300223712e1188d.pdf",
       "id": "document-dd11e72c703f8e2f5558",
       "kind": "document",
@@ -101,11 +124,13 @@
       "original_filename": "Mini_SUV-Assembly_Guide_V1_4.pdf",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "43d072a93d9e82853e3d18fca12bdf5cd160ac481853c301b300223712e1188d",
       "size": 7466349,
       "source_url": "https://store.bblcdn.com/s1/default/def4900697924cdcae39e557348ffab9/Mini_SUV-Assembly_Guide_V1_4.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/35/35b25648cf8093f8d08ccf95c2853aa6f28bc2df8c8202d606334b12e7779d24.7z",
       "id": "archive-c0f5986edc4389b63f29",
       "kind": "archive",
@@ -113,11 +138,13 @@
       "original_filename": "Mini_SUV-V1.2.json.7z",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "35b25648cf8093f8d08ccf95c2853aa6f28bc2df8c8202d606334b12e7779d24",
       "size": 984,
       "source_url": "https://store.bblcdn.com/s1/default/f41dd622a4094186ba56f492bfa2e13c/Mini_SUV-V1.2.json.7z"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/02/02af799416b6512cca30507a852cd4e3325f4da51aaef09153c8894ae72205a3.png",
       "id": "image-display-c7150978646edd4d80aa",
       "image_processing": {
@@ -135,11 +162,13 @@
       "parent_asset_id": "image-33deff0f5324439d66e8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "02af799416b6512cca30507a852cd4e3325f4da51aaef09153c8894ae72205a3",
       "size": 818787,
       "source_url": "https://store.bblcdn.com/s7/default/11268ce7179f4e0795296b7e4ba37bb6/Mini_SUV.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/35/35a0b7dfffbca58cb85c460969119aac2e0f74e641cd76a2fb533df83de80361.png",
       "id": "image-display-224e665e344310a8ad86",
       "image_processing": {
@@ -157,11 +186,13 @@
       "parent_asset_id": "image-55e270e19036cf341852",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "35a0b7dfffbca58cb85c460969119aac2e0f74e641cd76a2fb533df83de80361",
       "size": 896725,
       "source_url": "https://store.bblcdn.com/s7/default/93f9fb9bb3b540d1ac3a022069e7ed94/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bb/bba1ee2142416228a72622cc1f6efdf6ef9d546091a58b9829da3d0f2c2e3dd4.png",
       "id": "image-display-d82a58278ef487ab0221",
       "image_processing": {
@@ -179,11 +210,13 @@
       "parent_asset_id": "image-e71c602acbee9108e918",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bba1ee2142416228a72622cc1f6efdf6ef9d546091a58b9829da3d0f2c2e3dd4",
       "size": 1224706,
       "source_url": "https://store.bblcdn.com/s7/default/62f0e0bfa69549e4bcbb16d05717bd79/10.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/83/831e7859f5db5c896d45892b5b6ce17a57552ca8f726f958ad19693cb7b513f9.png",
       "id": "image-display-c8033e2eee0ab1ce6e64",
       "image_processing": {
@@ -201,11 +234,13 @@
       "parent_asset_id": "image-d7c0daef49529a0fdb7f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "831e7859f5db5c896d45892b5b6ce17a57552ca8f726f958ad19693cb7b513f9",
       "size": 862060,
       "source_url": "https://store.bblcdn.com/s7/default/33fbbb3fa016466ba48430856b52ac4b/2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9d/9df8c54a26f2be2627981f249c7e4eb15e4a4a09cd1e248f585bbb93b010dd9c.png",
       "id": "image-display-5cf994442eed43e41d18",
       "image_processing": {
@@ -223,6 +258,7 @@
       "parent_asset_id": "image-184ace9fa4951001ea89",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9df8c54a26f2be2627981f249c7e4eb15e4a4a09cd1e248f585bbb93b010dd9c",
       "size": 232419,
       "source_url": "https://store.bblcdn.com/s7/default/6315ec07a17f48c2b87f6a1be1819a14/12.png"
@@ -620,7 +656,8 @@
   "description_text": "Meet the Mini SUV CyberBrick RC – where iconic 4x4 design meets CyberBrick ecosystem. It features a classic, robust body with a distinctive grille and spare tire. Its proportional steering and efficient drivetrain deliver precise control on any terrain when paired with the CyberBrick system. Best of all, it requires no AMS, no supports, and no glue—making it effortless to print, customize with your color, and bring to life using the beginner-friendly CyberBrick Starter Kit. Your complete creative off-road experience starts now.\n\nFind all files and details on its MakerWorld Page.\n\n*For a smooth build, we recommend reviewing the assembly guide first.\n\nRealistic appearance: Featuring a robust body, distinctive grille, and spare tire mount, this Mini SUV captures the essence of a classic off-roader in perfectly proportioned miniature form.\n\nPrecision Control: By combining proportional steering with an efficient drivetrain, the Mini SUV provides seamless response and precise control on any surface.\n\nOutdoor Exploration: Take your Mini SUV outdoors to conquer real-world terrain like gravel paths and grassy slopes, discovering its capabilities in various environments\n\nBuild Your Own Off-Road Game: Transform any space into an adventure course. Build challenging obstacles with natural elements, then put your precision control into the game. Perfect your technique and challenge friends to head-to-head races.\n\nOfficially Verified Design: Both the model and instruction manual are officially tested to ensure successful printing and smooth assembly.\n\nAll-in-One Experience: Only the CyberBrick Starter Kit is required—no complicated part sourcing.\n\nSimplified Assembly: Requires no supports or glue, and uses snap-fit designs to significantly reduce screw usage, saving your printing and assembly time.\n\nEfficient & Smart Printing: Optimized for single-color printing—no AMS required, no support needed. This streamlined approach not only saves printing time but also reduces material waste by eliminating filament changes.\n\nYour Color, Your Style: Choose your favorite filament color to print the SUV body, creating a truly one-of-a-kind vehicle that reflects your personal creative vision.\n\nThe Mini SUV is designed to work with the CyberBrick Official Remote. The creator has uploaded pre-configured settings for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions. Visit Wiki\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nExplore the Product Wiki & Documentation\n\nNeed in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nVisit Wiki\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to the Mini SUV.\n\nThis product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nDO NOT touch the moving tracks or wheels while the device is operating to prevent pinching injuries.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl005-mini-suv-cyberbrick-rc",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Mini SUV - CyberBrick RC",
   "offers": [
@@ -632,6 +669,7 @@
       "price": "29.99",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/mini-suv-cyberbrick-rc?skr=yes"
     },
     {
@@ -642,6 +680,7 @@
       "price": "48.99",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/mini-suv-cyberbrick-rc?skr=yes"
     },
     {
@@ -652,6 +691,7 @@
       "price": "37.09",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/mini-suv-cyberbrick-rc?skr=yes"
     },
     {
@@ -662,6 +702,7 @@
       "price": "30.09",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/mini-suv-cyberbrick-rc?skr=yes"
     },
     {
@@ -672,6 +713,7 @@
       "price": "53.19",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/mini-suv-cyberbrick-rc?skr=yes"
     },
     {
@@ -682,6 +724,7 @@
       "price": "50.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/mini-suv-cyberbrick-rc?skr=yes"
     }
   ],
@@ -855,6 +898,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -867,6 +911,7 @@
       "price": "29.99",
       "region": "us",
       "sku": "785285783979319297",
+      "store_id": "",
       "title": "Mini SUV - CyberBrick RC - Mini SUV - CyberBrick RC (1 Car 1 Remote) - ZK012",
       "url": "https://us.store.bambulab.com/products/mini-suv-cyberbrick-rc?id=785285783979319297",
       "variant_id": "785285783979319297"
@@ -879,6 +924,7 @@
       "price": "48.99",
       "region": "ca",
       "sku": "657357565477425154",
+      "store_id": "",
       "title": "Mini SUV - CyberBrick RC - Mini SUV - CyberBrick RC (1 Car 1 Remote) - ZL005",
       "url": "https://ca.store.bambulab.com/products/mini-suv-cyberbrick-rc?id=657357565477425154",
       "variant_id": "657357565477425154"
@@ -891,6 +937,7 @@
       "price": "37.09",
       "region": "eu",
       "sku": "657358437319557122",
+      "store_id": "",
       "title": "Mini SUV - CyberBrick RC - Mini SUV - CyberBrick RC (1 Car 1 Remote) - ZL005",
       "url": "https://eu.store.bambulab.com/products/mini-suv-cyberbrick-rc?id=657358437319557122",
       "variant_id": "657358437319557122"
@@ -903,6 +950,7 @@
       "price": "30.09",
       "region": "uk",
       "sku": "657358136221614082",
+      "store_id": "",
       "title": "Mini SUV - CyberBrick RC - Mini SUV - CyberBrick RC (1 Car 1 Remote) - ZL005",
       "url": "https://uk.store.bambulab.com/products/mini-suv-cyberbrick-rc?id=657358136221614082",
       "variant_id": "657358136221614082"
@@ -915,6 +963,7 @@
       "price": "53.19",
       "region": "au",
       "sku": "657357990805274626",
+      "store_id": "",
       "title": "Mini SUV - CyberBrick RC - Mini SUV - CyberBrick RC (1 Car 1 Remote) - ZL005",
       "url": "https://au.store.bambulab.com/products/mini-suv-cyberbrick-rc?id=657357990805274626",
       "variant_id": "657357990805274626"
@@ -927,6 +976,7 @@
       "price": "50.99",
       "region": "asia",
       "sku": "655557213924220930",
+      "store_id": "",
       "title": "Mini SUV - CyberBrick RC - Mini SUV - CyberBrick RC (1 Car, 1 Remote) - ZL005",
       "url": "https://asia.store.bambulab.com/products/mini-suv-cyberbrick-rc?id=655557213924220930",
       "variant_id": "655557213924220930"

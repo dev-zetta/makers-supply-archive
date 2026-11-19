@@ -4,36 +4,49 @@
     {
       "handle": "rubber-tire-4pcs",
       "product_id": "593209120128643072",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rubber-tire-4pcs",
       "product_id": "593209050332262400",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rubber-tire-4pcs",
       "product_id": "14981033460060",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rubber-tire-4pcs",
       "product_id": "593208929947078656",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rubber-tire-4pcs",
       "product_id": "593208778066026496",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rubber-tire-4pcs",
       "product_id": "591397353969123328",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/71/7155682064ae21806e0b3381646590cb1cf4008d67610f83af3af368557b8977.png",
       "id": "image-19f5ef55e9778aa0db11",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-LA027_(2).png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7155682064ae21806e0b3381646590cb1cf4008d67610f83af3af368557b8977",
       "size": 636526,
       "source_url": "https://store.bblcdn.com/s7/default/ede9fd57110c4e118588040e841c33ab/B-LA027_(2).png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/91/9118cdcbd67a27dae82726666e99ec2fb1ab84e6a2d74a106c39fc5d81478a82.png",
       "id": "image-8b56e1ee331c2a4c16f1",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-LA027.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9118cdcbd67a27dae82726666e99ec2fb1ab84e6a2d74a106c39fc5d81478a82",
       "size": 806573,
       "source_url": "https://store.bblcdn.com/s7/default/9f576fc857774cc483370d1ea75d451d/B-LA027.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f1f992b825c1ea8be062fd287206da52a46ab5945ad8cfd0a12f3a66eb640812.zip",
       "id": "archive-6a0f885cafacfa31b4b6",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "33.7x13.85mm_Rubber_Tire-LA027.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1f992b825c1ea8be062fd287206da52a46ab5945ad8cfd0a12f3a66eb640812",
       "size": 794129,
       "source_url": "https://store.bblcdn.com/s1/default/6bbadb600dea4cc0a2a37e7e6adc60f1/33.7x13.85mm_Rubber_Tire-LA027.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Φ33.7×13.85mm Rubber Tire-LA027/Φ33.7×13.85mm Rubber Tire-LA027.stl",
       "blob_path": "data/blobs/sha256/dc/dc57e5c8e87dd862b1a901a68b0189f3c8c28a3607289ec3ad135611b62154c0.stl",
       "id": "model-857844ca668f12562562",
@@ -79,11 +98,13 @@
       "parent_asset_id": "archive-6a0f885cafacfa31b4b6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dc57e5c8e87dd862b1a901a68b0189f3c8c28a3607289ec3ad135611b62154c0",
       "size": 430484,
       "source_url": "https://store.bblcdn.com/s1/default/6bbadb600dea4cc0a2a37e7e6adc60f1/33.7x13.85mm_Rubber_Tire-LA027.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Φ33.7×13.85mm Rubber Tire-LA027/Φ33.7×13.85mm Rubber Tire-LA027.stp",
       "blob_path": "data/blobs/sha256/a0/a0564c4a977da41179e82e2bb8d6f2c282a59ee3f942bc078ceba36d46d7858c.stp",
       "id": "model-08fa5af52086aae1cbd4",
@@ -93,11 +114,13 @@
       "parent_asset_id": "archive-6a0f885cafacfa31b4b6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a0564c4a977da41179e82e2bb8d6f2c282a59ee3f942bc078ceba36d46d7858c",
       "size": 3163185,
       "source_url": "https://store.bblcdn.com/s1/default/6bbadb600dea4cc0a2a37e7e6adc60f1/33.7x13.85mm_Rubber_Tire-LA027.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/36/366f6d64badb61bc253c33b1a934b09b9023e3560ecd39646c0959139e855fed.png",
       "id": "image-display-b1b10fbef8173dca8e5b",
       "image_processing": {
@@ -115,11 +138,13 @@
       "parent_asset_id": "image-19f5ef55e9778aa0db11",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "366f6d64badb61bc253c33b1a934b09b9023e3560ecd39646c0959139e855fed",
       "size": 190098,
       "source_url": "https://store.bblcdn.com/s7/default/ede9fd57110c4e118588040e841c33ab/B-LA027_(2).png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/59/591f12da6d7c43b4fc6842fa1edab77e37887bde7b3225b0c6055417debbceb9.png",
       "id": "image-display-0e9e5dccd5e506adf398",
       "image_processing": {
@@ -137,6 +162,7 @@
       "parent_asset_id": "image-8b56e1ee331c2a4c16f1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "591f12da6d7c43b4fc6842fa1edab77e37887bde7b3225b0c6055417debbceb9",
       "size": 204599,
       "source_url": "https://store.bblcdn.com/s7/default/9f576fc857774cc483370d1ea75d451d/B-LA027.png"
@@ -187,6 +213,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "la027-rubber-tire-4pcs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Ø33.7×13.85mm Rubber Tire (4PCS)",
   "offers": [
@@ -198,6 +225,7 @@
       "price": "2.19",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
     },
     {
@@ -208,6 +236,7 @@
       "price": "2.69",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
     },
     {
@@ -218,6 +247,7 @@
       "price": "1.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
     },
     {
@@ -228,6 +258,7 @@
       "price": "1.89",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
     },
     {
@@ -238,6 +269,7 @@
       "price": "3.09",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
     },
     {
@@ -248,6 +280,7 @@
       "price": "2.19",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/rubber-tire-4pcs?skr=yes"
     }
   ],
@@ -267,6 +300,7 @@
   ],
   "source_tables": [],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -277,6 +311,7 @@
       "price": "2.19",
       "region": "us",
       "sku": "593209120141225986",
+      "store_id": "",
       "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
       "url": "https://us.store.bambulab.com/products/rubber-tire-4pcs?id=593209120141225986",
       "variant_id": "593209120141225986"
@@ -289,6 +324,7 @@
       "price": "2.69",
       "region": "ca",
       "sku": "593209050340651010",
+      "store_id": "",
       "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
       "url": "https://ca.store.bambulab.com/products/rubber-tire-4pcs?id=593209050340651010",
       "variant_id": "593209050340651010"
@@ -300,6 +336,7 @@
       "price": "1.99",
       "region": "eu",
       "sku": "54410671227228",
+      "store_id": "",
       "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS)",
       "url": "https://eu.store.bambulab.com/products/rubber-tire-4pcs?id=54410671227228",
       "variant_id": "54410671227228"
@@ -312,6 +349,7 @@
       "price": "1.89",
       "region": "uk",
       "sku": "593208929959661570",
+      "store_id": "",
       "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
       "url": "https://uk.store.bambulab.com/products/rubber-tire-4pcs?id=593208929959661570",
       "variant_id": "593208929959661570"
@@ -324,6 +362,7 @@
       "price": "3.09",
       "region": "au",
       "sku": "593208778078609410",
+      "store_id": "",
       "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
       "url": "https://au.store.bambulab.com/products/rubber-tire-4pcs?id=593208778078609410",
       "variant_id": "593208778078609410"
@@ -336,6 +375,7 @@
       "price": "2.19",
       "region": "asia",
       "sku": "591397353985900546",
+      "store_id": "",
       "title": "Ø33.7×13.85mm Rubber Tire (4PCS) - Ø33.7×13.85mm Rubber Tire (4PCS) - LA027",
       "url": "https://asia.store.bambulab.com/products/rubber-tire-4pcs?id=591397353985900546",
       "variant_id": "591397353985900546"

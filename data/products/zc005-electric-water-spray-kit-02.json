@@ -4,36 +4,49 @@
     {
       "handle": "electric-water-spray-kit-02",
       "product_id": "8384124682376",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-water-spray-kit-02",
       "product_id": "9045032665328",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-water-spray-kit-02",
       "product_id": "9613783171420",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-water-spray-kit-02",
       "product_id": "7804789948476",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-water-spray-kit-02",
       "product_id": "517112011396075520",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "electric-water-spray-kit-02",
       "product_id": "517112972963508224",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/27/27f37758058f88686ebb19ae17abfef1239583a98f89741986436f96dd0ff9d0.png",
       "id": "image-67a6644cf31a3c31a6b4",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "02_99ca3dee-9d3f-4053-ad96-cfb2880143c7.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "27f37758058f88686ebb19ae17abfef1239583a98f89741986436f96dd0ff9d0",
       "size": 308956,
       "source_url": "https://store.bblcdn.com/s7/default/721686f381e34dfda5c1645f0158aa41/02_99ca3dee-9d3f-4053-ad96-cfb2880143c7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/98/98b22311af8ae66eeefb7224c614249917821cd900cab1dfa4c953da246c449e.png",
       "id": "image-e909c61b1927ab1f095e",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZC005-QYM3D.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "98b22311af8ae66eeefb7224c614249917821cd900cab1dfa4c953da246c449e",
       "size": 1676955,
       "source_url": "https://store.bblcdn.com/s7/default/6386e9b19b2547daab315712f83ed613/ZC005-QYM3D.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f8/f89ef87dd9a819d59db0bba83cdd2c27c9ff25c7bd22cb37fea83d1fb4968612.png",
       "id": "image-ea29cdc427aef82002e1",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "ZC005-QYM3D-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f89ef87dd9a819d59db0bba83cdd2c27c9ff25c7bd22cb37fea83d1fb4968612",
       "size": 1321887,
       "source_url": "https://store.bblcdn.com/s7/default/b147ea94aede4b109534f6343ebf4276/ZC005-QYM3D-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/02/02953d9f6140c4ddc8de8acafc6e8c01e80ce2ab9774dcf1cb6ce3fda78ee23a.jpg",
       "declared_media_type": "image/webp",
       "id": "image-3ba5eb842da0f7c17d05",
@@ -78,11 +97,13 @@
       "original_filename": "light-6_d3480675-336b-40b9-b092-ebd697603ba9_800x800_1.webp",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "02953d9f6140c4ddc8de8acafc6e8c01e80ce2ab9774dcf1cb6ce3fda78ee23a",
       "size": 41782,
       "source_url": "https://store.bblcdn.com/s7/default/9270bb80dd7644bfbd758fc287a9c3bb/light-6_d3480675-336b-40b9-b092-ebd697603ba9_800x800_1.webp"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0c/0cc7a00792aaa4a0e829fb36f3d642a1e76f3e08790b09046a8fe6e934e20e77.jpg",
       "declared_media_type": "image/webp",
       "id": "image-9c276a798d17e21b3bd6",
@@ -91,11 +112,13 @@
       "original_filename": "img_v3_02f3_73cbfc92-e0d6-4682-9990-e8b80879611g_1_1600x1600_56ddc025-aa97-4de2-b7cb-d2d9ce07e87a.webp",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0cc7a00792aaa4a0e829fb36f3d642a1e76f3e08790b09046a8fe6e934e20e77",
       "size": 96031,
       "source_url": "https://store.bblcdn.com/s7/default/5290b6ec4e694c558f8c190a9a0a8292/img_v3_02f3_73cbfc92-e0d6-4682-9990-e8b80879611g_1_1600x1600_56ddc025-aa97-4de2-b7cb-d2d9ce07e87a.webp"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5c/5c8704ebac5415d19964846d277ec8e7737a1f6146149de98448b4a9ff1808f1.zip",
       "id": "archive-be4dea641abcfa26e2ff",
       "kind": "archive",
@@ -103,11 +126,13 @@
       "original_filename": "Electric_Water_Spray_Kit_02.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5c8704ebac5415d19964846d277ec8e7737a1f6146149de98448b4a9ff1808f1",
       "size": 447340,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Electric_Water_Spray_Kit_02.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Electric Water Spray Kit 02/Electric Water Spray Kit 02.stp",
       "blob_path": "data/blobs/sha256/8c/8c0608815d2da8b038160ca93ff2a922bb71fa9af92ce4344a87c733390abde4.stp",
       "id": "model-a5c57b521311c2d0d029",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-be4dea641abcfa26e2ff",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8c0608815d2da8b038160ca93ff2a922bb71fa9af92ce4344a87c733390abde4",
       "size": 1843900,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Electric_Water_Spray_Kit_02.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bcc01c033540d175aa527cb92f958e6f2f0365f7456f7b326c2e8b688cff6684.png",
       "id": "image-display-659c1b8ef0fc06a01145",
       "image_processing": {
@@ -139,11 +166,13 @@
       "parent_asset_id": "image-67a6644cf31a3c31a6b4",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bcc01c033540d175aa527cb92f958e6f2f0365f7456f7b326c2e8b688cff6684",
       "size": 91157,
       "source_url": "https://store.bblcdn.com/s7/default/721686f381e34dfda5c1645f0158aa41/02_99ca3dee-9d3f-4053-ad96-cfb2880143c7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f2/f2cf98cc1f2cec10b3561cc07db54bd39f0a57e40ec66d07cd94159753e03c5b.png",
       "id": "image-display-359b1e34ac398b14a42b",
       "image_processing": {
@@ -161,11 +190,13 @@
       "parent_asset_id": "image-e909c61b1927ab1f095e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f2cf98cc1f2cec10b3561cc07db54bd39f0a57e40ec66d07cd94159753e03c5b",
       "size": 393011,
       "source_url": "https://store.bblcdn.com/s7/default/6386e9b19b2547daab315712f83ed613/ZC005-QYM3D.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c5/c51c2a20b4564ef69b62e0cd1cf66c48551c8a471a3b47a2451d74cfd1a9bc25.png",
       "id": "image-display-2d1f7fb339959e892a7d",
       "image_processing": {
@@ -183,11 +214,13 @@
       "parent_asset_id": "image-ea29cdc427aef82002e1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c51c2a20b4564ef69b62e0cd1cf66c48551c8a471a3b47a2451d74cfd1a9bc25",
       "size": 332718,
       "source_url": "https://store.bblcdn.com/s7/default/b147ea94aede4b109534f6343ebf4276/ZC005-QYM3D-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ff/ffbdbaa4e2845de9290c3dc74df58ac172776e67010ca861223cd0c2c5a8e460.png",
       "id": "image-display-f962dbfbfb51dc4fb1d5",
       "image_processing": {
@@ -205,11 +238,13 @@
       "parent_asset_id": "image-3ba5eb842da0f7c17d05",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ffbdbaa4e2845de9290c3dc74df58ac172776e67010ca861223cd0c2c5a8e460",
       "size": 176287,
       "source_url": "https://store.bblcdn.com/s7/default/9270bb80dd7644bfbd758fc287a9c3bb/light-6_d3480675-336b-40b9-b092-ebd697603ba9_800x800_1.webp"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fa/fa202380c688df275c7ecadd5c3d64ea634dff69ff9213495d3b8373d9918708.png",
       "id": "image-display-ed91ac22e3c881b58a88",
       "image_processing": {
@@ -227,6 +262,7 @@
       "parent_asset_id": "image-9c276a798d17e21b3bd6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fa202380c688df275c7ecadd5c3d64ea634dff69ff9213495d3b8373d9918708",
       "size": 352198,
       "source_url": "https://store.bblcdn.com/s7/default/5290b6ec4e694c558f8c190a9a0a8292/img_v3_02f3_73cbfc92-e0d6-4682-9990-e8b80879611g_1_1600x1600_56ddc025-aa97-4de2-b7cb-d2d9ce07e87a.webp"
@@ -401,7 +437,8 @@
   "description_text": "The Electric Water Spray Kit 02 contains all the non-3D printed hardware components necessary to assemble the TEC-9 / T-15 Electric Water Toy Gun. The electric water gun mechanism allows for continuous shooting, with a pulsing water flow activated by pulling the trigger. The mechanism features a simulated recoil function for added fun. To complete the work, you need to download the model files and 3D print the parts. To complete the project, you need to download the model files for TEC-9 / T-15 Electric Water Toy Gun on MakerWorld and 3D print the parts.\n\nDo not operate the Water Toy Gun without water, it may damage the internal components and render it non-functional.\n\nThe switch and battery are not waterproof, do not submerge the kit directly in water.\n\nThe required silicone tube is not included, you can purchase and cut the silicone tube as you need.\n\nThe mechanism includes a simulated recoil feature. Please be cautious of the interference between the housing and the recoil slider.\n\nYou need a H1.5 hex screwdriver to install the bolt handle.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zc005-electric-water-spray-kit-02",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Electric Water Spray Kit 02",
   "offers": [
@@ -413,6 +450,7 @@
       "price": "10.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/electric-water-spray-kit-02?skr=yes"
     },
     {
@@ -423,6 +461,7 @@
       "price": "12.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/electric-water-spray-kit-02?skr=yes"
     },
     {
@@ -433,6 +472,7 @@
       "price": "10.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/electric-water-spray-kit-02?skr=yes"
     },
     {
@@ -443,6 +483,7 @@
       "price": "8.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/electric-water-spray-kit-02?skr=yes"
     },
     {
@@ -453,6 +494,7 @@
       "price": "15.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/electric-water-spray-kit-02?skr=yes"
     },
     {
@@ -463,6 +505,7 @@
       "price": "9.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/electric-water-spray-kit-02?skr=yes"
     }
   ],
@@ -613,6 +656,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -625,6 +669,7 @@
       "price": "10.99",
       "region": "us",
       "sku": "42961100177544",
+      "store_id": "",
       "title": "Electric Water Spray Kit 02 - Electric Water Spray Kit 02 - ZC005",
       "url": "https://us.store.bambulab.com/products/electric-water-spray-kit-02?id=42961100177544",
       "variant_id": "42961100177544"
@@ -637,6 +682,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "46629896356080",
+      "store_id": "",
       "title": "Electric Water Spray Kit 02 - Electric Water Spray Kit 02 - ZC005",
       "url": "https://ca.store.bambulab.com/products/electric-water-spray-kit-02?id=46629896356080",
       "variant_id": "46629896356080"
@@ -649,6 +695,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "49450973495644",
+      "store_id": "",
       "title": "Electric Water Spray Kit 02 - Electric Water Spray Kit 02 - ZC005",
       "url": "https://eu.store.bambulab.com/products/electric-water-spray-kit-02?id=49450973495644",
       "variant_id": "49450973495644"
@@ -661,6 +708,7 @@
       "price": "8.99",
       "region": "uk",
       "sku": "42214531956796",
+      "store_id": "",
       "title": "Electric Water Spray Kit 02 - Electric Water Spray Kit 02 - ZC005",
       "url": "https://uk.store.bambulab.com/products/electric-water-spray-kit-02?id=42214531956796",
       "variant_id": "42214531956796"
@@ -673,6 +721,7 @@
       "price": "15.99",
       "region": "au",
       "sku": "517112011400269827",
+      "store_id": "",
       "title": "Electric Water Spray Kit 02 - Electric Water Spray Kit 02 - ZC005",
       "url": "https://au.store.bambulab.com/products/electric-water-spray-kit-02?id=517112011400269827",
       "variant_id": "517112011400269827"
@@ -685,6 +734,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "517112972967702531",
+      "store_id": "",
       "title": "Electric Water Spray Kit 02 - Electric Water Spray Kit 02 - ZC005",
       "url": "https://asia.store.bambulab.com/products/electric-water-spray-kit-02?id=517112972967702531",
       "variant_id": "517112972967702531"

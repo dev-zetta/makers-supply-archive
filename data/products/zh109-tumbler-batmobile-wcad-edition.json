@@ -4,36 +4,49 @@
     {
       "handle": "tumbler-batmobile-wcad-edition",
       "product_id": "654957299604688896",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tumbler-batmobile-wcad-edition",
       "product_id": "654957912072007680",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tumbler-batmobile-wcad-edition",
       "product_id": "654957733830942720",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tumbler-batmobile-wcad-edition",
       "product_id": "654957551568883712",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tumbler-batmobile-wcad-edition",
       "product_id": "654958054047109120",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tumbler-batmobile-wcad-edition",
       "product_id": "654933482757754880",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8a/8ac18bc1f18ec240a36e573e0c82e13a78a83ffa242a5e2752b4ed68f580ebdf.png",
       "declared_media_type": "image/jpeg",
       "id": "image-e339e19c6ccf66372826",
@@ -42,11 +55,13 @@
       "original_filename": "B-ZH109.jpg",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8ac18bc1f18ec240a36e573e0c82e13a78a83ffa242a5e2752b4ed68f580ebdf",
       "size": 1190311,
       "source_url": "https://store.bblcdn.com/s5/default/dd7a7d4417d142dcabf63e8382c79548/B-ZH109.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/55/5592abe0ead6270ad8d5b522c97522ef1d8c3a443e496bef9fac38c64f992943.png",
       "id": "image-2610e6135d46d3a996f0",
       "kind": "image",
@@ -54,11 +69,13 @@
       "original_filename": "ZH109-2.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5592abe0ead6270ad8d5b522c97522ef1d8c3a443e496bef9fac38c64f992943",
       "size": 174624,
       "source_url": "https://store.bblcdn.com/s5/default/9f84fa2d421543ea88f767dc4acc3723/ZH109-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1b/1bf3775b4b88d2abdcdbc3cc94309f8d447c967fc81f3f3ace38a50772597a14.png",
       "id": "image-display-00734e51a225906d6ba9",
       "image_processing": {
@@ -76,11 +93,13 @@
       "parent_asset_id": "image-e339e19c6ccf66372826",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1bf3775b4b88d2abdcdbc3cc94309f8d447c967fc81f3f3ace38a50772597a14",
       "size": 396671,
       "source_url": "https://store.bblcdn.com/s5/default/dd7a7d4417d142dcabf63e8382c79548/B-ZH109.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8c/8c77b20e9fa63d56d7b6025b5dd2d2852092006fdbf63b9c6d327ab60d95c5ea.png",
       "id": "image-display-3b92edff5bedf52b37ed",
       "image_processing": {
@@ -98,6 +117,7 @@
       "parent_asset_id": "image-2610e6135d46d3a996f0",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8c77b20e9fa63d56d7b6025b5dd2d2852092006fdbf63b9c6d327ab60d95c5ea",
       "size": 53990,
       "source_url": "https://store.bblcdn.com/s5/default/9f84fa2d421543ea88f767dc4acc3723/ZH109-2.png"
@@ -174,6 +194,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh109-tumbler-batmobile-wcad-edition",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Tumbler Batmobile - Wcad Edition",
   "offers": [
@@ -185,6 +206,7 @@
       "price": "7.31",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/tumbler-batmobile-wcad-edition?skr=yes"
     },
     {
@@ -195,6 +217,7 @@
       "price": "8.46",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/tumbler-batmobile-wcad-edition?skr=yes"
     },
     {
@@ -205,6 +228,7 @@
       "price": "7.61",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/tumbler-batmobile-wcad-edition?skr=yes"
     },
     {
@@ -215,6 +239,7 @@
       "price": "5.87",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/tumbler-batmobile-wcad-edition?skr=yes"
     },
     {
@@ -225,6 +250,7 @@
       "price": "13.27",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/tumbler-batmobile-wcad-edition?skr=yes"
     },
     {
@@ -235,6 +261,7 @@
       "price": "6.65",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/tumbler-batmobile-wcad-edition?skr=yes"
     }
   ],
@@ -301,6 +328,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -313,6 +341,7 @@
       "price": "7.31",
       "region": "us",
       "sku": "654957299650826242",
+      "store_id": "",
       "title": "Tumbler Batmobile - Wcad Edition - Tumbler Batmobile - Wcad Edition - ZH109",
       "url": "https://us.store.bambulab.com/products/tumbler-batmobile-wcad-edition?id=654957299650826242",
       "variant_id": "654957299650826242"
@@ -325,6 +354,7 @@
       "price": "8.46",
       "region": "ca",
       "sku": "654957912118145026",
+      "store_id": "",
       "title": "Tumbler Batmobile - Wcad Edition - Tumbler Batmobile - Wcad Edition - ZH109",
       "url": "https://ca.store.bambulab.com/products/tumbler-batmobile-wcad-edition?id=654957912118145026",
       "variant_id": "654957912118145026"
@@ -337,6 +367,7 @@
       "price": "7.61",
       "region": "eu",
       "sku": "654957733843525634",
+      "store_id": "",
       "title": "Tumbler Batmobile - Wcad Edition - Tumbler Batmobile - Wcad Edition - ZH109",
       "url": "https://eu.store.bambulab.com/products/tumbler-batmobile-wcad-edition?id=654957733843525634",
       "variant_id": "654957733843525634"
@@ -349,6 +380,7 @@
       "price": "5.87",
       "region": "uk",
       "sku": "654957551610826754",
+      "store_id": "",
       "title": "Tumbler Batmobile - Wcad Edition - Tumbler Batmobile - Wcad Edition - ZH109",
       "url": "https://uk.store.bambulab.com/products/tumbler-batmobile-wcad-edition?id=654957551610826754",
       "variant_id": "654957551610826754"
@@ -361,6 +393,7 @@
       "price": "13.27",
       "region": "au",
       "sku": "654958054093246466",
+      "store_id": "",
       "title": "Tumbler Batmobile - Wcad Edition - Tumbler Batmobile - Wcad Edition - ZH109",
       "url": "https://au.store.bambulab.com/products/tumbler-batmobile-wcad-edition?id=654958054093246466",
       "variant_id": "654958054093246466"
@@ -373,6 +406,7 @@
       "price": "6.65",
       "region": "asia",
       "sku": "654933482799697922",
+      "store_id": "",
       "title": "Tumbler Batmobile - Wcad Edition - Tumbler Batmobile - Wcad Edition - ZH109",
       "url": "https://asia.store.bambulab.com/products/tumbler-batmobile-wcad-edition?id=654933482799697922",
       "variant_id": "654933482799697922"

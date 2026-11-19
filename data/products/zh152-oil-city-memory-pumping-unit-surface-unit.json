@@ -4,36 +4,49 @@
     {
       "handle": "oil-city-memory-pumping-unit-surface-unit",
       "product_id": "737930930550624256",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "oil-city-memory-pumping-unit-surface-unit",
       "product_id": "737930007640412160",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "oil-city-memory-pumping-unit-surface-unit",
       "product_id": "737931271818731520",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "oil-city-memory-pumping-unit-surface-unit",
       "product_id": "737930271107817472",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "oil-city-memory-pumping-unit-surface-unit",
       "product_id": "737929294104403968",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "oil-city-memory-pumping-unit-surface-unit",
       "product_id": "737928166534504448",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d6/d6189e1f7309ede4660f3daee6dff297daf508b4d93f033a92c303931d2dc92f.png",
       "id": "image-9ec28c390a3c712e9a94",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH152.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d6189e1f7309ede4660f3daee6dff297daf508b4d93f033a92c303931d2dc92f",
       "size": 1783282,
       "source_url": "https://store.bblcdn.com/s7/default/c5dbbff753904532bc78cd5372145f39/B-ZH152.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f194abdea709cf1bb33d170dc6073f25ac49776a856b82885447fa03900c0985.png",
       "id": "image-7000c9c85d393d2b1a68",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH152-R.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f194abdea709cf1bb33d170dc6073f25ac49776a856b82885447fa03900c0985",
       "size": 396072,
       "source_url": "https://store.bblcdn.com/s7/default/7cff232a52ac4004806e470a2c3b8636/B-ZH152-R.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/67/675e23825db3f24ec6423fd1f92bc91e11daf81d27692318c81cd1fac9b89440.png",
       "id": "image-display-9770dc7511f7075a98de",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-9ec28c390a3c712e9a94",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "675e23825db3f24ec6423fd1f92bc91e11daf81d27692318c81cd1fac9b89440",
       "size": 521774,
       "source_url": "https://store.bblcdn.com/s7/default/c5dbbff753904532bc78cd5372145f39/B-ZH152.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/76/7661ba7dcd06109963948e98bd6625b2ce98374e950629861dca8a8c820a419a.png",
       "id": "image-display-c2e1fd74fdc803f1b32b",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-7000c9c85d393d2b1a68",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7661ba7dcd06109963948e98bd6625b2ce98374e950629861dca8a8c820a419a",
       "size": 102310,
       "source_url": "https://store.bblcdn.com/s7/default/7cff232a52ac4004806e470a2c3b8636/B-ZH152-R.png"
@@ -159,7 +179,8 @@
   "description_text": "To download the model files please visit the Oil City Memory Pumping unit，surface unit on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh152-oil-city-memory-pumping-unit-surface-unit",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Oil City Memory Pumping unit，surface unit",
   "offers": [
@@ -171,6 +192,7 @@
       "price": "11.19",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/oil-city-memory-pumping-unit-surface-unit?skr=yes"
     },
     {
@@ -181,6 +203,7 @@
       "price": "13.04",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/oil-city-memory-pumping-unit-surface-unit?skr=yes"
     },
     {
@@ -191,6 +214,7 @@
       "price": "11.53",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/oil-city-memory-pumping-unit-surface-unit?skr=yes"
     },
     {
@@ -201,6 +225,7 @@
       "price": "9.18",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/oil-city-memory-pumping-unit-surface-unit?skr=yes"
     },
     {
@@ -211,6 +236,7 @@
       "price": "21.48",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/oil-city-memory-pumping-unit-surface-unit?skr=yes"
     },
     {
@@ -221,6 +247,7 @@
       "price": "9.77",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/oil-city-memory-pumping-unit-surface-unit?skr=yes"
     }
   ],
@@ -285,6 +312,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -295,6 +323,7 @@
       "price": "11.19",
       "region": "us",
       "sku": "737930930567401474",
+      "store_id": "",
       "title": "Oil City Memory Pumping unit，surface unit - Oil City Memory Pumping unit，surface unit - ZH152",
       "url": "https://us.store.bambulab.com/products/oil-city-memory-pumping-unit-surface-unit?id=737930930567401474",
       "variant_id": "737930930567401474"
@@ -307,6 +336,7 @@
       "price": "13.04",
       "region": "ca",
       "sku": "737930007694938114",
+      "store_id": "",
       "title": "Oil City Memory Pumping unit，surface unit - Oil City Memory Pumping unit，surface unit - ZH152",
       "url": "https://ca.store.bambulab.com/products/oil-city-memory-pumping-unit-surface-unit?id=737930007694938114",
       "variant_id": "737930007694938114"
@@ -319,6 +349,7 @@
       "price": "11.53",
       "region": "eu",
       "sku": "737931271835508738",
+      "store_id": "",
       "title": "Oil City Memory Pumping unit，surface unit - Oil City Memory Pumping unit，surface unit - ZH152",
       "url": "https://eu.store.bambulab.com/products/oil-city-memory-pumping-unit-surface-unit?id=737931271835508738",
       "variant_id": "737931271835508738"
@@ -331,6 +362,7 @@
       "price": "9.18",
       "region": "uk",
       "sku": "737930271128788994",
+      "store_id": "",
       "title": "Oil City Memory Pumping unit，surface unit - Oil City Memory Pumping unit，surface unit - ZH152",
       "url": "https://uk.store.bambulab.com/products/oil-city-memory-pumping-unit-surface-unit?id=737930271128788994",
       "variant_id": "737930271128788994"
@@ -343,6 +375,7 @@
       "price": "21.48",
       "region": "au",
       "sku": "737929294129569793",
+      "store_id": "",
       "title": "Oil City Memory Pumping unit，surface unit - Oil City Memory Pumping unit，surface unit - ZH152",
       "url": "https://au.store.bambulab.com/products/oil-city-memory-pumping-unit-surface-unit?id=737929294129569793",
       "variant_id": "737929294129569793"
@@ -355,6 +388,7 @@
       "price": "9.77",
       "region": "asia",
       "sku": "737928166601613314",
+      "store_id": "",
       "title": "Oil City Memory Pumping unit，surface unit - Oil City Memory Pumping unit，surface unit - ZH152",
       "url": "https://asia.store.bambulab.com/products/oil-city-memory-pumping-unit-surface-unit?id=737928166601613314",
       "variant_id": "737928166601613314"

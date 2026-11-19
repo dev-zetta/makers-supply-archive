@@ -4,31 +4,42 @@
     {
       "handle": "cauldron-light",
       "product_id": "8375537860744",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cauldron-light",
       "product_id": "9037731102960",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cauldron-light",
       "product_id": "9598874517852",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cauldron-light",
       "product_id": "7798359523388",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cauldron-light",
       "product_id": "514035626107396096",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c1/c16c3933399b7f331f7cde5200ccdc7f16b8c979a8bcfa3cd0429a9f69dab236.jpg",
       "id": "image-939083aab6ed9d0348c6",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "TREE2-2.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c16c3933399b7f331f7cde5200ccdc7f16b8c979a8bcfa3cd0429a9f69dab236",
       "size": 102218,
       "source_url": "https://store.bblcdn.com/s7/default/8d9c1bce18a143a5be64ccd557720e26/TREE2-2.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/74/74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0.png",
       "id": "image-819b067b47040294af16",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "flame_30691903-1fe5-4551-a3a7-931558cec43b.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0",
       "size": 216756,
       "source_url": "https://store.bblcdn.com/s7/default/f76d5eb8a10f4dff9dbdd8465d9fc550/flame_30691903-1fe5-4551-a3a7-931558cec43b.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fd/fd6d0ef26e053515cfdac96c6639fe8e3a506bd3de957877c4adc7cc24b1c3c7.png",
       "id": "image-display-6ace50e795f5e55dd389",
       "image_processing": {
@@ -70,11 +85,13 @@
       "parent_asset_id": "image-939083aab6ed9d0348c6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fd6d0ef26e053515cfdac96c6639fe8e3a506bd3de957877c4adc7cc24b1c3c7",
       "size": 495169,
       "source_url": "https://store.bblcdn.com/s7/default/8d9c1bce18a143a5be64ccd557720e26/TREE2-2.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/45/450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037.png",
       "id": "image-display-3335d10a06d811bb148f",
       "image_processing": {
@@ -92,6 +109,7 @@
       "parent_asset_id": "image-819b067b47040294af16",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037",
       "size": 69316,
       "source_url": "https://store.bblcdn.com/s7/default/f76d5eb8a10f4dff9dbdd8465d9fc550/flame_30691903-1fe5-4551-a3a7-931558cec43b.png"
@@ -143,7 +161,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Cauldron Light. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Cauldron Light and obtain detailed information, please visit the Cauldron Light on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "dy011-cauldron-light",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Cauldron Light",
   "offers": [
@@ -155,6 +174,7 @@
       "price": "8.79",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/cauldron-light?skr=yes"
     },
     {
@@ -165,6 +185,7 @@
       "price": "10.12",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/cauldron-light?skr=yes"
     },
     {
@@ -175,6 +196,7 @@
       "price": "8.28",
       "region": "eu",
       "retrieved_at": "2026-11-10T15:04:23Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/cauldron-light?skr=yes"
     },
     {
@@ -185,6 +207,7 @@
       "price": "7.03",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/cauldron-light?skr=yes"
     },
     {
@@ -195,6 +218,7 @@
       "price": "7.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/cauldron-light?skr=yes"
     }
   ],
@@ -238,6 +262,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -250,6 +275,7 @@
       "price": "8.79",
       "region": "us",
       "sku": "42938697580680",
+      "store_id": "",
       "title": "Cauldron Light - Cauldron Light - DY011",
       "url": "https://us.store.bambulab.com/products/cauldron-light?id=42938697580680",
       "variant_id": "42938697580680"
@@ -262,6 +288,7 @@
       "price": "10.12",
       "region": "ca",
       "sku": "46610836324592",
+      "store_id": "",
       "title": "Cauldron Light - Cauldron Light - DY011",
       "url": "https://ca.store.bambulab.com/products/cauldron-light?id=46610836324592",
       "variant_id": "46610836324592"
@@ -274,6 +301,7 @@
       "price": "8.28",
       "region": "eu",
       "sku": "49410513469788",
+      "store_id": "",
       "title": "Cauldron Light - Cauldron Light - DY011",
       "url": "https://eu.store.bambulab.com/products/cauldron-light?id=49410513469788",
       "variant_id": "49410513469788"
@@ -286,6 +314,7 @@
       "price": "7.03",
       "region": "uk",
       "sku": "42195734593596",
+      "store_id": "",
       "title": "Cauldron Light - Cauldron Light - DY011",
       "url": "https://uk.store.bambulab.com/products/cauldron-light?id=42195734593596",
       "variant_id": "42195734593596"
@@ -298,6 +327,7 @@
       "price": "7.99",
       "region": "asia",
       "sku": "514035626111590403",
+      "store_id": "",
       "title": "Cauldron Light - Cauldron Light - DY011",
       "url": "https://asia.store.bambulab.com/products/cauldron-light?id=514035626111590403",
       "variant_id": "514035626111590403"

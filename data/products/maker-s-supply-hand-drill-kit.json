@@ -4,36 +4,49 @@
     {
       "handle": "maker-s-supply-hand-drill-kit",
       "product_id": "670509752217698304",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-hand-drill-kit",
       "product_id": "670782466988584960",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-hand-drill-kit",
       "product_id": "670780706047705088",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-hand-drill-kit",
       "product_id": "670782233785020416",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-hand-drill-kit",
       "product_id": "670783512011993088",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-hand-drill-kit",
       "product_id": "670784025996259328",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/20/209026dc766aa42208fab5819d6c745ea8462ae48bfdf097123c346028765ef4.png",
       "id": "image-0eaaa92156555debe25c",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZH121.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "209026dc766aa42208fab5819d6c745ea8462ae48bfdf097123c346028765ef4",
       "size": 10976686,
       "source_url": "https://store.bblcdn.com/s7/default/d729e56f20f1456bb4c7785843b92fb7/ZH121.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9b/9bfbe19d018880ccdf12dfabfb1229b51cffe782f64fe873658178afc6cb94d3.png",
       "id": "image-67ee1c84938f54f8674e",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "QA014-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9bfbe19d018880ccdf12dfabfb1229b51cffe782f64fe873658178afc6cb94d3",
       "size": 3942830,
       "source_url": "https://store.bblcdn.com/s7/default/45669a0c9adf487e9fb3d02020e91073/QA014-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7b/7b00164ba0b1f084a689b3125a4c4ce34f53d871f39dc97d801272dfdf3d5b38.png",
       "id": "image-6ea3cfa80fd63a91f27f",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "QA015-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7b00164ba0b1f084a689b3125a4c4ce34f53d871f39dc97d801272dfdf3d5b38",
       "size": 12694554,
       "source_url": "https://store.bblcdn.com/s7/default/cf4a76ddcbfa4a42865eb7e6bbb7acb5/QA015-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/13/136b60f081a8d1059b7faae610a874a58aa0c5866860e51b29b7d1afebde129f.png",
       "id": "image-7b4851a0347013bd900d",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "44.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "136b60f081a8d1059b7faae610a874a58aa0c5866860e51b29b7d1afebde129f",
       "size": 4804583,
       "source_url": "https://store.bblcdn.com/s7/default/2084f64bb8cf41e69b6b6d7a92b34e1a/44.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bc72df9cc864e0ca1fac089c6670b8a368b51d6d6868bfd5da1405e93cf4c58d.png",
       "id": "image-38b58b59021c632d33bb",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "QA014-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bc72df9cc864e0ca1fac089c6670b8a368b51d6d6868bfd5da1405e93cf4c58d",
       "size": 3760927,
       "source_url": "https://store.bblcdn.com/s7/default/eccc4ac90d0e4dc5935b9a9331f35926/QA014-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/37/378464588bf9162d17b92ba9de717827e3770916228dc0960a8295fb5cfdb3b1.png",
       "id": "image-32da2fc10390f3fe9d07",
       "kind": "image",
@@ -101,11 +124,13 @@
       "original_filename": "QA015-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "378464588bf9162d17b92ba9de717827e3770916228dc0960a8295fb5cfdb3b1",
       "size": 7645254,
       "source_url": "https://store.bblcdn.com/s7/default/bbb34a4cdf2d4e4da6e4562787cf4526/QA015-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e1/e1a58b63c8222f7a135acf09b5d3adbefd32bb414d76baaa3471d25e6ddb00ff.png",
       "id": "image-07e8ab3933facd92e9d1",
       "kind": "image",
@@ -113,11 +138,13 @@
       "original_filename": "QA015-3.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e1a58b63c8222f7a135acf09b5d3adbefd32bb414d76baaa3471d25e6ddb00ff",
       "size": 7650376,
       "source_url": "https://store.bblcdn.com/s7/default/fba7246dc83e453b9b8d7e31ce365f74/QA015-3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/20/209026dc766aa42208fab5819d6c745ea8462ae48bfdf097123c346028765ef4.png",
       "id": "image-6f58823d03be5fa18cea",
       "kind": "image",
@@ -125,11 +152,13 @@
       "original_filename": "ZH121.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "209026dc766aa42208fab5819d6c745ea8462ae48bfdf097123c346028765ef4",
       "size": 10976686,
       "source_url": "https://store.bblcdn.com/s7/default/b738761eac1e43a4a67ccfea549d5428/ZH121.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/df/df011b99503a516f10104688f54d3f76971282b6d7441ffc04715f49803b47b2.png",
       "id": "image-display-27f64f6180f2b63cd539",
       "image_processing": {
@@ -147,11 +176,13 @@
       "parent_asset_id": "image-0eaaa92156555debe25c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "df011b99503a516f10104688f54d3f76971282b6d7441ffc04715f49803b47b2",
       "size": 273207,
       "source_url": "https://store.bblcdn.com/s7/default/d729e56f20f1456bb4c7785843b92fb7/ZH121.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1f/1fa3de2ff1c11a56fdf3fb02b92dce32c741a6867ca197b628a5c8923a55ad73.png",
       "id": "image-display-99e9d99cbcdce1ae98ec",
       "image_processing": {
@@ -169,11 +200,13 @@
       "parent_asset_id": "image-67ee1c84938f54f8674e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1fa3de2ff1c11a56fdf3fb02b92dce32c741a6867ca197b628a5c8923a55ad73",
       "size": 102882,
       "source_url": "https://store.bblcdn.com/s7/default/45669a0c9adf487e9fb3d02020e91073/QA014-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f4/f434a7737cf674323806142aba149eea1e51a9c4af4c1a685f994f67378cd64f.png",
       "id": "image-display-0658e074dcd3309b85d8",
       "image_processing": {
@@ -191,11 +224,13 @@
       "parent_asset_id": "image-6ea3cfa80fd63a91f27f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f434a7737cf674323806142aba149eea1e51a9c4af4c1a685f994f67378cd64f",
       "size": 346371,
       "source_url": "https://store.bblcdn.com/s7/default/cf4a76ddcbfa4a42865eb7e6bbb7acb5/QA015-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/10/109ee240717c731442558149f07fa461e31a207a4e281b75214bf1e5b7b1a88b.png",
       "id": "image-display-47473cf41aad610e7203",
       "image_processing": {
@@ -213,11 +248,13 @@
       "parent_asset_id": "image-7b4851a0347013bd900d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "109ee240717c731442558149f07fa461e31a207a4e281b75214bf1e5b7b1a88b",
       "size": 761633,
       "source_url": "https://store.bblcdn.com/s7/default/2084f64bb8cf41e69b6b6d7a92b34e1a/44.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b7/b703682ed54c344fb429d8fbf92a3f72e5b7915351cf892482bd124ce6cd60f1.png",
       "id": "image-display-a8c8e3d93c910a50f579",
       "image_processing": {
@@ -235,11 +272,13 @@
       "parent_asset_id": "image-38b58b59021c632d33bb",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b703682ed54c344fb429d8fbf92a3f72e5b7915351cf892482bd124ce6cd60f1",
       "size": 106811,
       "source_url": "https://store.bblcdn.com/s7/default/eccc4ac90d0e4dc5935b9a9331f35926/QA014-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/95/951c664667edf21bc2b10424447c399139ee0a4d41ff4a94946f45b83f71441c.png",
       "id": "image-display-364cbd5f7d5a23de9277",
       "image_processing": {
@@ -257,11 +296,13 @@
       "parent_asset_id": "image-32da2fc10390f3fe9d07",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "951c664667edf21bc2b10424447c399139ee0a4d41ff4a94946f45b83f71441c",
       "size": 202729,
       "source_url": "https://store.bblcdn.com/s7/default/bbb34a4cdf2d4e4da6e4562787cf4526/QA015-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c5/c5a13c207ba15b80c3762c4a84dc833c9d7e40f2f11d0a385486d787ff100f45.png",
       "id": "image-display-b948356a1dd01aa217ba",
       "image_processing": {
@@ -279,11 +320,13 @@
       "parent_asset_id": "image-07e8ab3933facd92e9d1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c5a13c207ba15b80c3762c4a84dc833c9d7e40f2f11d0a385486d787ff100f45",
       "size": 222929,
       "source_url": "https://store.bblcdn.com/s7/default/fba7246dc83e453b9b8d7e31ce365f74/QA015-3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/df/df011b99503a516f10104688f54d3f76971282b6d7441ffc04715f49803b47b2.png",
       "id": "image-display-208fb146c4888ebc28d4",
       "image_processing": {
@@ -301,6 +344,7 @@
       "parent_asset_id": "image-6f58823d03be5fa18cea",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "df011b99503a516f10104688f54d3f76971282b6d7441ffc04715f49803b47b2",
       "size": 273207,
       "source_url": "https://store.bblcdn.com/s7/default/b738761eac1e43a4a67ccfea549d5428/ZH121.png"
@@ -430,6 +474,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "maker-s-supply-hand-drill-kit",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Maker's Supply Hand Drill Kit",
   "offers": [
@@ -441,6 +486,7 @@
       "price": "13.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/maker-s-supply-hand-drill-kit?skr=yes"
     },
     {
@@ -451,6 +497,7 @@
       "price": "18.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/maker-s-supply-hand-drill-kit?skr=yes"
     },
     {
@@ -461,6 +508,7 @@
       "price": "15.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/maker-s-supply-hand-drill-kit?skr=yes"
     },
     {
@@ -471,6 +519,7 @@
       "price": "13.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/maker-s-supply-hand-drill-kit?skr=yes"
     },
     {
@@ -481,6 +530,7 @@
       "price": "21.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/maker-s-supply-hand-drill-kit?skr=yes"
     },
     {
@@ -491,6 +541,7 @@
       "price": "13.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/maker-s-supply-hand-drill-kit?skr=yes"
     }
   ],
@@ -610,6 +661,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -621,6 +673,7 @@
       "price": "13.99",
       "region": "us",
       "sku": "670509752259641348",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Maker's Supply Hand Drill Kit",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670509752259641348",
       "variant_id": "670509752259641348"
@@ -632,6 +685,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "670512566109052929",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Hand Drill Handle",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670512566109052929",
       "variant_id": "670512566109052929"
@@ -643,6 +697,7 @@
       "price": "6.99",
       "region": "us",
       "sku": "670509752259641356",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Tungsten Steel Drill Bits",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670509752259641356",
       "variant_id": "670509752259641356"
@@ -654,6 +709,7 @@
       "price": "18.99",
       "region": "ca",
       "sku": "670782467001167876",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Maker's Supply Hand Drill Kit",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670782467001167876",
       "variant_id": "670782467001167876"
@@ -665,6 +721,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "670782467001167880",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Hand Drill Handle",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670782467001167880",
       "variant_id": "670782467001167880"
@@ -676,6 +733,7 @@
       "price": "9.99",
       "region": "ca",
       "sku": "670782467001167884",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Tungsten Steel Drill Bits",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670782467001167884",
       "variant_id": "670782467001167884"
@@ -687,6 +745,7 @@
       "price": "15.99",
       "region": "eu",
       "sku": "670780706056093700",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Maker's Supply Hand Drill Kit",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670780706056093700",
       "variant_id": "670780706056093700"
@@ -698,6 +757,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "670780706056093708",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Hand Drill Handle",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670780706056093708",
       "variant_id": "670780706056093708"
@@ -709,6 +769,7 @@
       "price": "7.99",
       "region": "eu",
       "sku": "670780706056093704",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Tungsten Steel Drill Bits",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670780706056093704",
       "variant_id": "670780706056093704"
@@ -720,6 +781,7 @@
       "price": "13.99",
       "region": "uk",
       "sku": "670782233801797636",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Maker's Supply Hand Drill Kit",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670782233801797636",
       "variant_id": "670782233801797636"
@@ -731,6 +793,7 @@
       "price": "8.99",
       "region": "uk",
       "sku": "670782233801797640",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Hand Drill Handle",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670782233801797640",
       "variant_id": "670782233801797640"
@@ -742,6 +805,7 @@
       "price": "6.99",
       "region": "uk",
       "sku": "670782233801797644",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Tungsten Steel Drill Bits",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670782233801797644",
       "variant_id": "670782233801797644"
@@ -753,6 +817,7 @@
       "price": "21.99",
       "region": "au",
       "sku": "670783512024576004",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Maker's Supply Hand Drill Kit",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670783512024576004",
       "variant_id": "670783512024576004"
@@ -764,6 +829,7 @@
       "price": "14.99",
       "region": "au",
       "sku": "670783512024576008",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Hand Drill Handle",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670783512024576008",
       "variant_id": "670783512024576008"
@@ -775,6 +841,7 @@
       "price": "10.99",
       "region": "au",
       "sku": "670783512024576012",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Tungsten Steel Drill Bits",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670783512024576012",
       "variant_id": "670783512024576012"
@@ -786,6 +853,7 @@
       "price": "13.99",
       "region": "asia",
       "sku": "670784026008842244",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Maker's Supply Hand Drill Kit",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670784026008842244",
       "variant_id": "670784026008842244"
@@ -797,6 +865,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "670784026008842252",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Hand Drill Handle",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670784026008842252",
       "variant_id": "670784026008842252"
@@ -808,6 +877,7 @@
       "price": "6.99",
       "region": "asia",
       "sku": "670784026008842248",
+      "store_id": "",
       "title": "Maker's Supply Hand Drill Kit - Tungsten Steel Drill Bits",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-hand-drill-kit?id=670784026008842248",
       "variant_id": "670784026008842248"

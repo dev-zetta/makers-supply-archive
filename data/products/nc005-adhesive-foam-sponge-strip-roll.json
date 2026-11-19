@@ -4,36 +4,49 @@
     {
       "handle": "adhesive-foam-sponge-strip-roll",
       "product_id": "8316404990088",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "adhesive-foam-sponge-strip-roll",
       "product_id": "8987166081264",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "adhesive-foam-sponge-strip-roll",
       "product_id": "9533838557532",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "adhesive-foam-sponge-strip-roll",
       "product_id": "7760926048316",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "adhesive-foam-sponge-strip-roll",
       "product_id": "8569806848163",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "adhesive-foam-sponge-strip-roll",
       "product_id": "500551704840380416",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/63/637e2921bc51baf7e84ce4653cec2ace0190ed0b9782e7e3abb1d209cd99f4fc.png",
       "id": "image-c7dcaa891a3b7e62261b",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "NC005_efc3e6c9-52c3-4062-b847-042f911133c4.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "637e2921bc51baf7e84ce4653cec2ace0190ed0b9782e7e3abb1d209cd99f4fc",
       "size": 57439,
       "source_url": "https://store.bblcdn.com/s7/default/06bc3a98bfed4d9d88a3c209ca07bb2a/NC005_efc3e6c9-52c3-4062-b847-042f911133c4.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/37/3769de345d953f7299b997cf77014fc6705078040f517aace16dc803a930dce3.png",
       "id": "image-bb4561da28e90deb1337",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "AdhesiveFoamSpongeStripRoll1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3769de345d953f7299b997cf77014fc6705078040f517aace16dc803a930dce3",
       "size": 175733,
       "source_url": "https://store.bblcdn.com/s7/default/f9656ab3cae142a2815ec52fd56778a4/AdhesiveFoamSpongeStripRoll1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/97/9742c8aa94708b5afdc568962fdcf182f62547f53aa7efc3502601ee436dcae7.pdf",
       "id": "document-5c5331a68fa2475aea07",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "Adhesive_Foam_Sponge_Strip_Roll.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9742c8aa94708b5afdc568962fdcf182f62547f53aa7efc3502601ee436dcae7",
       "size": 412138,
       "source_url": "https://store.bblcdn.com/s7/default/04917d2e22534d898a9dd5dba4518e27/Adhesive_Foam_Sponge_Strip_Roll.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/49/49e97ee95c4bc1e3403af160495271050351dbffe2a6697d67787e74d890881c.png",
       "id": "image-display-dc20c815f1b092893168",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-c7dcaa891a3b7e62261b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "49e97ee95c4bc1e3403af160495271050351dbffe2a6697d67787e74d890881c",
       "size": 46714,
       "source_url": "https://store.bblcdn.com/s7/default/06bc3a98bfed4d9d88a3c209ca07bb2a/NC005_efc3e6c9-52c3-4062-b847-042f911133c4.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1d/1d7e7fab011d66b8169eb931d12cc6a002af7e7a6fb8ce80dfb8a1dfe4e4de38.png",
       "id": "image-display-ee3b42f5b746afa615ce",
       "image_processing": {
@@ -109,6 +130,7 @@
       "parent_asset_id": "image-bb4561da28e90deb1337",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1d7e7fab011d66b8169eb931d12cc6a002af7e7a6fb8ce80dfb8a1dfe4e4de38",
       "size": 155908,
       "source_url": "https://store.bblcdn.com/s7/default/f9656ab3cae142a2815ec52fd56778a4/AdhesiveFoamSpongeStripRoll1.png"
@@ -159,6 +181,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "nc005-adhesive-foam-sponge-strip-roll",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "H (mm) Width",
@@ -198,6 +221,7 @@
       "price": "3.84",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/adhesive-foam-sponge-strip-roll?skr=yes"
     },
     {
@@ -208,6 +232,7 @@
       "price": "4.42",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/adhesive-foam-sponge-strip-roll?skr=yes"
     },
     {
@@ -218,6 +243,7 @@
       "price": "3.62",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/adhesive-foam-sponge-strip-roll?skr=yes"
     },
     {
@@ -228,6 +254,7 @@
       "price": "3.07",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/adhesive-foam-sponge-strip-roll?skr=yes"
     },
     {
@@ -238,6 +265,7 @@
       "price": "6.94",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/adhesive-foam-sponge-strip-roll?skr=yes"
     },
     {
@@ -248,6 +276,7 @@
       "price": "3.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/adhesive-foam-sponge-strip-roll?skr=yes"
     }
   ],
@@ -338,6 +367,7 @@
     "W (mm) Thickness": "0.5",
     "Waterproof": "Yes"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -348,6 +378,7 @@
       "price": "3.84",
       "region": "us",
       "sku": "42826563649672",
+      "store_id": "",
       "title": "Adhesive Foam Sponge Strip Roll - 20x0.5mm-5m (1PCS) -NC005",
       "url": "https://us.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?id=42826563649672",
       "variant_id": "42826563649672"
@@ -360,6 +391,7 @@
       "price": "4.42",
       "region": "ca",
       "sku": "46495492571376",
+      "store_id": "",
       "title": "Adhesive Foam Sponge Strip Roll - 20x0.5mm-5m (1PCS) -NC005",
       "url": "https://ca.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?id=46495492571376",
       "variant_id": "46495492571376"
@@ -372,6 +404,7 @@
       "price": "3.62",
       "region": "eu",
       "sku": "49232044654940",
+      "store_id": "",
       "title": "Adhesive Foam Sponge Strip Roll - 20x0.5mm-5m (1PCS) -NC005",
       "url": "https://eu.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?id=49232044654940",
       "variant_id": "49232044654940"
@@ -384,6 +417,7 @@
       "price": "3.07",
       "region": "uk",
       "sku": "42114275967036",
+      "store_id": "",
       "title": "Adhesive Foam Sponge Strip Roll - 20x0.5mm-5m (1PCS) -NC005",
       "url": "https://uk.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?id=42114275967036",
       "variant_id": "42114275967036"
@@ -396,6 +430,7 @@
       "price": "6.94",
       "region": "au",
       "sku": "45110592733347",
+      "store_id": "",
       "title": "Adhesive Foam Sponge Strip Roll - 20x0.5mm-5m (1PCS) -NC005",
       "url": "https://au.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?id=45110592733347",
       "variant_id": "45110592733347"
@@ -408,6 +443,7 @@
       "price": "3.49",
       "region": "asia",
       "sku": "500551704840380420",
+      "store_id": "",
       "title": "Adhesive Foam Sponge Strip Roll - 20x0.5mm-5m (1PCS) -NC005",
       "url": "https://asia.store.bambulab.com/products/adhesive-foam-sponge-strip-roll?id=500551704840380420",
       "variant_id": "500551704840380420"

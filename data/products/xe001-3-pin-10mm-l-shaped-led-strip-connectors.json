@@ -4,36 +4,49 @@
     {
       "handle": "3-pin-10mm-l-shaped-led-strip-connectors",
       "product_id": "8304000237704",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "3-pin-10mm-l-shaped-led-strip-connectors",
       "product_id": "8959978897648",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "3-pin-10mm-l-shaped-led-strip-connectors",
       "product_id": "9507644703068",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "3-pin-10mm-l-shaped-led-strip-connectors",
       "product_id": "7734548070460",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "3-pin-10mm-l-shaped-led-strip-connectors",
       "product_id": "8555573936291",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "3-pin-10mm-l-shaped-led-strip-connectors",
       "product_id": "7722624843891",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/12/121157164a8fa3e11a24855b9f64588a815516a17fc4e4493c588f625f654725.png",
       "id": "image-af402d2d9681790f2099",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "XE001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "121157164a8fa3e11a24855b9f64588a815516a17fc4e4493c588f625f654725",
       "size": 105427,
       "source_url": "https://store.bblcdn.com/s7/default/4c778473b1224050874506d6ce70491d/XE001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/34/34d0b0f1ca6eebacd858bb831e369cfb89d6bf1aaf9dd282eeeb84e00602b386.png",
       "id": "image-656b39a816b0e3cadbca",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "XE001-01.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "34d0b0f1ca6eebacd858bb831e369cfb89d6bf1aaf9dd282eeeb84e00602b386",
       "size": 110327,
       "source_url": "https://store.bblcdn.com/s7/default/00f43a783f4148199b074901713e1972/XE001-01.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6c/6c885092bac7377db533c948f5c7eb452131b798e54441ce4b10c322d32653eb.png",
       "id": "image-display-4e7766465af470792c0f",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-af402d2d9681790f2099",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6c885092bac7377db533c948f5c7eb452131b798e54441ce4b10c322d32653eb",
       "size": 87974,
       "source_url": "https://store.bblcdn.com/s7/default/4c778473b1224050874506d6ce70491d/XE001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b9/b923c991890805dcbb125e84438ce22026b8277eb04536987cc4473709ea817b.png",
       "id": "image-display-04790f1388c8113bf3af",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-656b39a816b0e3cadbca",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b923c991890805dcbb125e84438ce22026b8277eb04536987cc4473709ea817b",
       "size": 95491,
       "source_url": "https://store.bblcdn.com/s7/default/00f43a783f4148199b074901713e1972/XE001-01.png"
@@ -150,6 +170,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xe001-3-pin-10mm-l-shaped-led-strip-connectors",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Size（Working LED width）",
@@ -173,6 +194,7 @@
       "price": "6.59",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/3-pin-10mm-l-shaped-led-strip-connectors?skr=yes"
     },
     {
@@ -183,6 +205,7 @@
       "price": "7.58",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/3-pin-10mm-l-shaped-led-strip-connectors?skr=yes"
     },
     {
@@ -193,6 +216,7 @@
       "price": "6.21",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/3-pin-10mm-l-shaped-led-strip-connectors?skr=yes"
     },
     {
@@ -203,6 +227,7 @@
       "price": "5.27",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/3-pin-10mm-l-shaped-led-strip-connectors?skr=yes"
     },
     {
@@ -213,6 +238,7 @@
       "price": "11.9",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/3-pin-10mm-l-shaped-led-strip-connectors?skr=yes"
     },
     {
@@ -223,6 +249,7 @@
       "price": "5.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/3-pin-10mm-l-shaped-led-strip-connectors?skr=yes"
     }
   ],
@@ -295,6 +322,7 @@
     "Quantities": "10PCS",
     "Size（Working LED width）": "10mm"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -305,6 +333,7 @@
       "price": "6.59",
       "region": "us",
       "sku": "42800577773704",
+      "store_id": "",
       "title": "3-pin 10mm L-shaped LED Strip Connectors (10PCS) - 3-pin 10mm L-shaped LED Strip Connectors (10PCS) - XE001",
       "url": "https://us.store.bambulab.com/products/3-pin-10mm-l-shaped-led-strip-connectors?id=42800577773704",
       "variant_id": "42800577773704"
@@ -317,6 +346,7 @@
       "price": "7.58",
       "region": "ca",
       "sku": "46431823364336",
+      "store_id": "",
       "title": "3-pin 10mm L-shaped LED Strip Connectors (10PCS) - 3-pin 10mm L-shaped LED Strip Connectors - XE001",
       "url": "https://ca.store.bambulab.com/products/3-pin-10mm-l-shaped-led-strip-connectors?id=46431823364336",
       "variant_id": "46431823364336"
@@ -329,6 +359,7 @@
       "price": "6.21",
       "region": "eu",
       "sku": "49140486668636",
+      "store_id": "",
       "title": "3-pin 10mm L-shaped LED Strip Connectors (10PCS) - 3-pin 10mm L-shaped LED Strip Connectors (10PCS) - XE001",
       "url": "https://eu.store.bambulab.com/products/3-pin-10mm-l-shaped-led-strip-connectors?id=49140486668636",
       "variant_id": "49140486668636"
@@ -341,6 +372,7 @@
       "price": "5.27",
       "region": "uk",
       "sku": "42062815100988",
+      "store_id": "",
       "title": "3-pin 10mm L-shaped LED Strip Connectors (10PCS) - 3-pin 10mm L-shaped LED Strip Connectors (10PCS) - XE001",
       "url": "https://uk.store.bambulab.com/products/3-pin-10mm-l-shaped-led-strip-connectors?id=42062815100988",
       "variant_id": "42062815100988"
@@ -353,6 +385,7 @@
       "price": "11.9",
       "region": "au",
       "sku": "45056976683171",
+      "store_id": "",
       "title": "3-pin 10mm L-shaped LED Strip Connectors (10PCS) - 3-pin 10mm L-shaped LED Strip Connectors (10PCS) - XE001",
       "url": "https://au.store.bambulab.com/products/3-pin-10mm-l-shaped-led-strip-connectors?id=45056976683171",
       "variant_id": "45056976683171"
@@ -364,6 +397,7 @@
       "price": "5.99",
       "region": "asia",
       "sku": "42134735585395",
+      "store_id": "",
       "title": "3-pin 10mm L-shaped LED Strip Connectors (10PCS) - 3-pin 10mm L-shaped LED Strip Connectors (10PCS)",
       "url": "https://asia.store.bambulab.com/products/3-pin-10mm-l-shaped-led-strip-connectors?id=42134735585395",
       "variant_id": "42134735585395"

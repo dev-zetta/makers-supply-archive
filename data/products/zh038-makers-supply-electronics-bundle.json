@@ -4,36 +4,49 @@
     {
       "handle": "makers-supply-electronics-bundle",
       "product_id": "8399649734792",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "makers-supply-electronics-bundle",
       "product_id": "9067148706032",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "makers-supply-electronics-bundle",
       "product_id": "9643913740636",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "makers-supply-electronics-bundle",
       "product_id": "7826030886972",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "makers-supply-electronics-bundle",
       "product_id": "523599256841342976",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "makers-supply-electronics-bundle",
       "product_id": "523600512298065920",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/92/9283e72870081ea132c8183999fa9da87552b045ce37910468e6441c4cbb2a4c.png",
       "id": "image-8612e9b860de53ca587c",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ELECTRONIC_BUNDLE.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9283e72870081ea132c8183999fa9da87552b045ce37910468e6441c4cbb2a4c",
       "size": 376166,
       "source_url": "https://store.bblcdn.com/s7/default/57921a91490845c5ae7af0a35cff1344/ELECTRONIC_BUNDLE.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9f/9f8f981167524dcc750ba0813a7ee7c88d99c2004d9ada0e46e610f98d8c0ec3.png",
       "id": "image-629c0325870de92b9701",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "0106-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9f8f981167524dcc750ba0813a7ee7c88d99c2004d9ada0e46e610f98d8c0ec3",
       "size": 1143346,
       "source_url": "https://store.bblcdn.com/s7/default/ca7731844b3e4686b684bd76a133b339/0106-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/78/788cf266a330676a492732bbfa4eecfb4393ca981e3187d7b22d0c6e0d27b0e8.zip",
       "id": "archive-d5357269afc96423d898",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "3D_Model_3ef90fcb-4113-439a-9dfb-e0d35631c03d.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "788cf266a330676a492732bbfa4eecfb4393ca981e3187d7b22d0c6e0d27b0e8",
       "size": 2742728,
       "source_url": "https://store.bblcdn.com/s7/default/faec5027f67d49c7af3f271c478ef725/3D_Model_3ef90fcb-4113-439a-9dfb-e0d35631c03d.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3f/3fdac271557e2129d2592bd11aadbd5ddfb6d3df8c5d963cdc6aae53911e1439.zip",
       "id": "archive-ac174a06680274d5b33d",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "Maker_s_Supply_Electronic_Kit_-_ZH038_Application_Instruction.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3fdac271557e2129d2592bd11aadbd5ddfb6d3df8c5d963cdc6aae53911e1439",
       "size": 19265039,
       "source_url": "https://store.bblcdn.com/s7/default/debd6a6be9be4d068e4dd71169ef0730/Maker_s_Supply_Electronic_Kit_-_ZH038_Application_Instruction.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Potentiometer Board with SH1.0 Connector/potentiometer_board-sh1_0_new.stl",
       "blob_path": "data/blobs/sha256/05/0535c563594a2112249f2c27432a79beb7ba10895c80c1c847c53eb83ab90a2f.stl",
       "id": "model-a684bec3d0a60f917859",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-d5357269afc96423d898",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0535c563594a2112249f2c27432a79beb7ba10895c80c1c847c53eb83ab90a2f",
       "size": 1397984,
       "source_url": "https://store.bblcdn.com/s7/default/faec5027f67d49c7af3f271c478ef725/3D_Model_3ef90fcb-4113-439a-9dfb-e0d35631c03d.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Potentiometer Board with SH1.0 Connector/potentiometer_board-sh1_0_new.stp",
       "blob_path": "data/blobs/sha256/11/115df8ae294daffa396808eccae51cb4d522ea7270d8a0a2815f7da22fc26473.stp",
       "id": "model-4634f8141a935080245c",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-d5357269afc96423d898",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "115df8ae294daffa396808eccae51cb4d522ea7270d8a0a2815f7da22fc26473",
       "size": 4026158,
       "source_url": "https://store.bblcdn.com/s7/default/faec5027f67d49c7af3f271c478ef725/3D_Model_3ef90fcb-4113-439a-9dfb-e0d35631c03d.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Power Distribution Board (PDB)/power_distribution_board_new.stl",
       "blob_path": "data/blobs/sha256/1e/1e1e5de7ad632b6ab955a7ca887c596d623e1f945a3f275579c0691fa75ef803.stl",
       "id": "model-773383fbb3caa1933118",
@@ -119,11 +144,13 @@
       "parent_asset_id": "archive-d5357269afc96423d898",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1e1e5de7ad632b6ab955a7ca887c596d623e1f945a3f275579c0691fa75ef803",
       "size": 2069984,
       "source_url": "https://store.bblcdn.com/s7/default/faec5027f67d49c7af3f271c478ef725/3D_Model_3ef90fcb-4113-439a-9dfb-e0d35631c03d.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Power Distribution Board (PDB)/power_distribution_board_new.stp",
       "blob_path": "data/blobs/sha256/8b/8b27a2c606b6d7ef00666c8aec801829a019f49cdf3b60c158666ed23880ca58.stp",
       "id": "model-99ce56f62d6e8c2957b0",
@@ -133,11 +160,13 @@
       "parent_asset_id": "archive-d5357269afc96423d898",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8b27a2c606b6d7ef00666c8aec801829a019f49cdf3b60c158666ed23880ca58",
       "size": 5576148,
       "source_url": "https://store.bblcdn.com/s7/default/faec5027f67d49c7af3f271c478ef725/3D_Model_3ef90fcb-4113-439a-9dfb-e0d35631c03d.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Self-Locking Button Switch with SH1.0 Connector/Self-Locking Button Switch - IA006.stl",
       "blob_path": "data/blobs/sha256/d3/d3d49acd428f989bd581c7a640f78b80b57584f0338fc2390c9df1c3c38966ca.stl",
       "id": "model-76430a9d5e8c350af966",
@@ -147,11 +176,13 @@
       "parent_asset_id": "archive-d5357269afc96423d898",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d3d49acd428f989bd581c7a640f78b80b57584f0338fc2390c9df1c3c38966ca",
       "size": 285184,
       "source_url": "https://store.bblcdn.com/s7/default/faec5027f67d49c7af3f271c478ef725/3D_Model_3ef90fcb-4113-439a-9dfb-e0d35631c03d.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Self-Locking Button Switch with SH1.0 Connector/Self-Locking Button Switch - IA006.stp",
       "blob_path": "data/blobs/sha256/15/1593ce0dc95f818be6d9484a04aaef1a52eb94cc51640de2157109a6fbd7a037.stp",
       "id": "model-e94eacdbf54c3e3930ff",
@@ -161,11 +192,13 @@
       "parent_asset_id": "archive-d5357269afc96423d898",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1593ce0dc95f818be6d9484a04aaef1a52eb94cc51640de2157109a6fbd7a037",
       "size": 1691512,
       "source_url": "https://store.bblcdn.com/s7/default/faec5027f67d49c7af3f271c478ef725/3D_Model_3ef90fcb-4113-439a-9dfb-e0d35631c03d.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "USB-A Power Cable with PH2.0 Connector/usb_power_cable_with_wire_ph2_0.stl",
       "blob_path": "data/blobs/sha256/55/55ba1076b9478e5221e65d6b8be5a7f6e2b84aa4326d8a63789eacdb43eca895.stl",
       "id": "model-7d551374e26e4daf26e5",
@@ -175,11 +208,13 @@
       "parent_asset_id": "archive-d5357269afc96423d898",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "55ba1076b9478e5221e65d6b8be5a7f6e2b84aa4326d8a63789eacdb43eca895",
       "size": 148584,
       "source_url": "https://store.bblcdn.com/s7/default/faec5027f67d49c7af3f271c478ef725/3D_Model_3ef90fcb-4113-439a-9dfb-e0d35631c03d.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "USB-A Power Cable with PH2.0 Connector/usb_power_cable_with_wire_ph2_0.stp",
       "blob_path": "data/blobs/sha256/77/77ec287240625473e5f3ed98191f0c4a44655c42935e9b0a721af608bf6cc68b.stp",
       "id": "model-c21698f791832e558f0b",
@@ -189,11 +224,13 @@
       "parent_asset_id": "archive-d5357269afc96423d898",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "77ec287240625473e5f3ed98191f0c4a44655c42935e9b0a721af608bf6cc68b",
       "size": 55302,
       "source_url": "https://store.bblcdn.com/s7/default/faec5027f67d49c7af3f271c478ef725/3D_Model_3ef90fcb-4113-439a-9dfb-e0d35631c03d.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Maker's Supply Electronic Kit - ZH038 Application Instruction/Adjustment Switch Knob Design Guide/Assembly of Adjustment Switch Knob.stl",
       "blob_path": "data/blobs/sha256/0b/0b810aca40ba35f5a45f10cebda46f3fbe551fe6646e7b9a51d68c7b186dfd1a.stl",
       "id": "model-bd80e1921f3ff2c4ace8",
@@ -203,11 +240,13 @@
       "parent_asset_id": "archive-ac174a06680274d5b33d",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0b810aca40ba35f5a45f10cebda46f3fbe551fe6646e7b9a51d68c7b186dfd1a",
       "size": 2133584,
       "source_url": "https://store.bblcdn.com/s7/default/debd6a6be9be4d068e4dd71169ef0730/Maker_s_Supply_Electronic_Kit_-_ZH038_Application_Instruction.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Maker's Supply Electronic Kit - ZH038 Application Instruction/Adjustment Switch Knob Design Guide/Assembly of Adjustment Switch Knob.stp",
       "blob_path": "data/blobs/sha256/90/90df55422bb6f4b9a88434008a7c187679518d4cae7a43f29488504d403ba101.stp",
       "id": "model-807aa8c35fa34ac82653",
@@ -217,11 +256,13 @@
       "parent_asset_id": "archive-ac174a06680274d5b33d",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "90df55422bb6f4b9a88434008a7c187679518d4cae7a43f29488504d403ba101",
       "size": 14772577,
       "source_url": "https://store.bblcdn.com/s7/default/debd6a6be9be4d068e4dd71169ef0730/Maker_s_Supply_Electronic_Kit_-_ZH038_Application_Instruction.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Maker's Supply Electronic Kit - ZH038 Application Instruction/Adjustment Switch Knob Design Guide/Printed Parts of Adjustment Switch Knob.3mf",
       "blob_path": "data/blobs/sha256/ef/ef25893b4b964e1f2de0e1351bc535aedf3cdd133245c5f9f6ac210a7243ab6c.3mf",
       "id": "model-aff8d965b39d54d6b9ff",
@@ -231,11 +272,13 @@
       "parent_asset_id": "archive-ac174a06680274d5b33d",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ef25893b4b964e1f2de0e1351bc535aedf3cdd133245c5f9f6ac210a7243ab6c",
       "size": 13298570,
       "source_url": "https://store.bblcdn.com/s7/default/debd6a6be9be4d068e4dd71169ef0730/Maker_s_Supply_Electronic_Kit_-_ZH038_Application_Instruction.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7b/7be4cd50d10ea3239e18f8157f123a0b6b2f5f593aa30a6c63648c1b4dd2d1e4.png",
       "id": "image-display-e13ff2009b9cfb10562e",
       "image_processing": {
@@ -253,11 +296,13 @@
       "parent_asset_id": "image-8612e9b860de53ca587c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7be4cd50d10ea3239e18f8157f123a0b6b2f5f593aa30a6c63648c1b4dd2d1e4",
       "size": 98334,
       "source_url": "https://store.bblcdn.com/s7/default/57921a91490845c5ae7af0a35cff1344/ELECTRONIC_BUNDLE.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/13/13642a9a8f464dfc04b18f4910736cdddf7c90be327ff6f23599e3a7e76c2d20.png",
       "id": "image-display-8b61b7e51296567e6462",
       "image_processing": {
@@ -275,6 +320,7 @@
       "parent_asset_id": "image-629c0325870de92b9701",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "13642a9a8f464dfc04b18f4910736cdddf7c90be327ff6f23599e3a7e76c2d20",
       "size": 1025657,
       "source_url": "https://store.bblcdn.com/s7/default/ca7731844b3e4686b684bd76a133b339/0106-1.png"
@@ -379,7 +425,8 @@
   "description_text": "LED Dimming Controller: A dual-channel LED strip control system with independent switching and brightness adjustment, suitable for various lighting scenarios\n\nDC Motor Speed Controller: Dual-channel stepless speed control system with precise start/stop and speed regulation for two motors, ideal for mechanical power applications\n\nAdjustable Power Supply: Protected dual-channel adjustable power solution with variable voltage output, perfect for electronic experiments and testing scenarios\n\nExample of a module using this kit (includes other Maker's Supply parts)\n\nExample of a model using this kit (includes other Maker's Supply parts)\n\n*Note: This model requires additional Maker's Supply parts for full assembly. Please check the model link for the complete BOM list.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh038-makers-supply-electronics-bundle",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Maker's Supply Electronics Bundle",
   "offers": [
@@ -391,6 +438,7 @@
       "price": "8.86",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/makers-supply-electronics-bundle?skr=yes"
     },
     {
@@ -401,6 +449,7 @@
       "price": "10.1",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/makers-supply-electronics-bundle?skr=yes"
     },
     {
@@ -411,6 +460,7 @@
       "price": "8.26",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/makers-supply-electronics-bundle?skr=yes"
     },
     {
@@ -421,6 +471,7 @@
       "price": "7.02",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/makers-supply-electronics-bundle?skr=yes"
     },
     {
@@ -431,6 +482,7 @@
       "price": "15.85",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/makers-supply-electronics-bundle?skr=yes"
     },
     {
@@ -441,6 +493,7 @@
       "price": "7.98",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/makers-supply-electronics-bundle?skr=yes"
     }
   ],
@@ -539,6 +592,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -551,6 +605,7 @@
       "price": "8.86",
       "region": "us",
       "sku": "43010848948360",
+      "store_id": "",
       "title": "Maker's Supply Electronics Bundle - Maker's Supply Electronics Bundle - ZH038",
       "url": "https://us.store.bambulab.com/products/makers-supply-electronics-bundle?id=43010848948360",
       "variant_id": "43010848948360"
@@ -563,6 +618,7 @@
       "price": "10.1",
       "region": "ca",
       "sku": "46692371300592",
+      "store_id": "",
       "title": "Maker's Supply Electronics Bundle - Maker's Supply Electronics Bundle - ZH038",
       "url": "https://ca.store.bambulab.com/products/makers-supply-electronics-bundle?id=46692371300592",
       "variant_id": "46692371300592"
@@ -575,6 +631,7 @@
       "price": "8.26",
       "region": "eu",
       "sku": "49556762067292",
+      "store_id": "",
       "title": "Maker's Supply Electronics Bundle - Maker's Supply Electronics Bundle - ZH038",
       "url": "https://eu.store.bambulab.com/products/makers-supply-electronics-bundle?id=49556762067292",
       "variant_id": "49556762067292"
@@ -587,6 +644,7 @@
       "price": "7.02",
       "region": "uk",
       "sku": "42271976095804",
+      "store_id": "",
       "title": "Maker's Supply Electronics Bundle - Maker's Supply Electronics Bundle - ZH038",
       "url": "https://uk.store.bambulab.com/products/makers-supply-electronics-bundle?id=42271976095804",
       "variant_id": "42271976095804"
@@ -599,6 +657,7 @@
       "price": "15.85",
       "region": "au",
       "sku": "523599256845537283",
+      "store_id": "",
       "title": "Maker's Supply Electronics Bundle - Maker's Supply Electronics Bundle - ZH038",
       "url": "https://au.store.bambulab.com/products/makers-supply-electronics-bundle?id=523599256845537283",
       "variant_id": "523599256845537283"
@@ -611,6 +670,7 @@
       "price": "7.98",
       "region": "asia",
       "sku": "523600512302260227",
+      "store_id": "",
       "title": "Maker's Supply Electronics Bundle - Maker's Supply Electronics Bundle - ZH038",
       "url": "https://asia.store.bambulab.com/products/makers-supply-electronics-bundle?id=523600512302260227",
       "variant_id": "523600512302260227"

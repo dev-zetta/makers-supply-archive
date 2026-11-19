@@ -4,36 +4,49 @@
     {
       "handle": "foldable-key-phone-stand",
       "product_id": "8478972543112",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "foldable-key-phone-stand",
       "product_id": "558863009594052608",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "foldable-key-phone-stand",
       "product_id": "14856304361820",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "foldable-key-phone-stand",
       "product_id": "558862651192918016",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "foldable-key-phone-stand",
       "product_id": "558861970143600640",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "foldable-key-phone-stand",
       "product_id": "558859039752085504",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b3/b37b3ec5a7a4ea7e607fda04b1553e3dda716e4905f907637124dce437b5750a.jpg",
       "declared_media_type": "image/webp",
       "id": "image-7a92a7be9c7d3d08c57e",
@@ -42,11 +55,13 @@
       "original_filename": "4444484_800x_01ae2c19-4ad2-408f-ad5a-492af50f039c.webp",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b37b3ec5a7a4ea7e607fda04b1553e3dda716e4905f907637124dce437b5750a",
       "size": 28717,
       "source_url": "https://store.bblcdn.com/s7/default/3f3334a9424e4d6296a4c4a30688257d/4444484_800x_01ae2c19-4ad2-408f-ad5a-492af50f039c.webp"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/22/22900e4a2f95858f5f18b316576d80ee6286e74f9a105311bdfe8a523a8c5624.png",
       "id": "image-064550fd0a018d55baae",
       "kind": "image",
@@ -54,11 +69,13 @@
       "original_filename": "ZH058_3c8f98e1-367f-4f33-8c4a-d4ca0aebdbc6.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "22900e4a2f95858f5f18b316576d80ee6286e74f9a105311bdfe8a523a8c5624",
       "size": 795064,
       "source_url": "https://store.bblcdn.com/s7/default/fdc451bfc05a44fb8eadd58d56de90a6/ZH058_3c8f98e1-367f-4f33-8c4a-d4ca0aebdbc6.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/76/76f9f111572750d31787c174d7774e86e8fb6a7b5f7f47d4f651cd4e56b4a90e.png",
       "id": "image-2e7abd34f9970254bb86",
       "kind": "image",
@@ -66,11 +83,13 @@
       "original_filename": "MA001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "76f9f111572750d31787c174d7774e86e8fb6a7b5f7f47d4f651cd4e56b4a90e",
       "size": 120368,
       "source_url": "https://store.bblcdn.com/s7/default/24bbf1cba55f4735b72b43849e51d71e/MA001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/99/99eadae3845ed8d42b0d228c32bb6e63b7edba2a09efffec7cd345e27d3e7798.png",
       "id": "image-display-da05a2d4e47ea2f3d902",
       "image_processing": {
@@ -88,11 +107,13 @@
       "parent_asset_id": "image-7a92a7be9c7d3d08c57e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "99eadae3845ed8d42b0d228c32bb6e63b7edba2a09efffec7cd345e27d3e7798",
       "size": 114698,
       "source_url": "https://store.bblcdn.com/s7/default/3f3334a9424e4d6296a4c4a30688257d/4444484_800x_01ae2c19-4ad2-408f-ad5a-492af50f039c.webp"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f1a90f13a2eaecab9c1193c938cbc3c53be210635828c9b5eacc109bc6b42503.png",
       "id": "image-display-270ff41498cb1cb60ae2",
       "image_processing": {
@@ -110,11 +131,13 @@
       "parent_asset_id": "image-064550fd0a018d55baae",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1a90f13a2eaecab9c1193c938cbc3c53be210635828c9b5eacc109bc6b42503",
       "size": 719896,
       "source_url": "https://store.bblcdn.com/s7/default/fdc451bfc05a44fb8eadd58d56de90a6/ZH058_3c8f98e1-367f-4f33-8c4a-d4ca0aebdbc6.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3b/3b0270e2cfb243638bf1789994a4690f07c791e67572fd80f737440c238e1dbf.png",
       "id": "image-display-56f05d4efa85c2405aac",
       "image_processing": {
@@ -132,6 +155,7 @@
       "parent_asset_id": "image-2e7abd34f9970254bb86",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3b0270e2cfb243638bf1789994a4690f07c791e67572fd80f737440c238e1dbf",
       "size": 33416,
       "source_url": "https://store.bblcdn.com/s7/default/24bbf1cba55f4735b72b43849e51d71e/MA001.png"
@@ -183,7 +207,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Foldable Key Phone Stand. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Foldable Key Phone Stand on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh058-foldable-key-phone-stand",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Foldable Key Phone Stand",
   "offers": [
@@ -195,6 +220,7 @@
       "price": "3.49",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/foldable-key-phone-stand?skr=yes"
     },
     {
@@ -205,6 +231,7 @@
       "price": "3.79",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/foldable-key-phone-stand?skr=yes"
     },
     {
@@ -215,6 +242,7 @@
       "price": "3.1",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/foldable-key-phone-stand?skr=yes"
     },
     {
@@ -225,6 +253,7 @@
       "price": "2.63",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/foldable-key-phone-stand?skr=yes"
     },
     {
@@ -235,6 +264,7 @@
       "price": "5.94",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/foldable-key-phone-stand?skr=yes"
     },
     {
@@ -245,6 +275,7 @@
       "price": "2.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/foldable-key-phone-stand?skr=yes"
     }
   ],
@@ -289,6 +320,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -301,6 +333,7 @@
       "price": "3.49",
       "region": "us",
       "sku": "43260394209416",
+      "store_id": "",
       "title": "Foldable Key Phone Stand - Foldable Key Phone Stand - ZH058",
       "url": "https://us.store.bambulab.com/products/foldable-key-phone-stand?id=43260394209416",
       "variant_id": "43260394209416"
@@ -313,6 +346,7 @@
       "price": "3.79",
       "region": "ca",
       "sku": "558863009606635522",
+      "store_id": "",
       "title": "Foldable Key Phone Stand - Foldable Key Phone Stand - ZH058",
       "url": "https://ca.store.bambulab.com/products/foldable-key-phone-stand?id=558863009606635522",
       "variant_id": "558863009606635522"
@@ -325,6 +359,7 @@
       "price": "3.1",
       "region": "eu",
       "sku": "53846704357724",
+      "store_id": "",
       "title": "Foldable Key Phone Stand - Foldable Key Phone Stand - ZH058",
       "url": "https://eu.store.bambulab.com/products/foldable-key-phone-stand?id=53846704357724",
       "variant_id": "53846704357724"
@@ -337,6 +372,7 @@
       "price": "2.63",
       "region": "uk",
       "sku": "558862651209695234",
+      "store_id": "",
       "title": "Foldable Key Phone Stand - Foldable Key Phone Stand - ZH058",
       "url": "https://uk.store.bambulab.com/products/foldable-key-phone-stand?id=558862651209695234",
       "variant_id": "558862651209695234"
@@ -349,6 +385,7 @@
       "price": "5.94",
       "region": "au",
       "sku": "558861970156183554",
+      "store_id": "",
       "title": "Foldable Key Phone Stand - Foldable Key Phone Stand - ZH058",
       "url": "https://au.store.bambulab.com/products/foldable-key-phone-stand?id=558861970156183554",
       "variant_id": "558861970156183554"
@@ -361,6 +398,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "558859039768862722",
+      "store_id": "",
       "title": "Foldable Key Phone Stand - Foldable Key Phone Stand - ZH058",
       "url": "https://asia.store.bambulab.com/products/foldable-key-phone-stand?id=558859039768862722",
       "variant_id": "558859039768862722"

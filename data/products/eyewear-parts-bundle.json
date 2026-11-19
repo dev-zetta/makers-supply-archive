@@ -4,11 +4,14 @@
     {
       "handle": "eyewear-parts-bundle",
       "product_id": "8255708725384",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f5/f5b0c734b46a03f3281d70294da47f35a8fbfa0e09bf33f29116f80aa1669f9c.png",
       "id": "image-296d4825f34b9f539b4b",
       "kind": "image",
@@ -16,11 +19,13 @@
       "original_filename": "A01.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f5b0c734b46a03f3281d70294da47f35a8fbfa0e09bf33f29116f80aa1669f9c",
       "size": 971440,
       "source_url": "https://store.bblcdn.com/s7/default/e55a43ae73d74977b9652c10f9da33f5/A01.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/82/8203f47354197707b5291e7ec56fd5fe829bd570c817e9793a24061b994ad52b.png",
       "id": "image-bec3b30968fc24414869",
       "kind": "image",
@@ -28,11 +33,13 @@
       "original_filename": "22_111dbfed-3d8d-4a83-a379-2e60e551c1f4.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8203f47354197707b5291e7ec56fd5fe829bd570c817e9793a24061b994ad52b",
       "size": 1183233,
       "source_url": "https://store.bblcdn.com/s7/default/cacea3dc4ce6479485b9c435fc93242e/22_111dbfed-3d8d-4a83-a379-2e60e551c1f4.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b2/b2f3a26a45c673de765fc41c0423d247e401ef23d6dc0e9bf90ec1e9b38aca73.jpg",
       "id": "image-0181d1c32f3f359e5d74",
       "kind": "image",
@@ -40,11 +47,13 @@
       "original_filename": "1a0131d637ff5b88f0146384e77220c1_c647fbc1-b6d2-428a-b5bc-a13ab03c9285.jpg",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b2f3a26a45c673de765fc41c0423d247e401ef23d6dc0e9bf90ec1e9b38aca73",
       "size": 240612,
       "source_url": "https://store.bblcdn.com/s7/default/c8e8a28f9aa6440a82ad46e680f1046e/1a0131d637ff5b88f0146384e77220c1_c647fbc1-b6d2-428a-b5bc-a13ab03c9285.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8f/8f377d83c32fd02fc5b0947329108f840a3a0e1880cccba99affb472dbbc33fc.png",
       "id": "image-f7980e75b2bf1b13052d",
       "kind": "image",
@@ -52,11 +61,13 @@
       "original_filename": "1_27b70942-5ecc-47a9-a495-efcf9642195f.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8f377d83c32fd02fc5b0947329108f840a3a0e1880cccba99affb472dbbc33fc",
       "size": 2780379,
       "source_url": "https://store.bblcdn.com/s7/default/303e98d4ebf34a5396203298fd8abf02/1_27b70942-5ecc-47a9-a495-efcf9642195f.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9b/9b58d83cbf0c62b287cc7d779ad358e6984aeee929345b0f3525268ca4894abb.png",
       "id": "image-display-8c01aefc0ea271c2b717",
       "image_processing": {
@@ -74,11 +85,13 @@
       "parent_asset_id": "image-296d4825f34b9f539b4b",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9b58d83cbf0c62b287cc7d779ad358e6984aeee929345b0f3525268ca4894abb",
       "size": 183773,
       "source_url": "https://store.bblcdn.com/s7/default/e55a43ae73d74977b9652c10f9da33f5/A01.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/08/08186ac4aaf511a07b3cf62521e717d2b3dd643d689ba978a7013534c912a95a.png",
       "id": "image-display-53d8921333b023cfe8c4",
       "image_processing": {
@@ -96,11 +109,13 @@
       "parent_asset_id": "image-bec3b30968fc24414869",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "08186ac4aaf511a07b3cf62521e717d2b3dd643d689ba978a7013534c912a95a",
       "size": 257939,
       "source_url": "https://store.bblcdn.com/s7/default/cacea3dc4ce6479485b9c435fc93242e/22_111dbfed-3d8d-4a83-a379-2e60e551c1f4.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/34/34dab7eaf0cc673a432133230b2414bbf954625cfc72d11287ed9aecba1004b1.png",
       "id": "image-display-156f8fc3bdf3d0028feb",
       "image_processing": {
@@ -118,11 +133,13 @@
       "parent_asset_id": "image-0181d1c32f3f359e5d74",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "34dab7eaf0cc673a432133230b2414bbf954625cfc72d11287ed9aecba1004b1",
       "size": 725979,
       "source_url": "https://store.bblcdn.com/s7/default/c8e8a28f9aa6440a82ad46e680f1046e/1a0131d637ff5b88f0146384e77220c1_c647fbc1-b6d2-428a-b5bc-a13ab03c9285.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4a/4adcc3238f9a90c35437684b8f1b7ccaa0ae07f45edf336cc758fb4147bea32b.png",
       "id": "image-display-1d79112173b46281b1e8",
       "image_processing": {
@@ -140,6 +157,7 @@
       "parent_asset_id": "image-f7980e75b2bf1b13052d",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4adcc3238f9a90c35437684b8f1b7ccaa0ae07f45edf336cc758fb4147bea32b",
       "size": 218197,
       "source_url": "https://store.bblcdn.com/s7/default/303e98d4ebf34a5396203298fd8abf02/1_27b70942-5ecc-47a9-a495-efcf9642195f.png"
@@ -228,6 +246,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "eyewear-parts-bundle",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Eyewear Parts Bundle",
   "offers": [
@@ -239,6 +258,7 @@
       "price": "23.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/eyewear-parts-bundle?skr=yes"
     }
   ],
@@ -351,6 +371,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -362,6 +383,7 @@
       "price": "23.99",
       "region": "us",
       "sku": "42723257155720",
+      "store_id": "",
       "title": "Eyewear Parts Bundle - Eyewear Parts Bundle A01",
       "url": "https://us.store.bambulab.com/products/eyewear-parts-bundle?id=42723257155720",
       "variant_id": "42723257155720"
@@ -373,6 +395,7 @@
       "price": "23.99",
       "region": "us",
       "sku": "42723257188488",
+      "store_id": "",
       "title": "Eyewear Parts Bundle - Eyewear Parts Bundle A02",
       "url": "https://us.store.bambulab.com/products/eyewear-parts-bundle?id=42723257188488",
       "variant_id": "42723257188488"

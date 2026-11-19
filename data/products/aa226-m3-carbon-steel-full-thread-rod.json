@@ -4,36 +4,49 @@
     {
       "handle": "m3-carbon-steel-full-thread-rod",
       "product_id": "8457994862728",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m3-carbon-steel-full-thread-rod",
       "product_id": "552653386492477440",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m3-carbon-steel-full-thread-rod",
       "product_id": "14832191308124",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m3-carbon-steel-full-thread-rod",
       "product_id": "552653322666909696",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m3-carbon-steel-full-thread-rod",
       "product_id": "552653256462966784",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m3-carbon-steel-full-thread-rod",
       "product_id": "552652806032244736",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6d/6da6ae27356359570867403775ef5351d464162eb9e2d1aa5d764e15e37bdaf9.png",
       "id": "image-1cb7816e20499f2dca53",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-AA226_bianti.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6da6ae27356359570867403775ef5351d464162eb9e2d1aa5d764e15e37bdaf9",
       "size": 252268,
       "source_url": "https://store.bblcdn.com/s7/default/868723b7cbc3408a9c3d7a57ae4ca36e/B-AA226_bianti.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f0/f0fe930f2f2f9c6c3924612e0973dd6e922492939dbd8793acec61b7cfcab168.png",
       "id": "image-3c79e7e08eb491b12487",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-AA227_bianti.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f0fe930f2f2f9c6c3924612e0973dd6e922492939dbd8793acec61b7cfcab168",
       "size": 252038,
       "source_url": "https://store.bblcdn.com/s7/default/859d523eedc244f299d645a957eb1cb6/B-AA227_bianti.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/69/69b340e5b5cb425c7d011db108e1403af10f39ab97ee494b6e18afcd7317dab0.png",
       "id": "image-a27a9355d95b3589795d",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-AA226_AA227.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "69b340e5b5cb425c7d011db108e1403af10f39ab97ee494b6e18afcd7317dab0",
       "size": 46717,
       "source_url": "https://store.bblcdn.com/s7/default/e68a2171ea9849d49e14ab221eb7623a/B-AA226_AA227.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dc/dcc40a72bb2292775165dd35490daafb3a3f067399596bce1d4f76d5b6e2ac66.pdf",
       "id": "document-7f3ef0327934f35cceff",
       "kind": "document",
@@ -77,11 +96,13 @@
       "original_filename": "M3_Carbon_Steel_Single_Start_Rod_PDF.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dcc40a72bb2292775165dd35490daafb3a3f067399596bce1d4f76d5b6e2ac66",
       "size": 330122,
       "source_url": "https://store.bblcdn.com/s7/default/29c7de725af647d696b40f2ee517a353/M3_Carbon_Steel_Single_Start_Rod_PDF.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/90/90d1921a5fa8229ae7892543d2117d7cc7d7e209a4d629f86839f0cf1fddb75a.zip",
       "id": "archive-9663228d9e9046f772c4",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "Carbon_Steel_full_threaded_rod-_AA226_-AA227_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "90d1921a5fa8229ae7892543d2117d7cc7d7e209a4d629f86839f0cf1fddb75a",
       "size": 1949044,
       "source_url": "https://store.bblcdn.com/s7/default/04cf970648554411a973ca80e8a38a27/Carbon_Steel_full_threaded_rod-_AA226_-AA227_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Carbon Steel full threaded rod- AA226 -AA227 Model/Carbon Steel full threaded rod M3x16 - AA226.stl",
       "blob_path": "data/blobs/sha256/6e/6ebaae2957a02e019aec521ddc60f6bf46be4dd608629baf010363b7376aaf97.stl",
       "id": "model-0df556ee24c7d373a898",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-9663228d9e9046f772c4",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6ebaae2957a02e019aec521ddc60f6bf46be4dd608629baf010363b7376aaf97",
       "size": 1136984,
       "source_url": "https://store.bblcdn.com/s7/default/04cf970648554411a973ca80e8a38a27/Carbon_Steel_full_threaded_rod-_AA226_-AA227_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Carbon Steel full threaded rod- AA226 -AA227 Model/Carbon Steel full threaded rod M3x16 - AA226.stp",
       "blob_path": "data/blobs/sha256/7c/7c6f22862641e8e2cd8ed645600bd29508ee061b60295bf13adaf5538378f3bd.stp",
       "id": "model-c682d0c12f8fe5eff56e",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-9663228d9e9046f772c4",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7c6f22862641e8e2cd8ed645600bd29508ee061b60295bf13adaf5538378f3bd",
       "size": 3017923,
       "source_url": "https://store.bblcdn.com/s7/default/04cf970648554411a973ca80e8a38a27/Carbon_Steel_full_threaded_rod-_AA226_-AA227_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Carbon Steel full threaded rod- AA226 -AA227 Model/Carbon Steel full threaded rod M3x30 -AA227.stl",
       "blob_path": "data/blobs/sha256/7f/7f35cb909a7b6cb4a24980196f6c43970784efb62d28996348298f1896843e76.stl",
       "id": "model-c247aa8efd3f48bb8f67",
@@ -131,11 +158,13 @@
       "parent_asset_id": "archive-9663228d9e9046f772c4",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7f35cb909a7b6cb4a24980196f6c43970784efb62d28996348298f1896843e76",
       "size": 748984,
       "source_url": "https://store.bblcdn.com/s7/default/04cf970648554411a973ca80e8a38a27/Carbon_Steel_full_threaded_rod-_AA226_-AA227_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Carbon Steel full threaded rod- AA226 -AA227 Model/Carbon Steel full threaded rod M3x30 -AA227.stp",
       "blob_path": "data/blobs/sha256/1d/1d294d5e82147ce6b998e701f58125e25a40f8ece17013a2398b51896ab616a3.stp",
       "id": "model-98fa6b0946880bb22cba",
@@ -145,11 +174,13 @@
       "parent_asset_id": "archive-9663228d9e9046f772c4",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1d294d5e82147ce6b998e701f58125e25a40f8ece17013a2398b51896ab616a3",
       "size": 3915952,
       "source_url": "https://store.bblcdn.com/s7/default/04cf970648554411a973ca80e8a38a27/Carbon_Steel_full_threaded_rod-_AA226_-AA227_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e6/e62c2c81ad84fdbc6edeb5fad9f007d26c25580474fd0bd6f9caa49b913e184e.png",
       "id": "image-display-db66ce9b5ee79e344973",
       "image_processing": {
@@ -167,11 +198,13 @@
       "parent_asset_id": "image-1cb7816e20499f2dca53",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e62c2c81ad84fdbc6edeb5fad9f007d26c25580474fd0bd6f9caa49b913e184e",
       "size": 82347,
       "source_url": "https://store.bblcdn.com/s7/default/868723b7cbc3408a9c3d7a57ae4ca36e/B-AA226_bianti.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/04/04fdb12159651b984f41606c9c46ad0ce743a27818aec6d44250fe69d2bd724b.png",
       "id": "image-display-93774b57115060ecf2b7",
       "image_processing": {
@@ -189,11 +222,13 @@
       "parent_asset_id": "image-3c79e7e08eb491b12487",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "04fdb12159651b984f41606c9c46ad0ce743a27818aec6d44250fe69d2bd724b",
       "size": 82147,
       "source_url": "https://store.bblcdn.com/s7/default/859d523eedc244f299d645a957eb1cb6/B-AA227_bianti.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f3/f3570f3d0c5fa41306cee1ad94c426d1f278ddd00f532ec98196bdf09ca8bd25.png",
       "id": "image-display-2065ad879a8737fb9d1b",
       "image_processing": {
@@ -211,6 +246,7 @@
       "parent_asset_id": "image-a27a9355d95b3589795d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f3570f3d0c5fa41306cee1ad94c426d1f278ddd00f532ec98196bdf09ca8bd25",
       "size": 39282,
       "source_url": "https://store.bblcdn.com/s7/default/e68a2171ea9849d49e14ab221eb7623a/B-AA226_AA227.png"
@@ -265,6 +301,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa226-m3-carbon-steel-full-thread-rod",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "M3 Carbon Steel Full-Thread Rod",
   "offers": [
@@ -276,6 +313,7 @@
       "price": "2.19",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/m3-carbon-steel-full-thread-rod?skr=yes"
     },
     {
@@ -286,6 +324,7 @@
       "price": "2.52",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/m3-carbon-steel-full-thread-rod?skr=yes"
     },
     {
@@ -296,6 +335,7 @@
       "price": "2.06",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/m3-carbon-steel-full-thread-rod?skr=yes"
     },
     {
@@ -306,6 +346,7 @@
       "price": "1.75",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/m3-carbon-steel-full-thread-rod?skr=yes"
     },
     {
@@ -316,6 +357,7 @@
       "price": "3.95",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/m3-carbon-steel-full-thread-rod?skr=yes"
     },
     {
@@ -326,6 +368,7 @@
       "price": "1.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/m3-carbon-steel-full-thread-rod?skr=yes"
     }
   ],
@@ -425,6 +468,7 @@
     "Surface Treatment": "Zinc-nickel Alloy Plating",
     "Type of Thread": "Complete thread"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -435,6 +479,7 @@
       "price": "2.19",
       "region": "us",
       "sku": "43205795250312",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x16mm Carbon Steel Full-Thread Rod (12PCS) - AA226",
       "url": "https://us.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=43205795250312",
       "variant_id": "43205795250312"
@@ -447,6 +492,7 @@
       "price": "2.19",
       "region": "us",
       "sku": "43205795283080",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x30mm Carbon Steel Full-Thread Rod (6PCS) - AA227",
       "url": "https://us.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=43205795283080",
       "variant_id": "43205795283080"
@@ -459,6 +505,7 @@
       "price": "2.52",
       "region": "ca",
       "sku": "552653386505060355",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x16mm Carbon Steel Full-Thread Rod (12PCS) - AA226",
       "url": "https://ca.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=552653386505060355",
       "variant_id": "552653386505060355"
@@ -471,6 +518,7 @@
       "price": "2.52",
       "region": "ca",
       "sku": "552653386505060359",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x30mm Carbon Steel Full-Thread Rod (6PCS) - AA227",
       "url": "https://ca.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=552653386505060359",
       "variant_id": "552653386505060359"
@@ -483,6 +531,7 @@
       "price": "2.06",
       "region": "eu",
       "sku": "53743572615516",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x16mm Carbon Steel Full-Thread Rod (12PCS) - AA226",
       "url": "https://eu.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=53743572615516",
       "variant_id": "53743572615516"
@@ -495,6 +544,7 @@
       "price": "2.06",
       "region": "eu",
       "sku": "53743572648284",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x30mm Carbon Steel Full-Thread Rod (6PCS) - AA227",
       "url": "https://eu.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=53743572648284",
       "variant_id": "53743572648284"
@@ -507,6 +557,7 @@
       "price": "1.75",
       "region": "uk",
       "sku": "552653322683686915",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x16mm Carbon Steel Full-Thread Rod (12PCS) - AA226",
       "url": "https://uk.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=552653322683686915",
       "variant_id": "552653322683686915"
@@ -519,6 +570,7 @@
       "price": "1.75",
       "region": "uk",
       "sku": "552653322683686919",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x30mm Carbon Steel Full-Thread Rod (6PCS) - AA227",
       "url": "https://uk.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=552653322683686919",
       "variant_id": "552653322683686919"
@@ -531,6 +583,7 @@
       "price": "3.95",
       "region": "au",
       "sku": "552653256479744003",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x16mm Carbon Steel Full-Thread Rod (12PCS) - AA226",
       "url": "https://au.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=552653256479744003",
       "variant_id": "552653256479744003"
@@ -543,6 +596,7 @@
       "price": "3.95",
       "region": "au",
       "sku": "552653256479744007",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x30mm Carbon Steel Full-Thread Rod (6PCS) - AA227",
       "url": "https://au.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=552653256479744007",
       "variant_id": "552653256479744007"
@@ -555,6 +609,7 @@
       "price": "1.99",
       "region": "asia",
       "sku": "552652806040633347",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x16mm Carbon Steel Full-Thread Rod (12PCS) - AA226",
       "url": "https://asia.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=552652806040633347",
       "variant_id": "552652806040633347"
@@ -567,6 +622,7 @@
       "price": "1.99",
       "region": "asia",
       "sku": "552652806044827650",
+      "store_id": "",
       "title": "M3 Carbon Steel Full-Thread Rod - M3x30mm Carbon Steel Full-Thread Rod (6PCS) - AA227",
       "url": "https://asia.store.bambulab.com/products/m3-carbon-steel-full-thread-rod?id=552652806044827650",
       "variant_id": "552652806044827650"

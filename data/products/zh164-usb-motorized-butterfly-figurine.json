@@ -4,36 +4,49 @@
     {
       "handle": "usb-motorized-butterfly-figurine",
       "product_id": "752052691584589824",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-motorized-butterfly-figurine",
       "product_id": "752051873037107200",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-motorized-butterfly-figurine",
       "product_id": "752053219205562368",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-motorized-butterfly-figurine",
       "product_id": "752052128231710720",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-motorized-butterfly-figurine",
       "product_id": "752051461128900608",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb-motorized-butterfly-figurine",
       "product_id": "752029056635523072",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9f/9f0da61a57b9569b5c9c1bbeb2b40a1f07291fea01702b9d443ecd3ff1ebe633.png",
       "id": "image-2da2fb6456eb9a68e53f",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH164.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9f0da61a57b9569b5c9c1bbeb2b40a1f07291fea01702b9d443ecd3ff1ebe633",
       "size": 1086243,
       "source_url": "https://store.bblcdn.com/s7/default/57dd7fc3fdc04022b2393e354582c068/B-ZH164.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/09/097556dce2c6143f5c57ab533b5ea7bcd7a273fc125f3be509da2eed45a7312a.png",
       "id": "image-5e582e908ece6c2952a8",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZC002.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "097556dce2c6143f5c57ab533b5ea7bcd7a273fc125f3be509da2eed45a7312a",
       "size": 461583,
       "source_url": "https://store.bblcdn.com/s7/default/8eff36e2c13241feaaf1e73c69c4b6a5/B-ZC002.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fa/fa20009a7eff71a23073c3c5f70eb2c094a22946ea6757955f8b5d1ca6fdaa20.png",
       "id": "image-display-a5ecd3c7e27b5902e3cb",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-2da2fb6456eb9a68e53f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fa20009a7eff71a23073c3c5f70eb2c094a22946ea6757955f8b5d1ca6fdaa20",
       "size": 516022,
       "source_url": "https://store.bblcdn.com/s7/default/57dd7fc3fdc04022b2393e354582c068/B-ZH164.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b1/b1da60f8ea5b108bb4446a0fdb34e9c5b867f6354b236ab2a1d6ca6b97c43d23.png",
       "id": "image-display-b1f3c9d789438ae48af1",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-5e582e908ece6c2952a8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b1da60f8ea5b108bb4446a0fdb34e9c5b867f6354b236ab2a1d6ca6b97c43d23",
       "size": 128127,
       "source_url": "https://store.bblcdn.com/s7/default/8eff36e2c13241feaaf1e73c69c4b6a5/B-ZC002.png"
@@ -198,7 +218,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional USB Motorized Butterfly Figurine. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the USB Motorized Butterfly Figurine on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh164-usb-motorized-butterfly-figurine",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "USB Motorized Butterfly Figurine",
   "offers": [
@@ -210,6 +231,7 @@
       "price": "28.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/usb-motorized-butterfly-figurine?skr=yes"
     },
     {
@@ -220,6 +242,7 @@
       "price": "36.99",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/usb-motorized-butterfly-figurine?skr=yes"
     },
     {
@@ -230,6 +253,7 @@
       "price": "32.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/usb-motorized-butterfly-figurine?skr=yes"
     },
     {
@@ -240,6 +264,7 @@
       "price": "27.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/usb-motorized-butterfly-figurine?skr=yes"
     },
     {
@@ -250,6 +275,7 @@
       "price": "61.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/usb-motorized-butterfly-figurine?skr=yes"
     },
     {
@@ -260,6 +286,7 @@
       "price": "26.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/usb-motorized-butterfly-figurine?skr=yes"
     }
   ],
@@ -340,6 +367,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -352,6 +380,7 @@
       "price": "28.99",
       "region": "us",
       "sku": "752052691609755650",
+      "store_id": "",
       "title": "USB Motorized Butterfly Figurine - USB Motorized Butterfly Figurine - ZH164",
       "url": "https://us.store.bambulab.com/products/usb-motorized-butterfly-figurine?id=752052691609755650",
       "variant_id": "752052691609755650"
@@ -364,6 +393,7 @@
       "price": "36.99",
       "region": "ca",
       "sku": "752051873079050242",
+      "store_id": "",
       "title": "USB Motorized Butterfly Figurine - USB Motorized Butterfly Figurine - ZH164",
       "url": "https://ca.store.bambulab.com/products/usb-motorized-butterfly-figurine?id=752051873079050242",
       "variant_id": "752051873079050242"
@@ -376,6 +406,7 @@
       "price": "32.99",
       "region": "eu",
       "sku": "752053219226533888",
+      "store_id": "",
       "title": "USB Motorized Butterfly Figurine - USB Motorized Butterfly Figurine - ZH164",
       "url": "https://eu.store.bambulab.com/products/usb-motorized-butterfly-figurine?id=752053219226533888",
       "variant_id": "752053219226533888"
@@ -388,6 +419,7 @@
       "price": "27.99",
       "region": "uk",
       "sku": "752052128256876546",
+      "store_id": "",
       "title": "USB Motorized Butterfly Figurine - USB Motorized Butterfly Figurine - ZH164",
       "url": "https://uk.store.bambulab.com/products/usb-motorized-butterfly-figurine?id=752052128256876546",
       "variant_id": "752052128256876546"
@@ -400,6 +432,7 @@
       "price": "61.99",
       "region": "au",
       "sku": "752051461179232258",
+      "store_id": "",
       "title": "USB Motorized Butterfly Figurine - USB Motorized Butterfly Figurine - ZH164",
       "url": "https://au.store.bambulab.com/products/usb-motorized-butterfly-figurine?id=752051461179232258",
       "variant_id": "752051461179232258"
@@ -412,6 +445,7 @@
       "price": "26.99",
       "region": "asia",
       "sku": "752029056660688898",
+      "store_id": "",
       "title": "USB Motorized Butterfly Figurine - USB Motorized Butterfly Figurine - ZH164",
       "url": "https://asia.store.bambulab.com/products/usb-motorized-butterfly-figurine?id=752029056660688898",
       "variant_id": "752029056660688898"

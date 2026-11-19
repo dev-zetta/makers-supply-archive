@@ -4,36 +4,49 @@
     {
       "handle": "poptop-pro",
       "product_id": "795126476189024256",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "poptop-pro",
       "product_id": "795131809737293824",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "poptop-pro",
       "product_id": "795126914430832640",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "poptop-pro",
       "product_id": "795130845508702208",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "poptop-pro",
       "product_id": "795132320439898112",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "poptop-pro",
       "product_id": "791803445052026880",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/47/473d65fc5eeff6ce3809c174a6172365346cf78286014b8340b1b93cff7037e1.png",
       "id": "image-50e256928b801be435fc",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH190_M.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "473d65fc5eeff6ce3809c174a6172365346cf78286014b8340b1b93cff7037e1",
       "size": 2822555,
       "source_url": "https://store.bblcdn.com/s7/default/11030ade1420446d94b288dfc470b086/B-ZH190_M.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5d/5de6dbc6f6468e43fefb3d40927bd9a76d47641ae943d4bb978bf5178f1303fb.png",
       "id": "image-f15eb037c7e8ef106060",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH190_V.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5de6dbc6f6468e43fefb3d40927bd9a76d47641ae943d4bb978bf5178f1303fb",
       "size": 176820,
       "source_url": "https://store.bblcdn.com/s7/default/d0a02cf61c3b4816b082d92d4953b15e/B-ZH190_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f110f0c30e3b11cfdea2de69439b069efe1dbab40a95ab82231bb0258b987df6.png",
       "id": "image-display-947d41ec68c13c4b31e4",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-50e256928b801be435fc",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f110f0c30e3b11cfdea2de69439b069efe1dbab40a95ab82231bb0258b987df6",
       "size": 804893,
       "source_url": "https://store.bblcdn.com/s7/default/11030ade1420446d94b288dfc470b086/B-ZH190_M.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/01/01bd9242aeaf9dcde2d76c3cd195f62459b585bf2330b644b75c469ac626a7aa.png",
       "id": "image-display-0e18c475a09848ca1933",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-f15eb037c7e8ef106060",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "01bd9242aeaf9dcde2d76c3cd195f62459b585bf2330b644b75c469ac626a7aa",
       "size": 60183,
       "source_url": "https://store.bblcdn.com/s7/default/d0a02cf61c3b4816b082d92d4953b15e/B-ZH190_V.png"
@@ -170,7 +190,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional PopTop Pro. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the PopTop Pro on MakerWorld.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zh190-poptop-pro",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "PopTop Pro",
   "offers": [
@@ -182,6 +203,7 @@
       "price": "6.69",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/poptop-pro?skr=yes"
     },
     {
@@ -192,6 +214,7 @@
       "price": "7.69",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/poptop-pro?skr=yes"
     },
     {
@@ -202,6 +225,7 @@
       "price": "6.64",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/poptop-pro?skr=yes"
     },
     {
@@ -212,6 +236,7 @@
       "price": "5.39",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/poptop-pro?skr=yes"
     },
     {
@@ -222,6 +247,7 @@
       "price": "11.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/poptop-pro?skr=yes"
     },
     {
@@ -232,6 +258,7 @@
       "price": "5.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/poptop-pro?skr=yes"
     }
   ],
@@ -292,6 +319,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -304,6 +332,7 @@
       "price": "6.69",
       "region": "us",
       "sku": "795126476201607170",
+      "store_id": "",
       "title": "PopTop Pro - PopTop Pro - ZH190",
       "url": "https://us.store.bambulab.com/products/poptop-pro?id=795126476201607170",
       "variant_id": "795126476201607170"
@@ -316,6 +345,7 @@
       "price": "7.69",
       "region": "ca",
       "sku": "795131809745682434",
+      "store_id": "",
       "title": "PopTop Pro - PopTop Pro - ZH190",
       "url": "https://ca.store.bambulab.com/products/poptop-pro?id=795131809745682434",
       "variant_id": "795131809745682434"
@@ -328,6 +358,7 @@
       "price": "6.64",
       "region": "eu",
       "sku": "795126914455998465",
+      "store_id": "",
       "title": "PopTop Pro - PopTop Pro - ZH190",
       "url": "https://eu.store.bambulab.com/products/poptop-pro?id=795126914455998465",
       "variant_id": "795126914455998465"
@@ -340,6 +371,7 @@
       "price": "5.39",
       "region": "uk",
       "sku": "795130845525479426",
+      "store_id": "",
       "title": "PopTop Pro - PopTop Pro - ZH190",
       "url": "https://uk.store.bambulab.com/products/poptop-pro?id=795130845525479426",
       "variant_id": "795130845525479426"
@@ -352,6 +384,7 @@
       "price": "11.99",
       "region": "au",
       "sku": "795132320452481026",
+      "store_id": "",
       "title": "PopTop Pro - PopTop Pro - ZH190",
       "url": "https://au.store.bambulab.com/products/poptop-pro?id=795132320452481026",
       "variant_id": "795132320452481026"
@@ -364,6 +397,7 @@
       "price": "5.99",
       "region": "asia",
       "sku": "791803445068804098",
+      "store_id": "",
       "title": "PopTop Pro - PopTop Pro - ZH190",
       "url": "https://asia.store.bambulab.com/products/poptop-pro?id=791803445068804098",
       "variant_id": "791803445068804098"

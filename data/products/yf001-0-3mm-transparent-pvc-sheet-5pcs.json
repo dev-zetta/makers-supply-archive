@@ -4,36 +4,49 @@
     {
       "handle": "0-3mm-transparent-pvc-sheet-5pcs",
       "product_id": "591866891609358336",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "0-3mm-transparent-pvc-sheet-5pcs",
       "product_id": "591866143772884992",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "0-3mm-transparent-pvc-sheet-5pcs",
       "product_id": "14974503944540",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "0-3mm-transparent-pvc-sheet-5pcs",
       "product_id": "591867126469095424",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "0-3mm-transparent-pvc-sheet-5pcs",
       "product_id": "591865846670090240",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "0-3mm-transparent-pvc-sheet-5pcs",
       "product_id": "590793992266002432",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/58/5810ebbb703652dfa90809c296b5bec17aca61738433e58f4d1e37421a6ff66e.png",
       "id": "image-5df7a7527c1ac0a845ae",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "zhutu.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5810ebbb703652dfa90809c296b5bec17aca61738433e58f4d1e37421a6ff66e",
       "size": 1505471,
       "source_url": "https://store.bblcdn.com/s7/default/2f2ea91aa11f4d89bfd7abaaef59cb8c/zhutu.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b9/b9210329df074ac86dea14b5e47f81c213bb72d951c9662d6746ec04478250b7.png",
       "id": "image-c0a1afdc1ea0c2e306d6",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "bianti.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b9210329df074ac86dea14b5e47f81c213bb72d951c9662d6746ec04478250b7",
       "size": 101827,
       "source_url": "https://store.bblcdn.com/s7/default/4ebed69c8dff4a45b2642610e9501d09/bianti.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/58/58b209f3339b5800aa785fb7bf3caf2df4b0ce6c6bf949ab5962f83d4d91e85f.png",
       "id": "image-display-a9022270c2f01d113621",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-5df7a7527c1ac0a845ae",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "58b209f3339b5800aa785fb7bf3caf2df4b0ce6c6bf949ab5962f83d4d91e85f",
       "size": 109475,
       "source_url": "https://store.bblcdn.com/s7/default/2f2ea91aa11f4d89bfd7abaaef59cb8c/zhutu.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3e/3e93302f1d8087f3d0b323b339c4ac73ff7735e202c2af1e8f6023ccdb27a0b3.png",
       "id": "image-display-7a328cf33ebef8162281",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-c0a1afdc1ea0c2e306d6",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3e93302f1d8087f3d0b323b339c4ac73ff7735e202c2af1e8f6023ccdb27a0b3",
       "size": 30949,
       "source_url": "https://store.bblcdn.com/s7/default/4ebed69c8dff4a45b2642610e9501d09/bianti.png"
@@ -155,6 +175,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "yf001-0-3mm-transparent-pvc-sheet-5pcs",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Product Dimension (mm)",
@@ -185,6 +206,7 @@
       "price": "9.89",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
     },
     {
@@ -195,6 +217,7 @@
       "price": "12.89",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
     },
     {
@@ -205,6 +228,7 @@
       "price": "11.89",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
     },
     {
@@ -215,6 +239,7 @@
       "price": "8.89",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
     },
     {
@@ -225,6 +250,7 @@
       "price": "19.89",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
     },
     {
@@ -235,6 +261,7 @@
       "price": "9.89",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/0-3mm-transparent-pvc-sheet-5pcs?skr=yes"
     }
   ],
@@ -287,6 +314,7 @@
     "Quantity (pcs)": "5",
     "Thickness (mm)": "0.3"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -297,6 +325,7 @@
       "price": "9.89",
       "region": "us",
       "sku": "591866891626135554",
+      "store_id": "",
       "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
       "url": "https://us.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591866891626135554",
       "variant_id": "591866891626135554"
@@ -309,6 +338,7 @@
       "price": "12.89",
       "region": "ca",
       "sku": "591866143785467906",
+      "store_id": "",
       "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
       "url": "https://ca.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591866143785467906",
       "variant_id": "591866143785467906"
@@ -321,6 +351,7 @@
       "price": "11.89",
       "region": "eu",
       "sku": "54382497759580",
+      "store_id": "",
       "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
       "url": "https://eu.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=54382497759580",
       "variant_id": "54382497759580"
@@ -333,6 +364,7 @@
       "price": "8.89",
       "region": "uk",
       "sku": "591867126485872642",
+      "store_id": "",
       "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
       "url": "https://uk.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591867126485872642",
       "variant_id": "591867126485872642"
@@ -345,6 +377,7 @@
       "price": "19.89",
       "region": "au",
       "sku": "591865846686867458",
+      "store_id": "",
       "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
       "url": "https://au.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=591865846686867458",
       "variant_id": "591865846686867458"
@@ -357,6 +390,7 @@
       "price": "9.89",
       "region": "asia",
       "sku": "590793992286973954",
+      "store_id": "",
       "title": "0.3mm Transparent PVC Sheet (5pcs) - 0.3mm Transparent PVC Sheet - YF001",
       "url": "https://asia.store.bambulab.com/products/0-3mm-transparent-pvc-sheet-5pcs?id=590793992286973954",
       "variant_id": "590793992286973954"

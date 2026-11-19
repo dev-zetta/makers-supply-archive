@@ -4,36 +4,49 @@
     {
       "handle": "turntable-kit",
       "product_id": "8438309519496",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "turntable-kit",
       "product_id": "544059333063065600",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "turntable-kit",
       "product_id": "14809001394524",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "turntable-kit",
       "product_id": "544059138080563200",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "turntable-kit",
       "product_id": "544058789025009664",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "turntable-kit",
       "product_id": "544056418540208128",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bc82aa17d5b759564acd68d8e4d27fbcb60f46d308e6fa0c526daf163e4caa6c.png",
       "id": "image-abec3af4672e47f5415f",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZH043_1ddd2fbf-8022-44ed-8bfe-08529c3c9eef.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bc82aa17d5b759564acd68d8e4d27fbcb60f46d308e6fa0c526daf163e4caa6c",
       "size": 269272,
       "source_url": "https://store.bblcdn.com/s7/default/2207e5ae61f94e999dc0a2f418f86983/ZH043_1ddd2fbf-8022-44ed-8bfe-08529c3c9eef.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bc82aa17d5b759564acd68d8e4d27fbcb60f46d308e6fa0c526daf163e4caa6c.png",
       "id": "image-dc4b5bf66c6d21eacb14",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH043.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bc82aa17d5b759564acd68d8e4d27fbcb60f46d308e6fa0c526daf163e4caa6c",
       "size": 269272,
       "source_url": "https://store.bblcdn.com/s7/default/5b289adfc7734a0c9ed25d7870592900/ZH043.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9b/9b63a4b692f9b4245f908558ba15aade858f5619a9ff08a21a5269fdbb8f9b48.jpg",
       "id": "image-501241c87d452b9ee030",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-ZH043_e73e04c5-1ca0-4e28-b2ed-06271332ea82.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9b63a4b692f9b4245f908558ba15aade858f5619a9ff08a21a5269fdbb8f9b48",
       "size": 87935,
       "source_url": "https://store.bblcdn.com/s7/default/f22c1d5dd08a4d1b9eeaf2678ecc1a1b/B-ZH043_e73e04c5-1ca0-4e28-b2ed-06271332ea82.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ce/ce39e91a4b11f49fb243816ac23379cce291119c635e36ab4a5832e7a7d3f34e.png",
       "id": "image-display-af679835e197f879964b",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-abec3af4672e47f5415f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ce39e91a4b11f49fb243816ac23379cce291119c635e36ab4a5832e7a7d3f34e",
       "size": 228071,
       "source_url": "https://store.bblcdn.com/s7/default/2207e5ae61f94e999dc0a2f418f86983/ZH043_1ddd2fbf-8022-44ed-8bfe-08529c3c9eef.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ce/ce39e91a4b11f49fb243816ac23379cce291119c635e36ab4a5832e7a7d3f34e.png",
       "id": "image-display-5f91becf85db4317a784",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-dc4b5bf66c6d21eacb14",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ce39e91a4b11f49fb243816ac23379cce291119c635e36ab4a5832e7a7d3f34e",
       "size": 228071,
       "source_url": "https://store.bblcdn.com/s7/default/5b289adfc7734a0c9ed25d7870592900/ZH043.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/22/22269483bffa47079892a8eb256fcda37fa7f09018d4068988ebee8597e71694.png",
       "id": "image-display-a381ad1adde1edf01cc8",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-501241c87d452b9ee030",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "22269483bffa47079892a8eb256fcda37fa7f09018d4068988ebee8597e71694",
       "size": 161570,
       "source_url": "https://store.bblcdn.com/s7/default/f22c1d5dd08a4d1b9eeaf2678ecc1a1b/B-ZH043_e73e04c5-1ca0-4e28-b2ed-06271332ea82.jpg"
@@ -219,7 +243,8 @@
   "description_text": "Your PrintMon, Your Stage! Ever dreamed of adding your own twist to a popular animation? With PrintMon Maker, you can turn those ideas into reality and transform them into real, tangible creations! No 3D modeling skills are required—this AI-powered generator helps you hatch your one-of-a-kind PrintMon effortlessly.\n\nTo showcase your unique creation, pair it with our Turntable Kit—the perfect stage for your PrintMon. Designed with rechargeable components and 608ZZ bearings, this kit ensures smooth, quiet rotations while enhancing load-bearing capacity. The turntable supports 360-degree rotation, bringing your design to life and making every angle shine.\n\nStart creating your own PrintMon today with PrintMon Maker, and let the Turntable Kit elevate your creations to the next level!\n\nPlease ensure that the motherboard battery and output interface are connected correctly according to the markings. Incorrect connections may affect device usage and charging.\n\nPlease use within the rated power.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh043-turntable-kit",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Turntable Kit",
   "offers": [
@@ -231,6 +256,7 @@
       "price": "21.74",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/turntable-kit?skr=yes"
     },
     {
@@ -241,6 +267,7 @@
       "price": "24.8",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/turntable-kit?skr=yes"
     },
     {
@@ -251,6 +278,7 @@
       "price": "20.3",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/turntable-kit?skr=yes"
     },
     {
@@ -261,6 +289,7 @@
       "price": "17.24",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/turntable-kit?skr=yes"
     },
     {
@@ -271,6 +300,7 @@
       "price": "38.93",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/turntable-kit?skr=yes"
     },
     {
@@ -281,6 +311,7 @@
       "price": "19.59",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/turntable-kit?skr=yes"
     }
   ],
@@ -401,6 +432,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -413,6 +445,7 @@
       "price": "21.74",
       "region": "us",
       "sku": "43148404916360",
+      "store_id": "",
       "title": "Turntable Kit - Turntable Kits - ZH043",
       "url": "https://us.store.bambulab.com/products/turntable-kit?id=43148404916360",
       "variant_id": "43148404916360"
@@ -425,6 +458,7 @@
       "price": "24.8",
       "region": "ca",
       "sku": "544059333075648514",
+      "store_id": "",
       "title": "Turntable Kit - Turntable Kits - ZH043",
       "url": "https://ca.store.bambulab.com/products/turntable-kit?id=544059333075648514",
       "variant_id": "544059333075648514"
@@ -437,6 +471,7 @@
       "price": "20.3",
       "region": "eu",
       "sku": "53620515930460",
+      "store_id": "",
       "title": "Turntable Kit - Turntable Kits - ZH043",
       "url": "https://eu.store.bambulab.com/products/turntable-kit?id=53620515930460",
       "variant_id": "53620515930460"
@@ -449,6 +484,7 @@
       "price": "17.24",
       "region": "uk",
       "sku": "544059138093146114",
+      "store_id": "",
       "title": "Turntable Kit - Turntable Kits - ZH043",
       "url": "https://uk.store.bambulab.com/products/turntable-kit?id=544059138093146114",
       "variant_id": "544059138093146114"
@@ -461,6 +497,7 @@
       "price": "38.93",
       "region": "au",
       "sku": "544058789033398274",
+      "store_id": "",
       "title": "Turntable Kit - Turntable Kits - ZH043",
       "url": "https://au.store.bambulab.com/products/turntable-kit?id=544058789033398274",
       "variant_id": "544058789033398274"
@@ -473,6 +510,7 @@
       "price": "19.59",
       "region": "asia",
       "sku": "544056418552791042",
+      "store_id": "",
       "title": "Turntable Kit - Turntable Kits - ZH043",
       "url": "https://asia.store.bambulab.com/products/turntable-kit?id=544056418552791042",
       "variant_id": "544056418552791042"

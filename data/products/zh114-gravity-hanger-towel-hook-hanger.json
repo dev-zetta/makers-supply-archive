@@ -4,36 +4,49 @@
     {
       "handle": "gravity-hanger-towel-hook-hanger",
       "product_id": "655300557653512192",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gravity-hanger-towel-hook-hanger",
       "product_id": "655299120111456256",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gravity-hanger-towel-hook-hanger",
       "product_id": "655301258496294912",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gravity-hanger-towel-hook-hanger",
       "product_id": "655299865111875584",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gravity-hanger-towel-hook-hanger",
       "product_id": "655298303756275712",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gravity-hanger-towel-hook-hanger",
       "product_id": "655294231575126016",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/86/8681ef05fac9e4f8430ade1183c7c5132aace9ce4ffd4f3d29996f6fc299002e.png",
       "id": "image-ea2d53605ba4d64c9e79",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH114-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8681ef05fac9e4f8430ade1183c7c5132aace9ce4ffd4f3d29996f6fc299002e",
       "size": 3286766,
       "source_url": "https://store.bblcdn.com/s7/default/0bebe69cbadc4850a75ed31424ad322c/B-ZH114-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e7/e702a7e9021098185b7fb5ba4676244628f1302f4f9ccb279ae9717d1ff47920.png",
       "id": "image-3d89f05c561b3d52b1b6",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH114.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e702a7e9021098185b7fb5ba4676244628f1302f4f9ccb279ae9717d1ff47920",
       "size": 576610,
       "source_url": "https://store.bblcdn.com/s7/default/8b505ec644d2404a8ab77914339ee307/ZH114.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d3/d3b6cf11651b42d62adc99f89a824bfe55d86a34b5431282acadde54229c5531.png",
       "id": "image-display-37baaac9bdb7c0221a6f",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-ea2d53605ba4d64c9e79",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d3b6cf11651b42d62adc99f89a824bfe55d86a34b5431282acadde54229c5531",
       "size": 922830,
       "source_url": "https://store.bblcdn.com/s7/default/0bebe69cbadc4850a75ed31424ad322c/B-ZH114-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0e/0e846392bd9366bc11747a876bbcdcb281b59b3d89e2b207a9733c9e1d3d7b38.png",
       "id": "image-display-67c9e21d77b96a66e715",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-3d89f05c561b3d52b1b6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0e846392bd9366bc11747a876bbcdcb281b59b3d89e2b207a9733c9e1d3d7b38",
       "size": 128130,
       "source_url": "https://store.bblcdn.com/s7/default/8b505ec644d2404a8ab77914339ee307/ZH114.png"
@@ -154,7 +174,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Gravity Hanger - Towel Hook/Hanger. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Gravity Hanger - Towel Hook/Hanger on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh114-gravity-hanger-towel-hook-hanger",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Gravity Hanger - Towel Hook/Hanger",
   "offers": [
@@ -166,6 +187,7 @@
       "price": "8.78",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
     },
     {
@@ -176,6 +198,7 @@
       "price": "11.04",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
     },
     {
@@ -186,6 +209,7 @@
       "price": "9.12",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
     },
     {
@@ -196,6 +220,7 @@
       "price": "8.5",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
     },
     {
@@ -206,6 +231,7 @@
       "price": "17.92",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
     },
     {
@@ -216,6 +242,7 @@
       "price": "7.98",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/gravity-hanger-towel-hook-hanger?skr=yes"
     }
   ],
@@ -266,6 +293,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -278,6 +306,7 @@
       "price": "8.78",
       "region": "us",
       "sku": "655300557712232449",
+      "store_id": "",
       "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
       "url": "https://us.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655300557712232449",
       "variant_id": "655300557712232449"
@@ -290,6 +319,7 @@
       "price": "11.04",
       "region": "ca",
       "sku": "655299120153399298",
+      "store_id": "",
       "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
       "url": "https://ca.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655299120153399298",
       "variant_id": "655299120153399298"
@@ -302,6 +332,7 @@
       "price": "9.12",
       "region": "eu",
       "sku": "655301258508877826",
+      "store_id": "",
       "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
       "url": "https://eu.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655301258508877826",
       "variant_id": "655301258508877826"
@@ -314,6 +345,7 @@
       "price": "8.5",
       "region": "uk",
       "sku": "655299865262870530",
+      "store_id": "",
       "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
       "url": "https://uk.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655299865262870530",
       "variant_id": "655299865262870530"
@@ -326,6 +358,7 @@
       "price": "17.92",
       "region": "au",
       "sku": "655298303806607362",
+      "store_id": "",
       "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
       "url": "https://au.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655298303806607362",
       "variant_id": "655298303806607362"
@@ -338,6 +371,7 @@
       "price": "7.98",
       "region": "asia",
       "sku": "655294231633846273",
+      "store_id": "",
       "title": "Gravity Hanger - Towel Hook/Hanger - Gravity Hanger - Towel Hook/Hanger - ZH114",
       "url": "https://asia.store.bambulab.com/products/gravity-hanger-towel-hook-hanger?id=655294231633846273",
       "variant_id": "655294231633846273"

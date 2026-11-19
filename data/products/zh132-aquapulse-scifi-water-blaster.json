@@ -4,36 +4,49 @@
     {
       "handle": "aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster",
       "product_id": "721230966917406720",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster",
       "product_id": "721230528710234112",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster",
       "product_id": "721231142514671616",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster",
       "product_id": "721230802032369664",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster",
       "product_id": "721230430628319232",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster",
       "product_id": "721220110355046400",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/55/55011016c00f132156be763c8d059e861a0cb8d34ec2d2c350a9a4cc21c775e8.png",
       "id": "image-6ef6a08584b640eedb7f",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZH132-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "55011016c00f132156be763c8d059e861a0cb8d34ec2d2c350a9a4cc21c775e8",
       "size": 765564,
       "source_url": "https://store.bblcdn.com/s7/default/1adf63487baa4f5093fc7159c37cc48f/ZH132-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f1d404c370a0a052bbf916a367233e8141ae4ec8f9e038a97c7ce2f84f0d343c.png",
       "id": "image-ccac174c740635799e15",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH132.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1d404c370a0a052bbf916a367233e8141ae4ec8f9e038a97c7ce2f84f0d343c",
       "size": 395991,
       "source_url": "https://store.bblcdn.com/s7/default/69607579dbf74317b906d4cf06328f73/ZH132.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/98/985ea80814103f9b499ef0177f6fd5223e05f61fc7bee382034e5732e91fd019.png",
       "id": "image-display-3c2d5ae575fa85dd7b75",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-6ef6a08584b640eedb7f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "985ea80814103f9b499ef0177f6fd5223e05f61fc7bee382034e5732e91fd019",
       "size": 642201,
       "source_url": "https://store.bblcdn.com/s7/default/1adf63487baa4f5093fc7159c37cc48f/ZH132-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/22/226ef000d413b5beb647a8c27eb3adbc002faa4d81c8307af608dc07f88f6b5f.png",
       "id": "image-display-f4814d1b91cf1013d596",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-ccac174c740635799e15",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "226ef000d413b5beb647a8c27eb3adbc002faa4d81c8307af608dc07f88f6b5f",
       "size": 108588,
       "source_url": "https://store.bblcdn.com/s7/default/69607579dbf74317b906d4cf06328f73/ZH132.png"
@@ -190,7 +210,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional AquaPulse – Sci‑Fi Water Blaster. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the AquaPulse – Sci‑Fi Water Blaster on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh132-aquapulse-scifi-water-blaster",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "AquaPulse – Sci‑Fi Water Blaster",
   "offers": [
@@ -202,6 +223,7 @@
       "price": "23.34",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?skr=yes"
     },
     {
@@ -212,6 +234,7 @@
       "price": "27.06",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?skr=yes"
     },
     {
@@ -222,6 +245,7 @@
       "price": "22.81",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?skr=yes"
     },
     {
@@ -232,6 +256,7 @@
       "price": "18.57",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?skr=yes"
     },
     {
@@ -242,6 +267,7 @@
       "price": "42.03",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?skr=yes"
     },
     {
@@ -252,6 +278,7 @@
       "price": "21.06",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?skr=yes"
     }
   ],
@@ -331,6 +358,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -343,6 +371,7 @@
       "price": "23.34",
       "region": "us",
       "sku": "721230966959349760",
+      "store_id": "",
       "title": "AquaPulse – Sci‑Fi Water Blaster - AquaPulse – Sci‑Fi Water Blaster - ZH132",
       "url": "https://us.store.bambulab.com/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?id=721230966959349760",
       "variant_id": "721230966959349760"
@@ -355,6 +384,7 @@
       "price": "27.06",
       "region": "ca",
       "sku": "721230528760565762",
+      "store_id": "",
       "title": "AquaPulse – Sci‑Fi Water Blaster - AquaPulse – Sci‑Fi Water Blaster - ZH132",
       "url": "https://ca.store.bambulab.com/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?id=721230528760565762",
       "variant_id": "721230528760565762"
@@ -367,6 +397,7 @@
       "price": "22.81",
       "region": "eu",
       "sku": "721231142535643138",
+      "store_id": "",
       "title": "AquaPulse – Sci‑Fi Water Blaster - AquaPulse – Sci‑Fi Water Blaster - ZH132",
       "url": "https://eu.store.bambulab.com/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?id=721231142535643138",
       "variant_id": "721231142535643138"
@@ -379,6 +410,7 @@
       "price": "18.57",
       "region": "uk",
       "sku": "721230802057535488",
+      "store_id": "",
       "title": "AquaPulse – Sci‑Fi Water Blaster - AquaPulse – Sci‑Fi Water Blaster - ZH132",
       "url": "https://uk.store.bambulab.com/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?id=721230802057535488",
       "variant_id": "721230802057535488"
@@ -391,6 +423,7 @@
       "price": "42.03",
       "region": "au",
       "sku": "721230430678650882",
+      "store_id": "",
       "title": "AquaPulse – Sci‑Fi Water Blaster - AquaPulse – Sci‑Fi Water Blaster - ZH132",
       "url": "https://au.store.bambulab.com/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?id=721230430678650882",
       "variant_id": "721230430678650882"
@@ -403,6 +436,7 @@
       "price": "21.06",
       "region": "asia",
       "sku": "721220110371823618",
+      "store_id": "",
       "title": "AquaPulse – Sci‑Fi Water Blaster - AquaPulse – Sci‑Fi Water Blaster - ZH132",
       "url": "https://asia.store.bambulab.com/products/aquapulse-%E2%80%93-sci%E2%80%91fi-water-blaster?id=721220110371823618",
       "variant_id": "721220110371823618"

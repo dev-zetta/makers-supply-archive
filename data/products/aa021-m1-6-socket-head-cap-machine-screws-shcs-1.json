@@ -4,36 +4,49 @@
     {
       "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
       "product_id": "8098742993032",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
       "product_id": "8781675692272",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
       "product_id": "9344620822876",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
       "product_id": "7543901159484",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
       "product_id": "8416650461347",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m1-6-socket-head-cap-machine-screws-shcs-1",
       "product_id": "7580742746227",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/10/103effa0bbfe1966404e48b7131b0d72f13c31989af78ea2d18bb6c31f6b9999.png",
       "id": "image-6b7b94c8ef9e4c7abb51",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "AA005_563e1859-1d1b-4cba-b730-5ead5a6ae7f7.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "103effa0bbfe1966404e48b7131b0d72f13c31989af78ea2d18bb6c31f6b9999",
       "size": 331836,
       "source_url": "https://store.bblcdn.com/s7/default/c390e61b0d8d40e4928d110a6e1a3729/AA005_563e1859-1d1b-4cba-b730-5ead5a6ae7f7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/65/65860080ac346eb6568f3c89d927af6a6a6083c3319683fe090aad9297a12097.png",
       "id": "image-bd3d70c3d2b9cee0704e",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "M2x6_20PCS_30d74bef-a746-4190-9ecb-1100ddc39788.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "65860080ac346eb6568f3c89d927af6a6a6083c3319683fe090aad9297a12097",
       "size": 492016,
       "source_url": "https://store.bblcdn.com/s7/default/75d4a36438d942ffa4e525c081cbbb80/M2x6_20PCS_30d74bef-a746-4190-9ecb-1100ddc39788.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/72/72bf08d1a98dcf5872b449eec2dab0cd265862cb6f4175939c27df56b432551c.pdf",
       "id": "document-8e24ab889a95486eaaaa",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "M1.6_Socket_Head_Cap_Machine_Screws_SHCS.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "72bf08d1a98dcf5872b449eec2dab0cd265862cb6f4175939c27df56b432551c",
       "size": 569453,
       "source_url": "https://store.bblcdn.com/s7/default/43333ae5d9934ef3a206d54bd0877528/M1.6_Socket_Head_Cap_Machine_Screws_SHCS.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/69/691bc707a12256339467e78adbcd13f6529c84ecb1165d88fc9a529f203c3b21.zip",
       "id": "archive-accefc2a7d83bc6348f7",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "M1.6_SHCS_Machine_Screw.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "691bc707a12256339467e78adbcd13f6529c84ecb1165d88fc9a529f203c3b21",
       "size": 25444,
       "source_url": "https://store.bblcdn.com/s7/default/1daa7240921b45c488d3a8d5dd29ed9b/M1.6_SHCS_Machine_Screw.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M1.6 SHCS Machine Screw/M1.6x4 - AA021.stl",
       "blob_path": "data/blobs/sha256/87/87a73ed9bc04961178bdb18faf7a05d6a228ee9987ba702ac0c97b6d4e9c2a2a.stl",
       "id": "model-410881668ac859f9639a",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-accefc2a7d83bc6348f7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "87a73ed9bc04961178bdb18faf7a05d6a228ee9987ba702ac0c97b6d4e9c2a2a",
       "size": 23484,
       "source_url": "https://store.bblcdn.com/s7/default/1daa7240921b45c488d3a8d5dd29ed9b/M1.6_SHCS_Machine_Screw.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M1.6 SHCS Machine Screw/M1.6x4 - AA021.stp",
       "blob_path": "data/blobs/sha256/fd/fdf5547deb62b64b1cd73db9e2a1ea471ab8f01727e4dd570202464596f9da5e.stp",
       "id": "model-352f8636d04edf900f5e",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-accefc2a7d83bc6348f7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fdf5547deb62b64b1cd73db9e2a1ea471ab8f01727e4dd570202464596f9da5e",
       "size": 86710,
       "source_url": "https://store.bblcdn.com/s7/default/1daa7240921b45c488d3a8d5dd29ed9b/M1.6_SHCS_Machine_Screw.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/39/390586ea615ff9272103d21dc6e52f77981e1c17153ddf608309b648bddc1444.png",
       "id": "image-display-88fb5a19701795f0e344",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-6b7b94c8ef9e4c7abb51",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "390586ea615ff9272103d21dc6e52f77981e1c17153ddf608309b648bddc1444",
       "size": 111170,
       "source_url": "https://store.bblcdn.com/s7/default/c390e61b0d8d40e4928d110a6e1a3729/AA005_563e1859-1d1b-4cba-b730-5ead5a6ae7f7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/eb/eb312af133f9900371d058e95b552d77d895c0e97f19cf693d9414af28d9f31b.png",
       "id": "image-display-92ee21337641d2305c3f",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-bd3d70c3d2b9cee0704e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "eb312af133f9900371d058e95b552d77d895c0e97f19cf693d9414af28d9f31b",
       "size": 127464,
       "source_url": "https://store.bblcdn.com/s7/default/75d4a36438d942ffa4e525c081cbbb80/M2x6_20PCS_30d74bef-a746-4190-9ecb-1100ddc39788.png"
@@ -203,6 +231,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa021-m1-6-socket-head-cap-machine-screws-shcs-1",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",
@@ -251,6 +280,7 @@
       "price": "1.24",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
     },
     {
@@ -261,6 +291,7 @@
       "price": "1.43",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
     },
     {
@@ -271,6 +302,7 @@
       "price": "1.17",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
     },
     {
@@ -281,6 +313,7 @@
       "price": "0.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
     },
     {
@@ -291,6 +324,7 @@
       "price": "2.25",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
     },
     {
@@ -301,6 +335,7 @@
       "price": "1.13",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/m1-6-socket-head-cap-machine-screws-shcs-1?skr=yes"
     }
   ],
@@ -415,6 +450,7 @@
     "k (mm) Hexagon Across Flats": "1.5",
     "t (mm) Groove Depth": "0.8"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -425,6 +461,7 @@
       "price": "1.24",
       "region": "us",
       "sku": "42356928282760",
+      "store_id": "",
       "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
       "url": "https://us.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=42356928282760",
       "variant_id": "42356928282760"
@@ -437,6 +474,7 @@
       "price": "1.43",
       "region": "ca",
       "sku": "45958756761840",
+      "store_id": "",
       "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
       "url": "https://ca.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=45958756761840",
       "variant_id": "45958756761840"
@@ -449,6 +487,7 @@
       "price": "1.17",
       "region": "eu",
       "sku": "48684538560860",
+      "store_id": "",
       "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
       "url": "https://eu.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=48684538560860",
       "variant_id": "48684538560860"
@@ -461,6 +500,7 @@
       "price": "0.99",
       "region": "uk",
       "sku": "41640879095868",
+      "store_id": "",
       "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
       "url": "https://uk.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=41640879095868",
       "variant_id": "41640879095868"
@@ -473,6 +513,7 @@
       "price": "2.25",
       "region": "au",
       "sku": "44547111157923",
+      "store_id": "",
       "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
       "url": "https://au.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=44547111157923",
       "variant_id": "44547111157923"
@@ -485,6 +526,7 @@
       "price": "1.13",
       "region": "asia",
       "sku": "41783286988915",
+      "store_id": "",
       "title": "M1.6 Socket Head Cap Machine Screws (SHCS) - M1.6x4 SHCS Machine Screw (20PCS) - AA021",
       "url": "https://asia.store.bambulab.com/products/m1-6-socket-head-cap-machine-screws-shcs-1?id=41783286988915",
       "variant_id": "41783286988915"

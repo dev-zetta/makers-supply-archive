@@ -4,36 +4,49 @@
     {
       "handle": "1-4-8x8-brass-knurled-heat-insert-nut-10pcs",
       "product_id": "606367578397736960",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-8x8-brass-knurled-heat-insert-nut-10pcs",
       "product_id": "606372921640747008",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-8x8-brass-knurled-heat-insert-nut-10pcs",
       "product_id": "606371775697174528",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-8x8-brass-knurled-heat-insert-nut-10pcs",
       "product_id": "606372786809589760",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-8x8-brass-knurled-heat-insert-nut-10pcs",
       "product_id": "606373035064307712",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-8x8-brass-knurled-heat-insert-nut-10pcs",
       "product_id": "606373163084288000",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/72/72f4d7096fb3d17312511c6f3aa68231ae8a9ac1ffa0151591391d40b44e7e25.png",
       "id": "image-667d855bc8d0e1f7f1b5",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZHUTU.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "72f4d7096fb3d17312511c6f3aa68231ae8a9ac1ffa0151591391d40b44e7e25",
       "size": 164392,
       "source_url": "https://store.bblcdn.com/s7/default/9733e5b4dcc747bd8404de3f0f3e1404/ZHUTU.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b9/b99a48ee9a72e533e8852a442b7493a7a4e5d80af5e39f0dd0240984896102f4.png",
       "id": "image-a9d224ada945e661317a",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "bianti.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b99a48ee9a72e533e8852a442b7493a7a4e5d80af5e39f0dd0240984896102f4",
       "size": 581523,
       "source_url": "https://store.bblcdn.com/s7/default/e272388b11354c69ae7db306893c9574/bianti.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a3/a3aa3a04a42c4becca644f456f7a2275d3e696dc65125316527e4c68857bbdd3.zip",
       "id": "archive-13f39f0c051a82a87536",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "Brass_Knurled_Heat-Insert_Nut_-_AB029.zip",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a3aa3a04a42c4becca644f456f7a2275d3e696dc65125316527e4c68857bbdd3",
       "size": 577159,
       "source_url": "https://store.bblcdn.com/s7/default/f154313536a447cbacf85111231ea68f/Brass_Knurled_Heat-Insert_Nut_-_AB029.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "1-4''-20 直纹热熔螺母.STEP",
       "blob_path": "data/blobs/sha256/fa/fa0a87f0b10b2c53703baba7c4f69955b4a390aac92fb0f71b4df6eaf9b32a2f.step",
       "id": "model-5755fa43888c2f082e9c",
@@ -79,11 +98,13 @@
       "parent_asset_id": "archive-13f39f0c051a82a87536",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fa0a87f0b10b2c53703baba7c4f69955b4a390aac92fb0f71b4df6eaf9b32a2f",
       "size": 987240,
       "source_url": "https://store.bblcdn.com/s7/default/f154313536a447cbacf85111231ea68f/Brass_Knurled_Heat-Insert_Nut_-_AB029.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "1-4''-20 直纹热熔螺母.STL",
       "blob_path": "data/blobs/sha256/06/060a2feb90303134696e6a84e58c2ee7fca80609ecde600969e175e49c777879.stl",
       "id": "model-83d79061ff97be24b5eb",
@@ -93,11 +114,13 @@
       "parent_asset_id": "archive-13f39f0c051a82a87536",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "060a2feb90303134696e6a84e58c2ee7fca80609ecde600969e175e49c777879",
       "size": 806984,
       "source_url": "https://store.bblcdn.com/s7/default/f154313536a447cbacf85111231ea68f/Brass_Knurled_Heat-Insert_Nut_-_AB029.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0d/0d014801c8bc105eda06fa5d75612dc9f9a6f15b9e5eb3e0750115fa0a301c7a.png",
       "id": "image-display-362605768130e0eb6093",
       "image_processing": {
@@ -115,11 +138,13 @@
       "parent_asset_id": "image-667d855bc8d0e1f7f1b5",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0d014801c8bc105eda06fa5d75612dc9f9a6f15b9e5eb3e0750115fa0a301c7a",
       "size": 35942,
       "source_url": "https://store.bblcdn.com/s7/default/9733e5b4dcc747bd8404de3f0f3e1404/ZHUTU.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e6/e618f577f6dd8c52d49ef495e633dc4cf06b5cfe3575eda467fb7a37509d25c6.png",
       "id": "image-display-5ffa501558a4c658ea1e",
       "image_processing": {
@@ -137,6 +162,7 @@
       "parent_asset_id": "image-a9d224ada945e661317a",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e618f577f6dd8c52d49ef495e633dc4cf06b5cfe3575eda467fb7a37509d25c6",
       "size": 150924,
       "source_url": "https://store.bblcdn.com/s7/default/e272388b11354c69ae7db306893c9574/bianti.png"
@@ -183,6 +209,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ab029-1-4-8x8-brass-knurled-heat-insert-nut-10pcs",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Length (mm)",
@@ -222,6 +249,7 @@
       "price": "1.49",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?skr=yes"
     },
     {
@@ -232,6 +260,7 @@
       "price": "1.89",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?skr=yes"
     },
     {
@@ -242,6 +271,7 @@
       "price": "1.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?skr=yes"
     },
     {
@@ -252,6 +282,7 @@
       "price": "1.29",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?skr=yes"
     },
     {
@@ -262,6 +293,7 @@
       "price": "2.09",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?skr=yes"
     },
     {
@@ -272,6 +304,7 @@
       "price": "1.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?skr=yes"
     }
   ],
@@ -360,6 +393,7 @@
     "Surface Treatment": "No",
     "Thread Ridge Type": "Whitworth Coarse"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -370,6 +404,7 @@
       "price": "1.49",
       "region": "us",
       "sku": "606367578418708482",
+      "store_id": "",
       "title": "1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - 1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - AB029",
       "url": "https://us.store.bambulab.com/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?id=606367578418708482",
       "variant_id": "606367578418708482"
@@ -382,6 +417,7 @@
       "price": "1.89",
       "region": "ca",
       "sku": "606372921653329920",
+      "store_id": "",
       "title": "1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - 1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - AB029",
       "url": "https://ca.store.bambulab.com/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?id=606372921653329920",
       "variant_id": "606372921653329920"
@@ -394,6 +430,7 @@
       "price": "1.99",
       "region": "eu",
       "sku": "606371775713951744",
+      "store_id": "",
       "title": "1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - 1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - AB029",
       "url": "https://eu.store.bambulab.com/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?id=606371775713951744",
       "variant_id": "606371775713951744"
@@ -406,6 +443,7 @@
       "price": "1.29",
       "region": "uk",
       "sku": "606372786822172674",
+      "store_id": "",
       "title": "1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - 1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - AB029",
       "url": "https://uk.store.bambulab.com/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?id=606372786822172674",
       "variant_id": "606372786822172674"
@@ -418,6 +456,7 @@
       "price": "2.09",
       "region": "au",
       "sku": "606373035076890626",
+      "store_id": "",
       "title": "1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - 1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - AB029",
       "url": "https://au.store.bambulab.com/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?id=606373035076890626",
       "variant_id": "606373035076890626"
@@ -430,6 +469,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "606373163096870914",
+      "store_id": "",
       "title": "1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - 1/4''- 8x8 Brass Knurled Heat-Insert Nut (10PCS) - AB029",
       "url": "https://asia.store.bambulab.com/products/1-4-8x8-brass-knurled-heat-insert-nut-10pcs?id=606373163096870914",
       "variant_id": "606373163096870914"

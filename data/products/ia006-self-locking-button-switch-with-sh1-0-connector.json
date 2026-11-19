@@ -4,36 +4,49 @@
     {
       "handle": "self-locking-button-switch-with-sh1-0-connector",
       "product_id": "7975713570952",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "self-locking-button-switch-with-sh1-0-connector",
       "product_id": "8650980950256",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "self-locking-button-switch-with-sh1-0-connector",
       "product_id": "8855747035484",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "self-locking-button-switch-with-sh1-0-connector",
       "product_id": "7390466211900",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "self-locking-button-switch-with-sh1-0-connector",
       "product_id": "8312079745187",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "self-locking-button-switch-with-sh1-0-connector",
       "product_id": "7491346301043",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a2/a2d5a0d8cab411ac6f0606196c5ebee78f4421cf3485ac5cf8324489ccb391f5.png",
       "id": "image-9d23879f928ce03cdc78",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "IA006.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a2d5a0d8cab411ac6f0606196c5ebee78f4421cf3485ac5cf8324489ccb391f5",
       "size": 435324,
       "source_url": "https://store.bblcdn.com/s7/default/9f8eb089ca144e2eb82598ab0e7e5f0d/IA006.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/98/98bb5de1ed9712523f2bf2dcfc2c954e13c207540be4904f3233feb41f601585.png",
       "id": "image-30482a6ebcc33478a716",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "Self-Locking_Button_Switch_with_SH1.0_Connector.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "98bb5de1ed9712523f2bf2dcfc2c954e13c207540be4904f3233feb41f601585",
       "size": 143017,
       "source_url": "https://store.bblcdn.com/s7/default/82d7842c69184f7eafacb8e6542a9a33/Self-Locking_Button_Switch_with_SH1.0_Connector.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/70/70134b86cc058fee63e5b6acad733f7e44807c1507c54c2e9492b29717a84127.png",
       "id": "image-e393a7e0d0db58b653ca",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "Self-LockingButtonSwitchwithSH1.0Connector-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "70134b86cc058fee63e5b6acad733f7e44807c1507c54c2e9492b29717a84127",
       "size": 101868,
       "source_url": "https://store.bblcdn.com/s7/default/8e4c73ed80ce4a2d9d0485029bcd8a2a/Self-LockingButtonSwitchwithSH1.0Connector-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/16/16fe8b4a1955a247ed79388734d6215d405367e821e92ce74fef302c2d03eb8e.zip",
       "id": "archive-29e23ffaa8a6a09fdde2",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "Self-Locking_Button_Switch_with_SH1.0_Connector.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "16fe8b4a1955a247ed79388734d6215d405367e821e92ce74fef302c2d03eb8e",
       "size": 381271,
       "source_url": "https://store.bblcdn.com/s7/default/20071c195ecb4fa08dbc14b1d911a385/Self-Locking_Button_Switch_with_SH1.0_Connector.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4b/4bdafed116fd799b7431ba0776463d626f51161bdd4bb33cfdecc6de6098b063.zip",
       "id": "archive-bf139f2258166bdce0d6",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4bdafed116fd799b7431ba0776463d626f51161bdd4bb33cfdecc6de6098b063",
       "size": 19264967,
       "source_url": "https://store.bblcdn.com/s7/default/3647f6aa229243df8dcad867e80dcf83/Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e3/e366f96e23aeb26aaa58f8cde632c8c8d02eedef93c8aeea819028acae04e281.zip",
       "id": "archive-53d42da936a69e2d51fa",
       "kind": "archive",
@@ -101,11 +124,13 @@
       "original_filename": "PDB_Potentiometer_Board_Self-Locking_Button_Switch-IA006.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e366f96e23aeb26aaa58f8cde632c8c8d02eedef93c8aeea819028acae04e281",
       "size": 1254057,
       "source_url": "https://store.bblcdn.com/s7/default/14f1135da68045d4bf193d7a76037c9a/PDB_Potentiometer_Board_Self-Locking_Button_Switch-IA006.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Self-Locking Button Switch with SH1.0 Connector/Self-Locking Button Switch - IA006.stl",
       "blob_path": "data/blobs/sha256/d3/d3d49acd428f989bd581c7a640f78b80b57584f0338fc2390c9df1c3c38966ca.stl",
       "id": "model-c38e1ca787f43cd262cc",
@@ -115,11 +140,13 @@
       "parent_asset_id": "archive-29e23ffaa8a6a09fdde2",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d3d49acd428f989bd581c7a640f78b80b57584f0338fc2390c9df1c3c38966ca",
       "size": 285184,
       "source_url": "https://store.bblcdn.com/s7/default/20071c195ecb4fa08dbc14b1d911a385/Self-Locking_Button_Switch_with_SH1.0_Connector.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Self-Locking Button Switch with SH1.0 Connector/Self-Locking Button Switch - IA006.stp",
       "blob_path": "data/blobs/sha256/15/1593ce0dc95f818be6d9484a04aaef1a52eb94cc51640de2157109a6fbd7a037.stp",
       "id": "model-fd9d612dce6a9727ffa7",
@@ -129,11 +156,13 @@
       "parent_asset_id": "archive-29e23ffaa8a6a09fdde2",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1593ce0dc95f818be6d9484a04aaef1a52eb94cc51640de2157109a6fbd7a037",
       "size": 1691512,
       "source_url": "https://store.bblcdn.com/s7/default/20071c195ecb4fa08dbc14b1d911a385/Self-Locking_Button_Switch_with_SH1.0_Connector.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Self-Locking Button Switch - IA006 Application Instruction/Adjustment Switch Knob Design Guide/Assembly of Adjustment Switch Knob.stl",
       "blob_path": "data/blobs/sha256/0b/0b810aca40ba35f5a45f10cebda46f3fbe551fe6646e7b9a51d68c7b186dfd1a.stl",
       "id": "model-483ba58f54453a6c5ee9",
@@ -143,11 +172,13 @@
       "parent_asset_id": "archive-bf139f2258166bdce0d6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0b810aca40ba35f5a45f10cebda46f3fbe551fe6646e7b9a51d68c7b186dfd1a",
       "size": 2133584,
       "source_url": "https://store.bblcdn.com/s7/default/3647f6aa229243df8dcad867e80dcf83/Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Self-Locking Button Switch - IA006 Application Instruction/Adjustment Switch Knob Design Guide/Assembly of Adjustment Switch Knob.stp",
       "blob_path": "data/blobs/sha256/90/90df55422bb6f4b9a88434008a7c187679518d4cae7a43f29488504d403ba101.stp",
       "id": "model-d791e85c9d2c07568568",
@@ -157,11 +188,13 @@
       "parent_asset_id": "archive-bf139f2258166bdce0d6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "90df55422bb6f4b9a88434008a7c187679518d4cae7a43f29488504d403ba101",
       "size": 14772577,
       "source_url": "https://store.bblcdn.com/s7/default/3647f6aa229243df8dcad867e80dcf83/Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Self-Locking Button Switch - IA006 Application Instruction/Adjustment Switch Knob Design Guide/Printed Parts of Adjustment Switch Knob.3mf",
       "blob_path": "data/blobs/sha256/ef/ef25893b4b964e1f2de0e1351bc535aedf3cdd133245c5f9f6ac210a7243ab6c.3mf",
       "id": "model-137be36070ff7ed41dd0",
@@ -171,11 +204,13 @@
       "parent_asset_id": "archive-bf139f2258166bdce0d6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ef25893b4b964e1f2de0e1351bc535aedf3cdd133245c5f9f6ac210a7243ab6c",
       "size": 13298570,
       "source_url": "https://store.bblcdn.com/s7/default/3647f6aa229243df8dcad867e80dcf83/Self-Locking_Button_Switch_-_IA006_Application_Instruction.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d4/d4886a627c56e9da7208673913ff54bd308b31e64a2a52a65a2682a3b2a0a7c6.png",
       "id": "image-display-b432ab56374b46ae9e21",
       "image_processing": {
@@ -193,11 +228,13 @@
       "parent_asset_id": "image-9d23879f928ce03cdc78",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d4886a627c56e9da7208673913ff54bd308b31e64a2a52a65a2682a3b2a0a7c6",
       "size": 111459,
       "source_url": "https://store.bblcdn.com/s7/default/9f8eb089ca144e2eb82598ab0e7e5f0d/IA006.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4c/4c3b74cf5b9c037e678bafa38d6aa463e677a8578fbdb60282923de3086e71f4.png",
       "id": "image-display-7643d906c46b6178e77a",
       "image_processing": {
@@ -215,11 +252,13 @@
       "parent_asset_id": "image-30482a6ebcc33478a716",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4c3b74cf5b9c037e678bafa38d6aa463e677a8578fbdb60282923de3086e71f4",
       "size": 42673,
       "source_url": "https://store.bblcdn.com/s7/default/82d7842c69184f7eafacb8e6542a9a33/Self-Locking_Button_Switch_with_SH1.0_Connector.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5c/5cd6f565693cd5e9854cad4dfe705c962184187cf804fffbdff7e1694aada985.png",
       "id": "image-display-39df4984425ae5241d29",
       "image_processing": {
@@ -237,6 +276,7 @@
       "parent_asset_id": "image-e393a7e0d0db58b653ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5cd6f565693cd5e9854cad4dfe705c962184187cf804fffbdff7e1694aada985",
       "size": 29028,
       "source_url": "https://store.bblcdn.com/s7/default/8e4c73ed80ce4a2d9d0485029bcd8a2a/Self-LockingButtonSwitchwithSH1.0Connector-1.png"
@@ -306,6 +346,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ia006-self-locking-button-switch-with-sh1-0-connector",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Size (mm)",
@@ -327,6 +368,7 @@
       "price": "2.29",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
     },
     {
@@ -337,6 +379,7 @@
       "price": "2.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
     },
     {
@@ -347,6 +390,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
     },
     {
@@ -357,6 +401,7 @@
       "price": "2.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
     },
     {
@@ -367,6 +412,7 @@
       "price": "4.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
     },
     {
@@ -377,6 +423,7 @@
       "price": "1.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/self-locking-button-switch-with-sh1-0-connector?skr=yes"
     }
   ],
@@ -473,6 +520,7 @@
     "Size (mm)": "21x8x15",
     "Weight (g)": "0.8"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -483,6 +531,7 @@
       "price": "2.29",
       "region": "us",
       "sku": "42123262427272",
+      "store_id": "",
       "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
       "url": "https://us.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=42123262427272",
       "variant_id": "42123262427272"
@@ -495,6 +544,7 @@
       "price": "2.99",
       "region": "ca",
       "sku": "45672513208560",
+      "store_id": "",
       "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
       "url": "https://ca.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=45672513208560",
       "variant_id": "45672513208560"
@@ -507,6 +557,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "47978328228188",
+      "store_id": "",
       "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
       "url": "https://eu.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=47978328228188",
       "variant_id": "47978328228188"
@@ -519,6 +570,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "41367739826236",
+      "store_id": "",
       "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
       "url": "https://uk.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=41367739826236",
       "variant_id": "41367739826236"
@@ -531,6 +583,7 @@
       "price": "4.99",
       "region": "au",
       "sku": "44312167022755",
+      "store_id": "",
       "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
       "url": "https://au.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=44312167022755",
       "variant_id": "44312167022755"
@@ -543,6 +596,7 @@
       "price": "1.99",
       "region": "asia",
       "sku": "41589012955251",
+      "store_id": "",
       "title": "Self-Locking Button Switch (2PCS) - IA006 - Self-Locking Button Switch with SH1.0 Connector (2PCS) - IA006",
       "url": "https://asia.store.bambulab.com/products/self-locking-button-switch-with-sh1-0-connector?id=41589012955251",
       "variant_id": "41589012955251"

@@ -4,36 +4,49 @@
     {
       "handle": "hexagon-twist-fidget-v2",
       "product_id": "8445689528456",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "hexagon-twist-fidget-v2",
       "product_id": "549101577010216960",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "hexagon-twist-fidget-v2",
       "product_id": "14821393957212",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "hexagon-twist-fidget-v2",
       "product_id": "549101214471757824",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "hexagon-twist-fidget-v2",
       "product_id": "549100861238329344",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "hexagon-twist-fidget-v2",
       "product_id": "549098991793922048",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e1/e14e0a29cdab72fc05acd530516d103a5f771b787e1cdbf457096c7115a56af4.png",
       "id": "image-772dba089a9735cfd55b",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "1226-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e14e0a29cdab72fc05acd530516d103a5f771b787e1cdbf457096c7115a56af4",
       "size": 504789,
       "source_url": "https://store.bblcdn.com/s7/default/e9a8413d3a124e5da86cdcc7c2881731/1226-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e2/e295217f88ea0cf7bc0de064d389ef63d66f17b3ef9b8d078fe866ee24ebb79d.png",
       "id": "image-6dcb48e7248732d3eef1",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH058-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e295217f88ea0cf7bc0de064d389ef63d66f17b3ef9b8d078fe866ee24ebb79d",
       "size": 112102,
       "source_url": "https://store.bblcdn.com/s7/default/2ea2a106500b4ad4a474fd797065a1c1/ZH058-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3d/3d19d37ae8d02dbe6d89e3ae2d0f8884bb1990effb49b17d453efe9611ea3f48.png",
       "id": "image-b9fb43ac411933ad03d7",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "1226.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3d19d37ae8d02dbe6d89e3ae2d0f8884bb1990effb49b17d453efe9611ea3f48",
       "size": 491007,
       "source_url": "https://store.bblcdn.com/s7/default/45195a8477bc4d44bc2c45a596d86e4e/1226.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/df/dfd4874daa68c189ddc36ef30eed644d88d404d34426c56b27348e19432e072e.png",
       "id": "image-display-759d8ca2787168b818f9",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-772dba089a9735cfd55b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dfd4874daa68c189ddc36ef30eed644d88d404d34426c56b27348e19432e072e",
       "size": 466934,
       "source_url": "https://store.bblcdn.com/s7/default/e9a8413d3a124e5da86cdcc7c2881731/1226-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3b/3b0270e2cfb243638bf1789994a4690f07c791e67572fd80f737440c238e1dbf.png",
       "id": "image-display-80c7a1e913197a933697",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-6dcb48e7248732d3eef1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3b0270e2cfb243638bf1789994a4690f07c791e67572fd80f737440c238e1dbf",
       "size": 33416,
       "source_url": "https://store.bblcdn.com/s7/default/2ea2a106500b4ad4a474fd797065a1c1/ZH058-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b1/b13f5711b996a9c79ed490357676a8134f34c14e4814e263170c2fbe6053e12b.png",
       "id": "image-display-f5475088aa856dfc9c3d",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-b9fb43ac411933ad03d7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b13f5711b996a9c79ed490357676a8134f34c14e4814e263170c2fbe6053e12b",
       "size": 433510,
       "source_url": "https://store.bblcdn.com/s7/default/45195a8477bc4d44bc2c45a596d86e4e/1226.png"
@@ -182,7 +206,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Hexagon Twist Fidget (V2). To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Hexagon Twist Fidget (V2) on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh053-hexagon-twist-fidget-v2",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Hexagon Twist Fidget (V2)",
   "offers": [
@@ -194,6 +219,7 @@
       "price": "3.49",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/hexagon-twist-fidget-v2?skr=yes"
     },
     {
@@ -204,6 +230,7 @@
       "price": "3.79",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/hexagon-twist-fidget-v2?skr=yes"
     },
     {
@@ -214,6 +241,7 @@
       "price": "3.1",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/hexagon-twist-fidget-v2?skr=yes"
     },
     {
@@ -224,6 +252,7 @@
       "price": "2.63",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/hexagon-twist-fidget-v2?skr=yes"
     },
     {
@@ -234,6 +263,7 @@
       "price": "5.94",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/hexagon-twist-fidget-v2?skr=yes"
     },
     {
@@ -244,6 +274,7 @@
       "price": "2.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/hexagon-twist-fidget-v2?skr=yes"
     }
   ],
@@ -288,6 +319,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -300,6 +332,7 @@
       "price": "3.49",
       "region": "us",
       "sku": "43174423167112",
+      "store_id": "",
       "title": "Hexagon Twist Fidget (V2) - Hexagon Twist Fidget (V2) - ZH053",
       "url": "https://us.store.bambulab.com/products/hexagon-twist-fidget-v2?id=43174423167112",
       "variant_id": "43174423167112"
@@ -312,6 +345,7 @@
       "price": "3.79",
       "region": "ca",
       "sku": "549101577022799874",
+      "store_id": "",
       "title": "Hexagon Twist Fidget (V2) - Hexagon Twist Fidget (V2) - ZH053",
       "url": "https://ca.store.bambulab.com/products/hexagon-twist-fidget-v2?id=549101577022799874",
       "variant_id": "549101577022799874"
@@ -324,6 +358,7 @@
       "price": "3.1",
       "region": "eu",
       "sku": "53686197453148",
+      "store_id": "",
       "title": "Hexagon Twist Fidget (V2) - Hexagon Twist Fidget (V2) - ZH053",
       "url": "https://eu.store.bambulab.com/products/hexagon-twist-fidget-v2?id=53686197453148",
       "variant_id": "53686197453148"
@@ -336,6 +371,7 @@
       "price": "2.63",
       "region": "uk",
       "sku": "549101214484340738",
+      "store_id": "",
       "title": "Hexagon Twist Fidget (V2) - Hexagon Twist Fidget (V2) - ZH053",
       "url": "https://uk.store.bambulab.com/products/hexagon-twist-fidget-v2?id=549101214484340738",
       "variant_id": "549101214484340738"
@@ -348,6 +384,7 @@
       "price": "5.94",
       "region": "au",
       "sku": "549100861250912258",
+      "store_id": "",
       "title": "Hexagon Twist Fidget (V2) - Hexagon Twist Fidget (V2) - ZH053",
       "url": "https://au.store.bambulab.com/products/hexagon-twist-fidget-v2?id=549100861250912258",
       "variant_id": "549100861250912258"
@@ -360,6 +397,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "549098991806504962",
+      "store_id": "",
       "title": "Hexagon Twist Fidget (V2) - Hexagon Twist Fidget (V2) - ZH053",
       "url": "https://asia.store.bambulab.com/products/hexagon-twist-fidget-v2?id=549098991806504962",
       "variant_id": "549098991806504962"

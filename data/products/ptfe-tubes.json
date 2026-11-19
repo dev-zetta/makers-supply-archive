@@ -4,36 +4,49 @@
     {
       "handle": "ptfe-tubes",
       "product_id": "7189624127624",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ptfe-tubes",
       "product_id": "8011870208240",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ptfe-tubes",
       "product_id": "7723276927195",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ptfe-tubes",
       "product_id": "6945096106044",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ptfe-tubes",
       "product_id": "7734112452771",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ptfe-tubes",
       "product_id": "6881737834611",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/61/616381785425dc83011d335fb0553d58c5b8105c178820acc2e2dab73af40637.png",
       "id": "image-e571c4d82873d48cf054",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "20261103-225516.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "616381785425dc83011d335fb0553d58c5b8105c178820acc2e2dab73af40637",
       "size": 335704,
       "source_url": "https://store.bblcdn.com/s7/default/8f4a22730e8645f7b19ac6c6b5f68e4b/20261103-225516.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ee/ee9424eb445114cd4051140768ff13fff1f44ef92169883048ca873419e37f87.png",
       "id": "image-eeb6427e0292e4d8e873",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "4mPTFE_5c72c868-fc7c-4e4a-8a34-f8d9094a4167.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ee9424eb445114cd4051140768ff13fff1f44ef92169883048ca873419e37f87",
       "size": 1172314,
       "source_url": "https://store.bblcdn.com/s7/default/b560dbe603bd41699eff836033a6366f/4mPTFE_5c72c868-fc7c-4e4a-8a34-f8d9094a4167.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ff/fff7b0625f90968d503b378b7cb9f0bc4bbf674f3fdc8a4803dd8270e19a1aad.png",
       "id": "image-e95edaf9cc9a89fbcd0f",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "FAT005.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fff7b0625f90968d503b378b7cb9f0bc4bbf674f3fdc8a4803dd8270e19a1aad",
       "size": 226555,
       "source_url": "https://store.bblcdn.com/s7/default/251fb9c0b52846968c4754eedc405301/FAT005.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/00/0052820ff0a0b98479d208b86ad43f3b33e55519827456e6878d99fa3cddd4ca.png",
       "id": "image-c57fe045f581aa823ffd",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "FAZ082.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0052820ff0a0b98479d208b86ad43f3b33e55519827456e6878d99fa3cddd4ca",
       "size": 54358,
       "source_url": "https://store.bblcdn.com/s7/default/2d2f760a03ce461d867adbcb69c113a0/FAZ082.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6c/6c34e0f44c3941e713b75731ac633bafd74895d76da7710939e60507afc443a1.jpg",
       "id": "image-794c93a03a8482162d03",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "FAT009-V1.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6c34e0f44c3941e713b75731ac633bafd74895d76da7710939e60507afc443a1",
       "size": 262558,
       "source_url": "https://store.bblcdn.com/s7/default/2e2dc7858522421e9084b4e2e2dfdee0/FAT009-V1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f9/f9dcd171877a00f8a131674e89885fb41ecd286f1f783f66444f3609888889d1.jpg",
       "id": "image-7e9b69e5749bb7c29966",
       "kind": "image",
@@ -101,11 +124,13 @@
       "original_filename": "FAT010.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f9dcd171877a00f8a131674e89885fb41ecd286f1f783f66444f3609888889d1",
       "size": 240890,
       "source_url": "https://store.bblcdn.com/s7/default/4aaae7d400f04d2581b85b1fe1723332/FAT010.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d5/d52b22c988f6072cb912a02d5c2822e16b5e9581f470e3074b802b200a180a7a.png",
       "id": "image-47d3f276017250113d6f",
       "kind": "image",
@@ -113,11 +138,13 @@
       "original_filename": "FAT007.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d52b22c988f6072cb912a02d5c2822e16b5e9581f470e3074b802b200a180a7a",
       "size": 223943,
       "source_url": "https://store.bblcdn.com/s7/default/9b6174581e2049f1b8886e16547b1c98/FAT007.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e1/e157bd081311016950314d17372c2f2ad281bcba82fda2f7fd1e23bed9b3e332.png",
       "id": "image-e5f9a238b1a8e860b4d1",
       "kind": "image",
@@ -125,11 +152,13 @@
       "original_filename": "FAT006.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e157bd081311016950314d17372c2f2ad281bcba82fda2f7fd1e23bed9b3e332",
       "size": 64080,
       "source_url": "https://store.bblcdn.com/s7/default/415b2fbaa1294a06b14076ac71cfa818/FAT006.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/08/08dc656d77a48dbc27976462099d6059202c016b02618c38653fffec08c3f60e.jpg",
       "id": "image-85137df61e9bb7a20d36",
       "kind": "image",
@@ -137,11 +166,13 @@
       "original_filename": "20240328-094138.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "08dc656d77a48dbc27976462099d6059202c016b02618c38653fffec08c3f60e",
       "size": 25964,
       "source_url": "https://store.bblcdn.com/s7/default/2df28dab6df4477bb72a9fcd16bdbdb1/20240328-094138.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/04/04cdf7e99f7f9b6e8ebd6b0324307961af246590ccc7628e4f0e6c58e7e34ad8.png",
       "id": "image-6fe5b50d2fa8a2df3e59",
       "kind": "image",
@@ -149,11 +180,13 @@
       "original_filename": "P.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "04cdf7e99f7f9b6e8ebd6b0324307961af246590ccc7628e4f0e6c58e7e34ad8",
       "size": 430720,
       "source_url": "https://store.bblcdn.com/s7/default/2280e7586e064c9c900d1b6c45728e99/P.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9d/9d4b7c444273704ad61761be34f117ca3fbc90ea53bc5a7dcc364b48d37521b6.png",
       "id": "image-3c1d33ac4fa7e40052e8",
       "kind": "image",
@@ -161,11 +194,13 @@
       "original_filename": "FAT011.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9d4b7c444273704ad61761be34f117ca3fbc90ea53bc5a7dcc364b48d37521b6",
       "size": 61848,
       "source_url": "https://store.bblcdn.com/s7/default/54927e21d24045ca82de8450142edcea/FAT011.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/96/962acd7dd4f4a72293eb19ea5e0ef350b3eaa31b9b77b70743bc44904b40035f.png",
       "id": "image-409f1c2e34bdbc4492c7",
       "kind": "image",
@@ -173,11 +208,13 @@
       "original_filename": "FAT008.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "962acd7dd4f4a72293eb19ea5e0ef350b3eaa31b9b77b70743bc44904b40035f",
       "size": 93802,
       "source_url": "https://store.bblcdn.com/s7/default/b9703a58c89545e29efc7a9fdf406edb/FAT008.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5e/5ee5d0059ec7b674473a798cb9905295473d68d8c9cb46d07b280ee2388a5e41.png",
       "id": "image-1e64a2af194424a7d9e9",
       "kind": "image",
@@ -185,11 +222,13 @@
       "original_filename": "PTFE_f8524ab8-01ae-4c53-9092-5d259103307b.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5ee5d0059ec7b674473a798cb9905295473d68d8c9cb46d07b280ee2388a5e41",
       "size": 1323391,
       "source_url": "https://store.bblcdn.com/s7/default/256271eb85994dd5802cd2c5e79874a7/PTFE_f8524ab8-01ae-4c53-9092-5d259103307b.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8b/8beff424cb6a4ef9d2be57c56e1130c63028403433b1d0e8f833e2f7be264edb.png",
       "id": "image-display-a90370233264a591d02a",
       "image_processing": {
@@ -207,11 +246,13 @@
       "parent_asset_id": "image-e571c4d82873d48cf054",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8beff424cb6a4ef9d2be57c56e1130c63028403433b1d0e8f833e2f7be264edb",
       "size": 82126,
       "source_url": "https://store.bblcdn.com/s7/default/8f4a22730e8645f7b19ac6c6b5f68e4b/20261103-225516.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a5/a511477e59908d771b8b0254326bde4cc8d08a379d4e062615824833d067541c.png",
       "id": "image-display-e8ec19adc8d3d4aa38a6",
       "image_processing": {
@@ -229,11 +270,13 @@
       "parent_asset_id": "image-eeb6427e0292e4d8e873",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a511477e59908d771b8b0254326bde4cc8d08a379d4e062615824833d067541c",
       "size": 97300,
       "source_url": "https://store.bblcdn.com/s7/default/b560dbe603bd41699eff836033a6366f/4mPTFE_5c72c868-fc7c-4e4a-8a34-f8d9094a4167.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3a/3aa26cee1df2fe549bc72283b6c46ad86da2f2e96e265aeec5495a10e9fcb1ea.png",
       "id": "image-display-4e8f308a44bcc21bb2c2",
       "image_processing": {
@@ -251,11 +294,13 @@
       "parent_asset_id": "image-e95edaf9cc9a89fbcd0f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3aa26cee1df2fe549bc72283b6c46ad86da2f2e96e265aeec5495a10e9fcb1ea",
       "size": 82609,
       "source_url": "https://store.bblcdn.com/s7/default/251fb9c0b52846968c4754eedc405301/FAT005.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bcebf4212778c5ca6e65a40a868c74ca54f5dad08a2ddbad6d95bdc92da1ba10.png",
       "id": "image-display-65e8af719b3ef987911f",
       "image_processing": {
@@ -273,11 +318,13 @@
       "parent_asset_id": "image-c57fe045f581aa823ffd",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bcebf4212778c5ca6e65a40a868c74ca54f5dad08a2ddbad6d95bdc92da1ba10",
       "size": 45988,
       "source_url": "https://store.bblcdn.com/s7/default/2d2f760a03ce461d867adbcb69c113a0/FAZ082.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b0/b03fff16004248487c723a6f27551e986645161af5c1b146f05d3c2b02dccb0b.png",
       "id": "image-display-ff1fd6c194dd8bee9144",
       "image_processing": {
@@ -295,11 +342,13 @@
       "parent_asset_id": "image-794c93a03a8482162d03",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b03fff16004248487c723a6f27551e986645161af5c1b146f05d3c2b02dccb0b",
       "size": 30612,
       "source_url": "https://store.bblcdn.com/s7/default/2e2dc7858522421e9084b4e2e2dfdee0/FAT009-V1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ad/adc5360ef39a8a943ed90825d7aaa1dd862f9a14ccf462c939580142fd47e121.png",
       "id": "image-display-366efd42685ce6faf161",
       "image_processing": {
@@ -317,11 +366,13 @@
       "parent_asset_id": "image-7e9b69e5749bb7c29966",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "adc5360ef39a8a943ed90825d7aaa1dd862f9a14ccf462c939580142fd47e121",
       "size": 27627,
       "source_url": "https://store.bblcdn.com/s7/default/4aaae7d400f04d2581b85b1fe1723332/FAT010.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a3/a3334c036777cddf191883f982dd2d286c421ac314aea496cf32d15b3a7c67d1.png",
       "id": "image-display-5673335b21cf3533638d",
       "image_processing": {
@@ -339,11 +390,13 @@
       "parent_asset_id": "image-47d3f276017250113d6f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a3334c036777cddf191883f982dd2d286c421ac314aea496cf32d15b3a7c67d1",
       "size": 64593,
       "source_url": "https://store.bblcdn.com/s7/default/9b6174581e2049f1b8886e16547b1c98/FAT007.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a3/a30141ac0496123d8c438be2d12e8a4d5d096365ae620c969e0d7a15ed0ec963.png",
       "id": "image-display-ab83f936bb115aaa173f",
       "image_processing": {
@@ -361,11 +414,13 @@
       "parent_asset_id": "image-e5f9a238b1a8e860b4d1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a30141ac0496123d8c438be2d12e8a4d5d096365ae620c969e0d7a15ed0ec963",
       "size": 57077,
       "source_url": "https://store.bblcdn.com/s7/default/415b2fbaa1294a06b14076ac71cfa818/FAT006.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a2/a21f56a82583cb411cde6db41a86a36a61e4efa34e780820e35eef28662c08a5.png",
       "id": "image-display-ee6f16f9f591dea54466",
       "image_processing": {
@@ -383,11 +438,13 @@
       "parent_asset_id": "image-85137df61e9bb7a20d36",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a21f56a82583cb411cde6db41a86a36a61e4efa34e780820e35eef28662c08a5",
       "size": 42161,
       "source_url": "https://store.bblcdn.com/s7/default/2df28dab6df4477bb72a9fcd16bdbdb1/20240328-094138.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6f/6fd42decb145c195a99cbec45db35750b88d5ab638d1bace8bc41ef5c1a7dc80.png",
       "id": "image-display-c0008738a6284c11b1e1",
       "image_processing": {
@@ -405,11 +462,13 @@
       "parent_asset_id": "image-6fe5b50d2fa8a2df3e59",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6fd42decb145c195a99cbec45db35750b88d5ab638d1bace8bc41ef5c1a7dc80",
       "size": 42676,
       "source_url": "https://store.bblcdn.com/s7/default/2280e7586e064c9c900d1b6c45728e99/P.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/89/89ac6b48b6885e2fc8c28c6028c5231b5c50f7a8052e981d3b813394bc22d5bb.png",
       "id": "image-display-d9b0fade92ffc40d0f69",
       "image_processing": {
@@ -427,11 +486,13 @@
       "parent_asset_id": "image-3c1d33ac4fa7e40052e8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "89ac6b48b6885e2fc8c28c6028c5231b5c50f7a8052e981d3b813394bc22d5bb",
       "size": 15685,
       "source_url": "https://store.bblcdn.com/s7/default/54927e21d24045ca82de8450142edcea/FAT011.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2f/2fe47b020f9d371bacc9ab55e38b39acc6be5c215b8d5e5d64b8b45a9bccea82.png",
       "id": "image-display-a5b98d01edfbeecaad41",
       "image_processing": {
@@ -449,11 +510,13 @@
       "parent_asset_id": "image-409f1c2e34bdbc4492c7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2fe47b020f9d371bacc9ab55e38b39acc6be5c215b8d5e5d64b8b45a9bccea82",
       "size": 24342,
       "source_url": "https://store.bblcdn.com/s7/default/b9703a58c89545e29efc7a9fdf406edb/FAT008.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/43/43d86520a10eb9aaf5abac8aa404b43a92cbd2daa398e83c49a066dbb32adfb9.png",
       "id": "image-display-a9ff16991fc9cae2aa86",
       "image_processing": {
@@ -471,6 +534,7 @@
       "parent_asset_id": "image-1e64a2af194424a7d9e9",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "43d86520a10eb9aaf5abac8aa404b43a92cbd2daa398e83c49a066dbb32adfb9",
       "size": 91126,
       "source_url": "https://store.bblcdn.com/s7/default/256271eb85994dd5802cd2c5e79874a7/PTFE_f8524ab8-01ae-4c53-9092-5d259103307b.png"
@@ -524,7 +588,8 @@
   "description_text": "The function of PTFE Tube is to reduce resistance and guide filament. The tube's inner diameter is 2.5mm, and its outer diameter is 4mm.\n\nPlease note that the PTFE tubes are consumables and are at risk of wear, as they may rub against the filament over time. We recommend that you check the PTFE tubes for wear during your maintenance of the machine.\n\nIf the tubes are worn and not replaced in time, this may lead to feeding failures, filament accumulation inside the AMS, etc.\n\nReplacement guide of the PTFE Tube for different devices: Bambu Lab Wiki",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ptfe-tubes",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "PTFE Tubes",
   "offers": [
@@ -536,6 +601,7 @@
       "price": "16.99",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/ptfe-tubes?skr=yes"
     },
     {
@@ -546,26 +612,29 @@
       "price": "22.99",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/ptfe-tubes?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
       "price": "17.99",
       "region": "eu",
-      "retrieved_at": "2026-11-10T12:06:28Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/ptfe-tubes?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "GBP",
       "listed": true,
       "missing_runs": 0,
       "price": "14.99",
       "region": "uk",
-      "retrieved_at": "2026-11-10T12:06:28Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/ptfe-tubes?skr=yes"
     },
     {
@@ -576,16 +645,18 @@
       "price": "25.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/ptfe-tubes?skr=yes"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
       "price": "16.99",
       "region": "asia",
-      "retrieved_at": "2026-11-10T12:06:28Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/ptfe-tubes?skr=yes"
     }
   ],
@@ -875,6 +946,7 @@
   ],
   "source_tables": [],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -884,6 +956,7 @@
       "price": "16.99",
       "region": "us",
       "sku": "794165246016106497",
+      "store_id": "",
       "title": "PTFE Tubes - Bambu Lab H3C / 92mm*1 + 450mm*1 + 540mm*6 + 565mm*2 + 415mm*9",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=794165246016106497",
       "variant_id": "794165246016106497"
@@ -895,6 +968,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "737978462844637186",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=737978462844637186",
       "variant_id": "737978462844637186"
@@ -906,6 +980,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "737978462844637191",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=737978462844637191",
       "variant_id": "737978462844637191"
@@ -917,6 +992,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "737978462844637196",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 975mm*2 + 905mm*2 + 925mm*1",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=737978462844637196",
       "variant_id": "737978462844637196"
@@ -928,6 +1004,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723056515997880321",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723056515997880321",
       "variant_id": "723056515997880321"
@@ -939,6 +1016,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723056515997880326",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723056515997880326",
       "variant_id": "723056515997880326"
@@ -950,6 +1028,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523485",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523485",
       "variant_id": "723049025637523485"
@@ -961,6 +1040,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523490",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523490",
       "variant_id": "723049025637523490"
@@ -972,6 +1052,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523495",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523495",
       "variant_id": "723049025637523495"
@@ -983,6 +1064,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523500",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523500",
       "variant_id": "723049025637523500"
@@ -994,6 +1076,7 @@
       "price": "4.99",
       "region": "us",
       "sku": "723049025637523505",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523505",
       "variant_id": "723049025637523505"
@@ -1005,6 +1088,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "723049025637523510",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523510",
       "variant_id": "723049025637523510"
@@ -1016,6 +1100,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523515",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523515",
       "variant_id": "723049025637523515"
@@ -1027,6 +1112,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523520",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523520",
       "variant_id": "723049025637523520"
@@ -1038,6 +1124,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "723049025637523525",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523525",
       "variant_id": "723049025637523525"
@@ -1049,6 +1136,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "723057323934076929",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 590mm*1",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723057323934076929",
       "variant_id": "723057323934076929"
@@ -1060,6 +1148,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523530",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523530",
       "variant_id": "723049025637523530"
@@ -1071,6 +1160,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523535",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523535",
       "variant_id": "723049025637523535"
@@ -1082,6 +1172,7 @@
       "price": "4.99",
       "region": "us",
       "sku": "723049025637523540",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523540",
       "variant_id": "723049025637523540"
@@ -1093,6 +1184,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "723049025637523545",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523545",
       "variant_id": "723049025637523545"
@@ -1104,6 +1196,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523550",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523550",
       "variant_id": "723049025637523550"
@@ -1115,6 +1208,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523555",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523555",
       "variant_id": "723049025637523555"
@@ -1126,6 +1220,7 @@
       "price": "7.99",
       "region": "us",
       "sku": "723049025637523560",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 730mm*2 + 830mm*2",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523560",
       "variant_id": "723049025637523560"
@@ -1137,6 +1232,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523565",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523565",
       "variant_id": "723049025637523565"
@@ -1148,6 +1244,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523570",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523570",
       "variant_id": "723049025637523570"
@@ -1159,6 +1256,7 @@
       "price": "6.99",
       "region": "us",
       "sku": "723049025637523575",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 580mm*2 + 700mm*2",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523575",
       "variant_id": "723049025637523575"
@@ -1170,6 +1268,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523580",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523580",
       "variant_id": "723049025637523580"
@@ -1181,17 +1280,19 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523585",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523585",
       "variant_id": "723049025637523585"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s7/default/2df28dab6df4477bb72a9fcd16bdbdb1/20240328-094138.jpg",
       "price": "3.99",
       "region": "us",
       "sku": "723049025637523590",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 370mm*1 + 550mm*2",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523590",
       "variant_id": "723049025637523590"
@@ -1203,6 +1304,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523595",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523595",
       "variant_id": "723049025637523595"
@@ -1214,6 +1316,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523600",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523600",
       "variant_id": "723049025637523600"
@@ -1225,6 +1328,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "723049025637523605",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 530mm*2 + 30mm*2",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523605",
       "variant_id": "723049025637523605"
@@ -1236,6 +1340,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523610",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523610",
       "variant_id": "723049025637523610"
@@ -1247,17 +1352,19 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025637523615",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025637523615",
       "variant_id": "723049025637523615"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s7/default/2df28dab6df4477bb72a9fcd16bdbdb1/20240328-094138.jpg",
       "price": "3.99",
       "region": "us",
       "sku": "723049025641717765",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 370mm*1 + 550mm*2",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717765",
       "variant_id": "723049025641717765"
@@ -1269,6 +1376,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025641717805",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717805",
       "variant_id": "723049025641717805"
@@ -1280,6 +1388,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025641717810",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717810",
       "variant_id": "723049025641717810"
@@ -1291,6 +1400,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "723049025641717815",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 263mm*1 (AMS HT Internal)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717815",
       "variant_id": "723049025641717815"
@@ -1302,6 +1412,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025641717785",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717785",
       "variant_id": "723049025641717785"
@@ -1313,6 +1424,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025641717790",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717790",
       "variant_id": "723049025641717790"
@@ -1324,6 +1436,7 @@
       "price": "3.99",
       "region": "us",
       "sku": "723049025641717795",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 185mm*2 + 225mm*2 (AMS 2 Pro Internal)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717795",
       "variant_id": "723049025641717795"
@@ -1335,6 +1448,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "723049025641717800",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717800",
       "variant_id": "723049025641717800"
@@ -1346,6 +1460,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025641717770",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 White (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717770",
       "variant_id": "723049025641717770"
@@ -1357,6 +1472,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "723049025641717775",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717775",
       "variant_id": "723049025641717775"
@@ -1368,6 +1484,7 @@
       "price": "3.99",
       "region": "us",
       "sku": "723049025641717780",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 195mm*4 + 230mm*4 (AMS Internal)",
       "url": "https://us.store.bambulab.com/products/ptfe-tubes?id=723049025641717780",
       "variant_id": "723049025641717780"
@@ -1379,6 +1496,7 @@
       "price": "22.99",
       "region": "ca",
       "sku": "794169831279570947",
+      "store_id": "",
       "title": "PTFE Tubes - Bambu Lab H3C / 92mm*1 + 450mm*1 + 540mm*6 + 565mm*2 + 415mm*9",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=794169831279570947",
       "variant_id": "794169831279570947"
@@ -1390,6 +1508,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "737978885155258371",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=737978885155258371",
       "variant_id": "737978885155258371"
@@ -1401,6 +1520,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "737978885155258376",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=737978885155258376",
       "variant_id": "737978885155258376"
@@ -1412,6 +1532,7 @@
       "price": "11.99",
       "region": "ca",
       "sku": "737978885155258381",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 975mm*2 + 905mm*2 + 925mm*1",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=737978885155258381",
       "variant_id": "737978885155258381"
@@ -1423,6 +1544,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901392",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901392",
       "variant_id": "726226298652901392"
@@ -1434,6 +1556,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901397",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901397",
       "variant_id": "726226298652901397"
@@ -1445,6 +1568,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901402",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901402",
       "variant_id": "726226298652901402"
@@ -1456,6 +1580,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901407",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901407",
       "variant_id": "726226298652901407"
@@ -1467,6 +1592,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901412",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901412",
       "variant_id": "726226298652901412"
@@ -1478,6 +1604,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901417",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901417",
       "variant_id": "726226298652901417"
@@ -1489,6 +1616,7 @@
       "price": "6.99",
       "region": "ca",
       "sku": "726226298652901422",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901422",
       "variant_id": "726226298652901422"
@@ -1500,6 +1628,7 @@
       "price": "4.99",
       "region": "ca",
       "sku": "726226298652901427",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901427",
       "variant_id": "726226298652901427"
@@ -1511,6 +1640,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901432",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901432",
       "variant_id": "726226298652901432"
@@ -1522,6 +1652,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901437",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901437",
       "variant_id": "726226298652901437"
@@ -1533,6 +1664,7 @@
       "price": "4.99",
       "region": "ca",
       "sku": "726226298652901442",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901442",
       "variant_id": "726226298652901442"
@@ -1544,6 +1676,7 @@
       "price": "4.99",
       "region": "ca",
       "sku": "726226298652901447",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 590mm*1",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901447",
       "variant_id": "726226298652901447"
@@ -1555,6 +1688,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901452",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901452",
       "variant_id": "726226298652901452"
@@ -1566,6 +1700,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901457",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901457",
       "variant_id": "726226298652901457"
@@ -1577,6 +1712,7 @@
       "price": "6.99",
       "region": "ca",
       "sku": "726226298652901462",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901462",
       "variant_id": "726226298652901462"
@@ -1588,6 +1724,7 @@
       "price": "4.99",
       "region": "ca",
       "sku": "726226298652901467",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901467",
       "variant_id": "726226298652901467"
@@ -1599,6 +1736,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901472",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901472",
       "variant_id": "726226298652901472"
@@ -1610,6 +1748,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901477",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901477",
       "variant_id": "726226298652901477"
@@ -1621,6 +1760,7 @@
       "price": "10.99",
       "region": "ca",
       "sku": "726226298652901482",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 730mm*2 + 830mm*2",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901482",
       "variant_id": "726226298652901482"
@@ -1632,6 +1772,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901487",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901487",
       "variant_id": "726226298652901487"
@@ -1643,6 +1784,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901492",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901492",
       "variant_id": "726226298652901492"
@@ -1654,6 +1796,7 @@
       "price": "9.99",
       "region": "ca",
       "sku": "726226298652901497",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 580mm*2 + 700mm*2",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901497",
       "variant_id": "726226298652901497"
@@ -1665,6 +1808,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901502",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901502",
       "variant_id": "726226298652901502"
@@ -1676,6 +1820,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901507",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901507",
       "variant_id": "726226298652901507"
@@ -1687,6 +1832,7 @@
       "price": "5.99",
       "region": "ca",
       "sku": "726226298652901512",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 370mm*1 + 550mm*2",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901512",
       "variant_id": "726226298652901512"
@@ -1698,6 +1844,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901517",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901517",
       "variant_id": "726226298652901517"
@@ -1709,6 +1856,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901522",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901522",
       "variant_id": "726226298652901522"
@@ -1720,6 +1868,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "726226298652901527",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 530mm*2 + 30mm*2",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901527",
       "variant_id": "726226298652901527"
@@ -1731,6 +1880,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901532",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901532",
       "variant_id": "726226298652901532"
@@ -1742,6 +1892,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298652901537",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298652901537",
       "variant_id": "726226298652901537"
@@ -1753,6 +1904,7 @@
       "price": "5.99",
       "region": "ca",
       "sku": "726226298657095681",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 370mm*1 + 550mm*2",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095681",
       "variant_id": "726226298657095681"
@@ -1764,6 +1916,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298657095686",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095686",
       "variant_id": "726226298657095686"
@@ -1775,6 +1928,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298657095691",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095691",
       "variant_id": "726226298657095691"
@@ -1786,6 +1940,7 @@
       "price": "4.99",
       "region": "ca",
       "sku": "726226298657095696",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 263mm*1 (AMS HT Internal)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095696",
       "variant_id": "726226298657095696"
@@ -1797,6 +1952,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298657095701",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095701",
       "variant_id": "726226298657095701"
@@ -1808,6 +1964,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298657095706",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095706",
       "variant_id": "726226298657095706"
@@ -1819,6 +1976,7 @@
       "price": "5.99",
       "region": "ca",
       "sku": "726226298657095711",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 185mm*2 + 225mm*2 (AMS 2 Pro Internal)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095711",
       "variant_id": "726226298657095711"
@@ -1830,6 +1988,7 @@
       "price": "4.99",
       "region": "ca",
       "sku": "726226298657095716",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095716",
       "variant_id": "726226298657095716"
@@ -1841,6 +2000,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298657095721",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 White (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095721",
       "variant_id": "726226298657095721"
@@ -1852,6 +2012,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "726226298657095726",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095726",
       "variant_id": "726226298657095726"
@@ -1863,17 +2024,19 @@
       "price": "5.99",
       "region": "ca",
       "sku": "726226298657095731",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 195mm*4 + 230mm*4 (AMS Internal)",
       "url": "https://ca.store.bambulab.com/products/ptfe-tubes?id=726226298657095731",
       "variant_id": "726226298657095731"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/fabcc4b0da8f43818be924be45e9f192/20261103-225516.png",
       "price": "17.99",
       "region": "eu",
       "sku": "794167641546723331",
+      "store_id": "",
       "title": "PTFE Tubes - Bambu Lab H3C / 92mm*1 + 450mm*1 + 540mm*6 + 565mm*2 + 415mm*9",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=794167641546723331",
       "variant_id": "794167641546723331"
@@ -1885,6 +2048,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "737978707344961539",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=737978707344961539",
       "variant_id": "737978707344961539"
@@ -1896,6 +2060,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "737978707344961546",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=737978707344961546",
       "variant_id": "737978707344961546"
@@ -1907,6 +2072,7 @@
       "price": "9.99",
       "region": "eu",
       "sku": "737978707344961553",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 975mm*2 + 905mm*2 + 925mm*1",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=737978707344961553",
       "variant_id": "737978707344961553"
@@ -1918,6 +2084,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503443",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503443",
       "variant_id": "723293485526503443"
@@ -1929,6 +2096,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503450",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503450",
       "variant_id": "723293485526503450"
@@ -1940,6 +2108,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503457",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503457",
       "variant_id": "723293485526503457"
@@ -1951,6 +2120,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503464",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503464",
       "variant_id": "723293485526503464"
@@ -1962,6 +2132,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503471",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503471",
       "variant_id": "723293485526503471"
@@ -1973,6 +2144,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503478",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503478",
       "variant_id": "723293485526503478"
@@ -1984,6 +2156,7 @@
       "price": "5.99",
       "region": "eu",
       "sku": "723293485526503485",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503485",
       "variant_id": "723293485526503485"
@@ -1995,6 +2168,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "723293485526503492",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503492",
       "variant_id": "723293485526503492"
@@ -2006,6 +2180,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503499",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503499",
       "variant_id": "723293485526503499"
@@ -2017,6 +2192,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503506",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503506",
       "variant_id": "723293485526503506"
@@ -2028,6 +2204,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "723293485526503513",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503513",
       "variant_id": "723293485526503513"
@@ -2039,6 +2216,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "723293485526503520",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 590mm*1",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503520",
       "variant_id": "723293485526503520"
@@ -2050,6 +2228,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503527",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503527",
       "variant_id": "723293485526503527"
@@ -2061,6 +2240,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503534",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503534",
       "variant_id": "723293485526503534"
@@ -2072,6 +2252,7 @@
       "price": "5.99",
       "region": "eu",
       "sku": "723293485526503541",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503541",
       "variant_id": "723293485526503541"
@@ -2083,6 +2264,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "723293485526503548",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503548",
       "variant_id": "723293485526503548"
@@ -2094,6 +2276,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503555",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503555",
       "variant_id": "723293485526503555"
@@ -2105,6 +2288,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503562",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503562",
       "variant_id": "723293485526503562"
@@ -2116,6 +2300,7 @@
       "price": "9.99",
       "region": "eu",
       "sku": "723293485526503569",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 730mm*2 + 830mm*2",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503569",
       "variant_id": "723293485526503569"
@@ -2127,6 +2312,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503576",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503576",
       "variant_id": "723293485526503576"
@@ -2138,6 +2324,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503583",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503583",
       "variant_id": "723293485526503583"
@@ -2149,6 +2336,7 @@
       "price": "7.99",
       "region": "eu",
       "sku": "723293485526503590",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 580mm*2 + 700mm*2",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503590",
       "variant_id": "723293485526503590"
@@ -2160,6 +2348,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503597",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503597",
       "variant_id": "723293485526503597"
@@ -2171,6 +2360,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503604",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503604",
       "variant_id": "723293485526503604"
@@ -2182,6 +2372,7 @@
       "price": "4.99",
       "region": "eu",
       "sku": "723293485526503611",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 370mm*1 + 550mm*2",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503611",
       "variant_id": "723293485526503611"
@@ -2193,6 +2384,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503618",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503618",
       "variant_id": "723293485526503618"
@@ -2204,6 +2396,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503625",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503625",
       "variant_id": "723293485526503625"
@@ -2215,6 +2408,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "723293485526503632",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 530mm*2 + 30mm*2",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503632",
       "variant_id": "723293485526503632"
@@ -2226,6 +2420,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503639",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503639",
       "variant_id": "723293485526503639"
@@ -2237,6 +2432,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503646",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503646",
       "variant_id": "723293485526503646"
@@ -2248,6 +2444,7 @@
       "price": "4.99",
       "region": "eu",
       "sku": "723293485526503653",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 370mm*1 + 550mm*2",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503653",
       "variant_id": "723293485526503653"
@@ -2259,6 +2456,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485526503660",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485526503660",
       "variant_id": "723293485526503660"
@@ -2270,6 +2468,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485530697730",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485530697730",
       "variant_id": "723293485530697730"
@@ -2281,6 +2480,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "723293485530697737",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 263mm*1 (AMS HT Internal)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485530697737",
       "variant_id": "723293485530697737"
@@ -2292,6 +2492,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485530697744",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485530697744",
       "variant_id": "723293485530697744"
@@ -2303,6 +2504,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485530697751",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485530697751",
       "variant_id": "723293485530697751"
@@ -2314,6 +2516,7 @@
       "price": "4.99",
       "region": "eu",
       "sku": "723293485530697758",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 185mm*2 + 225mm*2 (AMS 2 Pro Internal)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485530697758",
       "variant_id": "723293485530697758"
@@ -2325,6 +2528,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "723293485530697765",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485530697765",
       "variant_id": "723293485530697765"
@@ -2336,6 +2540,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485530697772",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 White (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485530697772",
       "variant_id": "723293485530697772"
@@ -2347,6 +2552,7 @@
       "price": "10.99",
       "region": "eu",
       "sku": "723293485530697779",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485530697779",
       "variant_id": "723293485530697779"
@@ -2358,17 +2564,19 @@
       "price": "4.99",
       "region": "eu",
       "sku": "723293485530697786",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 195mm*4 + 230mm*4 (AMS Internal)",
       "url": "https://eu.store.bambulab.com/products/ptfe-tubes?id=723293485530697786",
       "variant_id": "723293485530697786"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "GBP",
       "image_url": "https://store.bblcdn.eu/s4/default/94adb76d991040e8a84b489bbd54a0a4/20261103-225516.png",
       "price": "14.99",
       "region": "uk",
       "sku": "794170992770453507",
+      "store_id": "",
       "title": "PTFE Tubes - Bambu Lab H3C / 92mm*1 + 450mm*1 + 540mm*6 + 565mm*2 + 415mm*9",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=794170992770453507",
       "variant_id": "794170992770453507"
@@ -2380,6 +2588,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "737978802713542659",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=737978802713542659",
       "variant_id": "737978802713542659"
@@ -2391,6 +2600,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "737978802713542664",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=737978802713542664",
       "variant_id": "737978802713542664"
@@ -2402,6 +2612,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "737978802713542669",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 975mm*2 + 905mm*2 + 925mm*1",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=737978802713542669",
       "variant_id": "737978802713542669"
@@ -2413,6 +2624,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834392743957",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834392743957",
       "variant_id": "726231834392743957"
@@ -2424,6 +2636,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938243",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938243",
       "variant_id": "726231834396938243"
@@ -2435,6 +2648,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938248",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938248",
       "variant_id": "726231834396938248"
@@ -2446,6 +2660,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938253",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938253",
       "variant_id": "726231834396938253"
@@ -2457,6 +2672,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938258",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938258",
       "variant_id": "726231834396938258"
@@ -2468,6 +2684,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938263",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938263",
       "variant_id": "726231834396938263"
@@ -2479,6 +2696,7 @@
       "price": "4.99",
       "region": "uk",
       "sku": "726231834396938268",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938268",
       "variant_id": "726231834396938268"
@@ -2490,6 +2708,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "726231834396938273",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938273",
       "variant_id": "726231834396938273"
@@ -2501,6 +2720,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938278",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938278",
       "variant_id": "726231834396938278"
@@ -2512,6 +2732,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938283",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938283",
       "variant_id": "726231834396938283"
@@ -2523,6 +2744,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "726231834396938288",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938288",
       "variant_id": "726231834396938288"
@@ -2534,6 +2756,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "726231834396938293",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 590mm*1",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938293",
       "variant_id": "726231834396938293"
@@ -2545,6 +2768,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938298",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938298",
       "variant_id": "726231834396938298"
@@ -2556,6 +2780,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938303",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938303",
       "variant_id": "726231834396938303"
@@ -2567,6 +2792,7 @@
       "price": "4.99",
       "region": "uk",
       "sku": "726231834396938308",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938308",
       "variant_id": "726231834396938308"
@@ -2578,6 +2804,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "726231834396938313",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938313",
       "variant_id": "726231834396938313"
@@ -2589,6 +2816,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938318",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938318",
       "variant_id": "726231834396938318"
@@ -2600,6 +2828,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938323",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938323",
       "variant_id": "726231834396938323"
@@ -2611,6 +2840,7 @@
       "price": "6.99",
       "region": "uk",
       "sku": "726231834396938328",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 730mm*2 + 830mm*2",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938328",
       "variant_id": "726231834396938328"
@@ -2622,6 +2852,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938333",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938333",
       "variant_id": "726231834396938333"
@@ -2633,6 +2864,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938338",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938338",
       "variant_id": "726231834396938338"
@@ -2644,6 +2876,7 @@
       "price": "6.99",
       "region": "uk",
       "sku": "726231834396938343",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 580mm*2 + 700mm*2",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938343",
       "variant_id": "726231834396938343"
@@ -2655,6 +2888,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938348",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938348",
       "variant_id": "726231834396938348"
@@ -2666,6 +2900,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938353",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938353",
       "variant_id": "726231834396938353"
@@ -2677,6 +2912,7 @@
       "price": "3.99",
       "region": "uk",
       "sku": "726231834396938358",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 370mm*1 + 550mm*2",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938358",
       "variant_id": "726231834396938358"
@@ -2688,6 +2924,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938363",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938363",
       "variant_id": "726231834396938363"
@@ -2699,6 +2936,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938368",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938368",
       "variant_id": "726231834396938368"
@@ -2710,6 +2948,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "726231834396938373",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 530mm*2 + 30mm*2",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938373",
       "variant_id": "726231834396938373"
@@ -2721,6 +2960,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938378",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938378",
       "variant_id": "726231834396938378"
@@ -2732,6 +2972,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938383",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938383",
       "variant_id": "726231834396938383"
@@ -2743,6 +2984,7 @@
       "price": "3.99",
       "region": "uk",
       "sku": "726231834396938388",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 370mm*1 + 550mm*2",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938388",
       "variant_id": "726231834396938388"
@@ -2754,6 +2996,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834396938393",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834396938393",
       "variant_id": "726231834396938393"
@@ -2765,6 +3008,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834401132548",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834401132548",
       "variant_id": "726231834401132548"
@@ -2776,6 +3020,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "726231834401132553",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 263mm*1 (AMS HT Internal)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834401132553",
       "variant_id": "726231834401132553"
@@ -2787,6 +3032,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834401132558",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834401132558",
       "variant_id": "726231834401132558"
@@ -2798,6 +3044,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834401132563",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834401132563",
       "variant_id": "726231834401132563"
@@ -2809,6 +3056,7 @@
       "price": "3.99",
       "region": "uk",
       "sku": "726231834401132568",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 185mm*2 + 225mm*2 (AMS 2 Pro Internal)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834401132568",
       "variant_id": "726231834401132568"
@@ -2820,6 +3068,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "726231834401132573",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834401132573",
       "variant_id": "726231834401132573"
@@ -2831,6 +3080,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834401132578",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 White (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834401132578",
       "variant_id": "726231834401132578"
@@ -2842,6 +3092,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "726231834401132583",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834401132583",
       "variant_id": "726231834401132583"
@@ -2853,6 +3104,7 @@
       "price": "3.99",
       "region": "uk",
       "sku": "726231834401132588",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 195mm*4 + 230mm*4 (AMS Internal)",
       "url": "https://uk.store.bambulab.com/products/ptfe-tubes?id=726231834401132588",
       "variant_id": "726231834401132588"
@@ -2864,6 +3116,7 @@
       "price": "25.99",
       "region": "au",
       "sku": "794416934090190851",
+      "store_id": "",
       "title": "PTFE Tubes - Bambu Lab H3C / 92mm*1 + 450mm*1 + 540mm*6 + 565mm*2 + 415mm*9",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=794416934090190851",
       "variant_id": "794416934090190851"
@@ -2875,6 +3128,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "737978973271052290",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=737978973271052290",
       "variant_id": "737978973271052290"
@@ -2886,6 +3140,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "737978973271052295",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=737978973271052295",
       "variant_id": "737978973271052295"
@@ -2897,6 +3152,7 @@
       "price": "14.99",
       "region": "au",
       "sku": "737978973271052300",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 975mm*2 + 905mm*2 + 925mm*1",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=737978973271052300",
       "variant_id": "737978973271052300"
@@ -2908,6 +3164,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086092099605",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086092099605",
       "variant_id": "726285086092099605"
@@ -2919,6 +3176,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086092099610",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086092099610",
       "variant_id": "726285086092099610"
@@ -2930,6 +3188,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086092099615",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086092099615",
       "variant_id": "726285086092099615"
@@ -2941,6 +3200,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086092099620",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086092099620",
       "variant_id": "726285086092099620"
@@ -2952,6 +3212,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086092099625",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086092099625",
       "variant_id": "726285086092099625"
@@ -2963,6 +3224,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086092099630",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086092099630",
       "variant_id": "726285086092099630"
@@ -2974,6 +3236,7 @@
       "price": "9.99",
       "region": "au",
       "sku": "726285086096293890",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293890",
       "variant_id": "726285086096293890"
@@ -2985,6 +3248,7 @@
       "price": "5.99",
       "region": "au",
       "sku": "726285086096293895",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293895",
       "variant_id": "726285086096293895"
@@ -2996,6 +3260,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293900",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293900",
       "variant_id": "726285086096293900"
@@ -3007,6 +3272,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293905",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293905",
       "variant_id": "726285086096293905"
@@ -3018,6 +3284,7 @@
       "price": "5.99",
       "region": "au",
       "sku": "726285086096293910",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293910",
       "variant_id": "726285086096293910"
@@ -3029,6 +3296,7 @@
       "price": "5.99",
       "region": "au",
       "sku": "726285086096293915",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 590mm*1",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293915",
       "variant_id": "726285086096293915"
@@ -3040,6 +3308,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293920",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293920",
       "variant_id": "726285086096293920"
@@ -3051,6 +3320,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293925",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293925",
       "variant_id": "726285086096293925"
@@ -3062,6 +3332,7 @@
       "price": "9.99",
       "region": "au",
       "sku": "726285086096293930",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293930",
       "variant_id": "726285086096293930"
@@ -3073,6 +3344,7 @@
       "price": "5.99",
       "region": "au",
       "sku": "726285086096293935",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293935",
       "variant_id": "726285086096293935"
@@ -3084,6 +3356,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293940",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293940",
       "variant_id": "726285086096293940"
@@ -3095,6 +3368,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293945",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293945",
       "variant_id": "726285086096293945"
@@ -3106,6 +3380,7 @@
       "price": "12.99",
       "region": "au",
       "sku": "726285086096293950",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 730mm*2 + 830mm*2",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293950",
       "variant_id": "726285086096293950"
@@ -3117,6 +3392,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293955",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293955",
       "variant_id": "726285086096293955"
@@ -3128,6 +3404,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293960",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293960",
       "variant_id": "726285086096293960"
@@ -3139,6 +3416,7 @@
       "price": "11.99",
       "region": "au",
       "sku": "726285086096293965",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 580mm*2 + 700mm*2",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293965",
       "variant_id": "726285086096293965"
@@ -3150,6 +3428,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293970",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293970",
       "variant_id": "726285086096293970"
@@ -3161,6 +3440,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293975",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293975",
       "variant_id": "726285086096293975"
@@ -3172,6 +3452,7 @@
       "price": "6.99",
       "region": "au",
       "sku": "726285086096293980",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 370mm*1 + 550mm*2",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293980",
       "variant_id": "726285086096293980"
@@ -3183,6 +3464,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293985",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293985",
       "variant_id": "726285086096293985"
@@ -3194,6 +3476,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096293990",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293990",
       "variant_id": "726285086096293990"
@@ -3205,6 +3488,7 @@
       "price": "4.99",
       "region": "au",
       "sku": "726285086096293995",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 530mm*2 + 30mm*2",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096293995",
       "variant_id": "726285086096293995"
@@ -3216,6 +3500,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096294000",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294000",
       "variant_id": "726285086096294000"
@@ -3227,6 +3512,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096294005",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294005",
       "variant_id": "726285086096294005"
@@ -3238,6 +3524,7 @@
       "price": "6.99",
       "region": "au",
       "sku": "726285086096294010",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 370mm*1 + 550mm*2",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294010",
       "variant_id": "726285086096294010"
@@ -3249,6 +3536,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096294015",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294015",
       "variant_id": "726285086096294015"
@@ -3260,6 +3548,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096294020",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294020",
       "variant_id": "726285086096294020"
@@ -3271,6 +3560,7 @@
       "price": "4.99",
       "region": "au",
       "sku": "726285086096294025",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 263mm*1 (AMS HT Internal)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294025",
       "variant_id": "726285086096294025"
@@ -3282,6 +3572,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096294030",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294030",
       "variant_id": "726285086096294030"
@@ -3293,6 +3584,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096294035",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294035",
       "variant_id": "726285086096294035"
@@ -3304,6 +3596,7 @@
       "price": "6.99",
       "region": "au",
       "sku": "726285086096294040",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 185mm*2 + 225mm*2 (AMS 2 Pro Internal)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294040",
       "variant_id": "726285086096294040"
@@ -3315,6 +3608,7 @@
       "price": "5.99",
       "region": "au",
       "sku": "726285086096294045",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294045",
       "variant_id": "726285086096294045"
@@ -3326,6 +3620,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096294050",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 White (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294050",
       "variant_id": "726285086096294050"
@@ -3337,6 +3632,7 @@
       "price": "16.99",
       "region": "au",
       "sku": "726285086096294055",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294055",
       "variant_id": "726285086096294055"
@@ -3348,17 +3644,19 @@
       "price": "6.99",
       "region": "au",
       "sku": "726285086096294060",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 195mm*4 + 230mm*4 (AMS Internal)",
       "url": "https://au.store.bambulab.com/products/ptfe-tubes?id=726285086096294060",
       "variant_id": "726285086096294060"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s1/default/ba2725d008ab4abea0593e35e67891b9/20261103-225516.png",
       "price": "16.99",
       "region": "asia",
       "sku": "794418887687933955",
+      "store_id": "",
       "title": "PTFE Tubes - Bambu Lab H3C / 92mm*1 + 450mm*1 + 540mm*6 + 565mm*2 + 415mm*9",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=794418887687933955",
       "variant_id": "794418887687933955"
@@ -3370,6 +3668,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "737979064065417219",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=737979064065417219",
       "variant_id": "737979064065417219"
@@ -3381,6 +3680,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "737979064069611522",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=737979064069611522",
       "variant_id": "737979064069611522"
@@ -3392,6 +3692,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "737979064069611527",
+      "store_id": "",
       "title": "PTFE Tubes - A2L / 975mm*2 + 905mm*2 + 925mm*1",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=737979064069611527",
       "variant_id": "737979064069611527"
@@ -3403,6 +3704,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624198",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624198",
       "variant_id": "726309040879624198"
@@ -3414,6 +3716,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624203",
+      "store_id": "",
       "title": "PTFE Tubes - X2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624203",
       "variant_id": "726309040879624203"
@@ -3425,6 +3728,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624208",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624208",
       "variant_id": "726309040879624208"
@@ -3436,6 +3740,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624213",
+      "store_id": "",
       "title": "PTFE Tubes - P2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624213",
       "variant_id": "726309040879624213"
@@ -3447,6 +3752,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624218",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624218",
       "variant_id": "726309040879624218"
@@ -3458,6 +3764,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624223",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624223",
       "variant_id": "726309040879624223"
@@ -3469,6 +3776,7 @@
       "price": "4.99",
       "region": "asia",
       "sku": "726309040879624228",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624228",
       "variant_id": "726309040879624228"
@@ -3480,6 +3788,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "726309040879624233",
+      "store_id": "",
       "title": "PTFE Tubes - H2C / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624233",
       "variant_id": "726309040879624233"
@@ -3491,6 +3800,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624238",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624238",
       "variant_id": "726309040879624238"
@@ -3502,6 +3812,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624243",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624243",
       "variant_id": "726309040879624243"
@@ -3513,6 +3824,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "726309040879624248",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624248",
       "variant_id": "726309040879624248"
@@ -3524,6 +3836,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "726309040879624253",
+      "store_id": "",
       "title": "PTFE Tubes - H2S / 590mm*1",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624253",
       "variant_id": "726309040879624253"
@@ -3535,6 +3848,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624258",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624258",
       "variant_id": "726309040879624258"
@@ -3546,6 +3860,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624263",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624263",
       "variant_id": "726309040879624263"
@@ -3557,6 +3872,7 @@
       "price": "4.99",
       "region": "asia",
       "sku": "726309040879624268",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 590mm*1 (Gray) + 610mm*1 (White)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624268",
       "variant_id": "726309040879624268"
@@ -3568,6 +3884,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "726309040879624273",
+      "store_id": "",
       "title": "PTFE Tubes - H2D / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624273",
       "variant_id": "726309040879624273"
@@ -3579,6 +3896,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624278",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624278",
       "variant_id": "726309040879624278"
@@ -3590,6 +3908,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624283",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624283",
       "variant_id": "726309040879624283"
@@ -3601,6 +3920,7 @@
       "price": "7.99",
       "region": "asia",
       "sku": "726309040879624288",
+      "store_id": "",
       "title": "PTFE Tubes - A1 / 730mm*2 + 830mm*2",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624288",
       "variant_id": "726309040879624288"
@@ -3612,6 +3932,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624293",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624293",
       "variant_id": "726309040879624293"
@@ -3623,6 +3944,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624298",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624298",
       "variant_id": "726309040879624298"
@@ -3634,6 +3956,7 @@
       "price": "6.99",
       "region": "asia",
       "sku": "726309040879624303",
+      "store_id": "",
       "title": "PTFE Tubes - A1 mini / 580mm*2 + 700mm*2",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624303",
       "variant_id": "726309040879624303"
@@ -3645,6 +3968,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624308",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624308",
       "variant_id": "726309040879624308"
@@ -3656,6 +3980,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624313",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624313",
       "variant_id": "726309040879624313"
@@ -3667,6 +3992,7 @@
       "price": "3.99",
       "region": "asia",
       "sku": "726309040879624318",
+      "store_id": "",
       "title": "PTFE Tubes - P1S / 370mm*1 + 550mm*2",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624318",
       "variant_id": "726309040879624318"
@@ -3678,6 +4004,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624323",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624323",
       "variant_id": "726309040879624323"
@@ -3689,6 +4016,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624328",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624328",
       "variant_id": "726309040879624328"
@@ -3700,6 +4028,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "726309040879624333",
+      "store_id": "",
       "title": "PTFE Tubes - P1P / 530mm*2 + 30mm*2",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624333",
       "variant_id": "726309040879624333"
@@ -3711,6 +4040,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624338",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624338",
       "variant_id": "726309040879624338"
@@ -3722,6 +4052,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624343",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624343",
       "variant_id": "726309040879624343"
@@ -3733,6 +4064,7 @@
       "price": "3.99",
       "region": "asia",
       "sku": "726309040879624348",
+      "store_id": "",
       "title": "PTFE Tubes - X1C / 370mm*1 + 550mm*2",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624348",
       "variant_id": "726309040879624348"
@@ -3744,6 +4076,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040879624353",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040879624353",
       "variant_id": "726309040879624353"
@@ -3755,6 +4088,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040883818496",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040883818496",
       "variant_id": "726309040883818496"
@@ -3766,6 +4100,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "726309040883818501",
+      "store_id": "",
       "title": "PTFE Tubes - AMS HT / 263mm*1 (AMS HT Internal)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040883818501",
       "variant_id": "726309040883818501"
@@ -3777,6 +4112,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040883818506",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040883818506",
       "variant_id": "726309040883818506"
@@ -3788,6 +4124,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040883818511",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040883818511",
       "variant_id": "726309040883818511"
@@ -3799,6 +4136,7 @@
       "price": "3.99",
       "region": "asia",
       "sku": "726309040883818516",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 185mm*2 + 225mm*2 (AMS 2 Pro Internal)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040883818516",
       "variant_id": "726309040883818516"
@@ -3810,6 +4148,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "726309040883818521",
+      "store_id": "",
       "title": "PTFE Tubes - AMS 2 Pro / 900mm*1 + 340mm*1 (AMS 2 Pro to H2 Series)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040883818521",
       "variant_id": "726309040883818521"
@@ -3821,6 +4160,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040883818526",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 White (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040883818526",
       "variant_id": "726309040883818526"
@@ -3832,6 +4172,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "726309040883818531",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 4000mm*1 Gray (Cut-to-length)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040883818531",
       "variant_id": "726309040883818531"
@@ -3843,6 +4184,7 @@
       "price": "3.99",
       "region": "asia",
       "sku": "726309040883818536",
+      "store_id": "",
       "title": "PTFE Tubes - AMS / 195mm*4 + 230mm*4 (AMS Internal)",
       "url": "https://asia.store.bambulab.com/products/ptfe-tubes?id=726309040883818536",
       "variant_id": "726309040883818536"

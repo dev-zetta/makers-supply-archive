@@ -4,36 +4,49 @@
     {
       "handle": "extension-springs",
       "product_id": "8284819554440",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "extension-springs",
       "product_id": "8934643892464",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "extension-springs",
       "product_id": "9491834306908",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "extension-springs",
       "product_id": "7713380991036",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "extension-springs",
       "product_id": "8541535633571",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "extension-springs",
       "product_id": "7707135344755",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/06/066303feeda22fd199caaa6f427d5a81e03eb0e1ff0fc72b2fcbb60de21cd0e5.png",
       "id": "image-030a380da4697c01f3df",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "59d45dd7e58e19983ea53e782d69a18e.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "066303feeda22fd199caaa6f427d5a81e03eb0e1ff0fc72b2fcbb60de21cd0e5",
       "size": 76429,
       "source_url": "https://store.bblcdn.com/s7/default/55d4222ca28a4aa687c95b0661c224a7/59d45dd7e58e19983ea53e782d69a18e.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/65/65d6e7a787e9a30c62f052208d98bb471c436b3c9aa563948fc9eafdf1b2f04d.png",
       "id": "image-2356375cca9d9f518dc4",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "1_12586d6f-0f9f-4746-ad94-227135415e7d.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "65d6e7a787e9a30c62f052208d98bb471c436b3c9aa563948fc9eafdf1b2f04d",
       "size": 76421,
       "source_url": "https://store.bblcdn.com/s7/default/eb196b6f103142eca122c14ad615117d/1_12586d6f-0f9f-4746-ad94-227135415e7d.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3c/3cdef4db4ed159a26ca77985e3bbe8d13f071f2ac6ff9613d3ccee873bbb7e38.png",
       "id": "image-20a9fd46fb25f5451fa7",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "2_95a7a883-8576-42f6-9794-a3c3c8618ad7.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3cdef4db4ed159a26ca77985e3bbe8d13f071f2ac6ff9613d3ccee873bbb7e38",
       "size": 76959,
       "source_url": "https://store.bblcdn.com/s7/default/4b9cd27113344c52bcb7cbf073d6540a/2_95a7a883-8576-42f6-9794-a3c3c8618ad7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3d/3d010451e5126406063cf477fee2f8edc6c68ab629c8cea2dff2c59029c9916a.png",
       "id": "image-99c6306866b1cbaba711",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "3_0f25cdd4-2aa9-49f6-883c-2324db0193c0.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3d010451e5126406063cf477fee2f8edc6c68ab629c8cea2dff2c59029c9916a",
       "size": 76603,
       "source_url": "https://store.bblcdn.com/s7/default/0d6c135f24a34667b397035e58c7f885/3_0f25cdd4-2aa9-49f6-883c-2324db0193c0.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ea/eaf7be03d5ad4c1c20856fab35431bfb11c9904859b65f1287ea0939285d970e.png",
       "id": "image-d258c21ba00c854eeab1",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "4_d0571a3c-f827-4c55-8794-86d3135b88e1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "eaf7be03d5ad4c1c20856fab35431bfb11c9904859b65f1287ea0939285d970e",
       "size": 76397,
       "source_url": "https://store.bblcdn.com/s7/default/610c609e0d1d454a98d540501354d12c/4_d0571a3c-f827-4c55-8794-86d3135b88e1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e1/e1d460abc8e8723b6985ad19181e8482f04fe485c1adeb83b772689e3af03c88.png",
       "id": "image-268a1ea60f21f032600d",
       "kind": "image",
@@ -101,11 +124,13 @@
       "original_filename": "5_849939bf-8747-40b1-b850-310245105641.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e1d460abc8e8723b6985ad19181e8482f04fe485c1adeb83b772689e3af03c88",
       "size": 76882,
       "source_url": "https://store.bblcdn.com/s7/default/55570b69ae27440b89ea0a5d2e225bd2/5_849939bf-8747-40b1-b850-310245105641.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6e/6ef51beb5d3f577a5419d5b6e46e1feb641e3235a57a36750c4218303a7627fb.png",
       "id": "image-ce66777211c7bd9aec61",
       "kind": "image",
@@ -113,11 +138,13 @@
       "original_filename": "6_87030093-567c-42ae-9ee4-8a2235119413.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6ef51beb5d3f577a5419d5b6e46e1feb641e3235a57a36750c4218303a7627fb",
       "size": 76756,
       "source_url": "https://store.bblcdn.com/s7/default/ed9e072c42324ecea94e5ceb80b62fb4/6_87030093-567c-42ae-9ee4-8a2235119413.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/41/41de98184ac9a8f745e94e06b441c9950d843a1a4e846135df41951abed94d97.png",
       "id": "image-362105aef8a1ea02f8c9",
       "kind": "image",
@@ -125,11 +152,13 @@
       "original_filename": "7_7df90e37-771e-404b-80f3-26a8225a6009.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "41de98184ac9a8f745e94e06b441c9950d843a1a4e846135df41951abed94d97",
       "size": 76857,
       "source_url": "https://store.bblcdn.com/s7/default/c6c53cd0d4ac47dbb4f8c1d13a3f947f/7_7df90e37-771e-404b-80f3-26a8225a6009.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/41/41f311e9369774099d63348b6dc57c44ff220953d6b4e86552a5053dfbd4c224.png",
       "id": "image-9cff1d9b95a33e9d9866",
       "kind": "image",
@@ -137,11 +166,13 @@
       "original_filename": "BA001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "41f311e9369774099d63348b6dc57c44ff220953d6b4e86552a5053dfbd4c224",
       "size": 88185,
       "source_url": "https://store.bblcdn.com/s7/default/77ba17f9872543cfbf20ba47803c4f4f/BA001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4c/4cd1e7446a5db8487e3d356219d861a7aacc5154ad45049189e18ed1e1c3b069.png",
       "id": "image-ca9c22e583949a6dbe7e",
       "kind": "image",
@@ -149,11 +180,13 @@
       "original_filename": "BA001-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4cd1e7446a5db8487e3d356219d861a7aacc5154ad45049189e18ed1e1c3b069",
       "size": 289178,
       "source_url": "https://store.bblcdn.com/s7/default/a49340f9b95141b6852aeec23f548606/BA001-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ea/eadb991e5450509cfa194848c0b613216ba4a9a893663a9272e167a9cf4bc9f1.png",
       "id": "image-6190d924fca8d7d0ec7e",
       "kind": "image",
@@ -161,11 +194,13 @@
       "original_filename": "Frame_1123861623.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "eadb991e5450509cfa194848c0b613216ba4a9a893663a9272e167a9cf4bc9f1",
       "size": 21473,
       "source_url": "https://store.bblcdn.com/s7/default/6f15417123a540a480f2d941c6c914a4/Frame_1123861623.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b7/b78c7a876c676a2fc1fc08c0265995774933e98026cd2bbc6196b732ec731e35.pdf",
       "id": "document-7f95fc7dcce4dbad87e2",
       "kind": "document",
@@ -173,11 +208,13 @@
       "original_filename": "Extension_Springs.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b78c7a876c676a2fc1fc08c0265995774933e98026cd2bbc6196b732ec731e35",
       "size": 1971467,
       "source_url": "https://store.bblcdn.com/s7/default/35d728250599449aac7479c2be933d0e/Extension_Springs.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4f/4fe99fb04e1c9a19739955a2b0475874ebab296740c15c731bc42c501d460a0b.zip",
       "id": "archive-530ca7ed2b8acaf08f10",
       "kind": "archive",
@@ -185,11 +222,13 @@
       "original_filename": "Extension_Springs.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4fe99fb04e1c9a19739955a2b0475874ebab296740c15c731bc42c501d460a0b",
       "size": 15811045,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STL/0.4x3x10 - BA001.STL",
       "blob_path": "data/blobs/sha256/a6/a6e0507474e5a3a432e144a13b27bbc246a928aa0f355199342d4ffc83c36b6b.stl",
       "id": "model-3161fe7f04e32953887c",
@@ -199,11 +238,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a6e0507474e5a3a432e144a13b27bbc246a928aa0f355199342d4ffc83c36b6b",
       "size": 1305284,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STL/0.4x3x15 - BA002.STL",
       "blob_path": "data/blobs/sha256/dd/dde19e39d394bdd7d7f7e4278fece942aa075679194aaf02768436b976aadd5c.stl",
       "id": "model-4e61a6c9094362ed8a92",
@@ -213,11 +254,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dde19e39d394bdd7d7f7e4278fece942aa075679194aaf02768436b976aadd5c",
       "size": 1812684,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STL/0.4x3x20 - BA003.STL",
       "blob_path": "data/blobs/sha256/0f/0f68215a486f7478cc2fbb40d43a7790814f35e2b541d940b3cae6715483daec.stl",
       "id": "model-fe1f75dcf7d44d3d6910",
@@ -227,11 +270,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0f68215a486f7478cc2fbb40d43a7790814f35e2b541d940b3cae6715483daec",
       "size": 2500384,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STL/0.4x3x30 - BA004.STL",
       "blob_path": "data/blobs/sha256/f1/f1348c813e3c5cc4d9e048ca0dac2d85050fa01b6ac93eb6f4fdf0b13dfd5ca8.stl",
       "id": "model-78a533291bf151d8dfdd",
@@ -241,11 +286,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1348c813e3c5cc4d9e048ca0dac2d85050fa01b6ac93eb6f4fdf0b13dfd5ca8",
       "size": 3723784,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STL/0.5x5x10 - BA005.STL",
       "blob_path": "data/blobs/sha256/02/02c30a6b74df519c99fd47d3c9581acd11ba0c65b303b416021f750fd5af256f.stl",
       "id": "model-fda7f93d8cdf5da483b9",
@@ -255,11 +302,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "02c30a6b74df519c99fd47d3c9581acd11ba0c65b303b416021f750fd5af256f",
       "size": 1448984,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STL/0.5x5x20 - BA006.STL",
       "blob_path": "data/blobs/sha256/2e/2e56d31f2fb620b534e70e2f1ec96ba6757df4fc166999065c075883572e47cc.stl",
       "id": "model-ac3be3aded03d81e6ead",
@@ -269,11 +318,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2e56d31f2fb620b534e70e2f1ec96ba6757df4fc166999065c075883572e47cc",
       "size": 2589584,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STL/0.5x5x30 - BA007.STL",
       "blob_path": "data/blobs/sha256/55/55e58738f72a5c683f7425cd63ab82d45542d6407243dd10a80fcc4eb2f356bf.stl",
       "id": "model-76eb1f269c4ee0305a66",
@@ -283,11 +334,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "55e58738f72a5c683f7425cd63ab82d45542d6407243dd10a80fcc4eb2f356bf",
       "size": 3881084,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STL/0.5x5x40 - BA008.STL",
       "blob_path": "data/blobs/sha256/c5/c5d79d4bc660ee0245bec44b092e1f4c796990f89a97b71b56772691444a1bb5.stl",
       "id": "model-3b421c36fb4b658dd963",
@@ -297,11 +350,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c5d79d4bc660ee0245bec44b092e1f4c796990f89a97b71b56772691444a1bb5",
       "size": 5359784,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STP/0.4x3x10 - BA001.STEP",
       "blob_path": "data/blobs/sha256/56/56f2d364e112943c9f096fdab0ca2cdf6190fa4075580446c120ae323cd96114.step",
       "id": "model-2d4cae2fa0367d0034fd",
@@ -311,11 +366,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "56f2d364e112943c9f096fdab0ca2cdf6190fa4075580446c120ae323cd96114",
       "size": 1130172,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STP/0.4x3x15 - BA002.STEP",
       "blob_path": "data/blobs/sha256/6d/6d16ae718421360423ebc64d865ef656bfe623eeaa1192aa24a27d2c616e99d6.step",
       "id": "model-f11dc1e92e1266972388",
@@ -325,11 +382,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6d16ae718421360423ebc64d865ef656bfe623eeaa1192aa24a27d2c616e99d6",
       "size": 1527783,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STP/0.4x3x20 - BA003.STEP",
       "blob_path": "data/blobs/sha256/bc/bc3f7e6b8db1f2d3356d39d1ab5e9cd708845bc3a2b3bf4bbe64d05b758dbbcb.step",
       "id": "model-3c428437aec54718f59d",
@@ -339,11 +398,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bc3f7e6b8db1f2d3356d39d1ab5e9cd708845bc3a2b3bf4bbe64d05b758dbbcb",
       "size": 2218669,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STP/0.4x3x30 - BA004.STEP",
       "blob_path": "data/blobs/sha256/23/2309b40594be3935c98876c2b28338bee17029df8d124874ae49239bc1957a64.step",
       "id": "model-ab154e265d0db3493e3e",
@@ -353,11 +414,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2309b40594be3935c98876c2b28338bee17029df8d124874ae49239bc1957a64",
       "size": 2961842,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STP/0.5x5x10 - BA005.STEP",
       "blob_path": "data/blobs/sha256/d7/d78d3e1646c451e83a5da909f8c0fea9e409fbc29b493ab6667872227aaa0628.step",
       "id": "model-65246defdce8cece7bda",
@@ -367,11 +430,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d78d3e1646c451e83a5da909f8c0fea9e409fbc29b493ab6667872227aaa0628",
       "size": 827956,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STP/0.5x5x20 - BA006.STEP",
       "blob_path": "data/blobs/sha256/44/442981e926a9088558c0de081f99c760c248e38a1c5f49630f6066fc095cfb10.step",
       "id": "model-3612953fb2c3da1dd307",
@@ -381,11 +446,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "442981e926a9088558c0de081f99c760c248e38a1c5f49630f6066fc095cfb10",
       "size": 1515875,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STP/0.5x5x30 - BA007.STEP",
       "blob_path": "data/blobs/sha256/b2/b228199fbf20fdaed9ab3503259f271ed159940da1c3466b4b90eea2b56b342f.step",
       "id": "model-4eed640b7ba736154b1c",
@@ -395,11 +462,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b228199fbf20fdaed9ab3503259f271ed159940da1c3466b4b90eea2b56b342f",
       "size": 2950306,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "STP/0.5x5x40 - BA008.STEP",
       "blob_path": "data/blobs/sha256/0e/0eef3097f0c328d85ebec96daf94b5e371e38c40b0f7cb315e6dcd77c128e769.step",
       "id": "model-297d24f7bdc5ebe6f7d0",
@@ -409,11 +478,13 @@
       "parent_asset_id": "archive-530ca7ed2b8acaf08f10",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0eef3097f0c328d85ebec96daf94b5e371e38c40b0f7cb315e6dcd77c128e769",
       "size": 2967450,
       "source_url": "https://store.bblcdn.com/s7/default/d1a1b25a91d1448c85a2443fde043946/Extension_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/08/088c1a6461e12ed29ec8008b373de48fa2339d20fa3c00b3fb7389effbf75d01.png",
       "id": "image-display-c9c1ec26521eccdee5d9",
       "image_processing": {
@@ -431,11 +502,13 @@
       "parent_asset_id": "image-030a380da4697c01f3df",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "088c1a6461e12ed29ec8008b373de48fa2339d20fa3c00b3fb7389effbf75d01",
       "size": 60926,
       "source_url": "https://store.bblcdn.com/s7/default/55d4222ca28a4aa687c95b0661c224a7/59d45dd7e58e19983ea53e782d69a18e.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d1/d1214dbcf5c96470363b0f48d471ff68ae15ed6ee48ebbb88681b993800d1d08.png",
       "id": "image-display-d2428fee60153093e025",
       "image_processing": {
@@ -453,11 +526,13 @@
       "parent_asset_id": "image-2356375cca9d9f518dc4",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d1214dbcf5c96470363b0f48d471ff68ae15ed6ee48ebbb88681b993800d1d08",
       "size": 60922,
       "source_url": "https://store.bblcdn.com/s7/default/eb196b6f103142eca122c14ad615117d/1_12586d6f-0f9f-4746-ad94-227135415e7d.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f6/f69e3ca684af95a415b9b14e4f970c7dfe2fdf6030cc6de74d23e340e5c219e5.png",
       "id": "image-display-fc4510aee0ad11691e81",
       "image_processing": {
@@ -475,11 +550,13 @@
       "parent_asset_id": "image-20a9fd46fb25f5451fa7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f69e3ca684af95a415b9b14e4f970c7dfe2fdf6030cc6de74d23e340e5c219e5",
       "size": 60973,
       "source_url": "https://store.bblcdn.com/s7/default/4b9cd27113344c52bcb7cbf073d6540a/2_95a7a883-8576-42f6-9794-a3c3c8618ad7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/22/226e21889433b80992f7c4d56cdc91b9b9599b07d9c6ede9995a77b1622b8dcf.png",
       "id": "image-display-8d02d25543f8ff7f49be",
       "image_processing": {
@@ -497,11 +574,13 @@
       "parent_asset_id": "image-99c6306866b1cbaba711",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "226e21889433b80992f7c4d56cdc91b9b9599b07d9c6ede9995a77b1622b8dcf",
       "size": 60870,
       "source_url": "https://store.bblcdn.com/s7/default/0d6c135f24a34667b397035e58c7f885/3_0f25cdd4-2aa9-49f6-883c-2324db0193c0.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ed/ed1f86f4fd8df3950becc67ecbd23c62c172f197e2c7fc9ae3c4e6c9d880c560.png",
       "id": "image-display-4426e6a625733237a7b3",
       "image_processing": {
@@ -519,11 +598,13 @@
       "parent_asset_id": "image-d258c21ba00c854eeab1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ed1f86f4fd8df3950becc67ecbd23c62c172f197e2c7fc9ae3c4e6c9d880c560",
       "size": 60867,
       "source_url": "https://store.bblcdn.com/s7/default/610c609e0d1d454a98d540501354d12c/4_d0571a3c-f827-4c55-8794-86d3135b88e1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/17/178326d944b22802675417c73a7b7617425ff48986ca0f5c104dcdf00b608211.png",
       "id": "image-display-62f9f04243702709c43d",
       "image_processing": {
@@ -541,11 +622,13 @@
       "parent_asset_id": "image-268a1ea60f21f032600d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "178326d944b22802675417c73a7b7617425ff48986ca0f5c104dcdf00b608211",
       "size": 60938,
       "source_url": "https://store.bblcdn.com/s7/default/55570b69ae27440b89ea0a5d2e225bd2/5_849939bf-8747-40b1-b850-310245105641.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c7/c72c18e02fa09f10bf6c474aecbfaceb201054b248172f2e2eec86e57e12cb43.png",
       "id": "image-display-e15ae64e0f21254e013e",
       "image_processing": {
@@ -563,11 +646,13 @@
       "parent_asset_id": "image-ce66777211c7bd9aec61",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c72c18e02fa09f10bf6c474aecbfaceb201054b248172f2e2eec86e57e12cb43",
       "size": 61009,
       "source_url": "https://store.bblcdn.com/s7/default/ed9e072c42324ecea94e5ceb80b62fb4/6_87030093-567c-42ae-9ee4-8a2235119413.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6d/6d0fe53e810b60196f918c8c9c03c2cac901c60081e836e20557ce036840bd5c.png",
       "id": "image-display-b9751c3858041762f35e",
       "image_processing": {
@@ -585,11 +670,13 @@
       "parent_asset_id": "image-362105aef8a1ea02f8c9",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6d0fe53e810b60196f918c8c9c03c2cac901c60081e836e20557ce036840bd5c",
       "size": 60984,
       "source_url": "https://store.bblcdn.com/s7/default/c6c53cd0d4ac47dbb4f8c1d13a3f947f/7_7df90e37-771e-404b-80f3-26a8225a6009.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9f/9fa586a71c17b820ef9486aadd36200300be15ceea1cda17d5786417d114f676.png",
       "id": "image-display-d8b955276ce5cec596eb",
       "image_processing": {
@@ -607,11 +694,13 @@
       "parent_asset_id": "image-9cff1d9b95a33e9d9866",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9fa586a71c17b820ef9486aadd36200300be15ceea1cda17d5786417d114f676",
       "size": 72321,
       "source_url": "https://store.bblcdn.com/s7/default/77ba17f9872543cfbf20ba47803c4f4f/BA001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f8/f84bc0f2c72eaabbcf8d837c497d5c009b81863641eca23ebc5cea8e8dc667b2.png",
       "id": "image-display-0c3f5f34b4b2829e5c63",
       "image_processing": {
@@ -629,11 +718,13 @@
       "parent_asset_id": "image-ca9c22e583949a6dbe7e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f84bc0f2c72eaabbcf8d837c497d5c009b81863641eca23ebc5cea8e8dc667b2",
       "size": 76589,
       "source_url": "https://store.bblcdn.com/s7/default/a49340f9b95141b6852aeec23f548606/BA001-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a4/a486d26e00e15037660cb80214144636f479502cc3d8c76b871b7db6b5c64274.png",
       "id": "image-display-664f69a929c641784875",
       "image_processing": {
@@ -651,6 +742,7 @@
       "parent_asset_id": "image-6190d924fca8d7d0ec7e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a486d26e00e15037660cb80214144636f479502cc3d8c76b871b7db6b5c64274",
       "size": 27227,
       "source_url": "https://store.bblcdn.com/s7/default/6f15417123a540a480f2d941c6c914a4/Frame_1123861623.png"
@@ -697,6 +789,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ba001-extension-springs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Extension Springs",
   "offers": [
@@ -708,6 +801,7 @@
       "price": "1.64",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/extension-springs?skr=yes"
     },
     {
@@ -718,6 +812,7 @@
       "price": "1.89",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/extension-springs?skr=yes"
     },
     {
@@ -728,6 +823,7 @@
       "price": "1.54",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/extension-springs?skr=yes"
     },
     {
@@ -738,6 +834,7 @@
       "price": "1.31",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/extension-springs?skr=yes"
     },
     {
@@ -748,6 +845,7 @@
       "price": "2.96",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/extension-springs?skr=yes"
     },
     {
@@ -758,6 +856,7 @@
       "price": "1.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/extension-springs?skr=yes"
     }
   ],
@@ -960,6 +1059,7 @@
     "Relative Position": "Side by side ; Inline",
     "Type": "Extension spring"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -970,6 +1070,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42741410168968",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x10 mm (10PCS) - BA001",
       "url": "https://us.store.bambulab.com/products/extension-springs?id=42741410168968",
       "variant_id": "42741410168968"
@@ -982,6 +1083,7 @@
       "price": "1.67",
       "region": "us",
       "sku": "42741410201736",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x15 mm (10PCS) - BA002",
       "url": "https://us.store.bambulab.com/products/extension-springs?id=42741410201736",
       "variant_id": "42741410201736"
@@ -994,6 +1096,7 @@
       "price": "1.75",
       "region": "us",
       "sku": "42741410234504",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x20 mm (10PCS) - BA003",
       "url": "https://us.store.bambulab.com/products/extension-springs?id=42741410234504",
       "variant_id": "42741410234504"
@@ -1006,6 +1109,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42741410267272",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x30 mm (5PCS) - BA004",
       "url": "https://us.store.bambulab.com/products/extension-springs?id=42741410267272",
       "variant_id": "42741410267272"
@@ -1018,6 +1122,7 @@
       "price": "1.75",
       "region": "us",
       "sku": "42741410300040",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x10 mm (10PCS) - BA005",
       "url": "https://us.store.bambulab.com/products/extension-springs?id=42741410300040",
       "variant_id": "42741410300040"
@@ -1030,6 +1135,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42741410332808",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x20 mm (5PCS) - BA006",
       "url": "https://us.store.bambulab.com/products/extension-springs?id=42741410332808",
       "variant_id": "42741410332808"
@@ -1042,6 +1148,7 @@
       "price": "1.75",
       "region": "us",
       "sku": "42741410365576",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x30 mm (5PCS) - BA007",
       "url": "https://us.store.bambulab.com/products/extension-springs?id=42741410365576",
       "variant_id": "42741410365576"
@@ -1054,6 +1161,7 @@
       "price": "1.86",
       "region": "us",
       "sku": "42741410398344",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x40 mm (5PCS) - BA008",
       "url": "https://us.store.bambulab.com/products/extension-springs?id=42741410398344",
       "variant_id": "42741410398344"
@@ -1066,6 +1174,7 @@
       "price": "1.89",
       "region": "ca",
       "sku": "46345697198320",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x10 mm (10PCS) - BA001",
       "url": "https://ca.store.bambulab.com/products/extension-springs?id=46345697198320",
       "variant_id": "46345697198320"
@@ -1078,6 +1187,7 @@
       "price": "1.92",
       "region": "ca",
       "sku": "46345697231088",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x15 mm (10PCS) - BA002",
       "url": "https://ca.store.bambulab.com/products/extension-springs?id=46345697231088",
       "variant_id": "46345697231088"
@@ -1090,6 +1200,7 @@
       "price": "2.01",
       "region": "ca",
       "sku": "46345697263856",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x20 mm (10PCS) - BA003",
       "url": "https://ca.store.bambulab.com/products/extension-springs?id=46345697263856",
       "variant_id": "46345697263856"
@@ -1102,6 +1213,7 @@
       "price": "1.89",
       "region": "ca",
       "sku": "46345697296624",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x30 mm (5PCS) - BA004",
       "url": "https://ca.store.bambulab.com/products/extension-springs?id=46345697296624",
       "variant_id": "46345697296624"
@@ -1114,6 +1226,7 @@
       "price": "2.01",
       "region": "ca",
       "sku": "46345697329392",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x10 mm (10PCS) - BA005",
       "url": "https://ca.store.bambulab.com/products/extension-springs?id=46345697329392",
       "variant_id": "46345697329392"
@@ -1126,6 +1239,7 @@
       "price": "1.89",
       "region": "ca",
       "sku": "46345697362160",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x20 mm (5PCS) - BA006",
       "url": "https://ca.store.bambulab.com/products/extension-springs?id=46345697362160",
       "variant_id": "46345697362160"
@@ -1138,6 +1252,7 @@
       "price": "2.01",
       "region": "ca",
       "sku": "46345697394928",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x30 mm (5PCS) - BA007",
       "url": "https://ca.store.bambulab.com/products/extension-springs?id=46345697394928",
       "variant_id": "46345697394928"
@@ -1150,6 +1265,7 @@
       "price": "2.14",
       "region": "ca",
       "sku": "46345697427696",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x40 mm (5PCS) - BA008",
       "url": "https://ca.store.bambulab.com/products/extension-springs?id=46345697427696",
       "variant_id": "46345697427696"
@@ -1162,6 +1278,7 @@
       "price": "1.54",
       "region": "eu",
       "sku": "49074576556380",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x10 mm (10PCS) - BA001",
       "url": "https://eu.store.bambulab.com/products/extension-springs?id=49074576556380",
       "variant_id": "49074576556380"
@@ -1174,6 +1291,7 @@
       "price": "1.57",
       "region": "eu",
       "sku": "49074576621916",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x15 mm (10PCS) - BA002",
       "url": "https://eu.store.bambulab.com/products/extension-springs?id=49074576621916",
       "variant_id": "49074576621916"
@@ -1186,6 +1304,7 @@
       "price": "1.65",
       "region": "eu",
       "sku": "49074576654684",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x20 mm (10PCS) - BA003",
       "url": "https://eu.store.bambulab.com/products/extension-springs?id=49074576654684",
       "variant_id": "49074576654684"
@@ -1198,6 +1317,7 @@
       "price": "1.54",
       "region": "eu",
       "sku": "49074576687452",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x30 mm (5PCS) - BA004",
       "url": "https://eu.store.bambulab.com/products/extension-springs?id=49074576687452",
       "variant_id": "49074576687452"
@@ -1210,6 +1330,7 @@
       "price": "1.65",
       "region": "eu",
       "sku": "49074576720220",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x10 mm (10PCS) - BA005",
       "url": "https://eu.store.bambulab.com/products/extension-springs?id=49074576720220",
       "variant_id": "49074576720220"
@@ -1222,6 +1343,7 @@
       "price": "1.54",
       "region": "eu",
       "sku": "49074576752988",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x20 mm (5PCS) - BA006",
       "url": "https://eu.store.bambulab.com/products/extension-springs?id=49074576752988",
       "variant_id": "49074576752988"
@@ -1234,6 +1356,7 @@
       "price": "1.65",
       "region": "eu",
       "sku": "49074576785756",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x30 mm (5PCS) - BA007",
       "url": "https://eu.store.bambulab.com/products/extension-springs?id=49074576785756",
       "variant_id": "49074576785756"
@@ -1246,6 +1369,7 @@
       "price": "1.75",
       "region": "eu",
       "sku": "49074576818524",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x40 mm (5PCS) - BA008",
       "url": "https://eu.store.bambulab.com/products/extension-springs?id=49074576818524",
       "variant_id": "49074576818524"
@@ -1258,6 +1382,7 @@
       "price": "1.31",
       "region": "uk",
       "sku": "42012855271484",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x10 mm (10PCS) - BA001",
       "url": "https://uk.store.bambulab.com/products/extension-springs?id=42012855271484",
       "variant_id": "42012855271484"
@@ -1270,6 +1395,7 @@
       "price": "1.34",
       "region": "uk",
       "sku": "42012855304252",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x15 mm (10PCS) - BA002",
       "url": "https://uk.store.bambulab.com/products/extension-springs?id=42012855304252",
       "variant_id": "42012855304252"
@@ -1282,6 +1408,7 @@
       "price": "1.4",
       "region": "uk",
       "sku": "42012855337020",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x20 mm (10PCS) - BA003",
       "url": "https://uk.store.bambulab.com/products/extension-springs?id=42012855337020",
       "variant_id": "42012855337020"
@@ -1294,6 +1421,7 @@
       "price": "1.31",
       "region": "uk",
       "sku": "42012855369788",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x30 mm (5PCS) - BA004",
       "url": "https://uk.store.bambulab.com/products/extension-springs?id=42012855369788",
       "variant_id": "42012855369788"
@@ -1306,6 +1434,7 @@
       "price": "1.4",
       "region": "uk",
       "sku": "42012855402556",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x10 mm (10PCS) - BA005",
       "url": "https://uk.store.bambulab.com/products/extension-springs?id=42012855402556",
       "variant_id": "42012855402556"
@@ -1318,6 +1447,7 @@
       "price": "1.31",
       "region": "uk",
       "sku": "42012855435324",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x20 mm (5PCS) - BA006",
       "url": "https://uk.store.bambulab.com/products/extension-springs?id=42012855435324",
       "variant_id": "42012855435324"
@@ -1330,6 +1460,7 @@
       "price": "1.4",
       "region": "uk",
       "sku": "42012855468092",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x30 mm (5PCS) - BA007",
       "url": "https://uk.store.bambulab.com/products/extension-springs?id=42012855468092",
       "variant_id": "42012855468092"
@@ -1342,6 +1473,7 @@
       "price": "1.49",
       "region": "uk",
       "sku": "42012855500860",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x40 mm (5PCS) - BA008",
       "url": "https://uk.store.bambulab.com/products/extension-springs?id=42012855500860",
       "variant_id": "42012855500860"
@@ -1354,6 +1486,7 @@
       "price": "2.96",
       "region": "au",
       "sku": "44826636255395",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x10 mm (10PCS) - BA001",
       "url": "https://au.store.bambulab.com/products/extension-springs?id=44826636255395",
       "variant_id": "44826636255395"
@@ -1366,6 +1499,7 @@
       "price": "3.02",
       "region": "au",
       "sku": "44826636288163",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x15 mm (10PCS) - BA002",
       "url": "https://au.store.bambulab.com/products/extension-springs?id=44826636288163",
       "variant_id": "44826636288163"
@@ -1378,6 +1512,7 @@
       "price": "3.16",
       "region": "au",
       "sku": "44826636320931",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x20 mm (10PCS) - BA003",
       "url": "https://au.store.bambulab.com/products/extension-springs?id=44826636320931",
       "variant_id": "44826636320931"
@@ -1390,6 +1525,7 @@
       "price": "2.96",
       "region": "au",
       "sku": "44826636353699",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x30 mm (5PCS) - BA004",
       "url": "https://au.store.bambulab.com/products/extension-springs?id=44826636353699",
       "variant_id": "44826636353699"
@@ -1402,6 +1538,7 @@
       "price": "3.16",
       "region": "au",
       "sku": "44826636386467",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x10 mm (10PCS) - BA005",
       "url": "https://au.store.bambulab.com/products/extension-springs?id=44826636386467",
       "variant_id": "44826636386467"
@@ -1414,6 +1551,7 @@
       "price": "2.96",
       "region": "au",
       "sku": "44826636419235",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x20 mm (5PCS) - BA006",
       "url": "https://au.store.bambulab.com/products/extension-springs?id=44826636419235",
       "variant_id": "44826636419235"
@@ -1426,6 +1564,7 @@
       "price": "3.16",
       "region": "au",
       "sku": "44826636452003",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x30 mm (5PCS) - BA007",
       "url": "https://au.store.bambulab.com/products/extension-springs?id=44826636452003",
       "variant_id": "44826636452003"
@@ -1438,6 +1577,7 @@
       "price": "3.36",
       "region": "au",
       "sku": "44826636484771",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x40 mm (5PCS) - BA008",
       "url": "https://au.store.bambulab.com/products/extension-springs?id=44826636484771",
       "variant_id": "44826636484771"
@@ -1450,6 +1590,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "42098345443443",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x10 mm (10PCS) - BA001",
       "url": "https://asia.store.bambulab.com/products/extension-springs?id=42098345443443",
       "variant_id": "42098345443443"
@@ -1462,6 +1603,7 @@
       "price": "1.52",
       "region": "asia",
       "sku": "42098345476211",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x15 mm (10PCS) - BA002",
       "url": "https://asia.store.bambulab.com/products/extension-springs?id=42098345476211",
       "variant_id": "42098345476211"
@@ -1474,6 +1616,7 @@
       "price": "1.59",
       "region": "asia",
       "sku": "42098345508979",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x20 mm (10PCS) - BA003",
       "url": "https://asia.store.bambulab.com/products/extension-springs?id=42098345508979",
       "variant_id": "42098345508979"
@@ -1486,6 +1629,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "42098345541747",
+      "store_id": "",
       "title": "Extension Springs - 0.4x3x30 mm (5PCS) - BA004",
       "url": "https://asia.store.bambulab.com/products/extension-springs?id=42098345541747",
       "variant_id": "42098345541747"
@@ -1498,6 +1642,7 @@
       "price": "1.59",
       "region": "asia",
       "sku": "42098345574515",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x10 mm (10PCS) - BA005",
       "url": "https://asia.store.bambulab.com/products/extension-springs?id=42098345574515",
       "variant_id": "42098345574515"
@@ -1510,6 +1655,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "42098345607283",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x20 mm (5PCS) - BA006",
       "url": "https://asia.store.bambulab.com/products/extension-springs?id=42098345607283",
       "variant_id": "42098345607283"
@@ -1522,6 +1668,7 @@
       "price": "1.59",
       "region": "asia",
       "sku": "42098345640051",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x30 mm (5PCS) - BA007",
       "url": "https://asia.store.bambulab.com/products/extension-springs?id=42098345640051",
       "variant_id": "42098345640051"
@@ -1534,6 +1681,7 @@
       "price": "1.69",
       "region": "asia",
       "sku": "42098345672819",
+      "store_id": "",
       "title": "Extension Springs - 0.5x5x40 mm (5PCS) - BA008",
       "url": "https://asia.store.bambulab.com/products/extension-springs?id=42098345672819",
       "variant_id": "42098345672819"

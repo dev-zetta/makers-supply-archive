@@ -4,36 +4,49 @@
     {
       "handle": "911-gt3-1-10-scale-display-model-car",
       "product_id": "645505702303723520",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "911-gt3-1-10-scale-display-model-car",
       "product_id": "645513597373882368",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "911-gt3-1-10-scale-display-model-car",
       "product_id": "645513140043161600",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "911-gt3-1-10-scale-display-model-car",
       "product_id": "645513945129086976",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "911-gt3-1-10-scale-display-model-car",
       "product_id": "645514120014118912",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "911-gt3-1-10-scale-display-model-car",
       "product_id": "645511410132807680",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e3/e3d8b2965ee346b760a05fc995378b73acfae58ce62cc76c365230c5d62f9b75.png",
       "id": "image-1129f0ff6918196c8c97",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH100_F.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e3d8b2965ee346b760a05fc995378b73acfae58ce62cc76c365230c5d62f9b75",
       "size": 4187604,
       "source_url": "https://store.bblcdn.com/s5/default/91ce4b198b8e4ebfa3b3c7a64cc3838a/B-ZH100_F.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e6/e6e98da99dc17593b2428843da0a8677ba0313182872003082757c474b64ec45.png",
       "id": "image-61abc45f15619160a5b4",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH100.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e6e98da99dc17593b2428843da0a8677ba0313182872003082757c474b64ec45",
       "size": 251374,
       "source_url": "https://store.bblcdn.com/s5/default/3432c76761fb4d139b3fd946e4470f9d/B-ZH100.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/45/45126b2634a50c645c0ca98d06f5412bd9873883ec232194feb7771bb1f96841.png",
       "id": "image-display-ad6dfab75f017c2cd45b",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-1129f0ff6918196c8c97",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "45126b2634a50c645c0ca98d06f5412bd9873883ec232194feb7771bb1f96841",
       "size": 840882,
       "source_url": "https://store.bblcdn.com/s5/default/91ce4b198b8e4ebfa3b3c7a64cc3838a/B-ZH100_F.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8c/8cdf0f87926d65564216666c8ad98cf02cffc9172d352ae8018e8879f471cec9.png",
       "id": "image-display-abc84e9d55d5c838614b",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-61abc45f15619160a5b4",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8cdf0f87926d65564216666c8ad98cf02cffc9172d352ae8018e8879f471cec9",
       "size": 68506,
       "source_url": "https://store.bblcdn.com/s5/default/3432c76761fb4d139b3fd946e4470f9d/B-ZH100.png"
@@ -167,6 +187,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh100-911-gt3-1-10-scale-display-model-car",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "911 GT3 - 1:10 Scale Display Model Car",
   "offers": [
@@ -178,6 +199,7 @@
       "price": "7.35",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/911-gt3-1-10-scale-display-model-car?skr=yes"
     },
     {
@@ -188,6 +210,7 @@
       "price": "8.44",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/911-gt3-1-10-scale-display-model-car?skr=yes"
     },
     {
@@ -198,6 +221,7 @@
       "price": "7.63",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/911-gt3-1-10-scale-display-model-car?skr=yes"
     },
     {
@@ -208,6 +232,7 @@
       "price": "5.89",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/911-gt3-1-10-scale-display-model-car?skr=yes"
     },
     {
@@ -218,6 +243,7 @@
       "price": "13.28",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/911-gt3-1-10-scale-display-model-car?skr=yes"
     },
     {
@@ -228,6 +254,7 @@
       "price": "6.69",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/911-gt3-1-10-scale-display-model-car?skr=yes"
     }
   ],
@@ -285,6 +312,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -297,6 +325,7 @@
       "price": "7.35",
       "region": "us",
       "sku": "645505702316306434",
+      "store_id": "",
       "title": "911 GT3 - 1:10 Scale Display Model Car - 911 GT3 - 1:10 Scale Display Model Car - ZH100",
       "url": "https://us.store.bambulab.com/products/911-gt3-1-10-scale-display-model-car?id=645505702316306434",
       "variant_id": "645505702316306434"
@@ -309,6 +338,7 @@
       "price": "8.44",
       "region": "ca",
       "sku": "645513597386465282",
+      "store_id": "",
       "title": "911 GT3 - 1:10 Scale Display Model Car - 911 GT3 - 1:10 Scale Display Model Car - ZH100",
       "url": "https://ca.store.bambulab.com/products/911-gt3-1-10-scale-display-model-car?id=645513597386465282",
       "variant_id": "645513597386465282"
@@ -321,6 +351,7 @@
       "price": "7.63",
       "region": "eu",
       "sku": "645513140059938818",
+      "store_id": "",
       "title": "911 GT3 - 1:10 Scale Display Model Car - 911 GT3 - 1:10 Scale Display Model Car - ZH100",
       "url": "https://eu.store.bambulab.com/products/911-gt3-1-10-scale-display-model-car?id=645513140059938818",
       "variant_id": "645513140059938818"
@@ -333,6 +364,7 @@
       "price": "5.89",
       "region": "uk",
       "sku": "645513945145864194",
+      "store_id": "",
       "title": "911 GT3 - 1:10 Scale Display Model Car - 911 GT3 - 1:10 Scale Display Model Car - ZH100",
       "url": "https://uk.store.bambulab.com/products/911-gt3-1-10-scale-display-model-car?id=645513945145864194",
       "variant_id": "645513945145864194"
@@ -345,6 +377,7 @@
       "price": "13.28",
       "region": "au",
       "sku": "645514120026701826",
+      "store_id": "",
       "title": "911 GT3 - 1:10 Scale Display Model Car - 911 GT3 - 1:10 Scale Display Model Car - ZH100",
       "url": "https://au.store.bambulab.com/products/911-gt3-1-10-scale-display-model-car?id=645514120026701826",
       "variant_id": "645514120026701826"
@@ -357,6 +390,7 @@
       "price": "6.69",
       "region": "asia",
       "sku": "645511410149584898",
+      "store_id": "",
       "title": "911 GT3 - 1:10 Scale Display Model Car - 911 GT3 - 1:10 Scale Display Model Car - ZH100",
       "url": "https://asia.store.bambulab.com/products/911-gt3-1-10-scale-display-model-car?id=645511410149584898",
       "variant_id": "645511410149584898"

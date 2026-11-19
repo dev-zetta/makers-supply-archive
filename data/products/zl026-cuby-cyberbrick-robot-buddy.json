@@ -4,31 +4,42 @@
     {
       "handle": "cuby-cyberbrick-robot-buddy",
       "product_id": "742903729213906944",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cuby-cyberbrick-robot-buddy",
       "product_id": "742903223126257664",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cuby-cyberbrick-robot-buddy",
       "product_id": "742903892402536448",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cuby-cyberbrick-robot-buddy",
       "product_id": "742903436602466304",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cuby-cyberbrick-robot-buddy",
       "product_id": "742902919208603648",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5b/5bb7af713b09abdd5ab9d4b0a8475f3091e92a72b1f03445023f56731f8e5671.png",
       "id": "image-578c9e6ca3ed90fa3243",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "cuby.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5bb7af713b09abdd5ab9d4b0a8475f3091e92a72b1f03445023f56731f8e5671",
       "size": 1322801,
       "source_url": "https://store.bblcdn.com/s7/default/db2009f49d604a72952ca850985b7714/cuby.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bc44f11c0dfc083629675738c95fb7855ed41e11a00184fc2475ef3d5b2bc098.png",
       "id": "image-e6251996301b70f01438",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "cuby-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bc44f11c0dfc083629675738c95fb7855ed41e11a00184fc2475ef3d5b2bc098",
       "size": 1602092,
       "source_url": "https://store.bblcdn.com/s7/default/0f2a693b15aa48aca45e78e26d80c4d9/cuby-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/94/947817cf986562b264fa91ce64f3d438a5d3de2d4245c0337bd3f9f86834d284.jpg",
       "id": "image-f2c88840203d69bd5ee6",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "Cover-Vibrant-Alternative.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "947817cf986562b264fa91ce64f3d438a5d3de2d4245c0337bd3f9f86834d284",
       "size": 1273036,
       "source_url": "https://store.bblcdn.com/s7/default/3c34c545cd6a4a3a89f875460848cfdc/Cover-Vibrant-Alternative.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/84/84f14372f69cba18bf504c3a244bdcf46639ef3038e9e173a0e6ed75a1b90bcd.png",
       "id": "image-d96afcec2e8da96b56b0",
       "kind": "image",
@@ -72,11 +89,13 @@
       "original_filename": "Cover-Vibrant.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "84f14372f69cba18bf504c3a244bdcf46639ef3038e9e173a0e6ed75a1b90bcd",
       "size": 1508269,
       "source_url": "https://store.bblcdn.com/s7/default/25b307242bb24cc8bdd13fd7f28efe8c/Cover-Vibrant.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/99/99659c534e0bb814e00c43b3288bac123e012b65a5b8eea83eeb874affbe3412.pdf",
       "id": "document-c4fe347cc73d9826b500",
       "kind": "document",
@@ -84,11 +103,13 @@
       "original_filename": "CUBY_-_ASSEMBLY_INSTRUCTIONS_V1.1c.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "99659c534e0bb814e00c43b3288bac123e012b65a5b8eea83eeb874affbe3412",
       "size": 10828709,
       "source_url": "https://store.bblcdn.com/s1/default/bdf9085ae94a4fa292f33c265c554062/CUBY_-_ASSEMBLY_INSTRUCTIONS_V1.1c.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3d/3dfaa362ee7ec6e97d527e0d16a4286bf1a7ddd81dfddc060bb15143f548900f.png",
       "id": "image-display-45c573dfa829746056d4",
       "image_processing": {
@@ -106,11 +127,13 @@
       "parent_asset_id": "image-578c9e6ca3ed90fa3243",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3dfaa362ee7ec6e97d527e0d16a4286bf1a7ddd81dfddc060bb15143f548900f",
       "size": 415678,
       "source_url": "https://store.bblcdn.com/s7/default/db2009f49d604a72952ca850985b7714/cuby.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ac/ac453b135b293489ce6659471509327264904f86f5d4296acddbc65b2f97a431.png",
       "id": "image-display-676e5c636a8713928e9a",
       "image_processing": {
@@ -128,11 +151,13 @@
       "parent_asset_id": "image-e6251996301b70f01438",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ac453b135b293489ce6659471509327264904f86f5d4296acddbc65b2f97a431",
       "size": 421151,
       "source_url": "https://store.bblcdn.com/s7/default/0f2a693b15aa48aca45e78e26d80c4d9/cuby-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e9/e9d49e15f0b38be2d372681fe3ca0331c1af14a3756fe6ca66dcb952b704410b.png",
       "id": "image-display-1b91d886d01f7ac69b97",
       "image_processing": {
@@ -150,11 +175,13 @@
       "parent_asset_id": "image-f2c88840203d69bd5ee6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e9d49e15f0b38be2d372681fe3ca0331c1af14a3756fe6ca66dcb952b704410b",
       "size": 645980,
       "source_url": "https://store.bblcdn.com/s7/default/3c34c545cd6a4a3a89f875460848cfdc/Cover-Vibrant-Alternative.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/35/351d4758fee4dd1e2e61a56b5707edd362235ecf23ab5460f353432ca506a8f4.png",
       "id": "image-display-b6bff3b7363f2235dfc3",
       "image_processing": {
@@ -172,6 +199,7 @@
       "parent_asset_id": "image-d96afcec2e8da96b56b0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "351d4758fee4dd1e2e61a56b5707edd362235ecf23ab5460f353432ca506a8f4",
       "size": 507062,
       "source_url": "https://store.bblcdn.com/s7/default/25b307242bb24cc8bdd13fd7f28efe8c/Cover-Vibrant.png"
@@ -424,7 +452,8 @@
   "description_text": "Bring your CUBY to life with movement and lights. The floating irises make it look like CUBY is always following you with its eyes. The unique illuminated 3D eyes are not only cute but express emotions with different colors and patterns that can be personalized with the CyberBrick app.\n\nBring character to your CUBY with different accessories. Print your style from the expanding library of accessories in MakerWorld or remix and design your own.\n\nCUBY features a great range of movement for such a small robot. Direct control to each of its four servo motors gives you full power over its movement. Can you master the one-legged turn?\n\nMastering CUBY is like learning to walk again - literally. Walking, turning, dancing and jumping all take practice. The reward is seeing your CUBY come to life with every step … and fall.\n\nAt the heart of CUBY is the CyberBrick Core and the battery that powers it. Both are easily accessible for swapping by squeezing and lifting the head open.\n\nThis model is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl026-cuby-cyberbrick-robot-buddy",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "CUBY - CyberBrick Robot Buddy",
   "offers": [
@@ -436,6 +465,7 @@
       "price": "48.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/cuby-cyberbrick-robot-buddy?skr=yes"
     },
     {
@@ -446,6 +476,7 @@
       "price": "66.49",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/cuby-cyberbrick-robot-buddy?skr=yes"
     },
     {
@@ -456,6 +487,7 @@
       "price": "50.39",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/cuby-cyberbrick-robot-buddy?skr=yes"
     },
     {
@@ -466,6 +498,7 @@
       "price": "41.29",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/cuby-cyberbrick-robot-buddy?skr=yes"
     },
     {
@@ -476,6 +509,7 @@
       "price": "78.39",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/cuby-cyberbrick-robot-buddy?skr=yes"
     }
   ],
@@ -552,6 +586,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -562,6 +597,7 @@
       "price": "48.99",
       "region": "us",
       "sku": "742903729230684165",
+      "store_id": "",
       "title": "CUBY - CyberBrick Robot Buddy - Yes - Remote Included / Robot CUBY - Remote included - ZL026",
       "url": "https://us.store.bambulab.com/products/cuby-cyberbrick-robot-buddy?id=742903729230684165",
       "variant_id": "742903729230684165"
@@ -574,6 +610,7 @@
       "price": "32.19",
       "region": "us",
       "sku": "742903729230684170",
+      "store_id": "",
       "title": "CUBY - CyberBrick Robot Buddy - No - Robot Only / Robot CUBY - Remote not included - ZL026-1",
       "url": "https://us.store.bambulab.com/products/cuby-cyberbrick-robot-buddy?id=742903729230684170",
       "variant_id": "742903729230684170"
@@ -586,6 +623,7 @@
       "price": "66.49",
       "region": "ca",
       "sku": "742903223143034886",
+      "store_id": "",
       "title": "CUBY - CyberBrick Robot Buddy - Yes - Remote Included / Robot CUBY - Remote included - ZL026",
       "url": "https://ca.store.bambulab.com/products/cuby-cyberbrick-robot-buddy?id=742903223143034886",
       "variant_id": "742903223143034886"
@@ -598,6 +636,7 @@
       "price": "41.99",
       "region": "ca",
       "sku": "742903223143034891",
+      "store_id": "",
       "title": "CUBY - CyberBrick Robot Buddy - No - Robot Only / Robot CUBY - Remote not included - ZL026-1",
       "url": "https://ca.store.bambulab.com/products/cuby-cyberbrick-robot-buddy?id=742903223143034891",
       "variant_id": "742903223143034891"
@@ -610,6 +649,7 @@
       "price": "50.39",
       "region": "eu",
       "sku": "742903892419313670",
+      "store_id": "",
       "title": "CUBY - CyberBrick Robot Buddy - Yes - Remote Included / Robot CUBY - Remote included - ZL026",
       "url": "https://eu.store.bambulab.com/products/cuby-cyberbrick-robot-buddy?id=742903892419313670",
       "variant_id": "742903892419313670"
@@ -622,6 +662,7 @@
       "price": "33.59",
       "region": "eu",
       "sku": "742903892419313677",
+      "store_id": "",
       "title": "CUBY - CyberBrick Robot Buddy - No - Robot Only / Robot CUBY - Remote not included - ZL026-1",
       "url": "https://eu.store.bambulab.com/products/cuby-cyberbrick-robot-buddy?id=742903892419313677",
       "variant_id": "742903892419313677"
@@ -634,6 +675,7 @@
       "price": "41.29",
       "region": "uk",
       "sku": "742903436623437830",
+      "store_id": "",
       "title": "CUBY - CyberBrick Robot Buddy - Yes - Remote Included / Robot CUBY - Remote included - ZL026",
       "url": "https://uk.store.bambulab.com/products/cuby-cyberbrick-robot-buddy?id=742903436623437830",
       "variant_id": "742903436623437830"
@@ -646,6 +688,7 @@
       "price": "27.29",
       "region": "uk",
       "sku": "742903436623437835",
+      "store_id": "",
       "title": "CUBY - CyberBrick Robot Buddy - No - Robot Only / Robot CUBY - Remote not included - ZL026-1",
       "url": "https://uk.store.bambulab.com/products/cuby-cyberbrick-robot-buddy?id=742903436623437835",
       "variant_id": "742903436623437835"
@@ -658,6 +701,7 @@
       "price": "78.39",
       "region": "au",
       "sku": "742902919225380870",
+      "store_id": "",
       "title": "CUBY - CyberBrick Robot Buddy - Yes - Remote Included / Robot CUBY - Remote included - ZL026",
       "url": "https://au.store.bambulab.com/products/cuby-cyberbrick-robot-buddy?id=742902919225380870",
       "variant_id": "742902919225380870"
@@ -670,6 +714,7 @@
       "price": "52.49",
       "region": "au",
       "sku": "742902919225380875",
+      "store_id": "",
       "title": "CUBY - CyberBrick Robot Buddy - No - Robot Only / Robot CUBY - Remote not included - ZL026-1",
       "url": "https://au.store.bambulab.com/products/cuby-cyberbrick-robot-buddy?id=742902919225380875",
       "variant_id": "742902919225380875"

@@ -4,31 +4,42 @@
     {
       "handle": "fcyberbrick-official-forklift-and-truck",
       "product_id": "672695215523749888",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "fcyberbrick-official-forklift-and-truck",
       "product_id": "672684990049079296",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "fcyberbrick-official-forklift-and-truck",
       "product_id": "672695604933201920",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "fcyberbrick-official-forklift-and-truck",
       "product_id": "672695085265465344",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "fcyberbrick-official-forklift-and-truck",
       "product_id": "672694963406553088",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/65/652cea7f6edf2fd9e631bf6685e7643b7d5eed5defee84db19efd77cc9e1fabc.png",
       "id": "image-df6aa0fabf9bf044ee38",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "Frame_1123867437.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "652cea7f6edf2fd9e631bf6685e7643b7d5eed5defee84db19efd77cc9e1fabc",
       "size": 4085382,
       "source_url": "https://store.bblcdn.com/s7/default/84da67d46b9047ec97a41a59b42f923f/Frame_1123867437.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e6/e694b93f4e50a4c945569095d15beade0b9925571dad79999655b0a0b1c430e4.png",
       "id": "image-436a6421b52a5832d458",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "Frame_1123867438.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e694b93f4e50a4c945569095d15beade0b9925571dad79999655b0a0b1c430e4",
       "size": 4226503,
       "source_url": "https://store.bblcdn.com/s7/default/5a6b21515e154e40989ce36d250ef962/Frame_1123867438.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4b/4be5ccb49ceb9509a45c1d2b5aebd4fb6c09f8ac8646cfaaf3632a62829fc945.png",
       "id": "image-79d70624f0e20655d6f4",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "Frame_1123867436.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4be5ccb49ceb9509a45c1d2b5aebd4fb6c09f8ac8646cfaaf3632a62829fc945",
       "size": 3835044,
       "source_url": "https://store.bblcdn.com/s7/default/87ffcd59374d4545b46840ff690f9c9e/Frame_1123867436.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3d/3d1201b8d616b47207d258c163daee2e31ee119db772dae33a64ecee1263e1de.png",
       "id": "image-df96fb24d8308553153b",
       "kind": "image",
@@ -72,11 +89,13 @@
       "original_filename": "Frame_1123867439.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3d1201b8d616b47207d258c163daee2e31ee119db772dae33a64ecee1263e1de",
       "size": 3500888,
       "source_url": "https://store.bblcdn.com/s7/default/560941e470834fdcbbe0900275803da6/Frame_1123867439.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c5/c552070b0a4661f383a87a48e10e19f0a897422b4741f857fa7679eb1c1715d6.png",
       "id": "image-692069e1c0187f6bde8e",
       "kind": "image",
@@ -84,11 +103,13 @@
       "original_filename": "Frame_1123867394.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c552070b0a4661f383a87a48e10e19f0a897422b4741f857fa7679eb1c1715d6",
       "size": 4178984,
       "source_url": "https://store.bblcdn.com/s7/default/4e1aa887a52b472f91cce3aa056f9805/Frame_1123867394.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8d/8df7c17044cba785f7e2d78aa8dcad839a9ee2f57d96914e7399b8ebe2517633.zip",
       "id": "archive-93c7fce1daba264e0f9f",
       "kind": "archive",
@@ -96,11 +117,13 @@
       "original_filename": "Assembly_Guide.zip",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8df7c17044cba785f7e2d78aa8dcad839a9ee2f57d96914e7399b8ebe2517633",
       "size": 31365842,
       "source_url": "https://store.bblcdn.com/s1/default/04e1d42d51b048fd8baf941f59799466/Assembly_Guide.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/10/10861b41678c6b27a974ef9d3561feebb0e517cd955dee3ff8eb3587fc3d00d4.zip",
       "id": "archive-3eeb70cd9879578d7a9c",
       "kind": "archive",
@@ -108,11 +131,13 @@
       "original_filename": "Downloads.zip",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "10861b41678c6b27a974ef9d3561feebb0e517cd955dee3ff8eb3587fc3d00d4",
       "size": 4173,
       "source_url": "https://store.bblcdn.eu/s8/default/a5eb53ded74041c89b516b6897465be6/Downloads.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c6/c6f3a8c414bf9687fd2a5b4aa468786be2222ab264eeee63403b161bbd57033e.png",
       "id": "image-display-2f99a72f267d9d7e753d",
       "image_processing": {
@@ -130,11 +155,13 @@
       "parent_asset_id": "image-df6aa0fabf9bf044ee38",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c6f3a8c414bf9687fd2a5b4aa468786be2222ab264eeee63403b161bbd57033e",
       "size": 918506,
       "source_url": "https://store.bblcdn.com/s7/default/84da67d46b9047ec97a41a59b42f923f/Frame_1123867437.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e1/e1a09ac7a0d4d787afe30ebb796b538d3a96b2e766bd5a580de3172a03128d28.png",
       "id": "image-display-23eec6ddc4d6b61eea6c",
       "image_processing": {
@@ -152,11 +179,13 @@
       "parent_asset_id": "image-436a6421b52a5832d458",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e1a09ac7a0d4d787afe30ebb796b538d3a96b2e766bd5a580de3172a03128d28",
       "size": 992573,
       "source_url": "https://store.bblcdn.com/s7/default/5a6b21515e154e40989ce36d250ef962/Frame_1123867438.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ca/cacc269d61815f055ffe78d06a22680394693dda327a715eb03f64d761151555.png",
       "id": "image-display-ed40ca8d4fcd3d53712d",
       "image_processing": {
@@ -174,11 +203,13 @@
       "parent_asset_id": "image-79d70624f0e20655d6f4",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cacc269d61815f055ffe78d06a22680394693dda327a715eb03f64d761151555",
       "size": 900446,
       "source_url": "https://store.bblcdn.com/s7/default/87ffcd59374d4545b46840ff690f9c9e/Frame_1123867436.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/44/4440089531bf6a17c977cd75f248b895a675c1e538860066aeca3f10912d1f3f.png",
       "id": "image-display-93f99c6a347564ca8397",
       "image_processing": {
@@ -196,11 +227,13 @@
       "parent_asset_id": "image-df96fb24d8308553153b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4440089531bf6a17c977cd75f248b895a675c1e538860066aeca3f10912d1f3f",
       "size": 909694,
       "source_url": "https://store.bblcdn.com/s7/default/560941e470834fdcbbe0900275803da6/Frame_1123867439.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8b/8b0158f0d10f2a4ed442d402b92d42e293fdcbf7f41155be202de71b965aac63.png",
       "id": "image-display-2058fe994e0099bfda96",
       "image_processing": {
@@ -218,6 +251,7 @@
       "parent_asset_id": "image-692069e1c0187f6bde8e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8b0158f0d10f2a4ed442d402b92d42e293fdcbf7f41155be202de71b965aac63",
       "size": 851640,
       "source_url": "https://store.bblcdn.com/s7/default/4e1aa887a52b472f91cce3aa056f9805/Frame_1123867394.png"
@@ -397,7 +431,8 @@
   "description_text": "Discover the ultimate tabletop logistics experience with this compact remote-controlled forklift and truck set. Despite its small size, it delivers pro-level performance with fully proportional steering and throttle control. The intricately 3D-printed details include a functional telescoping mast and rear differential for rigorous realism. Through multi-device connectivity, seamlessly toggle between vehicles for cooperative play—all in a 3D-printed miniature warehouse setting. Precision engineering meets immersive fun!\n\nFind all files and RC Frameworks on their MakerWorld pages: Forklift Truck Lift & Load Combo\n\n*For a smooth build, we recommend reviewing the assembly guide first.\n\nDon’t let the cute design fool you—hidden inside are high-performance specs, including fully proportional steering and throttle control, a rare feature at this scale.\n\nThis vehicle kit features a cabinet-driven telescoping mast on the forklift and a functional rear differential on the truck—where 3D printing meets uncompromised detail.\n\nThe multi-device connection enables real-time toggling between vehicles, so you can team up with yourself for a co-op game right at your table!\n\nThe Forklift and Truck are designed to work with the CyberBrick Official Remote. Pre-configured settings have been uploaded for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions. Visit Wiki\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nExplore the Product Wiki & Documentation\n\nNeed in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nVisit Wiki\n\nTo ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product.\n\nIntended Users: This product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use.\n\nFirmware Safety: Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nOperational Safety: Do not touch the moving tracks or wheels while the device is operating to prevent pinching injuries.\n\nBattery & Charging: DO NOT use chargers with output higher than 5V or 2A, only the officially designated battery and charger must be used. Avoid exposing the battery to high temperatures or water.\n\nMaintenance & Storage: Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nOur company is not liable for any equipment damage, failure, fire, or other loss caused by non-compliance with the above requirements.\n\nPlease strictly follow the safety instructions for this product.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl010-fcyberbrick-official-forklift-and-truck",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "CyberBrick Official Forklift and Truck",
   "offers": [
@@ -409,6 +444,7 @@
       "price": "61.59",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/fcyberbrick-official-forklift-and-truck?skr=yes"
     },
     {
@@ -419,6 +455,7 @@
       "price": "81.9",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/fcyberbrick-official-forklift-and-truck?skr=yes"
     },
     {
@@ -429,6 +466,7 @@
       "price": "62.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/fcyberbrick-official-forklift-and-truck?skr=yes"
     },
     {
@@ -439,6 +477,7 @@
       "price": "51.09",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/fcyberbrick-official-forklift-and-truck?skr=yes"
     },
     {
@@ -449,6 +488,7 @@
       "price": "93.1",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/fcyberbrick-official-forklift-and-truck?skr=yes"
     }
   ],
@@ -559,6 +599,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -571,6 +612,7 @@
       "price": "61.59",
       "region": "us",
       "sku": "672695215536332804",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CB Official Lift and Load Combo (2 Cars 2 Remotes) - ZL010",
       "url": "https://us.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672695215536332804",
       "variant_id": "672695215536332804"
@@ -583,6 +625,7 @@
       "price": "34.99",
       "region": "us",
       "sku": "672695215536332808",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CyberBrick Official Truck (1 Car 1 Remote) - ZL011",
       "url": "https://us.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672695215536332808",
       "variant_id": "672695215536332808"
@@ -595,6 +638,7 @@
       "price": "34.99",
       "region": "us",
       "sku": "672695215536332812",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CyberBrick Official Forklift (1 Car 1 Remote) - ZL012",
       "url": "https://us.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672695215536332812",
       "variant_id": "672695215536332812"
@@ -607,6 +651,7 @@
       "price": "81.9",
       "region": "ca",
       "sku": "672684990091022340",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CB Official Lift and Load Combo (2 Cars 2 Remotes) - ZL010",
       "url": "https://ca.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672684990091022340",
       "variant_id": "672684990091022340"
@@ -619,6 +664,7 @@
       "price": "46.89",
       "region": "ca",
       "sku": "672684990095216643",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CyberBrick Official Truck (1 Car 1 Remote) - ZL011",
       "url": "https://ca.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672684990095216643",
       "variant_id": "672684990095216643"
@@ -631,6 +677,7 @@
       "price": "46.89",
       "region": "ca",
       "sku": "672684990095216647",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CyberBrick Official Forklift (1 Car 1 Remote) - ZL012",
       "url": "https://ca.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672684990095216647",
       "variant_id": "672684990095216647"
@@ -643,6 +690,7 @@
       "price": "62.99",
       "region": "eu",
       "sku": "672695604945784836",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CB Official Lift and Load Combo (2 Cars 2 Remotes) - ZL010",
       "url": "https://eu.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672695604945784836",
       "variant_id": "672695604945784836"
@@ -655,6 +703,7 @@
       "price": "36.39",
       "region": "eu",
       "sku": "672695604945784840",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CyberBrick Official Truck (1 Car 1 Remote) - ZL011",
       "url": "https://eu.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672695604945784840",
       "variant_id": "672695604945784840"
@@ -667,6 +716,7 @@
       "price": "36.39",
       "region": "eu",
       "sku": "672695604945784844",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CyberBrick Official Forklift (1 Car 1 Remote) - ZL012",
       "url": "https://eu.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672695604945784844",
       "variant_id": "672695604945784844"
@@ -679,6 +729,7 @@
       "price": "51.09",
       "region": "uk",
       "sku": "672695085278048260",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CB Official Lift and Load Combo (2 Cars 2 Remotes) - ZL010",
       "url": "https://uk.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672695085278048260",
       "variant_id": "672695085278048260"
@@ -691,6 +742,7 @@
       "price": "29.39",
       "region": "uk",
       "sku": "672695085282242563",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CyberBrick Official Truck (1 Car 1 Remote) - ZL011",
       "url": "https://uk.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672695085282242563",
       "variant_id": "672695085282242563"
@@ -703,6 +755,7 @@
       "price": "29.39",
       "region": "uk",
       "sku": "672695085282242567",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CyberBrick Official Forklift (1 Car 1 Remote) - ZL012",
       "url": "https://uk.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672695085282242567",
       "variant_id": "672695085282242567"
@@ -715,6 +768,7 @@
       "price": "93.1",
       "region": "au",
       "sku": "672694963423330308",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CB Official Lift and Load Combo (2 Cars 2 Remotes) - ZL010",
       "url": "https://au.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672694963423330308",
       "variant_id": "672694963423330308"
@@ -727,6 +781,7 @@
       "price": "51.09",
       "region": "au",
       "sku": "672694963423330312",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CyberBrick Official Truck (1 Car 1 Remote) - ZL011",
       "url": "https://au.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672694963423330312",
       "variant_id": "672694963423330312"
@@ -739,6 +794,7 @@
       "price": "51.09",
       "region": "au",
       "sku": "672694963423330316",
+      "store_id": "",
       "title": "CyberBrick Official Forklift and Truck - CyberBrick Official Forklift (1 Car 1 Remote) - ZL012",
       "url": "https://au.store.bambulab.com/products/fcyberbrick-official-forklift-and-truck?id=672694963423330316",
       "variant_id": "672694963423330316"

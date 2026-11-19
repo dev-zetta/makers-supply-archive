@@ -4,36 +4,49 @@
     {
       "handle": "ams-drawer-stacker",
       "product_id": "724164577370120192",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-drawer-stacker",
       "product_id": "724163790801129472",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-drawer-stacker",
       "product_id": "724164851509063680",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-drawer-stacker",
       "product_id": "724164293074591744",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-drawer-stacker",
       "product_id": "724163352457256960",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-drawer-stacker",
       "product_id": "724162231646482432",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/50/50c063a1860eb21fb360dc3e439070f8fb0ce4ab73f2c06058dcbfc3e4d7e701.png",
       "id": "image-2048a690499381e172c0",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH128_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "50c063a1860eb21fb360dc3e439070f8fb0ce4ab73f2c06058dcbfc3e4d7e701",
       "size": 458591,
       "source_url": "https://store.bblcdn.com/s7/default/a088c4358b4245fb8ddfef560581c8a1/B-ZH128_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c1/c1617eedb2e5ade51cd1ce6bc20bbc446b57a8eb324437e3ca453e77b290e846.png",
       "id": "image-7e1eb6b4073d2f4dc466",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH128_2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c1617eedb2e5ade51cd1ce6bc20bbc446b57a8eb324437e3ca453e77b290e846",
       "size": 299445,
       "source_url": "https://store.bblcdn.com/s7/default/abb644c659a346a6ae30aaee9df9e5bd/B-ZH128_2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d0/d0b188d3675f152a3ee781fa0807f679860ea9d5a77468367c72c60130bebca8.png",
       "id": "image-3f78697ae4e44f1d1d6e",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-ZH128.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d0b188d3675f152a3ee781fa0807f679860ea9d5a77468367c72c60130bebca8",
       "size": 371542,
       "source_url": "https://store.bblcdn.com/s7/default/1c884a780b4b446eb1660ba5ccb210da/B-ZH128.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/92/926993c62f302cd57bfd8dcbf79b5d4499ba4a132e5f4b8fde145d9bc06b3d44.png",
       "id": "image-89b6c6c4714337ca3322",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "20260424-162204.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "926993c62f302cd57bfd8dcbf79b5d4499ba4a132e5f4b8fde145d9bc06b3d44",
       "size": 2055204,
       "source_url": "https://store.bblcdn.com/s7/default/c923706ebb484bab8f991c8484fb8a48/20260424-162204.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e4/e46adc76dd954cd3047bce27fbc5b824b4f848a955e09e6782f25da930d7c0ff.png",
       "id": "image-display-2849d484636516154ebd",
       "image_processing": {
@@ -99,11 +120,13 @@
       "parent_asset_id": "image-2048a690499381e172c0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e46adc76dd954cd3047bce27fbc5b824b4f848a955e09e6782f25da930d7c0ff",
       "size": 387240,
       "source_url": "https://store.bblcdn.com/s7/default/a088c4358b4245fb8ddfef560581c8a1/B-ZH128_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/76/76b4a781de9308487d9f20d9199876c2af99cf5150fb413b66a9a375827a8eb4.png",
       "id": "image-display-6cef6f2353da902daaa5",
       "image_processing": {
@@ -121,11 +144,13 @@
       "parent_asset_id": "image-7e1eb6b4073d2f4dc466",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "76b4a781de9308487d9f20d9199876c2af99cf5150fb413b66a9a375827a8eb4",
       "size": 270865,
       "source_url": "https://store.bblcdn.com/s7/default/abb644c659a346a6ae30aaee9df9e5bd/B-ZH128_2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7e/7e68cc9c031b89e8d97f268019d28acef2b57bcb414cdaa41d640a79d8e3170f.png",
       "id": "image-display-07c07a84196e102aa79d",
       "image_processing": {
@@ -143,11 +168,13 @@
       "parent_asset_id": "image-3f78697ae4e44f1d1d6e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7e68cc9c031b89e8d97f268019d28acef2b57bcb414cdaa41d640a79d8e3170f",
       "size": 102030,
       "source_url": "https://store.bblcdn.com/s7/default/1c884a780b4b446eb1660ba5ccb210da/B-ZH128.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bf/bfc6f3de94cd872888bf70d7dbe48cc6f52e6033ba22c883cc014e48ee6f8e1b.png",
       "id": "image-display-9ba14c682ac5bbef5ecb",
       "image_processing": {
@@ -165,6 +192,7 @@
       "parent_asset_id": "image-89b6c6c4714337ca3322",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bfc6f3de94cd872888bf70d7dbe48cc6f52e6033ba22c883cc014e48ee6f8e1b",
       "size": 862281,
       "source_url": "https://store.bblcdn.com/s7/default/c923706ebb484bab8f991c8484fb8a48/20260424-162204.png"
@@ -212,7 +240,8 @@
   "description_text": "To download the model files please visit the AMS drawer stacker on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh128-ams-drawer-stacker",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "AMS drawer stacker",
   "offers": [
@@ -224,6 +253,7 @@
       "price": "7.14",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
     },
     {
@@ -234,6 +264,7 @@
       "price": "7.44",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
     },
     {
@@ -244,6 +275,7 @@
       "price": "6.38",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
     },
     {
@@ -254,6 +286,7 @@
       "price": "5.14",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
     },
     {
@@ -264,6 +297,7 @@
       "price": "11.65",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
     },
     {
@@ -274,6 +308,7 @@
       "price": "5.86",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/ams-drawer-stacker?skr=yes"
     }
   ],
@@ -324,6 +359,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -334,6 +370,7 @@
       "price": "7.14",
       "region": "us",
       "sku": "724164577382703106",
+      "store_id": "",
       "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
       "url": "https://us.store.bambulab.com/products/ams-drawer-stacker?id=724164577382703106",
       "variant_id": "724164577382703106"
@@ -346,6 +383,7 @@
       "price": "7.44",
       "region": "ca",
       "sku": "724163790817906688",
+      "store_id": "",
       "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
       "url": "https://ca.store.bambulab.com/products/ams-drawer-stacker?id=724163790817906688",
       "variant_id": "724163790817906688"
@@ -358,6 +396,7 @@
       "price": "6.38",
       "region": "eu",
       "sku": "724164851525840898",
+      "store_id": "",
       "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
       "url": "https://eu.store.bambulab.com/products/ams-drawer-stacker?id=724164851525840898",
       "variant_id": "724164851525840898"
@@ -370,6 +409,7 @@
       "price": "5.14",
       "region": "uk",
       "sku": "724164293095563266",
+      "store_id": "",
       "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
       "url": "https://uk.store.bambulab.com/products/ams-drawer-stacker?id=724164293095563266",
       "variant_id": "724164293095563266"
@@ -382,6 +422,7 @@
       "price": "11.65",
       "region": "au",
       "sku": "724163352499200002",
+      "store_id": "",
       "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
       "url": "https://au.store.bambulab.com/products/ams-drawer-stacker?id=724163352499200002",
       "variant_id": "724163352499200002"
@@ -394,6 +435,7 @@
       "price": "5.86",
       "region": "asia",
       "sku": "724162231663259650",
+      "store_id": "",
       "title": "AMS drawer stacker - AMS drawer stacker - ZH128",
       "url": "https://asia.store.bambulab.com/products/ams-drawer-stacker?id=724162231663259650",
       "variant_id": "724162231663259650"

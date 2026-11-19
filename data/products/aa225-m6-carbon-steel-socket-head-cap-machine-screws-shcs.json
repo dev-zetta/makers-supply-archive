@@ -4,36 +4,49 @@
     {
       "handle": "m6-carbon-steel-socket-head-cap-machine-screws-shcs",
       "product_id": "8444330868872",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m6-carbon-steel-socket-head-cap-machine-screws-shcs",
       "product_id": "547559188127240192",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m6-carbon-steel-socket-head-cap-machine-screws-shcs",
       "product_id": "14818406596956",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m6-carbon-steel-socket-head-cap-machine-screws-shcs",
       "product_id": "547558867108737024",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m6-carbon-steel-socket-head-cap-machine-screws-shcs",
       "product_id": "547558661523722240",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m6-carbon-steel-socket-head-cap-machine-screws-shcs",
       "product_id": "547553219550179328",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1d/1d0c1cb8af9a66e8b879de00d61877f51d882156606205d85e1a214a5c6c4c22.png",
       "id": "image-e2b9ab58e52430b7b76d",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-AA225.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1d0c1cb8af9a66e8b879de00d61877f51d882156606205d85e1a214a5c6c4c22",
       "size": 392124,
       "source_url": "https://store.bblcdn.com/s7/default/1076fef90727456baa8191bceaa3e4ff/B-AA225.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f8/f8d11aea9429f85d831616685bddaf01a7fda4b8e2c59387652672e5a6e4ed08.png",
       "id": "image-c32cacf9babb59e922dd",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "aa225.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f8d11aea9429f85d831616685bddaf01a7fda4b8e2c59387652672e5a6e4ed08",
       "size": 120001,
       "source_url": "https://store.bblcdn.com/s7/default/770ef9d86b1348c5a7322a81b5ba1e02/aa225.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f2/f2453e097765b5c133e54512b92df2218da4042e77195c2749de49cdaeecbe76.pdf",
       "id": "document-123cc2e040faf1e1e141",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "B-AA225_PDF.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f2453e097765b5c133e54512b92df2218da4042e77195c2749de49cdaeecbe76",
       "size": 617293,
       "source_url": "https://store.bblcdn.com/s7/default/907ab9fec39740728e11af86b98283d6/B-AA225_PDF.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6c/6c1c469a8bfb36fe09d6efc545d7ba68c6fc99e17171c8d1c22cba1f673848a1.zip",
       "id": "archive-f176b7a4e1e743258a42",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "M6x35_Socket_Head_Cap_Machine_Screw-B-AA225_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6c1c469a8bfb36fe09d6efc545d7ba68c6fc99e17171c8d1c22cba1f673848a1",
       "size": 63935,
       "source_url": "https://store.bblcdn.com/s7/default/c165e43994bd4e2ab1850db9ca228df5/M6x35_Socket_Head_Cap_Machine_Screw-B-AA225_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M6x35 Socket Head Cap Machine Screw-B-AA225 Model.stl",
       "blob_path": "data/blobs/sha256/d1/d1a06dd4c0b4d87a0843c29ccefb3570961dd92964a1a9c3b437e3c77111e716.stl",
       "id": "model-e10e0ecd60e376c5ef0f",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-f176b7a4e1e743258a42",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d1a06dd4c0b4d87a0843c29ccefb3570961dd92964a1a9c3b437e3c77111e716",
       "size": 184084,
       "source_url": "https://store.bblcdn.com/s7/default/c165e43994bd4e2ab1850db9ca228df5/M6x35_Socket_Head_Cap_Machine_Screw-B-AA225_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M6x35 Socket Head Cap Machine Screw-B-AA225 Model.stp",
       "blob_path": "data/blobs/sha256/8a/8a0368dbcc0d39d6b0a5dd41fe75b5fb5b1e8f3ed922b9770a972923f7ffecb0.stp",
       "id": "model-bcfaf3c493341ceb039b",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-f176b7a4e1e743258a42",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8a0368dbcc0d39d6b0a5dd41fe75b5fb5b1e8f3ed922b9770a972923f7ffecb0",
       "size": 80324,
       "source_url": "https://store.bblcdn.com/s7/default/c165e43994bd4e2ab1850db9ca228df5/M6x35_Socket_Head_Cap_Machine_Screw-B-AA225_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9a/9a03bfaaa461a8b659dda222f8bda2142293e007f93e2c4c27c997b442d2e68a.png",
       "id": "image-display-18cc4831e582c3853b5c",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-e2b9ab58e52430b7b76d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9a03bfaaa461a8b659dda222f8bda2142293e007f93e2c4c27c997b442d2e68a",
       "size": 117831,
       "source_url": "https://store.bblcdn.com/s7/default/1076fef90727456baa8191bceaa3e4ff/B-AA225.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2a/2a148c19290f5b82abdcaa79d8324580d1744c75c1b582f32599cdeb169cac00.png",
       "id": "image-display-78d2e09d1e9bde1b8bc1",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-c32cacf9babb59e922dd",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2a148c19290f5b82abdcaa79d8324580d1744c75c1b582f32599cdeb169cac00",
       "size": 104394,
       "source_url": "https://store.bblcdn.com/s7/default/770ef9d86b1348c5a7322a81b5ba1e02/aa225.png"
@@ -203,6 +231,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa225-m6-carbon-steel-socket-head-cap-machine-screws-shcs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",
@@ -251,6 +280,7 @@
       "price": "1.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -261,6 +291,7 @@
       "price": "2.14",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -271,6 +302,7 @@
       "price": "1.75",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -281,6 +313,7 @@
       "price": "1.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -291,6 +324,7 @@
       "price": "3.36",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -301,6 +335,7 @@
       "price": "1.69",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?skr=yes"
     }
   ],
@@ -415,6 +450,7 @@
     "k (mm) Hexagon Across Flats": "5",
     "t (mm) Groove Depth": "3"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -425,6 +461,7 @@
       "price": "1.99",
       "region": "us",
       "sku": "43170184691848",
+      "store_id": "",
       "title": "M6 Carbon Steel Socket Head Cap Machine Screws (SHCS) - M6x35 SHCS Machine Screw (5PCS) - AA225",
       "url": "https://us.store.bambulab.com/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?id=43170184691848",
       "variant_id": "43170184691848"
@@ -437,6 +474,7 @@
       "price": "2.14",
       "region": "ca",
       "sku": "547559188135628802",
+      "store_id": "",
       "title": "M6 Carbon Steel Socket Head Cap Machine Screws (SHCS) - M6x35 SHCS Machine Screw (5PCS) - AA225",
       "url": "https://ca.store.bambulab.com/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?id=547559188135628802",
       "variant_id": "547559188135628802"
@@ -449,6 +487,7 @@
       "price": "1.75",
       "region": "eu",
       "sku": "53671887536476",
+      "store_id": "",
       "title": "M6 Carbon Steel Socket Head Cap Machine Screws (SHCS) - M6x35 SHCS Machine Screw (5PCS) - AA225",
       "url": "https://eu.store.bambulab.com/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?id=53671887536476",
       "variant_id": "53671887536476"
@@ -461,6 +500,7 @@
       "price": "1.49",
       "region": "uk",
       "sku": "547558867121319938",
+      "store_id": "",
       "title": "M6 Carbon Steel Socket Head Cap Machine Screws (SHCS) - M6x35 SHCS Machine Screw (5PCS) - AA225",
       "url": "https://uk.store.bambulab.com/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?id=547558867121319938",
       "variant_id": "547558867121319938"
@@ -473,6 +513,7 @@
       "price": "3.36",
       "region": "au",
       "sku": "547558661540499458",
+      "store_id": "",
       "title": "M6 Carbon Steel Socket Head Cap Machine Screws (SHCS) - M6x35 SHCS Machine Screw (5PCS) - AA225",
       "url": "https://au.store.bambulab.com/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?id=547558661540499458",
       "variant_id": "547558661540499458"
@@ -485,6 +526,7 @@
       "price": "1.69",
       "region": "asia",
       "sku": "547553219571150850",
+      "store_id": "",
       "title": "M6 Carbon Steel Socket Head Cap Machine Screws (SHCS) - M6x35 SHCS Machine Screw (5PCS) - AA225",
       "url": "https://asia.store.bambulab.com/products/m6-carbon-steel-socket-head-cap-machine-screws-shcs?id=547553219571150850",
       "variant_id": "547553219571150850"

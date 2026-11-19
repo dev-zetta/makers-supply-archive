@@ -4,36 +4,49 @@
     {
       "handle": "standby-mode-dock-for-iphone",
       "product_id": "8398040105096",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "standby-mode-dock-for-iphone",
       "product_id": "9067148607728",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "standby-mode-dock-for-iphone",
       "product_id": "9643913642332",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "standby-mode-dock-for-iphone",
       "product_id": "7826030788668",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "standby-mode-dock-for-iphone",
       "product_id": "523329610166816768",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "standby-mode-dock-for-iphone",
       "product_id": "523329082348085248",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ef/ef3ab738713924a88a016bbfc13bcbaadc30f06e01287e6d62ef374e63db705f.jpg",
       "id": "image-e77ad75a1751ffea92ad",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "444.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ef3ab738713924a88a016bbfc13bcbaadc30f06e01287e6d62ef374e63db705f",
       "size": 66115,
       "source_url": "https://store.bblcdn.com/s7/default/8ee53b6369e742329ef9fa59e0424b6c/444.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ab/ab9cd0766015b6ecd8d64934e2cab89d052ca2f52e3aa62e037609bce09d3181.png",
       "id": "image-6d7bd93f7f2df2107642",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "be0f9d1f59f06d7d8ba43844094a8c3f.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ab9cd0766015b6ecd8d64934e2cab89d052ca2f52e3aa62e037609bce09d3181",
       "size": 135718,
       "source_url": "https://store.bblcdn.com/s7/default/591e26fe32834210a9c882f474c3eb77/be0f9d1f59f06d7d8ba43844094a8c3f.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/de/deaeacf5bc8da244ac7c6bd9b3d77b3ea6b22a75b0e5ccafd27d507204e22266.png",
       "id": "image-display-7226a32c4a4689e572cb",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-e77ad75a1751ffea92ad",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "deaeacf5bc8da244ac7c6bd9b3d77b3ea6b22a75b0e5ccafd27d507204e22266",
       "size": 357908,
       "source_url": "https://store.bblcdn.com/s7/default/8ee53b6369e742329ef9fa59e0424b6c/444.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/13/131ff15274f4512e25edf0b05d0f3cb9287445bfaa25c77010a8eac9b55a6c3f.png",
       "id": "image-display-2f8b14faa337f19fed8a",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-6d7bd93f7f2df2107642",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "131ff15274f4512e25edf0b05d0f3cb9287445bfaa25c77010a8eac9b55a6c3f",
       "size": 47215,
       "source_url": "https://store.bblcdn.com/s7/default/591e26fe32834210a9c882f474c3eb77/be0f9d1f59f06d7d8ba43844094a8c3f.png"
@@ -148,7 +168,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling a functional Standby Mode Dock for iPhone. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Standby Mode Dock for iPhone and obtain detailed information, please visit the Standby Mode Dock for iPhone on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh035-standby-mode-dock-for-iphone",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Standby Mode Dock for iPhone",
   "offers": [
@@ -160,6 +181,7 @@
       "price": "3.84",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/standby-mode-dock-for-iphone?skr=yes"
     },
     {
@@ -170,6 +192,7 @@
       "price": "4.42",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/standby-mode-dock-for-iphone?skr=yes"
     },
     {
@@ -180,6 +203,7 @@
       "price": "3.62",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/standby-mode-dock-for-iphone?skr=yes"
     },
     {
@@ -190,6 +214,7 @@
       "price": "3.07",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/standby-mode-dock-for-iphone?skr=yes"
     },
     {
@@ -200,6 +225,7 @@
       "price": "6.94",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/standby-mode-dock-for-iphone?skr=yes"
     },
     {
@@ -210,6 +236,7 @@
       "price": "3.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/standby-mode-dock-for-iphone?skr=yes"
     }
   ],
@@ -254,6 +281,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -266,6 +294,7 @@
       "price": "3.84",
       "region": "us",
       "sku": "43005207183496",
+      "store_id": "",
       "title": "Standby Mode Dock for iPhone - Standby Mode Dock for iPhone - ZH035",
       "url": "https://us.store.bambulab.com/products/standby-mode-dock-for-iphone?id=43005207183496",
       "variant_id": "43005207183496"
@@ -278,6 +307,7 @@
       "price": "4.42",
       "region": "ca",
       "sku": "46692371169520",
+      "store_id": "",
       "title": "Standby Mode Dock for iPhone - Standby Mode Dock for iPhone - ZH035",
       "url": "https://ca.store.bambulab.com/products/standby-mode-dock-for-iphone?id=46692371169520",
       "variant_id": "46692371169520"
@@ -290,6 +320,7 @@
       "price": "3.62",
       "region": "eu",
       "sku": "49556761968988",
+      "store_id": "",
       "title": "Standby Mode Dock for iPhone - Standby Mode Dock for iPhone - ZH035",
       "url": "https://eu.store.bambulab.com/products/standby-mode-dock-for-iphone?id=49556761968988",
       "variant_id": "49556761968988"
@@ -302,6 +333,7 @@
       "price": "3.07",
       "region": "uk",
       "sku": "42271975997500",
+      "store_id": "",
       "title": "Standby Mode Dock for iPhone - Standby Mode Dock for iPhone - ZH035",
       "url": "https://uk.store.bambulab.com/products/standby-mode-dock-for-iphone?id=42271975997500",
       "variant_id": "42271975997500"
@@ -314,6 +346,7 @@
       "price": "6.94",
       "region": "au",
       "sku": "523329610166816772",
+      "store_id": "",
       "title": "Standby Mode Dock for iPhone - Standby Mode Dock for iPhone - ZH035",
       "url": "https://au.store.bambulab.com/products/standby-mode-dock-for-iphone?id=523329610166816772",
       "variant_id": "523329610166816772"
@@ -326,6 +359,7 @@
       "price": "3.49",
       "region": "asia",
       "sku": "523329082352279555",
+      "store_id": "",
       "title": "Standby Mode Dock for iPhone - Standby Mode Dock for iPhone - ZH035",
       "url": "https://asia.store.bambulab.com/products/standby-mode-dock-for-iphone?id=523329082352279555",
       "variant_id": "523329082352279555"

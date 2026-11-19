@@ -4,36 +4,49 @@
     {
       "handle": "mount-4-in-1-ptfe-adapter-for-h2-series-printers",
       "product_id": "740440729601077248",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mount-4-in-1-ptfe-adapter-for-h2-series-printers",
       "product_id": "740443047844216832",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mount-4-in-1-ptfe-adapter-for-h2-series-printers",
       "product_id": "740442774681223168",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mount-4-in-1-ptfe-adapter-for-h2-series-printers",
       "product_id": "740443303938899968",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mount-4-in-1-ptfe-adapter-for-h2-series-printers",
       "product_id": "740443486340104192",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mount-4-in-1-ptfe-adapter-for-h2-series-printers",
       "product_id": "740431106502623232",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/15/15d000932370edb24f24f674ea61cbde30a87fb0fed67fc354f3e3d343b9c119.png",
       "id": "image-697bcf502daf3b91cde7",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZH140.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "15d000932370edb24f24f674ea61cbde30a87fb0fed67fc354f3e3d343b9c119",
       "size": 2242285,
       "source_url": "https://store.bblcdn.com/s7/default/d5924abeb9584cfc96e724689c295e04/ZH140.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cd/cd540c8a1963cc3e4f375502f40d0cf9a98a83740a138723723f9cfae3895d41.png",
       "id": "image-71108b04c6fe34fddfb6",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH140_V.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cd540c8a1963cc3e4f375502f40d0cf9a98a83740a138723723f9cfae3895d41",
       "size": 229298,
       "source_url": "https://store.bblcdn.com/s7/default/55eb6f4c10af41ba82de6e078554c9ba/B-ZH140_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8b/8b0eb8c0630c52400dfd55e85d840f4015ab8d0dfcae282c5a0be50a557d5fbf.png",
       "id": "image-display-8674f6543ce3e0bec725",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-697bcf502daf3b91cde7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8b0eb8c0630c52400dfd55e85d840f4015ab8d0dfcae282c5a0be50a557d5fbf",
       "size": 726997,
       "source_url": "https://store.bblcdn.com/s7/default/d5924abeb9584cfc96e724689c295e04/ZH140.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7b/7b4016d4c749f1bff72f99d6e4a613f19a0c4367f40535e3c817026a914a3481.png",
       "id": "image-display-d994b10a542c32c9d1db",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-71108b04c6fe34fddfb6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7b4016d4c749f1bff72f99d6e4a613f19a0c4367f40535e3c817026a914a3481",
       "size": 74220,
       "source_url": "https://store.bblcdn.com/s7/default/55eb6f4c10af41ba82de6e078554c9ba/B-ZH140_V.png"
@@ -156,7 +176,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Mount New 4-in-1 PTFE Adapter II H2C H2D H2S. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Mount New 4-in-1 PTFE Adapter II H2C H2D H2S on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh140-mount-4-in-1-ptfe-adapter-for-h2-series-printers",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Mount 4-in-1 PTFE Adapter for H2 Series Printers",
   "offers": [
@@ -168,6 +189,7 @@
       "price": "2.16",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?skr=yes"
     },
     {
@@ -178,6 +200,7 @@
       "price": "2.5",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?skr=yes"
     },
     {
@@ -188,6 +211,7 @@
       "price": "2.24",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?skr=yes"
     },
     {
@@ -198,6 +222,7 @@
       "price": "1.74",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?skr=yes"
     },
     {
@@ -208,6 +233,7 @@
       "price": "3.92",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?skr=yes"
     },
     {
@@ -218,6 +244,7 @@
       "price": "1.96",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?skr=yes"
     }
   ],
@@ -267,6 +294,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -279,6 +307,7 @@
       "price": "2.16",
       "region": "us",
       "sku": "740440729655603202",
+      "store_id": "",
       "title": "Mount 4-in-1 PTFE Adapter for H2 Series Printers - Mount 4-in-1 PTFE Adapter for H2 Series Printers - ZH140",
       "url": "https://us.store.bambulab.com/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?id=740440729655603202",
       "variant_id": "740440729655603202"
@@ -291,6 +320,7 @@
       "price": "2.5",
       "region": "ca",
       "sku": "740443047894548482",
+      "store_id": "",
       "title": "Mount 4-in-1 PTFE Adapter for H2 Series Printers - Mount 4-in-1 PTFE Adapter for H2 Series Printers - ZH140",
       "url": "https://ca.store.bambulab.com/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?id=740443047894548482",
       "variant_id": "740443047894548482"
@@ -303,6 +333,7 @@
       "price": "2.24",
       "region": "eu",
       "sku": "740442774698000385",
+      "store_id": "",
       "title": "Mount 4-in-1 PTFE Adapter for H2 Series Printers - Mount 4-in-1 PTFE Adapter for H2 Series Printers - ZH140",
       "url": "https://eu.store.bambulab.com/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?id=740442774698000385",
       "variant_id": "740442774698000385"
@@ -315,6 +346,7 @@
       "price": "1.74",
       "region": "uk",
       "sku": "740443303964065794",
+      "store_id": "",
       "title": "Mount 4-in-1 PTFE Adapter for H2 Series Printers - Mount 4-in-1 PTFE Adapter for H2 Series Printers - ZH140",
       "url": "https://uk.store.bambulab.com/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?id=740443303964065794",
       "variant_id": "740443303964065794"
@@ -327,6 +359,7 @@
       "price": "3.92",
       "region": "au",
       "sku": "740443486361075712",
+      "store_id": "",
       "title": "Mount 4-in-1 PTFE Adapter for H2 Series Printers - Mount 4-in-1 PTFE Adapter for H2 Series Printers - ZH140",
       "url": "https://au.store.bambulab.com/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?id=740443486361075712",
       "variant_id": "740443486361075712"
@@ -339,6 +372,7 @@
       "price": "1.96",
       "region": "asia",
       "sku": "740431106552954882",
+      "store_id": "",
       "title": "Mount 4-in-1 PTFE Adapter for H2 Series Printers - Mount 4-in-1 PTFE Adapter for H2 Series Printers - ZH140",
       "url": "https://asia.store.bambulab.com/products/mount-4-in-1-ptfe-adapter-for-h2-series-printers?id=740431106552954882",
       "variant_id": "740431106552954882"

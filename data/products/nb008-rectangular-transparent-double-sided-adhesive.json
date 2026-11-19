@@ -4,36 +4,49 @@
     {
       "handle": "rectangular-transparent-double-sided-adhesive",
       "product_id": "8405281865864",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rectangular-transparent-double-sided-adhesive",
       "product_id": "9082358661360",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rectangular-transparent-double-sided-adhesive",
       "product_id": "9670330614108",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rectangular-transparent-double-sided-adhesive",
       "product_id": "7837401808956",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rectangular-transparent-double-sided-adhesive",
       "product_id": "528105223717761024",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "rectangular-transparent-double-sided-adhesive",
       "product_id": "528088340702613504",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a4/a4e5d03c624e0bbc48032956e9297c0d86cd34f24fb00efa11281bd5bc74ce00.png",
       "id": "image-3ab3eb0fb21ab1159933",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "NB008-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a4e5d03c624e0bbc48032956e9297c0d86cd34f24fb00efa11281bd5bc74ce00",
       "size": 126909,
       "source_url": "https://store.bblcdn.com/s7/default/559f95b397be43fd886596c4ef0e8330/NB008-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/79/796f760bf2cc943f9176cc2046ebac6a5ef5cd8eb9afe169d3e38619ddd1234e.png",
       "id": "image-635555559673118b9a6a",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "NB008_b4ce1c99-b525-4ea1-b7f0-b36b1a926fbc.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "796f760bf2cc943f9176cc2046ebac6a5ef5cd8eb9afe169d3e38619ddd1234e",
       "size": 99108,
       "source_url": "https://store.bblcdn.com/s7/default/8541ca58cb0c496580832878ca8aadf7/NB008_b4ce1c99-b525-4ea1-b7f0-b36b1a926fbc.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d5/d5328b9816bba629ab4b3bae0a98a91aba74b7727ab6b0f73c9a5f2e01fe9f71.png",
       "id": "image-display-adb4333e35adfc12d3cf",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-3ab3eb0fb21ab1159933",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d5328b9816bba629ab4b3bae0a98a91aba74b7727ab6b0f73c9a5f2e01fe9f71",
       "size": 115870,
       "source_url": "https://store.bblcdn.com/s7/default/559f95b397be43fd886596c4ef0e8330/NB008-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2a/2adb2d7907f2e7e1845fa043a471259af9b2424079b0aa3d645a7e3eb0578aa3.png",
       "id": "image-display-c61a7d34ab168a06b74a",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-635555559673118b9a6a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2adb2d7907f2e7e1845fa043a471259af9b2424079b0aa3d645a7e3eb0578aa3",
       "size": 88720,
       "source_url": "https://store.bblcdn.com/s7/default/8541ca58cb0c496580832878ca8aadf7/NB008_b4ce1c99-b525-4ea1-b7f0-b36b1a926fbc.png"
@@ -151,6 +171,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "nb008-rectangular-transparent-double-sided-adhesive",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "L (mm) Length",
@@ -192,6 +213,7 @@
       "price": "4.39",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
     },
     {
@@ -202,6 +224,7 @@
       "price": "5.05",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
     },
     {
@@ -212,6 +235,7 @@
       "price": "4.13",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
     },
     {
@@ -222,6 +246,7 @@
       "price": "3.51",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
     },
     {
@@ -232,6 +257,7 @@
       "price": "7.93",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
     },
     {
@@ -242,6 +268,7 @@
       "price": "4.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/rectangular-transparent-double-sided-adhesive?skr=yes"
     }
   ],
@@ -328,6 +355,7 @@
     "Type": "Rectangular",
     "W (mm) Width": "35"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -338,6 +366,7 @@
       "price": "4.39",
       "region": "us",
       "sku": "43032590188680",
+      "store_id": "",
       "title": "Rectangular Transparent Double-Sided Adhesive - 35x15 mm (10PCS) - NB008",
       "url": "https://us.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=43032590188680",
       "variant_id": "43032590188680"
@@ -350,6 +379,7 @@
       "price": "5.05",
       "region": "ca",
       "sku": "46740636827888",
+      "store_id": "",
       "title": "Rectangular Transparent Double-Sided Adhesive - 35x15 mm (10PCS) - NB008",
       "url": "https://ca.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=46740636827888",
       "variant_id": "46740636827888"
@@ -362,6 +392,7 @@
       "price": "4.13",
       "region": "eu",
       "sku": "49635669770588",
+      "store_id": "",
       "title": "Rectangular Transparent Double-Sided Adhesive - 35x15 mm (10PCS) - NB008",
       "url": "https://eu.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=49635669770588",
       "variant_id": "49635669770588"
@@ -374,6 +405,7 @@
       "price": "3.51",
       "region": "uk",
       "sku": "42301547479100",
+      "store_id": "",
       "title": "Rectangular Transparent Double-Sided Adhesive - 35x15 mm (10PCS) - NB008",
       "url": "https://uk.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=42301547479100",
       "variant_id": "42301547479100"
@@ -386,6 +418,7 @@
       "price": "7.93",
       "region": "au",
       "sku": "528105223721955331",
+      "store_id": "",
       "title": "Rectangular Transparent Double-Sided Adhesive - 35x15 mm (10PCS) - NB008",
       "url": "https://au.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=528105223721955331",
       "variant_id": "528105223721955331"
@@ -398,6 +431,7 @@
       "price": "4.99",
       "region": "asia",
       "sku": "528088340723585026",
+      "store_id": "",
       "title": "Rectangular Transparent Double-Sided Adhesive - Transparent Double-Sided Adhesive (10PCS) - NB008",
       "url": "https://asia.store.bambulab.com/products/rectangular-transparent-double-sided-adhesive?id=528088340723585026",
       "variant_id": "528088340723585026"

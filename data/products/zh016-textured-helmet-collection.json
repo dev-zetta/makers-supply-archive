@@ -4,36 +4,49 @@
     {
       "handle": "textured-helmet-collection",
       "product_id": "8337986027656",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "textured-helmet-collection",
       "product_id": "9002574151920",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "textured-helmet-collection",
       "product_id": "9555571179868",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "textured-helmet-collection",
       "product_id": "7774130470972",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "textured-helmet-collection",
       "product_id": "8582173032611",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "textured-helmet-collection",
       "product_id": "506026344380116992",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fe/fe339d27d529f9e8cc77fac915340a713bbf19c7fff866abae53e048c15a094f.jpg",
       "id": "image-f807a822806bd621cbc5",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "2-1.jpg",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fe339d27d529f9e8cc77fac915340a713bbf19c7fff866abae53e048c15a094f",
       "size": 92465,
       "source_url": "https://store.bblcdn.com/s7/default/75b8a53e4c644d018a23a38d2f848ead/2-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bf/bfd2ce34962cc301b74ea0219cab178771574951f45edaae49a37e522e98a981.jpg",
       "id": "image-7f883e366bef32a20e5a",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "2_476b717e-0268-4d75-9702-ef0442b88a7a.jpg",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bfd2ce34962cc301b74ea0219cab178771574951f45edaae49a37e522e98a981",
       "size": 162384,
       "source_url": "https://store.bblcdn.com/s7/default/1a69ab7f2e6a488a8e203b8edaa34039/2_476b717e-0268-4d75-9702-ef0442b88a7a.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/df/dfb259b4fabf7489f053c78435dea34856f13d8bc64bfb81cc26664ec669286c.png",
       "id": "image-c91f5bf07d3091d384eb",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "deadpool.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dfb259b4fabf7489f053c78435dea34856f13d8bc64bfb81cc26664ec669286c",
       "size": 329801,
       "source_url": "https://store.bblcdn.com/s7/default/c18567b8310c4f81a5bdf8b876169432/deadpool.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/28/284a7a695b02111ee25ad3151cdc13c4ab0947bc64475d088fd5b1e5c586e60a.png",
       "id": "image-fd952a9aec12b3ece8cb",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "B-DY001.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "284a7a695b02111ee25ad3151cdc13c4ab0947bc64475d088fd5b1e5c586e60a",
       "size": 268298,
       "source_url": "https://store.bblcdn.com/s7/default/7f8da2eb9d8b4504bef7cc0695d2cc37/B-DY001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1d/1d268eccec1d821858c9e14aad7f1736d5c0a78cc255eb52f9423e46cad72d27.png",
       "id": "image-display-9db43f5d0268271abebf",
       "image_processing": {
@@ -99,11 +120,13 @@
       "parent_asset_id": "image-f807a822806bd621cbc5",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1d268eccec1d821858c9e14aad7f1736d5c0a78cc255eb52f9423e46cad72d27",
       "size": 220185,
       "source_url": "https://store.bblcdn.com/s7/default/75b8a53e4c644d018a23a38d2f848ead/2-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fe/fec6b6f2233d098e69ff794f63dfc0004892b512db4bc104b234f856696cb90c.png",
       "id": "image-display-285436ba355d9459e6dc",
       "image_processing": {
@@ -121,11 +144,13 @@
       "parent_asset_id": "image-7f883e366bef32a20e5a",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fec6b6f2233d098e69ff794f63dfc0004892b512db4bc104b234f856696cb90c",
       "size": 332810,
       "source_url": "https://store.bblcdn.com/s7/default/1a69ab7f2e6a488a8e203b8edaa34039/2_476b717e-0268-4d75-9702-ef0442b88a7a.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ed/ed2622f301a3e955d5782dc672224b04f77959358969722fa3a757b64a5be93e.png",
       "id": "image-display-875de7bcd7c587616913",
       "image_processing": {
@@ -143,11 +168,13 @@
       "parent_asset_id": "image-c91f5bf07d3091d384eb",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ed2622f301a3e955d5782dc672224b04f77959358969722fa3a757b64a5be93e",
       "size": 107422,
       "source_url": "https://store.bblcdn.com/s7/default/c18567b8310c4f81a5bdf8b876169432/deadpool.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/58/5891c890a4056502829508fe823c791bc0c0599ab6f9a92aebd2199623e25a8c.png",
       "id": "image-display-a5addb44b4581ab012c3",
       "image_processing": {
@@ -165,6 +192,7 @@
       "parent_asset_id": "image-fd952a9aec12b3ece8cb",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5891c890a4056502829508fe823c791bc0c0599ab6f9a92aebd2199623e25a8c",
       "size": 95354,
       "source_url": "https://store.bblcdn.com/s7/default/7f8da2eb9d8b4504bef7cc0695d2cc37/B-DY001.png"
@@ -206,6 +234,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh016-textured-helmet-collection",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Textured Helmet Collection",
   "offers": [
@@ -217,6 +246,7 @@
       "price": "5.7",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
     },
     {
@@ -227,6 +257,7 @@
       "price": "6.56",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
     },
     {
@@ -237,6 +268,7 @@
       "price": "5.37",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
     },
     {
@@ -247,6 +279,7 @@
       "price": "4.56",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
     },
     {
@@ -257,6 +290,7 @@
       "price": "10.29",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
     },
     {
@@ -267,6 +301,7 @@
       "price": "5.18",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/textured-helmet-collection?skr=yes"
     }
   ],
@@ -374,6 +409,7 @@
     "Item for Deadpool Comic Style Textured Helmet": "Qty",
     "Item for Wolverine D3 Textured Helmet": "Qty"
   },
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -386,6 +422,7 @@
       "price": "5.7",
       "region": "us",
       "sku": "42872191123592",
+      "store_id": "",
       "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
       "url": "https://us.store.bambulab.com/products/textured-helmet-collection?id=42872191123592",
       "variant_id": "42872191123592"
@@ -398,6 +435,7 @@
       "price": "11.4",
       "region": "us",
       "sku": "42872191156360",
+      "store_id": "",
       "title": "Textured Helmet Collection - Deadpool Comic Style Textured Helmet - ZH017",
       "url": "https://us.store.bambulab.com/products/textured-helmet-collection?id=42872191156360",
       "variant_id": "42872191156360"
@@ -410,6 +448,7 @@
       "price": "6.56",
       "region": "ca",
       "sku": "46531136487664",
+      "store_id": "",
       "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
       "url": "https://ca.store.bambulab.com/products/textured-helmet-collection?id=46531136487664",
       "variant_id": "46531136487664"
@@ -422,6 +461,7 @@
       "price": "13.12",
       "region": "ca",
       "sku": "46531136520432",
+      "store_id": "",
       "title": "Textured Helmet Collection - Deadpool Comic Style Textured Helmet - ZH017",
       "url": "https://ca.store.bambulab.com/products/textured-helmet-collection?id=46531136520432",
       "variant_id": "46531136520432"
@@ -434,6 +474,7 @@
       "price": "5.37",
       "region": "eu",
       "sku": "49285511250268",
+      "store_id": "",
       "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
       "url": "https://eu.store.bambulab.com/products/textured-helmet-collection?id=49285511250268",
       "variant_id": "49285511250268"
@@ -446,6 +487,7 @@
       "price": "10.74",
       "region": "eu",
       "sku": "49285511283036",
+      "store_id": "",
       "title": "Textured Helmet Collection - Deadpool Comic Style Textured Helmet - ZH017",
       "url": "https://eu.store.bambulab.com/products/textured-helmet-collection?id=49285511283036",
       "variant_id": "49285511283036"
@@ -458,6 +500,7 @@
       "price": "4.56",
       "region": "uk",
       "sku": "42140696936508",
+      "store_id": "",
       "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
       "url": "https://uk.store.bambulab.com/products/textured-helmet-collection?id=42140696936508",
       "variant_id": "42140696936508"
@@ -470,6 +513,7 @@
       "price": "9.12",
       "region": "uk",
       "sku": "42140696969276",
+      "store_id": "",
       "title": "Textured Helmet Collection - Deadpool Comic Style Textured Helmet - ZH017",
       "url": "https://uk.store.bambulab.com/products/textured-helmet-collection?id=42140696969276",
       "variant_id": "42140696969276"
@@ -482,6 +526,7 @@
       "price": "10.29",
       "region": "au",
       "sku": "45158805930147",
+      "store_id": "",
       "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
       "url": "https://au.store.bambulab.com/products/textured-helmet-collection?id=45158805930147",
       "variant_id": "45158805930147"
@@ -494,6 +539,7 @@
       "price": "20.58",
       "region": "au",
       "sku": "45158805962915",
+      "store_id": "",
       "title": "Textured Helmet Collection - Deadpool Comic Style Textured Helmet -ZH017",
       "url": "https://au.store.bambulab.com/products/textured-helmet-collection?id=45158805962915",
       "variant_id": "45158805962915"
@@ -506,6 +552,7 @@
       "price": "5.18",
       "region": "asia",
       "sku": "506026344380116997",
+      "store_id": "",
       "title": "Textured Helmet Collection - Wolverine D3 Textured Helmet - ZH016",
       "url": "https://asia.store.bambulab.com/products/textured-helmet-collection?id=506026344380116997",
       "variant_id": "506026344380116997"
@@ -518,6 +565,7 @@
       "price": "10.36",
       "region": "asia",
       "sku": "506028111534567426",
+      "store_id": "",
       "title": "Textured Helmet Collection - Deadpool Textured Helmet -ZH017",
       "url": "https://asia.store.bambulab.com/products/textured-helmet-collection?id=506028111534567426",
       "variant_id": "506028111534567426"

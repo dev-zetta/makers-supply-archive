@@ -2,13 +2,18 @@
   "assets_downloaded": 0,
   "assets_rejected": 1,
   "bytes_downloaded": 0,
-  "completed_at": "2026-11-10T15:37:42Z",
+  "completed_at": "2026-11-19T06:51:45Z",
   "metadata_only": false,
-  "products_written": 377,
+  "products_written": 451,
   "regions": [
     {
       "products_seen": 363,
       "region": "us",
+      "success": true
+    },
+    {
+      "products_seen": 362,
+      "region": "ca",
       "success": true
     },
     {
@@ -19,11 +24,6 @@
     {
       "products_seen": 361,
       "region": "uk",
-      "success": true
-    },
-    {
-      "products_seen": 362,
-      "region": "ca",
       "success": true
     },
     {
@@ -48,5 +48,6 @@
     }
   ],
   "schema_version": 1,
-  "started_at": "2026-11-10T15:04:23Z"
+  "started_at": "2026-11-19T06:49:00Z",
+  "supplier_ids": []
 }

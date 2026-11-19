@@ -4,36 +4,49 @@
     {
       "handle": "ring-magnets",
       "product_id": "8223269879944",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ring-magnets",
       "product_id": "8899762258160",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ring-magnets",
       "product_id": "9450767319388",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ring-magnets",
       "product_id": "7671186423868",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ring-magnets",
       "product_id": "8504483938467",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ring-magnets",
       "product_id": "7677392224371",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/27/279493406196ac292c3b4dba056ff9a075dd9c47f24a3965465a3e2a6b873770.png",
       "id": "image-bfcce1e48cec3ccdfe72",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "428be361a579d3cd6b5499734df13e2a_3051b833-932d-4722-b765-602adc0a1397.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "279493406196ac292c3b4dba056ff9a075dd9c47f24a3965465a3e2a6b873770",
       "size": 275995,
       "source_url": "https://store.bblcdn.com/s7/default/467324d0eb02407dbafa12a20a1b23a9/428be361a579d3cd6b5499734df13e2a_3051b833-932d-4722-b765-602adc0a1397.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/11/116ac41bde80a28beaa98cd61960b6e58f3e3f00674b0f326b31a8606c48d04a.png",
       "id": "image-759e21c4bbd6690ce4a7",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "4444462.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "116ac41bde80a28beaa98cd61960b6e58f3e3f00674b0f326b31a8606c48d04a",
       "size": 383665,
       "source_url": "https://store.bblcdn.com/s7/default/8c0f496d320340619a43be27591f1a37/4444462.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/49/497475bebd0d86f682023c613eddf12a0ed0deda58a52b4c454baaa77cea7188.png",
       "id": "image-0f7ab67e47c86db4b8e8",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "816300f4eb244b7c9c13a6ddf47b6220.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "497475bebd0d86f682023c613eddf12a0ed0deda58a52b4c454baaa77cea7188",
       "size": 19801,
       "source_url": "https://store.bblcdn.com/816300f4eb244b7c9c13a6ddf47b6220.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5d/5dfdfb1d493880108fd8399006eda69d49318d3185b22f1eef9d7991fc84f5ad.pdf",
       "id": "document-5f15799013e2bf4c0656",
       "kind": "document",
@@ -77,11 +96,13 @@
       "original_filename": "Ring_Magnets.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5dfdfb1d493880108fd8399006eda69d49318d3185b22f1eef9d7991fc84f5ad",
       "size": 410454,
       "source_url": "https://store.bblcdn.com/s1/default/b1e6d8a36e314682834005d17741abb6/Ring_Magnets.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/76/769774d572d83cb9318fc730c59dc0cfeff4a90dd27847bc9a1508e260f624eb.zip",
       "id": "archive-7bf7167c7f3e0248fb58",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "10x4x3_Ring_Magnets_-_CC003.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "769774d572d83cb9318fc730c59dc0cfeff4a90dd27847bc9a1508e260f624eb",
       "size": 19537,
       "source_url": "https://store.bblcdn.com/s1/default/a1c327a046374583afc4a0d6fc015787/10x4x3_Ring_Magnets_-_CC003.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "10x4x3 Ring Magnets  - CC003.stl",
       "blob_path": "data/blobs/sha256/b3/b3a53d7d40dd4ab9ea2f2479ff287fd8d3546c2272e820ccbfa1abda397531c4.stl",
       "id": "model-94e6a4b04524e6dd1a60",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-7bf7167c7f3e0248fb58",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b3a53d7d40dd4ab9ea2f2479ff287fd8d3546c2272e820ccbfa1abda397531c4",
       "size": 42484,
       "source_url": "https://store.bblcdn.com/s1/default/a1c327a046374583afc4a0d6fc015787/10x4x3_Ring_Magnets_-_CC003.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "10x4x3 Ring Magnets  - CC003.stp",
       "blob_path": "data/blobs/sha256/b0/b0efa1e5419f2b1bf5cb1a1a58e5d659464b0d07ec54cef2e873fe4bce1de8c4.stp",
       "id": "model-61eda582e452aa8887b2",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-7bf7167c7f3e0248fb58",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b0efa1e5419f2b1bf5cb1a1a58e5d659464b0d07ec54cef2e873fe4bce1de8c4",
       "size": 34146,
       "source_url": "https://store.bblcdn.com/s1/default/a1c327a046374583afc4a0d6fc015787/10x4x3_Ring_Magnets_-_CC003.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d0/d0b353e214a684213cd36cf0edd8f6f621e3fbfb2de84b8167f20ce27808f116.png",
       "id": "image-display-7364749779230a807dec",
       "image_processing": {
@@ -139,11 +166,13 @@
       "parent_asset_id": "image-bfcce1e48cec3ccdfe72",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d0b353e214a684213cd36cf0edd8f6f621e3fbfb2de84b8167f20ce27808f116",
       "size": 116340,
       "source_url": "https://store.bblcdn.com/s7/default/467324d0eb02407dbafa12a20a1b23a9/428be361a579d3cd6b5499734df13e2a_3051b833-932d-4722-b765-602adc0a1397.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/43/43e9358da50580faf56cb806a132dd284f002a0f93db854d2e051475bbd35109.png",
       "id": "image-display-d7aa08e36b6ed533dc15",
       "image_processing": {
@@ -161,11 +190,13 @@
       "parent_asset_id": "image-759e21c4bbd6690ce4a7",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "43e9358da50580faf56cb806a132dd284f002a0f93db854d2e051475bbd35109",
       "size": 105474,
       "source_url": "https://store.bblcdn.com/s7/default/8c0f496d320340619a43be27591f1a37/4444462.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c4/c4c102a095d58df4fd88998dbaadf318c1c955ea6197158b5d8d16bd72f5c64d.png",
       "id": "image-display-d6ad99fce3c0a61feb5c",
       "image_processing": {
@@ -183,6 +214,7 @@
       "parent_asset_id": "image-0f7ab67e47c86db4b8e8",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c4c102a095d58df4fd88998dbaadf318c1c955ea6197158b5d8d16bd72f5c64d",
       "size": 22049,
       "source_url": "https://store.bblcdn.com/816300f4eb244b7c9c13a6ddf47b6220.png"
@@ -233,6 +265,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "cc003-ring-magnets",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Outer Diameter",
@@ -272,6 +305,7 @@
       "price": "1.97",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/ring-magnets?skr=yes"
     },
     {
@@ -282,6 +316,7 @@
       "price": "2.27",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/ring-magnets?skr=yes"
     },
     {
@@ -292,6 +327,7 @@
       "price": "2.04",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/ring-magnets?skr=yes"
     },
     {
@@ -302,6 +338,7 @@
       "price": "1.57",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/ring-magnets?skr=yes"
     },
     {
@@ -312,6 +349,7 @@
       "price": "3.56",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/ring-magnets?skr=yes"
     },
     {
@@ -322,6 +360,7 @@
       "price": "1.79",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/ring-magnets?skr=yes"
     }
   ],
@@ -430,6 +469,7 @@
     "W(mm) Thickness": "3",
     "d (mm) Inner Diameter": "4"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -440,6 +480,7 @@
       "price": "1.97",
       "region": "us",
       "sku": "42630720356488",
+      "store_id": "",
       "title": "Ring Magnets - 10x4x3mm (5PCS) - CC003",
       "url": "https://us.store.bambulab.com/products/ring-magnets?id=42630720356488",
       "variant_id": "42630720356488"
@@ -452,6 +493,7 @@
       "price": "2.27",
       "region": "ca",
       "sku": "46243171860720",
+      "store_id": "",
       "title": "Ring Magnets - 10x4x3mm (5PCS) - CC003",
       "url": "https://ca.store.bambulab.com/products/ring-magnets?id=46243171860720",
       "variant_id": "46243171860720"
@@ -464,6 +506,7 @@
       "price": "2.04",
       "region": "eu",
       "sku": "48953176555868",
+      "store_id": "",
       "title": "Ring Magnets - 10x4x3mm (5PCS) - CC003",
       "url": "https://eu.store.bambulab.com/products/ring-magnets?id=48953176555868",
       "variant_id": "48953176555868"
@@ -476,6 +519,7 @@
       "price": "1.57",
       "region": "uk",
       "sku": "41905244143676",
+      "store_id": "",
       "title": "Ring Magnets - 10x4x3mm (5PCS) - CC003",
       "url": "https://uk.store.bambulab.com/products/ring-magnets?id=41905244143676",
       "variant_id": "41905244143676"
@@ -488,6 +532,7 @@
       "price": "3.56",
       "region": "au",
       "sku": "44741020909731",
+      "store_id": "",
       "title": "Ring Magnets - 10x4x3mm (5PCS) - CC003",
       "url": "https://au.store.bambulab.com/products/ring-magnets?id=44741020909731",
       "variant_id": "44741020909731"
@@ -500,6 +545,7 @@
       "price": "1.79",
       "region": "asia",
       "sku": "42029100826739",
+      "store_id": "",
       "title": "Ring Magnets - 10x4x3mm (5PCS) - CC003",
       "url": "https://asia.store.bambulab.com/products/ring-magnets?id=42029100826739",
       "variant_id": "42029100826739"

@@ -4,36 +4,49 @@
     {
       "handle": "retracting-spool-holder",
       "product_id": "654954352050601984",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "retracting-spool-holder",
       "product_id": "654955445267607552",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "retracting-spool-holder",
       "product_id": "654955144731348992",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "retracting-spool-holder",
       "product_id": "654954915208400896",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "retracting-spool-holder",
       "product_id": "654955632625078272",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "retracting-spool-holder",
       "product_id": "654932619414802432",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8b/8bae04983264ac470af0c81b6e75113786cced345d2fe910a9a8af76ac0d5d6d.png",
       "declared_media_type": "image/jpeg",
       "id": "image-23b96587fa9f5dd1383a",
@@ -42,11 +55,13 @@
       "original_filename": "B-ZH104-1.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8bae04983264ac470af0c81b6e75113786cced345d2fe910a9a8af76ac0d5d6d",
       "size": 1735720,
       "source_url": "https://store.bblcdn.com/s7/default/8c8ea2c64e64400eac74fb2d4b51e8f1/B-ZH104-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/81/81ea9a4458bfa705bfb2cfbddfdb34189138acdfe021cc91b8ad2f265323bcd2.png",
       "id": "image-931d41fb5cd747bd3015",
       "kind": "image",
@@ -54,11 +69,13 @@
       "original_filename": "ZH104.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "81ea9a4458bfa705bfb2cfbddfdb34189138acdfe021cc91b8ad2f265323bcd2",
       "size": 751827,
       "source_url": "https://store.bblcdn.com/s7/default/0619e42ed64b4ef9bc6faf20c7feddf2/ZH104.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3f/3f45adc40c80619b943604fb9f74c80f9a0a1aa8ee2274b4fc3b97c5a9a6ae90.png",
       "id": "image-display-634dd6c15cd662bc173b",
       "image_processing": {
@@ -76,11 +93,13 @@
       "parent_asset_id": "image-23b96587fa9f5dd1383a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3f45adc40c80619b943604fb9f74c80f9a0a1aa8ee2274b4fc3b97c5a9a6ae90",
       "size": 528768,
       "source_url": "https://store.bblcdn.com/s7/default/8c8ea2c64e64400eac74fb2d4b51e8f1/B-ZH104-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/21/2175fcab421fb24f6e60364bb9c8c58af8adc61ef8ffeb8bbad17ca034f75d62.png",
       "id": "image-display-6607b193b3094182816d",
       "image_processing": {
@@ -98,6 +117,7 @@
       "parent_asset_id": "image-931d41fb5cd747bd3015",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2175fcab421fb24f6e60364bb9c8c58af8adc61ef8ffeb8bbad17ca034f75d62",
       "size": 124748,
       "source_url": "https://store.bblcdn.com/s7/default/0619e42ed64b4ef9bc6faf20c7feddf2/ZH104.png"
@@ -179,7 +199,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Retracting Spool Holder. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Retracting Spool Holder on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh104-retracting-spool-holder",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Retracting Spool Holder",
   "offers": [
@@ -191,6 +212,7 @@
       "price": "13.01",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/retracting-spool-holder?skr=yes"
     },
     {
@@ -201,6 +223,7 @@
       "price": "15.7",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/retracting-spool-holder?skr=yes"
     },
     {
@@ -211,6 +234,7 @@
       "price": "12.69",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/retracting-spool-holder?skr=yes"
     },
     {
@@ -221,6 +245,7 @@
       "price": "11.01",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/retracting-spool-holder?skr=yes"
     },
     {
@@ -231,6 +256,7 @@
       "price": "25.49",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/retracting-spool-holder?skr=yes"
     },
     {
@@ -241,6 +267,7 @@
       "price": "11.3",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/retracting-spool-holder?skr=yes"
     }
   ],
@@ -311,6 +338,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -323,6 +351,7 @@
       "price": "13.01",
       "region": "us",
       "sku": "654954352100933634",
+      "store_id": "",
       "title": "Retracting Spool Holder - Retracting Spool Holder - ZH104",
       "url": "https://us.store.bambulab.com/products/retracting-spool-holder?id=654954352100933634",
       "variant_id": "654954352100933634"
@@ -335,6 +364,7 @@
       "price": "15.7",
       "region": "ca",
       "sku": "654955445275996162",
+      "store_id": "",
       "title": "Retracting Spool Holder - Retracting Spool Holder - ZH104",
       "url": "https://ca.store.bambulab.com/products/retracting-spool-holder?id=654955445275996162",
       "variant_id": "654955445275996162"
@@ -347,6 +377,7 @@
       "price": "12.69",
       "region": "eu",
       "sku": "654955144739737602",
+      "store_id": "",
       "title": "Retracting Spool Holder - Retracting Spool Holder - ZH104",
       "url": "https://eu.store.bambulab.com/products/retracting-spool-holder?id=654955144739737602",
       "variant_id": "654955144739737602"
@@ -359,6 +390,7 @@
       "price": "11.01",
       "region": "uk",
       "sku": "654954915246149634",
+      "store_id": "",
       "title": "Retracting Spool Holder - Retracting Spool Holder - ZH104",
       "url": "https://uk.store.bambulab.com/products/retracting-spool-holder?id=654954915246149634",
       "variant_id": "654954915246149634"
@@ -371,6 +403,7 @@
       "price": "25.49",
       "region": "au",
       "sku": "654955632637661186",
+      "store_id": "",
       "title": "Retracting Spool Holder - Retracting Spool Holder - ZH104",
       "url": "https://au.store.bambulab.com/products/retracting-spool-holder?id=654955632637661186",
       "variant_id": "654955632637661186"
@@ -383,6 +416,7 @@
       "price": "11.3",
       "region": "asia",
       "sku": "654932619427385346",
+      "store_id": "",
       "title": "Retracting Spool Holder - Retracting Spool Holder - ZH104",
       "url": "https://asia.store.bambulab.com/products/retracting-spool-holder?id=654932619427385346",
       "variant_id": "654932619427385346"

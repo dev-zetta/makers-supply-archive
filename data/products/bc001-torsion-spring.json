@@ -4,36 +4,49 @@
     {
       "handle": "torsion-spring",
       "product_id": "7968055263368",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "torsion-spring",
       "product_id": "8643884220656",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "torsion-spring",
       "product_id": "8849670439260",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "torsion-spring",
       "product_id": "7372907675708",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "torsion-spring",
       "product_id": "8264133804195",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "torsion-spring",
       "product_id": "7485391569011",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3b/3b1e6176b557ef9925fb5e14d6af8d494f5d48cf133b84ae041a2723a486681b.png",
       "id": "image-cd6ad9c7c94dc693079a",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "BC002.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3b1e6176b557ef9925fb5e14d6af8d494f5d48cf133b84ae041a2723a486681b",
       "size": 193149,
       "source_url": "https://store.bblcdn.com/s7/default/a967a4ec39074e9cb36c422db74b6414/BC002.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d4/d4c15f7ce8a53bb0beb6bf792a868ff650da4cb76ebdcfd368aa979c7fd8edc2.png",
       "id": "image-cd2a5fe0e2df7724aaef",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "FAC036_a56af057-b68f-448d-997a-6fa51a58bdf9.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d4c15f7ce8a53bb0beb6bf792a868ff650da4cb76ebdcfd368aa979c7fd8edc2",
       "size": 195082,
       "source_url": "https://store.bblcdn.com/s7/default/b7d5b1eab99a4ecabfec2198b5b1501e/FAC036_a56af057-b68f-448d-997a-6fa51a58bdf9.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/66/665740cd748b8f4021d549d274fd5776f0bf545aee3823184c3172e00ca64cab.png",
       "id": "image-36c2fea74cff66a49e37",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "FAC036-1_e8d14dc5-d0d4-47cc-b402-f5cd48492387.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "665740cd748b8f4021d549d274fd5776f0bf545aee3823184c3172e00ca64cab",
       "size": 193002,
       "source_url": "https://store.bblcdn.com/s7/default/c76c45b6f22d4f99a545d13b259918d2/FAC036-1_e8d14dc5-d0d4-47cc-b402-f5cd48492387.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b2/b27012368146c1de315edb451ba71f5f2eb58ea84df9ad0a64392593faa07857.png",
       "id": "image-70d0a6c67ff00e51bacd",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "FAC036-2_90f832a5-cfeb-45f1-a464-cf197700a7fe.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b27012368146c1de315edb451ba71f5f2eb58ea84df9ad0a64392593faa07857",
       "size": 193992,
       "source_url": "https://store.bblcdn.com/s7/default/038e427713244c9db9722e70f472be51/FAC036-2_90f832a5-cfeb-45f1-a464-cf197700a7fe.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3f/3fb445ee2ad60f55f5cca31ca708cc8e3c5155766cf7f04d74a5e2ad8aebee60.png",
       "id": "image-2706b1cbc3f17c3af7f4",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "FAC036-3_e0e3c405-423b-4ffb-bc79-e2c29a909bef.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3fb445ee2ad60f55f5cca31ca708cc8e3c5155766cf7f04d74a5e2ad8aebee60",
       "size": 195701,
       "source_url": "https://store.bblcdn.com/s7/default/285b31d39707405392ebf5198bd92f5e/FAC036-3_e0e3c405-423b-4ffb-bc79-e2c29a909bef.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/00/00082561dd84efaf09104e4117e437cca18f13f50e18873c54355c75be37623d.png",
       "id": "image-195931014778728eef8c",
       "kind": "image",
@@ -101,11 +124,13 @@
       "original_filename": "BC001_ee651374-a163-491f-96af-a64867141017.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "00082561dd84efaf09104e4117e437cca18f13f50e18873c54355c75be37623d",
       "size": 64733,
       "source_url": "https://store.bblcdn.com/s7/default/691d6e2b793746708eb44f7b53091902/BC001_ee651374-a163-491f-96af-a64867141017.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/02/0244861bcfff9ea9a4fad6058793803f08edcd8aa3018a0019244e9aeaaa3afa.png",
       "id": "image-c4f6af7b631017107dba",
       "kind": "image",
@@ -113,11 +138,13 @@
       "original_filename": "1.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0244861bcfff9ea9a4fad6058793803f08edcd8aa3018a0019244e9aeaaa3afa",
       "size": 48458,
       "source_url": "https://store.bblcdn.com/s7/default/302b43e5ce9b4145b5d7e88d62ffb275/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5f/5f82bbb0017d3df9a139d29c8e1fd393bc98c44b6c1a0b4cbbe481b93b974ad1.png",
       "id": "image-6694e68b4ceba7efa7d6",
       "kind": "image",
@@ -125,11 +152,13 @@
       "original_filename": "TorsionSpring.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5f82bbb0017d3df9a139d29c8e1fd393bc98c44b6c1a0b4cbbe481b93b974ad1",
       "size": 167399,
       "source_url": "https://store.bblcdn.com/s7/default/b5e4f4f9b4894323849654e95be6768a/TorsionSpring.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f9/f9fc0cd7135a80d5f9a14f0ae758d5f18ad8b168cb8f61a2eb5808d94186af01.pdf",
       "id": "document-48618adba56cc581a4ea",
       "kind": "document",
@@ -137,11 +166,13 @@
       "original_filename": "Torsion_Spring.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f9fc0cd7135a80d5f9a14f0ae758d5f18ad8b168cb8f61a2eb5808d94186af01",
       "size": 969975,
       "source_url": "https://store.bblcdn.com/s7/default/c9dae0413a004579bffebdf0f8de8519/Torsion_Spring.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5f/5f05753e5f4fe0ce0adb7c9a2491a2ea0e8515e55546849c461e61d5020779ad.zip",
       "id": "archive-a993e96b8bdd9bc82604",
       "kind": "archive",
@@ -149,11 +180,13 @@
       "original_filename": "Torsion_Springs.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5f05753e5f4fe0ce0adb7c9a2491a2ea0e8515e55546849c461e61d5020779ad",
       "size": 5776574,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.4x4x6 mm 120 Degree - BC002/0.4x4x6 mm 120 Degree - BC002.stl",
       "blob_path": "data/blobs/sha256/98/98c35b61f266926f82f2f4a81b70604ff2103b9fc91c1d45d6c5225c06b492d5.stl",
       "id": "model-55cb79312874f56bdff9",
@@ -163,11 +196,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "98c35b61f266926f82f2f4a81b70604ff2103b9fc91c1d45d6c5225c06b492d5",
       "size": 3318784,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.4x4x6 mm 120 Degree - BC002/0.4x4x6 mm 120 Degree - BC002.stp",
       "blob_path": "data/blobs/sha256/23/239fa7b572f7c8f39163cf4d3ffa9d18b9358d400ba17c1c748fb7ef1f3ddcae.stp",
       "id": "model-30b671d728e9b85fbada",
@@ -177,11 +212,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "239fa7b572f7c8f39163cf4d3ffa9d18b9358d400ba17c1c748fb7ef1f3ddcae",
       "size": 162518,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.5x4.5x5 mm 90 Degree - BC003/0.5x4.5x5 mm 90 Degree - BC003.STEP",
       "blob_path": "data/blobs/sha256/bc/bc488ba768313bae72fa85e47bdd0470db66fe288f080d38eae486c9c6c16cee.step",
       "id": "model-ab68d09ded5c7f398ccc",
@@ -191,11 +228,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bc488ba768313bae72fa85e47bdd0470db66fe288f080d38eae486c9c6c16cee",
       "size": 173350,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.5x4.5x5 mm 90 Degree - BC003/0.5x4.5x5 mm 90 Degree - BC003.STL",
       "blob_path": "data/blobs/sha256/25/25d932d0ea788324942e91cc208121608c0a2cb65b5786d7c20441a82403c483.stl",
       "id": "model-89b336bb5f76f0565f15",
@@ -205,11 +244,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "25d932d0ea788324942e91cc208121608c0a2cb65b5786d7c20441a82403c483",
       "size": 2019384,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.5x5x5 mm 120 Degree - BC004/0.5_4.5_5_90.STEP",
       "blob_path": "data/blobs/sha256/bc/bc488ba768313bae72fa85e47bdd0470db66fe288f080d38eae486c9c6c16cee.step",
       "id": "model-88d04e2ef76b104db967",
@@ -219,11 +260,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bc488ba768313bae72fa85e47bdd0470db66fe288f080d38eae486c9c6c16cee",
       "size": 173350,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.5x5x5 mm 120 Degree - BC004/0.5_5_5_120.STEP",
       "blob_path": "data/blobs/sha256/13/13dcda4596ce5fe6cb382341aa285a6c463c5b5a6e59a76c6987a5ccf1cce0a6.step",
       "id": "model-82072692807bd960fd91",
@@ -233,11 +276,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "13dcda4596ce5fe6cb382341aa285a6c463c5b5a6e59a76c6987a5ccf1cce0a6",
       "size": 168586,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.5x5x5 mm 120 Degree - BC004/0.5x5x5 mm 120 Degree - BC004.STEP",
       "blob_path": "data/blobs/sha256/13/13dcda4596ce5fe6cb382341aa285a6c463c5b5a6e59a76c6987a5ccf1cce0a6.step",
       "id": "model-d98dbbfa5d4b852f67df",
@@ -247,11 +292,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "13dcda4596ce5fe6cb382341aa285a6c463c5b5a6e59a76c6987a5ccf1cce0a6",
       "size": 168586,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.5x5x5 mm 120 Degree - BC004/0.5x5x5 mm 120 Degree - BC004.STL",
       "blob_path": "data/blobs/sha256/5d/5d85773aa6a76abbb0b52334ea32868041467ff88c13eb836d7d25b37d83ebcc.stl",
       "id": "model-d03f4c58c8f1c6294fea",
@@ -261,11 +308,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5d85773aa6a76abbb0b52334ea32868041467ff88c13eb836d7d25b37d83ebcc",
       "size": 2075784,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.5x5x5 mm 120 Degree - BC004/0.6_5_4_120.STEP",
       "blob_path": "data/blobs/sha256/08/08bfc3d7ae242a5ffb33aa7310b8bd96aeca698d47201731cae41d30e0d2a1e0.step",
       "id": "model-40ab111e84c951957d05",
@@ -275,11 +324,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "08bfc3d7ae242a5ffb33aa7310b8bd96aeca698d47201731cae41d30e0d2a1e0",
       "size": 140950,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.5x5x5 mm 120 Degree - BC004/0.8_5_3_120.STEP",
       "blob_path": "data/blobs/sha256/b4/b4680097ba959df3a046a3734c90e5c6f4c3eccea5f2ff03f1afaefc2600df48.step",
       "id": "model-b0f08b39af7b87180138",
@@ -289,11 +340,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b4680097ba959df3a046a3734c90e5c6f4c3eccea5f2ff03f1afaefc2600df48",
       "size": 145652,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.6x5x4 mm 120 Degree - BC005/0.6x5x4 mm 120 Degree - BC005.STEP",
       "blob_path": "data/blobs/sha256/08/08bfc3d7ae242a5ffb33aa7310b8bd96aeca698d47201731cae41d30e0d2a1e0.step",
       "id": "model-1493a5c3ceb12f66eb14",
@@ -303,11 +356,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "08bfc3d7ae242a5ffb33aa7310b8bd96aeca698d47201731cae41d30e0d2a1e0",
       "size": 140950,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.6x5x4 mm 120 Degree - BC005/0.6x5x4 mm 120 Degree - BC005.STL",
       "blob_path": "data/blobs/sha256/f9/f9f01fee205a7556c8e8684e690c043523e47d8992d6f3313a9803ddb7b0eee6.stl",
       "id": "model-a61e46ea85f2c2ede7dd",
@@ -317,11 +372,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f9f01fee205a7556c8e8684e690c043523e47d8992d6f3313a9803ddb7b0eee6",
       "size": 1675484,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.8x5x3 mm 120 Degree - BC006/0.8x5x3 mm 120 Degree - BC006.STEP",
       "blob_path": "data/blobs/sha256/b4/b4680097ba959df3a046a3734c90e5c6f4c3eccea5f2ff03f1afaefc2600df48.step",
       "id": "model-c2693f3772b4e27affd1",
@@ -331,11 +388,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b4680097ba959df3a046a3734c90e5c6f4c3eccea5f2ff03f1afaefc2600df48",
       "size": 145652,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "0.8x5x3 mm 120 Degree - BC006/0.8x5x3 mm 120 Degree - BC006.STL",
       "blob_path": "data/blobs/sha256/64/6466ee920ae9b990fe8568b88b88233324b9a5843308d247bdcd2b5beea760f1.stl",
       "id": "model-38b7a1f4d590c145b278",
@@ -345,11 +404,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6466ee920ae9b990fe8568b88b88233324b9a5843308d247bdcd2b5beea760f1",
       "size": 1406884,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "1x5x3 mm 120 Degree - BC001/1x5x3 mm 120 Degree - BC001.stl",
       "blob_path": "data/blobs/sha256/a9/a9b195c0406380787956dd21f4c99f1a89f1403a843fb5e2787556b1f79c7488.stl",
       "id": "model-84785f254a3f6ed72cf7",
@@ -359,11 +420,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a9b195c0406380787956dd21f4c99f1a89f1403a843fb5e2787556b1f79c7488",
       "size": 3075184,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "1x5x3 mm 120 Degree - BC001/1x5x3 mm 120 Degree - BC001.stp",
       "blob_path": "data/blobs/sha256/87/87c43793041d126145e868646c84b4cf72553bbe02b682e06d240f42f4dfe25c.stp",
       "id": "model-da8cfa7820a502e46eb0",
@@ -373,11 +436,13 @@
       "parent_asset_id": "archive-a993e96b8bdd9bc82604",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "87c43793041d126145e868646c84b4cf72553bbe02b682e06d240f42f4dfe25c",
       "size": 109349,
       "source_url": "https://store.bblcdn.com/s7/default/9eb0ac450b3041ab93dcc67316fe6d1e/Torsion_Springs.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b1/b1eedf258a661cd2246c3398dc409670804271b16032c3669fef4a3a24d02d4c.png",
       "id": "image-display-6c87b7ae73121ece9e88",
       "image_processing": {
@@ -395,11 +460,13 @@
       "parent_asset_id": "image-cd6ad9c7c94dc693079a",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b1eedf258a661cd2246c3398dc409670804271b16032c3669fef4a3a24d02d4c",
       "size": 78813,
       "source_url": "https://store.bblcdn.com/s7/default/a967a4ec39074e9cb36c422db74b6414/BC002.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5a/5a739ddb7f0be5ece867112bd3694d5e1b859198c05b99c008c18d7155c8a83c.png",
       "id": "image-display-bab6ef5445c23e49b657",
       "image_processing": {
@@ -417,11 +484,13 @@
       "parent_asset_id": "image-cd2a5fe0e2df7724aaef",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5a739ddb7f0be5ece867112bd3694d5e1b859198c05b99c008c18d7155c8a83c",
       "size": 79959,
       "source_url": "https://store.bblcdn.com/s7/default/b7d5b1eab99a4ecabfec2198b5b1501e/FAC036_a56af057-b68f-448d-997a-6fa51a58bdf9.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/91/919dae4b690ae92921fb063e5ba5b073a16bbc4c95ad1378b3dc4b6910d1aa87.png",
       "id": "image-display-40e93e06f8e2b14f0991",
       "image_processing": {
@@ -439,11 +508,13 @@
       "parent_asset_id": "image-36c2fea74cff66a49e37",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "919dae4b690ae92921fb063e5ba5b073a16bbc4c95ad1378b3dc4b6910d1aa87",
       "size": 78723,
       "source_url": "https://store.bblcdn.com/s7/default/c76c45b6f22d4f99a545d13b259918d2/FAC036-1_e8d14dc5-d0d4-47cc-b402-f5cd48492387.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/65/65fcf8e5151dd749e81db1ee3d6cab3ca5eea4ba7670bcdef5c9789602c73a37.png",
       "id": "image-display-52ded3e73485c795509f",
       "image_processing": {
@@ -461,11 +532,13 @@
       "parent_asset_id": "image-70d0a6c67ff00e51bacd",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "65fcf8e5151dd749e81db1ee3d6cab3ca5eea4ba7670bcdef5c9789602c73a37",
       "size": 79478,
       "source_url": "https://store.bblcdn.com/s7/default/038e427713244c9db9722e70f472be51/FAC036-2_90f832a5-cfeb-45f1-a464-cf197700a7fe.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/71/71a3de086032bbf2964b2aadb11a799299b07f48834e4bb587b7688da19e08c6.png",
       "id": "image-display-39b423ef151053b7979d",
       "image_processing": {
@@ -483,11 +556,13 @@
       "parent_asset_id": "image-2706b1cbc3f17c3af7f4",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "71a3de086032bbf2964b2aadb11a799299b07f48834e4bb587b7688da19e08c6",
       "size": 79970,
       "source_url": "https://store.bblcdn.com/s7/default/285b31d39707405392ebf5198bd92f5e/FAC036-3_e0e3c405-423b-4ffb-bc79-e2c29a909bef.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/65/65b0ebc567a0ce5b4e68813452f6e7b101f3dc70d95524fe4f78ce4c90e91e92.png",
       "id": "image-display-7c59602b654b231dd34e",
       "image_processing": {
@@ -505,11 +580,13 @@
       "parent_asset_id": "image-195931014778728eef8c",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "65b0ebc567a0ce5b4e68813452f6e7b101f3dc70d95524fe4f78ce4c90e91e92",
       "size": 54139,
       "source_url": "https://store.bblcdn.com/s7/default/691d6e2b793746708eb44f7b53091902/BC001_ee651374-a163-491f-96af-a64867141017.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/69/690fe9e1804191d224bf230ef32a00f92e49aeaaf4778ffee0570f27e81450f4.png",
       "id": "image-display-efd5916f186e2ad8c958",
       "image_processing": {
@@ -527,11 +604,13 @@
       "parent_asset_id": "image-c4f6af7b631017107dba",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "690fe9e1804191d224bf230ef32a00f92e49aeaaf4778ffee0570f27e81450f4",
       "size": 39803,
       "source_url": "https://store.bblcdn.com/s7/default/302b43e5ce9b4145b5d7e88d62ffb275/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ff/ff11dfbbdb05b54951f2566bab8718820834425661b57ffb6c5bad6c017277df.png",
       "id": "image-display-be3ab684cb205ab84090",
       "image_processing": {
@@ -549,6 +628,7 @@
       "parent_asset_id": "image-6694e68b4ceba7efa7d6",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ff11dfbbdb05b54951f2566bab8718820834425661b57ffb6c5bad6c017277df",
       "size": 45982,
       "source_url": "https://store.bblcdn.com/s7/default/b5e4f4f9b4894323849654e95be6768a/TorsionSpring.png"
@@ -594,7 +674,8 @@
   "description_text": "Exceeding the maximum allowable deflection can lead to torsional spring fatigue. As the spring rate increases due to higher loads, the load curve rises accordingly, resulting in high stresses that can cause spring fractures.\n\nIn applications without pre-torsion, gaps may cause the spring to vibrate vertically, leading to spring twisting. With pre-torsion, the spring tends to be more stable.\n\nWhen springs are used in a transverse orientation, it may cause wear and fracture of the guide pin and the spring.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "bc001-torsion-spring",
-  "last_seen": "2026-11-10T12:06:28Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Torsion Spring",
   "offers": [
@@ -606,6 +687,7 @@
       "price": "1.64",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/torsion-spring?skr=yes"
     },
     {
@@ -616,6 +698,7 @@
       "price": "1.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/torsion-spring?skr=yes"
     },
     {
@@ -626,6 +709,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/torsion-spring?skr=yes"
     },
     {
@@ -636,6 +720,7 @@
       "price": "2.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/torsion-spring?skr=yes"
     },
     {
@@ -646,6 +731,7 @@
       "price": "3.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/torsion-spring?skr=yes"
     },
     {
@@ -656,6 +742,7 @@
       "price": "1.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/torsion-spring?skr=yes"
     }
   ],
@@ -844,6 +931,7 @@
     "Type": "Torsion spring",
     "Winding Direction": "Right"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -854,6 +942,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42102905700488",
+      "store_id": "",
       "title": "Torsion Spring - 0.4x4x6 mm 120 Degree (10PCS) - BC002",
       "url": "https://us.store.bambulab.com/products/torsion-spring?id=42102905700488",
       "variant_id": "42102905700488"
@@ -866,6 +955,7 @@
       "price": "2.19",
       "region": "us",
       "sku": "42739256393864",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x4.5x5 mm 90 Degree (10PCS) - BC003",
       "url": "https://us.store.bambulab.com/products/torsion-spring?id=42739256393864",
       "variant_id": "42739256393864"
@@ -878,6 +968,7 @@
       "price": "2.51",
       "region": "us",
       "sku": "42739256426632",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x5x5 mm 120 Degree (10PCS) - BC004",
       "url": "https://us.store.bambulab.com/products/torsion-spring?id=42739256426632",
       "variant_id": "42739256426632"
@@ -890,6 +981,7 @@
       "price": "2.74",
       "region": "us",
       "sku": "42739256459400",
+      "store_id": "",
       "title": "Torsion Spring - 0.6x5x4 mm 120 Degree (10PCS) - BC005",
       "url": "https://us.store.bambulab.com/products/torsion-spring?id=42739256459400",
       "variant_id": "42739256459400"
@@ -902,6 +994,7 @@
       "price": "2.96",
       "region": "us",
       "sku": "42739256492168",
+      "store_id": "",
       "title": "Torsion Spring - 0.8x5x3 mm 120 Degree (10PCS) - BC006",
       "url": "https://us.store.bambulab.com/products/torsion-spring?id=42739256492168",
       "variant_id": "42739256492168"
@@ -914,6 +1007,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42102905667720",
+      "store_id": "",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
       "url": "https://us.store.bambulab.com/products/torsion-spring?id=42102905667720",
       "variant_id": "42102905667720"
@@ -926,6 +1020,7 @@
       "price": "1.99",
       "region": "ca",
       "sku": "45648858153200",
+      "store_id": "",
       "title": "Torsion Spring - 0.4x4x6 mm 120 Degree (10PCS) - BC002",
       "url": "https://ca.store.bambulab.com/products/torsion-spring?id=45648858153200",
       "variant_id": "45648858153200"
@@ -938,6 +1033,7 @@
       "price": "2.52",
       "region": "ca",
       "sku": "46336372703472",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x4.5x5 mm 90 Degree (10PCS) - BC003",
       "url": "https://ca.store.bambulab.com/products/torsion-spring?id=46336372703472",
       "variant_id": "46336372703472"
@@ -950,6 +1046,7 @@
       "price": "2.89",
       "region": "ca",
       "sku": "46336372736240",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x5x5 mm 120 Degree (10PCS) - BC004",
       "url": "https://ca.store.bambulab.com/products/torsion-spring?id=46336372736240",
       "variant_id": "46336372736240"
@@ -962,6 +1059,7 @@
       "price": "3.15",
       "region": "ca",
       "sku": "46336372769008",
+      "store_id": "",
       "title": "Torsion Spring - 0.6x5x4 mm 120 Degree (10PCS) - BC005",
       "url": "https://ca.store.bambulab.com/products/torsion-spring?id=46336372769008",
       "variant_id": "46336372769008"
@@ -974,6 +1072,7 @@
       "price": "3.41",
       "region": "ca",
       "sku": "46336372801776",
+      "store_id": "",
       "title": "Torsion Spring - 0.8x5x3 mm 120 Degree (10PCS) - BC006",
       "url": "https://ca.store.bambulab.com/products/torsion-spring?id=46336372801776",
       "variant_id": "46336372801776"
@@ -986,6 +1085,7 @@
       "price": "1.99",
       "region": "ca",
       "sku": "45648858087664",
+      "store_id": "",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
       "url": "https://ca.store.bambulab.com/products/torsion-spring?id=45648858087664",
       "variant_id": "45648858087664"
@@ -998,6 +1098,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "47966956126556",
+      "store_id": "",
       "title": "Torsion Spring - 0.4x4x6 mm 120 Degree (10PCS) - BC002",
       "url": "https://eu.store.bambulab.com/products/torsion-spring?id=47966956126556",
       "variant_id": "47966956126556"
@@ -1010,6 +1111,7 @@
       "price": "2.06",
       "region": "eu",
       "sku": "49068518703452",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x4.5x5 mm 90 Degree (10PCS) - BC003",
       "url": "https://eu.store.bambulab.com/products/torsion-spring?id=49068518703452",
       "variant_id": "49068518703452"
@@ -1022,6 +1124,7 @@
       "price": "2.36",
       "region": "eu",
       "sku": "49068518736220",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x5x5 mm 120 Degree (10PCS) - BC004",
       "url": "https://eu.store.bambulab.com/products/torsion-spring?id=49068518736220",
       "variant_id": "49068518736220"
@@ -1034,6 +1137,7 @@
       "price": "2.58",
       "region": "eu",
       "sku": "49068518768988",
+      "store_id": "",
       "title": "Torsion Spring - 0.6x5x4 mm 120 Degree (10PCS) - BC005",
       "url": "https://eu.store.bambulab.com/products/torsion-spring?id=49068518768988",
       "variant_id": "49068518768988"
@@ -1046,18 +1150,20 @@
       "price": "2.79",
       "region": "eu",
       "sku": "49068518801756",
+      "store_id": "",
       "title": "Torsion Spring - 0.8x5x3 mm 120 Degree (10PCS) - BC006",
       "url": "https://eu.store.bambulab.com/products/torsion-spring?id=49068518801756",
       "variant_id": "49068518801756"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/9f14bf3175d144f98e46f5f5919fdb2e/BC001_4ae6612a-5fc3-48a9-a88e-856bb48a94f0.png",
       "part_number": "BC001",
       "price": "2.49",
       "region": "eu",
       "sku": "47966956093788",
+      "store_id": "",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
       "url": "https://eu.store.bambulab.com/products/torsion-spring?id=47966956093788",
       "variant_id": "47966956093788"
@@ -1070,6 +1176,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "41313805598780",
+      "store_id": "",
       "title": "Torsion Spring - 0.4x4x6 mm 120 Degree (10PCS) - BC002",
       "url": "https://uk.store.bambulab.com/products/torsion-spring?id=41313805598780",
       "variant_id": "41313805598780"
@@ -1082,6 +1189,7 @@
       "price": "1.75",
       "region": "uk",
       "sku": "42010411892796",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x4.5x5 mm 90 Degree (10PCS) - BC003",
       "url": "https://uk.store.bambulab.com/products/torsion-spring?id=42010411892796",
       "variant_id": "42010411892796"
@@ -1094,6 +1202,7 @@
       "price": "2",
       "region": "uk",
       "sku": "42010411925564",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x5x5 mm 120 Degree (10PCS) - BC004",
       "url": "https://uk.store.bambulab.com/products/torsion-spring?id=42010411925564",
       "variant_id": "42010411925564"
@@ -1106,6 +1215,7 @@
       "price": "2.19",
       "region": "uk",
       "sku": "42010411958332",
+      "store_id": "",
       "title": "Torsion Spring - 0.6x5x4 mm 120 Degree (10PCS) - BC005",
       "url": "https://uk.store.bambulab.com/products/torsion-spring?id=42010411958332",
       "variant_id": "42010411958332"
@@ -1118,6 +1228,7 @@
       "price": "2.37",
       "region": "uk",
       "sku": "42010411991100",
+      "store_id": "",
       "title": "Torsion Spring - 0.8x5x3 mm 120 Degree (10PCS) - BC006",
       "url": "https://uk.store.bambulab.com/products/torsion-spring?id=42010411991100",
       "variant_id": "42010411991100"
@@ -1130,6 +1241,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "41313805566012",
+      "store_id": "",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
       "url": "https://uk.store.bambulab.com/products/torsion-spring?id=41313805566012",
       "variant_id": "41313805566012"
@@ -1142,6 +1254,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "44125056696483",
+      "store_id": "",
       "title": "Torsion Spring - 0.4x4x6 mm 120 Degree (10PCS) - BC002",
       "url": "https://au.store.bambulab.com/products/torsion-spring?id=44125056696483",
       "variant_id": "44125056696483"
@@ -1154,6 +1267,7 @@
       "price": "3.95",
       "region": "au",
       "sku": "44820187611299",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x4.5x5 mm 90 Degree (10PCS) - BC003",
       "url": "https://au.store.bambulab.com/products/torsion-spring?id=44820187611299",
       "variant_id": "44820187611299"
@@ -1166,6 +1280,7 @@
       "price": "4.54",
       "region": "au",
       "sku": "44820187644067",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x5x5 mm 120 Degree (10PCS) - BC004",
       "url": "https://au.store.bambulab.com/products/torsion-spring?id=44820187644067",
       "variant_id": "44820187644067"
@@ -1178,6 +1293,7 @@
       "price": "4.95",
       "region": "au",
       "sku": "44820187676835",
+      "store_id": "",
       "title": "Torsion Spring - 0.6x5x4 mm 120 Degree (10PCS) - BC005",
       "url": "https://au.store.bambulab.com/products/torsion-spring?id=44820187676835",
       "variant_id": "44820187676835"
@@ -1190,6 +1306,7 @@
       "price": "5.35",
       "region": "au",
       "sku": "44820187709603",
+      "store_id": "",
       "title": "Torsion Spring - 0.8x5x3 mm 120 Degree (10PCS) - BC006",
       "url": "https://au.store.bambulab.com/products/torsion-spring?id=44820187709603",
       "variant_id": "44820187709603"
@@ -1202,6 +1319,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "44125056663715",
+      "store_id": "",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
       "url": "https://au.store.bambulab.com/products/torsion-spring?id=44125056663715",
       "variant_id": "44125056663715"
@@ -1214,6 +1332,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "41567325061235",
+      "store_id": "",
       "title": "Torsion Spring - 0.4x4x6 mm 120 Degree (10PCS) - BC002",
       "url": "https://asia.store.bambulab.com/products/torsion-spring?id=41567325061235",
       "variant_id": "41567325061235"
@@ -1226,6 +1345,7 @@
       "price": "1.99",
       "region": "asia",
       "sku": "42095399600243",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x4.5x5 mm 90 Degree (10PCS) - BC003",
       "url": "https://asia.store.bambulab.com/products/torsion-spring?id=42095399600243",
       "variant_id": "42095399600243"
@@ -1238,6 +1358,7 @@
       "price": "2.28",
       "region": "asia",
       "sku": "42095399633011",
+      "store_id": "",
       "title": "Torsion Spring - 0.5x5x5 mm 120 Degree (10PCS) - BC004",
       "url": "https://asia.store.bambulab.com/products/torsion-spring?id=42095399633011",
       "variant_id": "42095399633011"
@@ -1250,6 +1371,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "42095399665779",
+      "store_id": "",
       "title": "Torsion Spring - 0.6x5x4 mm 120 Degree (10PCS) - BC005",
       "url": "https://asia.store.bambulab.com/products/torsion-spring?id=42095399665779",
       "variant_id": "42095399665779"
@@ -1262,6 +1384,7 @@
       "price": "2.69",
       "region": "asia",
       "sku": "42095399698547",
+      "store_id": "",
       "title": "Torsion Spring - 0.8x5x3 mm 120 Degree (10PCS) - BC006",
       "url": "https://asia.store.bambulab.com/products/torsion-spring?id=42095399698547",
       "variant_id": "42095399698547"
@@ -1274,6 +1397,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "41567325028467",
+      "store_id": "",
       "title": "Torsion Spring - 1x5x3 mm 120 Degree (5PCS) - BC001",
       "url": "https://asia.store.bambulab.com/products/torsion-spring?id=41567325028467",
       "variant_id": "41567325028467"

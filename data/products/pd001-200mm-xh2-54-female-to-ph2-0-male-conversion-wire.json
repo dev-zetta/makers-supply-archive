@@ -4,36 +4,49 @@
     {
       "handle": "200mm-xh2-54-female-to-ph2-0-male-conversion-wire",
       "product_id": "686102738997055488",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "200mm-xh2-54-female-to-ph2-0-male-conversion-wire",
       "product_id": "686102288797818880",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "200mm-xh2-54-female-to-ph2-0-male-conversion-wire",
       "product_id": "686102641251418112",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "200mm-xh2-54-female-to-ph2-0-male-conversion-wire",
       "product_id": "686102463518294016",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "200mm-xh2-54-female-to-ph2-0-male-conversion-wire",
       "product_id": "686102153776631808",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "200mm-xh2-54-female-to-ph2-0-male-conversion-wire",
       "product_id": "685989347274285056",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2e/2ec093e9244fb2cdab300108a6c5108d1b70f3873f48abfcdabe475d11f65959.png",
       "id": "image-56f2896bbe7a4888d856",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-PD001-3.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2ec093e9244fb2cdab300108a6c5108d1b70f3873f48abfcdabe475d11f65959",
       "size": 72326,
       "source_url": "https://store.bblcdn.com/s7/default/a3abef5485e44171ab5c63fd83f7590d/B-PD001-3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/02/02b04f3802168ae9d7a61857cc58d18c24bfa350473fc4eb60df11149fcd6b30.png",
       "id": "image-b74f1ae6d4c6f9b8be7d",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-PD001-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "02b04f3802168ae9d7a61857cc58d18c24bfa350473fc4eb60df11149fcd6b30",
       "size": 67624,
       "source_url": "https://store.bblcdn.com/s7/default/668ef86856364337a11f186ed469bb36/B-PD001-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/db/dbb5f83da87e6b068cda4b8f03f6a5166d269e6acacb6685d707a99e8d750e44.png",
       "id": "image-3d9ebf4c3b0d42244531",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-PD001-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dbb5f83da87e6b068cda4b8f03f6a5166d269e6acacb6685d707a99e8d750e44",
       "size": 40209,
       "source_url": "https://store.bblcdn.com/s7/default/728a51d87918430c8507a79b90c381d7/B-PD001-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/02/022ef476b83c522e8e7f0f27a940fc8c854b4a80cd43a3f4176106ba9c0db280.zip",
       "id": "archive-fb4538e1b1fbb2ea87c6",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "200mm_XH2.54_Female_to_PH2.0_Male_Power_Cable_-_PD001_3D_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "022ef476b83c522e8e7f0f27a940fc8c854b4a80cd43a3f4176106ba9c0db280",
       "size": 43266,
       "source_url": "https://store.bblcdn.com/s1/default/59e71fd9da8d4656bedb54f8d353a7cf/200mm_XH2.54_Female_to_PH2.0_Male_Power_Cable_-_PD001_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "200mm XH2.54 Female to PH2.0 Male Power Cable - PD001.STEP",
       "blob_path": "data/blobs/sha256/a8/a85875b939c9fbccabd466e9644938ce1cc8846757ae251454d45dd0e6807531.step",
       "id": "model-a5bccd4f9dc14e779e81",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-fb4538e1b1fbb2ea87c6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a85875b939c9fbccabd466e9644938ce1cc8846757ae251454d45dd0e6807531",
       "size": 259691,
       "source_url": "https://store.bblcdn.com/s1/default/59e71fd9da8d4656bedb54f8d353a7cf/200mm_XH2.54_Female_to_PH2.0_Male_Power_Cable_-_PD001_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "200mm XH2.54 Female to PH2.0 Male Power Cable - PD001.STL",
       "blob_path": "data/blobs/sha256/6a/6a0fc78dd32235946ec40e1a03104a0baf4d4d8e9f6f711e376bca7dad9e0229.stl",
       "id": "model-f6e2b1ab76a458b01ef0",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-fb4538e1b1fbb2ea87c6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6a0fc78dd32235946ec40e1a03104a0baf4d4d8e9f6f711e376bca7dad9e0229",
       "size": 31884,
       "source_url": "https://store.bblcdn.com/s1/default/59e71fd9da8d4656bedb54f8d353a7cf/200mm_XH2.54_Female_to_PH2.0_Male_Power_Cable_-_PD001_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/73/7332590ad2f33fb5db310baeaf1a051785281f918bef3122c1a8ab279b21c6c0.png",
       "id": "image-display-51b19a8514c3fb314334",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-56f2896bbe7a4888d856",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7332590ad2f33fb5db310baeaf1a051785281f918bef3122c1a8ab279b21c6c0",
       "size": 24701,
       "source_url": "https://store.bblcdn.com/s7/default/a3abef5485e44171ab5c63fd83f7590d/B-PD001-3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/12/12d2196af0f8c8ecff6d8f3f6db386b536930c01d6dcc88bfaa9b55396745677.png",
       "id": "image-display-182ddf2d3f6f9117d3b8",
       "image_processing": {
@@ -149,11 +176,13 @@
       "parent_asset_id": "image-b74f1ae6d4c6f9b8be7d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "12d2196af0f8c8ecff6d8f3f6db386b536930c01d6dcc88bfaa9b55396745677",
       "size": 14616,
       "source_url": "https://store.bblcdn.com/s7/default/668ef86856364337a11f186ed469bb36/B-PD001-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ad/ad8a729a83f879ee694799935c3f29ad322d82d13396fb304c3721d5a5a4925c.png",
       "id": "image-display-3849fb9349cb5865321a",
       "image_processing": {
@@ -171,6 +200,7 @@
       "parent_asset_id": "image-3d9ebf4c3b0d42244531",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ad8a729a83f879ee694799935c3f29ad322d82d13396fb304c3721d5a5a4925c",
       "size": 32253,
       "source_url": "https://store.bblcdn.com/s7/default/728a51d87918430c8507a79b90c381d7/B-PD001-1.png"
@@ -220,6 +250,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "pd001-200mm-xh2-54-female-to-ph2-0-male-conversion-wire",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Length(mm)",
@@ -250,6 +281,7 @@
       "price": "2.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?skr=yes"
     },
     {
@@ -260,6 +292,7 @@
       "price": "4.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?skr=yes"
     },
     {
@@ -270,6 +303,7 @@
       "price": "3.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?skr=yes"
     },
     {
@@ -280,6 +314,7 @@
       "price": "2.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?skr=yes"
     },
     {
@@ -290,6 +325,7 @@
       "price": "4.99",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?skr=yes"
     },
     {
@@ -300,6 +336,7 @@
       "price": "2.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?skr=yes"
     }
   ],
@@ -354,6 +391,7 @@
     "Product ID": "PD001",
     "Wire Gauge": "22AWG"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -364,6 +402,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "686102739009638402",
+      "store_id": "",
       "title": "XH2.54 Female to PH2.0 Male Conversion Wire - 200mm XH2.54 Female to PH2.0 Male (2PCS) - PD001",
       "url": "https://us.store.bambulab.com/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?id=686102739009638402",
       "variant_id": "686102739009638402"
@@ -376,6 +415,7 @@
       "price": "4.99",
       "region": "ca",
       "sku": "686102288810401794",
+      "store_id": "",
       "title": "XH2.54 Female to PH2.0 Male Conversion Wire - 200mm XH2.54 Female to PH2.0 Male (2PCS) - PD001",
       "url": "https://ca.store.bambulab.com/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?id=686102288810401794",
       "variant_id": "686102288810401794"
@@ -388,6 +428,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "686102641272389634",
+      "store_id": "",
       "title": "XH2.54 Female to PH2.0 Male Conversion Wire - 200mm XH2.54 Female to PH2.0 Male (2PCS) - PD001",
       "url": "https://eu.store.bambulab.com/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?id=686102641272389634",
       "variant_id": "686102641272389634"
@@ -400,6 +441,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "686102463535071234",
+      "store_id": "",
       "title": "XH2.54 Female to PH2.0 Male Conversion Wire - 200mm XH2.54 Female to PH2.0 Male (2PCS) - PD001",
       "url": "https://uk.store.bambulab.com/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?id=686102463535071234",
       "variant_id": "686102463535071234"
@@ -412,6 +454,7 @@
       "price": "4.99",
       "region": "au",
       "sku": "686102153789214722",
+      "store_id": "",
       "title": "XH2.54 Female to PH2.0 Male Conversion Wire - 200mm XH2.54 Female to PH2.0 Male (2PCS) - PD001",
       "url": "https://au.store.bambulab.com/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?id=686102153789214722",
       "variant_id": "686102153789214722"
@@ -424,6 +467,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "685989347312033794",
+      "store_id": "",
       "title": "XH2.54 Female to PH2.0 Male Conversion Wire - 200mm XH2.54 Female to PH2.0 Male (2PCS) - PD001",
       "url": "https://asia.store.bambulab.com/products/200mm-xh2-54-female-to-ph2-0-male-conversion-wire?id=685989347312033794",
       "variant_id": "685989347312033794"

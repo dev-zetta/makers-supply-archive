@@ -4,36 +4,49 @@
     {
       "handle": "pc4-m6-pneumatic-connector-for-ptfe-tube",
       "product_id": "8307820134536",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pc4-m6-pneumatic-connector-for-ptfe-tube",
       "product_id": "8966785794288",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pc4-m6-pneumatic-connector-for-ptfe-tube",
       "product_id": "9513560244572",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pc4-m6-pneumatic-connector-for-ptfe-tube",
       "product_id": "7741551804476",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pc4-m6-pneumatic-connector-for-ptfe-tube",
       "product_id": "8558568997027",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pc4-m6-pneumatic-connector-for-ptfe-tube",
       "product_id": "497922815721431040",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7b/7b4537312632c7cf8357fc951f8ded956d03a93cd478293424d58be1a2764a3a.png",
       "id": "image-1ec7ee4b9d02274a7df9",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "FC001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7b4537312632c7cf8357fc951f8ded956d03a93cd478293424d58be1a2764a3a",
       "size": 395017,
       "source_url": "https://store.bblcdn.com/s7/default/d6b51fd63b3e44b3a89e3165ddc978c6/FC001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2c/2c54d052603515c04e3a4faf06206b929e18407771edf6c24ba581c89fe3ecca.png",
       "id": "image-0078b6a1386be69f5e45",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "FC001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2c54d052603515c04e3a4faf06206b929e18407771edf6c24ba581c89fe3ecca",
       "size": 48350,
       "source_url": "https://store.bblcdn.com/s7/default/490630a8cadc4f619f849e495cd2e677/FC001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/04/04cdf8e6e027690922fe2a1fa7052b06d1d7727782d7d3be8b49f86c6fcdc360.png",
       "id": "image-45801cbd7913a69b76c2",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "FC001-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "04cdf8e6e027690922fe2a1fa7052b06d1d7727782d7d3be8b49f86c6fcdc360",
       "size": 149097,
       "source_url": "https://store.bblcdn.com/s7/default/3fa5bffca67a4a40821a077c1ea4919d/FC001-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/19/19d3c152bba9fd0935a739a69201865e908c5ba730f70046b79547f19c5b6a64.zip",
       "id": "archive-63dd3bc4c59c297ae93c",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "PC4-M6_Pneumatic_Connector_for_PTFE_Tube.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "19d3c152bba9fd0935a739a69201865e908c5ba730f70046b79547f19c5b6a64",
       "size": 544043,
       "source_url": "https://store.bblcdn.com/s7/default/b04f75f7718b42bea16a9638482af7fc/PC4-M6_Pneumatic_Connector_for_PTFE_Tube.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PC4-M6 Pneumatic Connector for PTFE Tube/PC4-M6 - FC001.STEP",
       "blob_path": "data/blobs/sha256/46/4680d129b827185c24faa3e62793f8a7e3d1451199ebf4befbb98a21f4d4d993.step",
       "id": "model-21d1b608a8412381a791",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-63dd3bc4c59c297ae93c",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4680d129b827185c24faa3e62793f8a7e3d1451199ebf4befbb98a21f4d4d993",
       "size": 865979,
       "source_url": "https://store.bblcdn.com/s7/default/b04f75f7718b42bea16a9638482af7fc/PC4-M6_Pneumatic_Connector_for_PTFE_Tube.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PC4-M6 Pneumatic Connector for PTFE Tube/PC4-M6 - FC001.STL",
       "blob_path": "data/blobs/sha256/42/421eb82a0cf39daf4ba9a715008e991dbda2467caa6af7366a2d8df702e9f85e.stl",
       "id": "model-06c1f7146b5fea8462c6",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-63dd3bc4c59c297ae93c",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "421eb82a0cf39daf4ba9a715008e991dbda2467caa6af7366a2d8df702e9f85e",
       "size": 975784,
       "source_url": "https://store.bblcdn.com/s7/default/b04f75f7718b42bea16a9638482af7fc/PC4-M6_Pneumatic_Connector_for_PTFE_Tube.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6f/6f53eeb6c43ef28b100d73cacdd3aff3eef0a5021c7d089c90f2777a50df65f4.png",
       "id": "image-display-d936e4071f37fd3b004f",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-1ec7ee4b9d02274a7df9",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6f53eeb6c43ef28b100d73cacdd3aff3eef0a5021c7d089c90f2777a50df65f4",
       "size": 116217,
       "source_url": "https://store.bblcdn.com/s7/default/d6b51fd63b3e44b3a89e3165ddc978c6/FC001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/46/46e77801cfbfbbb7bda2eb345a0b060446916e6d589d7a1d0dbe5a6e5121dbc9.png",
       "id": "image-display-fda3ea126f512bf765ab",
       "image_processing": {
@@ -149,11 +176,13 @@
       "parent_asset_id": "image-0078b6a1386be69f5e45",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "46e77801cfbfbbb7bda2eb345a0b060446916e6d589d7a1d0dbe5a6e5121dbc9",
       "size": 42388,
       "source_url": "https://store.bblcdn.com/s7/default/490630a8cadc4f619f849e495cd2e677/FC001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/97/97b118c99ccb49f3e7529b6942f3bfc7dd8529d8842f4afacd0a208d4c02558e.png",
       "id": "image-display-59b3a6f2342b1dee0709",
       "image_processing": {
@@ -171,6 +200,7 @@
       "parent_asset_id": "image-45801cbd7913a69b76c2",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "97b118c99ccb49f3e7529b6942f3bfc7dd8529d8842f4afacd0a208d4c02558e",
       "size": 133167,
       "source_url": "https://store.bblcdn.com/s7/default/3fa5bffca67a4a40821a077c1ea4919d/FC001-1.png"
@@ -225,6 +255,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "fc001-pc4-m6-pneumatic-connector-for-ptfe-tube",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "PC4-M6 Pneumatic Connector for PTFE Tube",
   "offers": [
@@ -236,6 +267,7 @@
       "price": "2.74",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/pc4-m6-pneumatic-connector-for-ptfe-tube?skr=yes"
     },
     {
@@ -246,6 +278,7 @@
       "price": "3.15",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/pc4-m6-pneumatic-connector-for-ptfe-tube?skr=yes"
     },
     {
@@ -256,6 +289,7 @@
       "price": "2.58",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/pc4-m6-pneumatic-connector-for-ptfe-tube?skr=yes"
     },
     {
@@ -266,6 +300,7 @@
       "price": "2.19",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/pc4-m6-pneumatic-connector-for-ptfe-tube?skr=yes"
     },
     {
@@ -276,6 +311,7 @@
       "price": "4.95",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/pc4-m6-pneumatic-connector-for-ptfe-tube?skr=yes"
     },
     {
@@ -286,6 +322,7 @@
       "price": "2.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/pc4-m6-pneumatic-connector-for-ptfe-tube?skr=yes"
     }
   ],
@@ -348,6 +385,7 @@
     "Model Number": "PC4-M6",
     "Usage": "For 4mm PTFE Tube"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -358,6 +396,7 @@
       "price": "2.74",
       "region": "us",
       "sku": "42811463630984",
+      "store_id": "",
       "title": "PC4-M6 Pneumatic Connector for PTFE Tube - PC4-M6 Pneumatic Connector (5PCS) - FC001",
       "url": "https://us.store.bambulab.com/products/pc4-m6-pneumatic-connector-for-ptfe-tube?id=42811463630984",
       "variant_id": "42811463630984"
@@ -370,6 +409,7 @@
       "price": "3.15",
       "region": "ca",
       "sku": "46447879454960",
+      "store_id": "",
       "title": "PC4-M6 Pneumatic Connector for PTFE Tube - PC4-M6 Pneumatic Connector (5PCS) - FC001",
       "url": "https://ca.store.bambulab.com/products/pc4-m6-pneumatic-connector-for-ptfe-tube?id=46447879454960",
       "variant_id": "46447879454960"
@@ -382,6 +422,7 @@
       "price": "2.58",
       "region": "eu",
       "sku": "49164647039324",
+      "store_id": "",
       "title": "PC4-M6 Pneumatic Connector for PTFE Tube - PC4-M6 Pneumatic Connector (5PCS) - FC001",
       "url": "https://eu.store.bambulab.com/products/pc4-m6-pneumatic-connector-for-ptfe-tube?id=49164647039324",
       "variant_id": "49164647039324"
@@ -394,6 +435,7 @@
       "price": "2.19",
       "region": "uk",
       "sku": "42077480091708",
+      "store_id": "",
       "title": "PC4-M6 Pneumatic Connector for PTFE Tube - PC4-M6 Pneumatic Connector (5PCS) - FC001",
       "url": "https://uk.store.bambulab.com/products/pc4-m6-pneumatic-connector-for-ptfe-tube?id=42077480091708",
       "variant_id": "42077480091708"
@@ -406,6 +448,7 @@
       "price": "4.95",
       "region": "au",
       "sku": "45066967384227",
+      "store_id": "",
       "title": "PC4-M6 Pneumatic Connector for PTFE Tube - PC4-M6 Pneumatic Connector (5PCS) - FC001",
       "url": "https://au.store.bambulab.com/products/pc4-m6-pneumatic-connector-for-ptfe-tube?id=45066967384227",
       "variant_id": "45066967384227"
@@ -418,6 +461,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "505539059213676546",
+      "store_id": "",
       "title": "PC4-M6 Pneumatic Connector for PTFE Tube - PC4-M6 (5PCS) - FC001",
       "url": "https://asia.store.bambulab.com/products/pc4-m6-pneumatic-connector-for-ptfe-tube?id=505539059213676546",
       "variant_id": "505539059213676546"

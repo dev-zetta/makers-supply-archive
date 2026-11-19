@@ -4,36 +4,49 @@
     {
       "handle": "sh1-0-to-sh1-0-connector-adapter-board",
       "product_id": "8478003036296",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "sh1-0-to-sh1-0-connector-adapter-board",
       "product_id": "558546198722347008",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "sh1-0-to-sh1-0-connector-adapter-board",
       "product_id": "14856295842140",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "sh1-0-to-sh1-0-connector-adapter-board",
       "product_id": "558545626883674112",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "sh1-0-to-sh1-0-connector-adapter-board",
       "product_id": "558543520901210112",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "sh1-0-to-sh1-0-connector-adapter-board",
       "product_id": "558540825437212672",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e0/e011fc788528379e6f35a7d570a226bb0db1a494baa0b0e29ae65e9578c758ed.png",
       "id": "image-fa20dd32d26ca24291f9",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "Frame_1123867435.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e011fc788528379e6f35a7d570a226bb0db1a494baa0b0e29ae65e9578c758ed",
       "size": 518277,
       "source_url": "https://store.bblcdn.com/s7/default/e85aba0b75bf444b94f6d0fd24024f36/Frame_1123867435.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4a/4ad4a72a02d99fa3cdb988b7f22819a6b4adb03726031dc86ca997d1c1fb4eab.png",
       "id": "image-fa0102ad0b367a1442d6",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "Frame_1123867434.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4ad4a72a02d99fa3cdb988b7f22819a6b4adb03726031dc86ca997d1c1fb4eab",
       "size": 521997,
       "source_url": "https://store.bblcdn.com/s7/default/ce142bdeb0454d4b93bd2ca24011f772/Frame_1123867434.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/11/1109bb4eccce7574434297fb14d34c04efc3f358aa60b4261c52a5e7f9a7598a.png",
       "id": "image-14c73215f22aee4119cc",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "XA013.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1109bb4eccce7574434297fb14d34c04efc3f358aa60b4261c52a5e7f9a7598a",
       "size": 683527,
       "source_url": "https://store.bblcdn.com/s7/default/fa1c95606c8e4093b175a2c3fbfb5d3f/XA013.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cc/cc8210b7e06b8edceb29b118e1e7587cd46399eae54c585475bef5ee605d8fd4.zip",
       "id": "archive-fd86484cb2802b0fb8a7",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "SH1.0_to_SH1.0_Connector_Adapter_Board_-_XA013_Model.zip",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cc8210b7e06b8edceb29b118e1e7587cd46399eae54c585475bef5ee605d8fd4",
       "size": 168650,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/SH1.0_to_SH1.0_Connector_Adapter_Board_-_XA013_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "SH1.0 to SH1.0 Connector Adapter Board - XA013.step",
       "blob_path": "data/blobs/sha256/f2/f2ba75821975cdedaa3711dab77a429d7b7622d7ec60056744646eba87e9dab1.step",
       "id": "model-4af1fa0bf0cb4f1a616b",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-fd86484cb2802b0fb8a7",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f2ba75821975cdedaa3711dab77a429d7b7622d7ec60056744646eba87e9dab1",
       "size": 1016357,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/SH1.0_to_SH1.0_Connector_Adapter_Board_-_XA013_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "SH1.0 to SH1.0 Connector Adapter Board - XA013.stl",
       "blob_path": "data/blobs/sha256/0e/0ef8a2d125e959f2551c0b6803423c19c727a21934c75a44f9731cf8b4f2acbe.stl",
       "id": "model-e5c40a7763978920686c",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-fd86484cb2802b0fb8a7",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0ef8a2d125e959f2551c0b6803423c19c727a21934c75a44f9731cf8b4f2acbe",
       "size": 110084,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/SH1.0_to_SH1.0_Connector_Adapter_Board_-_XA013_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c7/c72dc368371256fe5480ef7a82e11fff68dee0455db8c69bf68a885f50dad2fd.png",
       "id": "image-display-49417ac6d4ed8b2c2ae3",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-fa20dd32d26ca24291f9",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c72dc368371256fe5480ef7a82e11fff68dee0455db8c69bf68a885f50dad2fd",
       "size": 151301,
       "source_url": "https://store.bblcdn.com/s7/default/e85aba0b75bf444b94f6d0fd24024f36/Frame_1123867435.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/37/37bb48d95e97f36a1166218c7bff0f777bb379a89bd9fa33892012176aedf62d.png",
       "id": "image-display-d112579e07f54331dbdc",
       "image_processing": {
@@ -149,11 +176,13 @@
       "parent_asset_id": "image-fa0102ad0b367a1442d6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "37bb48d95e97f36a1166218c7bff0f777bb379a89bd9fa33892012176aedf62d",
       "size": 163858,
       "source_url": "https://store.bblcdn.com/s7/default/ce142bdeb0454d4b93bd2ca24011f772/Frame_1123867434.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3c/3c3a912805d86648480f270be1b86d83e8d3587201dc8ddae04736c98290bfb2.png",
       "id": "image-display-43c773a7cf5a89e0e3f6",
       "image_processing": {
@@ -171,6 +200,7 @@
       "parent_asset_id": "image-14c73215f22aee4119cc",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3c3a912805d86648480f270be1b86d83e8d3587201dc8ddae04736c98290bfb2",
       "size": 177648,
       "source_url": "https://store.bblcdn.com/s7/default/fa1c95606c8e4093b175a2c3fbfb5d3f/XA013.png"
@@ -240,6 +270,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xa013-sh1-0-to-sh1-0-connector-adapter-board",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "SH1.0 to SH1.0 Connector Adapter Board",
   "offers": [
@@ -251,6 +282,7 @@
       "price": "2.79",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
     },
     {
@@ -261,6 +293,7 @@
       "price": "3.15",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
     },
     {
@@ -271,6 +304,7 @@
       "price": "2.58",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
     },
     {
@@ -281,6 +315,7 @@
       "price": "2.19",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
     },
     {
@@ -291,6 +326,7 @@
       "price": "4.95",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
     },
     {
@@ -301,6 +337,7 @@
       "price": "2.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/sh1-0-to-sh1-0-connector-adapter-board?skr=yes"
     }
   ],
@@ -358,6 +395,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -370,6 +408,7 @@
       "price": "2.79",
       "region": "us",
       "sku": "43257414647944",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
       "url": "https://us.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=43257414647944",
       "variant_id": "43257414647944"
@@ -382,6 +421,7 @@
       "price": "2.79",
       "region": "us",
       "sku": "682722434274004994",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
       "url": "https://us.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682722434274004994",
       "variant_id": "682722434274004994"
@@ -394,6 +434,7 @@
       "price": "3.15",
       "region": "ca",
       "sku": "558546198734929922",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
       "url": "https://ca.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=558546198734929922",
       "variant_id": "558546198734929922"
@@ -406,6 +447,7 @@
       "price": "3.15",
       "region": "ca",
       "sku": "682483442714042370",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
       "url": "https://ca.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682483442714042370",
       "variant_id": "682483442714042370"
@@ -418,6 +460,7 @@
       "price": "2.58",
       "region": "eu",
       "sku": "53846651437404",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
       "url": "https://eu.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=53846651437404",
       "variant_id": "53846651437404"
@@ -430,6 +473,7 @@
       "price": "2.58",
       "region": "eu",
       "sku": "682482956421267456",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
       "url": "https://eu.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682482956421267456",
       "variant_id": "682482956421267456"
@@ -442,6 +486,7 @@
       "price": "2.19",
       "region": "uk",
       "sku": "558545626900451330",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
       "url": "https://uk.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=558545626900451330",
       "variant_id": "558545626900451330"
@@ -454,6 +499,7 @@
       "price": "2.19",
       "region": "uk",
       "sku": "682483383129292802",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
       "url": "https://uk.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682483383129292802",
       "variant_id": "682483383129292802"
@@ -466,6 +512,7 @@
       "price": "4.95",
       "region": "au",
       "sku": "558543520913793026",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
       "url": "https://au.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=558543520913793026",
       "variant_id": "558543520913793026"
@@ -478,6 +525,7 @@
       "price": "4.95",
       "region": "au",
       "sku": "682483495594659842",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
       "url": "https://au.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682483495594659842",
       "variant_id": "682483495594659842"
@@ -490,6 +538,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "558540825453989889",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 2Pin Connector Adapter Board (2PCS) - XA013",
       "url": "https://asia.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=558540825453989889",
       "variant_id": "558540825453989889"
@@ -502,6 +551,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "682483549144141824",
+      "store_id": "",
       "title": "SH1.0 to SH1.0 Connector Adapter Board - SH1.0 to SH1.0 3Pin Connector Adapter Board (2PCS) - XA018",
       "url": "https://asia.store.bambulab.com/products/sh1-0-to-sh1-0-connector-adapter-board?id=682483549144141824",
       "variant_id": "682483549144141824"

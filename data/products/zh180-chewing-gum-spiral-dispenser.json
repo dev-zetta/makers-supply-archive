@@ -4,36 +4,49 @@
     {
       "handle": "chewing-gum-spiral-dispenser",
       "product_id": "772292500235759616",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "chewing-gum-spiral-dispenser",
       "product_id": "772292834496622592",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "chewing-gum-spiral-dispenser",
       "product_id": "772291634372083712",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "chewing-gum-spiral-dispenser",
       "product_id": "772293016353263616",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "chewing-gum-spiral-dispenser",
       "product_id": "772292558356230144",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "chewing-gum-spiral-dispenser",
       "product_id": "772292104121540608",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c1/c1b4dc7ebf4f867725f4c59537f2e276a5ec107a72e8164b453e8d1710924543.png",
       "id": "image-6a76fdf0bb69674668dc",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH180_KV.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c1b4dc7ebf4f867725f4c59537f2e276a5ec107a72e8164b453e8d1710924543",
       "size": 2111175,
       "source_url": "https://store.bblcdn.com/s7/default/75b7a761c4964ae59cb927f74f8e262d/B-ZH180_KV.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/99/99842a05cabc31d9f16a2ae505a707410c47fdb79c18f989eb358a2206bd0b4a.png",
       "id": "image-57ebdb2f5cae80ca082f",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH180_supply.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "99842a05cabc31d9f16a2ae505a707410c47fdb79c18f989eb358a2206bd0b4a",
       "size": 465773,
       "source_url": "https://store.bblcdn.com/s7/default/110cfeddd7d949d192d31729d9388ea7/B-ZH180_supply.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0d/0d7345419ccfe4d75e5b67ae6800401560534dba3352731314cb9701d8dc7f8c.png",
       "id": "image-display-d4aab9a3e2fbfefbd654",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-6a76fdf0bb69674668dc",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0d7345419ccfe4d75e5b67ae6800401560534dba3352731314cb9701d8dc7f8c",
       "size": 505283,
       "source_url": "https://store.bblcdn.com/s7/default/75b7a761c4964ae59cb927f74f8e262d/B-ZH180_KV.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7b/7ba62cb7e3f87175f3a923eaf67fca34556e26bfea4ed91d53f4f81795823c01.png",
       "id": "image-display-46a1fb3e2a481ad73d72",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-57ebdb2f5cae80ca082f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7ba62cb7e3f87175f3a923eaf67fca34556e26bfea4ed91d53f4f81795823c01",
       "size": 120839,
       "source_url": "https://store.bblcdn.com/s7/default/110cfeddd7d949d192d31729d9388ea7/B-ZH180_supply.png"
@@ -198,7 +218,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Chewing Gum Dispenser. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Chewing Gum Spiral Dispenser on MakerWorld.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zh180-chewing-gum-spiral-dispenser",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Chewing Gum Spiral Dispenser",
   "offers": [
@@ -210,6 +231,7 @@
       "price": "22.99",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/chewing-gum-spiral-dispenser?skr=yes"
     },
     {
@@ -220,6 +242,7 @@
       "price": "25.99",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/chewing-gum-spiral-dispenser?skr=yes"
     },
     {
@@ -230,16 +253,18 @@
       "price": "23.91",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/chewing-gum-spiral-dispenser?skr=yes"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "GBP",
       "listed": true,
       "missing_runs": 0,
       "price": "17.99",
       "region": "uk",
-      "retrieved_at": "2026-11-10T12:06:28Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/chewing-gum-spiral-dispenser?skr=yes"
     },
     {
@@ -250,6 +275,7 @@
       "price": "39.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/chewing-gum-spiral-dispenser?skr=yes"
     },
     {
@@ -260,6 +286,7 @@
       "price": "19.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/chewing-gum-spiral-dispenser?skr=yes"
     }
   ],
@@ -340,6 +367,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -352,6 +380,7 @@
       "price": "22.99",
       "region": "us",
       "sku": "772292500252536834",
+      "store_id": "",
       "title": "Chewing Gum Spiral Dispenser - Chewing Gum Spiral Dispenser - ZH180",
       "url": "https://us.store.bambulab.com/products/chewing-gum-spiral-dispenser?id=772292500252536834",
       "variant_id": "772292500252536834"
@@ -364,6 +393,7 @@
       "price": "25.99",
       "region": "ca",
       "sku": "772292834509205506",
+      "store_id": "",
       "title": "Chewing Gum Spiral Dispenser - Chewing Gum Spiral Dispenser - ZH180",
       "url": "https://ca.store.bambulab.com/products/chewing-gum-spiral-dispenser?id=772292834509205506",
       "variant_id": "772292834509205506"
@@ -376,18 +406,20 @@
       "price": "23.91",
       "region": "eu",
       "sku": "772291634393055233",
+      "store_id": "",
       "title": "Chewing Gum Spiral Dispenser - Chewing Gum Spiral Dispenser - ZH180",
       "url": "https://eu.store.bambulab.com/products/chewing-gum-spiral-dispenser?id=772291634393055233",
       "variant_id": "772291634393055233"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "GBP",
       "image_url": "https://store.bblcdn.eu/s4/default/917ee491ff504ec2b7044131ff293214/B-ZH180_KV.png",
       "part_number": "ZH180",
       "price": "17.99",
       "region": "uk",
       "sku": "772293016374235136",
+      "store_id": "",
       "title": "Chewing Gum Spiral Dispenser - Chewing Gum Spiral Dispenser - ZH180",
       "url": "https://uk.store.bambulab.com/products/chewing-gum-spiral-dispenser?id=772293016374235136",
       "variant_id": "772293016374235136"
@@ -400,6 +432,7 @@
       "price": "39.99",
       "region": "au",
       "sku": "772292558373007362",
+      "store_id": "",
       "title": "Chewing Gum Spiral Dispenser - Chewing Gum Spiral Dispenser - ZH180",
       "url": "https://au.store.bambulab.com/products/chewing-gum-spiral-dispenser?id=772292558373007362",
       "variant_id": "772292558373007362"
@@ -412,6 +445,7 @@
       "price": "19.99",
       "region": "asia",
       "sku": "772292104142512130",
+      "store_id": "",
       "title": "Chewing Gum Spiral Dispenser - Chewing Gum Dispenser - ZH180",
       "url": "https://asia.store.bambulab.com/products/chewing-gum-spiral-dispenser?id=772292104142512130",
       "variant_id": "772292104142512130"

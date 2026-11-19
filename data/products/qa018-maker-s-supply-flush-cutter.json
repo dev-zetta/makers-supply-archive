@@ -4,36 +4,49 @@
     {
       "handle": "maker-s-supply-flush-cutter",
       "product_id": "677063853514817536",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-flush-cutter",
       "product_id": "677065036050219008",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-flush-cutter",
       "product_id": "677064563855605760",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-flush-cutter",
       "product_id": "677065627579834368",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-flush-cutter",
       "product_id": "677065152654897152",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-flush-cutter",
       "product_id": "677009644000813056",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1a/1ae26777a5b30ef987a2acf65702f8ce92752752eb6cffa94d90e510c808da60.png",
       "id": "image-efc2d44b44c1749af022",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "QA018.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1ae26777a5b30ef987a2acf65702f8ce92752752eb6cffa94d90e510c808da60",
       "size": 731499,
       "source_url": "https://store.bblcdn.com/s7/default/0bcb49893ee845efbeff781a6e7efa3d/QA018.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2c/2cb09840e0e59894dcffb9ea4af44abd144268eb122112cb65c9b592163b66ff.png",
       "id": "image-display-c4960795a8c368f5bbd9",
       "image_processing": {
@@ -63,6 +78,7 @@
       "parent_asset_id": "image-efc2d44b44c1749af022",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2cb09840e0e59894dcffb9ea4af44abd144268eb122112cb65c9b592163b66ff",
       "size": 166609,
       "source_url": "https://store.bblcdn.com/s7/default/0bcb49893ee845efbeff781a6e7efa3d/QA018.png"
@@ -132,6 +148,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "qa018-maker-s-supply-flush-cutter",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Cutting Edge Length",
@@ -164,6 +181,7 @@
       "price": "13.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/maker-s-supply-flush-cutter?skr=yes"
     },
     {
@@ -174,6 +192,7 @@
       "price": "17.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/maker-s-supply-flush-cutter?skr=yes"
     },
     {
@@ -184,6 +203,7 @@
       "price": "14.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/maker-s-supply-flush-cutter?skr=yes"
     },
     {
@@ -194,6 +214,7 @@
       "price": "11.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/maker-s-supply-flush-cutter?skr=yes"
     },
     {
@@ -204,6 +225,7 @@
       "price": "19.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/maker-s-supply-flush-cutter?skr=yes"
     },
     {
@@ -214,6 +236,7 @@
       "price": "13.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/maker-s-supply-flush-cutter?skr=yes"
     }
   ],
@@ -286,6 +309,7 @@
     "Max Cutting Capacity": "Plastic parts up to 2.5 mm in diameter",
     "Overall Length": "130 mm ± 2 mm"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -295,6 +319,7 @@
       "price": "13.99",
       "region": "us",
       "sku": "677063853556760578",
+      "store_id": "",
       "title": "Maker's Supply Flush Cutter - Maker's Supply Flush Cutter",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-flush-cutter?id=677063853556760578",
       "variant_id": "677063853556760578"
@@ -306,6 +331,7 @@
       "price": "17.99",
       "region": "ca",
       "sku": "677065036096356354",
+      "store_id": "",
       "title": "Maker's Supply Flush Cutter - Maker's Supply Flush Cutter",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-flush-cutter?id=677065036096356354",
       "variant_id": "677065036096356354"
@@ -317,6 +343,7 @@
       "price": "14.99",
       "region": "eu",
       "sku": "677064563868188674",
+      "store_id": "",
       "title": "Maker's Supply Flush Cutter - Maker's Supply Flush Cutter",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-flush-cutter?id=677064563868188674",
       "variant_id": "677064563868188674"
@@ -328,6 +355,7 @@
       "price": "11.99",
       "region": "uk",
       "sku": "677065627630166018",
+      "store_id": "",
       "title": "Maker's Supply Flush Cutter - Maker's Supply Flush Cutter",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-flush-cutter?id=677065627630166018",
       "variant_id": "677065627630166018"
@@ -339,6 +367,7 @@
       "price": "19.99",
       "region": "au",
       "sku": "677065152671674370",
+      "store_id": "",
       "title": "Maker's Supply Flush Cutter - Maker's Supply Flush Cutter",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-flush-cutter?id=677065152671674370",
       "variant_id": "677065152671674370"
@@ -350,6 +379,7 @@
       "price": "13.99",
       "region": "asia",
       "sku": "677009644021784577",
+      "store_id": "",
       "title": "Maker's Supply Flush Cutter - Maker's Supply Flush Cutter",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-flush-cutter?id=677009644021784577",
       "variant_id": "677009644021784577"

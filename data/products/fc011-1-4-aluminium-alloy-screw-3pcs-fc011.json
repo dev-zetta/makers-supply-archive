@@ -4,36 +4,49 @@
     {
       "handle": "1-4-aluminium-alloy-screw-3pcs-fc011",
       "product_id": "603378588509478912",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-aluminium-alloy-screw-3pcs-fc011",
       "product_id": "603374642237603840",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-aluminium-alloy-screw-3pcs-fc011",
       "product_id": "603375633899356160",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-aluminium-alloy-screw-3pcs-fc011",
       "product_id": "603376076661100544",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-aluminium-alloy-screw-3pcs-fc011",
       "product_id": "603374169887670272",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-aluminium-alloy-screw-3pcs-fc011",
       "product_id": "603371489077035008",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b2/b247bdcf91e57a5e523da85ba4dadf9e1865f2712216c15f715caf77878db4e0.png",
       "id": "image-1da035c3aee54a2c19bf",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-KC011.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b247bdcf91e57a5e523da85ba4dadf9e1865f2712216c15f715caf77878db4e0",
       "size": 438992,
       "source_url": "https://store.bblcdn.com/s7/default/17cd2d2514d0452c86e2107081ae5f7d/B-KC011.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/81/8154f0dca63d81555a98b60e9ed9da568d1a7062c25ccc4e32b929cb3c7a1560.png",
       "id": "image-432e98bc8149d71d1be8",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-FC011.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8154f0dca63d81555a98b60e9ed9da568d1a7062c25ccc4e32b929cb3c7a1560",
       "size": 74438,
       "source_url": "https://store.bblcdn.com/s7/default/cc4d3e7f05654c478e1475c6606b41aa/B-FC011.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/85/857203daff418e851c7c74caa9487567b7dfd006ace2ce833896b8b8f7939a24.pdf",
       "id": "document-b05ae46cbfa6ea51f435",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "M2.5_Socket_Head_Cap_Machine_Screws_SHCS.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "857203daff418e851c7c74caa9487567b7dfd006ace2ce833896b8b8f7939a24",
       "size": 1484336,
       "source_url": "https://store.bblcdn.com/s1/default/ee955b9f12aa49b88aab6da36d59bd24/M2.5_Socket_Head_Cap_Machine_Screws_SHCS.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a3/a32e22bc346b749fc85244323686af069f9bdbbea31f36ecaca622177deb2654.zip",
       "id": "archive-4a74ecc23ddcd62ef61a",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "1-4_Aluminium_Alloy_Screw-_FC011_3D_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a32e22bc346b749fc85244323686af069f9bdbbea31f36ecaca622177deb2654",
       "size": 7587983,
       "source_url": "https://store.bblcdn.com/s1/default/a65ed77ee902419d9b041ef4bda2c46e/1-4_Aluminium_Alloy_Screw-_FC011_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "1-4_Aluminium_Alloy_Screw- FC011.STEP",
       "blob_path": "data/blobs/sha256/d9/d96d8c03ee3b86d1acc4987d056899c334baf2de371a05e24963ce4072fee35e.step",
       "id": "model-9076968716f4423f6fc9",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-4a74ecc23ddcd62ef61a",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d96d8c03ee3b86d1acc4987d056899c334baf2de371a05e24963ce4072fee35e",
       "size": 44151015,
       "source_url": "https://store.bblcdn.com/s1/default/a65ed77ee902419d9b041ef4bda2c46e/1-4_Aluminium_Alloy_Screw-_FC011_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "1-4_Aluminium_Alloy_Screw- FC011.STL",
       "blob_path": "data/blobs/sha256/60/607171aab0d9fe99f3f11456d43a665669cd58dc65019d16e51f7283bde034d2.stl",
       "id": "model-b1ca459a51a96636819a",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-4a74ecc23ddcd62ef61a",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "607171aab0d9fe99f3f11456d43a665669cd58dc65019d16e51f7283bde034d2",
       "size": 1267184,
       "source_url": "https://store.bblcdn.com/s1/default/a65ed77ee902419d9b041ef4bda2c46e/1-4_Aluminium_Alloy_Screw-_FC011_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5a/5a99ec439fe00ce917689688362194acb16eab4e20254f73c633ccc9ea55ad19.png",
       "id": "image-display-a5e3e883a40a4c1319d9",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-1da035c3aee54a2c19bf",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5a99ec439fe00ce917689688362194acb16eab4e20254f73c633ccc9ea55ad19",
       "size": 136716,
       "source_url": "https://store.bblcdn.com/s7/default/17cd2d2514d0452c86e2107081ae5f7d/B-KC011.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/72/7223e8cabddc2921ff81d772252ade7bde04e77b4deb088e412c03cdc6a605cd.png",
       "id": "image-display-5b7d870bcb6cba2537c4",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-432e98bc8149d71d1be8",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7223e8cabddc2921ff81d772252ade7bde04e77b4deb088e412c03cdc6a605cd",
       "size": 20753,
       "source_url": "https://store.bblcdn.com/s7/default/cc4d3e7f05654c478e1475c6606b41aa/B-FC011.png"
@@ -207,6 +235,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "fc011-1-4-aluminium-alloy-screw-3pcs-fc011",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",
@@ -291,6 +320,7 @@
       "price": "5.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/1-4-aluminium-alloy-screw-3pcs-fc011?skr=yes"
     },
     {
@@ -301,6 +331,7 @@
       "price": "5.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/1-4-aluminium-alloy-screw-3pcs-fc011?skr=yes"
     },
     {
@@ -311,6 +342,7 @@
       "price": "5.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/1-4-aluminium-alloy-screw-3pcs-fc011?skr=yes"
     },
     {
@@ -321,6 +353,7 @@
       "price": "5.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/1-4-aluminium-alloy-screw-3pcs-fc011?skr=yes"
     },
     {
@@ -331,6 +364,7 @@
       "price": "5.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/1-4-aluminium-alloy-screw-3pcs-fc011?skr=yes"
     },
     {
@@ -341,6 +375,7 @@
       "price": "5.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/1-4-aluminium-alloy-screw-3pcs-fc011?skr=yes"
     }
   ],
@@ -455,6 +490,7 @@
     "d (mm) Small Step Diameter": "15",
     "h (mm) Small Step Thickness": "0.5"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -465,6 +501,7 @@
       "price": "5.99",
       "region": "us",
       "sku": "603378588522061826",
+      "store_id": "",
       "title": "1/4'' Aluminium Alloy Screw (3PCS) - FC011 - 1/4'' Aluminium Alloy Screw (3PCS) - FC011",
       "url": "https://us.store.bambulab.com/products/1-4-aluminium-alloy-screw-3pcs-fc011?id=603378588522061826",
       "variant_id": "603378588522061826"
@@ -477,6 +514,7 @@
       "price": "5.99",
       "region": "ca",
       "sku": "603374642254381058",
+      "store_id": "",
       "title": "1/4'' Aluminium Alloy Screw (3PCS) - FC011 - 1/4'' Aluminium Alloy Screw (3PCS) - FC011",
       "url": "https://ca.store.bambulab.com/products/1-4-aluminium-alloy-screw-3pcs-fc011?id=603374642254381058",
       "variant_id": "603374642254381058"
@@ -489,6 +527,7 @@
       "price": "5.99",
       "region": "eu",
       "sku": "603375633911939074",
+      "store_id": "",
       "title": "1/4'' Aluminium Alloy Screw (3PCS) - FC011 - 1/4'' Aluminium Alloy Screw (3PCS) - FC011",
       "url": "https://eu.store.bambulab.com/products/1-4-aluminium-alloy-screw-3pcs-fc011?id=603375633911939074",
       "variant_id": "603375633911939074"
@@ -501,6 +540,7 @@
       "price": "5.99",
       "region": "uk",
       "sku": "603376076673683458",
+      "store_id": "",
       "title": "1/4'' Aluminium Alloy Screw (3PCS) - FC011 - 1/4'' Aluminium Alloy Screw (3PCS) - FC011",
       "url": "https://uk.store.bambulab.com/products/1-4-aluminium-alloy-screw-3pcs-fc011?id=603376076673683458",
       "variant_id": "603376076673683458"
@@ -513,6 +553,7 @@
       "price": "5.99",
       "region": "au",
       "sku": "603374169904447490",
+      "store_id": "",
       "title": "1/4'' Aluminium Alloy Screw (3PCS) - FC011 - 1/4'' Aluminium Alloy Screw (3PCS) - FC011",
       "url": "https://au.store.bambulab.com/products/1-4-aluminium-alloy-screw-3pcs-fc011?id=603374169904447490",
       "variant_id": "603374169904447490"
@@ -525,6 +566,7 @@
       "price": "5.99",
       "region": "asia",
       "sku": "603371489089617922",
+      "store_id": "",
       "title": "1/4'' Aluminium Alloy Screw (3PCS) - FC011 - 1/4'' Aluminium Alloy Screw (3PCS) - FC011",
       "url": "https://asia.store.bambulab.com/products/1-4-aluminium-alloy-screw-3pcs-fc011?id=603371489089617922",
       "variant_id": "603371489089617922"

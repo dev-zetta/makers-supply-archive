@@ -4,31 +4,42 @@
     {
       "handle": "halloween-cute-creepy-candle-holder",
       "product_id": "8374892101768",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-cute-creepy-candle-holder",
       "product_id": "9033867067632",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-cute-creepy-candle-holder",
       "product_id": "9594052084060",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-cute-creepy-candle-holder",
       "product_id": "7795222446140",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-cute-creepy-candle-holder",
       "product_id": "513247950749519872",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/86/86b1972637e66ebab7be5bfb70860f7974e0065382abc55207e2c5ae15113df9.jpg",
       "id": "image-6e4bb5b70c3f80827101",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "MC_f657c2bf-63c3-4de6-a873-decbb2796ac6.jpg",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "86b1972637e66ebab7be5bfb70860f7974e0065382abc55207e2c5ae15113df9",
       "size": 102498,
       "source_url": "https://store.bblcdn.com/s7/default/17c66f529da54aa9863516c87bbe5314/MC_f657c2bf-63c3-4de6-a873-decbb2796ac6.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/74/74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0.png",
       "id": "image-69d74973c720c81c4912",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "flame_b033cd40-b8ab-4f19-8f8b-4e7eea637f96.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0",
       "size": 216756,
       "source_url": "https://store.bblcdn.com/s7/default/71c68f81fd2a41e89f483890cca1130f/flame_b033cd40-b8ab-4f19-8f8b-4e7eea637f96.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/11/1191edd3acb093fab27b48d9d2b0e3b6e2e6a6c72f3153f1d4b81aed0d769226.png",
       "id": "image-display-7a36880ee5f7dde2c22a",
       "image_processing": {
@@ -70,11 +85,13 @@
       "parent_asset_id": "image-6e4bb5b70c3f80827101",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1191edd3acb093fab27b48d9d2b0e3b6e2e6a6c72f3153f1d4b81aed0d769226",
       "size": 459467,
       "source_url": "https://store.bblcdn.com/s7/default/17c66f529da54aa9863516c87bbe5314/MC_f657c2bf-63c3-4de6-a873-decbb2796ac6.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/45/450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037.png",
       "id": "image-display-2bb1cfbb1dd311bad51a",
       "image_processing": {
@@ -92,6 +109,7 @@
       "parent_asset_id": "image-69d74973c720c81c4912",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037",
       "size": 69316,
       "source_url": "https://store.bblcdn.com/s7/default/71c68f81fd2a41e89f483890cca1130f/flame_b033cd40-b8ab-4f19-8f8b-4e7eea637f96.png"
@@ -143,7 +161,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Halloween Cute Creepy Candle Holder. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Halloween Cute Creepy Candle Holder and obtain detailed information, please visit the Halloween Cute Creepy Candle Holder on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "dy008-halloween-cute-creepy-candle-holder",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Halloween Cute Creepy Candle Holder",
   "offers": [
@@ -155,6 +174,7 @@
       "price": "8.79",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/halloween-cute-creepy-candle-holder?skr=yes"
     },
     {
@@ -165,6 +185,7 @@
       "price": "10.12",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/halloween-cute-creepy-candle-holder?skr=yes"
     },
     {
@@ -175,6 +196,7 @@
       "price": "8.28",
       "region": "eu",
       "retrieved_at": "2026-11-10T14:27:25Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/halloween-cute-creepy-candle-holder?skr=yes"
     },
     {
@@ -185,6 +207,7 @@
       "price": "7.03",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/halloween-cute-creepy-candle-holder?skr=yes"
     },
     {
@@ -195,6 +218,7 @@
       "price": "7.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/halloween-cute-creepy-candle-holder?skr=yes"
     }
   ],
@@ -238,6 +262,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -250,6 +275,7 @@
       "price": "8.79",
       "region": "us",
       "sku": "42935664541832",
+      "store_id": "",
       "title": "Halloween Cute Creepy Candle Holder - Halloween Cute Creepy Candle Holder - DY008",
       "url": "https://us.store.bambulab.com/products/halloween-cute-creepy-candle-holder?id=42935664541832",
       "variant_id": "42935664541832"
@@ -262,6 +288,7 @@
       "price": "10.12",
       "region": "ca",
       "sku": "46602313662704",
+      "store_id": "",
       "title": "Halloween Cute Creepy Candle Holder - Halloween Cute Creepy Candle Holder - DY008",
       "url": "https://ca.store.bambulab.com/products/halloween-cute-creepy-candle-holder?id=46602313662704",
       "variant_id": "46602313662704"
@@ -274,6 +301,7 @@
       "price": "8.28",
       "region": "eu",
       "sku": "49389774766428",
+      "store_id": "",
       "title": "Halloween Cute Creepy Candle Holder - Halloween Cute Creepy Candle Holder - DY008",
       "url": "https://eu.store.bambulab.com/products/halloween-cute-creepy-candle-holder?id=49389774766428",
       "variant_id": "49389774766428"
@@ -286,6 +314,7 @@
       "price": "7.03",
       "region": "uk",
       "sku": "42186858364988",
+      "store_id": "",
       "title": "Halloween Cute Creepy Candle Holder - Halloween Cute Creepy Candle Holder - DY008",
       "url": "https://uk.store.bambulab.com/products/halloween-cute-creepy-candle-holder?id=42186858364988",
       "variant_id": "42186858364988"
@@ -298,6 +327,7 @@
       "price": "7.99",
       "region": "asia",
       "sku": "513247950757908483",
+      "store_id": "",
       "title": "Halloween Cute Creepy Candle Holder - Halloween Cute Creepy Candle Holder - DY008",
       "url": "https://asia.store.bambulab.com/products/halloween-cute-creepy-candle-holder?id=513247950757908483",
       "variant_id": "513247950757908483"

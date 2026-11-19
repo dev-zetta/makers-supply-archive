@@ -4,36 +4,49 @@
     {
       "handle": "bt2-6-socket-head-cap-self-tapping-screw-shcs",
       "product_id": "7968032358536",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bt2-6-socket-head-cap-self-tapping-screw-shcs",
       "product_id": "8643294200048",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bt2-6-socket-head-cap-self-tapping-screw-shcs",
       "product_id": "8849645994332",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bt2-6-socket-head-cap-self-tapping-screw-shcs",
       "product_id": "7372796133436",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bt2-6-socket-head-cap-self-tapping-screw-shcs",
       "product_id": "8263132807331",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bt2-6-socket-head-cap-self-tapping-screw-shcs",
       "product_id": "7565969358963",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8a/8a194a3aa60a7adba9e02fc8e114892db9407b1318ab037c289e145916daa7f3.png",
       "id": "image-446ec70ad7c0a8090f21",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "AA004.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8a194a3aa60a7adba9e02fc8e114892db9407b1318ab037c289e145916daa7f3",
       "size": 279567,
       "source_url": "https://store.bblcdn.com/s7/default/51170ac21cc7418aa68d21f308fdc6ec/AA004.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/56/560b65abb75097403d088ffa51def901152a393f2abbf61349ad865d63ff6cd4.png",
       "id": "image-98a26a9fc5ae75e10ebe",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "BT2.6SocketHeadCapSelfTappingScrew_SHCS.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "560b65abb75097403d088ffa51def901152a393f2abbf61349ad865d63ff6cd4",
       "size": 246041,
       "source_url": "https://store.bblcdn.com/s7/default/4dbd0a990199410292560e1a4936de7c/BT2.6SocketHeadCapSelfTappingScrew_SHCS.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dc/dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438.zip",
       "id": "archive-508e1bde8ce318475165",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "screw_test.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dc36421b957c3b7a168f7a1e63c9a9b93ba78530fbdd9e536a038ce8f3364438",
       "size": 857757,
       "source_url": "https://store.bblcdn.com/s7/default/55debb62966e4e118ffd161ae1f5272d/screw_test.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2f/2f5354e0a83260c350885d65dedf96ae410c6cc07cc3dcd717a4d4838c3a1d35.zip",
       "id": "archive-52c97bd18b8584c4a60b",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "BT2.6x8SHCS.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2f5354e0a83260c350885d65dedf96ae410c6cc07cc3dcd717a4d4838c3a1d35",
       "size": 70007,
       "source_url": "https://store.bblcdn.com/s7/default/d90d3b47a0ab4d369f494132bf2ba595/BT2.6x8SHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "screw_test.3mf",
       "blob_path": "data/blobs/sha256/dc/dc159c720916f9138847314596261966c3a495a5efc7b00095fe32315fdb3a5d.3mf",
       "id": "model-77ed3e163234c0712e8d",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-508e1bde8ce318475165",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dc159c720916f9138847314596261966c3a495a5efc7b00095fe32315fdb3a5d",
       "size": 874697,
       "source_url": "https://store.bblcdn.com/s7/default/55debb62966e4e118ffd161ae1f5272d/screw_test.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2.6x8SHCS/bt2_6x8shcs.stl",
       "blob_path": "data/blobs/sha256/a7/a79fe7cd525d384ce6581b85768b1e050a020590294f93635bb52ca8a0dfb814.stl",
       "id": "model-e6502e89ddbcd5bec6f0",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-52c97bd18b8584c4a60b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a79fe7cd525d384ce6581b85768b1e050a020590294f93635bb52ca8a0dfb814",
       "size": 188384,
       "source_url": "https://store.bblcdn.com/s7/default/d90d3b47a0ab4d369f494132bf2ba595/BT2.6x8SHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2.6x8SHCS/BT2_6x8SHCS.stp",
       "blob_path": "data/blobs/sha256/0c/0ca32a85823b1c13d3c89f0d4b74a77f861846491567b0d6ce3521a1b2b6295e.stp",
       "id": "model-5af61f25541a42e347cc",
@@ -119,11 +144,13 @@
       "parent_asset_id": "archive-52c97bd18b8584c4a60b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0ca32a85823b1c13d3c89f0d4b74a77f861846491567b0d6ce3521a1b2b6295e",
       "size": 133465,
       "source_url": "https://store.bblcdn.com/s7/default/d90d3b47a0ab4d369f494132bf2ba595/BT2.6x8SHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f5/f522a4636e94dde2174854a341e34a5955b7de3126dd3d9a0b6d40f97dab7e98.png",
       "id": "image-display-ee5d4da72ca8f0eb5838",
       "image_processing": {
@@ -141,11 +168,13 @@
       "parent_asset_id": "image-446ec70ad7c0a8090f21",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f522a4636e94dde2174854a341e34a5955b7de3126dd3d9a0b6d40f97dab7e98",
       "size": 108064,
       "source_url": "https://store.bblcdn.com/s7/default/51170ac21cc7418aa68d21f308fdc6ec/AA004.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b7/b76cbea292886b80abca942e74ea07e680c8f96a02782cfe6cd66882d6356d52.png",
       "id": "image-display-2a51d2511f0072d7a89a",
       "image_processing": {
@@ -163,6 +192,7 @@
       "parent_asset_id": "image-98a26a9fc5ae75e10ebe",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b76cbea292886b80abca942e74ea07e680c8f96a02782cfe6cd66882d6356d52",
       "size": 81374,
       "source_url": "https://store.bblcdn.com/s7/default/4dbd0a990199410292560e1a4936de7c/BT2.6SocketHeadCapSelfTappingScrew_SHCS.png"
@@ -241,6 +271,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa004-bt2-6-socket-head-cap-self-tapping-screw-shcs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",
@@ -307,6 +338,7 @@
       "price": "1.64",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?skr=yes"
     },
     {
@@ -317,6 +349,7 @@
       "price": "1.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?skr=yes"
     },
     {
@@ -327,6 +360,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?skr=yes"
     },
     {
@@ -337,6 +371,7 @@
       "price": "2.4",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?skr=yes"
     },
     {
@@ -347,6 +382,7 @@
       "price": "3.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?skr=yes"
     },
     {
@@ -357,6 +393,7 @@
       "price": "1.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?skr=yes"
     }
   ],
@@ -476,6 +513,7 @@
     "k (mm) Hexagon Across Flats": "2",
     "t (mm) Groove Depth": "1.2"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -486,6 +524,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42102866477192",
+      "store_id": "",
       "title": "BT2.6 Socket Head Cap Self Tapping Screw (SHCS) - BT2.6x8 SHCS Self Tapping Screw (20PCS) - AA004",
       "url": "https://us.store.bambulab.com/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?id=42102866477192",
       "variant_id": "42102866477192"
@@ -498,6 +537,7 @@
       "price": "1.99",
       "region": "ca",
       "sku": "45648239362288",
+      "store_id": "",
       "title": "BT2.6 Socket Head Cap Self Tapping Screw (SHCS) - BT2.6x8 SHCS Self Tapping Screw (20PCS) - AA004",
       "url": "https://ca.store.bambulab.com/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?id=45648239362288",
       "variant_id": "45648239362288"
@@ -510,6 +550,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "47966901600604",
+      "store_id": "",
       "title": "BT2.6 Socket Head Cap Self Tapping Screw (SHCS) - BT2.6x8 SHCS Self Tapping Screw (20PCS) - AA004",
       "url": "https://eu.store.bambulab.com/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?id=47966901600604",
       "variant_id": "47966901600604"
@@ -522,6 +563,7 @@
       "price": "2.4",
       "region": "uk",
       "sku": "41313244708924",
+      "store_id": "",
       "title": "BT2.6 Socket Head Cap Self Tapping Screws (SHCS) - BT2.6x8 SHCS Self Tapping Screw (20PCS) - AA004",
       "url": "https://uk.store.bambulab.com/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?id=41313244708924",
       "variant_id": "41313244708924"
@@ -534,6 +576,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "44121543868579",
+      "store_id": "",
       "title": "BT2.6 Socket Head Cap Self Tapping Screw (SHCS) - BT2.6x8 SHCS Self Tapping Screw (20PCS) - AA004",
       "url": "https://au.store.bambulab.com/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?id=44121543868579",
       "variant_id": "44121543868579"
@@ -546,6 +589,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "41750340206707",
+      "store_id": "",
       "title": "BT2.6 Socket Head Cap Self Tapping Screws (SHCS) - BT2.6x8 SHCS Self Tapping Screw (20PCS) - AA004",
       "url": "https://asia.store.bambulab.com/products/bt2-6-socket-head-cap-self-tapping-screw-shcs?id=41750340206707",
       "variant_id": "41750340206707"

@@ -4,36 +4,49 @@
     {
       "handle": "m2-5-stainless-steel-hex-nut",
       "product_id": "7968002113672",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-hex-nut",
       "product_id": "8642657747184",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-hex-nut",
       "product_id": "8849622892892",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-hex-nut",
       "product_id": "7353314541628",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-hex-nut",
       "product_id": "8263140016291",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-hex-nut",
       "product_id": "7485045178483",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cb/cb94165645c6f8746d4a79b38b46b822b68eaa7c8d721e2d3b0efe135f767dd6.png",
       "id": "image-5df75015a3f6886451ff",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "AB001.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cb94165645c6f8746d4a79b38b46b822b68eaa7c8d721e2d3b0efe135f767dd6",
       "size": 183747,
       "source_url": "https://store.bblcdn.com/s7/default/eef82afd862441d79bd542ed92ee69e5/AB001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2f/2f649eec93850548790872393e22da07b6a8961a072f1276a676729ddc50881f.png",
       "id": "image-e6d67cc45ea904a197c2",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "Nut-M2.5.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2f649eec93850548790872393e22da07b6a8961a072f1276a676729ddc50881f",
       "size": 350712,
       "source_url": "https://store.bblcdn.com/s7/default/b75f8e0820dc48248084af1220d98361/Nut-M2.5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/35/35800283ff185ea5e0a82b92a7b02d7c9245e2661b279e7aaca1024e24af56c5.pdf",
       "id": "document-2d68f80409bd7d21cad0",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "M2.5_Stainless_Steel_Hex_Nut.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "35800283ff185ea5e0a82b92a7b02d7c9245e2661b279e7aaca1024e24af56c5",
       "size": 863280,
       "source_url": "https://store.bblcdn.com/s7/default/93db05124ae54b12acff53d5bba0b78e/M2.5_Stainless_Steel_Hex_Nut.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a1/a1328be404e85736e6f5756a9d8f08675813638cd9a6bcbf3fc6ec5873b1e4f6.zip",
       "id": "archive-86740fc9057395261d77",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "M2.5_Stainless_Steel_Hex_Nut.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a1328be404e85736e6f5756a9d8f08675813638cd9a6bcbf3fc6ec5873b1e4f6",
       "size": 160306,
       "source_url": "https://store.bblcdn.com/s7/default/b80118f46edc429295fae5b82622cec3/M2.5_Stainless_Steel_Hex_Nut.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2.5 Stainless Steel Hex Nut/M2.5 Stainless Steel Hex Nut - AB001.stl",
       "blob_path": "data/blobs/sha256/c1/c12664b24d932dfb9bf3955ebc03e89de67e6de392e8535e7a3e5eab98bef187.stl",
       "id": "model-feaa013c4d53f7b85529",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-86740fc9057395261d77",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c12664b24d932dfb9bf3955ebc03e89de67e6de392e8535e7a3e5eab98bef187",
       "size": 811884,
       "source_url": "https://store.bblcdn.com/s7/default/b80118f46edc429295fae5b82622cec3/M2.5_Stainless_Steel_Hex_Nut.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2.5 Stainless Steel Hex Nut/M2.5 Stainless Steel Hex Nut - AB001.stp",
       "blob_path": "data/blobs/sha256/14/1414ea9a50fbefd7ed9a4db8f33f4874e36b4d2d788cc2a5fddfa40ecb846f6e.stp",
       "id": "model-92b0d57ab5fcc88130ca",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-86740fc9057395261d77",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1414ea9a50fbefd7ed9a4db8f33f4874e36b4d2d788cc2a5fddfa40ecb846f6e",
       "size": 68300,
       "source_url": "https://store.bblcdn.com/s7/default/b80118f46edc429295fae5b82622cec3/M2.5_Stainless_Steel_Hex_Nut.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fb/fb72e61d43d52cd86ae860e61958b882bd86e7a4080d77e320f9a45dc50ad954.png",
       "id": "image-display-c61b770d2cdc0d42da58",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-5df75015a3f6886451ff",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fb72e61d43d52cd86ae860e61958b882bd86e7a4080d77e320f9a45dc50ad954",
       "size": 93284,
       "source_url": "https://store.bblcdn.com/s7/default/eef82afd862441d79bd542ed92ee69e5/AB001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2f/2fd2402ffd1d2fc7efcb7e946fc0704a1b3270e0075123917c0713ee8123cfd6.png",
       "id": "image-display-1a082331f8d6ca6cc404",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-e6d67cc45ea904a197c2",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2fd2402ffd1d2fc7efcb7e946fc0704a1b3270e0075123917c0713ee8123cfd6",
       "size": 109608,
       "source_url": "https://store.bblcdn.com/s7/default/b75f8e0820dc48248084af1220d98361/Nut-M2.5.png"
@@ -183,6 +211,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ab001-m2-5-stainless-steel-hex-nut",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "H (mm) Wrench Size",
@@ -231,6 +260,7 @@
       "price": "1.64",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
     },
     {
@@ -241,6 +271,7 @@
       "price": "1.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
     },
     {
@@ -251,6 +282,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
     },
     {
@@ -261,6 +293,7 @@
       "price": "2.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
     },
     {
@@ -271,6 +304,7 @@
       "price": "3.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
     },
     {
@@ -281,6 +315,7 @@
       "price": "1.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nut?skr=yes"
     }
   ],
@@ -385,6 +420,7 @@
     "e (mm) Across Corners": "5.8",
     "k (mm) Thickness": "1.7"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -395,6 +431,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42102811590792",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
       "url": "https://us.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=42102811590792",
       "variant_id": "42102811590792"
@@ -407,6 +444,7 @@
       "price": "1.99",
       "region": "ca",
       "sku": "45647561621744",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
       "url": "https://ca.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=45647561621744",
       "variant_id": "45647561621744"
@@ -419,6 +457,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "47966831083868",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
       "url": "https://eu.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=47966831083868",
       "variant_id": "47966831083868"
@@ -431,6 +470,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "41313556201532",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
       "url": "https://uk.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=41313556201532",
       "variant_id": "41313556201532"
@@ -443,6 +483,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "44121554878627",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
       "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=44121554878627",
       "variant_id": "44121554878627"
@@ -455,6 +496,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "41566954618995",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Hex Nut (20PCS) - AB001 - M2.5 Stainless Steel Hex Nut (20PCS) - AB001",
       "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-hex-nut?id=41566954618995",
       "variant_id": "41566954618995"

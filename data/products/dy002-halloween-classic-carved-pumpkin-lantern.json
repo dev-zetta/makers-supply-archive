@@ -4,31 +4,42 @@
     {
       "handle": "halloween-classic-carved-pumpkin-lantern",
       "product_id": "8351050465416",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-classic-carved-pumpkin-lantern",
       "product_id": "9021791273200",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-classic-carved-pumpkin-lantern",
       "product_id": "9580947669340",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-classic-carved-pumpkin-lantern",
       "product_id": "7786793893948",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-classic-carved-pumpkin-lantern",
       "product_id": "510347244358918144",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d4/d4e21013a517fd8914c8acf845361d49ad8141ec5245183e9a17d8f02a98f0a8.jpg",
       "id": "image-5c7c79352d0ab76c2690",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "light-6.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d4e21013a517fd8914c8acf845361d49ad8141ec5245183e9a17d8f02a98f0a8",
       "size": 93114,
       "source_url": "https://store.bblcdn.com/s7/default/65feb43ee41a4c46acd301eaa7ea7218/light-6.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f7/f7d3250e4fa4a5dbb7a7eda720907aa8df95e181403f8535d0f81fbe023f1664.jpg",
       "id": "image-c94bc227915c51919fb4",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "light-4.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f7d3250e4fa4a5dbb7a7eda720907aa8df95e181403f8535d0f81fbe023f1664",
       "size": 111672,
       "source_url": "https://store.bblcdn.com/s7/default/9e20664f39d64d3189d991c9e2afc1cd/light-4.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/74/74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0.png",
       "id": "image-69d74973c720c81c4912",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "flame_b033cd40-b8ab-4f19-8f8b-4e7eea637f96.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0",
       "size": 216756,
       "source_url": "https://store.bblcdn.com/s7/default/71c68f81fd2a41e89f483890cca1130f/flame_b033cd40-b8ab-4f19-8f8b-4e7eea637f96.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e5/e59e293b426339c1aaf5ed9e357c71461041e86c97f7939c3e55190fb438e3bd.png",
       "id": "image-display-3eb5257b1254da29dc95",
       "image_processing": {
@@ -82,11 +99,13 @@
       "parent_asset_id": "image-5c7c79352d0ab76c2690",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e59e293b426339c1aaf5ed9e357c71461041e86c97f7939c3e55190fb438e3bd",
       "size": 328844,
       "source_url": "https://store.bblcdn.com/s7/default/65feb43ee41a4c46acd301eaa7ea7218/light-6.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6b/6bdc2020077607f7f7df0d18905afa49bddb3c4087057e111ff8433f5c1738d9.png",
       "id": "image-display-417eec44168402c09c19",
       "image_processing": {
@@ -104,11 +123,13 @@
       "parent_asset_id": "image-c94bc227915c51919fb4",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6bdc2020077607f7f7df0d18905afa49bddb3c4087057e111ff8433f5c1738d9",
       "size": 523577,
       "source_url": "https://store.bblcdn.com/s7/default/9e20664f39d64d3189d991c9e2afc1cd/light-4.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/45/450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037.png",
       "id": "image-display-2bb1cfbb1dd311bad51a",
       "image_processing": {
@@ -126,6 +147,7 @@
       "parent_asset_id": "image-69d74973c720c81c4912",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037",
       "size": 69316,
       "source_url": "https://store.bblcdn.com/s7/default/71c68f81fd2a41e89f483890cca1130f/flame_b033cd40-b8ab-4f19-8f8b-4e7eea637f96.png"
@@ -177,7 +199,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Halloween Classic Carved Pumpkin Lantern. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Halloween Classic Carved Pumpkin Lantern and obtain detailed information, please visit the Halloween Classic Carved Pumpkin Lantern on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "dy002-halloween-classic-carved-pumpkin-lantern",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Halloween Classic Carved Pumpkin Lantern",
   "offers": [
@@ -189,6 +212,7 @@
       "price": "8.79",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/halloween-classic-carved-pumpkin-lantern?skr=yes"
     },
     {
@@ -199,6 +223,7 @@
       "price": "10.12",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/halloween-classic-carved-pumpkin-lantern?skr=yes"
     },
     {
@@ -209,6 +234,7 @@
       "price": "8.28",
       "region": "eu",
       "retrieved_at": "2026-11-10T14:27:25Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/halloween-classic-carved-pumpkin-lantern?skr=yes"
     },
     {
@@ -219,6 +245,7 @@
       "price": "7.03",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/halloween-classic-carved-pumpkin-lantern?skr=yes"
     },
     {
@@ -229,6 +256,7 @@
       "price": "7.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/halloween-classic-carved-pumpkin-lantern?skr=yes"
     }
   ],
@@ -272,6 +300,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -284,6 +313,7 @@
       "price": "8.79",
       "region": "us",
       "sku": "42898869813384",
+      "store_id": "",
       "title": "Halloween Classic Carved Pumpkin Lantern - Halloween Classic Carved Pumpkin Lantern - DY002",
       "url": "https://us.store.bambulab.com/products/halloween-classic-carved-pumpkin-lantern?id=42898869813384",
       "variant_id": "42898869813384"
@@ -296,6 +326,7 @@
       "price": "10.12",
       "region": "ca",
       "sku": "46574699446512",
+      "store_id": "",
       "title": "Halloween Classic Carved Pumpkin Lantern - Halloween Classic Carved Pumpkin Lantern - DY002",
       "url": "https://ca.store.bambulab.com/products/halloween-classic-carved-pumpkin-lantern?id=46574699446512",
       "variant_id": "46574699446512"
@@ -308,6 +339,7 @@
       "price": "8.28",
       "region": "eu",
       "sku": "49349028348252",
+      "store_id": "",
       "title": "Halloween Classic Carved Pumpkin Lantern - Halloween Classic Carved Pumpkin Lantern - DY002",
       "url": "https://eu.store.bambulab.com/products/halloween-classic-carved-pumpkin-lantern?id=49349028348252",
       "variant_id": "49349028348252"
@@ -320,6 +352,7 @@
       "price": "7.03",
       "region": "uk",
       "sku": "42167566401596",
+      "store_id": "",
       "title": "Halloween Classic Carved Pumpkin Lantern - Halloween Jack O’lantern - DY002",
       "url": "https://uk.store.bambulab.com/products/halloween-classic-carved-pumpkin-lantern?id=42167566401596",
       "variant_id": "42167566401596"
@@ -332,6 +365,7 @@
       "price": "7.99",
       "region": "asia",
       "sku": "510347244358918148",
+      "store_id": "",
       "title": "Halloween Classic Carved Pumpkin Lantern - Halloween Classic Carved Pumpkin Lantern - DY002",
       "url": "https://asia.store.bambulab.com/products/halloween-classic-carved-pumpkin-lantern?id=510347244358918148",
       "variant_id": "510347244358918148"

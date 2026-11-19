@@ -4,36 +4,49 @@
     {
       "handle": "helixcore-%E2%80%93-press-to-spin-squishy-ball",
       "product_id": "756417993512058880",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "helixcore-%E2%80%93-press-to-spin-squishy-ball",
       "product_id": "756418715892842496",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "helixcore-%E2%80%93-press-to-spin-squishy-ball",
       "product_id": "756418458907836416",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "helixcore-%E2%80%93-press-to-spin-squishy-ball",
       "product_id": "756421506908553216",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "helixcore-%E2%80%93-press-to-spin-squishy-ball",
       "product_id": "756420738554023936",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "helixcore-%E2%80%93-press-to-spin-squishy-ball",
       "product_id": "756370181629956096",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e9/e9940a6448c01608151f2de3cef319ff34ace7c03d9c64276da999b2583f56b8.jpg",
       "id": "image-ac0b8c1b30725972ac2a",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH171-1.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e9940a6448c01608151f2de3cef319ff34ace7c03d9c64276da999b2583f56b8",
       "size": 1252982,
       "source_url": "https://store.bblcdn.com/s7/default/d5fc6f3fa6444ce1b452a98c1e92ab46/B-ZH171-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/85/85a8aa497097be124beb742c53f30773372df4ec5e787f33459f1176154360a9.jpg",
       "id": "image-cc9c39344eaf70c519c3",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH171-1.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "85a8aa497097be124beb742c53f30773372df4ec5e787f33459f1176154360a9",
       "size": 1255072,
       "source_url": "https://store.bblcdn.com/s7/default/e4f043373e23416d934ab14f7998c7b0/B-ZH171-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/79/792dd61fa6ebbd7c4f1d59de77f0297affe3bc4bcbc35352c0a84db9f966b254.jpg",
       "id": "image-feced24230bf952ecc13",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-ZH171-3.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "792dd61fa6ebbd7c4f1d59de77f0297affe3bc4bcbc35352c0a84db9f966b254",
       "size": 173058,
       "source_url": "https://store.bblcdn.com/s7/default/99fe3730da6147d98acfd2b4ccab2161/B-ZH171-3.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/46/4692cdadbf68a72316d3041c6a9aaed2fade636a3f336b2e4b4e2dda91fc9c2e.png",
       "id": "image-display-56c7b25259dbd70088f2",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-ac0b8c1b30725972ac2a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4692cdadbf68a72316d3041c6a9aaed2fade636a3f336b2e4b4e2dda91fc9c2e",
       "size": 674770,
       "source_url": "https://store.bblcdn.com/s7/default/d5fc6f3fa6444ce1b452a98c1e92ab46/B-ZH171-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bb/bbf648a550ffc8cb90c9bed15bb809ff84b7da8669e2b00dafc9e412a78335d3.png",
       "id": "image-display-d6af4e42a5f0d9ec7e70",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-cc9c39344eaf70c519c3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bbf648a550ffc8cb90c9bed15bb809ff84b7da8669e2b00dafc9e412a78335d3",
       "size": 621373,
       "source_url": "https://store.bblcdn.com/s7/default/e4f043373e23416d934ab14f7998c7b0/B-ZH171-1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a7/a7606309ea08bd2db2cc6a97f2c1d935029fa3cfc009996dad4b622d61ef606c.png",
       "id": "image-display-ba328046387e0c65a63c",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-feced24230bf952ecc13",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a7606309ea08bd2db2cc6a97f2c1d935029fa3cfc009996dad4b622d61ef606c",
       "size": 55116,
       "source_url": "https://store.bblcdn.com/s7/default/99fe3730da6147d98acfd2b4ccab2161/B-ZH171-3.jpg"
@@ -190,7 +214,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Press-to-Spin Squishy Ball. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the HelixCore – Press-to-Spin Squishy Ball on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh171-helixcore-press-to-spin-squishy-ball",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Press-to-Spin Squishy Ball",
   "offers": [
@@ -202,6 +227,7 @@
       "price": "3.66",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?skr=yes"
     },
     {
@@ -212,6 +238,7 @@
       "price": "3.65",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?skr=yes"
     },
     {
@@ -222,6 +249,7 @@
       "price": "3.12",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?skr=yes"
     },
     {
@@ -232,6 +260,7 @@
       "price": "2.53",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?skr=yes"
     },
     {
@@ -242,6 +271,7 @@
       "price": "5.72",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?skr=yes"
     },
     {
@@ -252,6 +282,7 @@
       "price": "2.88",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?skr=yes"
     }
   ],
@@ -302,6 +333,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -314,6 +346,7 @@
       "price": "3.66",
       "region": "us",
       "sku": "756417993554001922",
+      "store_id": "",
       "title": "Press-to-Spin Squishy Ball - Press-to-Spin Squishy Ball - ZH171",
       "url": "https://us.store.bambulab.com/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?id=756417993554001922",
       "variant_id": "756417993554001922"
@@ -326,6 +359,7 @@
       "price": "3.65",
       "region": "ca",
       "sku": "756418715947368450",
+      "store_id": "",
       "title": "Press-to-Spin Squishy Ball - Press-to-Spin Squishy Ball - ZH171",
       "url": "https://ca.store.bambulab.com/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?id=756418715947368450",
       "variant_id": "756418715947368450"
@@ -338,6 +372,7 @@
       "price": "3.12",
       "region": "eu",
       "sku": "756418458924613634",
+      "store_id": "",
       "title": "Press-to-Spin Squishy Ball - Press-to-Spin Squishy Ball - ZH171",
       "url": "https://eu.store.bambulab.com/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?id=756418458924613634",
       "variant_id": "756418458924613634"
@@ -350,6 +385,7 @@
       "price": "2.53",
       "region": "uk",
       "sku": "756421506954690562",
+      "store_id": "",
       "title": "Press-to-Spin Squishy Ball - Press-to-Spin Squishy Ball - ZH171",
       "url": "https://uk.store.bambulab.com/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?id=756421506954690562",
       "variant_id": "756421506954690562"
@@ -362,6 +398,7 @@
       "price": "5.72",
       "region": "au",
       "sku": "756420738612744194",
+      "store_id": "",
       "title": "Press-to-Spin Squishy Ball - Press-to-Spin Squishy Ball - ZH171",
       "url": "https://au.store.bambulab.com/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?id=756420738612744194",
       "variant_id": "756420738612744194"
@@ -374,6 +411,7 @@
       "price": "2.88",
       "region": "asia",
       "sku": "756370181655121922",
+      "store_id": "",
       "title": "Press-to-Spin Squishy Ball - Press-to-Spin Squishy Ball - ZH171",
       "url": "https://asia.store.bambulab.com/products/helixcore-%E2%80%93-press-to-spin-squishy-ball?id=756370181655121922",
       "variant_id": "756370181655121922"

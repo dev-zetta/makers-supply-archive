@@ -4,36 +4,49 @@
     {
       "handle": "single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs",
       "product_id": "593311289696862208",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs",
       "product_id": "593311796249452544",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs",
       "product_id": "14981397610844",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs",
       "product_id": "593311613064019968",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs",
       "product_id": "593312069231665152",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs",
       "product_id": "592971445944954880",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5b/5b807d6e8d04ec97e34177636be019320203e605380ffca6057558f08238bba6.png",
       "id": "image-bd7f5287b9e786d59cf8",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "XA009-F.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5b807d6e8d04ec97e34177636be019320203e605380ffca6057558f08238bba6",
       "size": 1036245,
       "source_url": "https://store.bblcdn.com/s7/default/49c6a136005540919305a1758cb36fb7/XA009-F.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1e/1ebcffc017ff55156024c1583dab7f916da596df85c38dd422bdf372adbf1073.png",
       "id": "image-81d5442ad67117ff9b42",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "XA009-V.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1ebcffc017ff55156024c1583dab7f916da596df85c38dd422bdf372adbf1073",
       "size": 1081157,
       "source_url": "https://store.bblcdn.com/s7/default/dcd4ddb0674e49f596534c9cf3c1ac16/XA009-V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/71/71e558a6f4437399a03098315386456379649abd76d90bafd27ce5bb3116a85d.zip",
       "id": "archive-7c71e5dc32bc2f6dcc37",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "Single-Axis_Joystick_Module_with_3Pin_SH1.0_Connector-XA009_User_Manual.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "71e558a6f4437399a03098315386456379649abd76d90bafd27ce5bb3116a85d",
       "size": 299927,
       "source_url": "https://store.bblcdn.com/s1/default/cd964b2af0064ff9b2e02f44c92c69e5/Single-Axis_Joystick_Module_with_3Pin_SH1.0_Connector-XA009_User_Manual.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a4/a4ae384fc06283a8ed926ff88303cefa175f0f4711354fedda21ff26fb0659a5.pdf",
       "id": "document-bfe9bcfc866609798e0d",
       "kind": "document",
@@ -77,11 +96,13 @@
       "original_filename": "Single-Axis_Joystick_Module_with_3Pin_SH1.0_Connector_-_XA009.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a4ae384fc06283a8ed926ff88303cefa175f0f4711354fedda21ff26fb0659a5",
       "size": 285216,
       "source_url": "https://store.bblcdn.com/s1/default/7e6403a922be4db6bea5d378c8548f71/Single-Axis_Joystick_Module_with_3Pin_SH1.0_Connector_-_XA009.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/82/82aec480e04ddd1a8f14cdf6faeb8152e1fd8bac960041099e4681f1bb33889f.zip",
       "id": "archive-ff7403b81510642b4d65",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "Single-Axis_Joystick_Module_with_3Pin_SH1.0_Connector-XA009_3D_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "82aec480e04ddd1a8f14cdf6faeb8152e1fd8bac960041099e4681f1bb33889f",
       "size": 20285560,
       "source_url": "https://store.bblcdn.com/s1/default/1491ced81dfc439ab45c21ea6b4b69fc/Single-Axis_Joystick_Module_with_3Pin_SH1.0_Connector-XA009_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Single-Axis Joystick Module with 3Pin SH1.0 Connector-XA009.stl",
       "blob_path": "data/blobs/sha256/20/20632c55b5c3c903ffa6f242c3f49bf1e9ecf77b4660ef9efa1722764e51076a.stl",
       "id": "model-2ab42e7ad5207a119aa3",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-ff7403b81510642b4d65",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "20632c55b5c3c903ffa6f242c3f49bf1e9ecf77b4660ef9efa1722764e51076a",
       "size": 54705684,
       "source_url": "https://store.bblcdn.com/s1/default/1491ced81dfc439ab45c21ea6b4b69fc/Single-Axis_Joystick_Module_with_3Pin_SH1.0_Connector-XA009_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Single-Axis Joystick Module with 3Pin SH1.0 Connector-XA009.stp",
       "blob_path": "data/blobs/sha256/4d/4d080bbad8253cf5f079914e831319a34391dbbaa6ddee91ec45bee16f9b5191.stp",
       "id": "model-15e7860bc38862479a6e",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-ff7403b81510642b4d65",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4d080bbad8253cf5f079914e831319a34391dbbaa6ddee91ec45bee16f9b5191",
       "size": 1856729,
       "source_url": "https://store.bblcdn.com/s1/default/1491ced81dfc439ab45c21ea6b4b69fc/Single-Axis_Joystick_Module_with_3Pin_SH1.0_Connector-XA009_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4e/4edc5ebff17eba1d8a16aeece73892cc1e798cde19ec0e6cba80d1ddcb3a2a09.png",
       "id": "image-display-4910e8266f9d4bd321df",
       "image_processing": {
@@ -139,11 +166,13 @@
       "parent_asset_id": "image-bd7f5287b9e786d59cf8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4edc5ebff17eba1d8a16aeece73892cc1e798cde19ec0e6cba80d1ddcb3a2a09",
       "size": 259543,
       "source_url": "https://store.bblcdn.com/s7/default/49c6a136005540919305a1758cb36fb7/XA009-F.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/37/37f9442e5ec8bb9052d5b4da8773be1a0ef79e9b0e7acd9285db84871f441d1e.png",
       "id": "image-display-415d0fa4bda61e064411",
       "image_processing": {
@@ -161,6 +190,7 @@
       "parent_asset_id": "image-81d5442ad67117ff9b42",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "37f9442e5ec8bb9052d5b4da8773be1a0ef79e9b0e7acd9285db84871f441d1e",
       "size": 167976,
       "source_url": "https://store.bblcdn.com/s7/default/dcd4ddb0674e49f596534c9cf3c1ac16/XA009-V.png"
@@ -214,6 +244,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xa009-single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Size",
@@ -235,6 +266,7 @@
       "price": "2.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?skr=yes"
     },
     {
@@ -245,6 +277,7 @@
       "price": "3.69",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?skr=yes"
     },
     {
@@ -255,6 +288,7 @@
       "price": "3.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?skr=yes"
     },
     {
@@ -265,6 +299,7 @@
       "price": "2.59",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?skr=yes"
     },
     {
@@ -275,6 +310,7 @@
       "price": "4.19",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?skr=yes"
     },
     {
@@ -285,6 +321,7 @@
       "price": "2.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?skr=yes"
     }
   ],
@@ -350,6 +387,7 @@
     "Size": "34*27mm",
     "Weight": "6.15g"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -360,6 +398,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "593311289709445122",
+      "store_id": "",
       "title": "Single-Axis Joystick Module with 3Pin SH1.0 Connector (1PCS) - Single-Axis Joystick Module (1PCS) - XA009",
       "url": "https://us.store.bambulab.com/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?id=593311289709445122",
       "variant_id": "593311289709445122"
@@ -372,6 +411,7 @@
       "price": "3.69",
       "region": "ca",
       "sku": "593311796262035458",
+      "store_id": "",
       "title": "Single-Axis Joystick Module with 3Pin SH1.0 Connector (1PCS) - Single-Axis Joystick Module (1PCS) - XA009",
       "url": "https://ca.store.bambulab.com/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?id=593311796262035458",
       "variant_id": "593311796262035458"
@@ -384,6 +424,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "54412727386460",
+      "store_id": "",
       "title": "Single-Axis Joystick Module with 3Pin SH1.0 Connector (1PCS) - Single-Axis Joystick Module (1PCS) - XA009",
       "url": "https://eu.store.bambulab.com/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?id=54412727386460",
       "variant_id": "54412727386460"
@@ -396,6 +437,7 @@
       "price": "2.59",
       "region": "uk",
       "sku": "593311613076602882",
+      "store_id": "",
       "title": "Single-Axis Joystick Module with 3Pin SH1.0 Connector (1PCS) - Single-Axis Joystick Module (1PCS) - XA009",
       "url": "https://uk.store.bambulab.com/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?id=593311613076602882",
       "variant_id": "593311613076602882"
@@ -408,6 +450,7 @@
       "price": "4.19",
       "region": "au",
       "sku": "593312069244248066",
+      "store_id": "",
       "title": "Single-Axis Joystick Module with 3Pin SH1.0 Connector (1PCS) - Single-Axis Joystick Module (1PCS) - XA009",
       "url": "https://au.store.bambulab.com/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?id=593312069244248066",
       "variant_id": "593312069244248066"
@@ -420,6 +463,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "592971445957537794",
+      "store_id": "",
       "title": "Single-Axis Joystick Module with 3Pin SH1.0 Connector (1PCS) - Single-Axis Joystick Module (1PCS) - XA009",
       "url": "https://asia.store.bambulab.com/products/single-axis-joystick-module-with-3pin-sh1-0-connector-1pcs?id=592971445957537794",
       "variant_id": "592971445957537794"

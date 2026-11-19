@@ -4,11 +4,14 @@
     {
       "handle": "diy-framework-for-ams-lite",
       "product_id": "766128373628936192",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/21/21f38c7590b15482e4f03d1ebb97ce9d2412b636068d7fd58dc9619923b732b2.png",
       "id": "image-e109c28c22715c30fcd1",
       "kind": "image",
@@ -16,11 +19,13 @@
       "original_filename": "B-ZH130.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "21f38c7590b15482e4f03d1ebb97ce9d2412b636068d7fd58dc9619923b732b2",
       "size": 3042503,
       "source_url": "https://store.bblcdn.com/s1/default/34baf8e185aa4a368309b36317bc4ba5/B-ZH130.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/77/77767cc29af4c7035b61ffce1e4c26bcae2a90c45b2ea9f10341639e409ead23.png",
       "id": "image-b0ed6d1e444b81567c79",
       "kind": "image",
@@ -28,11 +33,13 @@
       "original_filename": "B-ZH177.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "77767cc29af4c7035b61ffce1e4c26bcae2a90c45b2ea9f10341639e409ead23",
       "size": 2842372,
       "source_url": "https://store.bblcdn.com/s1/default/3adf3edcac2a43dd93dacd3db3c1738c/B-ZH177.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5b/5bda8018066b5a2085444870b7e5c18b74e342f1840659a925a066558b47529a.png",
       "id": "image-60b30a3a3e29457315b8",
       "kind": "image",
@@ -40,11 +47,13 @@
       "original_filename": "ZH130_V.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5bda8018066b5a2085444870b7e5c18b74e342f1840659a925a066558b47529a",
       "size": 373033,
       "source_url": "https://store.bblcdn.com/s1/default/9ac7fb8f0f014838bf31c3566b9236a4/ZH130_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/db/db0566081503e973f13df524e258475ac065159ab958407ab1cc30b9878318cf.png",
       "id": "image-3b1632bf5e95e1141902",
       "kind": "image",
@@ -52,11 +61,13 @@
       "original_filename": "ZH177_V.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "db0566081503e973f13df524e258475ac065159ab958407ab1cc30b9878318cf",
       "size": 384776,
       "source_url": "https://store.bblcdn.com/s1/default/c8c654963e0b431f9fc897bb8ccb89d4/ZH177_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c1/c133069a5f630e97db6f45bbcd9fe0c6547a50c4dbc7795c39f9ef9ac9fd4531.png",
       "id": "image-49d95a10ec012ac2813e",
       "kind": "image",
@@ -64,11 +75,13 @@
       "original_filename": "B-ZH130.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c133069a5f630e97db6f45bbcd9fe0c6547a50c4dbc7795c39f9ef9ac9fd4531",
       "size": 3214294,
       "source_url": "https://store.bblcdn.com/s1/default/5db578e2c09144a8ab326b6c3e692726/B-ZH130.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cb/cb2240c7ae7f3793f10a70c3b0e4c27e15e63648d565b26f2b7cdf191111e9c9.png",
       "id": "image-display-e21dc43621e50b1e0e96",
       "image_processing": {
@@ -86,11 +99,13 @@
       "parent_asset_id": "image-e109c28c22715c30fcd1",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cb2240c7ae7f3793f10a70c3b0e4c27e15e63648d565b26f2b7cdf191111e9c9",
       "size": 763353,
       "source_url": "https://store.bblcdn.com/s1/default/34baf8e185aa4a368309b36317bc4ba5/B-ZH130.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c5/c535866602e982d3e3122f6bebfcb49bf608b3c112bbcb432ead621d43074f2b.png",
       "id": "image-display-b112c49cb76bd27577ca",
       "image_processing": {
@@ -108,11 +123,13 @@
       "parent_asset_id": "image-b0ed6d1e444b81567c79",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c535866602e982d3e3122f6bebfcb49bf608b3c112bbcb432ead621d43074f2b",
       "size": 764273,
       "source_url": "https://store.bblcdn.com/s1/default/3adf3edcac2a43dd93dacd3db3c1738c/B-ZH177.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/80/80f78c3a6b06dd62e413065c81b082b43602112c402839ebd2779602d5d8c862.png",
       "id": "image-display-8838a672ecba0ad42533",
       "image_processing": {
@@ -130,11 +147,13 @@
       "parent_asset_id": "image-60b30a3a3e29457315b8",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "80f78c3a6b06dd62e413065c81b082b43602112c402839ebd2779602d5d8c862",
       "size": 95483,
       "source_url": "https://store.bblcdn.com/s1/default/9ac7fb8f0f014838bf31c3566b9236a4/ZH130_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/82/821ee91a0b3df2c3741ffc7a526d9b93f5eb3b4a69d832852414ad0098ccb667.png",
       "id": "image-display-18425cc565de6376d9a1",
       "image_processing": {
@@ -152,11 +171,13 @@
       "parent_asset_id": "image-3b1632bf5e95e1141902",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "821ee91a0b3df2c3741ffc7a526d9b93f5eb3b4a69d832852414ad0098ccb667",
       "size": 100689,
       "source_url": "https://store.bblcdn.com/s1/default/c8c654963e0b431f9fc897bb8ccb89d4/ZH177_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/65/65e1d550b668a900f102618eaefc3323e7609750c45ae16902ec733c06041e90.png",
       "id": "image-display-670a9e5e9b68addbf804",
       "image_processing": {
@@ -174,6 +195,7 @@
       "parent_asset_id": "image-49d95a10ec012ac2813e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "65e1d550b668a900f102618eaefc3323e7609750c45ae16902ec733c06041e90",
       "size": 809927,
       "source_url": "https://store.bblcdn.com/s1/default/5db578e2c09144a8ab326b6c3e692726/B-ZH130.png"
@@ -338,7 +360,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional DIY Framework for AMS Lite. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the DIY Framework for AMS Lite on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "diy-framework-for-ams-lite",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "DIY Framework for AMS Lite",
   "offers": [
@@ -350,6 +373,7 @@
       "price": "26.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/diy-framework-for-ams-lite?skr=yes"
     }
   ],
@@ -478,6 +502,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -490,6 +515,7 @@
       "price": "26.99",
       "region": "asia",
       "sku": "766128373649907714",
+      "store_id": "",
       "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Non-Enclosure Version - ZH130",
       "url": "https://asia.store.bambulab.com/products/diy-framework-for-ams-lite?id=766128373649907714",
       "variant_id": "766128373649907714"
@@ -502,6 +528,7 @@
       "price": "31.99",
       "region": "asia",
       "sku": "766914311082762242",
+      "store_id": "",
       "title": "DIY Framework for AMS Lite - DIY Framework for AMS Lite - Enclosure Version - ZH177",
       "url": "https://asia.store.bambulab.com/products/diy-framework-for-ams-lite?id=766914311082762242",
       "variant_id": "766914311082762242"

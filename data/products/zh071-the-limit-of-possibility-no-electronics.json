@@ -4,36 +4,49 @@
     {
       "handle": "the-limit-of-possibility-no-electronics",
       "product_id": "583538645342851072",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-limit-of-possibility-no-electronics",
       "product_id": "583538509308211200",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-limit-of-possibility-no-electronics",
       "product_id": "14945417855324",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-limit-of-possibility-no-electronics",
       "product_id": "583537876180529152",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-limit-of-possibility-no-electronics",
       "product_id": "583528101412220928",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-limit-of-possibility-no-electronics",
       "product_id": "583196554175868928",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/61/619e123f3ac626a0b8009186b1714f271b86b38d22db48f3cab5dae228a1b935.png",
       "id": "image-532c420652ed98d2e911",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH071.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "619e123f3ac626a0b8009186b1714f271b86b38d22db48f3cab5dae228a1b935",
       "size": 2859643,
       "source_url": "https://store.bblcdn.com/s7/default/17692c705fca4ed5b4f4dd0033ba547f/B-ZH071.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ef/ef180831951fa6a4459624f10fe6add4ae6b3131fcf48944f1e1bdd72d4d5fb3.png",
       "id": "image-4a5a02a60f1541aec010",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH071-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ef180831951fa6a4459624f10fe6add4ae6b3131fcf48944f1e1bdd72d4d5fb3",
       "size": 201016,
       "source_url": "https://store.bblcdn.com/s7/default/811673d80ab94140aff2e606004ac66e/B-ZH071-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/94/941021841ab8046c471a6f65d6f7776f6950210d37607ee518c9cb5f343f2a8f.png",
       "id": "image-display-9bac7c684ae6c0abbdd8",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-532c420652ed98d2e911",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "941021841ab8046c471a6f65d6f7776f6950210d37607ee518c9cb5f343f2a8f",
       "size": 729345,
       "source_url": "https://store.bblcdn.com/s7/default/17692c705fca4ed5b4f4dd0033ba547f/B-ZH071.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/68/68d312a484d835ada75de23aece95fc51385f8711e510b542ed7f42c535a055a.png",
       "id": "image-display-ea22208e36ecbd34b4f1",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-4a5a02a60f1541aec010",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "68d312a484d835ada75de23aece95fc51385f8711e510b542ed7f42c535a055a",
       "size": 52440,
       "source_url": "https://store.bblcdn.com/s7/default/811673d80ab94140aff2e606004ac66e/B-ZH071-2.png"
@@ -160,7 +180,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional The Limit of Possibility (no electronics). To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the The Limit of Possibility (no electronics) on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh071-the-limit-of-possibility-no-electronics",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "The Limit of Possibility (no electronics)",
   "offers": [
@@ -172,16 +193,18 @@
       "price": "11.41",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/the-limit-of-possibility-no-electronics?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "listed": true,
       "missing_runs": 0,
       "price": "11.87",
       "region": "ca",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/the-limit-of-possibility-no-electronics?skr=yes"
     },
     {
@@ -192,6 +215,7 @@
       "price": "10.12",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/the-limit-of-possibility-no-electronics?skr=yes"
     },
     {
@@ -202,6 +226,7 @@
       "price": "8.59",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/the-limit-of-possibility-no-electronics?skr=yes"
     },
     {
@@ -212,6 +237,7 @@
       "price": "19.41",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/the-limit-of-possibility-no-electronics?skr=yes"
     },
     {
@@ -222,6 +248,7 @@
       "price": "9.77",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/the-limit-of-possibility-no-electronics?skr=yes"
     }
   ],
@@ -277,6 +304,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -289,18 +317,20 @@
       "price": "11.41",
       "region": "us",
       "sku": "583538645351239682",
+      "store_id": "",
       "title": "The Limit of Possibility (no electronics) - The Limit of Possibility (no electronics) - ZH071",
       "url": "https://us.store.bambulab.com/products/the-limit-of-possibility-no-electronics?id=583538645351239682",
       "variant_id": "583538645351239682"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "CAD",
       "image_url": "https://store.bblcdn.com/s5/default/f9a68e5c3ab94c418737de2f5d1dfa3e/B-ZH071.png",
       "part_number": "ZH071",
       "price": "11.87",
       "region": "ca",
       "sku": "583538509324988418",
+      "store_id": "",
       "title": "The Limit of Possibility (no electronics) - The Limit of Possibility (no electronics) - ZH071",
       "url": "https://ca.store.bambulab.com/products/the-limit-of-possibility-no-electronics?id=583538509324988418",
       "variant_id": "583538509324988418"
@@ -313,6 +343,7 @@
       "price": "10.12",
       "region": "eu",
       "sku": "54246674104668",
+      "store_id": "",
       "title": "The Limit of Possibility (no electronics) - The Limit of Possibility (no electronics) - ZH071",
       "url": "https://eu.store.bambulab.com/products/the-limit-of-possibility-no-electronics?id=54246674104668",
       "variant_id": "54246674104668"
@@ -325,6 +356,7 @@
       "price": "8.59",
       "region": "uk",
       "sku": "583537876197306370",
+      "store_id": "",
       "title": "The Limit of Possibility (no electronics) - The Limit of Possibility (no electronics) - ZH071",
       "url": "https://uk.store.bambulab.com/products/the-limit-of-possibility-no-electronics?id=583537876197306370",
       "variant_id": "583537876197306370"
@@ -337,6 +369,7 @@
       "price": "19.41",
       "region": "au",
       "sku": "583528101428998146",
+      "store_id": "",
       "title": "The Limit of Possibility (no electronics) - The Limit of Possibility (no electronics) - ZH071",
       "url": "https://au.store.bambulab.com/products/the-limit-of-possibility-no-electronics?id=583528101428998146",
       "variant_id": "583528101428998146"
@@ -349,6 +382,7 @@
       "price": "9.77",
       "region": "asia",
       "sku": "583196554188451842",
+      "store_id": "",
       "title": "The Limit of Possibility (no electronics) - The Limit of Possibility (no electronics) - ZH071",
       "url": "https://asia.store.bambulab.com/products/the-limit-of-possibility-no-electronics?id=583196554188451842",
       "variant_id": "583196554188451842"

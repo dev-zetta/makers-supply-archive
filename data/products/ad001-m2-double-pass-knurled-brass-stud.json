@@ -4,36 +4,49 @@
     {
       "handle": "m2-double-pass-knurled-brass-stud",
       "product_id": "8097274691720",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-double-pass-knurled-brass-stud-1",
       "product_id": "8785150673136",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-double-pass-knurled-brass-stud",
       "product_id": "9344477790556",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-double-pass-knurled-brass-stud",
       "product_id": "7542799237180",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-hex-nu",
       "product_id": "8416600260771",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-hex-nu",
       "product_id": "7580564488307",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e9/e94b4a599efe94c01ae879cb219e95ac6e49489789ed33627ce9b41df5f9b9da.png",
       "id": "image-5a75956bf352ca378a49",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "AD001_4aac3e69-3cb5-4b44-8e0b-16b0a19e1071.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e94b4a599efe94c01ae879cb219e95ac6e49489789ed33627ce9b41df5f9b9da",
       "size": 288258,
       "source_url": "https://store.bblcdn.com/s7/default/7e4d463c6c4840fab2b0475a16acb4d7/AD001_4aac3e69-3cb5-4b44-8e0b-16b0a19e1071.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/df/dffc08bc6c8c90a597e51eb82affefa6c98132be9679deee4305eb1d332fba83.png",
       "id": "image-b2c1a69b7908c1633d55",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "AD002.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dffc08bc6c8c90a597e51eb82affefa6c98132be9679deee4305eb1d332fba83",
       "size": 289183,
       "source_url": "https://store.bblcdn.com/s7/default/984d7ba51c3c4aef91e1a20f4c37c9d0/AD002.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8e/8ee5a1267bf719bb3ccaff5835ef61ec73faa4293ff7b145f0b9bc849729012f.png",
       "id": "image-16554757055f8fad0255",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "AD022.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8ee5a1267bf719bb3ccaff5835ef61ec73faa4293ff7b145f0b9bc849729012f",
       "size": 288352,
       "source_url": "https://store.bblcdn.com/s7/default/f3278f952f0b453d83cdbc57c35086df/AD022.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/37/37cb1ba87ff7fe438044c455f0214b0c0228af93fac9e4c2d076736277dcbd6e.png",
       "id": "image-7f34540955e81a1c7574",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "AD003_ef74510f-5d04-4a18-9698-866350a58169.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "37cb1ba87ff7fe438044c455f0214b0c0228af93fac9e4c2d076736277dcbd6e",
       "size": 289281,
       "source_url": "https://store.bblcdn.com/s7/default/7a6f853639254f268da4fce7dbb34759/AD003_ef74510f-5d04-4a18-9698-866350a58169.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a8/a8609aa397616c61c2684ecc07c903a90779d3ec18b064034c839f25231084da.png",
       "id": "image-7845df434c70bc8d8758",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "AD004_1db4fa2f-5012-495f-be6f-d47cfd3d7a21.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a8609aa397616c61c2684ecc07c903a90779d3ec18b064034c839f25231084da",
       "size": 289169,
       "source_url": "https://store.bblcdn.com/s7/default/fb393e3512524fab8664c1bf9b2a261d/AD004_1db4fa2f-5012-495f-be6f-d47cfd3d7a21.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/52/52dd58e18c9370f913c8a31d67cbf655ea17474a84068a6e2738bc95e19d0c3c.png",
       "id": "image-ff1cc0b6db7c3e56210d",
       "kind": "image",
@@ -101,11 +124,13 @@
       "original_filename": "AD005_12b2b41c-8ab8-40b5-997c-40727321bc1a.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "52dd58e18c9370f913c8a31d67cbf655ea17474a84068a6e2738bc95e19d0c3c",
       "size": 289267,
       "source_url": "https://store.bblcdn.com/s7/default/d76633ab2ceb4755b74a00616eb928d6/AD005_12b2b41c-8ab8-40b5-997c-40727321bc1a.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/87/87faa2e200caa6a3795fd75cb185025c83f8fbc2bd74bfa00120a9cc380f0173.png",
       "id": "image-4337137e04f5151b3e9b",
       "kind": "image",
@@ -113,11 +138,13 @@
       "original_filename": "AD006.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "87faa2e200caa6a3795fd75cb185025c83f8fbc2bd74bfa00120a9cc380f0173",
       "size": 289777,
       "source_url": "https://store.bblcdn.com/s7/default/dedf7f2c3a0a40e2b723a853091f4477/AD006.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6e/6e2f495c2aa4bb1cce4ecef82d4893a213c9b10619581475b30643b0fad95397.png",
       "id": "image-68e4d7f21b7f995215fb",
       "kind": "image",
@@ -125,11 +152,13 @@
       "original_filename": "AD007.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6e2f495c2aa4bb1cce4ecef82d4893a213c9b10619581475b30643b0fad95397",
       "size": 289378,
       "source_url": "https://store.bblcdn.com/s7/default/0a54928fc2014c9db9ecfed09ddb2053/AD007.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/40/40239b637331298cf71df279436bd11624dd1ac8e8d9aec703fd5e26632749a3.png",
       "id": "image-5c37dfb3147681032c33",
       "kind": "image",
@@ -137,11 +166,13 @@
       "original_filename": "M2x6_20PCS_356d4f67-9455-4e1e-8fd8-dbf68c1328d7.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "40239b637331298cf71df279436bd11624dd1ac8e8d9aec703fd5e26632749a3",
       "size": 307243,
       "source_url": "https://store.bblcdn.com/s7/default/9c99e669bb5d4d418777d8f875790d0c/M2x6_20PCS_356d4f67-9455-4e1e-8fd8-dbf68c1328d7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/76/763d2bbb8b494866139c5d4bace8254e6e56a8c4855b8301b126e5311b80d96f.png",
       "id": "image-076114e9942ae5381c22",
       "kind": "image",
@@ -149,11 +180,13 @@
       "original_filename": "Frame_1123861165_4e2e16f9-b20e-46ae-89bc-86db7ab7a401.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "763d2bbb8b494866139c5d4bace8254e6e56a8c4855b8301b126e5311b80d96f",
       "size": 22674,
       "source_url": "https://store.bblcdn.com/s7/default/1ee7672c19904d49a2d7a1c9b75c9deb/Frame_1123861165_4e2e16f9-b20e-46ae-89bc-86db7ab7a401.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7e/7ed5b9795a959f1a458d8037c530be9b737da7e283b4878219763dc88372959e.pdf",
       "id": "document-4aba758ad3d11a052f40",
       "kind": "document",
@@ -161,11 +194,13 @@
       "original_filename": "M2_Double-pass_Knurled_Brass_Stud.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7ed5b9795a959f1a458d8037c530be9b737da7e283b4878219763dc88372959e",
       "size": 1751002,
       "source_url": "https://store.bblcdn.com/s7/default/40584c640cee426c8af026b5226bef05/M2_Double-pass_Knurled_Brass_Stud.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/36/367bc55b06487a4513947c56656b96af5af631d71d41ae95e37182cb08773d68.zip",
       "id": "archive-552e234e26c9bf1115fe",
       "kind": "archive",
@@ -173,11 +208,13 @@
       "original_filename": "M2_Double-pass_Knurled_Brass_Stud.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "367bc55b06487a4513947c56656b96af5af631d71d41ae95e37182cb08773d68",
       "size": 791649,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴10 - AD022/M2x10 Double-pass Knurled Brass Stud  - AD022.stl",
       "blob_path": "data/blobs/sha256/cf/cf53a80a2b135fda5cf22aacede4bdfe2ea262c3bd353f78b52e78fb202e5777.stl",
       "id": "model-fbdee49b9439b459c17a",
@@ -187,11 +224,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cf53a80a2b135fda5cf22aacede4bdfe2ea262c3bd353f78b52e78fb202e5777",
       "size": 80084,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴10 - AD022/M2x10 Double-pass Knurled Brass Stud  - AD022.stp",
       "blob_path": "data/blobs/sha256/21/211583313c2fc96779b4715c1996a01a042b18d7645fa24bf099e858be1e21a7.stp",
       "id": "model-08fa9bf0e634eec906d6",
@@ -201,11 +240,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "211583313c2fc96779b4715c1996a01a042b18d7645fa24bf099e858be1e21a7",
       "size": 510889,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴12 - AD003/M2x12 Double-pass Knurled Brass Stud  - AD003.stl",
       "blob_path": "data/blobs/sha256/64/6493433fefe0dfd6199e1b5c84287f860aef424331bf6cac56011c59fc1e1479.stl",
       "id": "model-a6a4c541bd58d3ef4786",
@@ -215,11 +256,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6493433fefe0dfd6199e1b5c84287f860aef424331bf6cac56011c59fc1e1479",
       "size": 84084,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴12 - AD003/M2x12 Double-pass Knurled Brass Stud  - AD003.stp",
       "blob_path": "data/blobs/sha256/1f/1f992dfab8731f9c32f8ab8cc5f14e3d1b8946654973699d5b20af8acfd6629c.stp",
       "id": "model-150b2569835f8306dabd",
@@ -229,11 +272,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1f992dfab8731f9c32f8ab8cc5f14e3d1b8946654973699d5b20af8acfd6629c",
       "size": 524338,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴16 - AD004/M2x16 Double-pass Knurled Brass Stud  - AD004.stl",
       "blob_path": "data/blobs/sha256/fd/fd0a814504fd5878bfde502abfd0aac365a1f23ccb06f633bd4701cc13460b7c.stl",
       "id": "model-4ec9d9ae4ad0e32fc323",
@@ -243,11 +288,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fd0a814504fd5878bfde502abfd0aac365a1f23ccb06f633bd4701cc13460b7c",
       "size": 84084,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴16 - AD004/M2x16 Double-pass Knurled Brass Stud  - AD004.stp",
       "blob_path": "data/blobs/sha256/d8/d8a5c1acd420b50d4cf3cb946ee6dd1f1d7bb9112a4dd271b7180920f798d98f.stp",
       "id": "model-93293c6cec79d6b587c6",
@@ -257,11 +304,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d8a5c1acd420b50d4cf3cb946ee6dd1f1d7bb9112a4dd271b7180920f798d98f",
       "size": 527297,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴20 - AD005/M2x20 Double-pass Knurled Brass Stud  - AD005.stl",
       "blob_path": "data/blobs/sha256/2d/2dfde08b5ded50abaa5e6098c2e3ba2196a8ec1773e0973a8a5931499a6c6c23.stl",
       "id": "model-c36dd8c68dc2615fd660",
@@ -271,11 +320,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2dfde08b5ded50abaa5e6098c2e3ba2196a8ec1773e0973a8a5931499a6c6c23",
       "size": 84084,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴20 - AD005/M2x20 Double-pass Knurled Brass Stud  - AD005.stp",
       "blob_path": "data/blobs/sha256/fe/fe93b5e7dc15c0cf3b3a464dc632d7788c127424e9d9b457236e673556bc3b23.stp",
       "id": "model-43970acf292e7a96b674",
@@ -285,11 +336,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fe93b5e7dc15c0cf3b3a464dc632d7788c127424e9d9b457236e673556bc3b23",
       "size": 526766,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴25 - AD006/M2x25 Double-pass Knurled Brass Stud  - AD006.stl",
       "blob_path": "data/blobs/sha256/3d/3db2b892a79831023ae56ece1ee288f651645ea1f02dbea60a70e6e22c9130de.stl",
       "id": "model-a40ea1f597c0a7ac204f",
@@ -299,11 +352,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3db2b892a79831023ae56ece1ee288f651645ea1f02dbea60a70e6e22c9130de",
       "size": 84084,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴25 - AD006/M2x25 Double-pass Knurled Brass Stud  - AD006.stp",
       "blob_path": "data/blobs/sha256/30/30fa61dcc5ae2ab91dc8df43ff2d443a0de857358c17fd25a4e930c1d3194727.stp",
       "id": "model-a727def0a329f64635bf",
@@ -313,11 +368,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "30fa61dcc5ae2ab91dc8df43ff2d443a0de857358c17fd25a4e930c1d3194727",
       "size": 527480,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴30 - AD007/M2x30 Double-pass Knurled Brass Stud  - AD007.stl",
       "blob_path": "data/blobs/sha256/ff/ff66b728c37b2330e8261b1280e567fabd2b69563bd1c2397595bc1c813ec00b.stl",
       "id": "model-490da3b692db26ff4b24",
@@ -327,11 +384,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ff66b728c37b2330e8261b1280e567fabd2b69563bd1c2397595bc1c813ec00b",
       "size": 84084,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴30 - AD007/M2x30 Double-pass Knurled Brass Stud  - AD007.stp",
       "blob_path": "data/blobs/sha256/55/5533514620f84889033c83e34b41b312c8dd5f3aa843ea039e8f10e501b600b4.stp",
       "id": "model-4ba37f91c9f7610a23f3",
@@ -341,11 +400,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5533514620f84889033c83e34b41b312c8dd5f3aa843ea039e8f10e501b600b4",
       "size": 526068,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴6 - AD001/M2x6 Double-pass Knurled Brass Stud  - AD001.stl",
       "blob_path": "data/blobs/sha256/02/02f1b2b29fe039d928dde880dc9cfd3fd9aeb19041c001509bab3e0e568f7db1.stl",
       "id": "model-5d56567d641245451a6c",
@@ -355,11 +416,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "02f1b2b29fe039d928dde880dc9cfd3fd9aeb19041c001509bab3e0e568f7db1",
       "size": 80084,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴6 - AD001/M2x6 Double-pass Knurled Brass Stud  - AD001.stp",
       "blob_path": "data/blobs/sha256/0b/0b5c0f266cd2ca6ad8d93cb522626c2954a45bea1396d3fcf21221813b6691a6.stp",
       "id": "model-811d9a98640377cbc7bb",
@@ -369,11 +432,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0b5c0f266cd2ca6ad8d93cb522626c2954a45bea1396d3fcf21221813b6691a6",
       "size": 533574,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴8 - AD002/M2x8 Double-pass Knurled Brass Stud  - AD002.stl",
       "blob_path": "data/blobs/sha256/2a/2a55c78f11ae3386a05233376355a43afff5dadfe3d78158c43a9d966abfadd4.stl",
       "id": "model-31f57369a10b9e071fb5",
@@ -383,11 +448,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2a55c78f11ae3386a05233376355a43afff5dadfe3d78158c43a9d966abfadd4",
       "size": 56084,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2 Double-pass Knurled Brass Stud/M2í┴8 - AD002/M2x8 Double-pass Knurled Brass Stud  - AD002.stp",
       "blob_path": "data/blobs/sha256/86/86ab168404217d6d4e728f06a3fe05cb300dd506a76d5da313231c6cd21749af.stp",
       "id": "model-eaae4b8b123bd92f5f63",
@@ -397,11 +464,13 @@
       "parent_asset_id": "archive-552e234e26c9bf1115fe",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "86ab168404217d6d4e728f06a3fe05cb300dd506a76d5da313231c6cd21749af",
       "size": 532381,
       "source_url": "https://store.bblcdn.com/s7/default/9953a561606842c6beb3320101b84c17/M2_Double-pass_Knurled_Brass_Stud.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/70/70a07bfc3b65c8635e155dc9bf73ac77537f1ef5315ca63e06243fd3a71e7482.png",
       "id": "image-display-1c8d2b8cf01c40aff5f1",
       "image_processing": {
@@ -419,11 +488,13 @@
       "parent_asset_id": "image-5a75956bf352ca378a49",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "70a07bfc3b65c8635e155dc9bf73ac77537f1ef5315ca63e06243fd3a71e7482",
       "size": 89991,
       "source_url": "https://store.bblcdn.com/s7/default/7e4d463c6c4840fab2b0475a16acb4d7/AD001_4aac3e69-3cb5-4b44-8e0b-16b0a19e1071.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f2/f29778fe6f9ea0b141fa6d1ea2c3e6397a0b2cbbbf9e68daf05fa2c227f2c7a1.png",
       "id": "image-display-58feea82f4a09ff9752c",
       "image_processing": {
@@ -441,11 +512,13 @@
       "parent_asset_id": "image-b2c1a69b7908c1633d55",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f29778fe6f9ea0b141fa6d1ea2c3e6397a0b2cbbbf9e68daf05fa2c227f2c7a1",
       "size": 90022,
       "source_url": "https://store.bblcdn.com/s7/default/984d7ba51c3c4aef91e1a20f4c37c9d0/AD002.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fe/fe8cee8500ad712ee5b4a892ca81d222da7d93d335547d295df2da2cbf6ec914.png",
       "id": "image-display-1faf316e460c93f506fb",
       "image_processing": {
@@ -463,11 +536,13 @@
       "parent_asset_id": "image-16554757055f8fad0255",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fe8cee8500ad712ee5b4a892ca81d222da7d93d335547d295df2da2cbf6ec914",
       "size": 90896,
       "source_url": "https://store.bblcdn.com/s7/default/f3278f952f0b453d83cdbc57c35086df/AD022.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/57/57b392ade4a1c1af54d860a174684242b4c745bedde3b866ec5e864c00d12282.png",
       "id": "image-display-d41d31ab257621fc2af9",
       "image_processing": {
@@ -485,11 +560,13 @@
       "parent_asset_id": "image-7f34540955e81a1c7574",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "57b392ade4a1c1af54d860a174684242b4c745bedde3b866ec5e864c00d12282",
       "size": 90852,
       "source_url": "https://store.bblcdn.com/s7/default/7a6f853639254f268da4fce7dbb34759/AD003_ef74510f-5d04-4a18-9698-866350a58169.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/83/8378e20eb3d7dce8298d7e50acf64a0f6cdd26a4757a6a4ef7aa0212b552db7a.png",
       "id": "image-display-afdb0179ffe55668de92",
       "image_processing": {
@@ -507,11 +584,13 @@
       "parent_asset_id": "image-7845df434c70bc8d8758",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8378e20eb3d7dce8298d7e50acf64a0f6cdd26a4757a6a4ef7aa0212b552db7a",
       "size": 90942,
       "source_url": "https://store.bblcdn.com/s7/default/fb393e3512524fab8664c1bf9b2a261d/AD004_1db4fa2f-5012-495f-be6f-d47cfd3d7a21.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e9/e9d0843a6c3395cf0e3abd853b73a4596d6a0bd0cc3c025759dd0e6319f2f8e2.png",
       "id": "image-display-b476a5a24585d3e80529",
       "image_processing": {
@@ -529,11 +608,13 @@
       "parent_asset_id": "image-ff1cc0b6db7c3e56210d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e9d0843a6c3395cf0e3abd853b73a4596d6a0bd0cc3c025759dd0e6319f2f8e2",
       "size": 90743,
       "source_url": "https://store.bblcdn.com/s7/default/d76633ab2ceb4755b74a00616eb928d6/AD005_12b2b41c-8ab8-40b5-997c-40727321bc1a.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d1/d1460b110e7e17a0d8ec5957a9f14417c7280c1bc00201d734f3c87ae5b11318.png",
       "id": "image-display-1b58d502b6cc807577f9",
       "image_processing": {
@@ -551,11 +632,13 @@
       "parent_asset_id": "image-4337137e04f5151b3e9b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d1460b110e7e17a0d8ec5957a9f14417c7280c1bc00201d734f3c87ae5b11318",
       "size": 90670,
       "source_url": "https://store.bblcdn.com/s7/default/dedf7f2c3a0a40e2b723a853091f4477/AD006.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fd/fd5965bb6596b647d9db609c66280ad4240ba838ce13bcc73e816a5fe9845210.png",
       "id": "image-display-36097cb4cf48b8117024",
       "image_processing": {
@@ -573,11 +656,13 @@
       "parent_asset_id": "image-68e4d7f21b7f995215fb",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fd5965bb6596b647d9db609c66280ad4240ba838ce13bcc73e816a5fe9845210",
       "size": 90765,
       "source_url": "https://store.bblcdn.com/s7/default/0a54928fc2014c9db9ecfed09ddb2053/AD007.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f8/f85a65fe60519119942b1c7cd1fd7d9445fef85ab69b6213d36a24fbe2c0ebab.png",
       "id": "image-display-4958e7209a149e42d8d6",
       "image_processing": {
@@ -595,11 +680,13 @@
       "parent_asset_id": "image-5c37dfb3147681032c33",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f85a65fe60519119942b1c7cd1fd7d9445fef85ab69b6213d36a24fbe2c0ebab",
       "size": 76375,
       "source_url": "https://store.bblcdn.com/s7/default/9c99e669bb5d4d418777d8f875790d0c/M2x6_20PCS_356d4f67-9455-4e1e-8fd8-dbf68c1328d7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/70/7038fcf7613523f2e063cbc555e82cdb2b62b8a457d913053ac78049d222a78b.png",
       "id": "image-display-e3db1f46cf37b90bf9cf",
       "image_processing": {
@@ -617,6 +704,7 @@
       "parent_asset_id": "image-076114e9942ae5381c22",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7038fcf7613523f2e063cbc555e82cdb2b62b8a457d913053ac78049d222a78b",
       "size": 31333,
       "source_url": "https://store.bblcdn.com/s7/default/1ee7672c19904d49a2d7a1c9b75c9deb/Frame_1123861165_4e2e16f9-b20e-46ae-89bc-86db7ab7a401.png"
@@ -667,6 +755,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ad001-m2-double-pass-knurled-brass-stud",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "M2 Double-pass Knurled Brass Stud",
   "offers": [
@@ -678,6 +767,7 @@
       "price": "1.21",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/m2-double-pass-knurled-brass-stud?skr=yes"
     },
     {
@@ -688,6 +778,7 @@
       "price": "1.39",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/m2-double-pass-knurled-brass-stud-1?skr=yes"
     },
     {
@@ -698,6 +789,7 @@
       "price": "1.25",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/m2-double-pass-knurled-brass-stud?skr=yes"
     },
     {
@@ -708,6 +800,7 @@
       "price": "0.97",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/m2-double-pass-knurled-brass-stud?skr=yes"
     },
     {
@@ -718,6 +811,7 @@
       "price": "2.19",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nu?skr=yes"
     },
     {
@@ -728,6 +822,7 @@
       "price": "1.1",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/m2-5-stainless-steel-hex-nu?skr=yes"
     }
   ],
@@ -922,6 +1017,7 @@
     "Style": "Standard",
     "Surface Treatment": "No"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -932,6 +1028,7 @@
       "price": "1.21",
       "region": "us",
       "sku": "42355247415432",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x6 Double-pass Knurled Brass Stud (20PCS) - AD001",
       "url": "https://us.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=42355247415432",
       "variant_id": "42355247415432"
@@ -944,6 +1041,7 @@
       "price": "1.21",
       "region": "us",
       "sku": "42355247448200",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x8 Double-pass Knurled Brass Stud (20PCS) - AD002",
       "url": "https://us.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=42355247448200",
       "variant_id": "42355247448200"
@@ -956,6 +1054,7 @@
       "price": "1.34",
       "region": "us",
       "sku": "42355247480968",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x10 Double-pass Knurled Brass Stud (20PCS) - AD022",
       "url": "https://us.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=42355247480968",
       "variant_id": "42355247480968"
@@ -968,6 +1067,7 @@
       "price": "1.39",
       "region": "us",
       "sku": "42355247513736",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x12 Double-pass Knurled Brass Stud (20PCS) - AD003",
       "url": "https://us.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=42355247513736",
       "variant_id": "42355247513736"
@@ -980,6 +1080,7 @@
       "price": "1.43",
       "region": "us",
       "sku": "42355247546504",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x16 Double-pass Knurled Brass Stud (20PCS) - AD004",
       "url": "https://us.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=42355247546504",
       "variant_id": "42355247546504"
@@ -992,6 +1093,7 @@
       "price": "1.16",
       "region": "us",
       "sku": "42355247579272",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x20 Double-pass Knurled Brass Stud (10PCS) - AD005",
       "url": "https://us.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=42355247579272",
       "variant_id": "42355247579272"
@@ -1004,6 +1106,7 @@
       "price": "1.38",
       "region": "us",
       "sku": "42355247612040",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x25 Double-pass Knurled Brass Stud (10PCS) - AD006",
       "url": "https://us.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=42355247612040",
       "variant_id": "42355247612040"
@@ -1016,6 +1119,7 @@
       "price": "1.48",
       "region": "us",
       "sku": "42355247644808",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x30 Double-pass Knurled Brass Stud (10PCS) - AD007",
       "url": "https://us.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=42355247644808",
       "variant_id": "42355247644808"
@@ -1028,6 +1132,7 @@
       "price": "1.39",
       "region": "ca",
       "sku": "45969821368560",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x6 Double-pass Knurled Brass Stud (20PCS) - AD001",
       "url": "https://ca.store.bambulab.com/products/m2-double-pass-knurled-brass-stud-1?id=45969821368560",
       "variant_id": "45969821368560"
@@ -1040,6 +1145,7 @@
       "price": "1.39",
       "region": "ca",
       "sku": "45969821401328",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x8 Double-pass Knurled Brass Stud (20PCS) - AD002",
       "url": "https://ca.store.bambulab.com/products/m2-double-pass-knurled-brass-stud-1?id=45969821401328",
       "variant_id": "45969821401328"
@@ -1052,6 +1158,7 @@
       "price": "1.4",
       "region": "ca",
       "sku": "45969821434096",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x10 Double-pass Knurled Brass Stud (20PCS) - AD022",
       "url": "https://ca.store.bambulab.com/products/m2-double-pass-knurled-brass-stud-1?id=45969821434096",
       "variant_id": "45969821434096"
@@ -1064,6 +1171,7 @@
       "price": "1.46",
       "region": "ca",
       "sku": "45969821466864",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x12 Double-pass Knurled Brass Stud (20PCS) - AD003",
       "url": "https://ca.store.bambulab.com/products/m2-double-pass-knurled-brass-stud-1?id=45969821466864",
       "variant_id": "45969821466864"
@@ -1076,6 +1184,7 @@
       "price": "1.49",
       "region": "ca",
       "sku": "45969821499632",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x16 Double-pass Knurled Brass Stud (20PCS) - AD004",
       "url": "https://ca.store.bambulab.com/products/m2-double-pass-knurled-brass-stud-1?id=45969821499632",
       "variant_id": "45969821499632"
@@ -1088,6 +1197,7 @@
       "price": "1.33",
       "region": "ca",
       "sku": "45969821532400",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x20 Double-pass Knurled Brass Stud (10PCS) - AD005",
       "url": "https://ca.store.bambulab.com/products/m2-double-pass-knurled-brass-stud-1?id=45969821532400",
       "variant_id": "45969821532400"
@@ -1100,6 +1210,7 @@
       "price": "1.44",
       "region": "ca",
       "sku": "45969821565168",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x25 Double-pass Knurled Brass Stud (10PCS) - AD006",
       "url": "https://ca.store.bambulab.com/products/m2-double-pass-knurled-brass-stud-1?id=45969821565168",
       "variant_id": "45969821565168"
@@ -1112,6 +1223,7 @@
       "price": "1.54",
       "region": "ca",
       "sku": "45969821597936",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x30 Double-pass Knurled Brass Stud (10PCS) - AD007",
       "url": "https://ca.store.bambulab.com/products/m2-double-pass-knurled-brass-stud-1?id=45969821597936",
       "variant_id": "45969821597936"
@@ -1124,6 +1236,7 @@
       "price": "1.25",
       "region": "eu",
       "sku": "48684205146460",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x6 Double-pass Knurled Brass Stud (20PCS) - AD001",
       "url": "https://eu.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=48684205146460",
       "variant_id": "48684205146460"
@@ -1136,6 +1249,7 @@
       "price": "1.25",
       "region": "eu",
       "sku": "48684205179228",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x8 Double-pass Knurled Brass Stud (20PCS) - AD002",
       "url": "https://eu.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=48684205179228",
       "variant_id": "48684205179228"
@@ -1148,6 +1262,7 @@
       "price": "1.25",
       "region": "eu",
       "sku": "48684205211996",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x10 Double-pass Knurled Brass Stud (20PCS) - AD022",
       "url": "https://eu.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=48684205211996",
       "variant_id": "48684205211996"
@@ -1160,6 +1275,7 @@
       "price": "1.31",
       "region": "eu",
       "sku": "48684205244764",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x12 Double-pass Knurled Brass Stud (20PCS) - AD003",
       "url": "https://eu.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=48684205244764",
       "variant_id": "48684205244764"
@@ -1172,6 +1288,7 @@
       "price": "1.34",
       "region": "eu",
       "sku": "48684205277532",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x16 Double-pass Knurled Brass Stud (20PCS) - AD004",
       "url": "https://eu.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=48684205277532",
       "variant_id": "48684205277532"
@@ -1184,6 +1301,7 @@
       "price": "1.2",
       "region": "eu",
       "sku": "48684205310300",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x20 Double-pass Knurled Brass Stud (10PCS) - AD005",
       "url": "https://eu.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=48684205310300",
       "variant_id": "48684205310300"
@@ -1196,6 +1314,7 @@
       "price": "1.3",
       "region": "eu",
       "sku": "48684205343068",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x25 Double-pass Knurled Brass Stud (10PCS) - AD006",
       "url": "https://eu.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=48684205343068",
       "variant_id": "48684205343068"
@@ -1208,6 +1327,7 @@
       "price": "1.39",
       "region": "eu",
       "sku": "48684205375836",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x30 Double-pass Knurled Brass Stud (10PCS) - AD007",
       "url": "https://eu.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=48684205375836",
       "variant_id": "48684205375836"
@@ -1220,6 +1340,7 @@
       "price": "0.97",
       "region": "uk",
       "sku": "41639709343804",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x6 Double-pass Knurled Brass Stud (20PCS) - AD001",
       "url": "https://uk.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=41639709343804",
       "variant_id": "41639709343804"
@@ -1232,6 +1353,7 @@
       "price": "0.97",
       "region": "uk",
       "sku": "41639709376572",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x8 Double-pass Knurled Brass Stud (20PCS) - AD002",
       "url": "https://uk.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=41639709376572",
       "variant_id": "41639709376572"
@@ -1244,6 +1366,7 @@
       "price": "0.97",
       "region": "uk",
       "sku": "41639709409340",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x10 Double-pass Knurled Brass Stud (20PCS) - AD022",
       "url": "https://uk.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=41639709409340",
       "variant_id": "41639709409340"
@@ -1256,6 +1379,7 @@
       "price": "1.01",
       "region": "uk",
       "sku": "41639709442108",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x12 Double-pass Knurled Brass Stud (20PCS) - AD003",
       "url": "https://uk.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=41639709442108",
       "variant_id": "41639709442108"
@@ -1268,6 +1392,7 @@
       "price": "1.04",
       "region": "uk",
       "sku": "41639709474876",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x16 Double-pass Knurled Brass Stud (20PCS) - AD004",
       "url": "https://uk.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=41639709474876",
       "variant_id": "41639709474876"
@@ -1280,6 +1405,7 @@
       "price": "0.92",
       "region": "uk",
       "sku": "41639709507644",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x20 Double-pass Knurled Brass Stud (10PCS) - AD005",
       "url": "https://uk.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=41639709507644",
       "variant_id": "41639709507644"
@@ -1292,6 +1418,7 @@
       "price": "1",
       "region": "uk",
       "sku": "41639709540412",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x25 Double-pass Knurled Brass Stud (10PCS) - AD006",
       "url": "https://uk.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=41639709540412",
       "variant_id": "41639709540412"
@@ -1304,6 +1431,7 @@
       "price": "1.07",
       "region": "uk",
       "sku": "41639709573180",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x30 Double-pass Knurled Brass Stud (10PCS) - AD007",
       "url": "https://uk.store.bambulab.com/products/m2-double-pass-knurled-brass-stud?id=41639709573180",
       "variant_id": "41639709573180"
@@ -1316,6 +1444,7 @@
       "price": "2.19",
       "region": "au",
       "sku": "44546970845347",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x6 Double-pass Knurled Brass Stud (20PCS) - AD001",
       "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=44546970845347",
       "variant_id": "44546970845347"
@@ -1328,6 +1457,7 @@
       "price": "2.19",
       "region": "au",
       "sku": "44546970878115",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x8 Double-pass Knurled Brass Stud (20PCS) - AD002",
       "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=44546970878115",
       "variant_id": "44546970878115"
@@ -1340,6 +1470,7 @@
       "price": "2.19",
       "region": "au",
       "sku": "44546970910883",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x10 Double-pass Knurled Brass Stud (20PCS) - AD022",
       "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=44546970910883",
       "variant_id": "44546970910883"
@@ -1352,6 +1483,7 @@
       "price": "2.29",
       "region": "au",
       "sku": "44546970943651",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x12 Double-pass Knurled Brass Stud (20PCS) - AD003",
       "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=44546970943651",
       "variant_id": "44546970943651"
@@ -1364,6 +1496,7 @@
       "price": "2.35",
       "region": "au",
       "sku": "44546970976419",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x16 Double-pass Knurled Brass Stud (20PCS) - AD004",
       "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=44546970976419",
       "variant_id": "44546970976419"
@@ -1376,6 +1509,7 @@
       "price": "2.09",
       "region": "au",
       "sku": "44546971009187",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x20 Double-pass Knurled Brass Stud (10PCS) - AD005",
       "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=44546971009187",
       "variant_id": "44546971009187"
@@ -1388,6 +1522,7 @@
       "price": "2.27",
       "region": "au",
       "sku": "44546971041955",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x25 Double-pass Knurled Brass Stud (10PCS) - AD006",
       "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=44546971041955",
       "variant_id": "44546971041955"
@@ -1400,6 +1535,7 @@
       "price": "2.42",
       "region": "au",
       "sku": "44546971074723",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x30 Double-pass Knurled Brass Stud (10PCS) - AD007",
       "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=44546971074723",
       "variant_id": "44546971074723"
@@ -1412,6 +1548,7 @@
       "price": "1.1",
       "region": "asia",
       "sku": "41782705422451",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x6 Double-pass Knurled Brass Stud (20PCS) - AD001",
       "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=41782705422451",
       "variant_id": "41782705422451"
@@ -1424,6 +1561,7 @@
       "price": "1.1",
       "region": "asia",
       "sku": "41782705455219",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x8 Double-pass Knurled Brass Stud (20PCS) - AD002",
       "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=41782705455219",
       "variant_id": "41782705455219"
@@ -1436,6 +1574,7 @@
       "price": "1.1",
       "region": "asia",
       "sku": "41782705487987",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x10 Double-pass Knurled Brass Stud (20PCS) - AD022",
       "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=41782705487987",
       "variant_id": "41782705487987"
@@ -1448,6 +1587,7 @@
       "price": "1.15",
       "region": "asia",
       "sku": "41782705520755",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x12 Double-pass Knurled Brass Stud (20PCS) - AD003",
       "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=41782705520755",
       "variant_id": "41782705520755"
@@ -1460,6 +1600,7 @@
       "price": "1.18",
       "region": "asia",
       "sku": "41782705553523",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x16 Double-pass Knurled Brass Stud (20PCS) - AD004",
       "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=41782705553523",
       "variant_id": "41782705553523"
@@ -1472,6 +1613,7 @@
       "price": "1.05",
       "region": "asia",
       "sku": "41782705586291",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x20 Double-pass Knurled Brass Stud (10PCS) - AD005",
       "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=41782705586291",
       "variant_id": "41782705586291"
@@ -1484,6 +1626,7 @@
       "price": "1.14",
       "region": "asia",
       "sku": "41782705619059",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x25 Double-pass Knurled Brass Stud (10PCS) - AD006",
       "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=41782705619059",
       "variant_id": "41782705619059"
@@ -1496,6 +1639,7 @@
       "price": "1.22",
       "region": "asia",
       "sku": "41782705651827",
+      "store_id": "",
       "title": "M2 Double-pass Knurled Brass Stud - M2x30 Double-pass Knurled Brass Stud (10PCS) - AD007",
       "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-hex-nu?id=41782705651827",
       "variant_id": "41782705651827"

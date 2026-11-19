@@ -4,36 +4,49 @@
     {
       "handle": "the-alchemist-s-study",
       "product_id": "778841424572481536",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-alchemist-s-study",
       "product_id": "778844336996507648",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-alchemist-s-study",
       "product_id": "778839411679838208",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-alchemist-s-study",
       "product_id": "778843307903033344",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-alchemist-s-study",
       "product_id": "778851867047256064",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-alchemist-s-study",
       "product_id": "774113431216238592",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/22/2282a1e364edbf4c16439cf606c71dd32145fdcbdd92785a1301bb3cbca1e39b.png",
       "id": "image-79b3fa49e097d5b90bfa",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH179.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2282a1e364edbf4c16439cf606c71dd32145fdcbdd92785a1301bb3cbca1e39b",
       "size": 4276790,
       "source_url": "https://store.bblcdn.com/s7/default/ae3ce78c46ae4d61906ec1035bcae8ce/B-ZH179.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1f/1f5b6098e699e100c14ad799bf5858dc37cb9bb1acc19aaa291f7cf90f0c350c.png",
       "id": "image-7976c11de7b3ac0688ca",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH179_V.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1f5b6098e699e100c14ad799bf5858dc37cb9bb1acc19aaa291f7cf90f0c350c",
       "size": 595906,
       "source_url": "https://store.bblcdn.com/s7/default/63927d7e4c19488da5079cb0e06a86ee/B-ZH179_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/27/27ec034d062b0ea867cea2d1b3d2dcd5c0c46138c90422b2efdf69f7cc1277a0.png",
       "id": "image-display-90523ed061d1b2f00423",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-79b3fa49e097d5b90bfa",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "27ec034d062b0ea867cea2d1b3d2dcd5c0c46138c90422b2efdf69f7cc1277a0",
       "size": 992420,
       "source_url": "https://store.bblcdn.com/s7/default/ae3ce78c46ae4d61906ec1035bcae8ce/B-ZH179.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6c/6c2784376777c6ac3b2be1dcf7f9a86ee08005b6cce251117322e2f66c2ad87e.png",
       "id": "image-display-ea61d91d026f741f0193",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-7976c11de7b3ac0688ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6c2784376777c6ac3b2be1dcf7f9a86ee08005b6cce251117322e2f66c2ad87e",
       "size": 155671,
       "source_url": "https://store.bblcdn.com/s7/default/63927d7e4c19488da5079cb0e06a86ee/B-ZH179_V.png"
@@ -170,7 +190,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional The Alchemist's Study – A Magical Diorama. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the The Alchemist's Study – A Magical Diorama on MakerWorld.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zh179-the-alchemist-s-study",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "The Alchemist's Study",
   "offers": [
@@ -182,6 +203,7 @@
       "price": "21.99",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/the-alchemist-s-study?skr=yes"
     },
     {
@@ -192,16 +214,18 @@
       "price": "27.99",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/the-alchemist-s-study?skr=yes"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
       "price": "22.99",
       "region": "eu",
-      "retrieved_at": "2026-11-10T15:04:23Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/the-alchemist-s-study?skr=yes"
     },
     {
@@ -212,6 +236,7 @@
       "price": "19.99",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/the-alchemist-s-study?skr=yes"
     },
     {
@@ -222,6 +247,7 @@
       "price": "32.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/the-alchemist-s-study?skr=yes"
     },
     {
@@ -232,6 +258,7 @@
       "price": "21.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/the-alchemist-s-study?skr=yes"
     }
   ],
@@ -292,6 +319,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -304,6 +332,7 @@
       "price": "21.99",
       "region": "us",
       "sku": "778841424585064450",
+      "store_id": "",
       "title": "The Alchemist's Study - The Alchemist's Study - ZH179",
       "url": "https://us.store.bambulab.com/products/the-alchemist-s-study?id=778841424585064450",
       "variant_id": "778841424585064450"
@@ -316,18 +345,20 @@
       "price": "27.99",
       "region": "ca",
       "sku": "778844337009090562",
+      "store_id": "",
       "title": "The Alchemist's Study - The Alchemist's Study - ZH179",
       "url": "https://ca.store.bambulab.com/products/the-alchemist-s-study?id=778844337009090562",
       "variant_id": "778844337009090562"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/b9143bec3b2840689e3cd8cf7ed56fda/B-ZH179.png",
       "part_number": "ZH179",
       "price": "22.99",
       "region": "eu",
       "sku": "778839411700809730",
+      "store_id": "",
       "title": "The Alchemist's Study - The Alchemist's Study - ZH179",
       "url": "https://eu.store.bambulab.com/products/the-alchemist-s-study?id=778839411700809730",
       "variant_id": "778839411700809730"
@@ -340,6 +371,7 @@
       "price": "19.99",
       "region": "uk",
       "sku": "778843307919810562",
+      "store_id": "",
       "title": "The Alchemist's Study - The Alchemist's Study - ZH179",
       "url": "https://uk.store.bambulab.com/products/the-alchemist-s-study?id=778843307919810562",
       "variant_id": "778843307919810562"
@@ -352,6 +384,7 @@
       "price": "32.99",
       "region": "au",
       "sku": "778851867059838978",
+      "store_id": "",
       "title": "The Alchemist's Study - The Alchemist's Study - ZH179",
       "url": "https://au.store.bambulab.com/products/the-alchemist-s-study?id=778851867059838978",
       "variant_id": "778851867059838978"
@@ -364,6 +397,7 @@
       "price": "21.99",
       "region": "asia",
       "sku": "774113431237210114",
+      "store_id": "",
       "title": "The Alchemist's Study - The Alchemist's Study - ZH179",
       "url": "https://asia.store.bambulab.com/products/the-alchemist-s-study?id=774113431237210114",
       "variant_id": "774113431237210114"

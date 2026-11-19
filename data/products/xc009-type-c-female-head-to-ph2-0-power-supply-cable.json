@@ -4,36 +4,49 @@
     {
       "handle": "type-c-female-head-to-ph2-0-power-supply-cable",
       "product_id": "608552051460435968",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "type-c-female-head-to-ph2-0-power-supply-cable",
       "product_id": "608541114840961024",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "type-c-female-head-to-ph2-0-power-supply-cable",
       "product_id": "608538902525960192",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "type-c-female-head-to-ph2-0-power-supply-cable",
       "product_id": "608540382796996608",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "type-c-female-head-to-ph2-0-power-supply-cable",
       "product_id": "608539239097397248",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "type-c-female-head-to-ph2-0-power-supply-cable",
       "product_id": "608509590704963584",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d4/d49ffbf7d53ff96097143784a9c810e4595095347fe4de3b4298b54500f15bab.png",
       "id": "image-fe698c06c74e54dc3d8b",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "zhutu.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d49ffbf7d53ff96097143784a9c810e4595095347fe4de3b4298b54500f15bab",
       "size": 242256,
       "source_url": "https://store.bblcdn.com/s7/default/4e312b43b695403990b76941dbae418c/zhutu.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a9/a947d844d4470c5a4bb9e07662d22040ceadea6f1bb475dce3b1159878fd9115.png",
       "id": "image-b07e54b9f283bb9a467c",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "biantitu.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a947d844d4470c5a4bb9e07662d22040ceadea6f1bb475dce3b1159878fd9115",
       "size": 264765,
       "source_url": "https://store.bblcdn.com/s7/default/c1915ed02b8141fbbec50082cf714176/biantitu.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d3/d367716d077a228e593f14999d7d3b0e78adec4e43b632f4c19f3fd1090da33c.png",
       "id": "image-display-d469ad9a1e92dd7ce745",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-fe698c06c74e54dc3d8b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d367716d077a228e593f14999d7d3b0e78adec4e43b632f4c19f3fd1090da33c",
       "size": 54007,
       "source_url": "https://store.bblcdn.com/s7/default/4e312b43b695403990b76941dbae418c/zhutu.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/60/606ff82e11b3d4826b6967e4ef2373b2bc0f80ba09d79dd4900d2a77eebf2734.png",
       "id": "image-display-1c68b9162570075fbf4e",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-b07e54b9f283bb9a467c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "606ff82e11b3d4826b6967e4ef2373b2bc0f80ba09d79dd4900d2a77eebf2734",
       "size": 64186,
       "source_url": "https://store.bblcdn.com/s7/default/c1915ed02b8141fbbec50082cf714176/biantitu.png"
@@ -146,6 +166,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xc009-type-c-female-head-to-ph2-0-power-supply-cable",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Outer Diameter (mm)",
@@ -167,6 +188,7 @@
       "price": "3.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/type-c-female-head-to-ph2-0-power-supply-cable?skr=yes"
     },
     {
@@ -177,6 +199,7 @@
       "price": "6.29",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/type-c-female-head-to-ph2-0-power-supply-cable?skr=yes"
     },
     {
@@ -187,6 +210,7 @@
       "price": "3.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/type-c-female-head-to-ph2-0-power-supply-cable?skr=yes"
     },
     {
@@ -197,6 +221,7 @@
       "price": "3.59",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/type-c-female-head-to-ph2-0-power-supply-cable?skr=yes"
     },
     {
@@ -207,6 +232,7 @@
       "price": "6.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/type-c-female-head-to-ph2-0-power-supply-cable?skr=yes"
     },
     {
@@ -217,6 +243,7 @@
       "price": "3.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/type-c-female-head-to-ph2-0-power-supply-cable?skr=yes"
     }
   ],
@@ -266,6 +293,7 @@
     "Product ID": "XC009",
     "Rated Voltage (V)": "5V"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -276,6 +304,7 @@
       "price": "3.99",
       "region": "us",
       "sku": "608552051473018882",
+      "store_id": "",
       "title": "TYPE C Female Head to PH2.0 Power Supply Cable - TYPE C Female Head to PH2.0 Power Supply Cable (2PCS)-XC009",
       "url": "https://us.store.bambulab.com/products/type-c-female-head-to-ph2-0-power-supply-cable?id=608552051473018882",
       "variant_id": "608552051473018882"
@@ -288,6 +317,7 @@
       "price": "6.29",
       "region": "ca",
       "sku": "608541114853543938",
+      "store_id": "",
       "title": "TYPE C Female Head to PH2.0 Power Supply Cable - TYPE C Female Head to PH2.0 Power Supply Cable (2PCS)-XC009",
       "url": "https://ca.store.bambulab.com/products/type-c-female-head-to-ph2-0-power-supply-cable?id=608541114853543938",
       "variant_id": "608541114853543938"
@@ -300,6 +330,7 @@
       "price": "3.49",
       "region": "eu",
       "sku": "608538902538543104",
+      "store_id": "",
       "title": "TYPE C Female Head to PH2.0 Power Supply Cable - TYPE C Female Head to PH2.0 Power Supply Cable (2PCS)-XC009",
       "url": "https://eu.store.bambulab.com/products/type-c-female-head-to-ph2-0-power-supply-cable?id=608538902538543104",
       "variant_id": "608538902538543104"
@@ -312,6 +343,7 @@
       "price": "3.59",
       "region": "uk",
       "sku": "608540382838939649",
+      "store_id": "",
       "title": "TYPE C Female Head to PH2.0 Power Supply Cable - TYPE C Female Head to PH2.0 Power Supply Cable (2PCS)-XC009",
       "url": "https://uk.store.bambulab.com/products/type-c-female-head-to-ph2-0-power-supply-cable?id=608540382838939649",
       "variant_id": "608540382838939649"
@@ -324,6 +356,7 @@
       "price": "6.99",
       "region": "au",
       "sku": "608539239114174466",
+      "store_id": "",
       "title": "TYPE C Female Head to PH2.0 Power Supply Cable - TYPE C Female Head to PH2.0 Power Supply Cable (2PCS)-XC009",
       "url": "https://au.store.bambulab.com/products/type-c-female-head-to-ph2-0-power-supply-cable?id=608539239114174466",
       "variant_id": "608539239114174466"
@@ -336,6 +369,7 @@
       "price": "3.99",
       "region": "asia",
       "sku": "608509590721740802",
+      "store_id": "",
       "title": "TYPE C Female Head to PH2.0 Power Supply Cable - TYPE C Female Head to PH2.0 Power Supply Cable (2PCS)-XC009",
       "url": "https://asia.store.bambulab.com/products/type-c-female-head-to-ph2-0-power-supply-cable?id=608509590721740802",
       "variant_id": "608509590721740802"

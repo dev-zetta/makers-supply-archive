@@ -4,36 +4,49 @@
     {
       "handle": "sunflower-windmill",
       "product_id": "750845736162840576",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "sunflower-windmill",
       "product_id": "750847502804369408",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "sunflower-windmill",
       "product_id": "750845388489977856",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "sunflower-windmill",
       "product_id": "750846082096824320",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "sunflower-windmill",
       "product_id": "750848707366670336",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "sunflower-windmill",
       "product_id": "750550365417283584",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9f/9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1.png",
       "id": "image-f6fce5e82a6c1e4144a4",
       "kind": "image",
@@ -41,23 +54,13 @@
       "original_filename": "ZH158.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1",
       "size": 3189926,
       "source_url": "https://store.bblcdn.com/s7/default/3cf2dfbfcc1b4a9fb8003dcd04d370ed/ZH158.png"
     },
     {
-      "blob_path": "data/blobs/sha256/9f/9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1.png",
-      "id": "image-cea3a08df289fc146246",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "ZH158.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1",
-      "size": 3189926,
-      "source_url": "https://store.bblcdn.com/s1/default/51ca8d4d128e4562a6faf7d8adfd4630/ZH158.png"
-    },
-    {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f5/f50f7bacd0acc5a607942852589a6a60c9602fc3d5f2283460baa157e4336bda.png",
       "id": "image-b80fa9ab197f53d46556",
       "kind": "image",
@@ -65,11 +68,27 @@
       "original_filename": "ZH158_V.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f50f7bacd0acc5a607942852589a6a60c9602fc3d5f2283460baa157e4336bda",
       "size": 502628,
       "source_url": "https://store.bblcdn.com/s7/default/6c9e181843a849aea17b763d2b9e3424/ZH158_V.png"
     },
     {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/9f/9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1.png",
+      "id": "image-cea3a08df289fc146246",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH158.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "role": "other",
+      "sha256": "9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1",
+      "size": 3189926,
+      "source_url": "https://store.bblcdn.com/s1/default/51ca8d4d128e4562a6faf7d8adfd4630/ZH158.png"
+    },
+    {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4e/4e83cff5b905e8b4fdd393462f8d979615414b808a40a7bb84e507881e99569c.png",
       "id": "image-display-0cc9ecadc42f2af5fe38",
       "image_processing": {
@@ -87,33 +106,13 @@
       "parent_asset_id": "image-f6fce5e82a6c1e4144a4",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4e83cff5b905e8b4fdd393462f8d979615414b808a40a7bb84e507881e99569c",
       "size": 882197,
       "source_url": "https://store.bblcdn.com/s7/default/3cf2dfbfcc1b4a9fb8003dcd04d370ed/ZH158.png"
     },
     {
-      "blob_path": "data/blobs/sha256/4e/4e83cff5b905e8b4fdd393462f8d979615414b808a40a7bb84e507881e99569c.png",
-      "id": "image-display-fb1e0b48e15db7265b46",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 1600,
-        "source_sha256": "9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1",
-        "source_width": 1600
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "ZH158.catalog.png",
-      "parent_asset_id": "image-cea3a08df289fc146246",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "4e83cff5b905e8b4fdd393462f8d979615414b808a40a7bb84e507881e99569c",
-      "size": 882197,
-      "source_url": "https://store.bblcdn.com/s1/default/51ca8d4d128e4562a6faf7d8adfd4630/ZH158.png"
-    },
-    {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/84/845f4813f63fd7d4c207bf8eebc53ca11bb834d454969d512fdb9c344036d2ed.png",
       "id": "image-display-f23ebbfc12103d607b52",
       "image_processing": {
@@ -131,9 +130,34 @@
       "parent_asset_id": "image-b80fa9ab197f53d46556",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "845f4813f63fd7d4c207bf8eebc53ca11bb834d454969d512fdb9c344036d2ed",
       "size": 126993,
       "source_url": "https://store.bblcdn.com/s7/default/6c9e181843a849aea17b763d2b9e3424/ZH158_V.png"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/4e/4e83cff5b905e8b4fdd393462f8d979615414b808a40a7bb84e507881e99569c.png",
+      "id": "image-display-fb1e0b48e15db7265b46",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "9fa618947db9795aa64b9cf505320f05bb38436e231ceef21097f8564795a0f1",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH158.catalog.png",
+      "parent_asset_id": "image-cea3a08df289fc146246",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "role": "other",
+      "sha256": "4e83cff5b905e8b4fdd393462f8d979615414b808a40a7bb84e507881e99569c",
+      "size": 882197,
+      "source_url": "https://store.bblcdn.com/s1/default/51ca8d4d128e4562a6faf7d8adfd4630/ZH158.png"
     }
   ],
   "box_contents": [
@@ -183,7 +207,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Sunflower Windmill - 608 Bearing Mod. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Sunflower Windmill - 608 Bearing Mod on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh158-sunflower-windmill",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Sunflower Windmill",
   "offers": [
@@ -195,6 +220,7 @@
       "price": "5.49",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
     },
     {
@@ -205,6 +231,7 @@
       "price": "6.32",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
     },
     {
@@ -215,6 +242,7 @@
       "price": "5.17",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
     },
     {
@@ -225,6 +253,7 @@
       "price": "4.39",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
     },
     {
@@ -235,6 +264,7 @@
       "price": "9.92",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
     },
     {
@@ -245,6 +275,7 @@
       "price": "4.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/sunflower-windmill?skr=yes"
     }
   ],
@@ -289,6 +320,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -301,6 +333,7 @@
       "price": "5.49",
       "region": "us",
       "sku": "750845736188006402",
+      "store_id": "",
       "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
       "url": "https://us.store.bambulab.com/products/sunflower-windmill?id=750845736188006402",
       "variant_id": "750845736188006402"
@@ -313,6 +346,7 @@
       "price": "6.32",
       "region": "ca",
       "sku": "750847502825340930",
+      "store_id": "",
       "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
       "url": "https://ca.store.bambulab.com/products/sunflower-windmill?id=750847502825340930",
       "variant_id": "750847502825340930"
@@ -325,6 +359,7 @@
       "price": "5.17",
       "region": "eu",
       "sku": "750845388527726594",
+      "store_id": "",
       "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
       "url": "https://eu.store.bambulab.com/products/sunflower-windmill?id=750845388527726594",
       "variant_id": "750845388527726594"
@@ -337,6 +372,7 @@
       "price": "4.39",
       "region": "uk",
       "sku": "750846082155544576",
+      "store_id": "",
       "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
       "url": "https://uk.store.bambulab.com/products/sunflower-windmill?id=750846082155544576",
       "variant_id": "750846082155544576"
@@ -349,6 +385,7 @@
       "price": "9.92",
       "region": "au",
       "sku": "750848707417001986",
+      "store_id": "",
       "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
       "url": "https://au.store.bambulab.com/products/sunflower-windmill?id=750848707417001986",
       "variant_id": "750848707417001986"
@@ -361,6 +398,7 @@
       "price": "4.99",
       "region": "asia",
       "sku": "750550365484392450",
+      "store_id": "",
       "title": "Sunflower Windmill - Sunflower Windmill - ZH158",
       "url": "https://asia.store.bambulab.com/products/sunflower-windmill?id=750550365484392450",
       "variant_id": "750550365484392450"

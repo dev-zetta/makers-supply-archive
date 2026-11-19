@@ -4,36 +4,49 @@
     {
       "handle": "double-laptop-stand-with-a-drawer-organiser",
       "product_id": "655300262796824576",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "double-laptop-stand-with-a-drawer-organiser",
       "product_id": "655298900027936768",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "double-laptop-stand-with-a-drawer-organiser",
       "product_id": "655301034635530240",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "double-laptop-stand-with-a-drawer-organiser",
       "product_id": "655299700841959424",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "double-laptop-stand-with-a-drawer-organiser",
       "product_id": "655298141830975488",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "double-laptop-stand-with-a-drawer-organiser",
       "product_id": "655295047027515392",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/92/929fd35c94d7254a9d34be0095757dcebbbcc4c26a25522ef47b12152830989c.png",
       "id": "image-4066f6fc00caf11b1142",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH115-1.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "929fd35c94d7254a9d34be0095757dcebbbcc4c26a25522ef47b12152830989c",
       "size": 1368320,
       "source_url": "https://store.bblcdn.com/s7/default/0cf2f52d404048f7b806f29d8b152548/B-ZH115-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/61/61ae149be9a2d0f3d50f2f6c1f5ddaadceaea0d0518a8b4d2678cb2fc44bee4e.png",
       "id": "image-e91a075821ec0c234d8f",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH115-2.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "61ae149be9a2d0f3d50f2f6c1f5ddaadceaea0d0518a8b4d2678cb2fc44bee4e",
       "size": 207471,
       "source_url": "https://store.bblcdn.com/s7/default/028245b2df72456db430e75290e285e6/ZH115-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2b/2b93c0e7df538339fde8a811b9a159a226ef0c576ab9ff40b296587ad46b9fc3.png",
       "id": "image-display-7d11f0b02b3919a10c53",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-4066f6fc00caf11b1142",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2b93c0e7df538339fde8a811b9a159a226ef0c576ab9ff40b296587ad46b9fc3",
       "size": 456116,
       "source_url": "https://store.bblcdn.com/s7/default/0cf2f52d404048f7b806f29d8b152548/B-ZH115-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ee/ee2e400678f4b02b01a37878f0396822e3773995ac41982fe1f280e9e2ae47cb.png",
       "id": "image-display-99c601f33ad44ca515c7",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-e91a075821ec0c234d8f",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ee2e400678f4b02b01a37878f0396822e3773995ac41982fe1f280e9e2ae47cb",
       "size": 55684,
       "source_url": "https://store.bblcdn.com/s7/default/028245b2df72456db430e75290e285e6/ZH115-2.png"
@@ -160,7 +180,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Double laptop stand with a drawer organiser. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Double laptop stand with a drawer organiser on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh115-double-laptop-stand-with-a-drawer-organiser",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Double laptop stand with a drawer organiser",
   "offers": [
@@ -172,6 +193,7 @@
       "price": "3.4",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/double-laptop-stand-with-a-drawer-organiser?skr=yes"
     },
     {
@@ -182,6 +204,7 @@
       "price": "3.64",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/double-laptop-stand-with-a-drawer-organiser?skr=yes"
     },
     {
@@ -192,6 +215,7 @@
       "price": "3.37",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/double-laptop-stand-with-a-drawer-organiser?skr=yes"
     },
     {
@@ -202,6 +226,7 @@
       "price": "2.53",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/double-laptop-stand-with-a-drawer-organiser?skr=yes"
     },
     {
@@ -212,6 +237,7 @@
       "price": "5.71",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/double-laptop-stand-with-a-drawer-organiser?skr=yes"
     },
     {
@@ -222,6 +248,7 @@
       "price": "2.88",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/double-laptop-stand-with-a-drawer-organiser?skr=yes"
     }
   ],
@@ -277,6 +304,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -289,6 +317,7 @@
       "price": "3.4",
       "region": "us",
       "sku": "655300262834573312",
+      "store_id": "",
       "title": "Double laptop stand with a drawer organiser - Double laptop stand with a drawer organiser - ZH115",
       "url": "https://us.store.bambulab.com/products/double-laptop-stand-with-a-drawer-organiser?id=655300262834573312",
       "variant_id": "655300262834573312"
@@ -301,6 +330,7 @@
       "price": "3.64",
       "region": "ca",
       "sku": "655298900090851329",
+      "store_id": "",
       "title": "Double laptop stand with a drawer organiser - Double laptop stand with a drawer organiser - ZH115",
       "url": "https://ca.store.bambulab.com/products/double-laptop-stand-with-a-drawer-organiser?id=655298900090851329",
       "variant_id": "655298900090851329"
@@ -313,6 +343,7 @@
       "price": "3.37",
       "region": "eu",
       "sku": "655301034664890369",
+      "store_id": "",
       "title": "Double laptop stand with a drawer organiser - Double laptop stand with a drawer organiser - ZH115",
       "url": "https://eu.store.bambulab.com/products/double-laptop-stand-with-a-drawer-organiser?id=655301034664890369",
       "variant_id": "655301034664890369"
@@ -325,6 +356,7 @@
       "price": "2.53",
       "region": "uk",
       "sku": "655299700904873985",
+      "store_id": "",
       "title": "Double laptop stand with a drawer organiser - Double laptop stand with a drawer organiser - ZH115",
       "url": "https://uk.store.bambulab.com/products/double-laptop-stand-with-a-drawer-organiser?id=655299700904873985",
       "variant_id": "655299700904873985"
@@ -337,6 +369,7 @@
       "price": "5.71",
       "region": "au",
       "sku": "655298141902278657",
+      "store_id": "",
       "title": "Double laptop stand with a drawer organiser - Double laptop stand with a drawer organiser - ZH115",
       "url": "https://au.store.bambulab.com/products/double-laptop-stand-with-a-drawer-organiser?id=655298141902278657",
       "variant_id": "655298141902278657"
@@ -349,6 +382,7 @@
       "price": "2.88",
       "region": "asia",
       "sku": "655295047061069826",
+      "store_id": "",
       "title": "Double laptop stand with a drawer organiser - Double laptop stand with a drawer organiser - ZH115",
       "url": "https://asia.store.bambulab.com/products/double-laptop-stand-with-a-drawer-organiser?id=655295047061069826",
       "variant_id": "655295047061069826"

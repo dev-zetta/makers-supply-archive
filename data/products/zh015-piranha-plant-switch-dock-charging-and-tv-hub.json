@@ -4,36 +4,49 @@
     {
       "handle": "piranha-plant-switch-dock-charging-and-tv-hub",
       "product_id": "8315308408968",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "piranha-plant-switch-dock-charging-and-tv-hub",
       "product_id": "8974094008560",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "piranha-plant-switch-dock-charging-and-tv-hub",
       "product_id": "9518426259804",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "piranha-plant-switch-dock-charging-and-tv-hub",
       "product_id": "7748105404476",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "piranha-plant-switch-dock-charging-and-tv-hub",
       "product_id": "8562861015203",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "piranha-plant-switch-dock-charging-and-tv-hub",
       "product_id": "499462502814539776",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2e/2e5bd2ea98b23e7fbd858d2597f2c35eb2036f607d7a8145fb5856c09fbb2677.png",
       "id": "image-b4955185044d5ca69924",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "572ad44722df48ca9e2b766222222f2b.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2e5bd2ea98b23e7fbd858d2597f2c35eb2036f607d7a8145fb5856c09fbb2677",
       "size": 490009,
       "source_url": "https://store.bblcdn.com/572ad44722df48ca9e2b766222222f2b.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a5/a51219843c8fff469c8ec4d896fcb0acbceb237bf32d901555dfe12eea300992.png",
       "id": "image-f684caa384536dd95752",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "189979da155647f6b41819a7989cdbc6.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a51219843c8fff469c8ec4d896fcb0acbceb237bf32d901555dfe12eea300992",
       "size": 370632,
       "source_url": "https://store.bblcdn.com/189979da155647f6b41819a7989cdbc6.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dd/dde9128fa2ef603dae3c4267b678c1fa70ec7ea7201288425ab174a22dae8152.png",
       "id": "image-display-f175ca9e8745fd3c67bd",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-b4955185044d5ca69924",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dde9128fa2ef603dae3c4267b678c1fa70ec7ea7201288425ab174a22dae8152",
       "size": 402247,
       "source_url": "https://store.bblcdn.com/572ad44722df48ca9e2b766222222f2b.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/78/786cc757f3eb3283f6b575ac7b35c3b7b258f542804ed2c6a016f71b63e5b8f1.png",
       "id": "image-display-6c2475e38819ee4cd35a",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-f684caa384536dd95752",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "786cc757f3eb3283f6b575ac7b35c3b7b258f542804ed2c6a016f71b63e5b8f1",
       "size": 125527,
       "source_url": "https://store.bblcdn.com/189979da155647f6b41819a7989cdbc6.png"
@@ -161,6 +181,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh015-piranha-plant-switch-dock-charging-and-tv-hub",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Piranha Plant Switch Dock (Charging and TV - Hub)",
   "offers": [
@@ -172,6 +193,7 @@
       "price": "6.07",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/piranha-plant-switch-dock-charging-and-tv-hub?skr=yes"
     },
     {
@@ -182,6 +204,7 @@
       "price": "6.98",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/piranha-plant-switch-dock-charging-and-tv-hub?skr=yes"
     },
     {
@@ -192,6 +215,7 @@
       "price": "5.71",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/piranha-plant-switch-dock-charging-and-tv-hub?skr=yes"
     },
     {
@@ -202,6 +226,7 @@
       "price": "4.85",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/piranha-plant-switch-dock-charging-and-tv-hub?skr=yes"
     },
     {
@@ -212,6 +237,7 @@
       "price": "10.95",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/piranha-plant-switch-dock-charging-and-tv-hub?skr=yes"
     },
     {
@@ -222,6 +248,7 @@
       "price": "5.51",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/piranha-plant-switch-dock-charging-and-tv-hub?skr=yes"
     }
   ],
@@ -277,6 +304,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -289,6 +317,7 @@
       "price": "6.07",
       "region": "us",
       "sku": "42824477245576",
+      "store_id": "",
       "title": "Piranha Plant Switch Dock (Charging and TV - Hub) - Piranha Plant Switch Dock - ZH015",
       "url": "https://us.store.bambulab.com/products/piranha-plant-switch-dock-charging-and-tv-hub?id=42824477245576",
       "variant_id": "42824477245576"
@@ -301,6 +330,7 @@
       "price": "6.98",
       "region": "ca",
       "sku": "46464679870704",
+      "store_id": "",
       "title": "Piranha Plant Switch Dock (Charging and TV - Hub) - Piranha Plant Switch Dock - ZH015",
       "url": "https://ca.store.bambulab.com/products/piranha-plant-switch-dock-charging-and-tv-hub?id=46464679870704",
       "variant_id": "46464679870704"
@@ -313,6 +343,7 @@
       "price": "5.71",
       "region": "eu",
       "sku": "49184275005788",
+      "store_id": "",
       "title": "Piranha Plant Switch Dock (Charging and TV - Hub) - Piranha Plant Switch Dock - ZH015",
       "url": "https://eu.store.bambulab.com/products/piranha-plant-switch-dock-charging-and-tv-hub?id=49184275005788",
       "variant_id": "49184275005788"
@@ -325,6 +356,7 @@
       "price": "4.85",
       "region": "uk",
       "sku": "42089077637180",
+      "store_id": "",
       "title": "Piranha Plant Switch Dock (Charging and TV - Hub) - Piranha Plant Switch Dock - ZH015",
       "url": "https://uk.store.bambulab.com/products/piranha-plant-switch-dock-charging-and-tv-hub?id=42089077637180",
       "variant_id": "42089077637180"
@@ -337,6 +369,7 @@
       "price": "10.95",
       "region": "au",
       "sku": "45080727126179",
+      "store_id": "",
       "title": "Piranha Plant Switch Dock (Charging and TV - Hub) - Piranha Plant Switch Dock - ZH015",
       "url": "https://au.store.bambulab.com/products/piranha-plant-switch-dock-charging-and-tv-hub?id=45080727126179",
       "variant_id": "45080727126179"
@@ -349,6 +382,7 @@
       "price": "5.51",
       "region": "asia",
       "sku": "499462502814539780",
+      "store_id": "",
       "title": "Piranha Plant Switch Dock (Charging and TV - Hub) - Piranha Plant Switch Dock - ZH015",
       "url": "https://asia.store.bambulab.com/products/piranha-plant-switch-dock-charging-and-tv-hub?id=499462502814539780",
       "variant_id": "499462502814539780"

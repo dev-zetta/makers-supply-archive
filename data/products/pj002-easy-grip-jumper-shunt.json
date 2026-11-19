@@ -4,36 +4,49 @@
     {
       "handle": "easy-grip-jumper-shunt",
       "product_id": "692257122472787968",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "easy-grip-jumper-shunt",
       "product_id": "692250848792768512",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "easy-grip-jumper-shunt",
       "product_id": "692257617568849920",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "easy-grip-jumper-shunt",
       "product_id": "692256446957629440",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "easy-grip-jumper-shunt",
       "product_id": "692247761627234304",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "easy-grip-jumper-shunt",
       "product_id": "689678981809741824",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7e/7e1b7284d5f5609ce3b39ed77bf9d59c9a98b08e88d25bb8f7a0f4b8a5b0b0b6.png",
       "id": "image-62ecac70bd765830f7aa",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7e1b7284d5f5609ce3b39ed77bf9d59c9a98b08e88d25bb8f7a0f4b8a5b0b0b6",
       "size": 395773,
       "source_url": "https://store.bblcdn.com/s7/default/645622e82c88488e9232485eefc5a04d/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a3/a39d30a7fe285016525fc69e6ccc3b914ca3cb178a565a4b100a612ac867f03e.png",
       "id": "image-7cbd0819e23ec05253ea",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a39d30a7fe285016525fc69e6ccc3b914ca3cb178a565a4b100a612ac867f03e",
       "size": 185161,
       "source_url": "https://store.bblcdn.com/s7/default/790e9fe7e12a4387bb62f3f7befff36a/2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/49/493b6fbba621a98db14dccf7f4e65f6a1018622d1ad7001511967412ce084b20.png",
       "id": "image-94681834f2d92aab3632",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "3.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "493b6fbba621a98db14dccf7f4e65f6a1018622d1ad7001511967412ce084b20",
       "size": 304616,
       "source_url": "https://store.bblcdn.com/s7/default/b5c2ca0c29f84d93a2f397ea71fc5372/3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b6/b68aa3b52a0240d5bfe56f32d19992562f51726d11dd73a38ecafc7d3778ce62.png",
       "id": "image-display-e163400c44065abe5404",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-62ecac70bd765830f7aa",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b68aa3b52a0240d5bfe56f32d19992562f51726d11dd73a38ecafc7d3778ce62",
       "size": 119673,
       "source_url": "https://store.bblcdn.com/s7/default/645622e82c88488e9232485eefc5a04d/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/41/415cd492c9ac487e17f783ba20727f1077818bff897253be5f72b8cc278dd0d3.png",
       "id": "image-display-2ee6dc627f89b0648948",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-7cbd0819e23ec05253ea",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "415cd492c9ac487e17f783ba20727f1077818bff897253be5f72b8cc278dd0d3",
       "size": 58699,
       "source_url": "https://store.bblcdn.com/s7/default/790e9fe7e12a4387bb62f3f7befff36a/2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f1c6bcd8b80baa8b39d90ef20377b6fed8ed07768f2c9f380b325f593021d826.png",
       "id": "image-display-e1eb49f4b5d51653ad4b",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-94681834f2d92aab3632",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1c6bcd8b80baa8b39d90ef20377b6fed8ed07768f2c9f380b325f593021d826",
       "size": 94121,
       "source_url": "https://store.bblcdn.com/s7/default/b5c2ca0c29f84d93a2f397ea71fc5372/3.png"
@@ -188,6 +212,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "pj002-easy-grip-jumper-shunt",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Easy-Grip Jumper Shunt",
   "offers": [
@@ -199,6 +224,7 @@
       "price": "2.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/easy-grip-jumper-shunt?skr=yes"
     },
     {
@@ -209,6 +235,7 @@
       "price": "1.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/easy-grip-jumper-shunt?skr=yes"
     },
     {
@@ -219,6 +246,7 @@
       "price": "1.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/easy-grip-jumper-shunt?skr=yes"
     },
     {
@@ -229,6 +257,7 @@
       "price": "1.39",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/easy-grip-jumper-shunt?skr=yes"
     },
     {
@@ -239,6 +268,7 @@
       "price": "1.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/easy-grip-jumper-shunt?skr=yes"
     },
     {
@@ -249,6 +279,7 @@
       "price": "2.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/easy-grip-jumper-shunt?skr=yes"
     }
   ],
@@ -267,6 +298,7 @@
   ],
   "source_tables": [],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -277,6 +309,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "692257122485370882",
+      "store_id": "",
       "title": "Easy-Grip Jumper Shunt - Easy-Grip Jumper Shunt(10PCS) - PJ002",
       "url": "https://us.store.bambulab.com/products/easy-grip-jumper-shunt?id=692257122485370882",
       "variant_id": "692257122485370882"
@@ -289,6 +322,7 @@
       "price": "1.99",
       "region": "ca",
       "sku": "692250848838905858",
+      "store_id": "",
       "title": "Easy-Grip Jumper Shunt - Easy-Grip Jumper Shunt(10PCS) - PJ002",
       "url": "https://ca.store.bambulab.com/products/easy-grip-jumper-shunt?id=692250848838905858",
       "variant_id": "692250848838905858"
@@ -301,6 +335,7 @@
       "price": "1.49",
       "region": "eu",
       "sku": "692257617589821440",
+      "store_id": "",
       "title": "Easy-Grip Jumper Shunt - Easy-Grip Jumper Shunt(10PCS) - PJ002",
       "url": "https://eu.store.bambulab.com/products/easy-grip-jumper-shunt?id=692257617589821440",
       "variant_id": "692257617589821440"
@@ -313,6 +348,7 @@
       "price": "1.39",
       "region": "uk",
       "sku": "692256446966018050",
+      "store_id": "",
       "title": "Easy-Grip Jumper Shunt - Easy-Grip Jumper Shunt(10PCS) - PJ002",
       "url": "https://uk.store.bambulab.com/products/easy-grip-jumper-shunt?id=692256446966018050",
       "variant_id": "692256446966018050"
@@ -325,6 +361,7 @@
       "price": "1.99",
       "region": "au",
       "sku": "692247761673371649",
+      "store_id": "",
       "title": "Easy-Grip Jumper Shunt - Easy-Grip Jumper Shunt(10PCS) - PJ002",
       "url": "https://au.store.bambulab.com/products/easy-grip-jumper-shunt?id=692247761673371649",
       "variant_id": "692247761673371649"
@@ -337,6 +374,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "689678981843296259",
+      "store_id": "",
       "title": "Easy-Grip Jumper Shunt - Easy-Grip Jumper Shunt(10PCS) - PJ002",
       "url": "https://asia.store.bambulab.com/products/easy-grip-jumper-shunt?id=689678981843296259",
       "variant_id": "689678981843296259"

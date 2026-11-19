@@ -4,36 +4,49 @@
     {
       "handle": "100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire",
       "product_id": "8211559645320",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire",
       "product_id": "8886045966576",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire",
       "product_id": "9432736727388",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire",
       "product_id": "7655067189308",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire",
       "product_id": "8492980404387",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire",
       "product_id": "7666509152371",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/af/af432b5b557afeebb0aac6a6102377c434f26fa27c4ca0a12747bea863874a88.png",
       "id": "image-53c219eee6d671894923",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "100mm_Y_type_PH2.0_to_Dual_SH1.0_Conversion_Wire1.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "af432b5b557afeebb0aac6a6102377c434f26fa27c4ca0a12747bea863874a88",
       "size": 40016,
       "source_url": "https://store.bblcdn.com/s7/default/821b7a86639d4871a044dc4600ba319f/100mm_Y_type_PH2.0_to_Dual_SH1.0_Conversion_Wire1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/47/4769dd20106f5f11839951de1bfb6603c9e4a784ba516e58f5969ad7eab3d364.png",
       "id": "image-310e86107a734b9e8033",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "100mmYtypePH2.0toDualSH1.0ConversionWire.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4769dd20106f5f11839951de1bfb6603c9e4a784ba516e58f5969ad7eab3d364",
       "size": 32963,
       "source_url": "https://store.bblcdn.com/s7/default/8dfb0bf5eb9a48c7bf87031f5287ddbc/100mmYtypePH2.0toDualSH1.0ConversionWire.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0d/0da564c16c57fd37fef256f779055c0be045bf588da171bc4b50c7f8d19cc71e.zip",
       "id": "archive-18a22d69c8593d1932a2",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "100mm_Y_type_PH2.0_to_Dual_SH1.0_Conversion_Wire.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0da564c16c57fd37fef256f779055c0be045bf588da171bc4b50c7f8d19cc71e",
       "size": 1268076,
       "source_url": "https://store.bblcdn.com/s7/default/b1f3e804ceec4b76bc403d70c76dbf12/100mm_Y_type_PH2.0_to_Dual_SH1.0_Conversion_Wire.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7c/7c8e5d63c80cb2816a6eb371fc8d7e94c0244bc2fdb038cda6ae898f416981c5.zip",
       "id": "archive-9681150b060cd5f1b98e",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "100mm_Y_type_PH2.0_to_Dual_SH1.0_Conversion_Wire.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7c8e5d63c80cb2816a6eb371fc8d7e94c0244bc2fdb038cda6ae898f416981c5",
       "size": 2579461,
       "source_url": "https://store.bblcdn.com/s7/default/fed5490b3d1742968b59eb1e8554c10d/100mm_Y_type_PH2.0_to_Dual_SH1.0_Conversion_Wire.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "100mm Y type PH2.0 to Dual SH1.0 Conversion Wire/100mm Y type PH2.0 to Dual SH1.0 Conversion Wire - XC003.stl",
       "blob_path": "data/blobs/sha256/8f/8f558c38e9fcb5bb8bcf64d7f7c0646f91200f08a460d2583e8e28399d2025b3.stl",
       "id": "model-2b4ede6abf8db827ef7e",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-18a22d69c8593d1932a2",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8f558c38e9fcb5bb8bcf64d7f7c0646f91200f08a460d2583e8e28399d2025b3",
       "size": 2205884,
       "source_url": "https://store.bblcdn.com/s7/default/b1f3e804ceec4b76bc403d70c76dbf12/100mm_Y_type_PH2.0_to_Dual_SH1.0_Conversion_Wire.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "100mm Y type PH2.0 to Dual SH1.0 Conversion Wire/100mm Y type PH2.0 to Dual SH1.0 Conversion Wire - XC003.stp",
       "blob_path": "data/blobs/sha256/7d/7d5be4141fd2d47c5f21f7a11643a7cadd495894b28df0e6a79f5734af1290c4.stp",
       "id": "model-17a8299ef0e572b55a4b",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-18a22d69c8593d1932a2",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7d5be4141fd2d47c5f21f7a11643a7cadd495894b28df0e6a79f5734af1290c4",
       "size": 1352443,
       "source_url": "https://store.bblcdn.com/s7/default/b1f3e804ceec4b76bc403d70c76dbf12/100mm_Y_type_PH2.0_to_Dual_SH1.0_Conversion_Wire.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6d/6d6866b1774fabac231c7e4058add7d887a644f5a413c95df6359113a5faa2d2.png",
       "id": "image-display-c9de0d1bdb457dbf797c",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-53c219eee6d671894923",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6d6866b1774fabac231c7e4058add7d887a644f5a413c95df6359113a5faa2d2",
       "size": 30323,
       "source_url": "https://store.bblcdn.com/s7/default/821b7a86639d4871a044dc4600ba319f/100mm_Y_type_PH2.0_to_Dual_SH1.0_Conversion_Wire1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/84/84d45ee69454806b8cf1057e9d148d10bfa5b42f7e4b6dac3cbef3c3bb4796cf.png",
       "id": "image-display-7050cfaf6c4c26dfaccf",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-310e86107a734b9e8033",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "84d45ee69454806b8cf1057e9d148d10bfa5b42f7e4b6dac3cbef3c3bb4796cf",
       "size": 28895,
       "source_url": "https://store.bblcdn.com/s7/default/8dfb0bf5eb9a48c7bf87031f5287ddbc/100mmYtypePH2.0toDualSH1.0ConversionWire.png"
@@ -194,6 +222,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xc003-100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Length(mm)",
@@ -224,6 +253,7 @@
       "price": "1.2",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?skr=yes"
     },
     {
@@ -234,6 +264,7 @@
       "price": "1.25",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?skr=yes"
     },
     {
@@ -244,6 +275,7 @@
       "price": "1.24",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?skr=yes"
     },
     {
@@ -254,6 +286,7 @@
       "price": "0.87",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?skr=yes"
     },
     {
@@ -264,6 +297,7 @@
       "price": "1.97",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?skr=yes"
     },
     {
@@ -274,6 +308,7 @@
       "price": "0.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?skr=yes"
     }
   ],
@@ -326,6 +361,7 @@
     "Product ID": "XC003",
     "Wire Gauge": "32AWG"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -336,6 +372,7 @@
       "price": "1.2",
       "region": "us",
       "sku": "42591257264264",
+      "store_id": "",
       "title": "100mm Y Type PH2.0 to Dual SH1.0 Conversion Wire - 100mm (2PCS) -XC003",
       "url": "https://us.store.bambulab.com/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?id=42591257264264",
       "variant_id": "42591257264264"
@@ -348,6 +385,7 @@
       "price": "1.25",
       "region": "ca",
       "sku": "46201896829168",
+      "store_id": "",
       "title": "100mm Y Type PH2.0 to Dual SH1.0 Conversion Wire - 100mm (2PCS) -XC003",
       "url": "https://ca.store.bambulab.com/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?id=46201896829168",
       "variant_id": "46201896829168"
@@ -360,6 +398,7 @@
       "price": "1.24",
       "region": "eu",
       "sku": "48904163590492",
+      "store_id": "",
       "title": "100mm Y Type PH2.0 to Dual SH1.0 Conversion Wire - 100mm (2PCS) -XC003",
       "url": "https://eu.store.bambulab.com/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?id=48904163590492",
       "variant_id": "48904163590492"
@@ -372,6 +411,7 @@
       "price": "0.87",
       "region": "uk",
       "sku": "41861601755196",
+      "store_id": "",
       "title": "100mm Y Type PH2.0 to Dual SH1.0 Conversion Wire - 100mm (2PCS) -XC003",
       "url": "https://uk.store.bambulab.com/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?id=41861601755196",
       "variant_id": "41861601755196"
@@ -384,6 +424,7 @@
       "price": "1.97",
       "region": "au",
       "sku": "44713006301347",
+      "store_id": "",
       "title": "100mm Y Type PH2.0 to Dual SH1.0 Conversion Wire - 100mm (2PCS) -XC003",
       "url": "https://au.store.bambulab.com/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?id=44713006301347",
       "variant_id": "44713006301347"
@@ -396,6 +437,7 @@
       "price": "0.99",
       "region": "asia",
       "sku": "42004728905843",
+      "store_id": "",
       "title": "100mm Y Type PH2.0 to Dual SH1.0 Conversion Wire - 100mm (2PCS) -XC003",
       "url": "https://asia.store.bambulab.com/products/100mm-y-type-ph2-0-to-dual-sh1-0-conversion-wire?id=42004728905843",
       "variant_id": "42004728905843"

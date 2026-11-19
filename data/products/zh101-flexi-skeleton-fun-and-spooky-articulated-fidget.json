@@ -4,36 +4,49 @@
     {
       "handle": "flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget",
       "product_id": "647650271197921280",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget",
       "product_id": "647652159998005248",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget",
       "product_id": "647650649003618304",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget",
       "product_id": "647651768559505408",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget",
       "product_id": "647651302213447680",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget",
       "product_id": "647637943830405120",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/80/80334d2889fafb0746044265e4d7380ff3f5b2a70b3344a0276b0b3e4087df0a.png",
       "id": "image-3353a039dafdaac77228",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH101_F.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "80334d2889fafb0746044265e4d7380ff3f5b2a70b3344a0276b0b3e4087df0a",
       "size": 2252115,
       "source_url": "https://store.bblcdn.com/s7/default/793d07974cbb45cd987313f71c50e08f/B-ZH101_F.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/89/89ab8dea834c8c6abfabe0f18026fa0bd2a056a57d075d4117ff9b08291613a1.png",
       "id": "image-32dd1df0d396df77b3a3",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH101.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "89ab8dea834c8c6abfabe0f18026fa0bd2a056a57d075d4117ff9b08291613a1",
       "size": 247055,
       "source_url": "https://store.bblcdn.com/s7/default/74621f8d9a2748cb812dcd58d4a95d97/B-ZH101.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ff/ff2772e4bf9ce2ce455782f8823753f83777e8704534828e5d9604407de06de9.png",
       "id": "image-display-37932a094c9ff33579c5",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-3353a039dafdaac77228",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ff2772e4bf9ce2ce455782f8823753f83777e8704534828e5d9604407de06de9",
       "size": 686544,
       "source_url": "https://store.bblcdn.com/s7/default/793d07974cbb45cd987313f71c50e08f/B-ZH101_F.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a7/a78033ff98d60be7741986ee5ae38dbdc3086705fb058ebbfa0e75955f3c9c80.png",
       "id": "image-display-b6dcead6a32b2be8b4d7",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-32dd1df0d396df77b3a3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a78033ff98d60be7741986ee5ae38dbdc3086705fb058ebbfa0e75955f3c9c80",
       "size": 67580,
       "source_url": "https://store.bblcdn.com/s7/default/74621f8d9a2748cb812dcd58d4a95d97/B-ZH101.png"
@@ -154,7 +174,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Flexi Skeleton – Fun and Spooky Articulated Fidget. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Flexi Skeleton – Fun and Spooky Articulated Fidget on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh101-flexi-skeleton-fun-and-spooky-articulated-fidget",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Flexi Skeleton – Fun and Spooky Articulated Fidget",
   "offers": [
@@ -166,6 +187,7 @@
       "price": "5.46",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?skr=yes"
     },
     {
@@ -176,6 +198,7 @@
       "price": "6.06",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?skr=yes"
     },
     {
@@ -186,6 +209,7 @@
       "price": "4.95",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?skr=yes"
     },
     {
@@ -196,6 +220,7 @@
       "price": "4.2",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?skr=yes"
     },
     {
@@ -206,6 +231,7 @@
       "price": "9.5",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?skr=yes"
     },
     {
@@ -216,6 +242,7 @@
       "price": "4.78",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?skr=yes"
     }
   ],
@@ -264,6 +291,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -276,6 +304,7 @@
       "price": "5.46",
       "region": "us",
       "sku": "647650271218892800",
+      "store_id": "",
       "title": "Flexi Skeleton – Fun and Spooky Articulated Fidget - Flexi Skeleton – Fun and Spooky Articulated Fidget - ZH101",
       "url": "https://us.store.bambulab.com/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?id=647650271218892800",
       "variant_id": "647650271218892800"
@@ -288,6 +317,7 @@
       "price": "6.06",
       "region": "ca",
       "sku": "647652160018976770",
+      "store_id": "",
       "title": "Flexi Skeleton – Fun and Spooky Articulated Fidget - Flexi Skeleton – Fun and Spooky Articulated Fidget - ZH101",
       "url": "https://ca.store.bambulab.com/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?id=647652160018976770",
       "variant_id": "647652160018976770"
@@ -300,6 +330,7 @@
       "price": "4.95",
       "region": "eu",
       "sku": "647650649037172737",
+      "store_id": "",
       "title": "Flexi Skeleton – Fun and Spooky Articulated Fidget - Flexi Skeleton – Fun and Spooky Articulated Fidget - ZH101",
       "url": "https://eu.store.bambulab.com/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?id=647650649037172737",
       "variant_id": "647650649037172737"
@@ -312,6 +343,7 @@
       "price": "4.2",
       "region": "uk",
       "sku": "647651768572088322",
+      "store_id": "",
       "title": "Flexi Skeleton – Fun and Spooky Articulated Fidget - Flexi Skeleton – Fun and Spooky Articulated Fidget - ZH101",
       "url": "https://uk.store.bambulab.com/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?id=647651768572088322",
       "variant_id": "647651768572088322"
@@ -324,6 +356,7 @@
       "price": "9.5",
       "region": "au",
       "sku": "647651302238613506",
+      "store_id": "",
       "title": "Flexi Skeleton – Fun and Spooky Articulated Fidget - Flexi Skeleton – Fun and Spooky Articulated Fidget - ZH101",
       "url": "https://au.store.bambulab.com/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?id=647651302238613506",
       "variant_id": "647651302238613506"
@@ -336,6 +369,7 @@
       "price": "4.78",
       "region": "asia",
       "sku": "647637943847182338",
+      "store_id": "",
       "title": "Flexi Skeleton – Fun and Spooky Articulated Fidget - Flexi Skeleton – Fun and Spooky Articulated Fidget - ZH101",
       "url": "https://asia.store.bambulab.com/products/flexi-skeleton-%E2%80%93-fun-and-spooky-articulated-fidget?id=647637943847182338",
       "variant_id": "647637943847182338"

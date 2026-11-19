@@ -4,36 +4,49 @@
     {
       "handle": "round-shoelace",
       "product_id": "581020705316466688",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "round-shoelace",
       "product_id": "581023216745779200",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "round-shoelace",
       "product_id": "14937884426588",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "round-shoelace",
       "product_id": "581024630244503552",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "round-shoelace",
       "product_id": "581023523225100288",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "round-shoelace",
       "product_id": "581024199055220736",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c9/c9242c52b4ae3d9bfe4dd0eba97f145c8b479de051aacd232a52cd845c8baa76.png",
       "id": "image-9b18c12599fffe06422a",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "whale_2.PNG",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c9242c52b4ae3d9bfe4dd0eba97f145c8b479de051aacd232a52cd845c8baa76",
       "size": 1049306,
       "source_url": "https://store.bblcdn.com/s7/default/24e2b923689a42b3b4b25ac8dc828ff9/whale_2.PNG"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/61/616854a2dc1775b9bd6adfc4feb503ef50615213f878d1c030ca425f7d720b96.png",
       "id": "image-bd95a15bcdd6d454f680",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "whale_3.PNG",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "616854a2dc1775b9bd6adfc4feb503ef50615213f878d1c030ca425f7d720b96",
       "size": 773348,
       "source_url": "https://store.bblcdn.com/s7/default/8c937f0bc292456e9ecc5772573336d6/whale_3.PNG"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/20/206f877d45c69e48aebb0cff9d30977d37124c75d793dbba410989f73fc1fa94.png",
       "id": "image-120fd34311be1b82138b",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "whale_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "206f877d45c69e48aebb0cff9d30977d37124c75d793dbba410989f73fc1fa94",
       "size": 4429429,
       "source_url": "https://store.bblcdn.com/s7/default/7ef1059235d349fa9726cf3a856efb7d/whale_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/04/04efa14d274ba0bc0982fb28929f87c94331c7e4922335b4f3792b6336376955.png",
       "id": "image-1b409d3995d720e601b4",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "whale_6.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "04efa14d274ba0bc0982fb28929f87c94331c7e4922335b4f3792b6336376955",
       "size": 4777127,
       "source_url": "https://store.bblcdn.com/s7/default/6b53dea98ef3464bbf95002e4bc01d16/whale_6.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b4/b4a65c7ddfdb8beedcbd0414642b76b18603e1ab2b1f8d3a7556b7d2400841b6.png",
       "id": "image-50d12adff4ae84e1c57e",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "whale_5.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b4a65c7ddfdb8beedcbd0414642b76b18603e1ab2b1f8d3a7556b7d2400841b6",
       "size": 4149039,
       "source_url": "https://store.bblcdn.com/s7/default/89666024fd7d4206b1c59fd5e030a19a/whale_5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d6/d6c5cf434f457e4a34ab3d706d614c4a4d315233e0579b2f33e274a7e7101597.png",
       "id": "image-1b962fe3b633c98c50ea",
       "kind": "image",
@@ -101,11 +124,13 @@
       "original_filename": "whale_7.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d6c5cf434f457e4a34ab3d706d614c4a4d315233e0579b2f33e274a7e7101597",
       "size": 3665001,
       "source_url": "https://store.bblcdn.com/s7/default/9f38918430ef4581ab93ba26e6a2ac07/whale_7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/66/666a1abc7ae315e77ddfa3b878329df875d836c68b31f5c9462bbded4ede3aea.png",
       "id": "image-display-fc2a1cd885e170aad00a",
       "image_processing": {
@@ -123,11 +148,13 @@
       "parent_asset_id": "image-9b18c12599fffe06422a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "666a1abc7ae315e77ddfa3b878329df875d836c68b31f5c9462bbded4ede3aea",
       "size": 427166,
       "source_url": "https://store.bblcdn.com/s7/default/24e2b923689a42b3b4b25ac8dc828ff9/whale_2.PNG"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/11/11d3dece046b655d21a4f677cec0682a23f687eac941beb3cff6e59809b18af2.png",
       "id": "image-display-29f4d96fd407bfd2d671",
       "image_processing": {
@@ -145,11 +172,13 @@
       "parent_asset_id": "image-bd95a15bcdd6d454f680",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "11d3dece046b655d21a4f677cec0682a23f687eac941beb3cff6e59809b18af2",
       "size": 298250,
       "source_url": "https://store.bblcdn.com/s7/default/8c937f0bc292456e9ecc5772573336d6/whale_3.PNG"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a6/a60e8d051acfc09b918ba6ede34778a1f5433d1108cd8015f0884e6c637f43ce.png",
       "id": "image-display-0475a930b0eb4a2357f1",
       "image_processing": {
@@ -167,11 +196,13 @@
       "parent_asset_id": "image-120fd34311be1b82138b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a60e8d051acfc09b918ba6ede34778a1f5433d1108cd8015f0884e6c637f43ce",
       "size": 1181010,
       "source_url": "https://store.bblcdn.com/s7/default/7ef1059235d349fa9726cf3a856efb7d/whale_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bb/bb60525b467c8e3a334ab36460bce3df3882a7e50497a963b65b3b20260c4557.png",
       "id": "image-display-d12c557a52e1c6349e18",
       "image_processing": {
@@ -189,11 +220,13 @@
       "parent_asset_id": "image-1b409d3995d720e601b4",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bb60525b467c8e3a334ab36460bce3df3882a7e50497a963b65b3b20260c4557",
       "size": 1243354,
       "source_url": "https://store.bblcdn.com/s7/default/6b53dea98ef3464bbf95002e4bc01d16/whale_6.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1d/1dd11efcc2a339a0687c3af40baec65de7042644ac0e43c2d0527e43acbf9207.png",
       "id": "image-display-d30b148f1b2e36ba2a3e",
       "image_processing": {
@@ -211,11 +244,13 @@
       "parent_asset_id": "image-50d12adff4ae84e1c57e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1dd11efcc2a339a0687c3af40baec65de7042644ac0e43c2d0527e43acbf9207",
       "size": 1063685,
       "source_url": "https://store.bblcdn.com/s7/default/89666024fd7d4206b1c59fd5e030a19a/whale_5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ca/ca45bf96fda4e07dc23ba8fccf2668ec32ab4972f98ad84eb094efb568d7a4ce.png",
       "id": "image-display-a618c24b74317367c3d4",
       "image_processing": {
@@ -233,6 +268,7 @@
       "parent_asset_id": "image-1b962fe3b633c98c50ea",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ca45bf96fda4e07dc23ba8fccf2668ec32ab4972f98ad84eb094efb568d7a4ce",
       "size": 939042,
       "source_url": "https://store.bblcdn.com/s7/default/9f38918430ef4581ab93ba26e6a2ac07/whale_7.png"
@@ -287,6 +323,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "mf004-round-shoelace",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Length",
@@ -310,6 +347,7 @@
       "price": "4.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/round-shoelace?skr=yes"
     },
     {
@@ -320,6 +358,7 @@
       "price": "6.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/round-shoelace?skr=yes"
     },
     {
@@ -330,6 +369,7 @@
       "price": "5.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/round-shoelace?skr=yes"
     },
     {
@@ -340,6 +380,7 @@
       "price": "4.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/round-shoelace?skr=yes"
     },
     {
@@ -350,6 +391,7 @@
       "price": "9.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/round-shoelace?skr=yes"
     },
     {
@@ -360,6 +402,7 @@
       "price": "4.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/round-shoelace?skr=yes"
     }
   ],
@@ -461,6 +504,7 @@
     "Quantity": "Normal: Black & White Reflective: Black & White",
     "Weight": "2 Pairs per set"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -471,6 +515,7 @@
       "price": "4.99",
       "region": "us",
       "sku": "581020705324855299",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
       "url": "https://us.store.bambulab.com/products/round-shoelace?id=581020705324855299",
       "variant_id": "581020705324855299"
@@ -483,6 +528,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "581020705324855303",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
       "url": "https://us.store.bambulab.com/products/round-shoelace?id=581020705324855303",
       "variant_id": "581020705324855303"
@@ -495,6 +541,7 @@
       "price": "6.99",
       "region": "ca",
       "sku": "581023216754167811",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
       "url": "https://ca.store.bambulab.com/products/round-shoelace?id=581023216754167811",
       "variant_id": "581023216754167811"
@@ -507,6 +554,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "581023216754167815",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
       "url": "https://ca.store.bambulab.com/products/round-shoelace?id=581023216754167815",
       "variant_id": "581023216754167815"
@@ -519,6 +567,7 @@
       "price": "5.99",
       "region": "eu",
       "sku": "54208750944604",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
       "url": "https://eu.store.bambulab.com/products/round-shoelace?id=54208750944604",
       "variant_id": "54208750944604"
@@ -531,6 +580,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "54208750977372",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
       "url": "https://eu.store.bambulab.com/products/round-shoelace?id=54208750977372",
       "variant_id": "54208750977372"
@@ -543,6 +593,7 @@
       "price": "4.99",
       "region": "uk",
       "sku": "581024630257086467",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
       "url": "https://uk.store.bambulab.com/products/round-shoelace?id=581024630257086467",
       "variant_id": "581024630257086467"
@@ -555,6 +606,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "581024630257086471",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
       "url": "https://uk.store.bambulab.com/products/round-shoelace?id=581024630257086471",
       "variant_id": "581024630257086471"
@@ -567,6 +619,7 @@
       "price": "9.99",
       "region": "au",
       "sku": "581023523233488899",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
       "url": "https://au.store.bambulab.com/products/round-shoelace?id=581023523233488899",
       "variant_id": "581023523233488899"
@@ -579,6 +632,7 @@
       "price": "5.99",
       "region": "au",
       "sku": "581023523233488903",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
       "url": "https://au.store.bambulab.com/products/round-shoelace?id=581023523233488903",
       "variant_id": "581023523233488903"
@@ -591,6 +645,7 @@
       "price": "4.99",
       "region": "asia",
       "sku": "581024199063609347",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Reflective (2 Pairs) - MF004",
       "url": "https://asia.store.bambulab.com/products/round-shoelace?id=581024199063609347",
       "variant_id": "581024199063609347"
@@ -603,6 +658,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "581024199063609351",
+      "store_id": "",
       "title": "Round Shoelace - Round Shoelace - Normal (2 Pairs) - MF005",
       "url": "https://asia.store.bambulab.com/products/round-shoelace?id=581024199063609351",
       "variant_id": "581024199063609351"

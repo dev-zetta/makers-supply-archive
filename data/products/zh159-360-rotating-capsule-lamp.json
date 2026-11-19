@@ -4,36 +4,49 @@
     {
       "handle": "360-rotating-capsule-lamp",
       "product_id": "758847455147122688",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "360-rotating-capsule-lamp",
       "product_id": "758846781751615488",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "360-rotating-capsule-lamp",
       "product_id": "758847984036233216",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "360-rotating-capsule-lamp",
       "product_id": "758847122442289152",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "360-rotating-capsule-lamp",
       "product_id": "758846437848051712",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "360-rotating-capsule-lamp",
       "product_id": "758834845467074560",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dd/ddcbbd920d97c35f7f11b86fa6388e84b9c45a4e6636353a5010efa2828616ce.png",
       "id": "image-4e918a9f510a6976a736",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH159.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ddcbbd920d97c35f7f11b86fa6388e84b9c45a4e6636353a5010efa2828616ce",
       "size": 2484539,
       "source_url": "https://store.bblcdn.com/s7/default/d9dacc48a9b04cd495e0500bb7c86b50/B-ZH159.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/27/27a90ee3c0e2c14c69ec6c0bef079326dcf6e6bb4f6d794ceaea6fe996ac77d1.png",
       "id": "image-35921bb73cd2f2b62a06",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH159.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "27a90ee3c0e2c14c69ec6c0bef079326dcf6e6bb4f6d794ceaea6fe996ac77d1",
       "size": 458865,
       "source_url": "https://store.bblcdn.com/s7/default/02d4a06a213f42709423262079625add/B-ZH159.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c7/c745f716cf876cde6bd6b71caa70f2ff2cf9b8ff3441de68407379e2678b1da9.png",
       "id": "image-display-f42c968de305c1a2935e",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-4e918a9f510a6976a736",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c745f716cf876cde6bd6b71caa70f2ff2cf9b8ff3441de68407379e2678b1da9",
       "size": 633835,
       "source_url": "https://store.bblcdn.com/s7/default/d9dacc48a9b04cd495e0500bb7c86b50/B-ZH159.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/27/276b397a338587c4b20559b4aa32345264d8fe2258047069cf0f856596009094.png",
       "id": "image-display-729408b18c72e607a4b5",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-35921bb73cd2f2b62a06",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "276b397a338587c4b20559b4aa32345264d8fe2258047069cf0f856596009094",
       "size": 138911,
       "source_url": "https://store.bblcdn.com/s7/default/02d4a06a213f42709423262079625add/B-ZH159.png"
@@ -212,7 +232,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional 360° Rotating Lamp. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the 360° Rotating Lamp on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh159-360-rotating-capsule-lamp",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "360° Rotating Lamp",
   "offers": [
@@ -224,6 +245,7 @@
       "price": "48.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/360-rotating-capsule-lamp?skr=yes"
     },
     {
@@ -234,6 +256,7 @@
       "price": "59.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/360-rotating-capsule-lamp?skr=yes"
     },
     {
@@ -244,6 +267,7 @@
       "price": "52.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/360-rotating-capsule-lamp?skr=yes"
     },
     {
@@ -254,6 +278,7 @@
       "price": "43.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/360-rotating-capsule-lamp?skr=yes"
     },
     {
@@ -264,6 +289,7 @@
       "price": "97.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/360-rotating-capsule-lamp?skr=yes"
     },
     {
@@ -274,6 +300,7 @@
       "price": "44.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/360-rotating-capsule-lamp?skr=yes"
     }
   ],
@@ -364,6 +391,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -376,6 +404,7 @@
       "price": "48.99",
       "region": "us",
       "sku": "758847455163899906",
+      "store_id": "",
       "title": "360° Rotating Lamp - 360° Rotating Lamp - ZH159",
       "url": "https://us.store.bambulab.com/products/360-rotating-capsule-lamp?id=758847455163899906",
       "variant_id": "758847455163899906"
@@ -388,6 +417,7 @@
       "price": "59.99",
       "region": "ca",
       "sku": "758846781810335746",
+      "store_id": "",
       "title": "360° Rotating Lamp - 360° Rotating Lamp - ZH159",
       "url": "https://ca.store.bambulab.com/products/360-rotating-capsule-lamp?id=758846781810335746",
       "variant_id": "758846781810335746"
@@ -400,6 +430,7 @@
       "price": "52.99",
       "region": "eu",
       "sku": "758847984111730690",
+      "store_id": "",
       "title": "360° Rotating Lamp - 360° Rotating Lamp - ZH159",
       "url": "https://eu.store.bambulab.com/products/360-rotating-capsule-lamp?id=758847984111730690",
       "variant_id": "758847984111730690"
@@ -412,6 +443,7 @@
       "price": "43.99",
       "region": "uk",
       "sku": "758847122501009408",
+      "store_id": "",
       "title": "360° Rotating Lamp - 360° Rotating Lamp - ZH159",
       "url": "https://uk.store.bambulab.com/products/360-rotating-capsule-lamp?id=758847122501009408",
       "variant_id": "758847122501009408"
@@ -424,6 +456,7 @@
       "price": "97.99",
       "region": "au",
       "sku": "758846437889994754",
+      "store_id": "",
       "title": "360° Rotating Lamp - 360° Rotating Lamp - ZH159",
       "url": "https://au.store.bambulab.com/products/360-rotating-capsule-lamp?id=758846437889994754",
       "variant_id": "758846437889994754"
@@ -436,6 +469,7 @@
       "price": "44.99",
       "region": "asia",
       "sku": "758842205283610625",
+      "store_id": "",
       "title": "360° Rotating Lamp - 360° Rotating Lamp - ZH159",
       "url": "https://asia.store.bambulab.com/products/360-rotating-capsule-lamp?id=758842205283610625",
       "variant_id": "758842205283610625"

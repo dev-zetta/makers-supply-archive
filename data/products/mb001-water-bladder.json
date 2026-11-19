@@ -4,36 +4,49 @@
     {
       "handle": "water-bladder",
       "product_id": "8337019633800",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "water-bladder",
       "product_id": "9000694644976",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "water-bladder",
       "product_id": "9548060164444",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "water-bladder",
       "product_id": "7772690481212",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "water-bladder",
       "product_id": "8577134166179",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "water-bladder",
       "product_id": "505172405065625600",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e1/e1ca1be64dd40cf23f2c58fe85e6bca235f1d382574565e8bb7d3c41706e459a.png",
       "id": "image-a45ffe85c43cb06f2d3f",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "4444507.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e1ca1be64dd40cf23f2c58fe85e6bca235f1d382574565e8bb7d3c41706e459a",
       "size": 374243,
       "source_url": "https://store.bblcdn.com/s7/default/ec2dd2f0dd6a4a259bbf3d34b9f4fd8c/4444507.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ed/edd261da56c6bf9562742818e1b0d45cd5e5e020d2411a9c231557e9b544d8f6.png",
       "id": "image-43cc81b39ec6fc7fb48f",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "wuguigui.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "edd261da56c6bf9562742818e1b0d45cd5e5e020d2411a9c231557e9b544d8f6",
       "size": 1340816,
       "source_url": "https://store.bblcdn.com/s7/default/7c3e901a6b604df7bc998896768cb412/wuguigui.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c7/c79c65a4c1dc770d92367a5f79526981eb790c5f619e258307085293f0c91e6f.png",
       "id": "image-e76523b78c76fab2e512",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "20240836.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c79c65a4c1dc770d92367a5f79526981eb790c5f619e258307085293f0c91e6f",
       "size": 82650,
       "source_url": "https://store.bblcdn.com/s7/default/e3f3970e3e6b43af9ccdf9cea5e22050/20240836.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/88/88a528cc7d8df0f5e1e96bea941b1495ea9102f6effbd9a1612de64ae7df0bcd.png",
       "id": "image-149eedcd9a7214f7c376",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "MB001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "88a528cc7d8df0f5e1e96bea941b1495ea9102f6effbd9a1612de64ae7df0bcd",
       "size": 614550,
       "source_url": "https://store.bblcdn.com/s7/default/7381d82dbddf4046bad8fdecd112df25/MB001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a3/a3b8a09dde7f724aa6ca36a4acad54aa7e518324cce3860bb7f1c2633da748ed.zip",
       "id": "archive-3713fea6e6d878d9c425",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "Water_Bladder.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a3b8a09dde7f724aa6ca36a4acad54aa7e518324cce3860bb7f1c2633da748ed",
       "size": 3658726,
       "source_url": "https://store.bblcdn.com/s7/default/08301fccb66d4d748f278bba078bf1b0/Water_Bladder.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Water Bladder/Water Bladder B-MB001.stl",
       "blob_path": "data/blobs/sha256/e5/e57f02ad8a2718a6364a1d0a07cd7294455316029233319ad241baa26f4b34aa.stl",
       "id": "model-a48869c2be122240f75e",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-3713fea6e6d878d9c425",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e57f02ad8a2718a6364a1d0a07cd7294455316029233319ad241baa26f4b34aa",
       "size": 8159384,
       "source_url": "https://store.bblcdn.com/s7/default/08301fccb66d4d748f278bba078bf1b0/Water_Bladder.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Water Bladder/Water Bladder B-MB001.stp",
       "blob_path": "data/blobs/sha256/c0/c0cb2a278523f1ac77ee219d56eec4af83bfbce940791259182f764a8b7ec88e.stp",
       "id": "model-efff4f1157e3e4e11d42",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-3713fea6e6d878d9c425",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c0cb2a278523f1ac77ee219d56eec4af83bfbce940791259182f764a8b7ec88e",
       "size": 904226,
       "source_url": "https://store.bblcdn.com/s7/default/08301fccb66d4d748f278bba078bf1b0/Water_Bladder.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4c/4c7edbead1bcf8c30747edc76382512b215f292f2cb1a43369a41b6fd237f8e0.png",
       "id": "image-display-6b96143e38855aecfabd",
       "image_processing": {
@@ -139,11 +166,13 @@
       "parent_asset_id": "image-a45ffe85c43cb06f2d3f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4c7edbead1bcf8c30747edc76382512b215f292f2cb1a43369a41b6fd237f8e0",
       "size": 85098,
       "source_url": "https://store.bblcdn.com/s7/default/ec2dd2f0dd6a4a259bbf3d34b9f4fd8c/4444507.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/96/96b658ee003849d275633c536a33f39433e6faf4ba5ccdbdcf73f83db9215b72.png",
       "id": "image-display-0fba85c26bd2f3c1833c",
       "image_processing": {
@@ -161,11 +190,13 @@
       "parent_asset_id": "image-43cc81b39ec6fc7fb48f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "96b658ee003849d275633c536a33f39433e6faf4ba5ccdbdcf73f83db9215b72",
       "size": 1174733,
       "source_url": "https://store.bblcdn.com/s7/default/7c3e901a6b604df7bc998896768cb412/wuguigui.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a0/a02bb769cdf683f748568b596f845bebf1a8da6a35cac552094b50ede690f174.png",
       "id": "image-display-7f9f562598bdeab2f465",
       "image_processing": {
@@ -183,11 +214,13 @@
       "parent_asset_id": "image-e76523b78c76fab2e512",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a02bb769cdf683f748568b596f845bebf1a8da6a35cac552094b50ede690f174",
       "size": 67984,
       "source_url": "https://store.bblcdn.com/s7/default/e3f3970e3e6b43af9ccdf9cea5e22050/20240836.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1e/1e9ab74a931233dd06397b878f98b3c586ab9652844492c639a6dbf7974b948f.png",
       "id": "image-display-e9168dd0b0a4f635bdde",
       "image_processing": {
@@ -205,6 +238,7 @@
       "parent_asset_id": "image-149eedcd9a7214f7c376",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1e9ab74a931233dd06397b878f98b3c586ab9652844492c639a6dbf7974b948f",
       "size": 556771,
       "source_url": "https://store.bblcdn.com/s7/default/7381d82dbddf4046bad8fdecd112df25/MB001.png"
@@ -291,6 +325,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "mb001-water-bladder",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "L (cm) Length",
@@ -321,6 +356,7 @@
       "price": "15.39",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/water-bladder?skr=yes"
     },
     {
@@ -331,6 +367,7 @@
       "price": "17.71",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/water-bladder?skr=yes"
     },
     {
@@ -341,6 +378,7 @@
       "price": "14.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/water-bladder?skr=yes"
     },
     {
@@ -351,6 +389,7 @@
       "price": "12.31",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/water-bladder?skr=yes"
     },
     {
@@ -361,6 +400,7 @@
       "price": "27.8",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/water-bladder?skr=yes"
     },
     {
@@ -371,6 +411,7 @@
       "price": "13.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/water-bladder?skr=yes"
     }
   ],
@@ -503,6 +544,7 @@
     "W (cm) Width": "9",
     "Weight": "50 g"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -513,6 +555,7 @@
       "price": "15.39",
       "region": "us",
       "sku": "42869972402312",
+      "store_id": "",
       "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
       "url": "https://us.store.bambulab.com/products/water-bladder?id=42869972402312",
       "variant_id": "42869972402312"
@@ -525,6 +568,7 @@
       "price": "17.71",
       "region": "ca",
       "sku": "46527073911024",
+      "store_id": "",
       "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
       "url": "https://ca.store.bambulab.com/products/water-bladder?id=46527073911024",
       "variant_id": "46527073911024"
@@ -537,6 +581,7 @@
       "price": "14.49",
       "region": "eu",
       "sku": "49267161923932",
+      "store_id": "",
       "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
       "url": "https://eu.store.bambulab.com/products/water-bladder?id=49267161923932",
       "variant_id": "49267161923932"
@@ -549,6 +594,7 @@
       "price": "12.31",
       "region": "uk",
       "sku": "42138004226108",
+      "store_id": "",
       "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
       "url": "https://uk.store.bambulab.com/products/water-bladder?id=42138004226108",
       "variant_id": "42138004226108"
@@ -561,6 +607,7 @@
       "price": "27.8",
       "region": "au",
       "sku": "45147370586275",
+      "store_id": "",
       "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
       "url": "https://au.store.bambulab.com/products/water-bladder?id=45147370586275",
       "variant_id": "45147370586275"
@@ -573,6 +620,7 @@
       "price": "13.99",
       "region": "asia",
       "sku": "505172405069819905",
+      "store_id": "",
       "title": "Water Bladder - 350ml Water Bladder (1PCS) - MB001",
       "url": "https://asia.store.bambulab.com/products/water-bladder?id=505172405069819905",
       "variant_id": "505172405069819905"

@@ -4,36 +4,49 @@
     {
       "handle": "tec-9-disc-shooter",
       "product_id": "8312649744520",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tec-9-disc-shooter",
       "product_id": "8970108469488",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tec-9-disc-shooter",
       "product_id": "9515841880412",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tec-9-disc-shooter",
       "product_id": "7745512341564",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tec-9-disc-shooter",
       "product_id": "8560896966819",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "tec-9-disc-shooter",
       "product_id": "498373203180253184",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/73/7324a547b4436e7bf496a687c507e7ecdbcfdd75ead81e359df9414cd158647a.png",
       "id": "image-3a14f93f4f79e5fcbf09",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "TEC-9_Disc_Shooter2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7324a547b4436e7bf496a687c507e7ecdbcfdd75ead81e359df9414cd158647a",
       "size": 53479,
       "source_url": "https://store.bblcdn.com/s7/default/4d618edebce645e5a09a28d359ef5245/TEC-9_Disc_Shooter2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1e/1e2b71443458c43f889a9c3faff1be519ad7fbd33b64dad614895ec51c8b8b81.png",
       "id": "image-08990153a7959a4881ba",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH013-QYM3D.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1e2b71443458c43f889a9c3faff1be519ad7fbd33b64dad614895ec51c8b8b81",
       "size": 1530062,
       "source_url": "https://store.bblcdn.com/s7/default/454da0173494488b97abfd8b1e51b509/ZH013-QYM3D.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f4/f413868fbf7fb6cdc81cb621d09190c15cf173786a6370dd194219404c324c96.png",
       "id": "image-915732f29cafbaf83697",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "TEC-9DiscShooter1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f413868fbf7fb6cdc81cb621d09190c15cf173786a6370dd194219404c324c96",
       "size": 178818,
       "source_url": "https://store.bblcdn.com/s7/default/d59ea3ec6b0b4eae85d79079b3cd420a/TEC-9DiscShooter1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b0/b082a7c2ec46ffb5fba15b16060cbfd35053c832c1ef2fed022fe952c747fdab.png",
       "id": "image-display-f900bda6694446a1a8bd",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-3a14f93f4f79e5fcbf09",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b082a7c2ec46ffb5fba15b16060cbfd35053c832c1ef2fed022fe952c747fdab",
       "size": 47743,
       "source_url": "https://store.bblcdn.com/s7/default/4d618edebce645e5a09a28d359ef5245/TEC-9_Disc_Shooter2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/35/358204247840f8ac19023d51c1df7bcf48b7bed388c49104ba6035fc3d87ec89.png",
       "id": "image-display-2165ebc4c0aec3774c83",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-08990153a7959a4881ba",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "358204247840f8ac19023d51c1df7bcf48b7bed388c49104ba6035fc3d87ec89",
       "size": 370511,
       "source_url": "https://store.bblcdn.com/s7/default/454da0173494488b97abfd8b1e51b509/ZH013-QYM3D.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a8/a8cc89cea1b899d0933234093e90871e7299ff6155f99fe8ae29b2670eb37e27.png",
       "id": "image-display-79f92fe3df18bf161b2b",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-915732f29cafbaf83697",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a8cc89cea1b899d0933234093e90871e7299ff6155f99fe8ae29b2670eb37e27",
       "size": 155830,
       "source_url": "https://store.bblcdn.com/s7/default/d59ea3ec6b0b4eae85d79079b3cd420a/TEC-9DiscShooter1.png"
@@ -194,7 +218,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional T-15/ TEC-9 Disc Shooter. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the T-15/ TEC-9 Disc Shooter and obtain detailed information, please visit the T-15/ TEC-9 Disc Shooter on MakerWorld. The creator @QYM3D has released v2.0 and a mini version of the TEC-9 Disc Shooter, which fixes multiple issues with v1.0 and enhances the user experience.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh013-tec-9-disc-shooter",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "T-15/TEC-9 Disc Shooter",
   "offers": [
@@ -206,6 +231,7 @@
       "price": "3.39",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     },
     {
@@ -216,6 +242,7 @@
       "price": "3.57",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     },
     {
@@ -226,6 +253,7 @@
       "price": "2.92",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     },
     {
@@ -236,6 +264,7 @@
       "price": "2.48",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     },
     {
@@ -246,6 +275,7 @@
       "price": "5.6",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     },
     {
@@ -256,6 +286,7 @@
       "price": "2.82",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/tec-9-disc-shooter?skr=yes"
     }
   ],
@@ -310,6 +341,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -322,6 +354,7 @@
       "price": "3.39",
       "region": "us",
       "sku": "42818628485256",
+      "store_id": "",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
       "url": "https://us.store.bambulab.com/products/tec-9-disc-shooter?id=42818628485256",
       "variant_id": "42818628485256"
@@ -334,6 +367,7 @@
       "price": "3.57",
       "region": "ca",
       "sku": "46455685153008",
+      "store_id": "",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
       "url": "https://ca.store.bambulab.com/products/tec-9-disc-shooter?id=46455685153008",
       "variant_id": "46455685153008"
@@ -346,6 +380,7 @@
       "price": "2.92",
       "region": "eu",
       "sku": "49173261713756",
+      "store_id": "",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
       "url": "https://eu.store.bambulab.com/products/tec-9-disc-shooter?id=49173261713756",
       "variant_id": "49173261713756"
@@ -358,6 +393,7 @@
       "price": "2.48",
       "region": "uk",
       "sku": "42084383424572",
+      "store_id": "",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
       "url": "https://uk.store.bambulab.com/products/tec-9-disc-shooter?id=42084383424572",
       "variant_id": "42084383424572"
@@ -370,6 +406,7 @@
       "price": "5.6",
       "region": "au",
       "sku": "45075497418915",
+      "store_id": "",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
       "url": "https://au.store.bambulab.com/products/tec-9-disc-shooter?id=45075497418915",
       "variant_id": "45075497418915"
@@ -382,6 +419,7 @@
       "price": "2.82",
       "region": "asia",
       "sku": "498373203180253188",
+      "store_id": "",
       "title": "T-15/TEC-9 Disc Shooter - TEC-9 Disc Shooter - ZH013",
       "url": "https://asia.store.bambulab.com/products/tec-9-disc-shooter?id=498373203180253188",
       "variant_id": "498373203180253188"

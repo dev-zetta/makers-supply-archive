@@ -4,36 +4,49 @@
     {
       "handle": "pvc-suction-caps-with-flat-head",
       "product_id": "8218711818376",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pvc-suction-caps-with-flat-head",
       "product_id": "8895354667248",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pvc-suction-caps-with-flat-head",
       "product_id": "9443289497948",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pvc-suction-caps-with-flat-head",
       "product_id": "7663043051580",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pvc-suction-caps-with-flat-head",
       "product_id": "8499987349667",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "pvc-suction-caps-with-flat-head",
       "product_id": "7673229738099",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/67/67609dd0e0a6021a5500a28e9c48e1e6e2da1c94fba9d81729725c232d7d538c.jpg",
       "id": "image-bcaa8545cb2986c675b1",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "HA001.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "67609dd0e0a6021a5500a28e9c48e1e6e2da1c94fba9d81729725c232d7d538c",
       "size": 83743,
       "source_url": "https://store.bblcdn.com/s7/default/d98692ac9ce2405fbea37d90b0029192/HA001.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/11/1185d7607643d370b84142564fc3ba7a2045c10a21781cdabe43b32cb8810492.jpg",
       "id": "image-6d449e9f4f3cb643d4be",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "HA002.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1185d7607643d370b84142564fc3ba7a2045c10a21781cdabe43b32cb8810492",
       "size": 84443,
       "source_url": "https://store.bblcdn.com/s7/default/d8e5aa4aa56e4d36b7abd39a5b507e90/HA002.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b0/b0454ab4a5bc38176ed0c238868272a2193664cc89be9663d0e7088174c36ebd.jpg",
       "id": "image-ddb862b4dbc73fa8125c",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "HA003.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b0454ab4a5bc38176ed0c238868272a2193664cc89be9663d0e7088174c36ebd",
       "size": 85262,
       "source_url": "https://store.bblcdn.com/s7/default/c639fe9face84e8aa74419b346c31b81/HA003.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/51/513c2f8a6bf8856ad0053254af536e8f9908225b0591859b977054f37bcebee5.jpg",
       "id": "image-b6e49cd36a05f49f2cbf",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "HA004.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "513c2f8a6bf8856ad0053254af536e8f9908225b0591859b977054f37bcebee5",
       "size": 85039,
       "source_url": "https://store.bblcdn.com/s7/default/53f2140d01b44891941ba8bbd4d7567c/HA004.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/88/8852e0476a9a11715cb788049ee7a9aec389f66f9418a820b96cf67cf0c43533.jpg",
       "id": "image-91d20ccd439339ca81e5",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "HA005.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8852e0476a9a11715cb788049ee7a9aec389f66f9418a820b96cf67cf0c43533",
       "size": 84255,
       "source_url": "https://store.bblcdn.com/s7/default/8dfff66ea898433eba673767eca173c9/HA005.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fe/fed17e31a350f580df3d4be4837c32e6a6ac919b663e2ac07c7bfd06f3afe162.jpg",
       "id": "image-9be02b87538b3d05ce93",
       "kind": "image",
@@ -101,11 +124,13 @@
       "original_filename": "HA006.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fed17e31a350f580df3d4be4837c32e6a6ac919b663e2ac07c7bfd06f3afe162",
       "size": 85380,
       "source_url": "https://store.bblcdn.com/s7/default/faffcb836b374b55b328ed300f692d0f/HA006.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fc/fc5638445cefd4a5fa5f42072af3f953043783bc56f5814736e27499174a371d.png",
       "id": "image-d77daecaee6cf74789a0",
       "kind": "image",
@@ -113,11 +138,13 @@
       "original_filename": "PVCSuctionCapswithFlatHead_2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fc5638445cefd4a5fa5f42072af3f953043783bc56f5814736e27499174a371d",
       "size": 53009,
       "source_url": "https://store.bblcdn.com/s7/default/917ba2efb51e45d8843eac9e3002cfc4/PVCSuctionCapswithFlatHead_2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/70/702f5f6b701242637a864db3b872cad358fd19aab15326da700acb04da1d3073.png",
       "id": "image-ab5cbe86084a7ec7c2c7",
       "kind": "image",
@@ -125,11 +152,13 @@
       "original_filename": "PVCSuctionCapswithFlatHead_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "702f5f6b701242637a864db3b872cad358fd19aab15326da700acb04da1d3073",
       "size": 29446,
       "source_url": "https://store.bblcdn.com/s7/default/8f7b122901fe4befaa2b6e31e5b87499/PVCSuctionCapswithFlatHead_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e5/e55cc665ff68b6c3c92e1ace52769d31ba7462243e277e7036e8ef6b53cf5aa7.pdf",
       "id": "document-60bc286341faa9402ba5",
       "kind": "document",
@@ -137,11 +166,13 @@
       "original_filename": "PVC_Suction_Caps_with_Flat_Head.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e55cc665ff68b6c3c92e1ace52769d31ba7462243e277e7036e8ef6b53cf5aa7",
       "size": 353442,
       "source_url": "https://store.bblcdn.com/s7/default/3bbd4708c46e4f63aaf32f9f5ad75b73/PVC_Suction_Caps_with_Flat_Head.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/42/4290a3642009198133fc7bbfe5b375c22a4ace6155129325264c114330c43eb9.zip",
       "id": "archive-cbbd4189e5c3e63f0f9e",
       "kind": "archive",
@@ -149,11 +180,13 @@
       "original_filename": "PVC_Suction_Caps_with_Flat_Head.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4290a3642009198133fc7bbfe5b375c22a4ace6155129325264c114330c43eb9",
       "size": 971418,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/20mm Suction Caps with Flat Hea - HA001.STEP",
       "blob_path": "data/blobs/sha256/e2/e27311b51bf12ec1f3aee642bc79749c687e25e3d8b34082e44940d707607054.step",
       "id": "model-aee471ac730e8486c307",
@@ -163,11 +196,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e27311b51bf12ec1f3aee642bc79749c687e25e3d8b34082e44940d707607054",
       "size": 79475,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/20mm Suction Caps with Flat Hea - HA001.STL",
       "blob_path": "data/blobs/sha256/6d/6df13dbe941b419e8d38110e880917477dffde283da314141abbca1b49eb04a3.stl",
       "id": "model-6d889420dcabc5f811f9",
@@ -177,11 +212,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6df13dbe941b419e8d38110e880917477dffde283da314141abbca1b49eb04a3",
       "size": 486484,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/25mm Suction Caps with Flat Hea - HA002.STEP",
       "blob_path": "data/blobs/sha256/db/db61372b07cfcbbf40f29b6b04bbca558281cf5d89981a988dee3dc1fa765d4f.step",
       "id": "model-dff6375f9ca653cc276e",
@@ -191,11 +228,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "db61372b07cfcbbf40f29b6b04bbca558281cf5d89981a988dee3dc1fa765d4f",
       "size": 79502,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/25mm Suction Caps with Flat Hea - HA002.STL",
       "blob_path": "data/blobs/sha256/73/734873c57c9ab7746e4ca7be298b9d4f552cca91dd565cb903a70dbded6a9395.stl",
       "id": "model-5f1a162bf264aac27d2e",
@@ -205,11 +244,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "734873c57c9ab7746e4ca7be298b9d4f552cca91dd565cb903a70dbded6a9395",
       "size": 497684,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/30mm Suction Caps with Flat Hea - HA003.STEP",
       "blob_path": "data/blobs/sha256/3b/3b38014a6809fdd5ce23eadff2a64abc64a631462bc3917895ddfd7146e3ad97.step",
       "id": "model-adbcb212113e80e276e2",
@@ -219,11 +260,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3b38014a6809fdd5ce23eadff2a64abc64a631462bc3917895ddfd7146e3ad97",
       "size": 79456,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/30mm Suction Caps with Flat Hea - HA003.STL",
       "blob_path": "data/blobs/sha256/37/37f490e829607be6c72684afd6cc796ba4e6cb8b02a66d72babd5af813a76a68.stl",
       "id": "model-05570f6b5825ebc85964",
@@ -233,11 +276,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "37f490e829607be6c72684afd6cc796ba4e6cb8b02a66d72babd5af813a76a68",
       "size": 509984,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/35mm Suction Caps with Flat Hea - HA004.STEP",
       "blob_path": "data/blobs/sha256/ad/ad13ad186f350cee7e15e44467adc432b2e04101b8ee371e24f65d635151de99.step",
       "id": "model-227e1dee0ff95435ef12",
@@ -247,11 +292,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ad13ad186f350cee7e15e44467adc432b2e04101b8ee371e24f65d635151de99",
       "size": 79455,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/35mm Suction Caps with Flat Hea - HA004.STL",
       "blob_path": "data/blobs/sha256/0a/0a76074f32d8364cb126e8c885dcb7282881fa2da162f0b1a519def8f95af5e9.stl",
       "id": "model-809fd8711d4554991eae",
@@ -261,11 +308,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0a76074f32d8364cb126e8c885dcb7282881fa2da162f0b1a519def8f95af5e9",
       "size": 461784,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/40mm Suction Caps with Flat Hea - HA005.STEP",
       "blob_path": "data/blobs/sha256/47/470719e345aed37862d243b62ceef652629ff8bfd90e0dbdf041860889df14a3.step",
       "id": "model-2813d12918b0822379ea",
@@ -275,11 +324,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "470719e345aed37862d243b62ceef652629ff8bfd90e0dbdf041860889df14a3",
       "size": 79455,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/40mm Suction Caps with Flat Hea - HA005.STL",
       "blob_path": "data/blobs/sha256/22/223b56e49a7b2783b87c5138142a1d19afde563c5535b630f2059ba93bda0385.stl",
       "id": "model-4b8fefe715aa8422f39f",
@@ -289,11 +340,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "223b56e49a7b2783b87c5138142a1d19afde563c5535b630f2059ba93bda0385",
       "size": 445184,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/50mm Suction Caps with Flat Hea - HA006.STEP",
       "blob_path": "data/blobs/sha256/3b/3b3950da2dbaa75d326ba38d8fdb440dd30e48e1f0284de078d51ea65002927a.step",
       "id": "model-3f2c1839d1390a05b591",
@@ -303,11 +356,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3b3950da2dbaa75d326ba38d8fdb440dd30e48e1f0284de078d51ea65002927a",
       "size": 79445,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/50mm Suction Caps with Flat Hea - HA006.STL",
       "blob_path": "data/blobs/sha256/aa/aa4e401f201db0ede97689b56237c41d307b24e870616afbe22a9b8519e39084.stl",
       "id": "model-027ef0e60368696280c1",
@@ -317,11 +372,13 @@
       "parent_asset_id": "archive-cbbd4189e5c3e63f0f9e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "aa4e401f201db0ede97689b56237c41d307b24e870616afbe22a9b8519e39084",
       "size": 453884,
       "source_url": "https://store.bblcdn.com/s7/default/fee75d4d8969490c914a2e26c8790a6d/PVC_Suction_Caps_with_Flat_Head.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/42/427b7016e36fbb3d3cc9d81e0d773e8946fb8ffe0e104b16e43fe23384603796.png",
       "id": "image-display-ff131a286ac877a172ac",
       "image_processing": {
@@ -339,11 +396,13 @@
       "parent_asset_id": "image-bcaa8545cb2986c675b1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "427b7016e36fbb3d3cc9d81e0d773e8946fb8ffe0e104b16e43fe23384603796",
       "size": 49235,
       "source_url": "https://store.bblcdn.com/s7/default/d98692ac9ce2405fbea37d90b0029192/HA001.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/63/63059518c3ac84ae70c2932b045436b32599c23378d4885b141f5c6f61715613.png",
       "id": "image-display-c0444e0a5ee61c9eb3f2",
       "image_processing": {
@@ -361,11 +420,13 @@
       "parent_asset_id": "image-6d449e9f4f3cb643d4be",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "63059518c3ac84ae70c2932b045436b32599c23378d4885b141f5c6f61715613",
       "size": 49154,
       "source_url": "https://store.bblcdn.com/s7/default/d8e5aa4aa56e4d36b7abd39a5b507e90/HA002.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/76/7616e10c563a6458ba480edbaa5c2060008f0c8e31d68648489abb5ca0450944.png",
       "id": "image-display-ea6ce73ae9c46cbf5802",
       "image_processing": {
@@ -383,11 +444,13 @@
       "parent_asset_id": "image-ddb862b4dbc73fa8125c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7616e10c563a6458ba480edbaa5c2060008f0c8e31d68648489abb5ca0450944",
       "size": 49580,
       "source_url": "https://store.bblcdn.com/s7/default/c639fe9face84e8aa74419b346c31b81/HA003.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6d/6dc78542afb3f9b0b1f29fdca8a9c662c9997a705bfd503d207e2941005c34a2.png",
       "id": "image-display-f3616df8967b1ecd3bc0",
       "image_processing": {
@@ -405,11 +468,13 @@
       "parent_asset_id": "image-b6e49cd36a05f49f2cbf",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6dc78542afb3f9b0b1f29fdca8a9c662c9997a705bfd503d207e2941005c34a2",
       "size": 49684,
       "source_url": "https://store.bblcdn.com/s7/default/53f2140d01b44891941ba8bbd4d7567c/HA004.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/90/90226c622ce67932613efa32f10197bdb8f643ee4a62d5131d928435aab71135.png",
       "id": "image-display-068a98b0b1f18ed83d83",
       "image_processing": {
@@ -427,11 +492,13 @@
       "parent_asset_id": "image-91d20ccd439339ca81e5",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "90226c622ce67932613efa32f10197bdb8f643ee4a62d5131d928435aab71135",
       "size": 49498,
       "source_url": "https://store.bblcdn.com/s7/default/8dfff66ea898433eba673767eca173c9/HA005.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ed/edac2d1b23bb88429fc28752c64640c8a9882aa082028baab3b5de7bc4d62ff7.png",
       "id": "image-display-adbb2fb3c2d082866298",
       "image_processing": {
@@ -449,11 +516,13 @@
       "parent_asset_id": "image-9be02b87538b3d05ce93",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "edac2d1b23bb88429fc28752c64640c8a9882aa082028baab3b5de7bc4d62ff7",
       "size": 49910,
       "source_url": "https://store.bblcdn.com/s7/default/faffcb836b374b55b328ed300f692d0f/HA006.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ad/ad77bd15c49fa7f58e95ac85a5ea2929887b1966ff3e5b30a07ca9740fe7976d.png",
       "id": "image-display-636194805546590d50e1",
       "image_processing": {
@@ -471,11 +540,13 @@
       "parent_asset_id": "image-d77daecaee6cf74789a0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ad77bd15c49fa7f58e95ac85a5ea2929887b1966ff3e5b30a07ca9740fe7976d",
       "size": 47245,
       "source_url": "https://store.bblcdn.com/s7/default/917ba2efb51e45d8843eac9e3002cfc4/PVCSuctionCapswithFlatHead_2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/88/88515dc7084ccdf229e5e5f14bd33df83300d139928106df44de79cf390de5a8.png",
       "id": "image-display-03e0b16ebca2e6f14c87",
       "image_processing": {
@@ -493,6 +564,7 @@
       "parent_asset_id": "image-ab5cbe86084a7ec7c2c7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "88515dc7084ccdf229e5e5f14bd33df83300d139928106df44de79cf390de5a8",
       "size": 25701,
       "source_url": "https://store.bblcdn.com/s7/default/8f7b122901fe4befaa2b6e31e5b87499/PVCSuctionCapswithFlatHead_1.png"
@@ -535,6 +607,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ha001-pvc-suction-caps-with-flat-head",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "PVC Suction Caps with Flat Head",
   "offers": [
@@ -546,6 +619,7 @@
       "price": "1.64",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/pvc-suction-caps-with-flat-head?skr=yes"
     },
     {
@@ -556,6 +630,7 @@
       "price": "1.89",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/pvc-suction-caps-with-flat-head?skr=yes"
     },
     {
@@ -566,6 +641,7 @@
       "price": "1.54",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/pvc-suction-caps-with-flat-head?skr=yes"
     },
     {
@@ -576,6 +652,7 @@
       "price": "1.31",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/pvc-suction-caps-with-flat-head?skr=yes"
     },
     {
@@ -586,6 +663,7 @@
       "price": "2.96",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/pvc-suction-caps-with-flat-head?skr=yes"
     },
     {
@@ -596,6 +674,7 @@
       "price": "1.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/pvc-suction-caps-with-flat-head?skr=yes"
     }
   ],
@@ -727,6 +806,7 @@
     "HA006": "50",
     "Material": "PVC"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -737,6 +817,7 @@
       "price": "1.64",
       "region": "us",
       "sku": "42613086388360",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 20mm (10PCS) - HA001",
       "url": "https://us.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42613086388360",
       "variant_id": "42613086388360"
@@ -749,6 +830,7 @@
       "price": "1.75",
       "region": "us",
       "sku": "42613086421128",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 25mm (10PCS) - HA002",
       "url": "https://us.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42613086421128",
       "variant_id": "42613086421128"
@@ -761,6 +843,7 @@
       "price": "1.86",
       "region": "us",
       "sku": "42613086453896",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 30mm (10PCS) - HA003",
       "url": "https://us.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42613086453896",
       "variant_id": "42613086453896"
@@ -773,6 +856,7 @@
       "price": "1.97",
       "region": "us",
       "sku": "42613086486664",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 35mm (10PCS) - HA004",
       "url": "https://us.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42613086486664",
       "variant_id": "42613086486664"
@@ -785,6 +869,7 @@
       "price": "2.08",
       "region": "us",
       "sku": "42613086519432",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 40mm (10PCS) - HA005",
       "url": "https://us.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42613086519432",
       "variant_id": "42613086519432"
@@ -797,6 +882,7 @@
       "price": "2.53",
       "region": "us",
       "sku": "42613086552200",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 50mm (10PCS) - HA006",
       "url": "https://us.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42613086552200",
       "variant_id": "42613086552200"
@@ -809,6 +895,7 @@
       "price": "1.89",
       "region": "ca",
       "sku": "46228740702448",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 20mm (10PCS) - HA001",
       "url": "https://ca.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=46228740702448",
       "variant_id": "46228740702448"
@@ -821,6 +908,7 @@
       "price": "2.01",
       "region": "ca",
       "sku": "46228740735216",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 25mm (10PCS) - HA002",
       "url": "https://ca.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=46228740735216",
       "variant_id": "46228740735216"
@@ -833,6 +921,7 @@
       "price": "2.14",
       "region": "ca",
       "sku": "46228740767984",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 30mm (10PCS) - HA003",
       "url": "https://ca.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=46228740767984",
       "variant_id": "46228740767984"
@@ -845,6 +934,7 @@
       "price": "2.27",
       "region": "ca",
       "sku": "46228740800752",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 35mm (10PCS) - HA004",
       "url": "https://ca.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=46228740800752",
       "variant_id": "46228740800752"
@@ -857,6 +947,7 @@
       "price": "2.39",
       "region": "ca",
       "sku": "46228740833520",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 40mm (10PCS) - HA005",
       "url": "https://ca.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=46228740833520",
       "variant_id": "46228740833520"
@@ -869,6 +960,7 @@
       "price": "2.65",
       "region": "ca",
       "sku": "46228740866288",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 50mm (10PCS) - HA006",
       "url": "https://ca.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=46228740866288",
       "variant_id": "46228740866288"
@@ -881,6 +973,7 @@
       "price": "1.54",
       "region": "eu",
       "sku": "48933510676828",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 20mm (10PCS) - HA001",
       "url": "https://eu.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=48933510676828",
       "variant_id": "48933510676828"
@@ -893,6 +986,7 @@
       "price": "1.65",
       "region": "eu",
       "sku": "48933510709596",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 25mm (10PCS) - HA002",
       "url": "https://eu.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=48933510709596",
       "variant_id": "48933510709596"
@@ -905,6 +999,7 @@
       "price": "1.75",
       "region": "eu",
       "sku": "48933510742364",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 30mm (10PCS) - HA003",
       "url": "https://eu.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=48933510742364",
       "variant_id": "48933510742364"
@@ -917,6 +1012,7 @@
       "price": "1.85",
       "region": "eu",
       "sku": "48933510775132",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 35mm (10PCS) - HA004",
       "url": "https://eu.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=48933510775132",
       "variant_id": "48933510775132"
@@ -929,6 +1025,7 @@
       "price": "2.35",
       "region": "eu",
       "sku": "48933510807900",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 40mm (10PCS) - HA005",
       "url": "https://eu.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=48933510807900",
       "variant_id": "48933510807900"
@@ -941,6 +1038,7 @@
       "price": "2.39",
       "region": "eu",
       "sku": "48933510840668",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 50mm (10PCS) - HA006",
       "url": "https://eu.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=48933510840668",
       "variant_id": "48933510840668"
@@ -953,6 +1051,7 @@
       "price": "1.31",
       "region": "uk",
       "sku": "41885092577340",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 20mm (10PCS) - HA001",
       "url": "https://uk.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=41885092577340",
       "variant_id": "41885092577340"
@@ -965,6 +1064,7 @@
       "price": "1.4",
       "region": "uk",
       "sku": "41885092610108",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 25mm (10PCS) - HA002",
       "url": "https://uk.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=41885092610108",
       "variant_id": "41885092610108"
@@ -977,6 +1077,7 @@
       "price": "1.49",
       "region": "uk",
       "sku": "41885092642876",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 30mm (10PCS) - HA003",
       "url": "https://uk.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=41885092642876",
       "variant_id": "41885092642876"
@@ -989,6 +1090,7 @@
       "price": "1.57",
       "region": "uk",
       "sku": "41885092675644",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 35mm (10PCS) - HA004",
       "url": "https://uk.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=41885092675644",
       "variant_id": "41885092675644"
@@ -1001,6 +1103,7 @@
       "price": "1.66",
       "region": "uk",
       "sku": "41885092708412",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 40mm (10PCS) - HA005",
       "url": "https://uk.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=41885092708412",
       "variant_id": "41885092708412"
@@ -1013,6 +1116,7 @@
       "price": "1.84",
       "region": "uk",
       "sku": "41885092741180",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 50mm (10PCS) - HA006",
       "url": "https://uk.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=41885092741180",
       "variant_id": "41885092741180"
@@ -1025,6 +1129,7 @@
       "price": "2.96",
       "region": "au",
       "sku": "44729901252771",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 20mm (10PCS) - HA001",
       "url": "https://au.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=44729901252771",
       "variant_id": "44729901252771"
@@ -1037,6 +1142,7 @@
       "price": "3.16",
       "region": "au",
       "sku": "44729901285539",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 25mm (10PCS) - HA002",
       "url": "https://au.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=44729901285539",
       "variant_id": "44729901285539"
@@ -1049,6 +1155,7 @@
       "price": "3.36",
       "region": "au",
       "sku": "44729901318307",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 30mm (10PCS) - HA003",
       "url": "https://au.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=44729901318307",
       "variant_id": "44729901318307"
@@ -1061,6 +1168,7 @@
       "price": "3.56",
       "region": "au",
       "sku": "44729901351075",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 35mm (10PCS) - HA004",
       "url": "https://au.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=44729901351075",
       "variant_id": "44729901351075"
@@ -1073,6 +1181,7 @@
       "price": "3.76",
       "region": "au",
       "sku": "44729901383843",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 40mm (10PCS) - HA005",
       "url": "https://au.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=44729901383843",
       "variant_id": "44729901383843"
@@ -1085,6 +1194,7 @@
       "price": "4.15",
       "region": "au",
       "sku": "44729901416611",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 50mm (10PCS) - HA006",
       "url": "https://au.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=44729901416611",
       "variant_id": "44729901416611"
@@ -1097,6 +1207,7 @@
       "price": "1.49",
       "region": "asia",
       "sku": "42019505635443",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 20mm (10PCS) - HA001",
       "url": "https://asia.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42019505635443",
       "variant_id": "42019505635443"
@@ -1109,6 +1220,7 @@
       "price": "1.59",
       "region": "asia",
       "sku": "42019505668211",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 25mm (10PCS) - HA002",
       "url": "https://asia.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42019505668211",
       "variant_id": "42019505668211"
@@ -1121,6 +1233,7 @@
       "price": "1.69",
       "region": "asia",
       "sku": "42019505700979",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 30mm (10PCS) - HA003",
       "url": "https://asia.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42019505700979",
       "variant_id": "42019505700979"
@@ -1133,6 +1246,7 @@
       "price": "1.79",
       "region": "asia",
       "sku": "42019505733747",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 35mm (10PCS) - HA004",
       "url": "https://asia.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42019505733747",
       "variant_id": "42019505733747"
@@ -1145,6 +1259,7 @@
       "price": "2.29",
       "region": "asia",
       "sku": "42019505766515",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 40mm (10PCS) - HA005",
       "url": "https://asia.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42019505766515",
       "variant_id": "42019505766515"
@@ -1157,6 +1272,7 @@
       "price": "2.09",
       "region": "asia",
       "sku": "42019505799283",
+      "store_id": "",
       "title": "PVC Suction Caps with Flat Head - 50mm (10PCS) - HA006",
       "url": "https://asia.store.bambulab.com/products/pvc-suction-caps-with-flat-head?id=42019505799283",
       "variant_id": "42019505799283"

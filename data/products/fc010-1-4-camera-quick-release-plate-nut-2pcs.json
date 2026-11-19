@@ -4,36 +4,49 @@
     {
       "handle": "1-4-camera-quick-release-plate-nut-2pcs",
       "product_id": "599497500012072960",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-camera-quick-release-plate-nut-2pcs",
       "product_id": "599497072517644288",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-camera-quick-release-plate-nut-2pcs",
       "product_id": "599504795013931008",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-camera-quick-release-plate-nut-2pcs",
       "product_id": "599497741856694272",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-camera-quick-release-plate-nut-2pcs",
       "product_id": "599496864089612288",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-4-camera-quick-release-plate-nut-2pcs",
       "product_id": "599477510614134784",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f7/f7223bfc22e4a1853725ae3ebe9b01047d9473b69fa782707b46aef0643610ff.png",
       "id": "image-b8d0a3a3648d19fa62ed",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "zhutu.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f7223bfc22e4a1853725ae3ebe9b01047d9473b69fa782707b46aef0643610ff",
       "size": 189598,
       "source_url": "https://store.bblcdn.com/s7/default/c35c5f1b94864914a29207f4a78e9834/zhutu.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9e/9e52a94db7c3e0389c662e5079f9e8b6510cfa3f3ac7982e2600363772519358.png",
       "id": "image-5407bdfaed77d3c71112",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "BIANTI.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9e52a94db7c3e0389c662e5079f9e8b6510cfa3f3ac7982e2600363772519358",
       "size": 600226,
       "source_url": "https://store.bblcdn.com/s7/default/77064de868394c1a8562e6107549ef1d/BIANTI.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/85/857203daff418e851c7c74caa9487567b7dfd006ace2ce833896b8b8f7939a24.pdf",
       "id": "document-b05ae46cbfa6ea51f435",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "M2.5_Socket_Head_Cap_Machine_Screws_SHCS.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "857203daff418e851c7c74caa9487567b7dfd006ace2ce833896b8b8f7939a24",
       "size": 1484336,
       "source_url": "https://store.bblcdn.com/s1/default/ee955b9f12aa49b88aab6da36d59bd24/M2.5_Socket_Head_Cap_Machine_Screws_SHCS.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3e/3e9823c62376338eb2a73781b8e4d0c39a4cfee4f8b1cb855d1f055fdddf6aaf.zip",
       "id": "archive-18ba05f7b126e3c79616",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "14-20_Camera_Quick_Release_Plate_Nut_-_FC010_-_3D_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3e9823c62376338eb2a73781b8e4d0c39a4cfee4f8b1cb855d1f055fdddf6aaf",
       "size": 840801,
       "source_url": "https://store.bblcdn.com/s5/default/fab72c588b1f44699b3674719554503a/14-20_Camera_Quick_Release_Plate_Nut_-_FC010_-_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "14-20 Camera Quick Release Plate Nut - FC010 - 3D Model/1-4_Camera_Quick_Release_Plate_Nut_FC010.STEP",
       "blob_path": "data/blobs/sha256/51/510d4868b03efa27d27b1a1fc9a1f28070cc428c7ac1599295537de9b3f85a14.step",
       "id": "model-b6cdfbb1ee4801dfe98a",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-18ba05f7b126e3c79616",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "510d4868b03efa27d27b1a1fc9a1f28070cc428c7ac1599295537de9b3f85a14",
       "size": 422296,
       "source_url": "https://store.bblcdn.com/s5/default/fab72c588b1f44699b3674719554503a/14-20_Camera_Quick_Release_Plate_Nut_-_FC010_-_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "14-20 Camera Quick Release Plate Nut - FC010 - 3D Model/1-4_Camera_Quick_Release_Plate_Nut_FC010.STL",
       "blob_path": "data/blobs/sha256/7b/7ba1ebf57b290eb79fa305bd2e72f3f87c422f120705fd8f6ced3fa60ad08086.stl",
       "id": "model-ee0488290d68de7c75bf",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-18ba05f7b126e3c79616",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7ba1ebf57b290eb79fa305bd2e72f3f87c422f120705fd8f6ced3fa60ad08086",
       "size": 2055784,
       "source_url": "https://store.bblcdn.com/s5/default/fab72c588b1f44699b3674719554503a/14-20_Camera_Quick_Release_Plate_Nut_-_FC010_-_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2d/2deb21038964afe54b5a13acad5ba7fb3f9c05748c3cf611587a819651d9471c.png",
       "id": "image-display-e371cf087bff8973d414",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-b8d0a3a3648d19fa62ed",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2deb21038964afe54b5a13acad5ba7fb3f9c05748c3cf611587a819651d9471c",
       "size": 45490,
       "source_url": "https://store.bblcdn.com/s7/default/c35c5f1b94864914a29207f4a78e9834/zhutu.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/86/862af9e33801df42c9e831895f04be181096d210d3c4b90bf6dc12be76f73ad2.png",
       "id": "image-display-d3365da77de3b7c4bf84",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-5407bdfaed77d3c71112",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "862af9e33801df42c9e831895f04be181096d210d3c4b90bf6dc12be76f73ad2",
       "size": 170943,
       "source_url": "https://store.bblcdn.com/s7/default/77064de868394c1a8562e6107549ef1d/BIANTI.png"
@@ -203,6 +231,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "fc010-1-4-camera-quick-release-plate-nut-2pcs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "1/4\" Camera Quick Release Plate Nut (2PCS)",
   "offers": [
@@ -214,6 +243,7 @@
       "price": "2.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/1-4-camera-quick-release-plate-nut-2pcs?skr=yes"
     },
     {
@@ -224,6 +254,7 @@
       "price": "3.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/1-4-camera-quick-release-plate-nut-2pcs?skr=yes"
     },
     {
@@ -234,6 +265,7 @@
       "price": "3.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/1-4-camera-quick-release-plate-nut-2pcs?skr=yes"
     },
     {
@@ -244,6 +276,7 @@
       "price": "2.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/1-4-camera-quick-release-plate-nut-2pcs?skr=yes"
     },
     {
@@ -254,6 +287,7 @@
       "price": "5.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/1-4-camera-quick-release-plate-nut-2pcs?skr=yes"
     },
     {
@@ -264,6 +298,7 @@
       "price": "2.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/1-4-camera-quick-release-plate-nut-2pcs?skr=yes"
     }
   ],
@@ -336,6 +371,7 @@
     "Surface Treatment": "Passivated Stainless Steel",
     "Thread Ridge Type": "UNC / Coarse Thread"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -346,6 +382,7 @@
       "price": "2.99",
       "region": "us",
       "sku": "599497500024655874",
+      "store_id": "",
       "title": "1/4\" Camera Quick Release Plate Nut (2PCS) - 1/4\" Camera Quick Release Plate Nut (2PCS) - FC010",
       "url": "https://us.store.bambulab.com/products/1-4-camera-quick-release-plate-nut-2pcs?id=599497500024655874",
       "variant_id": "599497500024655874"
@@ -358,6 +395,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "599497072530227202",
+      "store_id": "",
       "title": "1/4\" Camera Quick Release Plate Nut (2PCS) - 1/4\" Camera Quick Release Plate Nut (2PCS) - FC010",
       "url": "https://ca.store.bambulab.com/products/1-4-camera-quick-release-plate-nut-2pcs?id=599497072530227202",
       "variant_id": "599497072530227202"
@@ -370,6 +408,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "599504795026513922",
+      "store_id": "",
       "title": "1/4\" Camera Quick Release Plate Nut (2PCS) - 1/4\" Camera Quick Release Plate Nut (2PCS) - FC010",
       "url": "https://eu.store.bambulab.com/products/1-4-camera-quick-release-plate-nut-2pcs?id=599504795026513922",
       "variant_id": "599504795026513922"
@@ -382,6 +421,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "599497741869277186",
+      "store_id": "",
       "title": "1/4\" Camera Quick Release Plate Nut (2PCS) - 1/4\" Camera Quick Release Plate Nut (2PCS) - FC010",
       "url": "https://uk.store.bambulab.com/products/1-4-camera-quick-release-plate-nut-2pcs?id=599497741869277186",
       "variant_id": "599497741869277186"
@@ -394,6 +434,7 @@
       "price": "5.99",
       "region": "au",
       "sku": "599496864106389506",
+      "store_id": "",
       "title": "1/4\" Camera Quick Release Plate Nut (2PCS) - 1/4\" Camera Quick Release Plate Nut (2PCS) - FC010",
       "url": "https://au.store.bambulab.com/products/1-4-camera-quick-release-plate-nut-2pcs?id=599496864106389506",
       "variant_id": "599496864106389506"
@@ -406,6 +447,7 @@
       "price": "2.99",
       "region": "asia",
       "sku": "599477510626717698",
+      "store_id": "",
       "title": "1/4\" Camera Quick Release Plate Nut (2PCS) - 1/4\" Camera Quick Release Plate Nut (2PCS) - FC010",
       "url": "https://asia.store.bambulab.com/products/1-4-camera-quick-release-plate-nut-2pcs?id=599477510626717698",
       "variant_id": "599477510626717698"

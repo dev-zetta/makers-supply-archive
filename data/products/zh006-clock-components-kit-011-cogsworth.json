@@ -4,36 +4,49 @@
     {
       "handle": "clock-components-kit-011-cogsworth",
       "product_id": "8230635536520",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "clock-components-kit-011-cogsworth",
       "product_id": "8907884986608",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "clock-components-kit-011-cogsworth",
       "product_id": "9461175746908",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "clock-components-kit-011-cogsworth",
       "product_id": "7682727444540",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "clock-components-kit-011-cogsworth",
       "product_id": "8516525392035",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "clock-components-kit-011-cogsworth",
       "product_id": "7682690777203",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/30/30266525fd40f8b4ae8dee8a51b223d0350007ce0b98d15c6d64bf3809e1d447.png",
       "id": "image-3eb2db3974f3274fe031",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "641de7af436b47a98aa0dca629de3aab.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "30266525fd40f8b4ae8dee8a51b223d0350007ce0b98d15c6d64bf3809e1d447",
       "size": 258700,
       "source_url": "https://store.bblcdn.com/s5/default/641de7af436b47a98aa0dca629de3aab.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ba/babaa00329ed28bdbe52da819269e61742de17e8b7a3d8be5cdc3c4b429fcb45.png",
       "id": "image-fbd6300da60fd79673f0",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "4688235a153f49558a81ba2c926f1d00.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "babaa00329ed28bdbe52da819269e61742de17e8b7a3d8be5cdc3c4b429fcb45",
       "size": 297944,
       "source_url": "https://store.bblcdn.com/s5/default/4688235a153f49558a81ba2c926f1d00.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/69/69bb8abcad10222bd003a7d296722b4056470c854414daa568bc322fd62ffdd9.png",
       "id": "image-display-949f626adba2ac9006ed",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-3eb2db3974f3274fe031",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "69bb8abcad10222bd003a7d296722b4056470c854414daa568bc322fd62ffdd9",
       "size": 228379,
       "source_url": "https://store.bblcdn.com/s5/default/641de7af436b47a98aa0dca629de3aab.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3d/3d60a3e60e7179b1c0f2a506432b910d7cb9c0629265a9558f085841bac743b4.png",
       "id": "image-display-96f0e877fab902d8364f",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-fbd6300da60fd79673f0",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3d60a3e60e7179b1c0f2a506432b910d7cb9c0629265a9558f085841bac743b4",
       "size": 261990,
       "source_url": "https://store.bblcdn.com/s5/default/4688235a153f49558a81ba2c926f1d00.png"
@@ -175,6 +195,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh006-clock-components-kit-011-cogsworth",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Cogsworth Clock",
   "offers": [
@@ -186,6 +207,7 @@
       "price": "11.19",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/clock-components-kit-011-cogsworth?skr=yes"
     },
     {
@@ -196,6 +218,7 @@
       "price": "12.65",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/clock-components-kit-011-cogsworth?skr=yes"
     },
     {
@@ -206,6 +229,7 @@
       "price": "10.35",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/clock-components-kit-011-cogsworth?skr=yes"
     },
     {
@@ -216,6 +240,7 @@
       "price": "8.79",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/clock-components-kit-011-cogsworth?skr=yes"
     },
     {
@@ -226,6 +251,7 @@
       "price": "19.85",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/clock-components-kit-011-cogsworth?skr=yes"
     },
     {
@@ -236,6 +262,7 @@
       "price": "9.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/clock-components-kit-011-cogsworth?skr=yes"
     }
   ],
@@ -305,6 +332,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -317,6 +345,7 @@
       "price": "11.19",
       "region": "us",
       "sku": "42645060321416",
+      "store_id": "",
       "title": "Cogsworth Clock - Cogsworth Clock - ZH006",
       "url": "https://us.store.bambulab.com/products/clock-components-kit-011-cogsworth?id=42645060321416",
       "variant_id": "42645060321416"
@@ -329,6 +358,7 @@
       "price": "12.65",
       "region": "ca",
       "sku": "46264474009840",
+      "store_id": "",
       "title": "Cogsworth Clock - Cogsworth Clock - ZH006",
       "url": "https://ca.store.bambulab.com/products/clock-components-kit-011-cogsworth?id=46264474009840",
       "variant_id": "46264474009840"
@@ -341,6 +371,7 @@
       "price": "10.35",
       "region": "eu",
       "sku": "48975787000156",
+      "store_id": "",
       "title": "Cogsworth Clock - Cogsworth Clock - ZH006",
       "url": "https://eu.store.bambulab.com/products/clock-components-kit-011-cogsworth?id=48975787000156",
       "variant_id": "48975787000156"
@@ -353,6 +384,7 @@
       "price": "8.79",
       "region": "uk",
       "sku": "41925454266428",
+      "store_id": "",
       "title": "Cogsworth Clock - Cogsworth Clock - ZH006",
       "url": "https://uk.store.bambulab.com/products/clock-components-kit-011-cogsworth?id=41925454266428",
       "variant_id": "41925454266428"
@@ -365,6 +397,7 @@
       "price": "19.85",
       "region": "au",
       "sku": "44761354961059",
+      "store_id": "",
       "title": "Cogsworth Clock - Cogsworth Clock - ZH006",
       "url": "https://au.store.bambulab.com/products/clock-components-kit-011-cogsworth?id=44761354961059",
       "variant_id": "44761354961059"
@@ -377,6 +410,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "42042081149043",
+      "store_id": "",
       "title": "Cogsworth Clock - Cogsworth Clock - ZH006",
       "url": "https://asia.store.bambulab.com/products/clock-components-kit-011-cogsworth?id=42042081149043",
       "variant_id": "42042081149043"

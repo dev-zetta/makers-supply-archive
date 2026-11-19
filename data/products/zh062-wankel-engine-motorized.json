@@ -4,36 +4,49 @@
     {
       "handle": "wankel-engine-motorized",
       "product_id": "569412572390211584",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wankel-engine-motorized",
       "product_id": "569415871231725568",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wankel-engine-motorized",
       "product_id": "14901420818780",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wankel-engine-motorized",
       "product_id": "569415173774090240",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wankel-engine-motorized",
       "product_id": "569414992322048000",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wankel-engine-motorized",
       "product_id": "569414263466954752",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/08/08b15e8fb3c4d20ce5aec699ca1de63b8daaca9ce4d1b00fde47d31f2aa80b65.png",
       "id": "image-d9b522c58cd97d0d7ff1",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH062.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "08b15e8fb3c4d20ce5aec699ca1de63b8daaca9ce4d1b00fde47d31f2aa80b65",
       "size": 2157642,
       "source_url": "https://store.bblcdn.com/s7/default/133c9156097d446aa85313b093a871c7/B-ZH062.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9e/9e2bdfb64d40e7e53f099304ac3c74254658e56d04ada76ad5c707f88fade758.png",
       "id": "image-c2b59318dc84dff103a3",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH062-l.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9e2bdfb64d40e7e53f099304ac3c74254658e56d04ada76ad5c707f88fade758",
       "size": 89728,
       "source_url": "https://store.bblcdn.com/s7/default/5880eab4985441cf96fb56ed076e8157/B-ZH062-l.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6b/6b3823ea0511b2112faff05311f44dfd404feb0ae06262ec6da368ff6eafd515.png",
       "id": "image-display-2280190c60d6db24928d",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-d9b522c58cd97d0d7ff1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6b3823ea0511b2112faff05311f44dfd404feb0ae06262ec6da368ff6eafd515",
       "size": 651769,
       "source_url": "https://store.bblcdn.com/s7/default/133c9156097d446aa85313b093a871c7/B-ZH062.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/24/2472e338272e6200953ae0a4a176988bdf2ef8b22c1f6612ffbe2c06fc078b54.png",
       "id": "image-display-94a77714a1fa368dc81c",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-c2b59318dc84dff103a3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2472e338272e6200953ae0a4a176988bdf2ef8b22c1f6612ffbe2c06fc078b54",
       "size": 75535,
       "source_url": "https://store.bblcdn.com/s7/default/5880eab4985441cf96fb56ed076e8157/B-ZH062-l.png"
@@ -160,7 +180,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Wankel engine - motorized. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Wankel engine - motorized on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh062-wankel-engine-motorized",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Wankel engine - motorized",
   "offers": [
@@ -172,6 +193,7 @@
       "price": "6.12",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
     },
     {
@@ -182,6 +204,7 @@
       "price": "7.04",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
     },
     {
@@ -192,6 +215,7 @@
       "price": "5.76",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
     },
     {
@@ -202,6 +226,7 @@
       "price": "4.89",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
     },
     {
@@ -212,6 +237,7 @@
       "price": "11.05",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
     },
     {
@@ -222,6 +248,7 @@
       "price": "5.56",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/wankel-engine-motorized?skr=yes"
     }
   ],
@@ -277,6 +304,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -289,6 +317,7 @@
       "price": "6.12",
       "region": "us",
       "sku": "569412572398600194",
+      "store_id": "",
       "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
       "url": "https://us.store.bambulab.com/products/wankel-engine-motorized?id=569412572398600194",
       "variant_id": "569412572398600194"
@@ -301,6 +330,7 @@
       "price": "7.04",
       "region": "ca",
       "sku": "569415871248502786",
+      "store_id": "",
       "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
       "url": "https://ca.store.bambulab.com/products/wankel-engine-motorized?id=569415871248502786",
       "variant_id": "569415871248502786"
@@ -313,6 +343,7 @@
       "price": "5.76",
       "region": "eu",
       "sku": "54038849225052",
+      "store_id": "",
       "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
       "url": "https://eu.store.bambulab.com/products/wankel-engine-motorized?id=54038849225052",
       "variant_id": "54038849225052"
@@ -325,6 +356,7 @@
       "price": "4.89",
       "region": "uk",
       "sku": "569415173786673154",
+      "store_id": "",
       "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
       "url": "https://uk.store.bambulab.com/products/wankel-engine-motorized?id=569415173786673154",
       "variant_id": "569415173786673154"
@@ -337,6 +369,7 @@
       "price": "11.05",
       "region": "au",
       "sku": "569414992334630914",
+      "store_id": "",
       "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
       "url": "https://au.store.bambulab.com/products/wankel-engine-motorized?id=569414992334630914",
       "variant_id": "569414992334630914"
@@ -349,6 +382,7 @@
       "price": "5.56",
       "region": "asia",
       "sku": "569414263479537666",
+      "store_id": "",
       "title": "Wankel engine - motorized - Wankel engine - motorized - ZH062",
       "url": "https://asia.store.bambulab.com/products/wankel-engine-motorized?id=569414263479537666",
       "variant_id": "569414263479537666"

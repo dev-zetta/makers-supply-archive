@@ -4,36 +4,49 @@
     {
       "handle": "mechanical-phone-holder-desk",
       "product_id": "741199891289317376",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mechanical-phone-holder-desk",
       "product_id": "741198716667359232",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mechanical-phone-holder-desk",
       "product_id": "741200126501281792",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mechanical-phone-holder-desk",
       "product_id": "741199484022382592",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mechanical-phone-holder-desk",
       "product_id": "741197078696792064",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "mechanical-phone-holder-desk",
       "product_id": "740819407948546048",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6b/6ba6d916c3dcd5877e901781e69d3f430e560392859a5badd9de970d5a3dfb9c.jpg",
       "id": "image-1c0a92e0b6d0ab3ae334",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH151-pic.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6ba6d916c3dcd5877e901781e69d3f430e560392859a5badd9de970d5a3dfb9c",
       "size": 352186,
       "source_url": "https://store.bblcdn.com/s7/default/157490ca6671453c9b51065bde32d957/B-ZH151-pic.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3e/3e234b9f77f26d409de6ac71df965c06ca9690e394264f311dc7a8577f5e0d9d.png",
       "id": "image-8610e6cf5056bb296f3e",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH151.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3e234b9f77f26d409de6ac71df965c06ca9690e394264f311dc7a8577f5e0d9d",
       "size": 278460,
       "source_url": "https://store.bblcdn.com/s7/default/1ac1ceef218a420488d75acdf196f14d/B-ZH151.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3f/3f1d24700570d64a5784c84f81aa362485cf30d850688fbbca9f326436bfa7a5.gif",
       "id": "image-57e179ba89347ddc45c6",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "20260607-183341.gif",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3f1d24700570d64a5784c84f81aa362485cf30d850688fbbca9f326436bfa7a5",
       "size": 6970016,
       "source_url": "https://store.bblcdn.com/s7/default/2cb323fba7b84d9fa04a241c567702b1/20260607-183341.gif"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1d/1dc49bf66aa783d723d6ebfe81da6647924e7f1340840754630c3f6fa7407bf1.png",
       "id": "image-display-39839c359577fbe42df4",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-1c0a92e0b6d0ab3ae334",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1dc49bf66aa783d723d6ebfe81da6647924e7f1340840754630c3f6fa7407bf1",
       "size": 547907,
       "source_url": "https://store.bblcdn.com/s7/default/157490ca6671453c9b51065bde32d957/B-ZH151-pic.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e7/e7c5e54653185182d9fa18146abbcb6db996c19c38f408b6bddb0234ad0c064a.png",
       "id": "image-display-c4b6a2a1a9156cd3b7cf",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-8610e6cf5056bb296f3e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e7c5e54653185182d9fa18146abbcb6db996c19c38f408b6bddb0234ad0c064a",
       "size": 75689,
       "source_url": "https://store.bblcdn.com/s7/default/1ac1ceef218a420488d75acdf196f14d/B-ZH151.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7e/7e48ba791eb3b7f8a50d21a8b2aeb4518e07a5fd38d7a3567730760267cbbe75.png",
       "id": "image-display-4594176405112ea9bdfc",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-57e179ba89347ddc45c6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7e48ba791eb3b7f8a50d21a8b2aeb4518e07a5fd38d7a3567730760267cbbe75",
       "size": 726635,
       "source_url": "https://store.bblcdn.com/s7/default/2cb323fba7b84d9fa04a241c567702b1/20260607-183341.gif"
@@ -190,7 +214,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Mechanical Phone Holder Desk Mounted Stand Arm. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Mechanical Phone Holder Desk Mounted Stand Arm on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh151-mechanical-phone-holder-desk",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Mechanical Phone Holder Desk‑Mount Arm",
   "offers": [
@@ -202,6 +227,7 @@
       "price": "3.13",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/mechanical-phone-holder-desk?skr=yes"
     },
     {
@@ -212,6 +238,7 @@
       "price": "3.5",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/mechanical-phone-holder-desk?skr=yes"
     },
     {
@@ -222,6 +249,7 @@
       "price": "3.84",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/mechanical-phone-holder-desk?skr=yes"
     },
     {
@@ -232,6 +260,7 @@
       "price": "3.45",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/mechanical-phone-holder-desk?skr=yes"
     },
     {
@@ -242,6 +271,7 @@
       "price": "6.36",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/mechanical-phone-holder-desk?skr=yes"
     },
     {
@@ -252,6 +282,7 @@
       "price": "2.68",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/mechanical-phone-holder-desk?skr=yes"
     }
   ],
@@ -302,6 +333,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -314,6 +346,7 @@
       "price": "3.13",
       "region": "us",
       "sku": "741199891352231937",
+      "store_id": "",
       "title": "Mechanical Phone Holder Desk‑Mount Arm - Mechanical Phone Holder Desk - ZH151",
       "url": "https://us.store.bambulab.com/products/mechanical-phone-holder-desk?id=741199891352231937",
       "variant_id": "741199891352231937"
@@ -326,6 +359,7 @@
       "price": "3.5",
       "region": "ca",
       "sku": "741198716768022528",
+      "store_id": "",
       "title": "Mechanical Phone Holder Desk‑Mount Arm - Mechanical Phone Holder Desk - ZH151",
       "url": "https://ca.store.bambulab.com/products/mechanical-phone-holder-desk?id=741198716768022528",
       "variant_id": "741198716768022528"
@@ -338,6 +372,7 @@
       "price": "3.84",
       "region": "eu",
       "sku": "741200126555807745",
+      "store_id": "",
       "title": "Mechanical Phone Holder Desk‑Mount Arm - Mechanical Phone Holder Desk - ZH151",
       "url": "https://eu.store.bambulab.com/products/mechanical-phone-holder-desk?id=741200126555807745",
       "variant_id": "741200126555807745"
@@ -350,6 +385,7 @@
       "price": "3.45",
       "region": "uk",
       "sku": "741199484089491457",
+      "store_id": "",
       "title": "Mechanical Phone Holder Desk‑Mount Arm - Mechanical Phone Holder Desk - ZH151",
       "url": "https://uk.store.bambulab.com/products/mechanical-phone-holder-desk?id=741199484089491457",
       "variant_id": "741199484089491457"
@@ -362,6 +398,7 @@
       "price": "6.36",
       "region": "au",
       "sku": "741197078784872449",
+      "store_id": "",
       "title": "Mechanical Phone Holder Desk‑Mount Arm - Mechanical Phone Holder Desk - ZH151",
       "url": "https://au.store.bambulab.com/products/mechanical-phone-holder-desk?id=741197078784872449",
       "variant_id": "741197078784872449"
@@ -374,6 +411,7 @@
       "price": "2.68",
       "region": "asia",
       "sku": "740819407961128962",
+      "store_id": "",
       "title": "Mechanical Phone Holder Desk‑Mount Arm - Mechanical Phone Holder Desk - ZH151",
       "url": "https://asia.store.bambulab.com/products/mechanical-phone-holder-desk?id=740819407961128962",
       "variant_id": "740819407961128962"

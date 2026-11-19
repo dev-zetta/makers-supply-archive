@@ -4,36 +4,49 @@
     {
       "handle": "maker-s-supply-screwdriver-kit",
       "product_id": "665399157698981888",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-screwdriver-kit",
       "product_id": "667222798062313472",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-screwdriver-kit",
       "product_id": "667221963293896704",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-screwdriver-kit",
       "product_id": "667222523622277120",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-screwdriver-kit",
       "product_id": "667223151251316736",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-screwdriver-kit",
       "product_id": "667223736690561024",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/48/481b3893a0235401cd59fa955ee26265a64fd601d065a1a50c21b2917bf1d992.png",
       "id": "image-fe7883f58f7792458b6a",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "QA001.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "481b3893a0235401cd59fa955ee26265a64fd601d065a1a50c21b2917bf1d992",
       "size": 1477102,
       "source_url": "https://store.bblcdn.com/s7/default/99fbc8dc88824e419c3422623923dc3d/QA001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c1/c118beefc5f9b91eeaeb10aa568d0b5868e58a609fed5eecdfeac3278ba36401.png",
       "id": "image-25dc0758f71e89bb7d0c",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-QA020.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c118beefc5f9b91eeaeb10aa568d0b5868e58a609fed5eecdfeac3278ba36401",
       "size": 53247,
       "source_url": "https://store.bblcdn.com/s7/default/74a172dff55f4982ac0085c0f6134ae5/B-QA020.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/88/8890b1a8e3704eecc91b76e16fedb545901a3bc7136c68fe536b1162f69a9caa.png",
       "id": "image-2df4339cef70b801496c",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-QA021.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8890b1a8e3704eecc91b76e16fedb545901a3bc7136c68fe536b1162f69a9caa",
       "size": 56836,
       "source_url": "https://store.bblcdn.com/s7/default/87a0e58bf58e461dbc3840034868e341/B-QA021.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3d/3d743242399d7d57d8ad8bdece929c5f48b3413df4c4388a33c01deafcf14e37.png",
       "id": "image-dd77efd80012251ed9a7",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "B-QA022.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3d743242399d7d57d8ad8bdece929c5f48b3413df4c4388a33c01deafcf14e37",
       "size": 55019,
       "source_url": "https://store.bblcdn.com/s7/default/32e0cd80e3b94d54a2a39d2e85593bfd/B-QA022.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cc/cc4f2760c6556457d3507af6c6a2aaf5021e46111b16cb07a9ea9b756461cf8a.png",
       "id": "image-253eb6988b998c166893",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "B-QA023.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cc4f2760c6556457d3507af6c6a2aaf5021e46111b16cb07a9ea9b756461cf8a",
       "size": 34013,
       "source_url": "https://store.bblcdn.com/s7/default/9e70f686db9c4b70a49eb2418e178649/B-QA023.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9a/9a22753efe9e9371947ff5b10e14a58592ebdcea0f8a69837163cc0dcb9b2d22.png",
       "id": "image-2479c90338b5fe5fd639",
       "kind": "image",
@@ -101,11 +124,13 @@
       "original_filename": "B-QA024.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9a22753efe9e9371947ff5b10e14a58592ebdcea0f8a69837163cc0dcb9b2d22",
       "size": 58685,
       "source_url": "https://store.bblcdn.com/s7/default/74860c1f8a444dd59f27eba5cb222eb0/B-QA024.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/46/463000a5e2d84b411dd1c4b174c96b6924555a37567d8f254285f6221d13dfce.png",
       "id": "image-a6784b4532e04d0be72c",
       "kind": "image",
@@ -113,11 +138,13 @@
       "original_filename": "B-QA001.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "463000a5e2d84b411dd1c4b174c96b6924555a37567d8f254285f6221d13dfce",
       "size": 290237,
       "source_url": "https://store.bblcdn.com/s7/default/e90d2dec384247c29179359ea7b547bb/B-QA001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/50/50a4013bf2317933b9ea7b2c417a288c91907bf7b71fa3dade24429b03fb7abb.png",
       "id": "image-5d4732fb62d0898b1bd2",
       "kind": "image",
@@ -125,11 +152,13 @@
       "original_filename": "2.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "50a4013bf2317933b9ea7b2c417a288c91907bf7b71fa3dade24429b03fb7abb",
       "size": 7659820,
       "source_url": "https://store.bblcdn.com/s7/default/19c7c27c7830437fa1e127169e886788/2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ab/ab54e207d161233f6f82010226fa9e4aae624fb7de4dc8f3a957b407d4e82142.png",
       "id": "image-14bcab15fa0fe54afef6",
       "kind": "image",
@@ -137,11 +166,13 @@
       "original_filename": "QA001_(1).png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ab54e207d161233f6f82010226fa9e4aae624fb7de4dc8f3a957b407d4e82142",
       "size": 1829804,
       "source_url": "https://store.bblcdn.com/s7/default/9ada4b236d0d412daa70808f22049907/QA001_(1).png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f2/f2d29aca2acf411691e91762c7147ca4f4cdfd664b1d98da8b0de7fd1a835f83.png",
       "id": "image-display-3dcf2fda1e041d3f2174",
       "image_processing": {
@@ -159,11 +190,13 @@
       "parent_asset_id": "image-fe7883f58f7792458b6a",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f2d29aca2acf411691e91762c7147ca4f4cdfd664b1d98da8b0de7fd1a835f83",
       "size": 296475,
       "source_url": "https://store.bblcdn.com/s7/default/99fbc8dc88824e419c3422623923dc3d/QA001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/23/232443585f97fb23bc303adafea3342756bc55a33d4dd47fabf0735db21ab5f2.png",
       "id": "image-display-4fd98f8605af4f557e5e",
       "image_processing": {
@@ -181,11 +214,13 @@
       "parent_asset_id": "image-25dc0758f71e89bb7d0c",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "232443585f97fb23bc303adafea3342756bc55a33d4dd47fabf0735db21ab5f2",
       "size": 16310,
       "source_url": "https://store.bblcdn.com/s7/default/74a172dff55f4982ac0085c0f6134ae5/B-QA020.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/64/64f433d2b509edc08c1605f148dbaa78ce06c202cf44e93070cc91abbc8cfb7d.png",
       "id": "image-display-ba7503a56964a70e8143",
       "image_processing": {
@@ -203,11 +238,13 @@
       "parent_asset_id": "image-2df4339cef70b801496c",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "64f433d2b509edc08c1605f148dbaa78ce06c202cf44e93070cc91abbc8cfb7d",
       "size": 17545,
       "source_url": "https://store.bblcdn.com/s7/default/87a0e58bf58e461dbc3840034868e341/B-QA021.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/67/67e7b4ba411ce050b9f3bd7cafb10e3017a0db2f9970003e6f6089304e4260ae.png",
       "id": "image-display-0ce8ef57715f1707f55f",
       "image_processing": {
@@ -225,11 +262,13 @@
       "parent_asset_id": "image-dd77efd80012251ed9a7",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "67e7b4ba411ce050b9f3bd7cafb10e3017a0db2f9970003e6f6089304e4260ae",
       "size": 17182,
       "source_url": "https://store.bblcdn.com/s7/default/32e0cd80e3b94d54a2a39d2e85593bfd/B-QA022.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6a/6a815c6a0149ce33ad5236b579672830ec5c11b446e3e4dfc2080fb5b68999fa.png",
       "id": "image-display-bcaada1d2ba8be73dfbc",
       "image_processing": {
@@ -247,11 +286,13 @@
       "parent_asset_id": "image-253eb6988b998c166893",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6a815c6a0149ce33ad5236b579672830ec5c11b446e3e4dfc2080fb5b68999fa",
       "size": 17217,
       "source_url": "https://store.bblcdn.com/s7/default/9e70f686db9c4b70a49eb2418e178649/B-QA023.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/39/394bba80e46926a5bf5a36d413e95ffbb8e48e7922d060d57b8d1fcba1642772.png",
       "id": "image-display-ce5feea913b3351afcf7",
       "image_processing": {
@@ -269,11 +310,13 @@
       "parent_asset_id": "image-2479c90338b5fe5fd639",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "394bba80e46926a5bf5a36d413e95ffbb8e48e7922d060d57b8d1fcba1642772",
       "size": 18365,
       "source_url": "https://store.bblcdn.com/s7/default/74860c1f8a444dd59f27eba5cb222eb0/B-QA024.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c3/c31bf211d47763e5f44d213057d0b5dc2c539e17178f6429edc3b261c922df7c.png",
       "id": "image-display-557778c068362d01d428",
       "image_processing": {
@@ -291,11 +334,13 @@
       "parent_asset_id": "image-a6784b4532e04d0be72c",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c31bf211d47763e5f44d213057d0b5dc2c539e17178f6429edc3b261c922df7c",
       "size": 84818,
       "source_url": "https://store.bblcdn.com/s7/default/e90d2dec384247c29179359ea7b547bb/B-QA001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fb/fb2b30431f42371c03bc2b2850d0b06fd7204cd6f49c57a3f7c56804731ce4df.png",
       "id": "image-display-84b1a29271070d509e97",
       "image_processing": {
@@ -313,11 +358,13 @@
       "parent_asset_id": "image-5d4732fb62d0898b1bd2",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fb2b30431f42371c03bc2b2850d0b06fd7204cd6f49c57a3f7c56804731ce4df",
       "size": 992455,
       "source_url": "https://store.bblcdn.com/s7/default/19c7c27c7830437fa1e127169e886788/2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a9/a9277d19bf3646514e013a5c685622cfb1b91f238da4039e1bbed8c5e7e63d7f.png",
       "id": "image-display-7dd817fbfda3c12ca206",
       "image_processing": {
@@ -335,6 +382,7 @@
       "parent_asset_id": "image-14bcab15fa0fe54afef6",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a9277d19bf3646514e013a5c685622cfb1b91f238da4039e1bbed8c5e7e63d7f",
       "size": 483390,
       "source_url": "https://store.bblcdn.com/s7/default/9ada4b236d0d412daa70808f22049907/QA001_(1).png"
@@ -421,6 +469,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "qa020-maker-s-supply-screwdriver-kit",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Bit Length",
@@ -442,6 +491,7 @@
       "price": "25.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/maker-s-supply-screwdriver-kit?skr=yes"
     },
     {
@@ -452,6 +502,7 @@
       "price": "32.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/maker-s-supply-screwdriver-kit?skr=yes"
     },
     {
@@ -462,6 +513,7 @@
       "price": "26.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/maker-s-supply-screwdriver-kit?skr=yes"
     },
     {
@@ -472,6 +524,7 @@
       "price": "21.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/maker-s-supply-screwdriver-kit?skr=yes"
     },
     {
@@ -482,6 +535,7 @@
       "price": "36.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/maker-s-supply-screwdriver-kit?skr=yes"
     },
     {
@@ -492,6 +546,7 @@
       "price": "25.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/maker-s-supply-screwdriver-kit?skr=yes"
     }
   ],
@@ -594,6 +649,7 @@
     "Handle Material": "Aluminum alloy with anti-slip finish",
     "Packaging": "Transparent storage case"
   },
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -605,6 +661,7 @@
       "price": "25.99",
       "region": "us",
       "sku": "723308889316073473",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Maker's Supply Screwdriver Kit",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723308889316073473",
       "variant_id": "723308889316073473"
@@ -617,6 +674,7 @@
       "price": "2.49",
       "region": "us",
       "sku": "723308889320267776",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H0.9 (2PCS) - QA020",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723308889320267776",
       "variant_id": "723308889320267776"
@@ -629,6 +687,7 @@
       "price": "2.49",
       "region": "us",
       "sku": "723308889320267780",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.3 (2PCS) - QA021",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723308889320267780",
       "variant_id": "723308889320267780"
@@ -641,6 +700,7 @@
       "price": "2.49",
       "region": "us",
       "sku": "723308889320267784",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.5 (2PCS) - QA022",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723308889320267784",
       "variant_id": "723308889320267784"
@@ -653,6 +713,7 @@
       "price": "2.49",
       "region": "us",
       "sku": "723308889320267788",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H2.0 (2PCS) - QA023",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723308889320267788",
       "variant_id": "723308889320267788"
@@ -665,6 +726,7 @@
       "price": "2.49",
       "region": "us",
       "sku": "723308889320267792",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - PH00 (2PCS) - QA024",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723308889320267792",
       "variant_id": "723308889320267792"
@@ -676,6 +738,7 @@
       "price": "32.99",
       "region": "ca",
       "sku": "725182323454562305",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Maker's Supply Screwdriver Kit",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=725182323454562305",
       "variant_id": "725182323454562305"
@@ -688,6 +751,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "725182323454562309",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H0.9 (2PCS) - QA020",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=725182323454562309",
       "variant_id": "725182323454562309"
@@ -700,6 +764,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "725182323454562313",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.3 (2PCS) - QA021",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=725182323454562313",
       "variant_id": "725182323454562313"
@@ -712,6 +777,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "725182323454562317",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.5 (2PCS) - QA022",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=725182323454562317",
       "variant_id": "725182323454562317"
@@ -724,6 +790,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "725182323454562321",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H2.0 (2PCS) - QA023",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=725182323454562321",
       "variant_id": "725182323454562321"
@@ -736,6 +803,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "725182323454562325",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - PH00 (2PCS) - QA024",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=725182323454562325",
       "variant_id": "725182323454562325"
@@ -747,6 +815,7 @@
       "price": "26.99",
       "region": "eu",
       "sku": "723316280937246720",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Maker's Supply Screwdriver Kit",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723316280937246720",
       "variant_id": "723316280937246720"
@@ -759,6 +828,7 @@
       "price": "2.99",
       "region": "eu",
       "sku": "723316280937246726",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H0.9 (2PCS) - QA020",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723316280937246726",
       "variant_id": "723316280937246726"
@@ -771,6 +841,7 @@
       "price": "2.99",
       "region": "eu",
       "sku": "723316280937246732",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.3 (2PCS) - QA021",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723316280937246732",
       "variant_id": "723316280937246732"
@@ -783,6 +854,7 @@
       "price": "2.99",
       "region": "eu",
       "sku": "723316280937246738",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.5 (2PCS) - QA022",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723316280937246738",
       "variant_id": "723316280937246738"
@@ -795,6 +867,7 @@
       "price": "2.99",
       "region": "eu",
       "sku": "723316280937246744",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H2.0 (2PCS) - QA023",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723316280937246744",
       "variant_id": "723316280937246744"
@@ -807,6 +880,7 @@
       "price": "2.99",
       "region": "eu",
       "sku": "723316280937246750",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - PH00 (2PCS) - QA024",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723316280937246750",
       "variant_id": "723316280937246750"
@@ -818,6 +892,7 @@
       "price": "21.99",
       "region": "uk",
       "sku": "723321426026962944",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Maker's Supply Screwdriver Kit",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723321426026962944",
       "variant_id": "723321426026962944"
@@ -830,6 +905,7 @@
       "price": "2.59",
       "region": "uk",
       "sku": "723321426026962948",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H0.9 (2PCS) - QA020",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723321426026962948",
       "variant_id": "723321426026962948"
@@ -842,6 +918,7 @@
       "price": "2.59",
       "region": "uk",
       "sku": "723321426026962952",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.3 (2PCS) - QA021",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723321426026962952",
       "variant_id": "723321426026962952"
@@ -854,6 +931,7 @@
       "price": "2.59",
       "region": "uk",
       "sku": "723321426031157250",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.5 (2PCS) - QA022",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723321426031157250",
       "variant_id": "723321426031157250"
@@ -866,6 +944,7 @@
       "price": "2.59",
       "region": "uk",
       "sku": "723321426031157254",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H2.0 (2PCS) - QA023",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723321426031157254",
       "variant_id": "723321426031157254"
@@ -878,6 +957,7 @@
       "price": "2.59",
       "region": "uk",
       "sku": "723321426031157258",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - PH00 (2PCS) - QA024",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723321426031157258",
       "variant_id": "723321426031157258"
@@ -889,6 +969,7 @@
       "price": "36.99",
       "region": "au",
       "sku": "723314230162497537",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Maker's Supply Screwdriver Kit",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723314230162497537",
       "variant_id": "723314230162497537"
@@ -901,6 +982,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "723314230162497541",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H0.9 (2PCS) - QA020",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723314230162497541",
       "variant_id": "723314230162497541"
@@ -913,6 +995,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "723314230162497545",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.3 (2PCS) - QA021",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723314230162497545",
       "variant_id": "723314230162497545"
@@ -925,6 +1008,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "723314230162497549",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.5 (2PCS) - QA022",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723314230162497549",
       "variant_id": "723314230162497549"
@@ -937,6 +1021,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "723314230162497553",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H2.0 (2PCS) - QA023",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723314230162497553",
       "variant_id": "723314230162497553"
@@ -949,6 +1034,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "723314230162497557",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - PH00 (2PCS) - QA024",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723314230162497557",
       "variant_id": "723314230162497557"
@@ -960,6 +1046,7 @@
       "price": "25.99",
       "region": "asia",
       "sku": "723315175494512641",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Maker's Supply Screwdriver Kit",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723315175494512641",
       "variant_id": "723315175494512641"
@@ -972,6 +1059,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "723315175494512645",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H0.9  (2PCS) - QA020",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723315175494512645",
       "variant_id": "723315175494512645"
@@ -984,6 +1072,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "723315175494512649",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.3  (2PCS) - QA021",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723315175494512649",
       "variant_id": "723315175494512649"
@@ -996,6 +1085,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "723315175494512653",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H1.5  (2PCS) - QA022",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723315175494512653",
       "variant_id": "723315175494512653"
@@ -1008,6 +1098,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "723315175494512657",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - H2.0  (2PCS) - QA023",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723315175494512657",
       "variant_id": "723315175494512657"
@@ -1020,6 +1111,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "723315175494512661",
+      "store_id": "",
       "title": "Maker's Supply Screwdriver Kit - Screwdriver Bits - PH00  (2PCS) - QA024",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-screwdriver-kit?id=723315175494512661",
       "variant_id": "723315175494512661"

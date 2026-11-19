@@ -4,36 +4,49 @@
     {
       "handle": "compact-multi-use-case-in-two-sizes",
       "product_id": "8245865611400",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "compact-multi-use-case-in-two-sizes",
       "product_id": "8911025766640",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "compact-multi-use-case-in-two-sizes",
       "product_id": "9464800969052",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "compact-multi-use-case-in-two-sizes",
       "product_id": "7687818772540",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "compact-multi-use-case-in-two-sizes",
       "product_id": "8519957020835",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "compact-multi-use-case-in-two-sizes",
       "product_id": "7685036441715",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/73/731d99c658981440ac64c62b694d4ef61706a0f487ffd1e8bbb96c02e0b1c87e.png",
       "id": "image-d6f0fc093c869244a9de",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "card3.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "731d99c658981440ac64c62b694d4ef61706a0f487ffd1e8bbb96c02e0b1c87e",
       "size": 57390,
       "source_url": "https://store.bblcdn.com/s7/default/22df420ba25a4770b69af8bffa3ec8b3/card3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/df/df9448553134685d90479b48f3ef397e312c6552b6a2a1710fe48280d34b24e3.png",
       "id": "image-1dfcec4626b6c23cfdce",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "card-1_466491c7-e217-47e9-93a4-34c30fee7b75.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "df9448553134685d90479b48f3ef397e312c6552b6a2a1710fe48280d34b24e3",
       "size": 333605,
       "source_url": "https://store.bblcdn.com/s7/default/99a8338210ba4896a84c6d6389d2f866/card-1_466491c7-e217-47e9-93a4-34c30fee7b75.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f1b5e0d8c02a068268d290bf4b3a680cc825b48d7c49bcd7888fe865dad0e4c6.png",
       "id": "image-display-9928eb2f6488c9a65a51",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-d6f0fc093c869244a9de",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1b5e0d8c02a068268d290bf4b3a680cc825b48d7c49bcd7888fe865dad0e4c6",
       "size": 51032,
       "source_url": "https://store.bblcdn.com/s7/default/22df420ba25a4770b69af8bffa3ec8b3/card3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f7/f736d28a7a0627af6b0b7cfbd8a9fbc375b9bebf459d08494219685f784902c8.png",
       "id": "image-display-9cd463504d6fcdc5dcd1",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-1dfcec4626b6c23cfdce",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f736d28a7a0627af6b0b7cfbd8a9fbc375b9bebf459d08494219685f784902c8",
       "size": 315202,
       "source_url": "https://store.bblcdn.com/s7/default/99a8338210ba4896a84c6d6389d2f866/card-1_466491c7-e217-47e9-93a4-34c30fee7b75.png"
@@ -150,7 +170,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Multi-Use Case. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nTo download the model files of the Compact Multi-Use Case and obtain detailed information, please visit the Compact Multi-Use Case on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh007-compact-multi-use-case-in-two-sizes",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Compact Multi-Use Case",
   "offers": [
@@ -162,6 +183,7 @@
       "price": "2.62",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
     },
     {
@@ -172,6 +194,7 @@
       "price": "3.02",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
     },
     {
@@ -182,6 +205,7 @@
       "price": "2.47",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
     },
     {
@@ -192,6 +216,7 @@
       "price": "2.1",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
     },
     {
@@ -202,6 +227,7 @@
       "price": "4.74",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
     },
     {
@@ -212,6 +238,7 @@
       "price": "2.38",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/compact-multi-use-case-in-two-sizes?skr=yes"
     }
   ],
@@ -261,6 +288,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -273,6 +301,7 @@
       "price": "2.62",
       "region": "us",
       "sku": "42668807553160",
+      "store_id": "",
       "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
       "url": "https://us.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=42668807553160",
       "variant_id": "42668807553160"
@@ -285,6 +314,7 @@
       "price": "3.02",
       "region": "ca",
       "sku": "46273721270512",
+      "store_id": "",
       "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
       "url": "https://ca.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=46273721270512",
       "variant_id": "46273721270512"
@@ -297,6 +327,7 @@
       "price": "2.47",
       "region": "eu",
       "sku": "48988240380252",
+      "store_id": "",
       "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
       "url": "https://eu.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=48988240380252",
       "variant_id": "48988240380252"
@@ -309,6 +340,7 @@
       "price": "2.1",
       "region": "uk",
       "sku": "41942193569852",
+      "store_id": "",
       "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
       "url": "https://uk.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=41942193569852",
       "variant_id": "41942193569852"
@@ -321,6 +353,7 @@
       "price": "4.74",
       "region": "au",
       "sku": "44768320553123",
+      "store_id": "",
       "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
       "url": "https://au.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=44768320553123",
       "variant_id": "44768320553123"
@@ -333,6 +366,7 @@
       "price": "2.38",
       "region": "asia",
       "sku": "42048849444979",
+      "store_id": "",
       "title": "Compact Multi-Use Case - Compact Multi-Use Case - ZH007",
       "url": "https://asia.store.bambulab.com/products/compact-multi-use-case-in-two-sizes?id=42048849444979",
       "variant_id": "42048849444979"

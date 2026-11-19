@@ -4,36 +4,49 @@
     {
       "handle": "bike-saddle-rail",
       "product_id": "581004557002797056",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bike-saddle-rail",
       "product_id": "581017113694208000",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bike-saddle-rail",
       "product_id": "14937849987420",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bike-saddle-rail",
       "product_id": "581017401856495616",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bike-saddle-rail",
       "product_id": "581019095334453248",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bike-saddle-rail",
       "product_id": "581020585691676672",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/df/df66f9923d5369882836902c418541315b502eb26429e139a89ed44dafc39188.png",
       "id": "image-1ab417aac380552aed99",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "bicycle_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "df66f9923d5369882836902c418541315b502eb26429e139a89ed44dafc39188",
       "size": 763985,
       "source_url": "https://store.bblcdn.com/s7/default/ee81bb68c8dd44d0821f3bafab5df246/bicycle_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/63/633ce160beb088973d2e6c2ba62b8e45e28d5128f72cebb5f60da416a2b8354b.png",
       "id": "image-a12eb99cf52a7acdc7c8",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "bicycle_2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "633ce160beb088973d2e6c2ba62b8e45e28d5128f72cebb5f60da416a2b8354b",
       "size": 166558,
       "source_url": "https://store.bblcdn.com/s7/default/264d9964894543c49220da84faf6c395/bicycle_2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/87/87f1cfecd6a785c0d61611ee3dd12a06c56ab41b077e515444936af20c77e2ac.png",
       "id": "image-eebd25359c5083537764",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "bicycle_3.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "87f1cfecd6a785c0d61611ee3dd12a06c56ab41b077e515444936af20c77e2ac",
       "size": 128827,
       "source_url": "https://store.bblcdn.com/s7/default/add830b1c0894588a3d9531b47d67752/bicycle_3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/37/372a883ead2412820fc2e9c9487ff8343c9e3a6914fdd33615109a40aafe17f8.jpg",
       "id": "image-6bf0c845183c9ae672a2",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "bicycle_4.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "372a883ead2412820fc2e9c9487ff8343c9e3a6914fdd33615109a40aafe17f8",
       "size": 2697232,
       "source_url": "https://store.bblcdn.com/s7/default/7df83ec75e3f4847a4a84f3b6cf7ef97/bicycle_4.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8a/8a8d0139fa1ce91174864c292ae7fc308956b0c6fd307d600b7cbcc814853aeb.png",
       "id": "image-256b094232713101b5b7",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "bicycle_5.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8a8d0139fa1ce91174864c292ae7fc308956b0c6fd307d600b7cbcc814853aeb",
       "size": 310531,
       "source_url": "https://store.bblcdn.com/s7/default/14837f0bfdf0420db7f8e4cc7b4df661/bicycle_5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ee/ee0ace188dbbe59394a0245ae6c0f136cacc4b552a6e5b11055ea814f1589d93.zip",
       "id": "archive-180c4c8c7e40a57c4368",
       "kind": "archive",
@@ -101,11 +124,13 @@
       "original_filename": "Bike_Saddle_Rail_-_FC013.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ee0ace188dbbe59394a0245ae6c0f136cacc4b552a6e5b11055ea814f1589d93",
       "size": 20142722,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Bike_Saddle_Rail_-_FC013.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Bike Saddle Rail - FC013.stl",
       "blob_path": "data/blobs/sha256/58/585ac27c3fda5f69673f8b1faa1322146cbe94699177996a7beae0544a11d025.stl",
       "id": "model-35edd897a181ce93d1db",
@@ -115,11 +140,13 @@
       "parent_asset_id": "archive-180c4c8c7e40a57c4368",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "585ac27c3fda5f69673f8b1faa1322146cbe94699177996a7beae0544a11d025",
       "size": 43214834,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Bike_Saddle_Rail_-_FC013.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/56/56d6131f0297f40374a3085d0d2235874fbae60eeca6e6c548fb2401217fd6d1.png",
       "id": "image-display-83f9730fe772e9436ad8",
       "image_processing": {
@@ -137,11 +164,13 @@
       "parent_asset_id": "image-1ab417aac380552aed99",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "56d6131f0297f40374a3085d0d2235874fbae60eeca6e6c548fb2401217fd6d1",
       "size": 730135,
       "source_url": "https://store.bblcdn.com/s7/default/ee81bb68c8dd44d0821f3bafab5df246/bicycle_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a8/a85d3c55f3bd71ec463f1dd09b812f786eb3eb400fffc27da6aca27ec9fcc5c1.png",
       "id": "image-display-9b655f4134ded0f51091",
       "image_processing": {
@@ -159,11 +188,13 @@
       "parent_asset_id": "image-a12eb99cf52a7acdc7c8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a85d3c55f3bd71ec463f1dd09b812f786eb3eb400fffc27da6aca27ec9fcc5c1",
       "size": 52637,
       "source_url": "https://store.bblcdn.com/s7/default/264d9964894543c49220da84faf6c395/bicycle_2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/08/08e73395ded5655ef9b517dda77e48e6cb54b88bce18fa4c24ba82993be6226e.png",
       "id": "image-display-869bbc0f85439c56fa7f",
       "image_processing": {
@@ -181,11 +212,13 @@
       "parent_asset_id": "image-eebd25359c5083537764",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "08e73395ded5655ef9b517dda77e48e6cb54b88bce18fa4c24ba82993be6226e",
       "size": 36736,
       "source_url": "https://store.bblcdn.com/s7/default/add830b1c0894588a3d9531b47d67752/bicycle_3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/34/344915cc02849d247905d49f53f0115c36518094e985c4f7da369c86d2a48e71.png",
       "id": "image-display-8e262ebe56bd89bc8a39",
       "image_processing": {
@@ -203,11 +236,13 @@
       "parent_asset_id": "image-6bf0c845183c9ae672a2",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "344915cc02849d247905d49f53f0115c36518094e985c4f7da369c86d2a48e71",
       "size": 581336,
       "source_url": "https://store.bblcdn.com/s7/default/7df83ec75e3f4847a4a84f3b6cf7ef97/bicycle_4.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/98/98080b25d1738b4e59aa3b0c5016c745e812a02a1887a33628a390d558ea4405.png",
       "id": "image-display-9d7eb422cbd5e46a8719",
       "image_processing": {
@@ -225,6 +260,7 @@
       "parent_asset_id": "image-256b094232713101b5b7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "98080b25d1738b4e59aa3b0c5016c745e812a02a1887a33628a390d558ea4405",
       "size": 346576,
       "source_url": "https://store.bblcdn.com/s7/default/14837f0bfdf0420db7f8e4cc7b4df661/bicycle_5.png"
@@ -279,6 +315,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "fc013-bike-saddle-rail",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Bike Saddle Rail",
   "offers": [
@@ -290,6 +327,7 @@
       "price": "6.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/bike-saddle-rail?skr=yes"
     },
     {
@@ -300,6 +338,7 @@
       "price": "8.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/bike-saddle-rail?skr=yes"
     },
     {
@@ -310,6 +349,7 @@
       "price": "8.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/bike-saddle-rail?skr=yes"
     },
     {
@@ -320,6 +360,7 @@
       "price": "8.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/bike-saddle-rail?skr=yes"
     },
     {
@@ -330,6 +371,7 @@
       "price": "13.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/bike-saddle-rail?skr=yes"
     },
     {
@@ -340,6 +382,7 @@
       "price": "6.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/bike-saddle-rail?skr=yes"
     }
   ],
@@ -435,6 +478,7 @@
     "Quantity": "1PCS",
     "Weight": "92.5g"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -445,6 +489,7 @@
       "price": "6.99",
       "region": "us",
       "sku": "581004557019574274",
+      "store_id": "",
       "title": "Bike Saddle Rail - Bike Saddle Rail (1PCS) - FC013",
       "url": "https://us.store.bambulab.com/products/bike-saddle-rail?id=581004557019574274",
       "variant_id": "581004557019574274"
@@ -457,6 +502,7 @@
       "price": "8.99",
       "region": "ca",
       "sku": "581017113702596610",
+      "store_id": "",
       "title": "Bike Saddle Rail - Bike Saddle Rail (1PCS) - FC013",
       "url": "https://ca.store.bambulab.com/products/bike-saddle-rail?id=581017113702596610",
       "variant_id": "581017113702596610"
@@ -469,6 +515,7 @@
       "price": "8.99",
       "region": "eu",
       "sku": "54208581009756",
+      "store_id": "",
       "title": "Bike Saddle Rail - Bike Saddle Rail (1PCS) - FC013",
       "url": "https://eu.store.bambulab.com/products/bike-saddle-rail?id=54208581009756",
       "variant_id": "54208581009756"
@@ -481,6 +528,7 @@
       "price": "8.99",
       "region": "uk",
       "sku": "581017401869078530",
+      "store_id": "",
       "title": "Bike Saddle Rail - Bike Saddle Rail (1PCS) - FC013",
       "url": "https://uk.store.bambulab.com/products/bike-saddle-rail?id=581017401869078530",
       "variant_id": "581017401869078530"
@@ -493,6 +541,7 @@
       "price": "13.99",
       "region": "au",
       "sku": "581019095347036162",
+      "store_id": "",
       "title": "Bike Saddle Rail - Bike Saddle Rail (1PCS) - FC013",
       "url": "https://au.store.bambulab.com/products/bike-saddle-rail?id=581019095347036162",
       "variant_id": "581019095347036162"
@@ -505,6 +554,7 @@
       "price": "6.99",
       "region": "asia",
       "sku": "581020585700065282",
+      "store_id": "",
       "title": "Bike Saddle Rail - Bike Saddle Rail (1PCS) - FC013",
       "url": "https://asia.store.bambulab.com/products/bike-saddle-rail?id=581020585700065282",
       "variant_id": "581020585700065282"

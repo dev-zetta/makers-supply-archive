@@ -4,31 +4,42 @@
     {
       "handle": "cyberbrick-mk20-1a4-waffentr%C3%A4ger",
       "product_id": "759246894475046912",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-mk20-1a4-waffentr%C3%A4ger",
       "product_id": "759246455746654208",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-mk20-1a4-waffentr%C3%A4ger",
       "product_id": "759247127284023296",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-mk20-1a4-waffentr%C3%A4ger",
       "product_id": "759246677570797568",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-mk20-1a4-waffentr%C3%A4ger",
       "product_id": "759205193031151616",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6a/6aafe3719907f4c8adf35c82f3632631c01bdbf4acc6d6820f91704427e8c3da.png",
       "id": "image-7c544c60917ba49ddf79",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "Blank_2_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6aafe3719907f4c8adf35c82f3632631c01bdbf4acc6d6820f91704427e8c3da",
       "size": 2226284,
       "source_url": "https://store.bblcdn.com/s7/default/9c0370b1b3f5478aba1573917200fbfd/Blank_2_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/89/891f6fe275b92551385217411c4070dd88bbb566415df306e638c1c45679e9ad.png",
       "id": "image-e0c92c00abd675fed2d3",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "Blank_1_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "891f6fe275b92551385217411c4070dd88bbb566415df306e638c1c45679e9ad",
       "size": 1858619,
       "source_url": "https://store.bblcdn.com/s7/default/7e73d34adb7949ceaf4b75d80b612fae/Blank_1_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/75/7504279a6a0f401265b5c62556013f512ac6c2066c1f86b00d486413e8ca07df.png",
       "id": "image-a71e8eee69f1b68ce7c3",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "Cover_1_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7504279a6a0f401265b5c62556013f512ac6c2066c1f86b00d486413e8ca07df",
       "size": 3338759,
       "source_url": "https://store.bblcdn.com/s7/default/729bd0f9c73a40af8b49fcd5b42aff83/Cover_1_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9d/9d410cadbc9d0361aa140ac764023f8e06116006d283ba9d508030d05c6ac44a.png",
       "id": "image-3d5222cd426bdb635ce6",
       "kind": "image",
@@ -72,11 +89,13 @@
       "original_filename": "Cover_3_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9d410cadbc9d0361aa140ac764023f8e06116006d283ba9d508030d05c6ac44a",
       "size": 3326187,
       "source_url": "https://store.bblcdn.com/s7/default/db61858c6a754aa3ae3749431e13ead2/Cover_3_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/75/751a9594524adc8d06c5142931ffafdfb258ab62d47d8b69f829b8557ec29207.png",
       "id": "image-391c59a722cbb735378f",
       "kind": "image",
@@ -84,11 +103,13 @@
       "original_filename": "Cover_2_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "751a9594524adc8d06c5142931ffafdfb258ab62d47d8b69f829b8557ec29207",
       "size": 4034438,
       "source_url": "https://store.bblcdn.com/s7/default/3575d3ca3b4c4e3bbb3ae31a0a74ec5d/Cover_2_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/42/4207c2e3bd1bf0ff41a3b4b06549280b9a6617488373ec9aeb13a93614f98247.zip",
       "id": "archive-3b5eb846a9d1aa910ab5",
       "kind": "archive",
@@ -96,11 +117,13 @@
       "original_filename": "Wiesel_Mk20_1A4_Manual.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4207c2e3bd1bf0ff41a3b4b06549280b9a6617488373ec9aeb13a93614f98247",
       "size": 28995625,
       "source_url": "https://store.bblcdn.com/s1/default/cfc30663ef674c4296c2c69fd7118e42/Wiesel_Mk20_1A4_Manual.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/15/15cd65049264aef5450ad5fd0713ef8d2503f2d4a893bb6b8c70a39fcbe802a7.png",
       "id": "image-display-ac20352f139dce971c7d",
       "image_processing": {
@@ -118,11 +141,13 @@
       "parent_asset_id": "image-7c544c60917ba49ddf79",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "15cd65049264aef5450ad5fd0713ef8d2503f2d4a893bb6b8c70a39fcbe802a7",
       "size": 649774,
       "source_url": "https://store.bblcdn.com/s7/default/9c0370b1b3f5478aba1573917200fbfd/Blank_2_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5c/5c275f012fe8ea7d3230b313f29c96014c50c6a5bae7dd945d3b49d74023f21b.png",
       "id": "image-display-7d8366583e23084db994",
       "image_processing": {
@@ -140,11 +165,13 @@
       "parent_asset_id": "image-e0c92c00abd675fed2d3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5c275f012fe8ea7d3230b313f29c96014c50c6a5bae7dd945d3b49d74023f21b",
       "size": 554466,
       "source_url": "https://store.bblcdn.com/s7/default/7e73d34adb7949ceaf4b75d80b612fae/Blank_1_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ed/ed4a1a6c931fe506bd117075afa1450b56cef45d3535575ac0bfe13508d56975.png",
       "id": "image-display-f207f9f8aa312115949e",
       "image_processing": {
@@ -162,11 +189,13 @@
       "parent_asset_id": "image-a71e8eee69f1b68ce7c3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ed4a1a6c931fe506bd117075afa1450b56cef45d3535575ac0bfe13508d56975",
       "size": 953866,
       "source_url": "https://store.bblcdn.com/s7/default/729bd0f9c73a40af8b49fcd5b42aff83/Cover_1_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/16/167e53cb9ade63584c87707949432bcf91bb424bb645481f69a161dcdb70775f.png",
       "id": "image-display-93bbc83fdf52b9f6c0a6",
       "image_processing": {
@@ -184,11 +213,13 @@
       "parent_asset_id": "image-3d5222cd426bdb635ce6",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "167e53cb9ade63584c87707949432bcf91bb424bb645481f69a161dcdb70775f",
       "size": 958394,
       "source_url": "https://store.bblcdn.com/s7/default/db61858c6a754aa3ae3749431e13ead2/Cover_3_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/03/03ca6ef24900414a9ef4fb459dcc38a218ffff018cedb44af5c4be1bc1008a19.png",
       "id": "image-display-d74640aff9df8d3325a4",
       "image_processing": {
@@ -206,6 +237,7 @@
       "parent_asset_id": "image-391c59a722cbb735378f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "03ca6ef24900414a9ef4fb459dcc38a218ffff018cedb44af5c4be1bc1008a19",
       "size": 1174887,
       "source_url": "https://store.bblcdn.com/s7/default/3575d3ca3b4c4e3bbb3ae31a0a74ec5d/Cover_2_1.png"
@@ -488,7 +520,8 @@
   "description_text": "Designed for the ultimate display of historical accuracy, the 1/16 scale model was built upon extensive 3D scans and reference photography form the \"Deutsches Panzermuseum Munster\", setting new standards for accuracy and scale fidelity.\n\nThe small Waffenträger looks almost impossibly small parked between the running gear of a Leopard main battle tank. However, the extensive details make it look like a proper airborne warrior instead of a generic mini tank.\n\nAvailable in two iconic variants:\n\nThe original Mk20 entered production late in the Cold War；\n\nThe upgraded 1A4, Introduced in the early 2000s\n\nEven with the small size of the tanks the detail doesn’t suffer. The sloped armor, exposed running gear, bright LEDs, black tracks links and raised weapon station bring the model to life giving it a convincing field- ready look even at close range.\n\nThe German Bundeswehr usualy operated the Waffenträger’s 20mm along with a TOW variant. Creating a duo that easily could take down the lightest and heaviest targets with ease. The models are made to be fully compatible with the MakerWorld Crowdfunded 1A1 and 1A2 TOW for a complete squadron.\n\nThis model is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl032-cyberbrick-wiesel-mk20-1a4-waffentrager",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "CyberBrick Mk20 & 1A4 Waffenträger",
   "offers": [
@@ -500,6 +533,7 @@
       "price": "52.49",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?skr=yes"
     },
     {
@@ -510,6 +544,7 @@
       "price": "71.39",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?skr=yes"
     },
     {
@@ -520,6 +555,7 @@
       "price": "55.29",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?skr=yes"
     },
     {
@@ -530,6 +566,7 @@
       "price": "44.79",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?skr=yes"
     },
     {
@@ -540,6 +577,7 @@
       "price": "87.49",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?skr=yes"
     }
   ],
@@ -631,6 +669,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -641,6 +680,7 @@
       "price": "52.49",
       "region": "us",
       "sku": "759246894491824130",
+      "store_id": "",
       "title": "CyberBrick Mk20 & 1A4 Waffenträger - Yes - Remote Included / Mk20 & 1A4 Waffenträger - Remote included - ZL032",
       "url": "https://us.store.bambulab.com/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?id=759246894491824130",
       "variant_id": "759246894491824130"
@@ -653,6 +693,7 @@
       "price": "34.99",
       "region": "us",
       "sku": "759246894491824135",
+      "store_id": "",
       "title": "CyberBrick Mk20 & 1A4 Waffenträger - No - Vehicle Only / Mk20 & 1A4 Waffenträger -Remote not included- ZL032-1",
       "url": "https://us.store.bambulab.com/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?id=759246894491824135",
       "variant_id": "759246894491824135"
@@ -665,6 +706,7 @@
       "price": "71.39",
       "region": "ca",
       "sku": "759246455763431430",
+      "store_id": "",
       "title": "CyberBrick Mk20 & 1A4 Waffenträger - Yes - Remote Included / Mk20 & 1A4 Waffenträger - Remote included - ZL032",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?id=759246455763431430",
       "variant_id": "759246455763431430"
@@ -677,6 +719,7 @@
       "price": "46.19",
       "region": "ca",
       "sku": "759246455763431435",
+      "store_id": "",
       "title": "CyberBrick Mk20 & 1A4 Waffenträger - No - Vehicle Only / Mk20 & 1A4 Waffenträger -Remote not included- ZL032-1",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?id=759246455763431435",
       "variant_id": "759246455763431435"
@@ -689,6 +732,7 @@
       "price": "55.29",
       "region": "eu",
       "sku": "759247127300800517",
+      "store_id": "",
       "title": "CyberBrick Mk20 & 1A4 Waffenträger - Yes - Remote Included / Mk20 & 1A4 Waffenträger - Remote included - ZL032",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?id=759247127300800517",
       "variant_id": "759247127300800517"
@@ -701,6 +745,7 @@
       "price": "39.19",
       "region": "eu",
       "sku": "759247127300800524",
+      "store_id": "",
       "title": "CyberBrick Mk20 & 1A4 Waffenträger - No - Vehicle Only / Mk20 & 1A4 Waffenträger -Remote not included- ZL032-1",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?id=759247127300800524",
       "variant_id": "759247127300800524"
@@ -713,6 +758,7 @@
       "price": "44.79",
       "region": "uk",
       "sku": "759246677616934917",
+      "store_id": "",
       "title": "CyberBrick Mk20 & 1A4 Waffenträger - Yes - Remote Included / Mk20 & 1A4 Waffenträger - Remote included - ZL032",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?id=759246677616934917",
       "variant_id": "759246677616934917"
@@ -725,6 +771,7 @@
       "price": "30.09",
       "region": "uk",
       "sku": "759246677616934922",
+      "store_id": "",
       "title": "CyberBrick Mk20 & 1A4 Waffenträger - No - Vehicle Only / Mk20 & 1A4 Waffenträger -Remote not included- ZL032-1",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?id=759246677616934922",
       "variant_id": "759246677616934922"
@@ -737,6 +784,7 @@
       "price": "87.49",
       "region": "au",
       "sku": "759243343627612161",
+      "store_id": "",
       "title": "CyberBrick Mk20 & 1A4 Waffenträger - Yes - Remote Included / Mk20 & 1A4 Waffenträger - Remote included - ZL032",
       "url": "https://au.store.bambulab.com/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?id=759243343627612161",
       "variant_id": "759243343627612161"
@@ -749,6 +797,7 @@
       "price": "60.19",
       "region": "au",
       "sku": "759243234672177153",
+      "store_id": "",
       "title": "CyberBrick Mk20 & 1A4 Waffenträger - No - Vehicle Only / Mk20 & 1A4 Waffenträger -Remote not included- ZL032-1",
       "url": "https://au.store.bambulab.com/products/cyberbrick-mk20-1a4-waffentr%C3%A4ger?id=759243234672177153",
       "variant_id": "759243234672177153"

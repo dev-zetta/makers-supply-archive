@@ -4,36 +4,49 @@
     {
       "handle": "bulldozer-cyberbrick-rc",
       "product_id": "657490289236283392",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bulldozer-cyberbrick-rc",
       "product_id": "657489317483073536",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bulldozer-cyberbrick-rc",
       "product_id": "657490414419865600",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bulldozer-cyberbrick-rc",
       "product_id": "657489576937193472",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bulldozer-cyberbrick-rc",
       "product_id": "657489419392598016",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "bulldozer-cyberbrick-rc",
       "product_id": "657160175044386816",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3a/3a62ebe81c1551edd130c7aa74495822596e488430981e59a0bc702e6aa46b43.png",
       "id": "image-8800a732dc9d1667c615",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "Bulldozer.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3a62ebe81c1551edd130c7aa74495822596e488430981e59a0bc702e6aa46b43",
       "size": 2764432,
       "source_url": "https://store.bblcdn.com/s7/default/ee09b59a34604c4cba0826e21f75a663/Bulldozer.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/71/71c13144a8372071842c3a9ad75ac266423adb030dda18668fa8f63d219f7203.png",
       "id": "image-f1d89df7341f1deb14ed",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "7.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "71c13144a8372071842c3a9ad75ac266423adb030dda18668fa8f63d219f7203",
       "size": 1119285,
       "source_url": "https://store.bblcdn.com/s7/default/2141f049f01d47baaa37f05a93a9c3f5/7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/75/752ef6ebf6026ee2824ba4ddf1fcdb0302bca69953e1482afd4a60b1811adcbd.png",
       "id": "image-6972eb52734ce082b51d",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "5.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "752ef6ebf6026ee2824ba4ddf1fcdb0302bca69953e1482afd4a60b1811adcbd",
       "size": 278530,
       "source_url": "https://store.bblcdn.com/s7/default/d61ac462a04f40eda3efe8ae2a5cedc2/5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/98/98b9bea3123dabc33b0aa1e7da0dd566b38358e7a5bbc9d2d4c12163c4beb8e0.png",
       "id": "image-4c976682ef34267ce0f5",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "98b9bea3123dabc33b0aa1e7da0dd566b38358e7a5bbc9d2d4c12163c4beb8e0",
       "size": 347061,
       "source_url": "https://store.bblcdn.com/s7/default/1d07ea02177f41519cdf9a60570fdf4d/2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cc/cc5c55c24ceadb5caf5838951ea60a9952d28a7dc67ca49a8c8be81ce29b4dc2.png",
       "id": "image-7e88e42c513bc4a25112",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cc5c55c24ceadb5caf5838951ea60a9952d28a7dc67ca49a8c8be81ce29b4dc2",
       "size": 319906,
       "source_url": "https://store.bblcdn.com/s7/default/2a40529aa0154db1a4d6d670e875ca5a/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bd/bdba3dbd8ac6e78194f0536fc26f2410df39b6cbfc3e5c49b9e8cc37ab116235.png",
       "id": "image-0440ed65779761c5bc21",
       "kind": "image",
@@ -101,11 +124,13 @@
       "original_filename": "6.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bdba3dbd8ac6e78194f0536fc26f2410df39b6cbfc3e5c49b9e8cc37ab116235",
       "size": 1000010,
       "source_url": "https://store.bblcdn.com/s7/default/850ec4c7194045978b207e2c3e0c6cab/6.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/61/61866c18bbb4c30fcb553fc33c1cd72ab9ef3be128d37f406fa31d2f1fef686c.zip",
       "id": "archive-6d2662f6afb8c9f53d45",
       "kind": "archive",
@@ -113,11 +138,13 @@
       "original_filename": "Assembly_Guide-Bulldozer.zip",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "61866c18bbb4c30fcb553fc33c1cd72ab9ef3be128d37f406fa31d2f1fef686c",
       "size": 11073315,
       "source_url": "https://store.bblcdn.com/s2/default/691bd21eb95e47cd9b6eff76485bf264/Assembly_Guide-Bulldozer.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a0/a0e4bb10d1fafa5e720b09fa5e2655d99af2d2799e52e04bfcd782c64459dcd4.zip",
       "id": "archive-157e997380ab960c228f",
       "kind": "archive",
@@ -125,11 +152,13 @@
       "original_filename": "RC_Framework-Bulldozer.zip",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a0e4bb10d1fafa5e720b09fa5e2655d99af2d2799e52e04bfcd782c64459dcd4",
       "size": 2350,
       "source_url": "https://store.bblcdn.com/s2/default/fce463ae8c9644f384ab84072a3ce768/RC_Framework-Bulldozer.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/19/1993b71788eb9f72fe27a6951c7447b480de8166a7f976fef4a38d4cbb6f185f.png",
       "id": "image-display-5eddad87080eea809fc1",
       "image_processing": {
@@ -147,11 +176,13 @@
       "parent_asset_id": "image-8800a732dc9d1667c615",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1993b71788eb9f72fe27a6951c7447b480de8166a7f976fef4a38d4cbb6f185f",
       "size": 778085,
       "source_url": "https://store.bblcdn.com/s7/default/ee09b59a34604c4cba0826e21f75a663/Bulldozer.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7c/7c40d32d60a6f663f531c82848875e8e840ade847e64a9c2e1509db2ffd5255a.png",
       "id": "image-display-eba17e0c375544ca7ea9",
       "image_processing": {
@@ -169,11 +200,13 @@
       "parent_asset_id": "image-f1d89df7341f1deb14ed",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7c40d32d60a6f663f531c82848875e8e840ade847e64a9c2e1509db2ffd5255a",
       "size": 912080,
       "source_url": "https://store.bblcdn.com/s7/default/2141f049f01d47baaa37f05a93a9c3f5/7.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5a/5a85f8e9bca0f93f7552506ba66ea100b92e1a8fbcac834a0dda137bbd087597.png",
       "id": "image-display-693de1a75f25df3eaba5",
       "image_processing": {
@@ -191,11 +224,13 @@
       "parent_asset_id": "image-6972eb52734ce082b51d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5a85f8e9bca0f93f7552506ba66ea100b92e1a8fbcac834a0dda137bbd087597",
       "size": 224879,
       "source_url": "https://store.bblcdn.com/s7/default/d61ac462a04f40eda3efe8ae2a5cedc2/5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/44/44fcd107ec068d56f178b05332f13c82881a9fc4c16516585ed66abfb6a1cf39.png",
       "id": "image-display-ba3ae80d4e01ee822d59",
       "image_processing": {
@@ -213,11 +248,13 @@
       "parent_asset_id": "image-4c976682ef34267ce0f5",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "44fcd107ec068d56f178b05332f13c82881a9fc4c16516585ed66abfb6a1cf39",
       "size": 284450,
       "source_url": "https://store.bblcdn.com/s7/default/1d07ea02177f41519cdf9a60570fdf4d/2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a8/a811d139299474b3fbcc2a2fca3c825e8ad3c38855f5fa9a87300e6e544f60a8.png",
       "id": "image-display-94c416b335aba0ada2ac",
       "image_processing": {
@@ -235,11 +272,13 @@
       "parent_asset_id": "image-7e88e42c513bc4a25112",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a811d139299474b3fbcc2a2fca3c825e8ad3c38855f5fa9a87300e6e544f60a8",
       "size": 261076,
       "source_url": "https://store.bblcdn.com/s7/default/2a40529aa0154db1a4d6d670e875ca5a/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c0/c017e5cb9f4fca05ed86ab70fabb0fa07f2b3ae89078f1ef7565a8f6e761c5b8.png",
       "id": "image-display-bc660e571f30f50554a2",
       "image_processing": {
@@ -257,6 +296,7 @@
       "parent_asset_id": "image-0440ed65779761c5bc21",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c017e5cb9f4fca05ed86ab70fabb0fa07f2b3ae89078f1ef7565a8f6e761c5b8",
       "size": 824787,
       "source_url": "https://store.bblcdn.com/s7/default/850ec4c7194045978b207e2c3e0c6cab/6.png"
@@ -456,7 +496,8 @@
   "description_text": "Unleash your creativity with the RC Bulldozer, powered by the CyberBrick ecosystem. The bulldozer features smooth controls, durable tracks, and a functional blade for a realistic pushing and maneuvering experience.\n\nNo AMS is required for printing, and all parts fit on the A1 mini! This Bulldozer offers an engaging building experience, culminating in great remote-controlled action. With simplified assembly using the CyberBrick Beginner Hardware Kit, anyone can build and enjoy the fun of this RC Bulldozer!\n\nFind all files and details on its MakerWorld Page.\n\n*For a smooth build, we recommend reviewing the assembly guide first.\n\nThe CyberBrick Bulldozer is not just an RC toy—it's a dynamic platform for creative expression.\n\nAs seen in the images, it features a vibrant \"Sunflower Yellow\" body, customizable lights, controllable ripper attachment, and a fully functional front blade.\n\nReal-World Ready: You can take it outside and interact with gravel and soil. Just like a real-world bulldozer!\n\nEndless Customization: Print gravel or anything else for your own bulldozer. You can find gravel models on its MakerWorld page. Want to try something else? Just search for it on MakerWorld.\n\nMore Than a Model: Tired of organizing small items? Let the mini bulldozer help! It can gather your stuff and even retrieve things from tight spots you can't reach. Let it become your handy little helper!\n\nOfficially Verified Design: Both the model and instruction manual are officially tested to ensure successful printing and smooth assembly.\n\nSimplified Assembly: Requires no supports or glue, and uses snap-fit designs to significantly reduce screw usage, saving your printing and assembly time.\n\nPrinter-Friendly: All parts are designed for easy 3D printing without requiring an AMS (Automatic Material System) and are optimized to fit on any Bambu Lab printers such as A1 mini.\n\nIf charging is required, unplug the 2-pin cable from the back of the bulldozer and plug it into the charger provided in the kit.\n\n*Important: Ensure the switch module is in the ON position to allow charging.\n\nThe Bulldozer is designed to work with the CyberBrick Official Remote. The creator has uploaded pre-configured settings for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions. Visit Wiki\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nExplore the Product Wiki & Documentation\n\nNeed in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nVisit Wiki\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to the Bulldozer.\n\nTo ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product.\n\nIntended Users: This product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use.\n\nFirmware Safety: Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nOperational Safety: Do not touch the moving tracks or wheels while the device is operating to prevent pinching injuries.\n\nBattery & Charging: DO NOT use chargers with output higher than 5V or 2A, only the officially designated battery and charger may be used. Avoid exposing the battery to high temperatures or water.\n\nMaintenance & Storage: Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nOur company is not liable for any equipment damage, failure, fire, or other loss caused by non-compliance with the above requirements.\n\nPlease strictly follow the safety instructions for this product.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl006-bulldozer-cyberbrick-rc",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Bulldozer - CyberBrick RC",
   "offers": [
@@ -468,6 +509,7 @@
       "price": "34.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/bulldozer-cyberbrick-rc?skr=yes"
     },
     {
@@ -478,6 +520,7 @@
       "price": "46.89",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/bulldozer-cyberbrick-rc?skr=yes"
     },
     {
@@ -488,6 +531,7 @@
       "price": "36.39",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/bulldozer-cyberbrick-rc?skr=yes"
     },
     {
@@ -498,6 +542,7 @@
       "price": "29.39",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/bulldozer-cyberbrick-rc?skr=yes"
     },
     {
@@ -508,6 +553,7 @@
       "price": "51.09",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/bulldozer-cyberbrick-rc?skr=yes"
     },
     {
@@ -518,6 +564,7 @@
       "price": "49.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/bulldozer-cyberbrick-rc?skr=yes"
     }
   ],
@@ -599,6 +646,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -611,6 +659,7 @@
       "price": "34.99",
       "region": "us",
       "sku": "657490289290809345",
+      "store_id": "",
       "title": "Bulldozer - CyberBrick RC - Bulldozer - CyberBrick RC (1 Car 1 Remote) - ZL006",
       "url": "https://us.store.bambulab.com/products/bulldozer-cyberbrick-rc?id=657490289290809345",
       "variant_id": "657490289290809345"
@@ -623,6 +672,7 @@
       "price": "46.89",
       "region": "ca",
       "sku": "657489317738926081",
+      "store_id": "",
       "title": "Bulldozer - CyberBrick RC - Bulldozer - CyberBrick RC (1 Car 1 Remote) - ZL006",
       "url": "https://ca.store.bambulab.com/products/bulldozer-cyberbrick-rc?id=657489317738926081",
       "variant_id": "657489317738926081"
@@ -635,6 +685,7 @@
       "price": "36.39",
       "region": "eu",
       "sku": "657490414596026369",
+      "store_id": "",
       "title": "Bulldozer - CyberBrick RC - Bulldozer - CyberBrick RC (1 Car 1 Remote) - ZL006",
       "url": "https://eu.store.bambulab.com/products/bulldozer-cyberbrick-rc?id=657490414596026369",
       "variant_id": "657490414596026369"
@@ -647,6 +698,7 @@
       "price": "29.39",
       "region": "uk",
       "sku": "657489577096577025",
+      "store_id": "",
       "title": "Bulldozer - CyberBrick RC - Bulldozer - CyberBrick RC (1 Car 1 Remote) - ZL006",
       "url": "https://uk.store.bambulab.com/products/bulldozer-cyberbrick-rc?id=657489577096577025",
       "variant_id": "657489577096577025"
@@ -659,6 +711,7 @@
       "price": "51.09",
       "region": "au",
       "sku": "657489419572953089",
+      "store_id": "",
       "title": "Bulldozer - CyberBrick RC - Bulldozer - CyberBrick RC (1 Car 1 Remote) - ZL006",
       "url": "https://au.store.bambulab.com/products/bulldozer-cyberbrick-rc?id=657489419572953089",
       "variant_id": "657489419572953089"
@@ -671,6 +724,7 @@
       "price": "49.99",
       "region": "asia",
       "sku": "657377170360754179",
+      "store_id": "",
       "title": "Bulldozer - CyberBrick RC - Bulldozer - CyberBrick RC (1 Car, 1 Remote) - ZL006",
       "url": "https://asia.store.bambulab.com/products/bulldozer-cyberbrick-rc?id=657377170360754179",
       "variant_id": "657377170360754179"

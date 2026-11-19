@@ -4,41 +4,56 @@
     {
       "handle": "triple-axis-tourbillon-model-components-kit-007",
       "product_id": "7702676635784",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "triple-axis-tourbillon-model-components-kit-007",
       "product_id": "8432223027440",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "triple-axis-tourbillon-model-components-kit-007",
       "product_id": "8662035923292",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "triple-axis-tourbillon-model-components-kit-007",
       "product_id": "7225187074108",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "triple-axis-tourbillon-model-components-kit-007",
       "product_id": "8160582795427",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "triple-axis-tourbillon-model-components-kit-007",
       "product_id": "9030426689828",
-      "region": "jp"
+      "region": "jp",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "triple-axis-tourbillon-model-components-kit-007",
       "product_id": "7340254068851",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/aa/aa777dd46e284c790a40255ad56574b0bff050463fe079ad9ec0314a3bb03a70.png",
       "id": "image-7673395952b659d6ecac",
       "kind": "image",
@@ -46,11 +61,13 @@
       "original_filename": "CP_f2162314-a8eb-4d6f-b07a-f80191d3657c.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "aa777dd46e284c790a40255ad56574b0bff050463fe079ad9ec0314a3bb03a70",
       "size": 1145388,
       "source_url": "https://store.bblcdn.com/s7/default/acb7cc79cb3143a6a4e1deb44ad8662b/CP_f2162314-a8eb-4d6f-b07a-f80191d3657c.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/94/942b3482420bc2b118a6618489bd6ef257e841be5e0d3b02140c4b8f85347b42.png",
       "id": "image-a48282654a19eaef5ebd",
       "kind": "image",
@@ -58,11 +75,13 @@
       "original_filename": "1bca5c0ed53efc8db1e7347460a9ef00.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "942b3482420bc2b118a6618489bd6ef257e841be5e0d3b02140c4b8f85347b42",
       "size": 1006057,
       "source_url": "https://store.bblcdn.com/s7/default/02b0f20ac9954dc29ce123b4a0c5b179/1bca5c0ed53efc8db1e7347460a9ef00.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/49/49b4681069563c53f77ca57cac449513539e8919b899c254afc6c756d2f856ba.png",
       "id": "image-eb3d695d6345947bb1e8",
       "kind": "image",
@@ -70,11 +89,13 @@
       "original_filename": "CP_41043c1b-2fd0-43e9-9358-4af2f4655fa3.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "49b4681069563c53f77ca57cac449513539e8919b899c254afc6c756d2f856ba",
       "size": 576539,
       "source_url": "https://store.bblcdn.com/s7/default/cc47224370084e8fa78ba8bf4e207c1c/CP_41043c1b-2fd0-43e9-9358-4af2f4655fa3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d3/d3f929ea6f774dec90aef5a1d358e07ee6e4fa91cca3745f40d7c88646eac25e.zip",
       "id": "archive-4c5d5de1167a6466d849",
       "kind": "archive",
@@ -82,11 +103,13 @@
       "original_filename": "Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d3f929ea6f774dec90aef5a1d358e07ee6e4fa91cca3745f40d7c88646eac25e",
       "size": 6235757,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/6mm Stainless Steel Balls - FA001/6mm Stainless Steel Balls - FA001.stl",
       "blob_path": "data/blobs/sha256/52/526ff1e8055c869cc3bbfa9e9d590834db668da4dc8533d89f8b587b4c9cb950.stl",
       "id": "model-5e84d7ba4db369c13b87",
@@ -96,11 +119,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "526ff1e8055c869cc3bbfa9e9d590834db668da4dc8533d89f8b587b4c9cb950",
       "size": 503624,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/6mm Stainless Steel Balls - FA001/6mm Stainless Steel Balls - FA001.stp",
       "blob_path": "data/blobs/sha256/25/2538cf15431492d7a3d38f7c206a1de53d8748b2dbffe3a8b0e9c1459bce5e03.stp",
       "id": "model-57da13e92acce0cc0c16",
@@ -110,11 +135,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2538cf15431492d7a3d38f7c206a1de53d8748b2dbffe3a8b0e9c1459bce5e03",
       "size": 20335,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Brass Dowel Pin/2x13 mm - DA004/2x13 mm - DA004.stl",
       "blob_path": "data/blobs/sha256/09/0981b42c2552173ce5a319f019150f01b21384fc08e885f8405763a1d79a820c.stl",
       "id": "model-040bef8b62f4f5f32e3c",
@@ -124,11 +151,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0981b42c2552173ce5a319f019150f01b21384fc08e885f8405763a1d79a820c",
       "size": 2284,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Brass Dowel Pin/2x13 mm - DA004/2x13 mm - DA004.stp",
       "blob_path": "data/blobs/sha256/9b/9b7336139e6ab65cb51ffe17f968d4501f008c6d9a1bca086cf344348f45d485.stp",
       "id": "model-47ceafd6708d2e9306fb",
@@ -138,11 +167,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9b7336139e6ab65cb51ffe17f968d4501f008c6d9a1bca086cf344348f45d485",
       "size": 22238,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Brass Dowel Pin/2x22mm - DA005/2x22mm - DA005.stl",
       "blob_path": "data/blobs/sha256/39/39b01233eb66a2baaa6eb96cb91bc20400f99061ce543381e7ed3312754167ca.stl",
       "id": "model-207e1fe5141f966fc048",
@@ -152,11 +183,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "39b01233eb66a2baaa6eb96cb91bc20400f99061ce543381e7ed3312754167ca",
       "size": 3884,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Brass Dowel Pin/2x22mm - DA005/2x22mm - DA005.stp",
       "blob_path": "data/blobs/sha256/21/210afc4ece4fc66a219acd220d48865aa28e081031611da5c972fabb6130be70.stp",
       "id": "model-fb70ab4c843f68eacc91",
@@ -166,11 +199,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "210afc4ece4fc66a219acd220d48865aa28e081031611da5c972fabb6130be70",
       "size": 22238,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Brass Dowel Pin/2x33mm - DA006/2x33mm - DA006.stl",
       "blob_path": "data/blobs/sha256/0f/0f7c9d793d7edbdbaad95386587127472b0b60e6ce82afa29a94fdb86ddcc23e.stl",
       "id": "model-c5dc173def0a37dc15dc",
@@ -180,11 +215,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0f7c9d793d7edbdbaad95386587127472b0b60e6ce82afa29a94fdb86ddcc23e",
       "size": 1884,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Brass Dowel Pin/2x33mm - DA006/2x33mm - DA006.stp",
       "blob_path": "data/blobs/sha256/cb/cba2f6042cdf7bbdfad6dc5e5e2e48062ad767f1afd06fe0e467f04751284bcf.stp",
       "id": "model-bdb0def61dc9d0992387",
@@ -194,11 +231,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cba2f6042cdf7bbdfad6dc5e5e2e48062ad767f1afd06fe0e467f04751284bcf",
       "size": 22237,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2 SHCS Machine Screw/M2×10 - AA151/M2x10 SHCS Machine Screw  - AA151.STEP",
       "blob_path": "data/blobs/sha256/05/059adcc2049a86113e59087f755135447de8dcc095a6acae29d8ff1077e92400.step",
       "id": "model-29743e632ea9eb3486b3",
@@ -208,11 +247,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "059adcc2049a86113e59087f755135447de8dcc095a6acae29d8ff1077e92400",
       "size": 39712,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2 SHCS Machine Screw/M2×10 - AA151/M2x10 SHCS Machine Screw  - AA151.STL",
       "blob_path": "data/blobs/sha256/31/31167bc32895e1518208566db60da257e2a0a9be776690295a58ff5fc52e6c09.stl",
       "id": "model-a56db29bbcbeef7ab9a6",
@@ -222,11 +263,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "31167bc32895e1518208566db60da257e2a0a9be776690295a58ff5fc52e6c09",
       "size": 51284,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2 SHCS Machine Screw/M2×12 - AA024/M2x12 SHCS Machine Screw  - AA024.stl",
       "blob_path": "data/blobs/sha256/03/0308e6a23f43972bd52bd5d51e24f932c693186e122c5e2d09151d0eb2108ed9.stl",
       "id": "model-d972f38e5bbfbb5a2145",
@@ -236,11 +279,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0308e6a23f43972bd52bd5d51e24f932c693186e122c5e2d09151d0eb2108ed9",
       "size": 29184,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2 SHCS Machine Screw/M2×12 - AA024/M2x12 SHCS Machine Screw  - AA024.stp",
       "blob_path": "data/blobs/sha256/e3/e358ab97ab7ce6cb5dff2f914c4e6978ed6cc8d24cab23da4012b3e66ed91f1a.stp",
       "id": "model-7d156b356949cba6f887",
@@ -250,11 +295,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e358ab97ab7ce6cb5dff2f914c4e6978ed6cc8d24cab23da4012b3e66ed91f1a",
       "size": 16419,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2 SHCS Machine Screw/M2×14 - AA152/M2x14 SHCS Machine Screw  - AA152.STEP",
       "blob_path": "data/blobs/sha256/24/242e3232a9efec61c2a0633f87f5fbab747a9dbb9a673e9259eddd9955fb9a5a.step",
       "id": "model-d46ef9f60a3647f8f5c6",
@@ -264,11 +311,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "242e3232a9efec61c2a0633f87f5fbab747a9dbb9a673e9259eddd9955fb9a5a",
       "size": 39732,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2 SHCS Machine Screw/M2×14 - AA152/M2x14 SHCS Machine Screw  - AA152.STL",
       "blob_path": "data/blobs/sha256/bd/bd77549a2fd9effae2cbb7ecd77f0535c76419f77b63cc127efd5542085678af.stl",
       "id": "model-b90e4d2ae6e7a7125ec1",
@@ -278,11 +327,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bd77549a2fd9effae2cbb7ecd77f0535c76419f77b63cc127efd5542085678af",
       "size": 39584,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2 SHCS Machine Screw/M2×6 - AA022/M2x6 SHCS Machine Screw  - AA022.stl",
       "blob_path": "data/blobs/sha256/99/99234ff1d9814d63512d2bd834644fe493049c0a984f54735ff0277f599d62f0.stl",
       "id": "model-2a7fb043153f2a1e1dc7",
@@ -292,11 +343,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "99234ff1d9814d63512d2bd834644fe493049c0a984f54735ff0277f599d62f0",
       "size": 29184,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2 SHCS Machine Screw/M2×6 - AA022/M2x6 SHCS Machine Screw  - AA022.stp",
       "blob_path": "data/blobs/sha256/76/76b2ef5224f2fdfdbc4f6ff87c915fd967e7610b1b15ca4b90806c9031c3b65f.stp",
       "id": "model-7442da4a5d69519292a1",
@@ -306,11 +359,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "76b2ef5224f2fdfdbc4f6ff87c915fd967e7610b1b15ca4b90806c9031c3b65f",
       "size": 16420,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2 SHCS Machine Screw/M2×8 - AA023/M2x8 SHCS Machine Screw  - AA023.stl",
       "blob_path": "data/blobs/sha256/7f/7f5a4875185a93b5c932448668bfb48206c5407a808ef629c37ab555e8d49dc0.stl",
       "id": "model-181740d48d8e794bd1a9",
@@ -320,11 +375,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7f5a4875185a93b5c932448668bfb48206c5407a808ef629c37ab555e8d49dc0",
       "size": 29184,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2 SHCS Machine Screw/M2×8 - AA023/M2x8 SHCS Machine Screw  - AA023.stp",
       "blob_path": "data/blobs/sha256/14/141d395409640f28052466393f370f5e4c21d7616353a0bfc25deac772743e26.stp",
       "id": "model-bfcdeb0832c324bd4908",
@@ -334,11 +391,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "141d395409640f28052466393f370f5e4c21d7616353a0bfc25deac772743e26",
       "size": 16463,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2.5 Button Head Cap Machine Screws (BHCS)/M2.5x6 BHCS - AA013/M2.5x6 BHCS - AA013.stl",
       "blob_path": "data/blobs/sha256/33/3326034ca6c67bbb43c0c2036f63076950ea0f0db298fb6426089a0639efe9e4.stl",
       "id": "model-6feb14214be7566f8379",
@@ -348,11 +407,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3326034ca6c67bbb43c0c2036f63076950ea0f0db298fb6426089a0639efe9e4",
       "size": 1075684,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M2.5 Button Head Cap Machine Screws (BHCS)/M2.5x6 BHCS - AA013/M2.5x6 BHCS - AA013.stp",
       "blob_path": "data/blobs/sha256/3b/3b4c15d50e72fe3dec5759369041b9a6a69732d3caaa7795388053ada15a21a7.stp",
       "id": "model-0b8b426683ae9cb00e87",
@@ -362,11 +423,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3b4c15d50e72fe3dec5759369041b9a6a69732d3caaa7795388053ada15a21a7",
       "size": 63646,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M3 Socket Head Cap Machine Screws (SHCS)/M3x23 SHCS - AA003/M3x23 SHCS - AA003.stl",
       "blob_path": "data/blobs/sha256/d8/d879032581b81692262758f60aab20767d16fa222b5ac73d99c1990f1126c5f8.stl",
       "id": "model-81dbab856bec5c6d924b",
@@ -376,11 +439,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d879032581b81692262758f60aab20767d16fa222b5ac73d99c1990f1126c5f8",
       "size": 736984,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M3 Socket Head Cap Machine Screws (SHCS)/M3x23 SHCS - AA003/M3x23 SHCS - AA003.stp",
       "blob_path": "data/blobs/sha256/75/7534a25c3eb13f6bb65f9b3a418d4903694388b93e52a50ba75741deeeb7ffdf.stp",
       "id": "model-3b2ebb33f0bdd5d1e599",
@@ -390,11 +455,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7534a25c3eb13f6bb65f9b3a418d4903694388b93e52a50ba75741deeeb7ffdf",
       "size": 86399,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Micro Steel Deep Groove Ball Bearings/MR128ZZ - EA004/MR128ZZ - EA004.step",
       "blob_path": "data/blobs/sha256/19/19ad7d22cd4a775e264e7e983107cadf59c8e7265d3b9fa04e405b7a9cb930cd.step",
       "id": "model-e2188f823cdfe7df5c8b",
@@ -404,11 +471,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "19ad7d22cd4a775e264e7e983107cadf59c8e7265d3b9fa04e405b7a9cb930cd",
       "size": 1718508,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Micro Steel Deep Groove Ball Bearings/MR128ZZ - EA004/MR128ZZ - EA004.stl",
       "blob_path": "data/blobs/sha256/bf/bf3cf8379df1bed013be4956a2807cb9a606a678ee6c2fece6d388a25d7903d0.stl",
       "id": "model-2979945a5fa818b53bdb",
@@ -418,11 +487,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bf3cf8379df1bed013be4956a2807cb9a606a678ee6c2fece6d388a25d7903d0",
       "size": 9065984,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Micro Steel Deep Groove Ball Bearings/MR52 - EA003/MR52 - EA003.stl",
       "blob_path": "data/blobs/sha256/79/797cdb094eb6e1d98dc6494f49880841e5e5cb34c1e1e1892daae27cda5257a9.stl",
       "id": "model-24bd011aa433135ec5ee",
@@ -432,11 +503,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "797cdb094eb6e1d98dc6494f49880841e5e5cb34c1e1e1892daae27cda5257a9",
       "size": 2696884,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Micro Steel Deep Groove Ball Bearings/MR52 - EA003/MR52 - EA003.stp",
       "blob_path": "data/blobs/sha256/e9/e9b89ca13d1cd3024211ed00f38e672b2615fcf10b89c652a17489b80570afbd.stp",
       "id": "model-16c39d9d9bc4f72966be",
@@ -446,11 +519,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e9b89ca13d1cd3024211ed00f38e672b2615fcf10b89c652a17489b80570afbd",
       "size": 502083,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Miniature Plane Thrust Ball Bearing/F8-14M Miniature Plane - EB001/F8-14M Miniature Plane - EB001.stl",
       "blob_path": "data/blobs/sha256/b7/b7f13fd77f59b971f9c517dc6734b2c30ed617a1517281e1e5474cb963538e6a.stl",
       "id": "model-517318e40dc0eb1d0aab",
@@ -460,11 +535,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b7f13fd77f59b971f9c517dc6734b2c30ed617a1517281e1e5474cb963538e6a",
       "size": 264684,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Miniature Plane Thrust Ball Bearing/F8-14M Miniature Plane - EB001/F8-14M Miniature Plane - EB001.stp",
       "blob_path": "data/blobs/sha256/0c/0ce7d4edc5cc84453a38d2e9371565282475146b68d099785b5bee5a8d665a97.stp",
       "id": "model-fecbe705a97706451c58",
@@ -474,11 +551,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0ce7d4edc5cc84453a38d2e9371565282475146b68d099785b5bee5a8d665a97",
       "size": 271671,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Steel Deep Groove Ball Bearings/6704zz - EA005/6704 - EA005.stl",
       "blob_path": "data/blobs/sha256/9c/9cc3736e952e462b7a34c02a87c6e102b5b5263ea4edc8f7fdfd9eb56fd675fa.stl",
       "id": "model-eaad356dbbf9fdcd7212",
@@ -488,11 +567,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9cc3736e952e462b7a34c02a87c6e102b5b5263ea4edc8f7fdfd9eb56fd675fa",
       "size": 2215384,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Steel Deep Groove Ball Bearings/6704zz - EA005/6704 - EA005.stp",
       "blob_path": "data/blobs/sha256/04/0427752bc9db1b134353e15ce2cf20ad23701b9b546fa54fda7d346bf860ab81.stp",
       "id": "model-6776924523f6d2260e78",
@@ -502,11 +583,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0427752bc9db1b134353e15ce2cf20ad23701b9b546fa54fda7d346bf860ab81",
       "size": 628753,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/TT Motor (DC5V 59RPM CCW Single Axis)/TT Motor - LA001.stl",
       "blob_path": "data/blobs/sha256/aa/aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c.stl",
       "id": "model-94d63517220687806fb2",
@@ -516,11 +599,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "aaced33b91a66bb73a1ab04cb43d4bcfaf32997a73e154143936bd219dc1429c",
       "size": 4143684,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/TT Motor (DC5V 59RPM CCW Single Axis)/TT Motor - LA001.stp",
       "blob_path": "data/blobs/sha256/a0/a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c.stp",
       "id": "model-ef972535629721c87681",
@@ -530,11 +615,13 @@
       "parent_asset_id": "archive-4c5d5de1167a6466d849",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a0883b4e12ae90cfa2a5e839e5f13b7b73fad53f718ce474bf08d35e27b70a0c",
       "size": 199317,
       "source_url": "https://store.bblcdn.com/s7/default/382a9750d99648febaf2490a33d9d25e/Triple-axis_Tourbillon_Model_Components_Kit_-MH007_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b4/b4e6961ad719f1f54fe4a92c3040935f0eee4124b7e1a0b0571a497f0e8e8994.png",
       "id": "image-display-09edf1677fbebdd23721",
       "image_processing": {
@@ -552,11 +639,13 @@
       "parent_asset_id": "image-7673395952b659d6ecac",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b4e6961ad719f1f54fe4a92c3040935f0eee4124b7e1a0b0571a497f0e8e8994",
       "size": 290663,
       "source_url": "https://store.bblcdn.com/s7/default/acb7cc79cb3143a6a4e1deb44ad8662b/CP_f2162314-a8eb-4d6f-b07a-f80191d3657c.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0b/0bc112633ba08d3274599c3b475482a8f1b98092e6c1db5c40559eea2404d946.png",
       "id": "image-display-09924198bb99bb75f9e0",
       "image_processing": {
@@ -574,11 +663,13 @@
       "parent_asset_id": "image-a48282654a19eaef5ebd",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0bc112633ba08d3274599c3b475482a8f1b98092e6c1db5c40559eea2404d946",
       "size": 227275,
       "source_url": "https://store.bblcdn.com/s7/default/02b0f20ac9954dc29ce123b4a0c5b179/1bca5c0ed53efc8db1e7347460a9ef00.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/26/266916df0769b2d8a7d72e0396c84aaaf5b614993e0b35edae69c72f9b8fe62f.png",
       "id": "image-display-3ab81716c90b390e2574",
       "image_processing": {
@@ -596,6 +687,7 @@
       "parent_asset_id": "image-eb3d695d6345947bb1e8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "266916df0769b2d8a7d72e0396c84aaaf5b614993e0b35edae69c72f9b8fe62f",
       "size": 171858,
       "source_url": "https://store.bblcdn.com/s7/default/cc47224370084e8fa78ba8bf4e207c1c/CP_41043c1b-2fd0-43e9-9358-4af2f4655fa3.png"
@@ -739,7 +831,8 @@
   "description_text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of Triple-axis Tourbillon Model and obtain detailed information, please visit the Triple-axis Tourbillon Model on MakerWorld.\n\n1. Please power the device using a USB power supply with the specified voltage.\n\n2. Please test the operation of the mechanism by rotating the control handle before powering. After powering, verify the operational status of the motor and be cautious to prevent motor blockage.\n\n3. It is recommended to use indoors at room temperature.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "triple-axis-tourbillon-model-components-kit-007",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Triple-axis Tourbillon Model Components Kit 007",
   "offers": [
@@ -751,6 +844,7 @@
       "price": "35.2",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/triple-axis-tourbillon-model-components-kit-007?skr=yes"
     },
     {
@@ -761,6 +855,7 @@
       "price": "40.8",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/triple-axis-tourbillon-model-components-kit-007?skr=yes"
     },
     {
@@ -771,6 +866,7 @@
       "price": "34.4",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/triple-axis-tourbillon-model-components-kit-007?skr=yes"
     },
     {
@@ -781,6 +877,7 @@
       "price": "28.8",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/triple-axis-tourbillon-model-components-kit-007?skr=yes"
     },
     {
@@ -791,6 +888,7 @@
       "price": "52",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/triple-axis-tourbillon-model-components-kit-007?skr=yes"
     },
     {
@@ -801,6 +899,7 @@
       "price": "6600",
       "region": "jp",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://jp.store.bambulab.com/en/products/triple-axis-tourbillon-model-components-kit-007?skr=yes"
     },
     {
@@ -811,6 +910,7 @@
       "price": "32",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/triple-axis-tourbillon-model-components-kit-007?skr=yes"
     }
   ],
@@ -960,6 +1060,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -972,6 +1073,7 @@
       "price": "35.2",
       "region": "us",
       "sku": "41806964097160",
+      "store_id": "",
       "title": "Triple-axis Tourbillon Model Components Kit 007 - Triple-axis Tourbillon Model Components Kit (1pcs)-MH007",
       "url": "https://us.store.bambulab.com/products/triple-axis-tourbillon-model-components-kit-007?id=41806964097160",
       "variant_id": "41806964097160"
@@ -984,6 +1086,7 @@
       "price": "40.8",
       "region": "ca",
       "sku": "45125804851440",
+      "store_id": "",
       "title": "Triple-axis Tourbillon Model Components Kit 007 - Triple-axis Tourbillon Model Components Kit (1pcs)-MH007",
       "url": "https://ca.store.bambulab.com/products/triple-axis-tourbillon-model-components-kit-007?id=45125804851440",
       "variant_id": "45125804851440"
@@ -996,6 +1099,7 @@
       "price": "34.4",
       "region": "eu",
       "sku": "47700132266332",
+      "store_id": "",
       "title": "Triple-axis Tourbillon Model Components Kit 007 - Triple-axis Tourbillon Model Components Kit (1pcs)-MH007",
       "url": "https://eu.store.bambulab.com/products/triple-axis-tourbillon-model-components-kit-007?id=47700132266332",
       "variant_id": "47700132266332"
@@ -1008,6 +1112,7 @@
       "price": "28.8",
       "region": "uk",
       "sku": "41081432703036",
+      "store_id": "",
       "title": "Triple-axis Tourbillon Model Components Kit 007 - Triple-axis Tourbillon Model Components Kit (1pcs)-MH007",
       "url": "https://uk.store.bambulab.com/products/triple-axis-tourbillon-model-components-kit-007?id=41081432703036",
       "variant_id": "41081432703036"
@@ -1020,6 +1125,7 @@
       "price": "52",
       "region": "au",
       "sku": "44044739510435",
+      "store_id": "",
       "title": "Triple-axis Tourbillon Model Components Kit 007 - Triple-axis Tourbillon Model Components Kit (1pcs)-MH007",
       "url": "https://au.store.bambulab.com/products/triple-axis-tourbillon-model-components-kit-007?id=44044739510435",
       "variant_id": "44044739510435"
@@ -1031,6 +1137,7 @@
       "price": "6600",
       "region": "jp",
       "sku": "708531972859531265",
+      "store_id": "",
       "title": "3軸トゥールビヨンモデルキット 007 - スタンダード",
       "url": "https://jp.store.bambulab.com/products/triple-axis-tourbillon-model-components-kit-007?id=708531972859531265",
       "variant_id": "708531972859531265"
@@ -1043,6 +1150,7 @@
       "price": "32",
       "region": "asia",
       "sku": "41368449777779",
+      "store_id": "",
       "title": "Triple-axis Tourbillon Model Components Kit 007 - Triple-axis Tourbillon Model Components Kit (1pcs)-MH007",
       "url": "https://asia.store.bambulab.com/products/triple-axis-tourbillon-model-components-kit-007?id=41368449777779",
       "variant_id": "41368449777779"

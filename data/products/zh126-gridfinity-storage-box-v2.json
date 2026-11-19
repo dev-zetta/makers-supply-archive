@@ -4,36 +4,49 @@
     {
       "handle": "gridfinity-storage-box-v2",
       "product_id": "712451955979325440",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gridfinity-storage-box-v2",
       "product_id": "712498450714689536",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gridfinity-storage-box-v2",
       "product_id": "712456191439712256",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gridfinity-storage-box-v2",
       "product_id": "712496559331557376",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gridfinity-storage-box-v2",
       "product_id": "712502516917391360",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gridfinity-storage-box-v2",
       "product_id": "711469848242020352",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4e/4ec2f6037fdf2732b69aaaa79b3967291bdfe29c8812ede4cb5d88cb8531eac9.png",
       "id": "image-06106bbc5a86ff47461a",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH126.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4ec2f6037fdf2732b69aaaa79b3967291bdfe29c8812ede4cb5d88cb8531eac9",
       "size": 3847543,
       "source_url": "https://store.bblcdn.com/s7/default/001f9136d07a46e7a150adda583091c4/B-ZH126.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7d/7d6b3a84f34817d1b532be67556c755b6337b8ba28d96781b2e939bd4ed6242c.png",
       "id": "image-63b761660ea4ee394389",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH126_V.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7d6b3a84f34817d1b532be67556c755b6337b8ba28d96781b2e939bd4ed6242c",
       "size": 112092,
       "source_url": "https://store.bblcdn.com/s7/default/efae1dd9f472461d842664c8503fff2e/B-ZH126_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/70/70372c8776b0c2937b57b03eaa957683231a40e2bf8ad5135ed1f04a13d19a05.png",
       "id": "image-display-5ada27d1f5c3c3a082c3",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-06106bbc5a86ff47461a",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "70372c8776b0c2937b57b03eaa957683231a40e2bf8ad5135ed1f04a13d19a05",
       "size": 1128687,
       "source_url": "https://store.bblcdn.com/s7/default/001f9136d07a46e7a150adda583091c4/B-ZH126.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e7/e7755688ba45845c6e57d8d3c383b2db61599ead6082b685fa734e4adc479511.png",
       "id": "image-display-51fd6a49ae896e2ec6b8",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-63b761660ea4ee394389",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e7755688ba45845c6e57d8d3c383b2db61599ead6082b685fa734e4adc479511",
       "size": 26588,
       "source_url": "https://store.bblcdn.com/s7/default/efae1dd9f472461d842664c8503fff2e/B-ZH126_V.png"
@@ -148,7 +168,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Gridfinity Storage Box V2. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Gridfinity Storage Box V2 on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh126-gridfinity-storage-box-v2",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Gridfinity Storage Box V2",
   "offers": [
@@ -160,6 +181,7 @@
       "price": "1.54",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/gridfinity-storage-box-v2?skr=yes"
     },
     {
@@ -170,6 +192,7 @@
       "price": "1.77",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/gridfinity-storage-box-v2?skr=yes"
     },
     {
@@ -180,6 +203,7 @@
       "price": "1.45",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/gridfinity-storage-box-v2?skr=yes"
     },
     {
@@ -190,6 +214,7 @@
       "price": "1.23",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/gridfinity-storage-box-v2?skr=yes"
     },
     {
@@ -200,6 +225,7 @@
       "price": "2.78",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/gridfinity-storage-box-v2?skr=yes"
     },
     {
@@ -210,6 +236,7 @@
       "price": "1.4",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/gridfinity-storage-box-v2?skr=yes"
     }
   ],
@@ -255,6 +282,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -267,6 +295,7 @@
       "price": "1.54",
       "region": "us",
       "sku": "712451955991908354",
+      "store_id": "",
       "title": "Gridfinity Storage Box V2 - Gridfinity Storage Box V2 - ZH126",
       "url": "https://us.store.bambulab.com/products/gridfinity-storage-box-v2?id=712451955991908354",
       "variant_id": "712451955991908354"
@@ -279,6 +308,7 @@
       "price": "1.77",
       "region": "ca",
       "sku": "712498450731466754",
+      "store_id": "",
       "title": "Gridfinity Storage Box V2 - Gridfinity Storage Box V2 - ZH126",
       "url": "https://ca.store.bambulab.com/products/gridfinity-storage-box-v2?id=712498450731466754",
       "variant_id": "712498450731466754"
@@ -291,6 +321,7 @@
       "price": "1.45",
       "region": "eu",
       "sku": "712456191460683778",
+      "store_id": "",
       "title": "Gridfinity Storage Box V2 - Gridfinity Storage Box V2 - ZH126",
       "url": "https://eu.store.bambulab.com/products/gridfinity-storage-box-v2?id=712456191460683778",
       "variant_id": "712456191460683778"
@@ -303,6 +334,7 @@
       "price": "1.23",
       "region": "uk",
       "sku": "712496559348334594",
+      "store_id": "",
       "title": "Gridfinity Storage Box V2 - Gridfinity Storage Box V2 - ZH126",
       "url": "https://uk.store.bambulab.com/products/gridfinity-storage-box-v2?id=712496559348334594",
       "variant_id": "712496559348334594"
@@ -315,6 +347,7 @@
       "price": "2.78",
       "region": "au",
       "sku": "712502516934168578",
+      "store_id": "",
       "title": "Gridfinity Storage Box V2 - Gridfinity Storage Box V2 - ZH126",
       "url": "https://au.store.bambulab.com/products/gridfinity-storage-box-v2?id=712502516934168578",
       "variant_id": "712502516934168578"
@@ -327,6 +360,7 @@
       "price": "1.4",
       "region": "asia",
       "sku": "711469848258797570",
+      "store_id": "",
       "title": "Gridfinity Storage Box V2 - Gridfinity Storage Box V2 - ZH126",
       "url": "https://asia.store.bambulab.com/products/gridfinity-storage-box-v2?id=711469848258797570",
       "variant_id": "711469848258797570"

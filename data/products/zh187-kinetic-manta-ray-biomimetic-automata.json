@@ -4,36 +4,49 @@
     {
       "handle": "kinetic-manta-ray-biomimetic-automata",
       "product_id": "789985382509846528",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "kinetic-manta-ray-biomimetic-automata",
       "product_id": "789984458550812672",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "kinetic-manta-ray-biomimetic-automata",
       "product_id": "789985915249405952",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "kinetic-manta-ray-biomimetic-automata",
       "product_id": "789984939872362496",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "kinetic-manta-ray-biomimetic-automata",
       "product_id": "789983981192921088",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "kinetic-manta-ray-biomimetic-automata",
       "product_id": "788639559108837376",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/22/225ecf1ecceca71cd8237dcad4fb1f671453cc3ca88eab311780ba0253c0a504.jpg",
       "id": "image-8dea61da63eb99cf21cc",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH187_battery_edition.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "225ecf1ecceca71cd8237dcad4fb1f671453cc3ca88eab311780ba0253c0a504",
       "size": 347130,
       "source_url": "https://store.bblcdn.com/s7/default/34121385e52845229a3de02748acc934/B-ZH187_battery_edition.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b5/b5295dcf05df615689f7574e079ad08843fca1533af51c977284cdf7cf07810b.jpg",
       "id": "image-844b3ceceeb2df3981f1",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH186.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b5295dcf05df615689f7574e079ad08843fca1533af51c977284cdf7cf07810b",
       "size": 269314,
       "source_url": "https://store.bblcdn.com/s7/default/4ab696576d2e47a7aba7c94aceb73511/B-ZH186.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/51/51c0736c1b078ea4056507e649ea10c6395ce7b9cc9132f0f99d768defb662bf.png",
       "id": "image-d462cc8f3704a83bd089",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "KV_WITH_MARK.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "51c0736c1b078ea4056507e649ea10c6395ce7b9cc9132f0f99d768defb662bf",
       "size": 2592537,
       "source_url": "https://store.bblcdn.com/s7/default/e7296bd4b44b4cdbb12913ccb3b36c90/KV_WITH_MARK.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3f/3fa7cb1a04752d4210bc1b145e0576b7bf0df4f1dc52ca3503d70acd35a718b0.png",
       "id": "image-display-9c841346f6724229fdf2",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-8dea61da63eb99cf21cc",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3fa7cb1a04752d4210bc1b145e0576b7bf0df4f1dc52ca3503d70acd35a718b0",
       "size": 100594,
       "source_url": "https://store.bblcdn.com/s7/default/34121385e52845229a3de02748acc934/B-ZH187_battery_edition.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0d/0dfd876eda8016766b64706cae6a3081f08c0829e19018da1418ab545b7be65e.png",
       "id": "image-display-a8dda0b0f620ec1ec1c1",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-844b3ceceeb2df3981f1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0dfd876eda8016766b64706cae6a3081f08c0829e19018da1418ab545b7be65e",
       "size": 77642,
       "source_url": "https://store.bblcdn.com/s7/default/4ab696576d2e47a7aba7c94aceb73511/B-ZH186.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/af/afba06803feadfd3d2812b7d880bf2eb5f929a89147615af718bf65e6ac3e910.png",
       "id": "image-display-1ef51877604657c41676",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-d462cc8f3704a83bd089",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "afba06803feadfd3d2812b7d880bf2eb5f929a89147615af718bf65e6ac3e910",
       "size": 659697,
       "source_url": "https://store.bblcdn.com/s7/default/e7296bd4b44b4cdbb12913ccb3b36c90/KV_WITH_MARK.png"
@@ -299,7 +323,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Kinetic Manta Ray - Biomimetic Automata. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Kinetic Manta Ray - Biomimetic Automata on MakerWorld.\n\n01 / LEFT Battery Edition 02 / RIGHT USB Edition\n\n01 / LEFT Battery Edition\n\n02 / RIGHT USB Edition\n\nNote: This model requires the 150rpm N20 motor (LA002) listed above. The 500rpm N20 motor included in the Rechargeable Power Kit is not suitable for this model.\n\nAll required cables are included. IA005 includes a USB-A power cable, a PH2.0 cable pair, and SH1.0 jumper wires; LA002 includes an SH1.0 cable pair; IA006 and IA007 each include an SH1.0 cable pair. Components are included according to the edition lists above.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zh187-kinetic-manta-ray-biomimetic-automata",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Kinetic Manta Ray - Biomimetic Automata",
   "offers": [
@@ -311,6 +336,7 @@
       "price": "33.99",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
     },
     {
@@ -321,6 +347,7 @@
       "price": "39.99",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
     },
     {
@@ -331,6 +358,7 @@
       "price": "32.99",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
     },
     {
@@ -341,6 +369,7 @@
       "price": "27.99",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
     },
     {
@@ -351,6 +380,7 @@
       "price": "63.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
     },
     {
@@ -361,6 +391,7 @@
       "price": "29.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/kinetic-manta-ray-biomimetic-automata?skr=yes"
     }
   ],
@@ -483,6 +514,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -495,6 +527,7 @@
       "price": "33.99",
       "region": "us",
       "sku": "789985382522429443",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
       "url": "https://us.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789985382522429443",
       "variant_id": "789985382522429443"
@@ -507,6 +540,7 @@
       "price": "20.99",
       "region": "us",
       "sku": "789985382522429447",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
       "url": "https://us.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789985382522429447",
       "variant_id": "789985382522429447"
@@ -519,6 +553,7 @@
       "price": "39.99",
       "region": "ca",
       "sku": "789984458559201283",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
       "url": "https://ca.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789984458559201283",
       "variant_id": "789984458559201283"
@@ -531,6 +566,7 @@
       "price": "25.99",
       "region": "ca",
       "sku": "789984458559201287",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
       "url": "https://ca.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789984458559201287",
       "variant_id": "789984458559201287"
@@ -543,6 +579,7 @@
       "price": "32.99",
       "region": "eu",
       "sku": "789985915282960387",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
       "url": "https://eu.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789985915282960387",
       "variant_id": "789985915282960387"
@@ -555,6 +592,7 @@
       "price": "22.99",
       "region": "eu",
       "sku": "789985915287154690",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
       "url": "https://eu.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789985915287154690",
       "variant_id": "789985915287154690"
@@ -567,6 +605,7 @@
       "price": "27.99",
       "region": "uk",
       "sku": "789984939884945409",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
       "url": "https://uk.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789984939884945409",
       "variant_id": "789984939884945409"
@@ -579,6 +618,7 @@
       "price": "19.99",
       "region": "uk",
       "sku": "789984939884945413",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
       "url": "https://uk.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789984939884945413",
       "variant_id": "789984939884945413"
@@ -591,6 +631,7 @@
       "price": "63.99",
       "region": "au",
       "sku": "789983981293584387",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
       "url": "https://au.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789983981293584387",
       "variant_id": "789983981293584387"
@@ -603,6 +644,7 @@
       "price": "43.99",
       "region": "au",
       "sku": "789983981293584391",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
       "url": "https://au.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=789983981293584391",
       "variant_id": "789983981293584391"
@@ -615,6 +657,7 @@
       "price": "29.99",
       "region": "asia",
       "sku": "788667154022014978",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (Battery Edition) - ZH187",
       "url": "https://asia.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=788667154022014978",
       "variant_id": "788667154022014978"
@@ -627,6 +670,7 @@
       "price": "18.99",
       "region": "asia",
       "sku": "788667154022014982",
+      "store_id": "",
       "title": "Kinetic Manta Ray - Biomimetic Automata - Kinetic Manta Ray (USB Edition) - ZH186",
       "url": "https://asia.store.bambulab.com/products/kinetic-manta-ray-biomimetic-automata?id=788667154022014982",
       "variant_id": "788667154022014982"

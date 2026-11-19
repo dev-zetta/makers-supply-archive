@@ -4,36 +4,49 @@
     {
       "handle": "2-pin-8mm-l-shaped-led-strip-connectors",
       "product_id": "8303988572296",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "2-pin-8mm-l-shaped-led-strip-connectors",
       "product_id": "8959978766576",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "2-pin-8mm-l-shaped-led-strip-connectors",
       "product_id": "9507644670300",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "2-pin-8mm-l-shaped-led-strip-connectors",
       "product_id": "7734548037692",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "2-pin-8mm-l-shaped-led-strip-connectors",
       "product_id": "8555573837987",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "2-pin-8mm-l-shaped-led-strip-connectors",
       "product_id": "7722624811123",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/21/217943ce125b007e59825c964e3fcff2c497cfc7aa7cf912e6f86e2f7463c032.png",
       "id": "image-401d281479f741fe4356",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "XE002.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "217943ce125b007e59825c964e3fcff2c497cfc7aa7cf912e6f86e2f7463c032",
       "size": 138667,
       "source_url": "https://store.bblcdn.com/s7/default/2cd315dcc8c64d3c8a719812715d4e5c/XE002.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8e/8eb31f05545fea0357ece650c35484a36bd3f157b10f85943f9e5b2be67cc0fd.png",
       "id": "image-2eb8c88a8e7ff6313fd8",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "4444456.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8eb31f05545fea0357ece650c35484a36bd3f157b10f85943f9e5b2be67cc0fd",
       "size": 471725,
       "source_url": "https://store.bblcdn.com/s7/default/54c18adbead64b6da22cef266ca8b387/4444456.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/55/55db950032cad1e61082515d9b83f77f8544a97526c923ec7cee1ca0056c9919.png",
       "id": "image-display-a6192c5efe1c55179c7b",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-401d281479f741fe4356",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "55db950032cad1e61082515d9b83f77f8544a97526c923ec7cee1ca0056c9919",
       "size": 116332,
       "source_url": "https://store.bblcdn.com/s7/default/2cd315dcc8c64d3c8a719812715d4e5c/XE002.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cf/cfa1d3df8861202655b3c8407593364eaa748e897c7b38de744bdfe4e3c14d91.png",
       "id": "image-display-8ef9b352d354f8c7e0c0",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-2eb8c88a8e7ff6313fd8",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cfa1d3df8861202655b3c8407593364eaa748e897c7b38de744bdfe4e3c14d91",
       "size": 121563,
       "source_url": "https://store.bblcdn.com/s7/default/54c18adbead64b6da22cef266ca8b387/4444456.png"
@@ -150,6 +170,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xe002-2-pin-8mm-l-shaped-led-strip-connectors",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Size（Working LED Width）",
@@ -173,6 +194,7 @@
       "price": "5.49",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/2-pin-8mm-l-shaped-led-strip-connectors?skr=yes"
     },
     {
@@ -183,6 +205,7 @@
       "price": "6.32",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/2-pin-8mm-l-shaped-led-strip-connectors?skr=yes"
     },
     {
@@ -193,6 +216,7 @@
       "price": "6.21",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/2-pin-8mm-l-shaped-led-strip-connectors?skr=yes"
     },
     {
@@ -203,6 +227,7 @@
       "price": "4.39",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/2-pin-8mm-l-shaped-led-strip-connectors?skr=yes"
     },
     {
@@ -213,6 +238,7 @@
       "price": "9.92",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/2-pin-8mm-l-shaped-led-strip-connectors?skr=yes"
     },
     {
@@ -223,6 +249,7 @@
       "price": "4.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/2-pin-8mm-l-shaped-led-strip-connectors?skr=yes"
     }
   ],
@@ -295,6 +322,7 @@
     "Quantities": "10PCS",
     "Size（Working LED Width）": "8mm"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -305,6 +333,7 @@
       "price": "5.49",
       "region": "us",
       "sku": "42800566796424",
+      "store_id": "",
       "title": "2-pin 8mm L-shaped LED Strip Connectors (10PCS) - 2 Pin 8mm L Shape For White LED (10PCS) - XE002",
       "url": "https://us.store.bambulab.com/products/2-pin-8mm-l-shaped-led-strip-connectors?id=42800566796424",
       "variant_id": "42800566796424"
@@ -317,6 +346,7 @@
       "price": "6.32",
       "region": "ca",
       "sku": "46431823200496",
+      "store_id": "",
       "title": "2-pin 8mm L-shaped LED Strip Connectors (10PCS) - 2 Pin 8mm L Shape For White LED (10PCS) - XE002",
       "url": "https://ca.store.bambulab.com/products/2-pin-8mm-l-shaped-led-strip-connectors?id=46431823200496",
       "variant_id": "46431823200496"
@@ -329,6 +359,7 @@
       "price": "6.21",
       "region": "eu",
       "sku": "49140486570332",
+      "store_id": "",
       "title": "2-pin 8mm L-shaped LED Strip Connectors (10PCS) - 2 Pin 8mm L Shape For White LED (10PCS) - XE002",
       "url": "https://eu.store.bambulab.com/products/2-pin-8mm-l-shaped-led-strip-connectors?id=49140486570332",
       "variant_id": "49140486570332"
@@ -341,6 +372,7 @@
       "price": "4.39",
       "region": "uk",
       "sku": "42062815068220",
+      "store_id": "",
       "title": "2-pin 8mm L-shaped LED Strip Connectors (10PCS) - 2 Pin 8mm L Shape For White LED (10PCS) - XE002",
       "url": "https://uk.store.bambulab.com/products/2-pin-8mm-l-shaped-led-strip-connectors?id=42062815068220",
       "variant_id": "42062815068220"
@@ -353,6 +385,7 @@
       "price": "9.92",
       "region": "au",
       "sku": "45056976584867",
+      "store_id": "",
       "title": "2-pin 8mm L-shaped LED Strip Connectors (10PCS) - 2 Pin 8mm L Shape For White LED (10PCS) - XE002",
       "url": "https://au.store.bambulab.com/products/2-pin-8mm-l-shaped-led-strip-connectors?id=45056976584867",
       "variant_id": "45056976584867"
@@ -365,6 +398,7 @@
       "price": "4.99",
       "region": "asia",
       "sku": "42134735552627",
+      "store_id": "",
       "title": "2-pin 8mm L-shaped LED Strip Connectors (10PCS) - 2 Pin 8mm L Shape For White LED (10PCS) - XE002",
       "url": "https://asia.store.bambulab.com/products/2-pin-8mm-l-shaped-led-strip-connectors?id=42134735552627",
       "variant_id": "42134735552627"

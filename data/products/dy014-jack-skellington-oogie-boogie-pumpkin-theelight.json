@@ -4,31 +4,42 @@
     {
       "handle": "jack-skellington-oogie-boogie-pumpkin-theelight",
       "product_id": "8384171573384",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "jack-skellington-oogie-boogie-pumpkin-theelight",
       "product_id": "9045032435952",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "jack-skellington-oogie-boogie-pumpkin-theelight",
       "product_id": "9613782778204",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "jack-skellington-oogie-boogie-pumpkin-theelight",
       "product_id": "7804789751868",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "jack-skellington-oogie-boogie-pumpkin-theelight",
       "product_id": "517118247237873664",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/84/8447866163bb83094b63a7b2780b7de4ae1c88246b6c5b701bed47e80d917505.jpg",
       "id": "image-a6784a24d805f2ad399c",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "TREE2-1_d21058f5-5d73-44f2-9257-531a43abea5d.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8447866163bb83094b63a7b2780b7de4ae1c88246b6c5b701bed47e80d917505",
       "size": 91885,
       "source_url": "https://store.bblcdn.com/s7/default/3a7f2341be70400cb3cb329f49e426bc/TREE2-1_d21058f5-5d73-44f2-9257-531a43abea5d.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/74/74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0.png",
       "id": "image-8cb44bbfd499b981b790",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "flame_e5a9d119-08cd-4ea9-8a8f-96f45bd55b49.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0",
       "size": 216756,
       "source_url": "https://store.bblcdn.com/s7/default/a8a8c613785d46579a5a11887a06e062/flame_e5a9d119-08cd-4ea9-8a8f-96f45bd55b49.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/46/4645a1dad75917f523d17e6fd157b9cba20fefcd04fcbf94b6a8947569c5e622.png",
       "id": "image-display-4c110e121da6eefb8a9c",
       "image_processing": {
@@ -70,11 +85,13 @@
       "parent_asset_id": "image-a6784a24d805f2ad399c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4645a1dad75917f523d17e6fd157b9cba20fefcd04fcbf94b6a8947569c5e622",
       "size": 425625,
       "source_url": "https://store.bblcdn.com/s7/default/3a7f2341be70400cb3cb329f49e426bc/TREE2-1_d21058f5-5d73-44f2-9257-531a43abea5d.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/45/450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037.png",
       "id": "image-display-e9f9f9c6bac1c19185c1",
       "image_processing": {
@@ -92,6 +109,7 @@
       "parent_asset_id": "image-8cb44bbfd499b981b790",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037",
       "size": 69316,
       "source_url": "https://store.bblcdn.com/s7/default/a8a8c613785d46579a5a11887a06e062/flame_e5a9d119-08cd-4ea9-8a8f-96f45bd55b49.png"
@@ -143,7 +161,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Jack Skellington & Oogie Boogie Pumpkin TheeLight. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Jack Skellington & Oogie Boogie Pumpkin TheeLight and obtain detailed information, please visit the Jack Skellington & Oogie Boogie Pumpkin TheeLight on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "dy014-jack-skellington-oogie-boogie-pumpkin-theelight",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Jack Skellington & Oogie Boogie Pumpkin TheeLight",
   "offers": [
@@ -155,6 +174,7 @@
       "price": "8.79",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/jack-skellington-oogie-boogie-pumpkin-theelight?skr=yes"
     },
     {
@@ -165,6 +185,7 @@
       "price": "10.12",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/jack-skellington-oogie-boogie-pumpkin-theelight?skr=yes"
     },
     {
@@ -175,6 +196,7 @@
       "price": "8.28",
       "region": "eu",
       "retrieved_at": "2026-11-10T14:27:25Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/jack-skellington-oogie-boogie-pumpkin-theelight?skr=yes"
     },
     {
@@ -185,6 +207,7 @@
       "price": "7.03",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/jack-skellington-oogie-boogie-pumpkin-theelight?skr=yes"
     },
     {
@@ -195,6 +218,7 @@
       "price": "7.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/jack-skellington-oogie-boogie-pumpkin-theelight?skr=yes"
     }
   ],
@@ -238,6 +262,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -250,6 +275,7 @@
       "price": "8.79",
       "region": "us",
       "sku": "42961338007688",
+      "store_id": "",
       "title": "Jack Skellington & Oogie Boogie Pumpkin TheeLight - Jack Skellington & Oogie Boogie Pumpkin TheeLights - DY014",
       "url": "https://us.store.bambulab.com/products/jack-skellington-oogie-boogie-pumpkin-theelight?id=42961338007688",
       "variant_id": "42961338007688"
@@ -262,6 +288,7 @@
       "price": "10.12",
       "region": "ca",
       "sku": "46629896159472",
+      "store_id": "",
       "title": "Jack Skellington & Oogie Boogie Pumpkin TheeLight - Jack Skellington & Oogie Boogie Pumpkin TheeLights - DY014",
       "url": "https://ca.store.bambulab.com/products/jack-skellington-oogie-boogie-pumpkin-theelight?id=46629896159472",
       "variant_id": "46629896159472"
@@ -274,6 +301,7 @@
       "price": "8.28",
       "region": "eu",
       "sku": "49450972545372",
+      "store_id": "",
       "title": "Jack Skellington & Oogie Boogie Pumpkin TheeLight - Jack Skellington & Oogie Boogie Pumpkin TheeLights - DY014",
       "url": "https://eu.store.bambulab.com/products/jack-skellington-oogie-boogie-pumpkin-theelight?id=49450972545372",
       "variant_id": "49450972545372"
@@ -286,6 +314,7 @@
       "price": "7.03",
       "region": "uk",
       "sku": "42214531268668",
+      "store_id": "",
       "title": "Jack Skellington & Oogie Boogie Pumpkin TheeLight - Jack Skellington & Oogie Boogie Pumpkin TheeLights - DY014",
       "url": "https://uk.store.bambulab.com/products/jack-skellington-oogie-boogie-pumpkin-theelight?id=42214531268668",
       "variant_id": "42214531268668"
@@ -298,6 +327,7 @@
       "price": "7.99",
       "region": "asia",
       "sku": "517118247242067971",
+      "store_id": "",
       "title": "Jack Skellington & Oogie Boogie Pumpkin TheeLight - Jack Skellington & Oogie Boogie Pumpkin TheeLights - DY014",
       "url": "https://asia.store.bambulab.com/products/jack-skellington-oogie-boogie-pumpkin-theelight?id=517118247242067971",
       "variant_id": "517118247242067971"

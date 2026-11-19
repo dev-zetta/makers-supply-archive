@@ -4,36 +4,49 @@
     {
       "handle": "6500k-white-led-light-strip",
       "product_id": "7706081886344",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "6500k-white-led-light-strip",
       "product_id": "8436921598192",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "6500k-white-led-light-strip",
       "product_id": "8667956773212",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "6500k-white-led-light-strip",
       "product_id": "7227634188348",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "6500k-white-led-light-strip",
       "product_id": "8163329376419",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "6500k-white-led-light-strip",
       "product_id": "7348198670451",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ec/ec1c196ef3f8cc22d6b8f58e2a19f621f96ce36d4b79b3f8a4ea6cbbf5405a40.png",
       "id": "image-e5ae3033722433e21e9c",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "KA004.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ec1c196ef3f8cc22d6b8f58e2a19f621f96ce36d4b79b3f8a4ea6cbbf5405a40",
       "size": 263571,
       "source_url": "https://store.bblcdn.com/s7/default/0770d39c7cca4132b236ee2939cb7404/KA004.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1c/1c1fd03885a03ad1e1717591d1c5ac9465202409c0edb027e3f9be906073f1e4.png",
       "id": "image-ae57e1051531e5c6840e",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "2_471b9a6b-5bdc-4f11-8866-64ffc9a48cfc.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1c1fd03885a03ad1e1717591d1c5ac9465202409c0edb027e3f9be906073f1e4",
       "size": 3874787,
       "source_url": "https://store.bblcdn.com/s7/default/8d8a62205e6f4767a3248a77ca70d4a7/2_471b9a6b-5bdc-4f11-8866-64ffc9a48cfc.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7f/7f8390699813fbe7acc96aa9d763be5616ec7a0dd5ee4315682670a7f74946ba.png",
       "id": "image-display-133917eccb9b7ec431b8",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-e5ae3033722433e21e9c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7f8390699813fbe7acc96aa9d763be5616ec7a0dd5ee4315682670a7f74946ba",
       "size": 232896,
       "source_url": "https://store.bblcdn.com/s7/default/0770d39c7cca4132b236ee2939cb7404/KA004.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a5/a54cdadd4c80bcc034ba1275853dc1b23838ade403d1c141c9614dbce3442145.png",
       "id": "image-display-1e96385f68d62c94904f",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-ae57e1051531e5c6840e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a54cdadd4c80bcc034ba1275853dc1b23838ade403d1c141c9614dbce3442145",
       "size": 639978,
       "source_url": "https://store.bblcdn.com/s7/default/8d8a62205e6f4767a3248a77ca70d4a7/2_471b9a6b-5bdc-4f11-8866-64ffc9a48cfc.png"
@@ -174,6 +194,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ka004-6500k-white-led-light-strip",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Length of the strip light",
@@ -206,6 +227,7 @@
       "price": "17.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/6500k-white-led-light-strip?skr=yes"
     },
     {
@@ -216,6 +238,7 @@
       "price": "20.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/6500k-white-led-light-strip?skr=yes"
     },
     {
@@ -226,6 +249,7 @@
       "price": "17.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/6500k-white-led-light-strip?skr=yes"
     },
     {
@@ -236,6 +260,7 @@
       "price": "15.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/6500k-white-led-light-strip?skr=yes"
     },
     {
@@ -246,6 +271,7 @@
       "price": "33.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/6500k-white-led-light-strip?skr=yes"
     },
     {
@@ -256,6 +282,7 @@
       "price": "15.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/6500k-white-led-light-strip?skr=yes"
     }
   ],
@@ -343,6 +370,7 @@
     "Voltage": "DC 5V",
     "Waterproof": "IP 20"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -353,6 +381,7 @@
       "price": "17.99",
       "region": "us",
       "sku": "41583376564360",
+      "store_id": "",
       "title": "6500K White LED Light Strip - 6500K White LED Light Strip (1pcs) - KA004 / White (41100)",
       "url": "https://us.store.bambulab.com/products/6500k-white-led-light-strip?id=41583376564360",
       "variant_id": "41583376564360"
@@ -365,6 +394,7 @@
       "price": "20.99",
       "region": "ca",
       "sku": "44750480703728",
+      "store_id": "",
       "title": "6500K White LED Light Strip - 6500K White LED Light Strip (1pcs) - KA004 / White (41100)",
       "url": "https://ca.store.bambulab.com/products/6500k-white-led-light-strip?id=44750480703728",
       "variant_id": "44750480703728"
@@ -377,6 +407,7 @@
       "price": "17.99",
       "region": "eu",
       "sku": "47435482890588",
+      "store_id": "",
       "title": "6500K White LED Light Strip - 6500K White LED Light Strip (1pcs) - KA004 / White (50100)",
       "url": "https://eu.store.bambulab.com/products/6500k-white-led-light-strip?id=47435482890588",
       "variant_id": "47435482890588"
@@ -389,6 +420,7 @@
       "price": "15.99",
       "region": "uk",
       "sku": "40889666076732",
+      "store_id": "",
       "title": "6500K White LED Light Strip - 6500K White LED Light Strip (1pcs) - KA004 / White (50100)",
       "url": "https://uk.store.bambulab.com/products/6500k-white-led-light-strip?id=40889666076732",
       "variant_id": "40889666076732"
@@ -401,6 +433,7 @@
       "price": "33.99",
       "region": "au",
       "sku": "43813028790435",
+      "store_id": "",
       "title": "6500K White LED Light Strip - 6500K White LED Light Strip (1pcs) - KA004 / White (50100)",
       "url": "https://au.store.bambulab.com/products/6500k-white-led-light-strip?id=43813028790435",
       "variant_id": "43813028790435"
@@ -413,6 +446,7 @@
       "price": "15.99",
       "region": "asia",
       "sku": "41170353651827",
+      "store_id": "",
       "title": "6500K White LED Light Strip - 6500K White LED Light Strip (1pcs) - KA004 / White (50100)",
       "url": "https://asia.store.bambulab.com/products/6500k-white-led-light-strip?id=41170353651827",
       "variant_id": "41170353651827"

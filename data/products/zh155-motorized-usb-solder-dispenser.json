@@ -4,36 +4,49 @@
     {
       "handle": "motorized-usb-solder-dispenser",
       "product_id": "748398226069286912",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "motorized-usb-solder-dispenser",
       "product_id": "748399416193982464",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "motorized-usb-solder-dispenser",
       "product_id": "748397534608121856",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "motorized-usb-solder-dispenser",
       "product_id": "748398788621328384",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "motorized-usb-solder-dispenser",
       "product_id": "748400103619809280",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "motorized-usb-solder-dispenser",
       "product_id": "748022348171984896",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e9/e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2.png",
       "id": "image-b2a6f79de05435b159f9",
       "kind": "image",
@@ -41,23 +54,13 @@
       "original_filename": "ZH155.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2",
       "size": 959287,
       "source_url": "https://store.bblcdn.com/s7/default/02f3dcc0028f45178e728469f30000ad/ZH155.png"
     },
     {
-      "blob_path": "data/blobs/sha256/e9/e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2.png",
-      "id": "image-3122a6290a78c6bd2899",
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "ZH155.png",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2",
-      "size": 959287,
-      "source_url": "https://store.bblcdn.com/s1/default/9b170db654024c3cb1a35246fd7e59c4/ZH155.png"
-    },
-    {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9c/9ce127f67dc13c48f499f6ca22fe09fa0436f8ac31d2123eaefa5dfee5a4eb21.png",
       "id": "image-3f103e06eb4f4f67fa1d",
       "kind": "image",
@@ -65,11 +68,27 @@
       "original_filename": "ZH155_V.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9ce127f67dc13c48f499f6ca22fe09fa0436f8ac31d2123eaefa5dfee5a4eb21",
       "size": 590177,
       "source_url": "https://store.bblcdn.com/s7/default/601ad2a03eb44084a9e56f99c05ace98/ZH155_V.png"
     },
     {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/e9/e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2.png",
+      "id": "image-3122a6290a78c6bd2899",
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH155.png",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "role": "other",
+      "sha256": "e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2",
+      "size": 959287,
+      "source_url": "https://store.bblcdn.com/s1/default/9b170db654024c3cb1a35246fd7e59c4/ZH155.png"
+    },
+    {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f1461337f6b92b1ec05d888e46104974bbcca1f53c8c3c34bc695916ce86377d.png",
       "id": "image-display-11ed1b6f38a4d498037e",
       "image_processing": {
@@ -87,33 +106,13 @@
       "parent_asset_id": "image-b2a6f79de05435b159f9",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1461337f6b92b1ec05d888e46104974bbcca1f53c8c3c34bc695916ce86377d",
       "size": 296795,
       "source_url": "https://store.bblcdn.com/s7/default/02f3dcc0028f45178e728469f30000ad/ZH155.png"
     },
     {
-      "blob_path": "data/blobs/sha256/f1/f1461337f6b92b1ec05d888e46104974bbcca1f53c8c3c34bc695916ce86377d.png",
-      "id": "image-display-dfc0b1a7bda0394299d2",
-      "image_processing": {
-        "algorithm": "catalog-display-v1",
-        "crop_top": 0,
-        "output_height": 800,
-        "output_width": 800,
-        "source_height": 1600,
-        "source_sha256": "e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2",
-        "source_width": 1600
-      },
-      "kind": "image",
-      "media_type": "image/png",
-      "original_filename": "ZH155.catalog.png",
-      "parent_asset_id": "image-3122a6290a78c6bd2899",
-      "retrieved_at": "2026-08-23T01:12:14Z",
-      "rights_status": "unknown",
-      "sha256": "f1461337f6b92b1ec05d888e46104974bbcca1f53c8c3c34bc695916ce86377d",
-      "size": 296795,
-      "source_url": "https://store.bblcdn.com/s1/default/9b170db654024c3cb1a35246fd7e59c4/ZH155.png"
-    },
-    {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3a/3abff1e224c48d694465d309e93c067c27b0a50425a4e3d98d901f3f7feb262e.png",
       "id": "image-display-77d5da1d450facae711b",
       "image_processing": {
@@ -131,9 +130,34 @@
       "parent_asset_id": "image-3f103e06eb4f4f67fa1d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3abff1e224c48d694465d309e93c067c27b0a50425a4e3d98d901f3f7feb262e",
       "size": 150673,
       "source_url": "https://store.bblcdn.com/s7/default/601ad2a03eb44084a9e56f99c05ace98/ZH155_V.png"
+    },
+    {
+      "applies_to_skus": [],
+      "blob_path": "data/blobs/sha256/f1/f1461337f6b92b1ec05d888e46104974bbcca1f53c8c3c34bc695916ce86377d.png",
+      "id": "image-display-dfc0b1a7bda0394299d2",
+      "image_processing": {
+        "algorithm": "catalog-display-v1",
+        "crop_top": 0,
+        "output_height": 800,
+        "output_width": 800,
+        "source_height": 1600,
+        "source_sha256": "e948a75ad59af826f740f12a6bc9f302cd206e4094430f3833dc0144bdf5c2a2",
+        "source_width": 1600
+      },
+      "kind": "image",
+      "media_type": "image/png",
+      "original_filename": "ZH155.catalog.png",
+      "parent_asset_id": "image-3122a6290a78c6bd2899",
+      "retrieved_at": "2026-08-23T01:12:14Z",
+      "rights_status": "unknown",
+      "role": "other",
+      "sha256": "f1461337f6b92b1ec05d888e46104974bbcca1f53c8c3c34bc695916ce86377d",
+      "size": 296795,
+      "source_url": "https://store.bblcdn.com/s1/default/9b170db654024c3cb1a35246fd7e59c4/ZH155.png"
     }
   ],
   "box_contents": [
@@ -239,7 +263,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Motorized USB Solder Dispenser. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Motorized USB Solder Dispenser on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh155-motorized-usb-solder-dispenser",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Motorized USB Solder Dispenser",
   "offers": [
@@ -251,6 +276,7 @@
       "price": "25.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/motorized-usb-solder-dispenser?skr=yes"
     },
     {
@@ -261,6 +287,7 @@
       "price": "33.99",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/motorized-usb-solder-dispenser?skr=yes"
     },
     {
@@ -271,6 +298,7 @@
       "price": "29.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/motorized-usb-solder-dispenser?skr=yes"
     },
     {
@@ -281,6 +309,7 @@
       "price": "24.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/motorized-usb-solder-dispenser?skr=yes"
     },
     {
@@ -291,6 +320,7 @@
       "price": "56.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/motorized-usb-solder-dispenser?skr=yes"
     },
     {
@@ -301,6 +331,7 @@
       "price": "23.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/motorized-usb-solder-dispenser?skr=yes"
     }
   ],
@@ -385,6 +416,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -397,6 +429,7 @@
       "price": "25.99",
       "region": "us",
       "sku": "748398226107035650",
+      "store_id": "",
       "title": "Motorized USB Solder Dispenser - Motorized USB Solder Dispenser - ZH155",
       "url": "https://us.store.bambulab.com/products/motorized-usb-solder-dispenser?id=748398226107035650",
       "variant_id": "748398226107035650"
@@ -409,6 +442,7 @@
       "price": "33.99",
       "region": "ca",
       "sku": "748399416248508418",
+      "store_id": "",
       "title": "Motorized USB Solder Dispenser - Motorized USB Solder Dispenser - ZH155",
       "url": "https://ca.store.bambulab.com/products/motorized-usb-solder-dispenser?id=748399416248508418",
       "variant_id": "748399416248508418"
@@ -421,6 +455,7 @@
       "price": "29.99",
       "region": "eu",
       "sku": "748397534645870594",
+      "store_id": "",
       "title": "Motorized USB Solder Dispenser - Motorized USB Solder Dispenser - ZH155",
       "url": "https://eu.store.bambulab.com/products/motorized-usb-solder-dispenser?id=748397534645870594",
       "variant_id": "748397534645870594"
@@ -433,6 +468,7 @@
       "price": "24.99",
       "region": "uk",
       "sku": "748398788667465730",
+      "store_id": "",
       "title": "Motorized USB Solder Dispenser - Motorized USB Solder Dispenser - ZH155",
       "url": "https://uk.store.bambulab.com/products/motorized-usb-solder-dispenser?id=748398788667465730",
       "variant_id": "748398788667465730"
@@ -445,6 +481,7 @@
       "price": "56.99",
       "region": "au",
       "sku": "748400103691112449",
+      "store_id": "",
       "title": "Motorized USB Solder Dispenser - Motorized USB Solder Dispenser - ZH155",
       "url": "https://au.store.bambulab.com/products/motorized-usb-solder-dispenser?id=748400103691112449",
       "variant_id": "748400103691112449"
@@ -457,6 +494,7 @@
       "price": "23.99",
       "region": "asia",
       "sku": "748022348201345026",
+      "store_id": "",
       "title": "Motorized USB Solder Dispenser - Motorized USB Solder Dispenser - ZH155",
       "url": "https://asia.store.bambulab.com/products/motorized-usb-solder-dispenser?id=748022348201345026",
       "variant_id": "748022348201345026"

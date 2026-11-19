@@ -4,36 +4,49 @@
     {
       "handle": "vega-30",
       "product_id": "756751873326751744",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "vega-30",
       "product_id": "756759747239129088",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "vega-30",
       "product_id": "756751215366246400",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "vega-30",
       "product_id": "756758923683299328",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "vega-30",
       "product_id": "756760146612363264",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "vega-30",
       "product_id": "756657760820547584",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b3/b3e38bddaed4f484004716537cd27b5c241473e88912512269f3182468c29696.png",
       "id": "image-664c431620e79da36d2a",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZH169.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b3e38bddaed4f484004716537cd27b5c241473e88912512269f3182468c29696",
       "size": 3147111,
       "source_url": "https://store.bblcdn.com/s7/default/8b5a3a7ab27546788469d26a3c830944/ZH169.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/47/4725ed9e93a9987edf90075257fc3945dc48e166a832e811d69bc86bfd550806.png",
       "id": "image-1a6cd2208b66f86b186b",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH169_V.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4725ed9e93a9987edf90075257fc3945dc48e166a832e811d69bc86bfd550806",
       "size": 534065,
       "source_url": "https://store.bblcdn.com/s7/default/af1aeaae84c743778caee056ee39986d/B-ZH169_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/88/88450b5ab791555c20453978de1e046fcd5bbf825635f78012f130aa37bc397d.png",
       "id": "image-display-1f73813dfed55f4c48bc",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-664c431620e79da36d2a",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "88450b5ab791555c20453978de1e046fcd5bbf825635f78012f130aa37bc397d",
       "size": 890175,
       "source_url": "https://store.bblcdn.com/s7/default/8b5a3a7ab27546788469d26a3c830944/ZH169.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bcc1b60fdd96e6aefc36a073ac21c26717f861a0bae6fb5019a84711d7d1c8b3.png",
       "id": "image-display-db88db813b3c47404038",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-1a6cd2208b66f86b186b",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bcc1b60fdd96e6aefc36a073ac21c26717f861a0bae6fb5019a84711d7d1c8b3",
       "size": 160431,
       "source_url": "https://store.bblcdn.com/s7/default/af1aeaae84c743778caee056ee39986d/B-ZH169_V.png"
@@ -191,7 +211,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Vega 30. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Vega 30 on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh169-vega-30",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Vega 30",
   "offers": [
@@ -203,6 +224,7 @@
       "price": "11.71",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/vega-30?skr=yes"
     },
     {
@@ -213,16 +235,18 @@
       "price": "12.66",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/vega-30?skr=yes"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "listed": true,
       "missing_runs": 0,
       "price": "10.85",
       "region": "eu",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/vega-30?skr=yes"
     },
     {
@@ -233,6 +257,7 @@
       "price": "8.8",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/vega-30?skr=yes"
     },
     {
@@ -243,6 +268,7 @@
       "price": "19.87",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/vega-30?skr=yes"
     },
     {
@@ -253,6 +279,7 @@
       "price": "9.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/vega-30?skr=yes"
     }
   ],
@@ -327,6 +354,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -339,6 +367,7 @@
       "price": "11.71",
       "region": "us",
       "sku": "756751873343528962",
+      "store_id": "",
       "title": "Vega 30 - Vega 30 - ZH169",
       "url": "https://us.store.bambulab.com/products/vega-30?id=756751873343528962",
       "variant_id": "756751873343528962"
@@ -351,18 +380,20 @@
       "price": "12.66",
       "region": "ca",
       "sku": "756759747255906305",
+      "store_id": "",
       "title": "Vega 30 - Vega 30 - ZH169",
       "url": "https://ca.store.bambulab.com/products/vega-30?id=756759747255906305",
       "variant_id": "756759747255906305"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "EUR",
       "image_url": "https://store.bblcdn.eu/s8/default/1ab25734c5ed497ba0eea809fc1edbeb/ZH169.png",
       "part_number": "ZH169",
       "price": "10.85",
       "region": "eu",
       "sku": "756751215391412226",
+      "store_id": "",
       "title": "Vega 30 - Vega 30 - ZH169",
       "url": "https://eu.store.bambulab.com/products/vega-30?id=756751215391412226",
       "variant_id": "756751215391412226"
@@ -375,6 +406,7 @@
       "price": "8.8",
       "region": "uk",
       "sku": "756758923700076546",
+      "store_id": "",
       "title": "Vega 30 - Vega 30 - ZH169",
       "url": "https://uk.store.bambulab.com/products/vega-30?id=756758923700076546",
       "variant_id": "756758923700076546"
@@ -387,6 +419,7 @@
       "price": "19.87",
       "region": "au",
       "sku": "756760146633334786",
+      "store_id": "",
       "title": "Vega 30 - Vega 30 - ZH169",
       "url": "https://au.store.bambulab.com/products/vega-30?id=756760146633334786",
       "variant_id": "756760146633334786"
@@ -399,6 +432,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "756657760896045058",
+      "store_id": "",
       "title": "Vega 30 - Vega 30 - ZH169",
       "url": "https://asia.store.bambulab.com/products/vega-30?id=756657760896045058",
       "variant_id": "756657760896045058"

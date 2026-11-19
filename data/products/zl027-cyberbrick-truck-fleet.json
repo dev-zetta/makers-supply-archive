@@ -4,31 +4,42 @@
     {
       "handle": "cyberbrick-truck-fleet",
       "product_id": "746220092297687040",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-truck-fleet",
       "product_id": "746218643281637376",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-truck-fleet",
       "product_id": "746220262953594880",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-truck-fleet",
       "product_id": "746219907043328000",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-truck-fleet",
       "product_id": "745804697586819072",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/04/044bd95765c305894ee6453347e07c41eab4f644871e39b482c4e171c5972577.png",
       "id": "image-122f2393257e7d3f85ed",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "Frame_1123867493.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "044bd95765c305894ee6453347e07c41eab4f644871e39b482c4e171c5972577",
       "size": 565918,
       "source_url": "https://store.bblcdn.com/s7/default/e0f9a3cbfd274f779dbc4385085b6b71/Frame_1123867493.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/48/48336580ba3beb73feb9379c4bfb7249a1cfee4ca64a313387ed5fb5a917c85f.png",
       "id": "image-8713193280f0d383caae",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "Frame_1123867492.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "48336580ba3beb73feb9379c4bfb7249a1cfee4ca64a313387ed5fb5a917c85f",
       "size": 481504,
       "source_url": "https://store.bblcdn.com/s7/default/152de67eb3914438bd540472a6a1b81f/Frame_1123867492.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f6/f6bf9328c7a6e8db4db3e0ba1ce8a7021e1182c72d80d0a3d00596159bd22582.png",
       "id": "image-be6f1a2e91b27d680177",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "Frame_1123867495.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f6bf9328c7a6e8db4db3e0ba1ce8a7021e1182c72d80d0a3d00596159bd22582",
       "size": 436267,
       "source_url": "https://store.bblcdn.com/s7/default/bfd04b1f6a3946b7b7b5ffd5755b058d/Frame_1123867495.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/25/2559eb001870d98686b317cd32cdcb6cda53d4707d186b4424a62d60ce735e3d.png",
       "id": "image-666028ff7bad0b52e199",
       "kind": "image",
@@ -72,11 +89,13 @@
       "original_filename": "Frame_1123867494.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2559eb001870d98686b317cd32cdcb6cda53d4707d186b4424a62d60ce735e3d",
       "size": 533743,
       "source_url": "https://store.bblcdn.com/s7/default/89a4025a115c4091b9b64d9e8b993bab/Frame_1123867494.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/4c/4cd1328e49fbbef7674ae6d166871fefb179a0c5f003b1683e7a4c0b97f77988.png",
       "id": "image-d2bfcf92d31ce2b166d0",
       "kind": "image",
@@ -84,11 +103,13 @@
       "original_filename": "1.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4cd1328e49fbbef7674ae6d166871fefb179a0c5f003b1683e7a4c0b97f77988",
       "size": 1672645,
       "source_url": "https://store.bblcdn.com/s7/default/8563ff922cf24c2288ea825d9db69d50/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/06/067dd248d4df9dfe95eefaa68d5c277465f7a4ee77391073b41d59a12ed922ec.png",
       "id": "image-5973674614098a398e06",
       "kind": "image",
@@ -96,11 +117,13 @@
       "original_filename": "1.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "067dd248d4df9dfe95eefaa68d5c277465f7a4ee77391073b41d59a12ed922ec",
       "size": 2271646,
       "source_url": "https://store.bblcdn.com/s7/default/ef1d3a5b31ae4466a08e864394933f9c/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ad/ad24903e032ce8248457d685f94335587f7962a2030d16217ad631070fad21e2.png",
       "id": "image-9962038c6489dab58736",
       "kind": "image",
@@ -108,11 +131,13 @@
       "original_filename": "5.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ad24903e032ce8248457d685f94335587f7962a2030d16217ad631070fad21e2",
       "size": 2064472,
       "source_url": "https://store.bblcdn.com/s7/default/6e08dd25061c4da498b4719ca2c9194b/5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/17/176bc6b8e5f1a94ff69a839f6f17eff48d0d9e6eba894bf6b3cbbc6fdf100257.png",
       "id": "image-d11e5478779e42d82e1f",
       "kind": "image",
@@ -120,11 +145,13 @@
       "original_filename": "6.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "176bc6b8e5f1a94ff69a839f6f17eff48d0d9e6eba894bf6b3cbbc6fdf100257",
       "size": 2227881,
       "source_url": "https://store.bblcdn.com/s7/default/0428b5413081445db440ef1794535586/6.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a6/a64fb799b8497edc2aee37fba0c99d9e0194bd0d293964dbe058df8dfba083f4.zip",
       "id": "archive-05809db3d68c845b2255",
       "kind": "archive",
@@ -132,11 +159,13 @@
       "original_filename": "Assembly_Guides.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a64fb799b8497edc2aee37fba0c99d9e0194bd0d293964dbe058df8dfba083f4",
       "size": 5828530,
       "source_url": "https://store.bblcdn.com/s1/default/f7bfad32eabe422eb671d544c2170bf4/Assembly_Guides.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/59/5925467c13cc332cdc69bb17095ed5b9f7a53aefaaf0d13c882f859a0541f59e.png",
       "id": "image-display-dcbec3c2fb33abb7b036",
       "image_processing": {
@@ -154,11 +183,13 @@
       "parent_asset_id": "image-122f2393257e7d3f85ed",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5925467c13cc332cdc69bb17095ed5b9f7a53aefaaf0d13c882f859a0541f59e",
       "size": 461945,
       "source_url": "https://store.bblcdn.com/s7/default/e0f9a3cbfd274f779dbc4385085b6b71/Frame_1123867493.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e8/e8d4cfbce1a809d520f0c5a3103bee8b8e75b8333c35a51727058b2cdb158657.png",
       "id": "image-display-d54cecc3f079c79ef9d4",
       "image_processing": {
@@ -176,11 +207,13 @@
       "parent_asset_id": "image-8713193280f0d383caae",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e8d4cfbce1a809d520f0c5a3103bee8b8e75b8333c35a51727058b2cdb158657",
       "size": 404777,
       "source_url": "https://store.bblcdn.com/s7/default/152de67eb3914438bd540472a6a1b81f/Frame_1123867492.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fb/fb3daa6650f261d279b878bc882d9f7585732320e41ae2b089a77d2b2cf72b85.png",
       "id": "image-display-2045389413054fd4f82e",
       "image_processing": {
@@ -198,11 +231,13 @@
       "parent_asset_id": "image-be6f1a2e91b27d680177",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fb3daa6650f261d279b878bc882d9f7585732320e41ae2b089a77d2b2cf72b85",
       "size": 354109,
       "source_url": "https://store.bblcdn.com/s7/default/bfd04b1f6a3946b7b7b5ffd5755b058d/Frame_1123867495.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/99/99fd8d2c8ce3e65bc9012b4feb3d1befd688167812677fa0e6dfb7a8fffb82a0.png",
       "id": "image-display-632f4eee34d1a8c29e62",
       "image_processing": {
@@ -220,11 +255,13 @@
       "parent_asset_id": "image-666028ff7bad0b52e199",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "99fd8d2c8ce3e65bc9012b4feb3d1befd688167812677fa0e6dfb7a8fffb82a0",
       "size": 440836,
       "source_url": "https://store.bblcdn.com/s7/default/89a4025a115c4091b9b64d9e8b993bab/Frame_1123867494.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2a/2a92054858cbc00e86dbf193ecf99f82c46870129ffb90b84de8f33b32906bd2.png",
       "id": "image-display-3365c18544abd8267b1d",
       "image_processing": {
@@ -242,11 +279,13 @@
       "parent_asset_id": "image-d2bfcf92d31ce2b166d0",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2a92054858cbc00e86dbf193ecf99f82c46870129ffb90b84de8f33b32906bd2",
       "size": 941622,
       "source_url": "https://store.bblcdn.com/s7/default/8563ff922cf24c2288ea825d9db69d50/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0f/0f7e2496e0f3c8227d7a79759ef1bebedacefa68baeb2f632125628292ef4dfb.png",
       "id": "image-display-dc7a6aa9631e8bbe94fa",
       "image_processing": {
@@ -264,11 +303,13 @@
       "parent_asset_id": "image-5973674614098a398e06",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0f7e2496e0f3c8227d7a79759ef1bebedacefa68baeb2f632125628292ef4dfb",
       "size": 974359,
       "source_url": "https://store.bblcdn.com/s7/default/ef1d3a5b31ae4466a08e864394933f9c/1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/18/183f0da6a012373188eb61e5cc59da8357cc030b3171a0f98f7e6ded179b02cd.png",
       "id": "image-display-ada83e01b8a0628499f7",
       "image_processing": {
@@ -286,11 +327,13 @@
       "parent_asset_id": "image-9962038c6489dab58736",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "183f0da6a012373188eb61e5cc59da8357cc030b3171a0f98f7e6ded179b02cd",
       "size": 853889,
       "source_url": "https://store.bblcdn.com/s7/default/6e08dd25061c4da498b4719ca2c9194b/5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dc/dc139ec8ecb64794a4e125229c1243ae7abd957e386c16393728e5226291367c.png",
       "id": "image-display-b01b0bfcd21e83687927",
       "image_processing": {
@@ -308,6 +351,7 @@
       "parent_asset_id": "image-d11e5478779e42d82e1f",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dc139ec8ecb64794a4e125229c1243ae7abd957e386c16393728e5226291367c",
       "size": 936684,
       "source_url": "https://store.bblcdn.com/s7/default/0428b5413081445db440ef1794535586/6.png"
@@ -967,7 +1011,8 @@
   "description_text": "Every truck in your Cyberbrick fleet brings its own distinct capability to the mission. Whether you're hauling, lifting, or clearing, each vehicle is engineered for a specific job, expanding your play scenarios and problem-solving possibilities.\n\nEach truck is driven by dual N20 400 RPM motors, delivering dual-axle drive, lots of torque, and smooth control across multiple terrains. This mechanical foundation allows every variant to feel powerful, responsive, and genuinely fun to operate.\n\nStart with essential Cyberbrick trucks, then add specialized vehicles as your operations grow. Every new addition integrates perfectly, ready for immediate deployment. As the series expands, more unique vehicles join your collection, building a truly custom fleet.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl027-cyberbrick-truck-fleet",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Cyberbrick Truck Fleet",
   "offers": [
@@ -979,6 +1024,7 @@
       "price": "67.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/cyberbrick-truck-fleet?skr=yes"
     },
     {
@@ -989,6 +1035,7 @@
       "price": "84.79",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/cyberbrick-truck-fleet?skr=yes"
     },
     {
@@ -999,6 +1046,7 @@
       "price": "71.99",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/cyberbrick-truck-fleet?skr=yes"
     },
     {
@@ -1009,6 +1057,7 @@
       "price": "59.19",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/cyberbrick-truck-fleet?skr=yes"
     },
     {
@@ -1019,6 +1068,7 @@
       "price": "115.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/cyberbrick-truck-fleet?skr=yes"
     }
   ],
@@ -1276,6 +1326,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -1286,6 +1337,7 @@
       "price": "67.99",
       "region": "us",
       "sku": "746220092314464261",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberTipper - ZL027",
       "url": "https://us.store.bambulab.com/products/cyberbrick-truck-fleet?id=746220092314464261",
       "variant_id": "746220092314464261"
@@ -1298,6 +1350,7 @@
       "price": "58.39",
       "region": "us",
       "sku": "746220092314464265",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberHauler - ZL028",
       "url": "https://us.store.bambulab.com/products/cyberbrick-truck-fleet?id=746220092314464265",
       "variant_id": "746220092314464265"
@@ -1310,6 +1363,7 @@
       "price": "73.59",
       "region": "us",
       "sku": "746220092314464269",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberPlow - ZL029",
       "url": "https://us.store.bambulab.com/products/cyberbrick-truck-fleet?id=746220092314464269",
       "variant_id": "746220092314464269"
@@ -1322,6 +1376,7 @@
       "price": "57.59",
       "region": "us",
       "sku": "746220092314464273",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberFreight - ZL030",
       "url": "https://us.store.bambulab.com/products/cyberbrick-truck-fleet?id=746220092314464273",
       "variant_id": "746220092314464273"
@@ -1334,6 +1389,7 @@
       "price": "84.79",
       "region": "ca",
       "sku": "746218643331969029",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberTipper - ZL027",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-truck-fleet?id=746218643331969029",
       "variant_id": "746218643331969029"
@@ -1346,6 +1402,7 @@
       "price": "73.59",
       "region": "ca",
       "sku": "746218643331969033",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberHauler - ZL028",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-truck-fleet?id=746218643331969033",
       "variant_id": "746218643331969033"
@@ -1358,6 +1415,7 @@
       "price": "91.99",
       "region": "ca",
       "sku": "746218643331969037",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberPlow - ZL029",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-truck-fleet?id=746218643331969037",
       "variant_id": "746218643331969037"
@@ -1370,6 +1428,7 @@
       "price": "71.99",
       "region": "ca",
       "sku": "746218643331969041",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberFreight - ZL030",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-truck-fleet?id=746218643331969041",
       "variant_id": "746218643331969041"
@@ -1382,6 +1441,7 @@
       "price": "71.99",
       "region": "eu",
       "sku": "746220262974566405",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberTipper - ZL027",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-truck-fleet?id=746220262974566405",
       "variant_id": "746220262974566405"
@@ -1394,6 +1454,7 @@
       "price": "61.59",
       "region": "eu",
       "sku": "746220262974566411",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberHauler - ZL028",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-truck-fleet?id=746220262974566411",
       "variant_id": "746220262974566411"
@@ -1406,6 +1467,7 @@
       "price": "75.99",
       "region": "eu",
       "sku": "746220262974566417",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberPlow - ZL029",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-truck-fleet?id=746220262974566417",
       "variant_id": "746220262974566417"
@@ -1418,6 +1480,7 @@
       "price": "59.99",
       "region": "eu",
       "sku": "746220262974566423",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberFreight - ZL030",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-truck-fleet?id=746220262974566423",
       "variant_id": "746220262974566423"
@@ -1430,6 +1493,7 @@
       "price": "59.19",
       "region": "uk",
       "sku": "746219907064299525",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberTipper - ZL027",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-truck-fleet?id=746219907064299525",
       "variant_id": "746219907064299525"
@@ -1442,6 +1506,7 @@
       "price": "50.39",
       "region": "uk",
       "sku": "746219907064299529",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberHauler - ZL028",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-truck-fleet?id=746219907064299529",
       "variant_id": "746219907064299529"
@@ -1454,6 +1519,7 @@
       "price": "63.19",
       "region": "uk",
       "sku": "746219907064299533",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberPlow - ZL029",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-truck-fleet?id=746219907064299533",
       "variant_id": "746219907064299533"
@@ -1466,6 +1532,7 @@
       "price": "49.59",
       "region": "uk",
       "sku": "746219907064299537",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberFreight - ZL030",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-truck-fleet?id=746219907064299537",
       "variant_id": "746219907064299537"
@@ -1478,6 +1545,7 @@
       "price": "115.99",
       "region": "au",
       "sku": "745804697591013386",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberTipper - ZL027",
       "url": "https://au.store.bambulab.com/products/cyberbrick-truck-fleet?id=745804697591013386",
       "variant_id": "745804697591013386"
@@ -1490,6 +1558,7 @@
       "price": "97.59",
       "region": "au",
       "sku": "745804697591013382",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberHauler - ZL028",
       "url": "https://au.store.bambulab.com/products/cyberbrick-truck-fleet?id=745804697591013382",
       "variant_id": "745804697591013382"
@@ -1502,6 +1571,7 @@
       "price": "127.19",
       "region": "au",
       "sku": "745804697595207680",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberPlow - ZL029",
       "url": "https://au.store.bambulab.com/products/cyberbrick-truck-fleet?id=745804697595207680",
       "variant_id": "745804697595207680"
@@ -1514,6 +1584,7 @@
       "price": "95.99",
       "region": "au",
       "sku": "745804697595207684",
+      "store_id": "",
       "title": "Cyberbrick Truck Fleet - CyberFreight - ZL030",
       "url": "https://au.store.bambulab.com/products/cyberbrick-truck-fleet?id=745804697595207684",
       "variant_id": "745804697595207684"

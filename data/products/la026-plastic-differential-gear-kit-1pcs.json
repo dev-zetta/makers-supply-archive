@@ -4,36 +4,49 @@
     {
       "handle": "plastic-differential-gear-kit-1pcs",
       "product_id": "592916498148507648",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "plastic-differential-gear-kit-1pcs",
       "product_id": "592913158300868608",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "plastic-differential-gear-kit-1pcs",
       "product_id": "14981026546012",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "plastic-differential-gear-kit-1pcs",
       "product_id": "592910808121913344",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "plastic-differential-gear-kit-1pcs",
       "product_id": "592907093063528448",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "plastic-differential-gear-kit-1pcs",
       "product_id": "592853801140305920",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/96/96c4cbb3dde9b701496e1e6dd7401555716936581f8e23de7063fb9948c2a674.png",
       "id": "image-3eef1cc499ee23f44555",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-LA026-B.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "96c4cbb3dde9b701496e1e6dd7401555716936581f8e23de7063fb9948c2a674",
       "size": 315480,
       "source_url": "https://store.bblcdn.com/s7/default/6c82bcb43cd9450dbcf03146618b817f/B-LA026-B.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/44/44a5df52b0b2f0cd40fefbf6e1edf39e95c4fff37d51f4a58974ece2638cceba.png",
       "id": "image-15b85f942c5f274626d7",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-LA026.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "44a5df52b0b2f0cd40fefbf6e1edf39e95c4fff37d51f4a58974ece2638cceba",
       "size": 85838,
       "source_url": "https://store.bblcdn.com/s7/default/4452cad68a114cf0aa10152868718660/B-LA026.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dc/dc63470451f466653b4472d818c470ab0b4cac31b134a9f5020d3c4c820e3a4f.zip",
       "id": "archive-774c7c5c0da52d9eeac0",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "Plastic_Differential_Gear_Kit-LA026_3D_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dc63470451f466653b4472d818c470ab0b4cac31b134a9f5020d3c4c820e3a4f",
       "size": 2959992,
       "source_url": "https://store.bblcdn.com/s1/default/d0aa0099d1ec4924937d7e527499650c/Plastic_Differential_Gear_Kit-LA026_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/84/842fd462f8b71e251cd3e3a9614e669978a9c24683b5adc1b6f236c4af02584e.zip",
       "id": "archive-a6b0f8cb54bcd480b29e",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "Plastic_Differential_Gear_Kit-LA026_Application_Instruction.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "842fd462f8b71e251cd3e3a9614e669978a9c24683b5adc1b6f236c4af02584e",
       "size": 2753464,
       "source_url": "https://store.bblcdn.com/s1/default/511ad752ad154146b1e8f8b485c5d61b/Plastic_Differential_Gear_Kit-LA026_Application_Instruction.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Plastic Differential Gear Kit-LA026.stp",
       "blob_path": "data/blobs/sha256/8f/8f36675b1dc396f3e4e94031588c5d7f4fd4c218d2e40479ef6811b7b029370d.stp",
       "id": "model-34bf20b84da511e33896",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-774c7c5c0da52d9eeac0",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8f36675b1dc396f3e4e94031588c5d7f4fd4c218d2e40479ef6811b7b029370d",
       "size": 2371213,
       "source_url": "https://store.bblcdn.com/s1/default/d0aa0099d1ec4924937d7e527499650c/Plastic_Differential_Gear_Kit-LA026_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Plastic Differential Gear Kit-LA026.stl",
       "blob_path": "data/blobs/sha256/31/313bd1eb8b40eee3119516f924186b1c9e09e10da5801be570f5d6c55f1761f1.stl",
       "id": "model-fd4a7d6321fb63887c36",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-774c7c5c0da52d9eeac0",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "313bd1eb8b40eee3119516f924186b1c9e09e10da5801be570f5d6c55f1761f1",
       "size": 6354984,
       "source_url": "https://store.bblcdn.com/s1/default/d0aa0099d1ec4924937d7e527499650c/Plastic_Differential_Gear_Kit-LA026_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Differential Gearbox/3D Printed Parts of Differential.3mf",
       "blob_path": "data/blobs/sha256/cd/cdd401134422d3f1a6273f507d7b33c82e9ffa90681f72b9b7268d09261dcfec.3mf",
       "id": "model-8782cef69502b49e1637",
@@ -119,11 +144,13 @@
       "parent_asset_id": "archive-a6b0f8cb54bcd480b29e",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cdd401134422d3f1a6273f507d7b33c82e9ffa90681f72b9b7268d09261dcfec",
       "size": 1740547,
       "source_url": "https://store.bblcdn.com/s1/default/511ad752ad154146b1e8f8b485c5d61b/Plastic_Differential_Gear_Kit-LA026_Application_Instruction.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ab/ab38934d0c4644a779d8f10c0ec6cf30e98cd83ed621573c3c016feecc05eba4.png",
       "id": "image-display-5d93b2d42cb5b9d3707e",
       "image_processing": {
@@ -141,11 +168,13 @@
       "parent_asset_id": "image-3eef1cc499ee23f44555",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ab38934d0c4644a779d8f10c0ec6cf30e98cd83ed621573c3c016feecc05eba4",
       "size": 81553,
       "source_url": "https://store.bblcdn.com/s7/default/6c82bcb43cd9450dbcf03146618b817f/B-LA026-B.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/97/97616664835aa1fd862dda884390487160445926d670a9a2156056c8b6becf7d.png",
       "id": "image-display-e42429c693148436165f",
       "image_processing": {
@@ -163,6 +192,7 @@
       "parent_asset_id": "image-15b85f942c5f274626d7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "97616664835aa1fd862dda884390487160445926d670a9a2156056c8b6becf7d",
       "size": 72274,
       "source_url": "https://store.bblcdn.com/s7/default/4452cad68a114cf0aa10152868718660/B-LA026.png"
@@ -217,6 +247,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "la026-plastic-differential-gear-kit-1pcs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Plastic Differential Gear Kit (1PCS)",
   "offers": [
@@ -228,6 +259,7 @@
       "price": "1.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/plastic-differential-gear-kit-1pcs?skr=yes"
     },
     {
@@ -238,6 +270,7 @@
       "price": "2.49",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/plastic-differential-gear-kit-1pcs?skr=yes"
     },
     {
@@ -248,6 +281,7 @@
       "price": "1.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/plastic-differential-gear-kit-1pcs?skr=yes"
     },
     {
@@ -258,6 +292,7 @@
       "price": "1.79",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/plastic-differential-gear-kit-1pcs?skr=yes"
     },
     {
@@ -268,6 +303,7 @@
       "price": "2.79",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/plastic-differential-gear-kit-1pcs?skr=yes"
     },
     {
@@ -278,6 +314,7 @@
       "price": "1.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/plastic-differential-gear-kit-1pcs?skr=yes"
     }
   ],
@@ -297,6 +334,7 @@
   ],
   "source_tables": [],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -309,6 +347,7 @@
       "price": "1.99",
       "region": "us",
       "sku": "592916498165284866",
+      "store_id": "",
       "title": "Plastic Differential Gear Kit (1PCS) - Plastic Differential Gear Kit (1PCS) - LA026",
       "url": "https://us.store.bambulab.com/products/plastic-differential-gear-kit-1pcs?id=592916498165284866",
       "variant_id": "592916498165284866"
@@ -321,6 +360,7 @@
       "price": "2.49",
       "region": "ca",
       "sku": "592913158330228738",
+      "store_id": "",
       "title": "Plastic Differential Gear Kit (1PCS) - Plastic Differential Gear Kit (1PCS) - LA026",
       "url": "https://ca.store.bambulab.com/products/plastic-differential-gear-kit-1pcs?id=592913158330228738",
       "variant_id": "592913158330228738"
@@ -333,6 +373,7 @@
       "price": "1.99",
       "region": "eu",
       "sku": "54410621059420",
+      "store_id": "",
       "title": "Plastic Differential Gear Kit (1PCS) - Plastic Differential Gear Kit (1PCS) - LA026",
       "url": "https://eu.store.bambulab.com/products/plastic-differential-gear-kit-1pcs?id=54410621059420",
       "variant_id": "54410621059420"
@@ -345,6 +386,7 @@
       "price": "1.79",
       "region": "uk",
       "sku": "592910808142884865",
+      "store_id": "",
       "title": "Plastic Differential Gear Kit (1PCS) - Plastic Differential Gear Kit (1PCS) - LA026",
       "url": "https://uk.store.bambulab.com/products/plastic-differential-gear-kit-1pcs?id=592910808142884865",
       "variant_id": "592910808142884865"
@@ -357,6 +399,7 @@
       "price": "2.79",
       "region": "au",
       "sku": "592907093080305666",
+      "store_id": "",
       "title": "Plastic Differential Gear Kit (1PCS) - Plastic Differential Gear Kit (1PCS) - LA026",
       "url": "https://au.store.bambulab.com/products/plastic-differential-gear-kit-1pcs?id=592907093080305666",
       "variant_id": "592907093080305666"
@@ -369,6 +412,7 @@
       "price": "1.99",
       "region": "asia",
       "sku": "592853801165471746",
+      "store_id": "",
       "title": "Plastic Differential Gear Kit (1PCS) - Plastic Differential Gear Kit (1PCS) - LA026",
       "url": "https://asia.store.bambulab.com/products/plastic-differential-gear-kit-1pcs?id=592853801165471746",
       "variant_id": "592853801165471746"

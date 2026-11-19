@@ -4,36 +4,49 @@
     {
       "handle": "catmaw-afv-model-car-for-scx10",
       "product_id": "8409370820744",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "catmaw-afv-model-car-for-scx10",
       "product_id": "9082350371056",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "catmaw-afv-model-car-for-scx10",
       "product_id": "9670302368092",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "catmaw-afv-model-car-for-scx10",
       "product_id": "7837391487036",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "catmaw-afv-model-car-for-scx10",
       "product_id": "528106233652920320",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "catmaw-afv-model-car-for-scx10",
       "product_id": "528088976995368960",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e7/e74a3f582bae05d3e827ca6452bbca7fee9d2f70b1ef33dd3fcd59d670a764f1.png",
       "id": "image-22244bca91db814f5ef8",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "Car-3.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e74a3f582bae05d3e827ca6452bbca7fee9d2f70b1ef33dd3fcd59d670a764f1",
       "size": 975077,
       "source_url": "https://store.bblcdn.com/s7/default/cd4c83cffdff4253a87af2fce2b34759/Car-3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c2/c2793f6abaa105a08463e8349c06a5417a3c1f2f2588f6c7e4981aade2d26f34.png",
       "id": "image-284f2061d4366635e00f",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH041.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c2793f6abaa105a08463e8349c06a5417a3c1f2f2588f6c7e4981aade2d26f34",
       "size": 80200,
       "source_url": "https://store.bblcdn.com/s7/default/28c01154630f4181a1e4cf1c953a3676/B-ZH041.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d0/d0f6fb28cf6790d44fc3f97092dd107dbf37e7979c04ba63cd19fbf326858446.png",
       "id": "image-980021cd33d960a7df71",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "Car-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d0f6fb28cf6790d44fc3f97092dd107dbf37e7979c04ba63cd19fbf326858446",
       "size": 977805,
       "source_url": "https://store.bblcdn.com/s7/default/9bffa3c4a13041afab513e5946b33ee5/Car-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2b/2ba2dd26af38f791afb7fbbf0b2b14407c181b84facc20e662bfb742da376870.png",
       "id": "image-850edc6e7efed4bff728",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "Car-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2ba2dd26af38f791afb7fbbf0b2b14407c181b84facc20e662bfb742da376870",
       "size": 843339,
       "source_url": "https://store.bblcdn.com/s7/default/8f01e0ed22e741cdb9f0ceaebf102108/Car-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a2/a29e988fa5fa77d5098c6ff57f0345aad779f17b314fa4791cb2069d6698ae91.png",
       "id": "image-display-63e064a1e17925bd2058",
       "image_processing": {
@@ -99,11 +120,13 @@
       "parent_asset_id": "image-22244bca91db814f5ef8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a29e988fa5fa77d5098c6ff57f0345aad779f17b314fa4791cb2069d6698ae91",
       "size": 849567,
       "source_url": "https://store.bblcdn.com/s7/default/cd4c83cffdff4253a87af2fce2b34759/Car-3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/de/de967311896bc1732d7dde42dc73a8b47d34730e80159dd1e02b0e64f44ddf19.png",
       "id": "image-display-316e326e33b3d3e7f8c9",
       "image_processing": {
@@ -121,11 +144,13 @@
       "parent_asset_id": "image-284f2061d4366635e00f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "de967311896bc1732d7dde42dc73a8b47d34730e80159dd1e02b0e64f44ddf19",
       "size": 77170,
       "source_url": "https://store.bblcdn.com/s7/default/28c01154630f4181a1e4cf1c953a3676/B-ZH041.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/89/8949095d727feb98e68a8e645e0bbdc3733be814581057ec49b9fdf07cd1b0a0.png",
       "id": "image-display-ce45a07b412c5827c2e9",
       "image_processing": {
@@ -143,11 +168,13 @@
       "parent_asset_id": "image-980021cd33d960a7df71",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8949095d727feb98e68a8e645e0bbdc3733be814581057ec49b9fdf07cd1b0a0",
       "size": 856392,
       "source_url": "https://store.bblcdn.com/s7/default/9bffa3c4a13041afab513e5946b33ee5/Car-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/29/295e8454e263d5c6fea202222e5957ffe96d1c627f007c9e7d42cb8e5a29a1bb.png",
       "id": "image-display-6f934ca2cc0418689b73",
       "image_processing": {
@@ -165,6 +192,7 @@
       "parent_asset_id": "image-850edc6e7efed4bff728",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "295e8454e263d5c6fea202222e5957ffe96d1c627f007c9e7d42cb8e5a29a1bb",
       "size": 737345,
       "source_url": "https://store.bblcdn.com/s7/default/8f01e0ed22e741cdb9f0ceaebf102108/Car-2.png"
@@ -302,7 +330,8 @@
   "description_text": "Creator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of Catmaw AFV - Model Car For SCX10 and obtain detailed information, please visit the Catmaw AFV - Model Car For SCX10 on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh041-catmaw-afv-model-car-for-scx10",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Catmaw AFV - Model Car For SCX10",
   "offers": [
@@ -314,6 +343,7 @@
       "price": "39.64",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
     },
     {
@@ -324,6 +354,7 @@
       "price": "45.63",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
     },
     {
@@ -334,6 +365,7 @@
       "price": "37.34",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
     },
     {
@@ -344,6 +376,7 @@
       "price": "31.71",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
     },
     {
@@ -354,6 +387,7 @@
       "price": "71.63",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
     },
     {
@@ -364,6 +398,7 @@
       "price": "36.04",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/catmaw-afv-model-car-for-scx10?skr=yes"
     }
   ],
@@ -483,6 +518,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -495,6 +531,7 @@
       "price": "39.64",
       "region": "us",
       "sku": "43045288116360",
+      "store_id": "",
       "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
       "url": "https://us.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=43045288116360",
       "variant_id": "43045288116360"
@@ -507,6 +544,7 @@
       "price": "45.63",
       "region": "ca",
       "sku": "46740550385904",
+      "store_id": "",
       "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
       "url": "https://ca.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=46740550385904",
       "variant_id": "46740550385904"
@@ -519,6 +557,7 @@
       "price": "37.34",
       "region": "eu",
       "sku": "49635638215004",
+      "store_id": "",
       "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
       "url": "https://eu.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=49635638215004",
       "variant_id": "49635638215004"
@@ -531,6 +570,7 @@
       "price": "31.71",
       "region": "uk",
       "sku": "42301528408124",
+      "store_id": "",
       "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
       "url": "https://uk.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=42301528408124",
       "variant_id": "42301528408124"
@@ -543,6 +583,7 @@
       "price": "71.63",
       "region": "au",
       "sku": "528106233678086146",
+      "store_id": "",
       "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
       "url": "https://au.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=528106233678086146",
       "variant_id": "528106233678086146"
@@ -555,6 +596,7 @@
       "price": "36.04",
       "region": "asia",
       "sku": "528088977016340482",
+      "store_id": "",
       "title": "Catmaw AFV - Model Car For SCX10 - Catmaw AFV - Model Car For SCX10 - ZH041",
       "url": "https://asia.store.bambulab.com/products/catmaw-afv-model-car-for-scx10?id=528088977016340482",
       "variant_id": "528088977016340482"

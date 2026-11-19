@@ -4,36 +4,49 @@
     {
       "handle": "filament-protection-kit",
       "product_id": "8422536544392",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "filament-protection-kit",
       "product_id": "9110895001840",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "filament-protection-kit",
       "product_id": "14777663717724",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "filament-protection-kit",
       "product_id": "536324043135270912",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "filament-protection-kit",
       "product_id": "536323711411453952",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "filament-protection-kit",
       "product_id": "536323182250430464",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8c/8c1cfba04bac23ed7afadd7f0e413b868904fee8377a82c8c6512bfc392b1ca8.png",
       "id": "image-613b3879cc7263b8b529",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "zh051.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8c1cfba04bac23ed7afadd7f0e413b868904fee8377a82c8c6512bfc392b1ca8",
       "size": 580953,
       "source_url": "https://store.bblcdn.com/s7/default/c6abf0f7d23c4d0e8e33423dcc4cd93f/zh051.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/58/58afb6abf07e06c53a8c656ce69d65722ce3fe17e5a8cea2206a8033f3a3af9d.zip",
       "id": "archive-65a7a6c479b85d4e0823",
       "kind": "archive",
@@ -53,11 +68,13 @@
       "original_filename": "Filament_Protection_Kit-B-ZH051_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "58afb6abf07e06c53a8c656ce69d65722ce3fe17e5a8cea2206a8033f3a3af9d",
       "size": 106521,
       "source_url": "https://store.bblcdn.com/s7/default/61fba33f24d148688de8432921f9a759/Filament_Protection_Kit-B-ZH051_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Circular Embedded Electronic Digital Thermometer Hygrometer - XF001/Circular Embedded Electronic Digital Thermometer Hygrometer - XF001.stl",
       "blob_path": "data/blobs/sha256/83/832212b90a83ae5ba7a841f441c6778fc0b9d14e396507193f288308e13453a5.stl",
       "id": "model-efadb1ed01fee5b7d943",
@@ -67,11 +84,13 @@
       "parent_asset_id": "archive-65a7a6c479b85d4e0823",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "832212b90a83ae5ba7a841f441c6778fc0b9d14e396507193f288308e13453a5",
       "size": 142984,
       "source_url": "https://store.bblcdn.com/s7/default/61fba33f24d148688de8432921f9a759/Filament_Protection_Kit-B-ZH051_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Circular Embedded Electronic Digital Thermometer Hygrometer - XF001/Circular Embedded Electronic Digital Thermometer Hygrometer - XF001.stp",
       "blob_path": "data/blobs/sha256/1b/1b5ec2821cfa6c03cb488aab0c0fdc14519ca89f8964f940653d316ed455b4b0.stp",
       "id": "model-1f84b87a3fbaeee30de4",
@@ -81,11 +100,13 @@
       "parent_asset_id": "archive-65a7a6c479b85d4e0823",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1b5ec2821cfa6c03cb488aab0c0fdc14519ca89f8964f940653d316ed455b4b0",
       "size": 421511,
       "source_url": "https://store.bblcdn.com/s7/default/61fba33f24d148688de8432921f9a759/Filament_Protection_Kit-B-ZH051_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e3/e3eb9a6848a9adeed3e2557bc538abe57e54e95f0efaa7bd70040f6f5f75474e.png",
       "id": "image-display-2aec8c31320a2e0b78bb",
       "image_processing": {
@@ -103,6 +124,7 @@
       "parent_asset_id": "image-613b3879cc7263b8b529",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e3eb9a6848a9adeed3e2557bc538abe57e54e95f0efaa7bd70040f6f5f75474e",
       "size": 128971,
       "source_url": "https://store.bblcdn.com/s7/default/c6abf0f7d23c4d0e8e33423dcc4cd93f/zh051.png"
@@ -175,7 +197,8 @@
   "description_text": "This Filament Protection Kit includes 6 packs of desiccant, 2 thermometer hygrometers, and 1 roll of adhesive foam sponge strip roll, effectively preventing filaments to absorb moisture by humid environments. The components in the kit can replace expired desiccants in the AMS and add standalone hygrometers. Additionally, they can be used to modify multiple filament storage boxes, providing a safer storage environment for opened filaments.\n\nAMS and Filament Box Maintenance: Equipped with sufficient desiccants to meet the replacement needs for expired desiccants.\n\nFilament Box Upgrades: Use adhesive foam sponge strip roll to enhance the sealing performance of DIY filament box, place desiccants inside to absorb moisture, and install hygrometers for real-time monitoring of storage conditions, ensuring filaments remain in optimal condition.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh051-filament-protection-kit",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Filament Protection Kit",
   "offers": [
@@ -187,6 +210,7 @@
       "price": "13.81",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
     },
     {
@@ -197,6 +221,7 @@
       "price": "17.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
     },
     {
@@ -207,6 +232,7 @@
       "price": "14.61",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
     },
     {
@@ -217,6 +243,7 @@
       "price": "12.32",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
     },
     {
@@ -227,6 +254,7 @@
       "price": "25.81",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
     },
     {
@@ -237,6 +265,7 @@
       "price": "12.46",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/filament-protection-kit?skr=yes"
     }
   ],
@@ -289,6 +318,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -301,6 +331,7 @@
       "price": "13.81",
       "region": "us",
       "sku": "43094396502152",
+      "store_id": "",
       "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
       "url": "https://us.store.bambulab.com/products/filament-protection-kit?id=43094396502152",
       "variant_id": "43094396502152"
@@ -313,6 +344,7 @@
       "price": "17.99",
       "region": "ca",
       "sku": "46816982532336",
+      "store_id": "",
       "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
       "url": "https://ca.store.bambulab.com/products/filament-protection-kit?id=46816982532336",
       "variant_id": "46816982532336"
@@ -325,6 +357,7 @@
       "price": "14.61",
       "region": "eu",
       "sku": "53492852457820",
+      "store_id": "",
       "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
       "url": "https://eu.store.bambulab.com/products/filament-protection-kit?id=53492852457820",
       "variant_id": "53492852457820"
@@ -337,6 +370,7 @@
       "price": "12.32",
       "region": "uk",
       "sku": "536324043147853826",
+      "store_id": "",
       "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
       "url": "https://uk.store.bambulab.com/products/filament-protection-kit?id=536324043147853826",
       "variant_id": "536324043147853826"
@@ -349,6 +383,7 @@
       "price": "25.81",
       "region": "au",
       "sku": "536323711419842562",
+      "store_id": "",
       "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
       "url": "https://au.store.bambulab.com/products/filament-protection-kit?id=536323711419842562",
       "variant_id": "536323711419842562"
@@ -361,6 +396,7 @@
       "price": "12.46",
       "region": "asia",
       "sku": "536323182263013378",
+      "store_id": "",
       "title": "Filament Protection Kit - Filament Protection Kit - ZH051",
       "url": "https://store.bambulab.com/products/filament-protection-kit?id=536323182263013378",
       "variant_id": "536323182263013378"

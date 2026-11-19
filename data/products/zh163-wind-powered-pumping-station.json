@@ -4,36 +4,49 @@
     {
       "handle": "wind-powered-pumping-station",
       "product_id": "753378678737903616",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wind-powered-pumping-station",
       "product_id": "753380330775564288",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wind-powered-pumping-station",
       "product_id": "753377626164506624",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wind-powered-pumping-station",
       "product_id": "753379856381358080",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wind-powered-pumping-station",
       "product_id": "753383794989780992",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wind-powered-pumping-station",
       "product_id": "751643645878751232",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/85/85a6cf92424ddfcaf15bfb143067f692fcdaea1de544513c17a864dcdb559126.png",
       "id": "image-61719eeba0cad585b775",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZH163.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "85a6cf92424ddfcaf15bfb143067f692fcdaea1de544513c17a864dcdb559126",
       "size": 3902302,
       "source_url": "https://store.bblcdn.com/s7/default/d47ebdc91bd54180992c9884b8cdc411/ZH163.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7c/7c0f22047a417a8980239596b2d214d26c7d5d1c555d910f5b4e86ed0c88ba60.png",
       "id": "image-cdd3d6628bd5fbf142aa",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH163_V.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7c0f22047a417a8980239596b2d214d26c7d5d1c555d910f5b4e86ed0c88ba60",
       "size": 279436,
       "source_url": "https://store.bblcdn.com/s7/default/ed7189add34647c69dde88a479a2fdcb/B-ZH163_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c1/c193572b44792d3f213d5e8ca54b8bc28b84bc924737b41f378febb442b4d951.png",
       "id": "image-display-74a3bcd53a8da31387bd",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-61719eeba0cad585b775",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c193572b44792d3f213d5e8ca54b8bc28b84bc924737b41f378febb442b4d951",
       "size": 1015278,
       "source_url": "https://store.bblcdn.com/s7/default/d47ebdc91bd54180992c9884b8cdc411/ZH163.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c7/c762448ad4f2ce2a26cbf131c0dac892e2d4e9b050e511ea50e7de96015a3bcb.png",
       "id": "image-display-ad4f0873bc5ea0740301",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-cdd3d6628bd5fbf142aa",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c762448ad4f2ce2a26cbf131c0dac892e2d4e9b050e511ea50e7de96015a3bcb",
       "size": 85750,
       "source_url": "https://store.bblcdn.com/s7/default/ed7189add34647c69dde88a479a2fdcb/B-ZH163_V.png"
@@ -177,7 +197,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Wind-powered Pumping Station - Wind Pump. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Wind-powered Pumping Station - Wind Pump on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh163-wind-powered-pumping-station",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Wind-powered Pumping Station",
   "offers": [
@@ -189,6 +210,7 @@
       "price": "17.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
     },
     {
@@ -199,6 +221,7 @@
       "price": "19.99",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
     },
     {
@@ -209,6 +232,7 @@
       "price": "18.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
     },
     {
@@ -219,6 +243,7 @@
       "price": "16.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
     },
     {
@@ -229,6 +254,7 @@
       "price": "26.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
     },
     {
@@ -239,6 +265,7 @@
       "price": "15.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/wind-powered-pumping-station?skr=yes"
     }
   ],
@@ -302,6 +329,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -314,6 +342,7 @@
       "price": "17.99",
       "region": "us",
       "sku": "753378678763069442",
+      "store_id": "",
       "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
       "url": "https://us.store.bambulab.com/products/wind-powered-pumping-station?id=753378678763069442",
       "variant_id": "753378678763069442"
@@ -326,6 +355,7 @@
       "price": "19.99",
       "region": "ca",
       "sku": "753380330796535808",
+      "store_id": "",
       "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
       "url": "https://ca.store.bambulab.com/products/wind-powered-pumping-station?id=753380330796535808",
       "variant_id": "753380330796535808"
@@ -338,6 +368,7 @@
       "price": "18.99",
       "region": "eu",
       "sku": "753377626185478144",
+      "store_id": "",
       "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
       "url": "https://eu.store.bambulab.com/products/wind-powered-pumping-station?id=753377626185478144",
       "variant_id": "753377626185478144"
@@ -350,6 +381,7 @@
       "price": "16.99",
       "region": "uk",
       "sku": "753379856427495424",
+      "store_id": "",
       "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
       "url": "https://uk.store.bambulab.com/products/wind-powered-pumping-station?id=753379856427495424",
       "variant_id": "753379856427495424"
@@ -362,6 +394,7 @@
       "price": "26.99",
       "region": "au",
       "sku": "753383795044306946",
+      "store_id": "",
       "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
       "url": "https://au.store.bambulab.com/products/wind-powered-pumping-station?id=753383795044306946",
       "variant_id": "753383795044306946"
@@ -374,6 +407,7 @@
       "price": "15.99",
       "region": "asia",
       "sku": "751643645920694274",
+      "store_id": "",
       "title": "Wind-powered Pumping Station - Wind-powered Pumping Station - ZH163",
       "url": "https://asia.store.bambulab.com/products/wind-powered-pumping-station?id=751643645920694274",
       "variant_id": "751643645920694274"

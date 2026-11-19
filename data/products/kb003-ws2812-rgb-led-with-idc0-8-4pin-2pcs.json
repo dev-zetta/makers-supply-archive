@@ -4,36 +4,49 @@
     {
       "handle": "ws2812-rgb-led-with-idc0-8-4pin-2pcs",
       "product_id": "592917518371307520",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ws2812-rgb-led-with-idc0-8-4pin-2pcs",
       "product_id": "592913893405839360",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ws2812-rgb-led-with-idc0-8-4pin-2pcs",
       "product_id": "14981032411484",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ws2812-rgb-led-with-idc0-8-4pin-2pcs",
       "product_id": "592910485916901376",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ws2812-rgb-led-with-idc0-8-4pin-2pcs",
       "product_id": "592908146058551296",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ws2812-rgb-led-with-idc0-8-4pin-2pcs",
       "product_id": "592858910784557056",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1d/1df20ec834b21e9776aac34994d472b0054bc2650c960c9f8f551c12b1681719.png",
       "id": "image-c1ff3d99c78f1e784deb",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-KB003-B.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1df20ec834b21e9776aac34994d472b0054bc2650c960c9f8f551c12b1681719",
       "size": 147491,
       "source_url": "https://store.bblcdn.com/s7/default/8d053b86471d4cb6b1c7bb93b8f29105/B-KB003-B.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/54/5467294b9049ce89ead612ffcc58c67842a45140bc4153e42c2f2a2ef44bdc1b.png",
       "id": "image-1ac17f060dfa62009d5b",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "WS2812_Multi-LED_Dual-Interface_Combo_-_ZL016.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5467294b9049ce89ead612ffcc58c67842a45140bc4153e42c2f2a2ef44bdc1b",
       "size": 355206,
       "source_url": "https://store.bblcdn.com/s7/default/d3c43ad818174eb395460744983057ad/WS2812_Multi-LED_Dual-Interface_Combo_-_ZL016.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/48/48ae73b56b9621991f1a3057b50baf1378fd6b888893964f18b2961a6739e57e.png",
       "id": "image-c3ecb3a15b512d1017ed",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-KB003.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "48ae73b56b9621991f1a3057b50baf1378fd6b888893964f18b2961a6739e57e",
       "size": 65737,
       "source_url": "https://store.bblcdn.com/s7/default/6392f9c8ab4748d0b0bd0bf69163a2ec/B-KB003.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/01/01fb83e379d93f84fd7bba083c3383cc388c279aff62c0aeac8ce5e892b39e52.zip",
       "id": "archive-6d5a46c4d073171afa6e",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "WS2812_RGB_LED_with_IDC0.8_4PIN-KB003_User_Manual.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "01fb83e379d93f84fd7bba083c3383cc388c279aff62c0aeac8ce5e892b39e52",
       "size": 372244,
       "source_url": "https://store.bblcdn.com/s1/default/9574027b003b4334a1ad48ecc75938bc/WS2812_RGB_LED_with_IDC0.8_4PIN-KB003_User_Manual.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c9/c9522da27fe2e7ee34f66de5b3b9d78a5ff0ce3961aa13f89dfecc6ac75265cb.zip",
       "id": "archive-0f14a8d64a95a7e5c943",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "WS2812_RGB_LED_with_IDC0.8_4PIN-KB003_3D_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c9522da27fe2e7ee34f66de5b3b9d78a5ff0ce3961aa13f89dfecc6ac75265cb",
       "size": 41324,
       "source_url": "https://store.bblcdn.com/s1/default/3bf10cc4229b4911a2cdae8cb25ef1e7/WS2812_RGB_LED_with_IDC0.8_4PIN-KB003_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "WS2812 RGB LED with IDC0.8 4PIN-KB003.stl",
       "blob_path": "data/blobs/sha256/0d/0d36d6f0856f9076e3df9c0a18e26764d3572f54877c6b11efcf77389738b27e.stl",
       "id": "model-9dd444a0533f72899e95",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-0f14a8d64a95a7e5c943",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0d36d6f0856f9076e3df9c0a18e26764d3572f54877c6b11efcf77389738b27e",
       "size": 65284,
       "source_url": "https://store.bblcdn.com/s1/default/3bf10cc4229b4911a2cdae8cb25ef1e7/WS2812_RGB_LED_with_IDC0.8_4PIN-KB003_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "WS2812 RGB LED with IDC0.8 4PIN-KB003.stp",
       "blob_path": "data/blobs/sha256/2e/2ecd4999ee9374b01189c25650c8ed073be65719a1f8039a6469da4329982a5b.stp",
       "id": "model-1402d6ac359af9cb6768",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-0f14a8d64a95a7e5c943",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2ecd4999ee9374b01189c25650c8ed073be65719a1f8039a6469da4329982a5b",
       "size": 140384,
       "source_url": "https://store.bblcdn.com/s1/default/3bf10cc4229b4911a2cdae8cb25ef1e7/WS2812_RGB_LED_with_IDC0.8_4PIN-KB003_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2e/2eb7714c4cee54a1cd1f273c9d616426c91e13ccd7b033deffcd12e7668b54de.png",
       "id": "image-display-835b438e19a0793977c4",
       "image_processing": {
@@ -139,11 +166,13 @@
       "parent_asset_id": "image-c1ff3d99c78f1e784deb",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2eb7714c4cee54a1cd1f273c9d616426c91e13ccd7b033deffcd12e7668b54de",
       "size": 45267,
       "source_url": "https://store.bblcdn.com/s7/default/8d053b86471d4cb6b1c7bb93b8f29105/B-KB003-B.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bc3e99e5039be2f3d445f7a700ca128f7254f5b8f6072ef537113f4ccdcf04fd.png",
       "id": "image-display-037a100e419647164776",
       "image_processing": {
@@ -161,11 +190,13 @@
       "parent_asset_id": "image-1ac17f060dfa62009d5b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bc3e99e5039be2f3d445f7a700ca128f7254f5b8f6072ef537113f4ccdcf04fd",
       "size": 83531,
       "source_url": "https://store.bblcdn.com/s7/default/d3c43ad818174eb395460744983057ad/WS2812_Multi-LED_Dual-Interface_Combo_-_ZL016.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/19/197ba63976584c9e63c4e6b7dc918e4944d88140a13c5884cafb7c4f5616c1c7.png",
       "id": "image-display-59d891d2d7e57b94b748",
       "image_processing": {
@@ -183,6 +214,7 @@
       "parent_asset_id": "image-c3ecb3a15b512d1017ed",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "197ba63976584c9e63c4e6b7dc918e4944d88140a13c5884cafb7c4f5616c1c7",
       "size": 53065,
       "source_url": "https://store.bblcdn.com/s7/default/6392f9c8ab4748d0b0bd0bf69163a2ec/B-KB003.png"
@@ -232,6 +264,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "kb003-ws2812-rgb-led-with-idc0-8-4pin-2pcs",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Dimensions",
@@ -264,6 +297,7 @@
       "price": "3.49",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?skr=yes"
     },
     {
@@ -274,6 +308,7 @@
       "price": "4.29",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?skr=yes"
     },
     {
@@ -284,6 +319,7 @@
       "price": "2.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?skr=yes"
     },
     {
@@ -294,6 +330,7 @@
       "price": "2.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?skr=yes"
     },
     {
@@ -304,6 +341,7 @@
       "price": "4.89",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?skr=yes"
     },
     {
@@ -314,6 +352,7 @@
       "price": "3.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?skr=yes"
     }
   ],
@@ -375,6 +414,7 @@
     "Product ID": "KB003",
     "Wire Length": "100mm"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -385,6 +425,7 @@
       "price": "3.49",
       "region": "us",
       "sku": "592917518379696130",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 RGB LED with IDC0.8 4PIN (2PCS) - KB003",
       "url": "https://us.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=592917518379696130",
       "variant_id": "592917518379696130"
@@ -397,6 +438,7 @@
       "price": "15.99",
       "region": "us",
       "sku": "682379944173998082",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 Multi-LED Dual-Interface Combo - ZL016",
       "url": "https://us.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=682379944173998082",
       "variant_id": "682379944173998082"
@@ -409,6 +451,7 @@
       "price": "4.29",
       "region": "ca",
       "sku": "592913893435199490",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 RGB LED with IDC0.8 4PIN (2PCS) - KB003",
       "url": "https://ca.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=592913893435199490",
       "variant_id": "592913893435199490"
@@ -421,6 +464,7 @@
       "price": "19.99",
       "region": "ca",
       "sku": "682380052383424514",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 Multi-LED Dual-Interface Combo - ZL016",
       "url": "https://ca.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=682380052383424514",
       "variant_id": "682380052383424514"
@@ -433,6 +477,7 @@
       "price": "2.49",
       "region": "eu",
       "sku": "54410658611548",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 RGB LED with IDC0.8 4PIN (2PCS) - KB003",
       "url": "https://eu.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=54410658611548",
       "variant_id": "54410658611548"
@@ -445,6 +490,7 @@
       "price": "13.99",
       "region": "eu",
       "sku": "682379785345474561",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 Multi-LED Dual-Interface Combo - ZL016",
       "url": "https://eu.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=682379785345474561",
       "variant_id": "682379785345474561"
@@ -457,6 +503,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "592910485933678594",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 RGB LED with IDC0.8 4PIN (2PCS) - KB003",
       "url": "https://uk.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=592910485933678594",
       "variant_id": "592910485933678594"
@@ -469,6 +516,7 @@
       "price": "13.99",
       "region": "uk",
       "sku": "682379994982727682",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 Multi-LED Dual-Interface Combo - ZL016",
       "url": "https://uk.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=682379994982727682",
       "variant_id": "682379994982727682"
@@ -481,6 +529,7 @@
       "price": "4.89",
       "region": "au",
       "sku": "592908146083717122",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 RGB LED with IDC0.8 4PIN (2PCS) - KB003",
       "url": "https://au.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=592908146083717122",
       "variant_id": "592908146083717122"
@@ -493,6 +542,7 @@
       "price": "22.99",
       "region": "au",
       "sku": "682380135966523394",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 Multi-LED Dual-Interface Combo - ZL016",
       "url": "https://au.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=682380135966523394",
       "variant_id": "682380135966523394"
@@ -505,6 +555,7 @@
       "price": "3.49",
       "region": "asia",
       "sku": "592858910801334274",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 RGB LED with IDC0.8 4PIN (2PCS) - KB003",
       "url": "https://asia.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=592858910801334274",
       "variant_id": "592858910801334274"
@@ -517,6 +568,7 @@
       "price": "15.99",
       "region": "asia",
       "sku": "682098747517751298",
+      "store_id": "",
       "title": "WS2812 RGB LED with IDC0.8 4PIN (2PCS) - WS2812 Multi-LED Dual-Interface Combo - ZL016",
       "url": "https://asia.store.bambulab.com/products/ws2812-rgb-led-with-idc0-8-4pin-2pcs?id=682098747517751298",
       "variant_id": "682098747517751298"

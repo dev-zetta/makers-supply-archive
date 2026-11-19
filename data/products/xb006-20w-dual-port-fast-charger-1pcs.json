@@ -4,36 +4,49 @@
     {
       "handle": "20w-dual-port-fast-charger-1pcs",
       "product_id": "617602474858921984",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "20w-dual-port-fast-charger-1pcs",
       "product_id": "617602219331072000",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "20w-dual-port-fast-charger-1pcs",
       "product_id": "617602806473531392",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "20w-dual-port-fast-charger-1pcs",
       "product_id": "617601770180325376",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "20w-dual-port-fast-charger-1pcs",
       "product_id": "617605279637188608",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "20w-dual-port-fast-charger-1pcs",
       "product_id": "616499264291659776",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/de/def6f623e8e9ff8cceaacaad5db2a0d8375dc7a1c048ffc054bc530de369bd90.png",
       "id": "image-24ba4e1d4fc434b9776a",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-XB009.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "def6f623e8e9ff8cceaacaad5db2a0d8375dc7a1c048ffc054bc530de369bd90",
       "size": 582543,
       "source_url": "https://store.bblcdn.com/s7/default/af992d66b0d1466bb99c78cf3fbcc396/B-XB009.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ff/ff499a986986a0012e8b6f86cb995bff41a386a639efc4f5626c0eef44479409.png",
       "id": "image-4f76757049445e8c460c",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "XB009.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ff499a986986a0012e8b6f86cb995bff41a386a639efc4f5626c0eef44479409",
       "size": 560454,
       "source_url": "https://store.bblcdn.com/s7/default/14695c8e30cf4cb8a60501ad6c986045/XB009.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/70/709c6d395107c9677b6d46a81af5f0db8793da92c37c5ef6434afb2f1bb2e35a.png",
       "id": "image-4182d1ae2576b584f82b",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "XC009_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "709c6d395107c9677b6d46a81af5f0db8793da92c37c5ef6434afb2f1bb2e35a",
       "size": 367751,
       "source_url": "https://store.bblcdn.com/s7/default/38b4a2f2948e4454aaaf9ec563c8973a/XC009_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5d/5d6a1072b6898ba08e084dbccd2215c01f19d76b5bd7635e56ba0a4e5c9a2980.png",
       "id": "image-display-e0a30fb37eec6be99b8e",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-24ba4e1d4fc434b9776a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5d6a1072b6898ba08e084dbccd2215c01f19d76b5bd7635e56ba0a4e5c9a2980",
       "size": 137686,
       "source_url": "https://store.bblcdn.com/s7/default/af992d66b0d1466bb99c78cf3fbcc396/B-XB009.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0c/0c74d841e323d61aea0555dd0a7098c46c97c2fafcc187823c861748bdfc6589.png",
       "id": "image-display-5ef7f6e1d4938f7bf591",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-4f76757049445e8c460c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0c74d841e323d61aea0555dd0a7098c46c97c2fafcc187823c861748bdfc6589",
       "size": 127038,
       "source_url": "https://store.bblcdn.com/s7/default/14695c8e30cf4cb8a60501ad6c986045/XB009.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ee/ee82ff7a819799c69fa8680a7fc8b804124f4592fe382e8d64f81e3615e643cd.png",
       "id": "image-display-372c7ca5e91f3d70a005",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-4182d1ae2576b584f82b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ee82ff7a819799c69fa8680a7fc8b804124f4592fe382e8d64f81e3615e643cd",
       "size": 95079,
       "source_url": "https://store.bblcdn.com/s7/default/38b4a2f2948e4454aaaf9ec563c8973a/XC009_1.png"
@@ -184,6 +208,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xb006-20w-dual-port-fast-charger-1pcs",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "20W Dual Port Fast Charger(1PCS)",
   "offers": [
@@ -195,6 +220,7 @@
       "price": "9.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/20w-dual-port-fast-charger-1pcs?skr=yes"
     },
     {
@@ -205,6 +231,7 @@
       "price": "9.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/20w-dual-port-fast-charger-1pcs?skr=yes"
     },
     {
@@ -215,6 +242,7 @@
       "price": "9.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/20w-dual-port-fast-charger-1pcs?skr=yes"
     },
     {
@@ -225,6 +253,7 @@
       "price": "9.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/20w-dual-port-fast-charger-1pcs?skr=yes"
     },
     {
@@ -235,6 +264,7 @@
       "price": "9.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/20w-dual-port-fast-charger-1pcs?skr=yes"
     },
     {
@@ -245,6 +275,7 @@
       "price": "9.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/20w-dual-port-fast-charger-1pcs?skr=yes"
     }
   ],
@@ -299,6 +330,7 @@
     "USB-A Output": "5V 3A 9V 2A 12V 1.5A",
     "USB-C Output": "5V 3A 9V 2.22A 12V 1.67A"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -309,6 +341,7 @@
       "price": "9.99",
       "region": "us",
       "sku": "617602474875699202",
+      "store_id": "",
       "title": "20W Dual Port Fast Charger(1PCS) - 20W Dual Port Fast Charger (1PCS) - XB006",
       "url": "https://us.store.bambulab.com/products/20w-dual-port-fast-charger-1pcs?id=617602474875699202",
       "variant_id": "617602474875699202"
@@ -321,6 +354,7 @@
       "price": "9.99",
       "region": "ca",
       "sku": "617602219343654914",
+      "store_id": "",
       "title": "20W Dual Port Fast Charger(1PCS) - 20W Dual Port Fast Charger (1PCS) - XB006",
       "url": "https://ca.store.bambulab.com/products/20w-dual-port-fast-charger-1pcs?id=617602219343654914",
       "variant_id": "617602219343654914"
@@ -333,6 +367,7 @@
       "price": "9.99",
       "region": "eu",
       "sku": "617602806498697216",
+      "store_id": "",
       "title": "20W Dual Port Fast Charger(1PCS) - 20W Dual Port Fast Charger (1PCS) - XB006",
       "url": "https://eu.store.bambulab.com/products/20w-dual-port-fast-charger-1pcs?id=617602806498697216",
       "variant_id": "617602806498697216"
@@ -345,6 +380,7 @@
       "price": "9.99",
       "region": "uk",
       "sku": "617601770197102594",
+      "store_id": "",
       "title": "20W Dual Port Fast Charger(1PCS) - 20W Dual Port Fast Charger (1PCS) - XB006",
       "url": "https://uk.store.bambulab.com/products/20w-dual-port-fast-charger-1pcs?id=617601770197102594",
       "variant_id": "617601770197102594"
@@ -357,6 +393,7 @@
       "price": "9.99",
       "region": "au",
       "sku": "617605279649771522",
+      "store_id": "",
       "title": "20W Dual Port Fast Charger(1PCS) - 20W Dual Port Fast Charger (1PCS) - XB006",
       "url": "https://au.store.bambulab.com/products/20w-dual-port-fast-charger-1pcs?id=617605279649771522",
       "variant_id": "617605279649771522"
@@ -369,6 +406,7 @@
       "price": "9.99",
       "region": "asia",
       "sku": "616499264308436994",
+      "store_id": "",
       "title": "20W Dual Port Fast Charger(1PCS) - 20W Dual Port Fast Charger (1PCS) - XB006",
       "url": "https://asia.store.bambulab.com/products/20w-dual-port-fast-charger-1pcs?id=616499264308436994",
       "variant_id": "616499264308436994"

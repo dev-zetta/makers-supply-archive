@@ -4,36 +4,49 @@
     {
       "handle": "maker-s-supply-esd-stainless-steel-tweezers-set",
       "product_id": "677741491446706176",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-esd-stainless-steel-tweezers-set",
       "product_id": "677738464419790848",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-esd-stainless-steel-tweezers-set",
       "product_id": "677743608815083520",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-esd-stainless-steel-tweezers-set",
       "product_id": "677739408996556800",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-esd-stainless-steel-tweezers-set",
       "product_id": "677735269348831232",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "maker-s-supply-esd-stainless-steel-tweezers-set",
       "product_id": "677713456915193856",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6c/6cba3506d1f202a6c20f6eae157d07100081d307b8714ea4f568478d33fc7bd9.png",
       "id": "image-e395bb8d9b2fd292937f",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "Group_1123863530.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6cba3506d1f202a6c20f6eae157d07100081d307b8714ea4f568478d33fc7bd9",
       "size": 257063,
       "source_url": "https://store.bblcdn.com/s7/default/f22dda8110114cf1b7c2616621905537/Group_1123863530.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/92/9249f62ceadc04976db0263d4e7a39fba37e554db0e0cb4f15d1b3bf8fcdd0f1.jpg",
       "id": "image-fcf704bc02ff644797a0",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "Frame_47901.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9249f62ceadc04976db0263d4e7a39fba37e554db0e0cb4f15d1b3bf8fcdd0f1",
       "size": 2283252,
       "source_url": "https://store.bblcdn.com/s7/default/900970243786475ba1bbca8165b43344/Frame_47901.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d9/d97afbb5990ef100f299b41f8f2d31538185073e5261eb36a2859f69856fa69d.png",
       "id": "image-display-96e302ca45256df6c67c",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-e395bb8d9b2fd292937f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d97afbb5990ef100f299b41f8f2d31538185073e5261eb36a2859f69856fa69d",
       "size": 93321,
       "source_url": "https://store.bblcdn.com/s7/default/f22dda8110114cf1b7c2616621905537/Group_1123863530.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dd/dd3bff7efe84fc00c424687f4a56a5b6890f8c55070556ff14942bbf9b4118dc.png",
       "id": "image-display-65b56843eaa214cf6372",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-fcf704bc02ff644797a0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dd3bff7efe84fc00c424687f4a56a5b6890f8c55070556ff14942bbf9b4118dc",
       "size": 695589,
       "source_url": "https://store.bblcdn.com/s7/default/900970243786475ba1bbca8165b43344/Frame_47901.jpg"
@@ -166,6 +186,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "maker-s-supply-esd-stainless-steel-tweezers-set",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Tip Thickness",
@@ -189,6 +210,7 @@
       "price": "5.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/maker-s-supply-esd-stainless-steel-tweezers-set?skr=yes"
     },
     {
@@ -199,6 +221,7 @@
       "price": "7.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/maker-s-supply-esd-stainless-steel-tweezers-set?skr=yes"
     },
     {
@@ -209,6 +232,7 @@
       "price": "6.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/maker-s-supply-esd-stainless-steel-tweezers-set?skr=yes"
     },
     {
@@ -219,6 +243,7 @@
       "price": "4.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/maker-s-supply-esd-stainless-steel-tweezers-set?skr=yes"
     },
     {
@@ -229,6 +254,7 @@
       "price": "8.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/maker-s-supply-esd-stainless-steel-tweezers-set?skr=yes"
     },
     {
@@ -239,6 +265,7 @@
       "price": "5.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/maker-s-supply-esd-stainless-steel-tweezers-set?skr=yes"
     }
   ],
@@ -299,6 +326,7 @@
     "Tip Thickness": "1.5 mm",
     "​ Configuration": "3-Piece Set"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -308,6 +336,7 @@
       "price": "5.99",
       "region": "us",
       "sku": "723308889991663617",
+      "store_id": "",
       "title": "Maker's Supply ESD Stainless Steel Tweezers Set - ESD Stainless Steel Tweezers Set",
       "url": "https://us.store.bambulab.com/products/maker-s-supply-esd-stainless-steel-tweezers-set?id=723308889991663617",
       "variant_id": "723308889991663617"
@@ -319,6 +348,7 @@
       "price": "7.99",
       "region": "ca",
       "sku": "723316326548295681",
+      "store_id": "",
       "title": "Maker's Supply ESD Stainless Steel Tweezers Set - ESD Stainless Steel Tweezers Set",
       "url": "https://ca.store.bambulab.com/products/maker-s-supply-esd-stainless-steel-tweezers-set?id=723316326548295681",
       "variant_id": "723316326548295681"
@@ -330,6 +360,7 @@
       "price": "6.99",
       "region": "eu",
       "sku": "725862931941912578",
+      "store_id": "",
       "title": "Maker's Supply ESD Stainless Steel Tweezers Set - ESD Stainless Steel Tweezers Set",
       "url": "https://eu.store.bambulab.com/products/maker-s-supply-esd-stainless-steel-tweezers-set?id=725862931941912578",
       "variant_id": "725862931941912578"
@@ -341,6 +372,7 @@
       "price": "4.99",
       "region": "uk",
       "sku": "723321425342734336",
+      "store_id": "",
       "title": "Maker's Supply ESD Stainless Steel Tweezers Set - ESD Stainless Steel Tweezers Set",
       "url": "https://uk.store.bambulab.com/products/maker-s-supply-esd-stainless-steel-tweezers-set?id=723321425342734336",
       "variant_id": "723321425342734336"
@@ -352,6 +384,7 @@
       "price": "8.99",
       "region": "au",
       "sku": "723314229480534017",
+      "store_id": "",
       "title": "Maker's Supply ESD Stainless Steel Tweezers Set - ESD Stainless Steel Tweezers Set",
       "url": "https://au.store.bambulab.com/products/maker-s-supply-esd-stainless-steel-tweezers-set?id=723314229480534017",
       "variant_id": "723314229480534017"
@@ -363,6 +396,7 @@
       "price": "5.99",
       "region": "asia",
       "sku": "723315176279568385",
+      "store_id": "",
       "title": "Maker's Supply ESD Stainless Steel Tweezers Set - ESD Stainless Steel Tweezers Set",
       "url": "https://asia.store.bambulab.com/products/maker-s-supply-esd-stainless-steel-tweezers-set?id=723315176279568385",
       "variant_id": "723315176279568385"

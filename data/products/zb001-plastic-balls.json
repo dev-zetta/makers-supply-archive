@@ -4,36 +4,49 @@
     {
       "handle": "plastic-balls",
       "product_id": "7969967997064",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "plastic-balls",
       "product_id": "8644561797360",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "plastic-balls",
       "product_id": "8849754325340",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "plastic-balls",
       "product_id": "7373055590460",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "plastic-balls",
       "product_id": "8272312729763",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "plastic-balls",
       "product_id": "7486547066995",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/01/01979190a060012764038278cf51c29286543bebe1be24414f49c97c9488be2d.png",
       "id": "image-7b058f90d12c40e03fa6",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZB001.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "01979190a060012764038278cf51c29286543bebe1be24414f49c97c9488be2d",
       "size": 113278,
       "source_url": "https://store.bblcdn.com/s7/default/38f930463a2e459381284fcb35a4da6b/ZB001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ab/abf0b410a9f64bb4839a42b235f3f48e16f6bc059b5d9b54162f9cd93f58aaf7.png",
       "id": "image-d581f2b902b29e0a458f",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "PlasticBall_18a350e0-611d-4199-bebc-e42c7772deb4.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "abf0b410a9f64bb4839a42b235f3f48e16f6bc059b5d9b54162f9cd93f58aaf7",
       "size": 208892,
       "source_url": "https://store.bblcdn.com/s7/default/f21729c5d5204c5d862c9a850662cedc/PlasticBall_18a350e0-611d-4199-bebc-e42c7772deb4.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/99/990b2f087a07fd1ea5f3c9f7e94cf6a2ebb6830a9d22db7f8de7aedb784a8d6e.pdf",
       "id": "document-a145527e3c14114c73d2",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "Plastic_Balls_327f9c3a-8289-437a-b66c-20ecbad03fb7.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "990b2f087a07fd1ea5f3c9f7e94cf6a2ebb6830a9d22db7f8de7aedb784a8d6e",
       "size": 372289,
       "source_url": "https://store.bblcdn.com/s7/default/e61eb14b5afc4d7d8c7cab13c1214f54/Plastic_Balls_327f9c3a-8289-437a-b66c-20ecbad03fb7.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/15/150e9dd1d77a58c42ee7ee03e5fcd2a04030aff8151ba41bcbe307075b9df920.zip",
       "id": "archive-0fb797baa3569a185578",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "Plastic_Ball_2.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "150e9dd1d77a58c42ee7ee03e5fcd2a04030aff8151ba41bcbe307075b9df920",
       "size": 98869,
       "source_url": "https://store.bblcdn.com/s7/default/647d696f1fd5439c9814849a0cb3528a/Plastic_Ball_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Plastic Ball/14mm Plastic Ball-ZB001/14mm Plastic Ball-ZB001.stl",
       "blob_path": "data/blobs/sha256/a7/a72e335c0be9711a4eaae6a69c4063e88d5fafa4b77b954fc0b0efef4ae6465f.stl",
       "id": "model-4e46324aec880dcaa555",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-0fb797baa3569a185578",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a72e335c0be9711a4eaae6a69c4063e88d5fafa4b77b954fc0b0efef4ae6465f",
       "size": 1459587,
       "source_url": "https://store.bblcdn.com/s7/default/647d696f1fd5439c9814849a0cb3528a/Plastic_Ball_2.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Plastic Ball/14mm Plastic Ball-ZB001/14mm Plastic Ball-ZB001.stp",
       "blob_path": "data/blobs/sha256/58/584e3dfa59e711a4be9a1bce69aebb0f0ca3da36d5bf9d6e9cda188443f2b1e6.stp",
       "id": "model-5ea223b5a1cd43c013a5",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-0fb797baa3569a185578",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "584e3dfa59e711a4be9a1bce69aebb0f0ca3da36d5bf9d6e9cda188443f2b1e6",
       "size": 18222,
       "source_url": "https://store.bblcdn.com/s7/default/647d696f1fd5439c9814849a0cb3528a/Plastic_Ball_2.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/90/90d7ecb287611749983966629b6058755392d0da4fd6a713b265fb60cd13be3b.png",
       "id": "image-display-ca0426aafa60534b9729",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-7b058f90d12c40e03fa6",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "90d7ecb287611749983966629b6058755392d0da4fd6a713b265fb60cd13be3b",
       "size": 67269,
       "source_url": "https://store.bblcdn.com/s7/default/38f930463a2e459381284fcb35a4da6b/ZB001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f9/f9aa337769aca47ffc37e25ad70d71bbaaac3009c59b3403617deae48e84efad.png",
       "id": "image-display-29764d36cc3b6fe869a9",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-d581f2b902b29e0a458f",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f9aa337769aca47ffc37e25ad70d71bbaaac3009c59b3403617deae48e84efad",
       "size": 85151,
       "source_url": "https://store.bblcdn.com/s7/default/f21729c5d5204c5d862c9a850662cedc/PlasticBall_18a350e0-611d-4199-bebc-e42c7772deb4.png"
@@ -178,6 +206,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zb001-plastic-balls",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "SD (mm) Diameter",
@@ -199,6 +228,7 @@
       "price": "4.39",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/plastic-balls?skr=yes"
     },
     {
@@ -209,6 +239,7 @@
       "price": "5.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/plastic-balls?skr=yes"
     },
     {
@@ -219,6 +250,7 @@
       "price": "4.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/plastic-balls?skr=yes"
     },
     {
@@ -229,6 +261,7 @@
       "price": "4.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/plastic-balls?skr=yes"
     },
     {
@@ -239,6 +272,7 @@
       "price": "9.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/plastic-balls?skr=yes"
     },
     {
@@ -249,6 +283,7 @@
       "price": "3.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/plastic-balls?skr=yes"
     }
   ],
@@ -331,6 +366,7 @@
     "SD (mm) Diameter": "14",
     "Surface Treatment": "No"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -341,6 +377,7 @@
       "price": "4.39",
       "region": "us",
       "sku": "42106493403272",
+      "store_id": "",
       "title": "Plastic Balls - 14mm Plastic ball (10PCS) - ZB001",
       "url": "https://us.store.bambulab.com/products/plastic-balls?id=42106493403272",
       "variant_id": "42106493403272"
@@ -353,6 +390,7 @@
       "price": "5.99",
       "region": "ca",
       "sku": "45651257491696",
+      "store_id": "",
       "title": "Plastic ball (10PCS) - ZB001 - 14mm Plastic ball (10PCS) - ZB001",
       "url": "https://ca.store.bambulab.com/products/plastic-balls?id=45651257491696",
       "variant_id": "45651257491696"
@@ -365,6 +403,7 @@
       "price": "4.99",
       "region": "eu",
       "sku": "47967235932508",
+      "store_id": "",
       "title": "Plastic ball (10PCS) - ZB001 - 14mm Plastic ball (10PCS) - ZB001",
       "url": "https://eu.store.bambulab.com/products/plastic-balls?id=47967235932508",
       "variant_id": "47967235932508"
@@ -377,6 +416,7 @@
       "price": "4.99",
       "region": "uk",
       "sku": "41314601173052",
+      "store_id": "",
       "title": "Plastic ball (10PCS) - ZB001 - 14mm Plastic ball (10PCS) - ZB001",
       "url": "https://uk.store.bambulab.com/products/plastic-balls?id=41314601173052",
       "variant_id": "41314601173052"
@@ -389,6 +429,7 @@
       "price": "9.99",
       "region": "au",
       "sku": "44156625977507",
+      "store_id": "",
       "title": "Plastic ball (10PCS) - ZB001 - 14mm Plastic ball (10PCS) - ZB001",
       "url": "https://au.store.bambulab.com/products/plastic-balls?id=44156625977507",
       "variant_id": "44156625977507"
@@ -401,6 +442,7 @@
       "price": "3.99",
       "region": "asia",
       "sku": "41568265633907",
+      "store_id": "",
       "title": "Plastic ball (10PCS) - ZB001 - 14mm Plastic ball (10PCS) - ZB001",
       "url": "https://asia.store.bambulab.com/products/plastic-balls?id=41568265633907",
       "variant_id": "41568265633907"

@@ -4,31 +4,42 @@
     {
       "handle": "cyberbrick-rc-wheel-loader",
       "product_id": "776307370400743424",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-rc-wheel-loader",
       "product_id": "776306838743351296",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-rc-wheel-loader",
       "product_id": "776307577687375872",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-rc-wheel-loader",
       "product_id": "776307082847584256",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-rc-wheel-loader",
       "product_id": "776306620710825984",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9c/9c7536731e87c518092544e0824dee737844ac379a3da09b2736eee5287215e9.png",
       "id": "image-3d73b7f25cd222fdd920",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "5189B568-F134-44FC-925C-1B62AF3D476B_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9c7536731e87c518092544e0824dee737844ac379a3da09b2736eee5287215e9",
       "size": 2165644,
       "source_url": "https://store.bblcdn.com/s7/default/5ffe3e109749467fa0ef0b83a8afd9df/5189B568-F134-44FC-925C-1B62AF3D476B_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dc/dcfbde4fcf5f6b5cc13d5de9aaf36d104e2553ee0f65bfc28dcba70e33eb1445.png",
       "id": "image-027e1d50d01256c2002e",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "F0AB02B0-07AA-4366-8F7D-A80D0A73186A_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dcfbde4fcf5f6b5cc13d5de9aaf36d104e2553ee0f65bfc28dcba70e33eb1445",
       "size": 2244856,
       "source_url": "https://store.bblcdn.com/s7/default/de689991405243fc8feef3ffcb7451de/F0AB02B0-07AA-4366-8F7D-A80D0A73186A_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/63/6327f8098c58db31cd1054632548ecfa06c5c2ec824f4adff4a267a2d3a29f68.png",
       "id": "image-059169f885bdd1c7cc6e",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "IMG_9600_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6327f8098c58db31cd1054632548ecfa06c5c2ec824f4adff4a267a2d3a29f68",
       "size": 4572471,
       "source_url": "https://store.bblcdn.com/s7/default/4382235cab1843af85da6f5d0aaa2d9d/IMG_9600_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c1/c1adeb2dedd8a27d5e19ef936febfa61a6077fe5bbe5e6d567980a92e805bc5e.png",
       "id": "image-e1742607ef248a2a0846",
       "kind": "image",
@@ -72,11 +89,13 @@
       "original_filename": "IMG_9599_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c1adeb2dedd8a27d5e19ef936febfa61a6077fe5bbe5e6d567980a92e805bc5e",
       "size": 4309365,
       "source_url": "https://store.bblcdn.com/s7/default/0acd45719e604d02a6fda8a669ea7f59/IMG_9599_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1d/1d7adf33340709bae94dfe5b601f13500c15f3a352a6c6bbe1cd379f2b4ca914.png",
       "id": "image-8002f24bde55addabbfc",
       "kind": "image",
@@ -84,11 +103,13 @@
       "original_filename": "IMG_9611_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1d7adf33340709bae94dfe5b601f13500c15f3a352a6c6bbe1cd379f2b4ca914",
       "size": 3699340,
       "source_url": "https://store.bblcdn.com/s7/default/203d70e34d3d4b1da1948e8037ecd68a/IMG_9611_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fc/fcf81e1f35e1bcb80bbd1462f578d57769b82597b629b4659280dd9c8e3f31af.png",
       "id": "image-display-15aadfdaa419441b4cc5",
       "image_processing": {
@@ -106,11 +127,13 @@
       "parent_asset_id": "image-3d73b7f25cd222fdd920",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fcf81e1f35e1bcb80bbd1462f578d57769b82597b629b4659280dd9c8e3f31af",
       "size": 541759,
       "source_url": "https://store.bblcdn.com/s7/default/5ffe3e109749467fa0ef0b83a8afd9df/5189B568-F134-44FC-925C-1B62AF3D476B_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f2/f2491764d7b79b28fcc740286e55f74ea40ab2669fd4e0eaea0cc161ec4b3ef5.png",
       "id": "image-display-d77ba1b02bf59a109ba9",
       "image_processing": {
@@ -128,11 +151,13 @@
       "parent_asset_id": "image-027e1d50d01256c2002e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f2491764d7b79b28fcc740286e55f74ea40ab2669fd4e0eaea0cc161ec4b3ef5",
       "size": 577645,
       "source_url": "https://store.bblcdn.com/s7/default/de689991405243fc8feef3ffcb7451de/F0AB02B0-07AA-4366-8F7D-A80D0A73186A_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/47/47f6564084f08476676ebbc4c2db4e87c515a3e6c56330d5fedf54f051706f0b.png",
       "id": "image-display-eef4c036da654fa80658",
       "image_processing": {
@@ -150,11 +175,13 @@
       "parent_asset_id": "image-059169f885bdd1c7cc6e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "47f6564084f08476676ebbc4c2db4e87c515a3e6c56330d5fedf54f051706f0b",
       "size": 1155051,
       "source_url": "https://store.bblcdn.com/s7/default/4382235cab1843af85da6f5d0aaa2d9d/IMG_9600_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7b/7b24d2d956165fddf077e2449709e66c994a29c169de836bfc0becbf322d7ae2.png",
       "id": "image-display-8eda3e01032baf6a4b94",
       "image_processing": {
@@ -172,11 +199,13 @@
       "parent_asset_id": "image-e1742607ef248a2a0846",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7b24d2d956165fddf077e2449709e66c994a29c169de836bfc0becbf322d7ae2",
       "size": 1122096,
       "source_url": "https://store.bblcdn.com/s7/default/0acd45719e604d02a6fda8a669ea7f59/IMG_9599_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/85/850bc1f43154ea7b9f3fb8be909eddde85e5ab427d63777020f5b20714a7427c.png",
       "id": "image-display-fb4e73d38bfbb511bf9f",
       "image_processing": {
@@ -194,6 +223,7 @@
       "parent_asset_id": "image-8002f24bde55addabbfc",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "850bc1f43154ea7b9f3fb8be909eddde85e5ab427d63777020f5b20714a7427c",
       "size": 1029240,
       "source_url": "https://store.bblcdn.com/s7/default/203d70e34d3d4b1da1948e8037ecd68a/IMG_9611_1.png"
@@ -516,7 +546,8 @@
   "description_text": "Watch the CyberBrick RC Wheel Loader bring its working front end to life. Its threaded-motor cylinders raise and tilt the bucket with smooth, controlled, hydraulic-style motion—authentic construction-machine action in a compact 1:25 scale build.\n\nompact in scale, big on character. This 3D-printed CyberBrick RC Wheel Loader combines articulated steering, detailed engineering, and a rugged working bucket for a model that looks as satisfying in motion as it does on display.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zl034-cyberbrick-rc-wheel-loader",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Cyberbrick RC Wheel Loader",
   "offers": [
@@ -528,6 +559,7 @@
       "price": "86.79",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/cyberbrick-rc-wheel-loader?skr=yes"
     },
     {
@@ -538,6 +570,7 @@
       "price": "114.09",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/cyberbrick-rc-wheel-loader?skr=yes"
     },
     {
@@ -548,6 +581,7 @@
       "price": "93.79",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/cyberbrick-rc-wheel-loader?skr=yes"
     },
     {
@@ -558,6 +592,7 @@
       "price": "76.99",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/cyberbrick-rc-wheel-loader?skr=yes"
     },
     {
@@ -568,6 +603,7 @@
       "price": "147.69",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/cyberbrick-rc-wheel-loader?skr=yes"
     }
   ],
@@ -691,6 +727,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -701,6 +738,7 @@
       "price": "86.79",
       "region": "us",
       "sku": "776307370413326342",
+      "store_id": "",
       "title": "Cyberbrick RC Wheel Loader - Yes - Remote Included / Cyberbrick RC Wheel Loader - Remote included - ZL034",
       "url": "https://us.store.bambulab.com/products/cyberbrick-rc-wheel-loader?id=776307370413326342",
       "variant_id": "776307370413326342"
@@ -713,6 +751,7 @@
       "price": "69.99",
       "region": "us",
       "sku": "776307370413326347",
+      "store_id": "",
       "title": "Cyberbrick RC Wheel Loader - No - Vehicle Only / Cyberbrick RC Wheel Loader - Remote not Included - ZL034-1",
       "url": "https://us.store.bambulab.com/products/cyberbrick-rc-wheel-loader?id=776307370413326347",
       "variant_id": "776307370413326347"
@@ -725,6 +764,7 @@
       "price": "114.09",
       "region": "ca",
       "sku": "776306838755934214",
+      "store_id": "",
       "title": "Cyberbrick RC Wheel Loader - Yes - Remote Included / Cyberbrick RC Wheel Loader - Remote included - ZL034",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-rc-wheel-loader?id=776306838755934214",
       "variant_id": "776306838755934214"
@@ -737,6 +777,7 @@
       "price": "89.59",
       "region": "ca",
       "sku": "776306838755934219",
+      "store_id": "",
       "title": "Cyberbrick RC Wheel Loader - No - Vehicle Only / Cyberbrick RC Wheel Loader - Remote not Included - ZL034-1",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-rc-wheel-loader?id=776306838755934219",
       "variant_id": "776306838755934219"
@@ -749,6 +790,7 @@
       "price": "93.79",
       "region": "eu",
       "sku": "776307577712541701",
+      "store_id": "",
       "title": "Cyberbrick RC Wheel Loader - Yes - Remote Included / Cyberbrick RC Wheel Loader - Remote included - ZL034",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-rc-wheel-loader?id=776307577712541701",
       "variant_id": "776307577712541701"
@@ -761,6 +803,7 @@
       "price": "76.99",
       "region": "eu",
       "sku": "776307577712541708",
+      "store_id": "",
       "title": "Cyberbrick RC Wheel Loader - No - Vehicle Only / Cyberbrick RC Wheel Loader - Remote not Included - ZL034-1",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-rc-wheel-loader?id=776307577712541708",
       "variant_id": "776307577712541708"
@@ -773,6 +816,7 @@
       "price": "76.99",
       "region": "uk",
       "sku": "776307082864361478",
+      "store_id": "",
       "title": "Cyberbrick RC Wheel Loader - Yes - Remote Included / Cyberbrick RC Wheel Loader - Remote included - ZL034",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-rc-wheel-loader?id=776307082864361478",
       "variant_id": "776307082864361478"
@@ -785,6 +829,7 @@
       "price": "62.99",
       "region": "uk",
       "sku": "776307082864361483",
+      "store_id": "",
       "title": "Cyberbrick RC Wheel Loader - No - Vehicle Only / Cyberbrick RC Wheel Loader - Remote not Included - ZL034-1",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-rc-wheel-loader?id=776307082864361483",
       "variant_id": "776307082864361483"
@@ -797,6 +842,7 @@
       "price": "147.69",
       "region": "au",
       "sku": "776306620731797509",
+      "store_id": "",
       "title": "Cyberbrick RC Wheel Loader - Yes - Remote Included / Cyberbrick RC Wheel Loader - Remote included - ZL034",
       "url": "https://au.store.bambulab.com/products/cyberbrick-rc-wheel-loader?id=776306620731797509",
       "variant_id": "776306620731797509"
@@ -809,6 +855,7 @@
       "price": "121.79",
       "region": "au",
       "sku": "776306620731797514",
+      "store_id": "",
       "title": "Cyberbrick RC Wheel Loader - No - Vehicle Only / Cyberbrick RC Wheel Loader - Remote not Included - ZL034-1",
       "url": "https://au.store.bambulab.com/products/cyberbrick-rc-wheel-loader?id=776306620731797514",
       "variant_id": "776306620731797514"

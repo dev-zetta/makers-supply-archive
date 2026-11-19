@@ -4,36 +4,49 @@
     {
       "handle": "running-dinosaur-automaton",
       "product_id": "8303175336072",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "running-dinosaur-automaton",
       "product_id": "8957620715760",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "running-dinosaur-automaton",
       "product_id": "9506670903644",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "running-dinosaur-automaton",
       "product_id": "7733912305724",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "running-dinosaur-automaton",
       "product_id": "8554933715107",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "running-dinosaur-automaton",
       "product_id": "7707599044723",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cc/cc6a3b02acee0aa54a16dfe634a2011bc1aa653632dd73a82c68cfbb2304ba8a.png",
       "id": "image-9e2819f973d35aba0d2d",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "Group_1123861345.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cc6a3b02acee0aa54a16dfe634a2011bc1aa653632dd73a82c68cfbb2304ba8a",
       "size": 94726,
       "source_url": "https://store.bblcdn.com/s7/default/d7f0484728294f1794d066c3fda21b6a/Group_1123861345.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f0/f0182038361ab52af09cdb55d56fb1c63bb80d043d3eee6489893b2409cf140d.png",
       "id": "image-d73803327f90f44556c1",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "Group_1123861265.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f0182038361ab52af09cdb55d56fb1c63bb80d043d3eee6489893b2409cf140d",
       "size": 300916,
       "source_url": "https://store.bblcdn.com/s7/default/addb9b445a7742c3a3da4bc29d9c1732/Group_1123861265.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3a/3a7d1eb538a2e16d11bd5edb4af44f63858bd6eca5c8bca9b0adb0de1193e048.png",
       "id": "image-display-1e0537ca956f641d89b8",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-9e2819f973d35aba0d2d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3a7d1eb538a2e16d11bd5edb4af44f63858bd6eca5c8bca9b0adb0de1193e048",
       "size": 84651,
       "source_url": "https://store.bblcdn.com/s7/default/d7f0484728294f1794d066c3fda21b6a/Group_1123861345.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f0/f036f0685b5a700df27147ab22dedaa270483f3597dabca737f27ca1929917b0.png",
       "id": "image-display-d7a904d9cc3776f56655",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-d73803327f90f44556c1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f036f0685b5a700df27147ab22dedaa270483f3597dabca737f27ca1929917b0",
       "size": 261684,
       "source_url": "https://store.bblcdn.com/s7/default/addb9b445a7742c3a3da4bc29d9c1732/Group_1123861265.png"
@@ -224,7 +244,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Running Dinosaur Automaton. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Running Dinosaur Automaton and obtain detailed information, please visit the Running Dinosaur Automaton on MakerWorld.\n\nPlease note that this Running Dinosaur Automaton is powered via USB and conveniently connects to your computer or other USB powered device. You also have the option of purchasing a USB Speed Controller to adjust the speed at which the dinosaur runs as needed.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh009-running-dinosaur-automaton",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Running Dinosaur Automaton",
   "offers": [
@@ -236,6 +257,7 @@
       "price": "20.56",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     },
     {
@@ -246,6 +268,7 @@
       "price": "23.81",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     },
     {
@@ -256,6 +279,7 @@
       "price": "19.48",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     },
     {
@@ -266,6 +290,7 @@
       "price": "16.54",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     },
     {
@@ -276,6 +301,7 @@
       "price": "37.36",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     },
     {
@@ -286,6 +312,7 @@
       "price": "18.8",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/running-dinosaur-automaton?skr=yes"
     }
   ],
@@ -387,6 +414,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -399,6 +427,7 @@
       "price": "20.56",
       "region": "us",
       "sku": "42800862167176",
+      "store_id": "",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
       "url": "https://us.store.bambulab.com/products/running-dinosaur-automaton?id=42800862167176",
       "variant_id": "42800862167176"
@@ -411,6 +440,7 @@
       "price": "23.81",
       "region": "ca",
       "sku": "46432067977456",
+      "store_id": "",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
       "url": "https://ca.store.bambulab.com/products/running-dinosaur-automaton?id=46432067977456",
       "variant_id": "46432067977456"
@@ -423,6 +453,7 @@
       "price": "19.48",
       "region": "eu",
       "sku": "49140669907292",
+      "store_id": "",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
       "url": "https://eu.store.bambulab.com/products/running-dinosaur-automaton?id=49140669907292",
       "variant_id": "49140669907292"
@@ -435,6 +466,7 @@
       "price": "16.54",
       "region": "uk",
       "sku": "42063211462716",
+      "store_id": "",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
       "url": "https://uk.store.bambulab.com/products/running-dinosaur-automaton?id=42063211462716",
       "variant_id": "42063211462716"
@@ -447,6 +479,7 @@
       "price": "37.36",
       "region": "au",
       "sku": "45057021214883",
+      "store_id": "",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
       "url": "https://au.store.bambulab.com/products/running-dinosaur-automaton?id=45057021214883",
       "variant_id": "45057021214883"
@@ -459,6 +492,7 @@
       "price": "18.8",
       "region": "asia",
       "sku": "42134823501939",
+      "store_id": "",
       "title": "Running Dinosaur Automaton - Running Dinosaur Automaton - ZH009",
       "url": "https://asia.store.bambulab.com/products/running-dinosaur-automaton?id=42134823501939",
       "variant_id": "42134823501939"

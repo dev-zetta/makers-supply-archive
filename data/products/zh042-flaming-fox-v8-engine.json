@@ -4,36 +4,49 @@
     {
       "handle": "flaming-fox-v8-engine",
       "product_id": "8445099245704",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "flaming-fox-v8-engine",
       "product_id": "548026092602376192",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "flaming-fox-v8-engine",
       "product_id": "14819925197148",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "flaming-fox-v8-engine",
       "product_id": "548026004042526720",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "flaming-fox-v8-engine",
       "product_id": "548025855720935424",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "flaming-fox-v8-engine",
       "product_id": "547996248830259200",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cc/ccf0836ff517d1c15ccfee7cbed16b5ee75a121193b99acb3e3b2298d4e16d80.png",
       "id": "image-dbca44dace0493a8ae73",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH042.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ccf0836ff517d1c15ccfee7cbed16b5ee75a121193b99acb3e3b2298d4e16d80",
       "size": 334482,
       "source_url": "https://store.bblcdn.com/s7/default/cc08d293f32f44c48c3dd37a670e174d/B-ZH042.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e4/e482067d50007250e53d6c6e28bd9d0099b211649720f852fed8a4a6c3945505.png",
       "id": "image-d1f6cd0b7f10fb231c80",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH042_L_af3adced-2061-45c3-ba6f-abd80384dfb5.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e482067d50007250e53d6c6e28bd9d0099b211649720f852fed8a4a6c3945505",
       "size": 94068,
       "source_url": "https://store.bblcdn.com/s7/default/0c053dc1eff1429f9b6792132d626d64/B-ZH042_L_af3adced-2061-45c3-ba6f-abd80384dfb5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/90/9099a1ac38a19549baea07c2fc3703b02f930447706c601fc997a73d82c896e6.png",
       "id": "image-91d55580d882e9e10cdd",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-ZH042-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9099a1ac38a19549baea07c2fc3703b02f930447706c601fc997a73d82c896e6",
       "size": 326607,
       "source_url": "https://store.bblcdn.com/s7/default/2a8c73f5da0349669d7205659c7e247d/B-ZH042-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7f/7f9c06cd3a4a698bf92b32341b2155945124672d3d805881602df3046bc0bc74.png",
       "id": "image-display-0e6e881c6f83a00ec8d6",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-dbca44dace0493a8ae73",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7f9c06cd3a4a698bf92b32341b2155945124672d3d805881602df3046bc0bc74",
       "size": 315540,
       "source_url": "https://store.bblcdn.com/s7/default/cc08d293f32f44c48c3dd37a670e174d/B-ZH042.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7d/7d565b60c02fdb65bb0ea325d6b63c87515227594ab31444f84a1b4174ce2be5.png",
       "id": "image-display-71072b024212aa00e8a0",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-d1f6cd0b7f10fb231c80",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7d565b60c02fdb65bb0ea325d6b63c87515227594ab31444f84a1b4174ce2be5",
       "size": 83275,
       "source_url": "https://store.bblcdn.com/s7/default/0c053dc1eff1429f9b6792132d626d64/B-ZH042_L_af3adced-2061-45c3-ba6f-abd80384dfb5.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e9/e9b5df99cd009cc7757558d8b4cb6c5b94456bd637888315fc0dd263944b015e.png",
       "id": "image-display-574194e408592617c5a7",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-91d55580d882e9e10cdd",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e9b5df99cd009cc7757558d8b4cb6c5b94456bd637888315fc0dd263944b015e",
       "size": 300264,
       "source_url": "https://store.bblcdn.com/s7/default/2a8c73f5da0349669d7205659c7e247d/B-ZH042-1.png"
@@ -194,7 +218,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling a fully functional Flaming Fox V8 Engine. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Flaming Fox V8 Engine and obtain detailed information, please visit the Flaming Fox V8 Engine on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh042-flaming-fox-v8-engine",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Flaming Fox V8 Engine Kit",
   "offers": [
@@ -206,6 +231,7 @@
       "price": "13.47",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
     },
     {
@@ -216,6 +242,7 @@
       "price": "15.5",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
     },
     {
@@ -226,6 +253,7 @@
       "price": "12.68",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
     },
     {
@@ -236,6 +264,7 @@
       "price": "10.77",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
     },
     {
@@ -246,6 +275,7 @@
       "price": "24.33",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
     },
     {
@@ -256,6 +286,7 @@
       "price": "12.24",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/flaming-fox-v8-engine?skr=yes"
     }
   ],
@@ -316,6 +347,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -328,6 +360,7 @@
       "price": "13.47",
       "region": "us",
       "sku": "43172248780936",
+      "store_id": "",
       "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
       "url": "https://us.store.bambulab.com/products/flaming-fox-v8-engine?id=43172248780936",
       "variant_id": "43172248780936"
@@ -340,6 +373,7 @@
       "price": "15.5",
       "region": "ca",
       "sku": "548026092610764802",
+      "store_id": "",
       "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
       "url": "https://ca.store.bambulab.com/products/flaming-fox-v8-engine?id=548026092610764802",
       "variant_id": "548026092610764802"
@@ -352,6 +386,7 @@
       "price": "12.68",
       "region": "eu",
       "sku": "53677808288092",
+      "store_id": "",
       "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
       "url": "https://eu.store.bambulab.com/products/flaming-fox-v8-engine?id=53677808288092",
       "variant_id": "53677808288092"
@@ -364,6 +399,7 @@
       "price": "10.77",
       "region": "uk",
       "sku": "548026004059303936",
+      "store_id": "",
       "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
       "url": "https://uk.store.bambulab.com/products/flaming-fox-v8-engine?id=548026004059303936",
       "variant_id": "548026004059303936"
@@ -376,6 +412,7 @@
       "price": "24.33",
       "region": "au",
       "sku": "548025855729324034",
+      "store_id": "",
       "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
       "url": "https://au.store.bambulab.com/products/flaming-fox-v8-engine?id=548025855729324034",
       "variant_id": "548025855729324034"
@@ -388,6 +425,7 @@
       "price": "12.24",
       "region": "asia",
       "sku": "547996248838647810",
+      "store_id": "",
       "title": "Flaming Fox V8 Engine Kit - Flaming Fox V8 Engine - ZH042",
       "url": "https://asia.store.bambulab.com/products/flaming-fox-v8-engine?id=547996248838647810",
       "variant_id": "547996248838647810"

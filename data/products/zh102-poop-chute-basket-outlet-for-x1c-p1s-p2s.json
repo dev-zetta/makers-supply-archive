@@ -4,36 +4,49 @@
     {
       "handle": "poop-chute-basket-outlet-for-x1c-p1s-p2s",
       "product_id": "712451493701722112",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "poop-chute-basket-outlet-for-x1c-p1s-p2s",
       "product_id": "712498824530333696",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "poop-chute-basket-outlet-for-x1c-p1s-p2s",
       "product_id": "712462721698410496",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "poop-chute-basket-outlet-for-x1c-p1s-p2s",
       "product_id": "712496879059156992",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "poop-chute-basket-outlet-for-x1c-p1s-p2s",
       "product_id": "712502749918613504",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "poop-chute-basket-outlet-for-x1c-p1s-p2s",
       "product_id": "711464304845443072",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2d/2df0b9a7d70ae3818a6bf4d9d44d5d9f7edfa428ce0b2b458958baed6f3f2f83.png",
       "id": "image-d751019daba2a7c87955",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH102.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2df0b9a7d70ae3818a6bf4d9d44d5d9f7edfa428ce0b2b458958baed6f3f2f83",
       "size": 3407044,
       "source_url": "https://store.bblcdn.com/s7/default/38bfa7f44a764ad99ff6f44d07887540/B-ZH102.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d5/d5f34542c21a5cf0080bcd64217e6e4cacc1cd0e71823f58e63bf9c05c6947b0.png",
       "id": "image-810467eb766b50bf714f",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH102_V.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d5f34542c21a5cf0080bcd64217e6e4cacc1cd0e71823f58e63bf9c05c6947b0",
       "size": 170148,
       "source_url": "https://store.bblcdn.com/s7/default/27b3670aa25148fc916fbfd2caa1c1b8/B-ZH102_V.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d4/d4b2a361b5d2602a5253e6c5e91875a4b982a338cb1f0840abe5ad48bafdccc0.png",
       "id": "image-display-6c77cb83ec2df0ff0f4e",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-d751019daba2a7c87955",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d4b2a361b5d2602a5253e6c5e91875a4b982a338cb1f0840abe5ad48bafdccc0",
       "size": 991335,
       "source_url": "https://store.bblcdn.com/s7/default/38bfa7f44a764ad99ff6f44d07887540/B-ZH102.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d2/d2c993cae11846da17d51e64bde46961959d7b1d1d5d2a8680595524a7261c51.png",
       "id": "image-display-3faddce5a9119681271b",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-810467eb766b50bf714f",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d2c993cae11846da17d51e64bde46961959d7b1d1d5d2a8680595524a7261c51",
       "size": 44465,
       "source_url": "https://store.bblcdn.com/s7/default/27b3670aa25148fc916fbfd2caa1c1b8/B-ZH102_V.png"
@@ -153,7 +173,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Poop Chute & Basket/Outlet for X1C/P1S/P2S. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Poop Chute & Basket/Outlet for X1C/P1S/P2S on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh102-poop-chute-basket-outlet-for-x1c-p1s-p2s",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Poop Chute & Basket/Outlet for X1C/P1S/P2S",
   "offers": [
@@ -165,6 +186,7 @@
       "price": "5.17",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?skr=yes"
     },
     {
@@ -175,6 +197,7 @@
       "price": "6.27",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?skr=yes"
     },
     {
@@ -185,6 +208,7 @@
       "price": "5.33",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?skr=yes"
     },
     {
@@ -195,6 +219,7 @@
       "price": "4.36",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?skr=yes"
     },
     {
@@ -205,6 +230,7 @@
       "price": "9.84",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?skr=yes"
     },
     {
@@ -215,6 +241,7 @@
       "price": "4.95",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?skr=yes"
     }
   ],
@@ -265,6 +292,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -277,6 +305,7 @@
       "price": "5.17",
       "region": "us",
       "sku": "712451493722693634",
+      "store_id": "",
       "title": "Poop Chute & Basket/Outlet for X1C/P1S/P2S - Poop Chute & Basket/Outlet for X1C/P1S/P2S - ZH102",
       "url": "https://us.store.bambulab.com/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?id=712451493722693634",
       "variant_id": "712451493722693634"
@@ -289,6 +318,7 @@
       "price": "6.27",
       "region": "ca",
       "sku": "712498824568082434",
+      "store_id": "",
       "title": "Poop Chute & Basket/Outlet for X1C/P1S/P2S - Poop Chute & Basket/Outlet for X1C/P1S/P2S - ZH102",
       "url": "https://ca.store.bambulab.com/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?id=712498824568082434",
       "variant_id": "712498824568082434"
@@ -301,6 +331,7 @@
       "price": "5.33",
       "region": "eu",
       "sku": "712462721710993410",
+      "store_id": "",
       "title": "Poop Chute & Basket/Outlet for X1C/P1S/P2S - Poop Chute & Basket/Outlet for X1C/P1S/P2S - ZH102",
       "url": "https://eu.store.bambulab.com/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?id=712462721710993410",
       "variant_id": "712462721710993410"
@@ -313,6 +344,7 @@
       "price": "4.36",
       "region": "uk",
       "sku": "712496879075934209",
+      "store_id": "",
       "title": "Poop Chute & Basket/Outlet for X1C/P1S/P2S - Poop Chute & Basket/Outlet for X1C/P1S/P2S - ZH102",
       "url": "https://uk.store.bambulab.com/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?id=712496879075934209",
       "variant_id": "712496879075934209"
@@ -325,6 +357,7 @@
       "price": "9.84",
       "region": "au",
       "sku": "712502749939585026",
+      "store_id": "",
       "title": "Poop Chute & Basket/Outlet for X1C/P1S/P2S - Poop Chute & Basket/Outlet for X1C/P1S/P2S - ZH102",
       "url": "https://au.store.bambulab.com/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?id=712502749939585026",
       "variant_id": "712502749939585026"
@@ -337,6 +370,7 @@
       "price": "4.95",
       "region": "asia",
       "sku": "711464304862220290",
+      "store_id": "",
       "title": "Poop Chute & Basket/Outlet for X1C/P1S/P2S - Poop Chute & Basket/Outlet for X1C/P1S/P2S - ZH102",
       "url": "https://asia.store.bambulab.com/products/poop-chute-basket-outlet-for-x1c-p1s-p2s?id=711464304862220290",
       "variant_id": "711464304862220290"

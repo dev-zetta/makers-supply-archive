@@ -4,31 +4,42 @@
     {
       "handle": "halloween-ghost",
       "product_id": "8374895673480",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-ghost",
       "product_id": "9033867133168",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-ghost",
       "product_id": "9594052215132",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-ghost",
       "product_id": "7795222675516",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "halloween-ghost",
       "product_id": "513250416060747776",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/95/9576a54eb0f31388b07628db625217c919674f73e16b94d0a08cd60fbb231a34.jpg",
       "id": "image-9b37b1f21ffd36f002a7",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "TREE_73bc3b07-cb05-4e6e-a31d-9e3df9b6f6b9.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9576a54eb0f31388b07628db625217c919674f73e16b94d0a08cd60fbb231a34",
       "size": 82642,
       "source_url": "https://store.bblcdn.com/s7/default/180b1c9d1fde4f219f7e56340fcf969b/TREE_73bc3b07-cb05-4e6e-a31d-9e3df9b6f6b9.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/74/74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0.png",
       "id": "image-69d74973c720c81c4912",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "flame_b033cd40-b8ab-4f19-8f8b-4e7eea637f96.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "74cdfcf5678242e556704ad4601b3f01ab145eb3823549641f3ae9e8308ea9d0",
       "size": 216756,
       "source_url": "https://store.bblcdn.com/s7/default/71c68f81fd2a41e89f483890cca1130f/flame_b033cd40-b8ab-4f19-8f8b-4e7eea637f96.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a1/a1bb8618262058494215353c812af7672192e45aa10b0124e9047a85f9ec9278.png",
       "id": "image-display-f2ea318f238a91a97df9",
       "image_processing": {
@@ -70,11 +85,13 @@
       "parent_asset_id": "image-9b37b1f21ffd36f002a7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a1bb8618262058494215353c812af7672192e45aa10b0124e9047a85f9ec9278",
       "size": 407337,
       "source_url": "https://store.bblcdn.com/s7/default/180b1c9d1fde4f219f7e56340fcf969b/TREE_73bc3b07-cb05-4e6e-a31d-9e3df9b6f6b9.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/45/450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037.png",
       "id": "image-display-2bb1cfbb1dd311bad51a",
       "image_processing": {
@@ -92,6 +109,7 @@
       "parent_asset_id": "image-69d74973c720c81c4912",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "450b48c015b4323c419063d32669ba4adaee5315afad36d420de970794dae037",
       "size": 69316,
       "source_url": "https://store.bblcdn.com/s7/default/71c68f81fd2a41e89f483890cca1130f/flame_b033cd40-b8ab-4f19-8f8b-4e7eea637f96.png"
@@ -143,7 +161,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Halloween Ghost. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Halloween Ghost and obtain detailed information, please visit the Halloween Ghost on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "dy009-halloween-ghost",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Halloween Ghost",
   "offers": [
@@ -155,6 +174,7 @@
       "price": "8.79",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/halloween-ghost?skr=yes"
     },
     {
@@ -165,6 +185,7 @@
       "price": "10.12",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/halloween-ghost?skr=yes"
     },
     {
@@ -175,6 +196,7 @@
       "price": "8.28",
       "region": "eu",
       "retrieved_at": "2026-11-10T14:27:25Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/halloween-ghost?skr=yes"
     },
     {
@@ -185,6 +207,7 @@
       "price": "7.03",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/halloween-ghost?skr=yes"
     },
     {
@@ -195,6 +218,7 @@
       "price": "7.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/halloween-ghost?skr=yes"
     }
   ],
@@ -238,6 +262,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -250,6 +275,7 @@
       "price": "8.79",
       "region": "us",
       "sku": "42935672471688",
+      "store_id": "",
       "title": "Halloween Ghost - Halloween Ghost - DY009",
       "url": "https://us.store.bambulab.com/products/halloween-ghost?id=42935672471688",
       "variant_id": "42935672471688"
@@ -262,6 +288,7 @@
       "price": "10.12",
       "region": "ca",
       "sku": "46602313728240",
+      "store_id": "",
       "title": "Halloween Ghost - Halloween Ghost - DY009",
       "url": "https://ca.store.bambulab.com/products/halloween-ghost?id=46602313728240",
       "variant_id": "46602313728240"
@@ -274,6 +301,7 @@
       "price": "8.28",
       "region": "eu",
       "sku": "49389774897500",
+      "store_id": "",
       "title": "Halloween Ghost - Halloween Ghost - DY009",
       "url": "https://eu.store.bambulab.com/products/halloween-ghost?id=49389774897500",
       "variant_id": "49389774897500"
@@ -286,6 +314,7 @@
       "price": "7.03",
       "region": "uk",
       "sku": "42186859282492",
+      "store_id": "",
       "title": "Halloween Ghost - Halloween Ghost - DY009",
       "url": "https://uk.store.bambulab.com/products/halloween-ghost?id=42186859282492",
       "variant_id": "42186859282492"
@@ -298,6 +327,7 @@
       "price": "7.99",
       "region": "asia",
       "sku": "513250416069136387",
+      "store_id": "",
       "title": "Halloween Ghost - Halloween Ghost - DY009",
       "url": "https://asia.store.bambulab.com/products/halloween-ghost?id=513250416069136387",
       "variant_id": "513250416069136387"

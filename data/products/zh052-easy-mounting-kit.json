@@ -4,36 +4,49 @@
     {
       "handle": "easy-mounting-kit",
       "product_id": "8421554192520",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "easy-mounting-kit",
       "product_id": "9110899949808",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "easy-mounting-kit",
       "product_id": "14777696747868",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "easy-mounting-kit",
       "product_id": "536327548637294592",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "easy-mounting-kit",
       "product_id": "536325792999022592",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "easy-mounting-kit",
       "product_id": "536325050664751104",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9f/9fce2309cf13af2b44241499ef5902cd37a3c8e9033253d902bce206a8457e23.png",
       "id": "image-bbc48082b2bb5bf793f7",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZH052.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9fce2309cf13af2b44241499ef5902cd37a3c8e9033253d902bce206a8457e23",
       "size": 718017,
       "source_url": "https://store.bblcdn.com/s7/default/2f978c0d4c424a16bd5140ef36d7740a/ZH052.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ad/ad2db909012421cc5d480f6adfde467a74baea9af9f258449a0fcccb259f2d73.zip",
       "id": "archive-1e2a36c33fba263f18af",
       "kind": "archive",
@@ -53,11 +68,13 @@
       "original_filename": "Easy_Mounting_Kit_-B-ZH052_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ad2db909012421cc5d480f6adfde467a74baea9af9f258449a0fcccb259f2d73",
       "size": 251850,
       "source_url": "https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Cap with Mushroom Head/25mm Suction Cap with Mushroom Head  - HA008.STEP",
       "blob_path": "data/blobs/sha256/61/616888540eff8b2235355f271996e30755a52e9c066e0893fd41ed37c6926b88.step",
       "id": "model-fdf7d8195597e0c211e0",
@@ -67,11 +84,13 @@
       "parent_asset_id": "archive-1e2a36c33fba263f18af",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "616888540eff8b2235355f271996e30755a52e9c066e0893fd41ed37c6926b88",
       "size": 52197,
       "source_url": "https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Cap with Mushroom Head/25mm Suction Cap with Mushroom Head  - HA008.STL",
       "blob_path": "data/blobs/sha256/86/86392d66043ced821d98832da27a4b21f03fde8cc77ac717e1c73abbbb132857.stl",
       "id": "model-924910112ed4f0dcc7a7",
@@ -81,11 +100,13 @@
       "parent_asset_id": "archive-1e2a36c33fba263f18af",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "86392d66043ced821d98832da27a4b21f03fde8cc77ac717e1c73abbbb132857",
       "size": 322384,
       "source_url": "https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/40mm Suction Caps with Flat Hea - HA005.STEP",
       "blob_path": "data/blobs/sha256/47/470719e345aed37862d243b62ceef652629ff8bfd90e0dbdf041860889df14a3.step",
       "id": "model-c826b9138729954e4cf1",
@@ -95,11 +116,13 @@
       "parent_asset_id": "archive-1e2a36c33fba263f18af",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "470719e345aed37862d243b62ceef652629ff8bfd90e0dbdf041860889df14a3",
       "size": 79455,
       "source_url": "https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "PVC Suction Pad with Flat Head/40mm Suction Caps with Flat Hea - HA005.STL",
       "blob_path": "data/blobs/sha256/22/223b56e49a7b2783b87c5138142a1d19afde563c5535b630f2059ba93bda0385.stl",
       "id": "model-27e4d4522f866cba4c07",
@@ -109,11 +132,13 @@
       "parent_asset_id": "archive-1e2a36c33fba263f18af",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "223b56e49a7b2783b87c5138142a1d19afde563c5535b630f2059ba93bda0385",
       "size": 445184,
       "source_url": "https://store.bblcdn.com/s7/default/3feb0a0107d04b57ae4790d2340a2efd/Easy_Mounting_Kit_-B-ZH052_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/05/0540880b3eb791b42f667ff88e9fcbfe800e3e310883ee897a7d1b38fd3af9c4.png",
       "id": "image-display-8d1853979f1a3211095a",
       "image_processing": {
@@ -131,6 +156,7 @@
       "parent_asset_id": "image-bbc48082b2bb5bf793f7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0540880b3eb791b42f667ff88e9fcbfe800e3e310883ee897a7d1b38fd3af9c4",
       "size": 169304,
       "source_url": "https://store.bblcdn.com/s7/default/2f978c0d4c424a16bd5140ef36d7740a/ZH052.png"
@@ -232,7 +258,8 @@
   "description_text": "The Easy Mounting Kit is a versatile mounting solution designed to effortlessly attach your creative projects to various smooth surfaces. The kit includes high-quality suction caps, double-sided tape, and reclosable fastener mounting tape, allowing you to secure models to refrigerators, tiles, cabinets, or other slick surfaces at any time. When used in combination with 3D-printed models, these components make mounting decorative or functional items more convenient and flexible. Whether you need a stable and strong hold or a way to easily move and reposition your creations, the Easy Mounting Kit has you covered.\n\nEffortless Model Mounting: Securely attach models to smooth surfaces such as glass, tiles, or cabinets with suction caps, making it easy to move and reposition your projects as needed for different settings.\n\nFlexible Display and Adjustment: Reclosable Fastener Mounting Tape offers a convenient, removable solution, allowing you to change and adjust the placement of decorations effortlessly for dynamic and versatile displays.\n\nReliable and Strong Installation: Double-Sided Foam Tape provides a firm hold, is residue-free upon removal, and is waterproof, delivering lasting support for your models.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh052-easy-mounting-kit",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Easy Mounting Kit",
   "offers": [
@@ -244,6 +271,7 @@
       "price": "16.98",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
     },
     {
@@ -254,6 +282,7 @@
       "price": "19.55",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
     },
     {
@@ -264,6 +293,7 @@
       "price": "16",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
     },
     {
@@ -274,6 +304,7 @@
       "price": "13.58",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
     },
     {
@@ -284,6 +315,7 @@
       "price": "30.69",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
     },
     {
@@ -294,6 +326,7 @@
       "price": "15.44",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/easy-mounting-kit?skr=yes"
     }
   ],
@@ -364,6 +397,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -376,6 +410,7 @@
       "price": "16.98",
       "region": "us",
       "sku": "43094725886088",
+      "store_id": "",
       "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
       "url": "https://us.store.bambulab.com/products/easy-mounting-kit?id=43094725886088",
       "variant_id": "43094725886088"
@@ -388,6 +423,7 @@
       "price": "19.55",
       "region": "ca",
       "sku": "46817009762544",
+      "store_id": "",
       "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
       "url": "https://ca.store.bambulab.com/products/easy-mounting-kit?id=46817009762544",
       "variant_id": "46817009762544"
@@ -400,6 +436,7 @@
       "price": "16",
       "region": "eu",
       "sku": "53492975305052",
+      "store_id": "",
       "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
       "url": "https://eu.store.bambulab.com/products/easy-mounting-kit?id=53492975305052",
       "variant_id": "53492975305052"
@@ -412,6 +449,7 @@
       "price": "13.58",
       "region": "uk",
       "sku": "536327548649877506",
+      "store_id": "",
       "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
       "url": "https://uk.store.bambulab.com/products/easy-mounting-kit?id=536327548649877506",
       "variant_id": "536327548649877506"
@@ -424,6 +462,7 @@
       "price": "30.69",
       "region": "au",
       "sku": "536325793011605506",
+      "store_id": "",
       "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
       "url": "https://au.store.bambulab.com/products/easy-mounting-kit?id=536325793011605506",
       "variant_id": "536325793011605506"
@@ -436,6 +475,7 @@
       "price": "15.44",
       "region": "asia",
       "sku": "536325050677334018",
+      "store_id": "",
       "title": "Easy Mounting Kit - Easy Mounting Kit - ZH052",
       "url": "https://store.bambulab.com/products/easy-mounting-kit?id=536325050677334018",
       "variant_id": "536325050677334018"

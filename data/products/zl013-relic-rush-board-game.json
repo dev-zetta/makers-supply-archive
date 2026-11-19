@@ -4,31 +4,42 @@
     {
       "handle": "relic-rush-board-game",
       "product_id": "703125251566784512",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "relic-rush-board-game",
       "product_id": "703124625153236992",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "relic-rush-board-game",
       "product_id": "703125379287863296",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "relic-rush-board-game",
       "product_id": "703125079245328384",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "relic-rush-board-game",
       "product_id": "703122334650089472",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ad/ad47aaa3bb121bb2939ef7367843bc8f47243d0f49c61c0454eb8e32baea4ea7.png",
       "id": "image-f6b9b9a17d42cd9b7607",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "0-CoverImage.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ad47aaa3bb121bb2939ef7367843bc8f47243d0f49c61c0454eb8e32baea4ea7",
       "size": 3886350,
       "source_url": "https://store.bblcdn.com/s7/default/8d75ab4da51c427781a5345e52bee68f/0-CoverImage.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/85/85342b134bd71ffb5ae1fa4e59f9b7bb82f68503f76b1b3f72239332d7d895d9.png",
       "id": "image-002cc4d9948ffa72fe6d",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "Group_1123863537.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "85342b134bd71ffb5ae1fa4e59f9b7bb82f68503f76b1b3f72239332d7d895d9",
       "size": 4315324,
       "source_url": "https://store.bblcdn.com/s7/default/d2a5dc531857473c96c058951c40ddd9/Group_1123863537.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/79/792d9165bc941a16544739cf8238327b55edf48971791f34ea6bcad5758a3ad6.png",
       "id": "image-c93721d8d05abfc1292a",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "007_3.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "792d9165bc941a16544739cf8238327b55edf48971791f34ea6bcad5758a3ad6",
       "size": 5141004,
       "source_url": "https://store.bblcdn.com/s7/default/9132c6daa59a4b85b0bf1f8fcaceb6b3/007_3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/05/0555f2d7f59ad46505298a800a0d5142f4abf4be2785e943fc3470e9122b67f2.png",
       "id": "image-510e717350da67834de6",
       "kind": "image",
@@ -72,11 +89,13 @@
       "original_filename": "A.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0555f2d7f59ad46505298a800a0d5142f4abf4be2785e943fc3470e9122b67f2",
       "size": 4882294,
       "source_url": "https://store.bblcdn.com/s7/default/b027fef82f36484da8d23e21fb08ea3e/A.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a2/a23ed1c84e3ea16f6e9653fc44ecf53aad17c85346d8014fce815e9ebfe85f9d.png",
       "id": "image-1bbb4063155ea2d206a1",
       "kind": "image",
@@ -84,11 +103,13 @@
       "original_filename": "E.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a23ed1c84e3ea16f6e9653fc44ecf53aad17c85346d8014fce815e9ebfe85f9d",
       "size": 3443482,
       "source_url": "https://store.bblcdn.com/s7/default/3f4483c221164bd590f572a16c1bfb07/E.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5b/5bbcf7ebfbe67fe469300518c02dc353782479dba59e2ef58f15e8244c4778a7.png",
       "id": "image-627e2d673df65d205e33",
       "kind": "image",
@@ -96,11 +117,13 @@
       "original_filename": "F.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5bbcf7ebfbe67fe469300518c02dc353782479dba59e2ef58f15e8244c4778a7",
       "size": 3459281,
       "source_url": "https://store.bblcdn.com/s7/default/f420aa9994614025b4c389f7011ebc76/F.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fa/fa6ded8af04bd65a98b1feda17fb751b958bf5d6b52dc71dcba3514c802fb3e1.png",
       "id": "image-298d9c6a643be8266f61",
       "kind": "image",
@@ -108,11 +131,13 @@
       "original_filename": "B2.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fa6ded8af04bd65a98b1feda17fb751b958bf5d6b52dc71dcba3514c802fb3e1",
       "size": 5026335,
       "source_url": "https://store.bblcdn.com/s7/default/7bf2074535c94dcca9665cf7ded4ba1d/B2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7d/7d8c46f5a54a35e15aa7d3ea5a701416cea18b0bae773fd002f489da26d50d06.png",
       "id": "image-21be05ab6ad77b8bbeb2",
       "kind": "image",
@@ -120,11 +145,13 @@
       "original_filename": "D.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7d8c46f5a54a35e15aa7d3ea5a701416cea18b0bae773fd002f489da26d50d06",
       "size": 4018844,
       "source_url": "https://store.bblcdn.com/s7/default/f758b93387c54d9ca15fa9d0888b9421/D.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f1/f1e06da778f574d059adb39c7d919254b8ac7dfeccda6a001d8f9a589982b648.zip",
       "id": "archive-87c7b3555b79655ff319",
       "kind": "archive",
@@ -132,11 +159,13 @@
       "original_filename": "Relic_Rush.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f1e06da778f574d059adb39c7d919254b8ac7dfeccda6a001d8f9a589982b648",
       "size": 45127884,
       "source_url": "https://store.bblcdn.com/s1/default/017d207929ab40d48deca79eb5e18941/Relic_Rush.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/78/78d43d5798a41e00dba4633cdf047ba653c312fa59f0147641ecc5c2ca30c32e.png",
       "id": "image-display-ed0d38e78d7e89033dbb",
       "image_processing": {
@@ -154,11 +183,13 @@
       "parent_asset_id": "image-f6b9b9a17d42cd9b7607",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "78d43d5798a41e00dba4633cdf047ba653c312fa59f0147641ecc5c2ca30c32e",
       "size": 1075175,
       "source_url": "https://store.bblcdn.com/s7/default/8d75ab4da51c427781a5345e52bee68f/0-CoverImage.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/01/01cfbac496930e37bc2724eb31cbf5bdfb051be11b7cb225e95e9ef85e57c080.png",
       "id": "image-display-4640ab46566577781298",
       "image_processing": {
@@ -176,11 +207,13 @@
       "parent_asset_id": "image-002cc4d9948ffa72fe6d",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "01cfbac496930e37bc2724eb31cbf5bdfb051be11b7cb225e95e9ef85e57c080",
       "size": 1123074,
       "source_url": "https://store.bblcdn.com/s7/default/d2a5dc531857473c96c058951c40ddd9/Group_1123863537.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9e/9ea8d2ec0085cb5a3ce94b0a55c2bfb79e0ec987e3bc6e9508691cafd537fd1d.png",
       "id": "image-display-1a0e6936d0893b29d790",
       "image_processing": {
@@ -198,11 +231,13 @@
       "parent_asset_id": "image-c93721d8d05abfc1292a",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9ea8d2ec0085cb5a3ce94b0a55c2bfb79e0ec987e3bc6e9508691cafd537fd1d",
       "size": 1185343,
       "source_url": "https://store.bblcdn.com/s7/default/9132c6daa59a4b85b0bf1f8fcaceb6b3/007_3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/34/347b6acaeb6c1d132302c39f46df3af9f12c907f324c29309ea12c0dbf3323d2.png",
       "id": "image-display-7ace5aeb49e1faf73d13",
       "image_processing": {
@@ -220,11 +255,13 @@
       "parent_asset_id": "image-510e717350da67834de6",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "347b6acaeb6c1d132302c39f46df3af9f12c907f324c29309ea12c0dbf3323d2",
       "size": 1319247,
       "source_url": "https://store.bblcdn.com/s7/default/b027fef82f36484da8d23e21fb08ea3e/A.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/14/14efd677ebf8b9a314d0316797dc3280b1b4c3137e730334868ddc42a99088c7.png",
       "id": "image-display-c938035514073497634d",
       "image_processing": {
@@ -242,11 +279,13 @@
       "parent_asset_id": "image-1bbb4063155ea2d206a1",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "14efd677ebf8b9a314d0316797dc3280b1b4c3137e730334868ddc42a99088c7",
       "size": 908341,
       "source_url": "https://store.bblcdn.com/s7/default/3f4483c221164bd590f572a16c1bfb07/E.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/68/68e863b8aa27c36b24b05d92d7848cedd77469bf1dd64cabf0a2bbeea8f31ab0.png",
       "id": "image-display-c33b706980367f3c1379",
       "image_processing": {
@@ -264,11 +303,13 @@
       "parent_asset_id": "image-627e2d673df65d205e33",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "68e863b8aa27c36b24b05d92d7848cedd77469bf1dd64cabf0a2bbeea8f31ab0",
       "size": 935133,
       "source_url": "https://store.bblcdn.com/s7/default/f420aa9994614025b4c389f7011ebc76/F.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2d/2d8f295c7f9ee930f46ba557f1d3308a7d28a623c7405b05896d333fdb325bbb.png",
       "id": "image-display-6bc9260715e35feffeb9",
       "image_processing": {
@@ -286,11 +327,13 @@
       "parent_asset_id": "image-298d9c6a643be8266f61",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2d8f295c7f9ee930f46ba557f1d3308a7d28a623c7405b05896d333fdb325bbb",
       "size": 1198165,
       "source_url": "https://store.bblcdn.com/s7/default/7bf2074535c94dcca9665cf7ded4ba1d/B2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a5/a537cd0db8602a076e959e3dbda2da62aa9300ea0d08c416f1d13716491269af.png",
       "id": "image-display-a036253769e09eb3f793",
       "image_processing": {
@@ -308,6 +351,7 @@
       "parent_asset_id": "image-21be05ab6ad77b8bbeb2",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a537cd0db8602a076e959e3dbda2da62aa9300ea0d08c416f1d13716491269af",
       "size": 1105098,
       "source_url": "https://store.bblcdn.com/s7/default/f758b93387c54d9ca15fa9d0888b9421/D.png"
@@ -1007,7 +1051,8 @@
   "description_text": "Step into the race of Relic Rush, a fast-paced, family-friendly board game where interaction, constant motion, and real-time excitement collide. It’s a thrilling game across a board that changes as you play, filled with interactive dangers and delightful surprises.\n\nWe recommend checking the project instruction first to see if this is the proper game for you. Find all details on the MakerWorld.\n\nThis model is offered as a crowdfunding project. Your purchase involves two steps:\n\n1. Purchase the necessary parts kit on this page to assemble your model.\n\n2. Get the 3D print files by backing the project on the crowdfunding page.\n\n*Relic Rush is continuously improved based on feedback from our players and makers. The Creator is actively refining models, mechanics, and components based on community feedback. For the latest updates, upgrade files, and additional content, be sure to follow the creator’s page on MakerWorld.\n\nEveryone takes their turns at once on a board that’s never static. Roll the dice, and if you land on a disaster—trigger it instantly with the custom remote!\n\nStrategy meets speed: plan your route, time your moves, and outpace the clock before time runs out and catastrophe strikes for all!\n\nThe board itself is your opponent. Navigate a landscape where every element can change:\n\nBridge: a collapse could knock out any players on the bridge and block one of the paths to the relics.\n\nSpikes: risking the spikes can provide a faster, but more dangerous path.\n\nStairs: one of the fastest paths to the relics can transform into a player-eliminating slide.\n\nWall: this rotating piece can open or block your path to the relics.\n\nRiver & Lava: time your movement to not get trapped and swept over the edge. Or be risky and climb the vertical lava-fall.\n\nChoose the experience that fits your style:\n\nCyberBrick Version: contains everything you need to build the game board with servo & motor-controlled interactive elements along with a remote. This is the default version of the game.\n\nWired Version: uses manually-operated traps without a remote control. This reduces the cost of components but still includes a motorized river and lava flow. To keep track of rounds, you can use this free timer app on your phone.\n\nBuild your custom remote and an optional storage container for the player figures, custom dice, relics and other game pieces.\n\nChoose between printable and laser-cut versions of each.\n\nThe storage box stacks with the remote.\n\nIncludes extra space for future expansion components.\n\nAre you up for a challenge? Relic Rush is a great project for people who enjoy the process of building something complex.\n\n360° of detailed design\n\n200+ unique parts.\n\nFinal weight: 3.5kg+\n\nFull step-by-step assembly guide (takes about 4 hours)\n\nPrint in multi-color or paint and detail it yourself.\n\nThe board is a versatile playspace—create and share your own game modes with the community.\n\nRelic Rush Board Game is designed to work with the Remote Control. The creator has uploaded pre-configured settings for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions. Visit Wiki\n\nExplore the Product Wiki & Documentation Need in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nExplore the Product Wiki & Documentation\n\nNeed in-depth assembly guides, troubleshooting, or technical details for this product? Visit our official Wiki to discover comprehensive resources and answers to all your questions.\n\nVisit Wiki\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to the Relic Rush Board Game.\n\nTo ensure safety, please read and carefully follow the guidelines below. Minors must be under direct adult supervision when using this product.\n\nIntended Users: This product is intended for users aged 16 and above. Users under the age of 16 must be under direct adult supervision throughout use.\n\nFirmware Safety: Please use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBattery & Charging: DO NOT use chargers with output higher than 5V or 2A. Use only the official battery and charger. Avoid exposing the battery to high temperatures or water.\n\nMaintenance & Storage: Before use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nOur company is not liable for any equipment damage, failure, fire, or other loss caused by non-compliance with the above requirements.\n\nPlease strictly follow the safety instructions for this product.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl013-relic-rush-board-game",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Relic Rush Board Game",
   "offers": [
@@ -1019,6 +1064,7 @@
       "price": "103.2",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/relic-rush-board-game?skr=yes"
     },
     {
@@ -1029,6 +1075,7 @@
       "price": "127.2",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/relic-rush-board-game?skr=yes"
     },
     {
@@ -1039,6 +1086,7 @@
       "price": "111.2",
       "region": "eu",
       "retrieved_at": "2026-11-10T13:52:35Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/relic-rush-board-game?skr=yes"
     },
     {
@@ -1049,6 +1097,7 @@
       "price": "91.2",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/relic-rush-board-game?skr=yes"
     },
     {
@@ -1059,6 +1108,7 @@
       "price": "172",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/relic-rush-board-game?skr=yes"
     }
   ],
@@ -1302,6 +1352,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -1314,6 +1365,7 @@
       "price": "103.2",
       "region": "us",
       "sku": "703125251579367427",
+      "store_id": "",
       "title": "Relic Rush Board Game - Relic Rush Board Game (CyberBrick RC Version) - ZL013",
       "url": "https://us.store.bambulab.com/products/relic-rush-board-game?id=703125251579367427",
       "variant_id": "703125251579367427"
@@ -1326,6 +1378,7 @@
       "price": "41.59",
       "region": "us",
       "sku": "703125251579367431",
+      "store_id": "",
       "title": "Relic Rush Board Game - Relic Rush Board Game (Wired Version) - ZL014",
       "url": "https://us.store.bambulab.com/products/relic-rush-board-game?id=703125251579367431",
       "variant_id": "703125251579367431"
@@ -1338,6 +1391,7 @@
       "price": "127.2",
       "region": "ca",
       "sku": "703124625161625601",
+      "store_id": "",
       "title": "Relic Rush Board Game - Relic Rush Board Game (CyberBrick RC Version) - ZL013",
       "url": "https://ca.store.bambulab.com/products/relic-rush-board-game?id=703124625161625601",
       "variant_id": "703124625161625601"
@@ -1350,6 +1404,7 @@
       "price": "52.79",
       "region": "ca",
       "sku": "703124625161625605",
+      "store_id": "",
       "title": "Relic Rush Board Game - Relic Rush Board Game (Wired Version) - ZL014",
       "url": "https://ca.store.bambulab.com/products/relic-rush-board-game?id=703124625161625605",
       "variant_id": "703124625161625605"
@@ -1362,6 +1417,7 @@
       "price": "111.2",
       "region": "eu",
       "sku": "703125379300446211",
+      "store_id": "",
       "title": "Relic Rush Board Game - Relic Rush Board Game (CyberBrick RC Version) - ZL013",
       "url": "https://eu.store.bambulab.com/products/relic-rush-board-game?id=703125379300446211",
       "variant_id": "703125379300446211"
@@ -1374,6 +1430,7 @@
       "price": "46.39",
       "region": "eu",
       "sku": "703125379304640513",
+      "store_id": "",
       "title": "Relic Rush Board Game - Relic Rush Board Game (Wired Version) - ZL014",
       "url": "https://eu.store.bambulab.com/products/relic-rush-board-game?id=703125379304640513",
       "variant_id": "703125379304640513"
@@ -1386,6 +1443,7 @@
       "price": "91.2",
       "region": "uk",
       "sku": "703125079262105603",
+      "store_id": "",
       "title": "Relic Rush Board Game - Relic Rush Board Game (CyberBrick RC Version) - ZL013",
       "url": "https://uk.store.bambulab.com/products/relic-rush-board-game?id=703125079262105603",
       "variant_id": "703125079262105603"
@@ -1398,6 +1456,7 @@
       "price": "39.99",
       "region": "uk",
       "sku": "703125079262105607",
+      "store_id": "",
       "title": "Relic Rush Board Game - Relic Rush Board Game (Wired Version) - ZL014",
       "url": "https://uk.store.bambulab.com/products/relic-rush-board-game?id=703125079262105607",
       "variant_id": "703125079262105607"
@@ -1410,6 +1469,7 @@
       "price": "172",
       "region": "au",
       "sku": "703122334658478084",
+      "store_id": "",
       "title": "Relic Rush Board Game - Relic Rush Board Game (CyberBrick RC Version) - ZL013",
       "url": "https://au.store.bambulab.com/products/relic-rush-board-game?id=703122334658478084",
       "variant_id": "703122334658478084"
@@ -1422,6 +1482,7 @@
       "price": "79.99",
       "region": "au",
       "sku": "703122334658478088",
+      "store_id": "",
       "title": "Relic Rush Board Game - Relic Rush Board Game (Wired Version) - ZL014",
       "url": "https://au.store.bambulab.com/products/relic-rush-board-game?id=703122334658478088",
       "variant_id": "703122334658478088"

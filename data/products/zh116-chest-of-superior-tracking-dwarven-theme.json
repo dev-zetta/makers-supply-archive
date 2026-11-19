@@ -4,36 +4,49 @@
     {
       "handle": "chest-of-superior-tracking-dwarven-theme",
       "product_id": "654959164350304256",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "chest-of-superior-tracking-dwarven-theme",
       "product_id": "654960228196036608",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "chest-of-superior-tracking-dwarven-theme",
       "product_id": "654959857010921472",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "chest-of-superior-tracking-dwarven-theme",
       "product_id": "654959506953408512",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "chest-of-superior-tracking-dwarven-theme",
       "product_id": "654960482884669440",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "chest-of-superior-tracking-dwarven-theme",
       "product_id": "654934544487092224",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/66/66c02cfd5507bf75565c105c386f3cfb3a99979ee9c0e8b781fac7ca980f8c5a.png",
       "id": "image-dc08d26179c7e0881a8c",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH116.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "66c02cfd5507bf75565c105c386f3cfb3a99979ee9c0e8b781fac7ca980f8c5a",
       "size": 3210562,
       "source_url": "https://store.bblcdn.com/s7/default/010c646ad19f47be8153de24610eff85/B-ZH116.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f9/f9ae421ce86c974b2ca027fff79cc3e9d99445c9ed3e5dfba70da99a8c5ef616.png",
       "id": "image-7a6b2db0e8c87d2e8b23",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH116-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f9ae421ce86c974b2ca027fff79cc3e9d99445c9ed3e5dfba70da99a8c5ef616",
       "size": 128328,
       "source_url": "https://store.bblcdn.com/s7/default/04b175a514644455b9d940628ba9e77a/ZH116-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a3/a3acbe06e976ad79e2bc6996fa516be43c66c3fbb6b52045e4b0100a139c3376.png",
       "id": "image-display-c9322b9941ad3563572a",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-dc08d26179c7e0881a8c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a3acbe06e976ad79e2bc6996fa516be43c66c3fbb6b52045e4b0100a139c3376",
       "size": 879964,
       "source_url": "https://store.bblcdn.com/s7/default/010c646ad19f47be8153de24610eff85/B-ZH116.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/23/23ebba68b42859d7723457e9afd260caaa8006f71ee9fabed77725bb5c6337d7.png",
       "id": "image-display-dc31a971467f820a0ffa",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-7a6b2db0e8c87d2e8b23",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "23ebba68b42859d7723457e9afd260caaa8006f71ee9fabed77725bb5c6337d7",
       "size": 33443,
       "source_url": "https://store.bblcdn.com/s7/default/04b175a514644455b9d940628ba9e77a/ZH116-1.png"
@@ -166,7 +186,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Chest of Superior Tracking - Dwarven Theme. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Chest of Superior Tracking - Dwarven Theme on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh116-chest-of-superior-tracking-dwarven-theme",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Chest of Superior Tracking - Dwarven Theme",
   "offers": [
@@ -178,6 +199,7 @@
       "price": "5.14",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/chest-of-superior-tracking-dwarven-theme?skr=yes"
     },
     {
@@ -188,6 +210,7 @@
       "price": "5.45",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/chest-of-superior-tracking-dwarven-theme?skr=yes"
     },
     {
@@ -198,6 +221,7 @@
       "price": "4.84",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/chest-of-superior-tracking-dwarven-theme?skr=yes"
     },
     {
@@ -208,6 +232,7 @@
       "price": "3.78",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/chest-of-superior-tracking-dwarven-theme?skr=yes"
     },
     {
@@ -218,6 +243,7 @@
       "price": "8.55",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/chest-of-superior-tracking-dwarven-theme?skr=yes"
     },
     {
@@ -228,6 +254,7 @@
       "price": "4.3",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/chest-of-superior-tracking-dwarven-theme?skr=yes"
     }
   ],
@@ -288,6 +315,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -300,6 +328,7 @@
       "price": "5.14",
       "region": "us",
       "sku": "654959164367081474",
+      "store_id": "",
       "title": "Chest of Superior Tracking - Dwarven Theme - Chest of Superior Tracking - Dwarven Theme - ZH116",
       "url": "https://us.store.bambulab.com/products/chest-of-superior-tracking-dwarven-theme?id=654959164367081474",
       "variant_id": "654959164367081474"
@@ -312,6 +341,7 @@
       "price": "5.45",
       "region": "ca",
       "sku": "654960228208619522",
+      "store_id": "",
       "title": "Chest of Superior Tracking - Dwarven Theme - Chest of Superior Tracking - Dwarven Theme - ZH116",
       "url": "https://ca.store.bambulab.com/products/chest-of-superior-tracking-dwarven-theme?id=654960228208619522",
       "variant_id": "654960228208619522"
@@ -324,6 +354,7 @@
       "price": "4.84",
       "region": "eu",
       "sku": "654959857023504386",
+      "store_id": "",
       "title": "Chest of Superior Tracking - Dwarven Theme - Chest of Superior Tracking - Dwarven Theme - ZH116",
       "url": "https://eu.store.bambulab.com/products/chest-of-superior-tracking-dwarven-theme?id=654959857023504386",
       "variant_id": "654959857023504386"
@@ -336,6 +367,7 @@
       "price": "3.78",
       "region": "uk",
       "sku": "654959506991157250",
+      "store_id": "",
       "title": "Chest of Superior Tracking - Dwarven Theme - Chest of Superior Tracking - Dwarven Theme - ZH116",
       "url": "https://uk.store.bambulab.com/products/chest-of-superior-tracking-dwarven-theme?id=654959506991157250",
       "variant_id": "654959506991157250"
@@ -348,6 +380,7 @@
       "price": "8.55",
       "region": "au",
       "sku": "654960482897252354",
+      "store_id": "",
       "title": "Chest of Superior Tracking - Dwarven Theme - Chest of Superior Tracking - Dwarven Theme - ZH116",
       "url": "https://au.store.bambulab.com/products/chest-of-superior-tracking-dwarven-theme?id=654960482897252354",
       "variant_id": "654960482897252354"
@@ -360,6 +393,7 @@
       "price": "4.3",
       "region": "asia",
       "sku": "654934544529035266",
+      "store_id": "",
       "title": "Chest of Superior Tracking - Dwarven Theme - Chest of Superior Tracking - Dwarven Theme - ZH116",
       "url": "https://asia.store.bambulab.com/products/chest-of-superior-tracking-dwarven-theme?id=654934544529035266",
       "variant_id": "654934544529035266"

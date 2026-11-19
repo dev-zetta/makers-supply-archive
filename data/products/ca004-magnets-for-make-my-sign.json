@@ -4,36 +4,49 @@
     {
       "handle": "magnets-for-make-my-sign",
       "product_id": "8301957939336",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "magnets-for-make-my-sign",
       "product_id": "554136683759050752",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "magnets-for-make-my-sign",
       "product_id": "14838106456412",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "magnets-for-make-my-sign",
       "product_id": "554136335885213696",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "magnets-for-make-my-sign",
       "product_id": "554136187220574208",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "magnets-for-make-my-sign",
       "product_id": "7725015138419",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/16/1614fa2e1567bd848a5a9742a9bc378c0754e21b782088bb306c43ebe091ddc2.png",
       "id": "image-51a1c1f486bc23338ded",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "CA004.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1614fa2e1567bd848a5a9742a9bc378c0754e21b782088bb306c43ebe091ddc2",
       "size": 85064,
       "source_url": "https://store.bblcdn.com/s7/default/53073364b2f44c278c346d9b172dec70/CA004.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2f/2fe2d247a6d86cdb5ca41a39b4b6ee0bd38307267dd9d5dbb13f88433462686d.png",
       "id": "image-85111bf1c48403795b6d",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "CA010.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2fe2d247a6d86cdb5ca41a39b4b6ee0bd38307267dd9d5dbb13f88433462686d",
       "size": 85800,
       "source_url": "https://store.bblcdn.com/s7/default/929bc3360ba344fe9c8f572041cbf922/CA010.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e4/e44259dbc1f13757b91fbcc67d4811ac507cece84f2e73c8cb46600f37184b24.png",
       "id": "image-cdfe4e9199fa20004320",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "Magnets_56bab121-53fa-47a2-baae-895b11f08751.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e44259dbc1f13757b91fbcc67d4811ac507cece84f2e73c8cb46600f37184b24",
       "size": 251853,
       "source_url": "https://store.bblcdn.com/s7/default/bd5b2f7de2bc442ea376581941274acf/Magnets_56bab121-53fa-47a2-baae-895b11f08751.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7a/7af676b623e27822b2940e09b09c13dfc13169fe2b9f28df0a11003a7b862164.pdf",
       "id": "document-213b34ba64c03c53626e",
       "kind": "document",
@@ -77,11 +96,13 @@
       "original_filename": "Round_Magnets.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7af676b623e27822b2940e09b09c13dfc13169fe2b9f28df0a11003a7b862164",
       "size": 551988,
       "source_url": "https://store.bblcdn.com/s7/default/8f8426afeff041a594422b69a00d9a44/Round_Magnets.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/62/62e197b626ff4c2b6415d0c5c7b4d431cd5b90824b3cba10d9ee38168c06af90.zip",
       "id": "archive-06857ddbb06eec948da7",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "Round_Magnet.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "62e197b626ff4c2b6415d0c5c7b4d431cd5b90824b3cba10d9ee38168c06af90",
       "size": 274016,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D10x3mm - CA009/D10x3mm - CA009.stl",
       "blob_path": "data/blobs/sha256/9a/9a3dbca1dd54b6fbeab9dae3ac16e17bc355711a4d6a65bbea72a2a12be8dc92.stl",
       "id": "model-2dfcbe99ca3f81df6521",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9a3dbca1dd54b6fbeab9dae3ac16e17bc355711a4d6a65bbea72a2a12be8dc92",
       "size": 61484,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D10x3mm - CA009/D10x3mm - CA009.stp",
       "blob_path": "data/blobs/sha256/d3/d3b75eea254d468aabdb35ed100df66553ca4a7539328007b62c088607c0799f.stp",
       "id": "model-4a327a0559fa3320dd78",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d3b75eea254d468aabdb35ed100df66553ca4a7539328007b62c088607c0799f",
       "size": 26705,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D12x3mm - CA010/D12x3mm - CA010.stl",
       "blob_path": "data/blobs/sha256/f8/f8515bb9eacd14d11b71fb420b9d49fa16bac5f816f70178bd887b8e971372bd.stl",
       "id": "model-17cc3eec13e876a01b32",
@@ -131,11 +158,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f8515bb9eacd14d11b71fb420b9d49fa16bac5f816f70178bd887b8e971372bd",
       "size": 79084,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D12x3mm - CA010/D12x3mm - CA010.stp",
       "blob_path": "data/blobs/sha256/11/116894239f33f11b79070e831d0e4c6191bb94ec72e3e0556272916c07825741.stp",
       "id": "model-66434edcb1070c761f4e",
@@ -145,11 +174,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "116894239f33f11b79070e831d0e4c6191bb94ec72e3e0556272916c07825741",
       "size": 26651,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D15x3mm - CA011/D15x3mm - CA011.stl",
       "blob_path": "data/blobs/sha256/bf/bf6892c90012e2b98280628f28601542c63ac3ec29ff73faa31a75822a9312be.stl",
       "id": "model-69f2bac002fd7bd17173",
@@ -159,11 +190,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bf6892c90012e2b98280628f28601542c63ac3ec29ff73faa31a75822a9312be",
       "size": 45084,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D15x3mm - CA011/D15x3mm - CA011.stp",
       "blob_path": "data/blobs/sha256/3f/3f11baf7b451c75c43ae109addd39d61d429d63efe37ecda2e24349c202a8545.stp",
       "id": "model-f3a934ce25c578af03c5",
@@ -173,11 +206,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3f11baf7b451c75c43ae109addd39d61d429d63efe37ecda2e24349c202a8545",
       "size": 26723,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D20x3mm - CA012/D20x3mm - CA012.stl",
       "blob_path": "data/blobs/sha256/55/55e53a9ed1cb9953f5aa863f313ad185c83acb42a62284ced4d594683220f26f.stl",
       "id": "model-5c102a3fff5508592419",
@@ -187,11 +222,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "55e53a9ed1cb9953f5aa863f313ad185c83acb42a62284ced4d594683220f26f",
       "size": 51084,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D20x3mm - CA012/D20x3mm - CA012.stp",
       "blob_path": "data/blobs/sha256/05/0532072dc5a9a21cf03400d45c6c4ffb4ea8463eecbba7785f2406f0f411ef1a.stp",
       "id": "model-c32af169df5aa16805d1",
@@ -201,11 +238,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0532072dc5a9a21cf03400d45c6c4ffb4ea8463eecbba7785f2406f0f411ef1a",
       "size": 26677,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D4x2mm - CA001/4x2mm - CA001.stl",
       "blob_path": "data/blobs/sha256/63/63d4635c778da1b8e521faae9b418e182bd290b35b7a62e3a13fc90d7b66b98b.stl",
       "id": "model-79a02dec449642417010",
@@ -215,11 +254,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "63d4635c778da1b8e521faae9b418e182bd290b35b7a62e3a13fc90d7b66b98b",
       "size": 162684,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D4x2mm - CA001/4x2mm - CA001.stp",
       "blob_path": "data/blobs/sha256/17/17fe4b9a0c6b015ce13266a64c337efb1b32c3151890e37f4fb711fbe50bf968.stp",
       "id": "model-3b05ebd525b521658c01",
@@ -229,11 +270,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "17fe4b9a0c6b015ce13266a64c337efb1b32c3151890e37f4fb711fbe50bf968",
       "size": 27647,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D5x1mm - CA002/D5x1mm - CA002.stl",
       "blob_path": "data/blobs/sha256/1c/1c80531137c1d0223453a9f06fd2f57626a7d120290186d8f70330048eef1057.stl",
       "id": "model-a53931daed48ae7450e5",
@@ -243,11 +286,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1c80531137c1d0223453a9f06fd2f57626a7d120290186d8f70330048eef1057",
       "size": 28684,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D5x1mm - CA002/D5x1mm - CA002.stp",
       "blob_path": "data/blobs/sha256/e6/e6258aa7cbfeb7ea508b3f0c922e106085586a28d46ac14d73e8a1288d3e656f.stp",
       "id": "model-a2bcb1d896f396de8100",
@@ -257,11 +302,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e6258aa7cbfeb7ea508b3f0c922e106085586a28d46ac14d73e8a1288d3e656f",
       "size": 26602,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D5x2mm - CA003/D5x2mm - CA003.stl",
       "blob_path": "data/blobs/sha256/87/8771f0fc43e1e67d7b0191c537b82182c5c8ea504ccdd4a02974b1684a326c6f.stl",
       "id": "model-fe57c452c7a0f4f6f23a",
@@ -271,11 +318,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8771f0fc43e1e67d7b0191c537b82182c5c8ea504ccdd4a02974b1684a326c6f",
       "size": 43484,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D5x2mm - CA003/D5x2mm - CA003.stp",
       "blob_path": "data/blobs/sha256/80/808f40bfbe94741209835c8aba73bcf9751410f3e0d6ded7f9a118b7a269954b.stp",
       "id": "model-0e00eda9b395f5632658",
@@ -285,11 +334,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "808f40bfbe94741209835c8aba73bcf9751410f3e0d6ded7f9a118b7a269954b",
       "size": 26704,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D5x3mm - CA006/D5x3mm - CA006.stl",
       "blob_path": "data/blobs/sha256/0b/0b02cb4f42b70cc11c90440e013aa93c3db7bce61245adf4a8978af4085cd717.stl",
       "id": "model-04985fac9df0115c5d0c",
@@ -299,11 +350,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0b02cb4f42b70cc11c90440e013aa93c3db7bce61245adf4a8978af4085cd717",
       "size": 42284,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D5x3mm - CA006/D5x3mm - CA006.stp",
       "blob_path": "data/blobs/sha256/41/41c75c9dad3812e8c0a56a07b8c342fe81cf5c00342c031ef104fc92b2bcb26f.stp",
       "id": "model-61748ae2b5f2abae7882",
@@ -313,11 +366,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "41c75c9dad3812e8c0a56a07b8c342fe81cf5c00342c031ef104fc92b2bcb26f",
       "size": 26602,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D6x2mm - CA004/D6x2mm - CA004.stl",
       "blob_path": "data/blobs/sha256/d3/d31fc55dd1484764c0252d73773c58369d62b0ee340016889015698a6e4be755.stl",
       "id": "model-fa1b9111940229a79d64",
@@ -327,11 +382,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d31fc55dd1484764c0252d73773c58369d62b0ee340016889015698a6e4be755",
       "size": 47084,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D6x2mm - CA004/D6x2mm - CA004.stp",
       "blob_path": "data/blobs/sha256/19/19b87661f37ff2359aa03fe947401429b8df38e58b618dce59eb33b0e9713af6.stp",
       "id": "model-ab0b895c2a338ce80d57",
@@ -341,11 +398,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "19b87661f37ff2359aa03fe947401429b8df38e58b618dce59eb33b0e9713af6",
       "size": 26630,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D6x3mm - CA007/D6x3mm - CA007.stl",
       "blob_path": "data/blobs/sha256/5e/5e04153cfa8536a43affb6f30b274b7bc271cb5a7871310f90b51cd58b24f5c9.stl",
       "id": "model-8aa1970ac7a638de2d8b",
@@ -355,11 +414,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5e04153cfa8536a43affb6f30b274b7bc271cb5a7871310f90b51cd58b24f5c9",
       "size": 47084,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D6x3mm - CA007/D6x3mm - CA007.stp",
       "blob_path": "data/blobs/sha256/97/9763c0dd080c58c548ea1e3f0a90699a51956c363a5fe2380b56e25caeb7d108.stp",
       "id": "model-96a5b26a8b63435b45d0",
@@ -369,11 +430,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9763c0dd080c58c548ea1e3f0a90699a51956c363a5fe2380b56e25caeb7d108",
       "size": 26588,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D6x4mm - CA013/D6x4mm - CA013.stl",
       "blob_path": "data/blobs/sha256/76/769174683224e5ff7c5489e1f531e8f0510999dada0f6f39c7eb24c1082ff8b3.stl",
       "id": "model-333811aa779c91ab4b90",
@@ -383,11 +446,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "769174683224e5ff7c5489e1f531e8f0510999dada0f6f39c7eb24c1082ff8b3",
       "size": 47084,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D6x4mm - CA013/D6x4mm - CA013.stp",
       "blob_path": "data/blobs/sha256/78/78592b84b58b34f154540c6bf81c0cb95638f69687213f0a82a02b5a56c89a4e.stp",
       "id": "model-9f39fab3caeb9bf9b7fa",
@@ -397,11 +462,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "78592b84b58b34f154540c6bf81c0cb95638f69687213f0a82a02b5a56c89a4e",
       "size": 26629,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D8x2mm - CA005/D8x2mm - CA005.stl",
       "blob_path": "data/blobs/sha256/dc/dc652e3ec3b5d5a1b9f5849e5bda592e61b9af24af29dd5e23b0e28a82e741dd.stl",
       "id": "model-39a76917addd99089b56",
@@ -411,11 +478,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dc652e3ec3b5d5a1b9f5849e5bda592e61b9af24af29dd5e23b0e28a82e741dd",
       "size": 55484,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D8x2mm - CA005/D8x2mm - CA005.stp",
       "blob_path": "data/blobs/sha256/ce/ceac2313f36583d29fe22f0dcb45ca3b5e8dad6123e989db54de89356bb4105e.stp",
       "id": "model-7467ee89d998d7ef3a7c",
@@ -425,11 +494,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ceac2313f36583d29fe22f0dcb45ca3b5e8dad6123e989db54de89356bb4105e",
       "size": 26740,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D8x3mm - CA008/D8x3mm - CA008.stl",
       "blob_path": "data/blobs/sha256/76/7647cd11f5be232945b07e5a942609382740964c2193122e801f844edfd0e864.stl",
       "id": "model-b6a2ec27e45e352d309b",
@@ -439,11 +510,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7647cd11f5be232945b07e5a942609382740964c2193122e801f844edfd0e864",
       "size": 18684,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Round Magnet/D8x3mm - CA008/D8x3mm - CA008.stp",
       "blob_path": "data/blobs/sha256/ab/ab526bf3fb985a56759765667b22f366f664fd53212ad05cf192c89424f450c3.stp",
       "id": "model-882fb78d3775515cebdc",
@@ -453,11 +526,13 @@
       "parent_asset_id": "archive-06857ddbb06eec948da7",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ab526bf3fb985a56759765667b22f366f664fd53212ad05cf192c89424f450c3",
       "size": 26741,
       "source_url": "https://store.bblcdn.com/s7/default/eded5e39f9cb4b9788b061899e909b62/Round_Magnet.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/93/9343dc4e1e1ca8c63ad51cd8ab402eef8f5f1f2a08cf711cc02102564456966c.png",
       "id": "image-display-e98e3c015aba1523b51b",
       "image_processing": {
@@ -475,11 +550,13 @@
       "parent_asset_id": "image-51a1c1f486bc23338ded",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9343dc4e1e1ca8c63ad51cd8ab402eef8f5f1f2a08cf711cc02102564456966c",
       "size": 72441,
       "source_url": "https://store.bblcdn.com/s7/default/53073364b2f44c278c346d9b172dec70/CA004.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bc5b4062a95425897b318353024f974a3100e487df8a0d6721a974862ff3d4b1.png",
       "id": "image-display-36df9eb4c7c9d32d8721",
       "image_processing": {
@@ -497,11 +574,13 @@
       "parent_asset_id": "image-85111bf1c48403795b6d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bc5b4062a95425897b318353024f974a3100e487df8a0d6721a974862ff3d4b1",
       "size": 72762,
       "source_url": "https://store.bblcdn.com/s7/default/929bc3360ba344fe9c8f572041cbf922/CA010.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bd/bd9b864d33bddbb3aeec92686ae8ee00210532bec55938fee58d78d580b728b2.png",
       "id": "image-display-03f62e03c9c28ab00e0a",
       "image_processing": {
@@ -519,6 +598,7 @@
       "parent_asset_id": "image-cdfe4e9199fa20004320",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bd9b864d33bddbb3aeec92686ae8ee00210532bec55938fee58d78d580b728b2",
       "size": 92691,
       "source_url": "https://store.bblcdn.com/s7/default/bd5b2f7de2bc442ea376581941274acf/Magnets_56bab121-53fa-47a2-baae-895b11f08751.png"
@@ -561,6 +641,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ca004-magnets-for-make-my-sign",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Package Size",
@@ -582,6 +663,7 @@
       "price": "2.29",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/magnets-for-make-my-sign?skr=yes"
     },
     {
@@ -592,6 +674,7 @@
       "price": "2.9",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/magnets-for-make-my-sign?skr=yes"
     },
     {
@@ -602,6 +685,7 @@
       "price": "2.37",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/magnets-for-make-my-sign?skr=yes"
     },
     {
@@ -612,6 +696,7 @@
       "price": "2.01",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/magnets-for-make-my-sign?skr=yes"
     },
     {
@@ -622,6 +707,7 @@
       "price": "4.55",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/magnets-for-make-my-sign?skr=yes"
     },
     {
@@ -632,6 +718,7 @@
       "price": "2.29",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/magnets-for-make-my-sign?skr=yes"
     }
   ],
@@ -755,6 +842,7 @@
     "Shape": "Disc",
     "Surface Treatment": "Nickel plating"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -765,6 +853,7 @@
       "price": "2.29",
       "region": "us",
       "sku": "42797086605448",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D6x2 mm Round Magnet (20PCS) - CA004",
       "url": "https://us.store.bambulab.com/products/magnets-for-make-my-sign?id=42797086605448",
       "variant_id": "42797086605448"
@@ -777,6 +866,7 @@
       "price": "3.99",
       "region": "us",
       "sku": "42797086638216",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D12x3 mm Round Magnet (20PCS) - CA010",
       "url": "https://us.store.bambulab.com/products/magnets-for-make-my-sign?id=42797086638216",
       "variant_id": "42797086638216"
@@ -789,6 +879,7 @@
       "price": "2.9",
       "region": "ca",
       "sku": "554136683771633667",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D6x2 mm Round Magnet (20PCS) - CA004",
       "url": "https://ca.store.bambulab.com/products/magnets-for-make-my-sign?id=554136683771633667",
       "variant_id": "554136683771633667"
@@ -801,6 +892,7 @@
       "price": "5.05",
       "region": "ca",
       "sku": "554136683771633671",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D12x3 mm Round Magnet (20PCS) - CA010",
       "url": "https://ca.store.bambulab.com/products/magnets-for-make-my-sign?id=554136683771633671",
       "variant_id": "554136683771633671"
@@ -813,6 +905,7 @@
       "price": "2.37",
       "region": "eu",
       "sku": "53775784051036",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D6x2 mm Round Magnet (20PCS) - CA004",
       "url": "https://eu.store.bambulab.com/products/magnets-for-make-my-sign?id=53775784051036",
       "variant_id": "53775784051036"
@@ -825,6 +918,7 @@
       "price": "4.13",
       "region": "eu",
       "sku": "53775784083804",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D12x3 mm Round Magnet (20PCS) - CA010",
       "url": "https://eu.store.bambulab.com/products/magnets-for-make-my-sign?id=53775784083804",
       "variant_id": "53775784083804"
@@ -837,6 +931,7 @@
       "price": "2.01",
       "region": "uk",
       "sku": "554136335897796611",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D6x2 mm Round Magnet (20PCS) - CA004",
       "url": "https://uk.store.bambulab.com/products/magnets-for-make-my-sign?id=554136335897796611",
       "variant_id": "554136335897796611"
@@ -849,6 +944,7 @@
       "price": "3.51",
       "region": "uk",
       "sku": "554136335897796615",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D12x3 mm Round Magnet (20PCS) - CA010",
       "url": "https://uk.store.bambulab.com/products/magnets-for-make-my-sign?id=554136335897796615",
       "variant_id": "554136335897796615"
@@ -861,6 +957,7 @@
       "price": "4.55",
       "region": "au",
       "sku": "554136187233157123",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D6x2 mm Round Magnet (20PCS) - CA004",
       "url": "https://au.store.bambulab.com/products/magnets-for-make-my-sign?id=554136187233157123",
       "variant_id": "554136187233157123"
@@ -873,6 +970,7 @@
       "price": "7.93",
       "region": "au",
       "sku": "554136187233157127",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D12x3 mm Round Magnet (20PCS) - CA010",
       "url": "https://au.store.bambulab.com/products/magnets-for-make-my-sign?id=554136187233157127",
       "variant_id": "554136187233157127"
@@ -885,6 +983,7 @@
       "price": "2.29",
       "region": "asia",
       "sku": "42140543844467",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D6x2 mm Round Magnet (20PCS) - CA004",
       "url": "https://asia.store.bambulab.com/products/magnets-for-make-my-sign?id=42140543844467",
       "variant_id": "42140543844467"
@@ -897,6 +996,7 @@
       "price": "3.99",
       "region": "asia",
       "sku": "42140543877235",
+      "store_id": "",
       "title": "Magnets for Make My Sign - D12x3 mm Round Magnet (20PCS) - CA010",
       "url": "https://asia.store.bambulab.com/products/magnets-for-make-my-sign?id=42140543877235",
       "variant_id": "42140543877235"

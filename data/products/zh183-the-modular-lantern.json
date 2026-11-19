@@ -4,36 +4,49 @@
     {
       "handle": "the-modular-lantern",
       "product_id": "777025885109813248",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-modular-lantern",
       "product_id": "777025253569245184",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-modular-lantern",
       "product_id": "777026264153247744",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-modular-lantern",
       "product_id": "777025597149859840",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-modular-lantern",
       "product_id": "777024843659935744",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "the-modular-lantern",
       "product_id": "776998516470906880",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/11/11b4577f7a6ee54d9463b7e2378f5d8d4716e231e68a3978c960cc8e7f23c12b.png",
       "id": "image-65fdf622879e63ee6ae7",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH183_KV.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "11b4577f7a6ee54d9463b7e2378f5d8d4716e231e68a3978c960cc8e7f23c12b",
       "size": 2553616,
       "source_url": "https://store.bblcdn.com/s7/default/db1284c7de9747328937531038cbaa78/B-ZH183_KV.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/12/12b0f963f84586c794b63cff9626667c35f07d139727d11ba1ba44f1ffa587ce.png",
       "id": "image-dcf64c1f6223faeb4c53",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B_-ZH183_component.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "12b0f963f84586c794b63cff9626667c35f07d139727d11ba1ba44f1ffa587ce",
       "size": 213873,
       "source_url": "https://store.bblcdn.com/s7/default/5c7e84d42c2648baacf0ef5ec107a9bc/B_-ZH183_component.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/79/795ba1647fadd781a20b9a4c3535bcbf31512e0b515960770617180f24e1dfcf.png",
       "id": "image-display-b389d536b57f5de2825c",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-65fdf622879e63ee6ae7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "795ba1647fadd781a20b9a4c3535bcbf31512e0b515960770617180f24e1dfcf",
       "size": 692740,
       "source_url": "https://store.bblcdn.com/s7/default/db1284c7de9747328937531038cbaa78/B-ZH183_KV.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/df/dfea336a5acb88d85c05c86bc6e608db588dbd105aafe47a2db25e1e2b182518.png",
       "id": "image-display-ff5f28c2d2e9b84f9af5",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-dcf64c1f6223faeb4c53",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dfea336a5acb88d85c05c86bc6e608db588dbd105aafe47a2db25e1e2b182518",
       "size": 52583,
       "source_url": "https://store.bblcdn.com/s7/default/5c7e84d42c2648baacf0ef5ec107a9bc/B_-ZH183_component.png"
@@ -156,7 +176,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional The Modular Lantern. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the The Modular Lantern on MakerWorld.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zh183-the-modular-lantern",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "The Modular Lantern",
   "offers": [
@@ -168,6 +189,7 @@
       "price": "22.99",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/the-modular-lantern?skr=yes"
     },
     {
@@ -178,6 +200,7 @@
       "price": "27.99",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/the-modular-lantern?skr=yes"
     },
     {
@@ -188,6 +211,7 @@
       "price": "22.99",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/the-modular-lantern?skr=yes"
     },
     {
@@ -198,6 +222,7 @@
       "price": "18.99",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/the-modular-lantern?skr=yes"
     },
     {
@@ -208,6 +233,7 @@
       "price": "37.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/the-modular-lantern?skr=yes"
     },
     {
@@ -218,6 +244,7 @@
       "price": "20.99",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/the-modular-lantern?skr=yes"
     }
   ],
@@ -268,6 +295,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -280,6 +308,7 @@
       "price": "22.99",
       "region": "us",
       "sku": "777025885122396162",
+      "store_id": "",
       "title": "The Modular Lantern - The Modular Lantern - ZH183",
       "url": "https://us.store.bambulab.com/products/the-modular-lantern?id=777025885122396162",
       "variant_id": "777025885122396162"
@@ -292,6 +321,7 @@
       "price": "27.99",
       "region": "ca",
       "sku": "777025253586022402",
+      "store_id": "",
       "title": "The Modular Lantern - The Modular Lantern - ZH183",
       "url": "https://ca.store.bambulab.com/products/the-modular-lantern?id=777025253586022402",
       "variant_id": "777025253586022402"
@@ -304,6 +334,7 @@
       "price": "22.99",
       "region": "eu",
       "sku": "777026264220356610",
+      "store_id": "",
       "title": "The Modular Lantern - The Modular Lantern - ZH183",
       "url": "https://eu.store.bambulab.com/products/the-modular-lantern?id=777026264220356610",
       "variant_id": "777026264220356610"
@@ -316,6 +347,7 @@
       "price": "18.99",
       "region": "uk",
       "sku": "777025597162442754",
+      "store_id": "",
       "title": "The Modular Lantern - The Modular Lantern - ZH183",
       "url": "https://uk.store.bambulab.com/products/the-modular-lantern?id=777025597162442754",
       "variant_id": "777025597162442754"
@@ -328,6 +360,7 @@
       "price": "37.99",
       "region": "au",
       "sku": "777024843676712962",
+      "store_id": "",
       "title": "The Modular Lantern - The Modular Lantern - ZH183",
       "url": "https://au.store.bambulab.com/products/the-modular-lantern?id=777024843676712962",
       "variant_id": "777024843676712962"
@@ -340,6 +373,7 @@
       "price": "20.99",
       "region": "asia",
       "sku": "776998516546404354",
+      "store_id": "",
       "title": "The Modular Lantern - The Modular Lantern - ZH183",
       "url": "https://asia.store.bambulab.com/products/the-modular-lantern?id=776998516546404354",
       "variant_id": "776998516546404354"

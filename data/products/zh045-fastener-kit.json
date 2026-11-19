@@ -4,36 +4,49 @@
     {
       "handle": "fastener-kit",
       "product_id": "8422636322952",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "fastener-kit",
       "product_id": "9111242637552",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "fastener-kit",
       "product_id": "14778140983644",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "fastener-kit",
       "product_id": "536387957658611712",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "fastener-kit",
       "product_id": "536388414715838464",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "fastener-kit",
       "product_id": "536387587880480768",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e9/e939ef59fb60dc53ef81e836d8cd2d8cef1fde19d5a8a36d69596c9780115c2d.png",
       "id": "image-f1fcd952d3ffa3c6a650",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZH045.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e939ef59fb60dc53ef81e836d8cd2d8cef1fde19d5a8a36d69596c9780115c2d",
       "size": 228822,
       "source_url": "https://store.bblcdn.com/s7/default/01b46ef9d1b24c8ea3638f1e1021f19e/ZH045.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2f/2ffec82674017716fa358ee4a9541824d711349c097163a6f25a6f75650f2af8.zip",
       "id": "archive-85e6e3373643352fe02b",
       "kind": "archive",
@@ -53,11 +68,13 @@
       "original_filename": "Fastener_Kit-B-ZH045_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2ffec82674017716fa358ee4a9541824d711349c097163a6f25a6f75650f2af8",
       "size": 8417647,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2 BHCS Self Tapping Screw/BT2x4 BHCS Self Tapping Screw  - AA212/BT2x4 BHCS Self Tapping Screw  - AA212.stl",
       "blob_path": "data/blobs/sha256/41/410249bd79889491158245f857753ff228e0462ef6a8967ec05145e2da854c3c.stl",
       "id": "model-e6ad8f5a392c9db9d5d7",
@@ -67,11 +84,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "410249bd79889491158245f857753ff228e0462ef6a8967ec05145e2da854c3c",
       "size": 169684,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2 BHCS Self Tapping Screw/BT2x4 BHCS Self Tapping Screw  - AA212/BT2x4 BHCS Self Tapping Screw  - AA212.stp",
       "blob_path": "data/blobs/sha256/c9/c92b605f9950ab1b119068ca290bc6328298af8427702aa43ab26b57ff45e90a.stp",
       "id": "model-227cb50224f22f867dcc",
@@ -81,11 +100,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c92b605f9950ab1b119068ca290bc6328298af8427702aa43ab26b57ff45e90a",
       "size": 327515,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2 SHCS Self Tapping Screw/BT2×10 - AA192/BT2x10 SHCS Self Tapping Screw  - AA192.stl",
       "blob_path": "data/blobs/sha256/fc/fcace5040f2050b7269e088225eb3bcf565ff6cd41a7f674d8fbd5d601b2e8f7.stl",
       "id": "model-fef85bbcc3825838876a",
@@ -95,11 +116,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fcace5040f2050b7269e088225eb3bcf565ff6cd41a7f674d8fbd5d601b2e8f7",
       "size": 409284,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2 SHCS Self Tapping Screw/BT2×10 - AA192/BT2x10 SHCS Self Tapping Screw  - AA192.stp",
       "blob_path": "data/blobs/sha256/a0/a0ef81994ba79eedfd10cdb93b04a6d81801980145afaead352651e84fbaa7a6.stp",
       "id": "model-f7c2e69332f62851ffa2",
@@ -109,11 +132,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a0ef81994ba79eedfd10cdb93b04a6d81801980145afaead352651e84fbaa7a6",
       "size": 532737,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2 SHCS Self Tapping Screw/BT2×6 - AA093/BT2x6 SHCS Self Tapping Screw  - AA093.stl",
       "blob_path": "data/blobs/sha256/98/9816014034a3f1cfab371f4551e4b538c5dac4a2d93a52a75b78054bafd45e09.stl",
       "id": "model-54244ad5a419637aca76",
@@ -123,11 +148,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9816014034a3f1cfab371f4551e4b538c5dac4a2d93a52a75b78054bafd45e09",
       "size": 900184,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2 SHCS Self Tapping Screw/BT2×6 - AA093/BT2x6 SHCS Self Tapping Screw  - AA093.stp",
       "blob_path": "data/blobs/sha256/53/53a6b09171d2fa0217f51422791a26e15b2715801dee75a468fc1e7d31dfda30.stp",
       "id": "model-6018f87f00680995676c",
@@ -137,11 +164,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "53a6b09171d2fa0217f51422791a26e15b2715801dee75a468fc1e7d31dfda30",
       "size": 263240,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2 SHCS Self Tapping Screw/BT2×8 - AA094/BT2x8 SHCS Self Tapping Screw  - AA094.stl",
       "blob_path": "data/blobs/sha256/b1/b1047e37965f755f9c32a2b8f0b220989252b3aac2dc021ff5c3fbe27af42007.stl",
       "id": "model-41f9b15564b21ed68558",
@@ -151,11 +180,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b1047e37965f755f9c32a2b8f0b220989252b3aac2dc021ff5c3fbe27af42007",
       "size": 1476884,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2 SHCS Self Tapping Screw/BT2×8 - AA094/BT2x8 SHCS Self Tapping Screw  - AA094.stp",
       "blob_path": "data/blobs/sha256/b6/b61fc82edea77e1915ac0e128ab4857f92cb65a6863c8203ca832de32ea8a3aa.stp",
       "id": "model-4075fa5da1533f26a294",
@@ -165,11 +196,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b61fc82edea77e1915ac0e128ab4857f92cb65a6863c8203ca832de32ea8a3aa",
       "size": 359445,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2.6 SHCS Self Tapping Screw/BT2.6x8 SHCS Self Tapping Screw-B-AA004/BT2.6x8 SHCS Self Tapping Screw-B-AA004.stl",
       "blob_path": "data/blobs/sha256/a7/a79fe7cd525d384ce6581b85768b1e050a020590294f93635bb52ca8a0dfb814.stl",
       "id": "model-319429718ded49c968e2",
@@ -179,11 +212,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a79fe7cd525d384ce6581b85768b1e050a020590294f93635bb52ca8a0dfb814",
       "size": 188384,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT2.6 SHCS Self Tapping Screw/BT2.6x8 SHCS Self Tapping Screw-B-AA004/BT2.6x8 SHCS Self Tapping Screw-B-AA004.stp",
       "blob_path": "data/blobs/sha256/0c/0ca32a85823b1c13d3c89f0d4b74a77f861846491567b0d6ce3521a1b2b6295e.stp",
       "id": "model-0530bbee93fb17bdaf6a",
@@ -193,11 +228,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0ca32a85823b1c13d3c89f0d4b74a77f861846491567b0d6ce3521a1b2b6295e",
       "size": 133465,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT3 BHCS Self Tapping Screw/BT3x16 BHCS Self Tapping Screw  - AA145/BT3x16 BHCS Self Tapping Screw  - AA145.stl",
       "blob_path": "data/blobs/sha256/d0/d0d74c153cadc31bb8369d012bbec974fbd4c0e4a5f3eb4eb7e8407ef0578f4c.stl",
       "id": "model-ac31a65c64323a9e9eb0",
@@ -207,11 +244,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d0d74c153cadc31bb8369d012bbec974fbd4c0e4a5f3eb4eb7e8407ef0578f4c",
       "size": 308084,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT3 BHCS Self Tapping Screw/BT3x16 BHCS Self Tapping Screw  - AA145/BT3x16 BHCS Self Tapping Screw  - AA145.stp",
       "blob_path": "data/blobs/sha256/98/98400d81f8b191dd9d5383defd432d1d037dbca1a8c3969ede833d47d4b7f850.stp",
       "id": "model-e1cf290ff062b2a418b0",
@@ -221,11 +260,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "98400d81f8b191dd9d5383defd432d1d037dbca1a8c3969ede833d47d4b7f850",
       "size": 444963,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT3 SHCS Self Tapping Screw/BT3×10- AA200/BT3x10 SHCS Self Tapping Screw  - AA200.stl",
       "blob_path": "data/blobs/sha256/3e/3e4acd381cc14b894769985f4270f566aa81b18fcf4a09fe2fe4c560fbf79335.stl",
       "id": "model-32161fb0df5b7eed41de",
@@ -235,11 +276,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3e4acd381cc14b894769985f4270f566aa81b18fcf4a09fe2fe4c560fbf79335",
       "size": 29184,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT3 SHCS Self Tapping Screw/BT3×10- AA200/BT3x10 SHCS Self Tapping Screw  - AA200.stp",
       "blob_path": "data/blobs/sha256/71/71971d971e563fd94b57dc10e7c24adced147e6b7f4fabf35bdfa7562379e1c8.stp",
       "id": "model-8dabd27b01c1811b4fcb",
@@ -249,11 +292,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "71971d971e563fd94b57dc10e7c24adced147e6b7f4fabf35bdfa7562379e1c8",
       "size": 15932,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT3 SHCS Self Tapping Screw/BT3×12 - AA109/BT3x12 SHCS Self Tapping Screw  - AA109.stl",
       "blob_path": "data/blobs/sha256/06/064e9f236e0bbfe01757fe9fa68227480615249438da9b5c1ef3e8123b69d192.stl",
       "id": "model-b4fbcd7684e290844d39",
@@ -263,11 +308,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "064e9f236e0bbfe01757fe9fa68227480615249438da9b5c1ef3e8123b69d192",
       "size": 1727384,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT3 SHCS Self Tapping Screw/BT3×12 - AA109/BT3x12 SHCS Self Tapping Screw  - AA109.stp",
       "blob_path": "data/blobs/sha256/7b/7bea62b31c4245c64578f978f7278de4c335de66d2e2dd0c8419419ff3bef5f7.stp",
       "id": "model-b974f86aa71ca653c446",
@@ -277,11 +324,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7bea62b31c4245c64578f978f7278de4c335de66d2e2dd0c8419419ff3bef5f7",
       "size": 319573,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT3 SHCS Self Tapping Screw/BT3×30 - AA113/BT3x30 SHCS Self Tapping Screw  - AA113.stl",
       "blob_path": "data/blobs/sha256/68/68d9af0fc3f17d9922e3cf1990f1b34dabc27479da3aae8333c886115aa6fd93.stl",
       "id": "model-05e0593f3dab95076e05",
@@ -291,11 +340,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "68d9af0fc3f17d9922e3cf1990f1b34dabc27479da3aae8333c886115aa6fd93",
       "size": 5557484,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "BT3 SHCS Self Tapping Screw/BT3×30 - AA113/BT3x30 SHCS Self Tapping Screw  - AA113.stp",
       "blob_path": "data/blobs/sha256/02/02d98a8e5b4e4ea59ae025817e54f9fb721c8d2d369505f32531ad0537afde1e.stp",
       "id": "model-6076c28313ff64ce6951",
@@ -305,11 +356,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "02d98a8e5b4e4ea59ae025817e54f9fb721c8d2d369505f32531ad0537afde1e",
       "size": 731701,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3 Carbon Steel Hex Nut/M3 Carbon Steel Hex Nut  - AB005.stl",
       "blob_path": "data/blobs/sha256/08/08c47a86643c73b7672a38e023abb543a9bdc3f39725aa4ca07d7fcd181315d9.stl",
       "id": "model-fce70e6406a2452f6b65",
@@ -319,11 +372,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "08c47a86643c73b7672a38e023abb543a9bdc3f39725aa4ca07d7fcd181315d9",
       "size": 110984,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3 Carbon Steel Hex Nut/M3 Carbon Steel Hex Nut  - AB005.stp",
       "blob_path": "data/blobs/sha256/46/463fbda9da9dbde7cf049a8d071d28fe3654fb64ae1aaa77005ad2681e7bbd68.stp",
       "id": "model-8e82dba03243c89bfd30",
@@ -333,11 +388,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "463fbda9da9dbde7cf049a8d071d28fe3654fb64ae1aaa77005ad2681e7bbd68",
       "size": 161680,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3 FHCS Machine Screw/M3x25 FHCS Machine Screw - AA090/M3x25 FHCS Machine Screw - AA090.stl",
       "blob_path": "data/blobs/sha256/8c/8cea342958bec94b129e2abecca723b745732426d7085e9430285059ba9d80e7.stl",
       "id": "model-78a1ab21888a9db185c1",
@@ -347,11 +404,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8cea342958bec94b129e2abecca723b745732426d7085e9430285059ba9d80e7",
       "size": 1782384,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3 FHCS Machine Screw/M3x25 FHCS Machine Screw - AA090/M3x25 FHCS Machine Screw - AA090.stp",
       "blob_path": "data/blobs/sha256/42/42e271cd6c331529893fc4cf4f1c77997147873ab68762e5ba15da9ab4eba661.stp",
       "id": "model-79d97d66465d96277556",
@@ -361,11 +420,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "42e271cd6c331529893fc4cf4f1c77997147873ab68762e5ba15da9ab4eba661",
       "size": 1161898,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3 SHCS Machine Screw/M3x16 - AA039/M3x16 SHCS Machine Screw  - AA039.stl",
       "blob_path": "data/blobs/sha256/b2/b22163863d927f25ee3aa8e44169c2bf437eed3830245a00d82c78366c372b70.stl",
       "id": "model-6bfa9ab95a1f655e4c56",
@@ -375,11 +436,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b22163863d927f25ee3aa8e44169c2bf437eed3830245a00d82c78366c372b70",
       "size": 29184,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3 SHCS Machine Screw/M3x16 - AA039/M3x16 SHCS Machine Screw  - AA039.stp",
       "blob_path": "data/blobs/sha256/9f/9f34d226a495b13c757e1689ca7fe8235e13d64ced928cdcf41e2435146cec5a.stp",
       "id": "model-20af4f9f43ce7b830043",
@@ -389,11 +452,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9f34d226a495b13c757e1689ca7fe8235e13d64ced928cdcf41e2435146cec5a",
       "size": 15919,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3 SHCS Machine Screw/M3x30 - AA042/M3x30 SHCS Machine Screw  - AA042.stl",
       "blob_path": "data/blobs/sha256/ee/eef98b712b12b55b1f398f91e3393f5be0bbc0bc41ea8fb44371f568b8671456.stl",
       "id": "model-070d7c7bc30b715da581",
@@ -403,11 +468,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "eef98b712b12b55b1f398f91e3393f5be0bbc0bc41ea8fb44371f568b8671456",
       "size": 29184,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3 SHCS Machine Screw/M3x30 - AA042/M3x30 SHCS Machine Screw  - AA042.stp",
       "blob_path": "data/blobs/sha256/8e/8e2f15da21d6b8bfe251bd7e585882a05430469a71a13f2e38a1daede3025212.stp",
       "id": "model-44b4c6f54bc6a0d0e42d",
@@ -417,11 +484,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8e2f15da21d6b8bfe251bd7e585882a05430469a71a13f2e38a1daede3025212",
       "size": 15905,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3x5x4 Round Threaded Brass Heat-Insert Nut  - AB012/M3x5x4 Round Threaded Brass Heat-Insert Nut  - AB012.stl",
       "blob_path": "data/blobs/sha256/98/987bacc922e11e4d399c816af9e6e01acf45c4341e58274370d952d6af5a7bfe.stl",
       "id": "model-374f8f5588a6e668b492",
@@ -431,11 +500,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "987bacc922e11e4d399c816af9e6e01acf45c4341e58274370d952d6af5a7bfe",
       "size": 87284,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M3x5x4 Round Threaded Brass Heat-Insert Nut  - AB012/M3x5x4 Round Threaded Brass Heat-Insert Nut  - AB012.stp",
       "blob_path": "data/blobs/sha256/54/54879fb3a35f6bf29325033291127d28d0187ff5750ca3f5c5592d0828342137.stp",
       "id": "model-a8967407f1d668b25106",
@@ -445,11 +516,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "54879fb3a35f6bf29325033291127d28d0187ff5750ca3f5c5592d0828342137",
       "size": 332066,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M4 BHCS Machine Screws/M4x10 - AA175/M4x10 BHCS Machine Screw  - AA175.stl",
       "blob_path": "data/blobs/sha256/e4/e4823a869ddf239b53d92f80976900a321a79c511cc2cd437a625d025997cc73.stl",
       "id": "model-cee078933902037a031f",
@@ -459,11 +532,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e4823a869ddf239b53d92f80976900a321a79c511cc2cd437a625d025997cc73",
       "size": 22284,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M4 BHCS Machine Screws/M4x10 - AA175/M4x10 BHCS Machine Screw  - AA175.stp",
       "blob_path": "data/blobs/sha256/cf/cf0cdaf00761ba643dbc5aded2805d696a32f1a3c72781c9c2b00d61ba8c46e9.stp",
       "id": "model-9a0e02490718663fa42a",
@@ -473,11 +548,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cf0cdaf00761ba643dbc5aded2805d696a32f1a3c72781c9c2b00d61ba8c46e9",
       "size": 26888,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M4 BHCS Machine Screws/M4x30 - AA070/M4x30 BHCS Machine Screw  - AA070.stl",
       "blob_path": "data/blobs/sha256/cc/cc27cd411fb3a3382a83c9ef187f3546bde7f41508da8e7adabdc7028ea7d73c.stl",
       "id": "model-3d53e0e118564db5afb4",
@@ -487,11 +564,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cc27cd411fb3a3382a83c9ef187f3546bde7f41508da8e7adabdc7028ea7d73c",
       "size": 1788984,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M4 BHCS Machine Screws/M4x30 - AA070/M4x30 BHCS Machine Screw  - AA070.stp",
       "blob_path": "data/blobs/sha256/3b/3b504b428757584fb8c6f0839559f2445d66c1b1cee9cdfabe59a48ffd96b265.stp",
       "id": "model-b18b69f96cd63355a51c",
@@ -501,11 +580,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3b504b428757584fb8c6f0839559f2445d66c1b1cee9cdfabe59a48ffd96b265",
       "size": 1079261,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M4x6x6 Round Threaded Brass Heat-Insert Nut  - AB016/M4x6x6 Round Threaded Brass Heat-Insert Nut  - AB016.stl",
       "blob_path": "data/blobs/sha256/95/95b701132bb90e255df58d7fe999d5addfa12628fcbb07469c56f7f5e9baa693.stl",
       "id": "model-8006efe640767b824508",
@@ -515,11 +596,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "95b701132bb90e255df58d7fe999d5addfa12628fcbb07469c56f7f5e9baa693",
       "size": 92084,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M4x6x6 Round Threaded Brass Heat-Insert Nut  - AB016/M4x6x6 Round Threaded Brass Heat-Insert Nut  - AB016.stp",
       "blob_path": "data/blobs/sha256/bd/bdf47beb53c9082d2874566141e1fb2a78ba76e9fe089105e246481f622ec314.stp",
       "id": "model-bbb83fb1f3b4101f17f6",
@@ -529,11 +612,13 @@
       "parent_asset_id": "archive-85e6e3373643352fe02b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bdf47beb53c9082d2874566141e1fb2a78ba76e9fe089105e246481f622ec314",
       "size": 333809,
       "source_url": "https://store.bblcdn.com/s7/default/87cfd73795b54eb589fd48e3dee83fd0/Fastener_Kit-B-ZH045_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/72/7228db4d0fd0680393936e9fc4864204ab5878d2c4b35c366c4dbbdf20994600.png",
       "id": "image-display-eec96b8d51f2d67114fd",
       "image_processing": {
@@ -551,6 +636,7 @@
       "parent_asset_id": "image-f1fcd952d3ffa3c6a650",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7228db4d0fd0680393936e9fc4864204ab5878d2c4b35c366c4dbbdf20994600",
       "size": 84043,
       "source_url": "https://store.bblcdn.com/s7/default/01b46ef9d1b24c8ea3638f1e1021f19e/ZH045.png"
@@ -756,7 +842,8 @@
   "description_text": "This kit includes a variety of commonly used self-tapping screws, machine screws, and corresponding nuts in different specifications and lengths, meeting the fastening needs of various models and structures. From self-tapping screws for small-sized holes to machine screws and round threaded brass heat-insert nut for larger components, this set provides highly adaptable and secure connections for diverse applications.\n\nStandardized Connections: The kit contains a wide range of standardized screws and nuts, with screw sizes ranging from M2 to M4 and lengths from 4mm to 30mm, covering most screw sizes commonly used in 3D printed models.\n\nEfficient Assembly: Creators can directly use high-precision, high-quality fasteners, eliminating the need for repeated testing and searching for suitable components. This allows for faster assembly and improved work efficiency.\n\nSmall Quantities in Separate Packs: The kit features small, individually packaged quantities, enabling designers to freely match the required fasteners for their models without needing to modify designs to accommodate compatible screws. This provides a more flexible, cost-effective, and high-quality solution for selecting fasteners, reducing single-order costs and preventing material wastage.\n\nMechanical Structures and Toy Models: Suitable for structural connections in various mechanical structures and toy models, such as car models, robot models, brackets, and scene models, ensuring tight fits and stable connections.\n\nElectronic Device Assembly: Ideal for assembling and securing electronic devices, sensors, hardware boards, and other commonly used electronic components. The selection includes various head types and popular sizes, ensuring the compatibility and reliability of the parts.\n\nHome Decoration: Suitable for home decoration projects such as wall racks, display stands, and lighting fixtures, providing reliable and durable connections.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh045-fastener-kit",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Fastener Kit",
   "offers": [
@@ -768,6 +855,7 @@
       "price": "19.66",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/fastener-kit?skr=yes"
     },
     {
@@ -778,6 +866,7 @@
       "price": "20.79",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/fastener-kit?skr=yes"
     },
     {
@@ -788,16 +877,18 @@
       "price": "13.61",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/fastener-kit?skr=yes"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "GBP",
       "listed": true,
       "missing_runs": 0,
       "price": "14.45",
       "region": "uk",
-      "retrieved_at": "2026-11-10T12:06:28Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/fastener-kit?skr=yes"
     },
     {
@@ -808,6 +899,7 @@
       "price": "32.63",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/fastener-kit?skr=yes"
     },
     {
@@ -818,6 +910,7 @@
       "price": "16.42",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/fastener-kit?skr=yes"
     }
   ],
@@ -954,6 +1047,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -966,6 +1060,7 @@
       "price": "19.66",
       "region": "us",
       "sku": "43094610051208",
+      "store_id": "",
       "title": "Fastener Kit - Fastener Kit-ZH045",
       "url": "https://us.store.bambulab.com/products/fastener-kit?id=43094610051208",
       "variant_id": "43094610051208"
@@ -978,6 +1073,7 @@
       "price": "20.79",
       "region": "ca",
       "sku": "46817701691632",
+      "store_id": "",
       "title": "Fastener Kit - Fastener Kit-ZH045",
       "url": "https://ca.store.bambulab.com/products/fastener-kit?id=46817701691632",
       "variant_id": "46817701691632"
@@ -990,18 +1086,20 @@
       "price": "13.61",
       "region": "eu",
       "sku": "53495181312348",
+      "store_id": "",
       "title": "Fastener Kit - Fastener Kit-ZH045",
       "url": "https://eu.store.bambulab.com/products/fastener-kit?id=53495181312348",
       "variant_id": "53495181312348"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "GBP",
       "image_url": "https://store.bblcdn.eu/s4/default/c46a64d25a2441928ed94dafb0cf2468/ZH045.png",
       "part_number": "ZH045",
       "price": "14.45",
       "region": "uk",
       "sku": "536387957671194626",
+      "store_id": "",
       "title": "Fastener Kit - Fastener Kit-ZH045",
       "url": "https://uk.store.bambulab.com/products/fastener-kit?id=536387957671194626",
       "variant_id": "536387957671194626"
@@ -1014,6 +1112,7 @@
       "price": "32.63",
       "region": "au",
       "sku": "536388414728421378",
+      "store_id": "",
       "title": "Fastener Kit - Fastener Kit-ZH045",
       "url": "https://au.store.bambulab.com/products/fastener-kit?id=536388414728421378",
       "variant_id": "536388414728421378"
@@ -1026,6 +1125,7 @@
       "price": "16.42",
       "region": "asia",
       "sku": "536387587893063682",
+      "store_id": "",
       "title": "Fastener Kit - Fastener Kit-ZH045",
       "url": "https://store.bambulab.com/products/fastener-kit?id=536387587893063682",
       "variant_id": "536387587893063682"

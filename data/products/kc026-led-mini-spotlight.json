@@ -4,36 +4,49 @@
     {
       "handle": "led-mini-spotlight",
       "product_id": "715069008243515392",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "led-mini-spotlight",
       "product_id": "715068172774014976",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "led-mini-spotlight",
       "product_id": "715069647646982144",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "led-mini-spotlight",
       "product_id": "715068717394362368",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "led-mini-spotlight",
       "product_id": "715067837137043456",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "led-mini-spotlight",
       "product_id": "715060965107654656",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9b/9ba2fbea54690de5441ea8e3409a81a9a21905df7f20a86d3f35d150d6c95577.png",
       "id": "image-5afd2d308452232aa49c",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-KC026-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9ba2fbea54690de5441ea8e3409a81a9a21905df7f20a86d3f35d150d6c95577",
       "size": 492399,
       "source_url": "https://store.bblcdn.com/s7/default/d93cb68ec1ff4b5c83dc435ff75f996d/B-KC026-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e9/e9f86ea99c6ccce3d70d7ca488477c24d1e9cc54818884348f2be44cc2a0e8a5.png",
       "id": "image-86913efa3e51f65b0db3",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-KC027-1_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e9f86ea99c6ccce3d70d7ca488477c24d1e9cc54818884348f2be44cc2a0e8a5",
       "size": 645889,
       "source_url": "https://store.bblcdn.com/s7/default/9f48e7b3484440c4b8337ffe0b7efcaa/B-KC027-1_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/29/29ec2073fb5bdf45f9b0a3d5f61333f74ba7a99839f6a692bd92292d6b202b9f.png",
       "id": "image-96753b9e5333292d277a",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-KC026-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "29ec2073fb5bdf45f9b0a3d5f61333f74ba7a99839f6a692bd92292d6b202b9f",
       "size": 292436,
       "source_url": "https://store.bblcdn.com/s7/default/bc354f1ef4e741d18e80f890e784fa78/B-KC026-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/27/27a34307e24ca1aac6bf764ee23905b7836c6298d293569746445e545922b6a0.png",
       "id": "image-b2c953c25998d7406b42",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "B-KC027-4_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "27a34307e24ca1aac6bf764ee23905b7836c6298d293569746445e545922b6a0",
       "size": 542228,
       "source_url": "https://store.bblcdn.com/s7/default/ea6620037f314b25bf47a2b37dbbbd2d/B-KC027-4_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f7/f7a58504da3a428acaacd973761dfe754550a87c77dc19e0b17a8ffe3582ff46.zip",
       "id": "archive-ad5b7fb465b3115fc3a2",
       "kind": "archive",
@@ -89,11 +110,13 @@
       "original_filename": "LED_Mini_Spotlight_model_KC026.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f7a58504da3a428acaacd973761dfe754550a87c77dc19e0b17a8ffe3582ff46",
       "size": 823254,
       "source_url": "https://store.bblcdn.com/s1/default/0ab860f8f8f64393a0b7c6312fded84b/LED_Mini_Spotlight_model_KC026.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "LED Mini Spotlight_model_KC026.STEP",
       "blob_path": "data/blobs/sha256/5e/5e4d861d05536830cb2527ce3a41ae4e46a816f4bad38df1b703b4a1c213e9d5.step",
       "id": "model-ba029c063b834e8b10e7",
@@ -103,11 +126,13 @@
       "parent_asset_id": "archive-ad5b7fb465b3115fc3a2",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5e4d861d05536830cb2527ce3a41ae4e46a816f4bad38df1b703b4a1c213e9d5",
       "size": 167783,
       "source_url": "https://store.bblcdn.com/s1/default/0ab860f8f8f64393a0b7c6312fded84b/LED_Mini_Spotlight_model_KC026.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "LED Mini Spotlight_model_KC026.stl",
       "blob_path": "data/blobs/sha256/3f/3fe676a3cc202412cf630b21333aadb5322d29dd29bf60c35d8fefabae325316.stl",
       "id": "model-dd7a35fa55ef069ff469",
@@ -117,11 +142,13 @@
       "parent_asset_id": "archive-ad5b7fb465b3115fc3a2",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3fe676a3cc202412cf630b21333aadb5322d29dd29bf60c35d8fefabae325316",
       "size": 2162184,
       "source_url": "https://store.bblcdn.com/s1/default/0ab860f8f8f64393a0b7c6312fded84b/LED_Mini_Spotlight_model_KC026.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d6/d677ab6307a86b8cf0af159154b5b1138465da9959dede432e3ce957cb29b55d.png",
       "id": "image-display-397d234ed432cc1ac540",
       "image_processing": {
@@ -139,11 +166,13 @@
       "parent_asset_id": "image-5afd2d308452232aa49c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d677ab6307a86b8cf0af159154b5b1138465da9959dede432e3ce957cb29b55d",
       "size": 104399,
       "source_url": "https://store.bblcdn.com/s7/default/d93cb68ec1ff4b5c83dc435ff75f996d/B-KC026-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/23/23e0ed71da9295a9f9df392829cc55dc2decb55d01965da39101072b4340c6b2.png",
       "id": "image-display-9c233251512a15526a3d",
       "image_processing": {
@@ -161,11 +190,13 @@
       "parent_asset_id": "image-86913efa3e51f65b0db3",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "23e0ed71da9295a9f9df392829cc55dc2decb55d01965da39101072b4340c6b2",
       "size": 147294,
       "source_url": "https://store.bblcdn.com/s7/default/9f48e7b3484440c4b8337ffe0b7efcaa/B-KC027-1_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2e/2ee38936615869ce00376a4d8d1a2a2a655f0f72c248f4bab3e31b06e93dbd81.png",
       "id": "image-display-463d98ba04d420547ded",
       "image_processing": {
@@ -183,11 +214,13 @@
       "parent_asset_id": "image-96753b9e5333292d277a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2ee38936615869ce00376a4d8d1a2a2a655f0f72c248f4bab3e31b06e93dbd81",
       "size": 71592,
       "source_url": "https://store.bblcdn.com/s7/default/bc354f1ef4e741d18e80f890e784fa78/B-KC026-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b1/b1fe2320d8edb2bafd3ba06376991bf06ae89a5700ca328833b08730d42e2c99.png",
       "id": "image-display-6b5521432073bfdca272",
       "image_processing": {
@@ -205,6 +238,7 @@
       "parent_asset_id": "image-b2c953c25998d7406b42",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b1fe2320d8edb2bafd3ba06376991bf06ae89a5700ca328833b08730d42e2c99",
       "size": 131194,
       "source_url": "https://store.bblcdn.com/s7/default/ea6620037f314b25bf47a2b37dbbbd2d/B-KC027-4_1.png"
@@ -274,6 +308,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "kc026-led-mini-spotlight",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Dimensions",
@@ -295,6 +330,7 @@
       "price": "6.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
     },
     {
@@ -305,6 +341,7 @@
       "price": "9.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
     },
     {
@@ -315,6 +352,7 @@
       "price": "7.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
     },
     {
@@ -325,6 +363,7 @@
       "price": "6.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
     },
     {
@@ -335,6 +374,7 @@
       "price": "10.99",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
     },
     {
@@ -345,6 +385,7 @@
       "price": "6.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/led-mini-spotlight?skr=yes"
     }
   ],
@@ -467,6 +508,7 @@
     "Material": "Black Aluminum Alloy",
     "Power Consumption": "0.5W"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -477,6 +519,7 @@
       "price": "6.99",
       "region": "us",
       "sku": "715069008260292610",
+      "store_id": "",
       "title": "LED Mini Spotlight - Warm White (KC026)",
       "url": "https://us.store.bambulab.com/products/led-mini-spotlight?id=715069008260292610",
       "variant_id": "715069008260292610"
@@ -489,6 +532,7 @@
       "price": "8.99",
       "region": "us",
       "sku": "750514205610123266",
+      "store_id": "",
       "title": "LED Mini Spotlight - RGB ( KC027 )",
       "url": "https://us.store.bambulab.com/products/led-mini-spotlight?id=750514205610123266",
       "variant_id": "750514205610123266"
@@ -501,6 +545,7 @@
       "price": "9.99",
       "region": "ca",
       "sku": "715068172786597890",
+      "store_id": "",
       "title": "LED Mini Spotlight - Warm White (KC026)",
       "url": "https://ca.store.bambulab.com/products/led-mini-spotlight?id=715068172786597890",
       "variant_id": "715068172786597890"
@@ -513,6 +558,7 @@
       "price": "12.99",
       "region": "ca",
       "sku": "750514090570719233",
+      "store_id": "",
       "title": "LED Mini Spotlight - RGB ( KC027 )",
       "url": "https://ca.store.bambulab.com/products/led-mini-spotlight?id=750514090570719233",
       "variant_id": "750514090570719233"
@@ -525,6 +571,7 @@
       "price": "7.99",
       "region": "eu",
       "sku": "715069647663759362",
+      "store_id": "",
       "title": "LED Mini Spotlight - Warm White (KC026)",
       "url": "https://eu.store.bambulab.com/products/led-mini-spotlight?id=715069647663759362",
       "variant_id": "715069647663759362"
@@ -537,6 +584,7 @@
       "price": "8.99",
       "region": "eu",
       "sku": "750514359264030721",
+      "store_id": "",
       "title": "LED Mini Spotlight - RGB ( KC027 )",
       "url": "https://eu.store.bambulab.com/products/led-mini-spotlight?id=750514359264030721",
       "variant_id": "750514359264030721"
@@ -549,6 +597,7 @@
       "price": "6.99",
       "region": "uk",
       "sku": "715068717415333890",
+      "store_id": "",
       "title": "LED Mini Spotlight - Warm White (KC026)",
       "url": "https://uk.store.bambulab.com/products/led-mini-spotlight?id=715068717415333890",
       "variant_id": "715068717415333890"
@@ -561,6 +610,7 @@
       "price": "7.99",
       "region": "uk",
       "sku": "750514144853098498",
+      "store_id": "",
       "title": "LED Mini Spotlight - RGB ( KC027 )",
       "url": "https://uk.store.bambulab.com/products/led-mini-spotlight?id=750514144853098498",
       "variant_id": "750514144853098498"
@@ -573,6 +623,7 @@
       "price": "10.99",
       "region": "au",
       "sku": "715067837158014978",
+      "store_id": "",
       "title": "LED Mini Spotlight - Warm White (KC026)",
       "url": "https://au.store.bambulab.com/products/led-mini-spotlight?id=715067837158014978",
       "variant_id": "715067837158014978"
@@ -585,6 +636,7 @@
       "price": "13.99",
       "region": "au",
       "sku": "750513987017691138",
+      "store_id": "",
       "title": "LED Mini Spotlight - RGB ( KC027 )",
       "url": "https://au.store.bambulab.com/products/led-mini-spotlight?id=750513987017691138",
       "variant_id": "750513987017691138"
@@ -597,6 +649,7 @@
       "price": "6.99",
       "region": "asia",
       "sku": "715060965124431874",
+      "store_id": "",
       "title": "LED Mini Spotlight - Warm White ( KC026 )",
       "url": "https://asia.store.bambulab.com/products/led-mini-spotlight?id=715060965124431874",
       "variant_id": "715060965124431874"
@@ -609,6 +662,7 @@
       "price": "8.99",
       "region": "asia",
       "sku": "749114786233171970",
+      "store_id": "",
       "title": "LED Mini Spotlight - RGB ( KC027 )",
       "url": "https://asia.store.bambulab.com/products/led-mini-spotlight?id=749114786233171970",
       "variant_id": "749114786233171970"

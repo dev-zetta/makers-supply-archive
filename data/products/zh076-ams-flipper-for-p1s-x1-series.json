@@ -4,36 +4,49 @@
     {
       "handle": "ams-flipper-for-p1s-x1-series",
       "product_id": "600897984419512320",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-flipper-for-p1s-x1-series",
       "product_id": "600918671123374080",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-flipper-for-p1s-x1-series",
       "product_id": "600919230155071488",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-flipper-for-p1s-x1-series",
       "product_id": "600918806642319360",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-flipper-for-p1s-x1-series",
       "product_id": "600918942192295936",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "ams-flipper-for-p1s-x1-series",
       "product_id": "600919083050708992",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c4/c4b7c141cfa709badafbccd93e8e672083d36a2ba11b4c01b65fd691b6cfc378.png",
       "id": "image-2763a00b064c25b8490c",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH072_(2).png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c4b7c141cfa709badafbccd93e8e672083d36a2ba11b4c01b65fd691b6cfc378",
       "size": 1536460,
       "source_url": "https://store.bblcdn.com/s7/default/61f2ac14cedf4f22a08bbdd16c17d749/B-ZH072_(2).png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bcaa7fd1fc748c0f349e249d731a2e8bdfa6fb4b5813cd0453e9918ebbe7569d.png",
       "id": "image-5c74aeee52b503e537b5",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH071.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bcaa7fd1fc748c0f349e249d731a2e8bdfa6fb4b5813cd0453e9918ebbe7569d",
       "size": 199261,
       "source_url": "https://store.bblcdn.com/s7/default/a60307afc97a442ab06655c2dabb252d/B-ZH071.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/91/91b51187689adf517ceb5f6c77707d01c24d19310e47e4fa19b728e2f11aaf06.png",
       "id": "image-display-4570ae9644060c145772",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-2763a00b064c25b8490c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "91b51187689adf517ceb5f6c77707d01c24d19310e47e4fa19b728e2f11aaf06",
       "size": 487737,
       "source_url": "https://store.bblcdn.com/s7/default/61f2ac14cedf4f22a08bbdd16c17d749/B-ZH072_(2).png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1e/1e8b5b782e551ae7180f33b0c0cd19403401ae4bf5d906aed0f28f19b148278c.png",
       "id": "image-display-aff6650ba026840e8dc5",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-5c74aeee52b503e537b5",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1e8b5b782e551ae7180f33b0c0cd19403401ae4bf5d906aed0f28f19b148278c",
       "size": 67213,
       "source_url": "https://store.bblcdn.com/s7/default/a60307afc97a442ab06655c2dabb252d/B-ZH071.png"
@@ -154,7 +174,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional AMS Flipper - for P1S/X1 Series. To complete the project, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the AMS Flipper - for P1S/X1 Series and obtain detailed information, please visit the AMS Flipper - for P1S/X1 Series on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh076-ams-flipper-for-p1s-x1-series",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "AMS Flipper - better access to the P1S/X1C/P2S",
   "offers": [
@@ -166,6 +187,7 @@
       "price": "3.2",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/ams-flipper-for-p1s-x1-series?skr=yes"
     },
     {
@@ -176,6 +198,7 @@
       "price": "3.7",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/ams-flipper-for-p1s-x1-series?skr=yes"
     },
     {
@@ -186,6 +209,7 @@
       "price": "3.31",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/ams-flipper-for-p1s-x1-series?skr=yes"
     },
     {
@@ -196,6 +220,7 @@
       "price": "2.56",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/ams-flipper-for-p1s-x1-series?skr=yes"
     },
     {
@@ -206,6 +231,7 @@
       "price": "5.79",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/ams-flipper-for-p1s-x1-series?skr=yes"
     },
     {
@@ -216,6 +242,7 @@
       "price": "2.92",
       "region": "asia",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/ams-flipper-for-p1s-x1-series?skr=yes"
     }
   ],
@@ -266,6 +293,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -278,6 +306,7 @@
       "price": "3.2",
       "region": "us",
       "sku": "600912744055853057",
+      "store_id": "",
       "title": "AMS Flipper - better access to the P1S/X1C/P2S - AMS Flipper - better access to the P1S/X1C/P2S - ZH076",
       "url": "https://us.store.bambulab.com/products/ams-flipper-for-p1s-x1-series?id=600912744055853057",
       "variant_id": "600912744055853057"
@@ -290,6 +319,7 @@
       "price": "3.7",
       "region": "ca",
       "sku": "600918671127568386",
+      "store_id": "",
       "title": "AMS Flipper - better access to the P1S/X1C/P2S - AMS Flipper - better access to the P1S/X1C/P2S - ZH076",
       "url": "https://ca.store.bambulab.com/products/ams-flipper-for-p1s-x1-series?id=600918671127568386",
       "variant_id": "600918671127568386"
@@ -302,6 +332,7 @@
       "price": "3.31",
       "region": "eu",
       "sku": "600919230717108226",
+      "store_id": "",
       "title": "AMS Flipper - better access to the P1S/X1C/P2S - AMS Flipper - better access to the P1S/X1C/P2S - ZH076",
       "url": "https://eu.store.bambulab.com/products/ams-flipper-for-p1s-x1-series?id=600919230717108226",
       "variant_id": "600919230717108226"
@@ -314,6 +345,7 @@
       "price": "2.56",
       "region": "uk",
       "sku": "600918806654902274",
+      "store_id": "",
       "title": "AMS Flipper - better access to the P1S/X1C/P2S - AMS Flipper - better access to the P1S/X1C/P2S - ZH076",
       "url": "https://uk.store.bambulab.com/products/ams-flipper-for-p1s-x1-series?id=600918806654902274",
       "variant_id": "600918806654902274"
@@ -326,6 +358,7 @@
       "price": "5.79",
       "region": "au",
       "sku": "600918942200684546",
+      "store_id": "",
       "title": "AMS Flipper - better access to the P1S/X1C/P2S - AMS Flipper - better access to the P1S/X1C/P2S - ZH076",
       "url": "https://au.store.bambulab.com/products/ams-flipper-for-p1s-x1-series?id=600918942200684546",
       "variant_id": "600918942200684546"
@@ -338,6 +371,7 @@
       "price": "2.92",
       "region": "asia",
       "sku": "600919083063291906",
+      "store_id": "",
       "title": "AMS Flipper - better access to the P1S/X1C/P2S - AMS Flipper - better access to the P1S/X1C/P2S - ZH076",
       "url": "https://asia.store.bambulab.com/products/ams-flipper-for-p1s-x1-series?id=600919083063291906",
       "variant_id": "600919083063291906"

@@ -4,31 +4,42 @@
     {
       "handle": "cyberbrick-military-rc-off-roader",
       "product_id": "759191834114187264",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-military-rc-off-roader",
       "product_id": "759191438016704512",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-military-rc-off-roader",
       "product_id": "759192081301241856",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-military-rc-off-roader",
       "product_id": "759191681907081216",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-military-rc-off-roader",
       "product_id": "759190602117083136",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fc/fc60f51dd3a66eafbe5beb546e789ea71a11fab19f48f8d1e6d593ee04c19689.png",
       "id": "image-22c5eb351decdf25ff94",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "RC_JEEP.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fc60f51dd3a66eafbe5beb546e789ea71a11fab19f48f8d1e6d593ee04c19689",
       "size": 1272922,
       "source_url": "https://store.bblcdn.com/s7/default/36c497a967194434b81564c62a1046fe/RC_JEEP.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7c/7c759192c169fea5a09064fbb9f2cf31763a57fa006f7119f155bf3bf4fdb8e1.png",
       "id": "image-b5fb662d8cba40615642",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "SINGLE_JEEP.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7c759192c169fea5a09064fbb9f2cf31763a57fa006f7119f155bf3bf4fdb8e1",
       "size": 1681170,
       "source_url": "https://store.bblcdn.com/s7/default/0dab01063014436da0c5f19b0fcc98c2/SINGLE_JEEP.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c2/c2c35e64062235ee43a53dc7219c6c2ea9e5717caef782b7b4d9529a7ba4900f.png",
       "id": "image-d3def31b9a9045eb29f0",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "IMG_8507_1_1_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c2c35e64062235ee43a53dc7219c6c2ea9e5717caef782b7b4d9529a7ba4900f",
       "size": 3522214,
       "source_url": "https://store.bblcdn.com/s7/default/c3db31a6db5047ea968cf09bd4baaac4/IMG_8507_1_1_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8f/8fb5672c899b729f32f835be23dc3324c189ce2d728f7d0344b5a739a057861e.png",
       "id": "image-3cac7d22618c0f6d0dc5",
       "kind": "image",
@@ -72,11 +89,13 @@
       "original_filename": "IMG_8508_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8fb5672c899b729f32f835be23dc3324c189ce2d728f7d0344b5a739a057861e",
       "size": 3950664,
       "source_url": "https://store.bblcdn.com/s7/default/93f0fab22de54d48a5ea2b2029ff0126/IMG_8508_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/02/02eef1f78d7784422ef31b027aeb33a86dc77ca8a35117d86fbee2f9c21d0606.png",
       "id": "image-05d0022039ee84b482c0",
       "kind": "image",
@@ -84,11 +103,13 @@
       "original_filename": "IMG_7416_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "02eef1f78d7784422ef31b027aeb33a86dc77ca8a35117d86fbee2f9c21d0606",
       "size": 3920956,
       "source_url": "https://store.bblcdn.com/s7/default/287b2c6118a84e0f9ac587eb5aab8950/IMG_7416_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/57/575b4db920896ee826b20434a856e55e21f5a308932a85d5c8b25d9162e9521a.pdf",
       "id": "document-437a6d95afddf4c5b1c9",
       "kind": "document",
@@ -96,11 +117,13 @@
       "original_filename": "Instructions_Willys_Jeep_RC_Final_4.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "575b4db920896ee826b20434a856e55e21f5a308932a85d5c8b25d9162e9521a",
       "size": 6033911,
       "source_url": "https://store.bblcdn.com/s1/default/748b25a1d24546b7b04900cf8c64c2ee/Instructions_Willys_Jeep_RC_Final_4.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8f/8f39ba12c13e7e07228c6f87a38d133573fa91f461fec26f38ba6dbfad8d7268.png",
       "id": "image-display-6235a69072e95c2072e3",
       "image_processing": {
@@ -118,11 +141,13 @@
       "parent_asset_id": "image-22c5eb351decdf25ff94",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8f39ba12c13e7e07228c6f87a38d133573fa91f461fec26f38ba6dbfad8d7268",
       "size": 476339,
       "source_url": "https://store.bblcdn.com/s7/default/36c497a967194434b81564c62a1046fe/RC_JEEP.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/61/61bfda963fb65141558582233b467fe874c55024f74f2652a3cb9a6ef9b3b0e6.png",
       "id": "image-display-494971a74a441832ce36",
       "image_processing": {
@@ -140,11 +165,13 @@
       "parent_asset_id": "image-b5fb662d8cba40615642",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "61bfda963fb65141558582233b467fe874c55024f74f2652a3cb9a6ef9b3b0e6",
       "size": 512895,
       "source_url": "https://store.bblcdn.com/s7/default/0dab01063014436da0c5f19b0fcc98c2/SINGLE_JEEP.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/47/4782fd9e7c4b12b5081fdd3a146a5908166469e398a775dc407c7f97e200a54e.png",
       "id": "image-display-95d2507a2b59506b5746",
       "image_processing": {
@@ -162,11 +189,13 @@
       "parent_asset_id": "image-d3def31b9a9045eb29f0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4782fd9e7c4b12b5081fdd3a146a5908166469e398a775dc407c7f97e200a54e",
       "size": 1052355,
       "source_url": "https://store.bblcdn.com/s7/default/c3db31a6db5047ea968cf09bd4baaac4/IMG_8507_1_1_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3e/3e84df8695f92770153053bc77de020a62b6da2fb15602ee2d1c91817b3f6710.png",
       "id": "image-display-2687b92df28415c52787",
       "image_processing": {
@@ -184,11 +213,13 @@
       "parent_asset_id": "image-3cac7d22618c0f6d0dc5",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3e84df8695f92770153053bc77de020a62b6da2fb15602ee2d1c91817b3f6710",
       "size": 1037760,
       "source_url": "https://store.bblcdn.com/s7/default/93f0fab22de54d48a5ea2b2029ff0126/IMG_8508_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/07/07281d334425dd42f5213b2ca5960c38d095749466a181989253890757558797.png",
       "id": "image-display-f7bccb0bda5fb5f6ab45",
       "image_processing": {
@@ -206,6 +237,7 @@
       "parent_asset_id": "image-05d0022039ee84b482c0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "07281d334425dd42f5213b2ca5960c38d095749466a181989253890757558797",
       "size": 922900,
       "source_url": "https://store.bblcdn.com/s7/default/287b2c6118a84e0f9ac587eb5aab8950/IMG_7416_1.png"
@@ -562,7 +594,8 @@
   "description_text": "This RC Jeep captures the iconic look of a classic military vehicle, complete with its distinctive olive-green finish and star emblem.\n\nThe robust design isn't just for show; it's built to handle various terrains, making it perfect for both display and dynamic play.\n\nThis model is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zl033-willy-s-cyberbrick-rc-jeep",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "CyberBrick Military RC Off-Roader",
   "offers": [
@@ -574,6 +607,7 @@
       "price": "65.79",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/cyberbrick-military-rc-off-roader?skr=yes"
     },
     {
@@ -584,6 +618,7 @@
       "price": "86.09",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/cyberbrick-military-rc-off-roader?skr=yes"
     },
     {
@@ -594,6 +629,7 @@
       "price": "69.29",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/cyberbrick-military-rc-off-roader?skr=yes"
     },
     {
@@ -604,6 +640,7 @@
       "price": "55.29",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/cyberbrick-military-rc-off-roader?skr=yes"
     },
     {
@@ -614,6 +651,7 @@
       "price": "111.29",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/cyberbrick-military-rc-off-roader?skr=yes"
     }
   ],
@@ -750,6 +788,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -760,6 +799,7 @@
       "price": "65.79",
       "region": "us",
       "sku": "759191834126770182",
+      "store_id": "",
       "title": "CyberBrick Military RC Off-Roader - Yes - Remote Included / Willy´s CyberBrick RC Jeep - Remote included - ZL033",
       "url": "https://us.store.bambulab.com/products/cyberbrick-military-rc-off-roader?id=759191834126770182",
       "variant_id": "759191834126770182"
@@ -772,6 +812,7 @@
       "price": "48.99",
       "region": "us",
       "sku": "759191834126770187",
+      "store_id": "",
       "title": "CyberBrick Military RC Off-Roader - No - Vehicle Only / Willy´s CyberBrick RC Jeep - Remote not included - ZL033-1",
       "url": "https://us.store.bambulab.com/products/cyberbrick-military-rc-off-roader?id=759191834126770187",
       "variant_id": "759191834126770187"
@@ -784,6 +825,7 @@
       "price": "86.09",
       "region": "ca",
       "sku": "759191438025093126",
+      "store_id": "",
       "title": "CyberBrick Military RC Off-Roader - Yes - Remote Included / Willy´s CyberBrick RC Jeep - Remote included - ZL033",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-military-rc-off-roader?id=759191438025093126",
       "variant_id": "759191438025093126"
@@ -796,6 +838,7 @@
       "price": "62.29",
       "region": "ca",
       "sku": "759191438025093131",
+      "store_id": "",
       "title": "CyberBrick Military RC Off-Roader - No - Vehicle Only / Willy´s CyberBrick RC Jeep - Remote not included - ZL033-1",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-military-rc-off-roader?id=759191438025093131",
       "variant_id": "759191438025093131"
@@ -808,6 +851,7 @@
       "price": "69.29",
       "region": "eu",
       "sku": "759192081318019078",
+      "store_id": "",
       "title": "CyberBrick Military RC Off-Roader - Yes - Remote Included / Willy´s CyberBrick RC Jeep - Remote included - ZL033",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-military-rc-off-roader?id=759192081318019078",
       "variant_id": "759192081318019078"
@@ -820,6 +864,7 @@
       "price": "52.49",
       "region": "eu",
       "sku": "759192081318019085",
+      "store_id": "",
       "title": "CyberBrick Military RC Off-Roader - No - Vehicle Only / Willy´s CyberBrick RC Jeep - Remote not included - ZL033-1",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-military-rc-off-roader?id=759192081318019085",
       "variant_id": "759192081318019085"
@@ -832,6 +877,7 @@
       "price": "55.29",
       "region": "uk",
       "sku": "759191681949024262",
+      "store_id": "",
       "title": "CyberBrick Military RC Off-Roader - Yes - Remote Included / Willy´s CyberBrick RC Jeep - Remote included - ZL033",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-military-rc-off-roader?id=759191681949024262",
       "variant_id": "759191681949024262"
@@ -844,6 +890,7 @@
       "price": "41.29",
       "region": "uk",
       "sku": "759191681949024267",
+      "store_id": "",
       "title": "CyberBrick Military RC Off-Roader - No - Vehicle Only / Willy´s CyberBrick RC Jeep - Remote not included - ZL033-1",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-military-rc-off-roader?id=759191681949024267",
       "variant_id": "759191681949024267"
@@ -856,6 +903,7 @@
       "price": "111.29",
       "region": "au",
       "sku": "759190602129666054",
+      "store_id": "",
       "title": "CyberBrick Military RC Off-Roader - Yes - Remote Included / Willy´s CyberBrick RC Jeep - Remote included - ZL033",
       "url": "https://au.store.bambulab.com/products/cyberbrick-military-rc-off-roader?id=759190602129666054",
       "variant_id": "759190602129666054"
@@ -868,6 +916,7 @@
       "price": "85.39",
       "region": "au",
       "sku": "759190602129666059",
+      "store_id": "",
       "title": "CyberBrick Military RC Off-Roader - No - Vehicle Only / Willy´s CyberBrick RC Jeep - Remote not included - ZL033-1",
       "url": "https://au.store.bambulab.com/products/cyberbrick-military-rc-off-roader?id=759190602129666059",
       "variant_id": "759190602129666059"

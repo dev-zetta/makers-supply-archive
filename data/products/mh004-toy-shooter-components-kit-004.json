@@ -4,36 +4,49 @@
     {
       "handle": "toy-shooter-components-kit-004",
       "product_id": "7527277920392",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "toy-shooter-components-kit-004",
       "product_id": "9122909126896",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "toy-shooter-components-kit-004",
       "product_id": "14795168711004",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "toy-shooter-components-kit-004",
       "product_id": "539939413392027648",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "toy-shooter-components-kit-004",
       "product_id": "539938999256322048",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "toy-shooter-components-kit-004",
       "product_id": "539939796862676992",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cd/cd3d81131d8b623ef51a4fd5069a6dac340dfa0178337d9a2cb3ef77ff2052b1.png",
       "id": "image-b87fe8cffdcde91557b1",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "toyshooter.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cd3d81131d8b623ef51a4fd5069a6dac340dfa0178337d9a2cb3ef77ff2052b1",
       "size": 943292,
       "source_url": "https://store.bblcdn.com/s7/default/35856aef6e0f4d25b8ff10066a35deb0/toyshooter.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/16/16f8fed3f40f2f8bddd581bfeadc5f2e0bf997c5cd3285e075065522910c2b5e.png",
       "id": "image-f3a11f8895bf55d8af40",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "Frame_1123862490.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "16f8fed3f40f2f8bddd581bfeadc5f2e0bf997c5cd3285e075065522910c2b5e",
       "size": 352250,
       "source_url": "https://store.bblcdn.com/s7/default/99822562c72a4ad88d879c051116e5b5/Frame_1123862490.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/00/00528a5de1de9772d4b52cac64d5ef031e029f78bcbd36ae53b0d90c098b6130.png",
       "id": "image-3cf70261a4209e290b1f",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "1223.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "00528a5de1de9772d4b52cac64d5ef031e029f78bcbd36ae53b0d90c098b6130",
       "size": 110110,
       "source_url": "https://store.bblcdn.com/s7/default/da66a67dddf74380a57e42652745f421/1223.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b6/b675e561689713b64fbdbfff76b88acc93020cb4cca3ea8d86f62598b514eaa6.png",
       "id": "image-bb60514abfe76609e67e",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "Frame_1123862491.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b675e561689713b64fbdbfff76b88acc93020cb4cca3ea8d86f62598b514eaa6",
       "size": 397371,
       "source_url": "https://store.bblcdn.com/s7/default/a75a35ae1fae4ea58cf9a76a9d75a4e2/Frame_1123862491.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8e/8e95a99a7f2a663acfe1cc70bd9e1a30c38aa88991cd2a79522a0e53ddf8da51.png",
       "id": "image-4a57689875ba04accd9c",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "Frame_1123862489.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8e95a99a7f2a663acfe1cc70bd9e1a30c38aa88991cd2a79522a0e53ddf8da51",
       "size": 708271,
       "source_url": "https://store.bblcdn.com/s7/default/2784add5883847a2bb22983592025dcb/Frame_1123862489.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bc/bc2226d5b98bc9effb8c07a422a57710153363761d8a3fad738ffb36d1d41924.zip",
       "id": "archive-72f9569ccf0ec5e439f6",
       "kind": "archive",
@@ -101,11 +124,13 @@
       "original_filename": "Toy_Shooter_Components_Kit_-_MH004_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bc2226d5b98bc9effb8c07a422a57710153363761d8a3fad738ffb36d1d41924",
       "size": 3171471,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/D2 Stainless Steel Dowel Pin/2x14 - DA003/2x14 mm Stainless Steel Dowel Pin  - DA003.stl",
       "blob_path": "data/blobs/sha256/11/11b96f516dd3554a5c1313baf5c5f8d268a01cacfb74cb3876481f6c7ceb61a2.stl",
       "id": "model-9f0f2407b2b0f067df0a",
@@ -115,11 +140,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "11b96f516dd3554a5c1313baf5c5f8d268a01cacfb74cb3876481f6c7ceb61a2",
       "size": 4684,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/D2 Stainless Steel Dowel Pin/2x14 - DA003/2x14 mm Stainless Steel Dowel Pin  - DA003.stp",
       "blob_path": "data/blobs/sha256/20/2089e830c22161aa41d64e64bfb46d439a32f2419a6357caeab6a4a09291855e.stp",
       "id": "model-9534f37bcc3b8b978210",
@@ -129,11 +156,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2089e830c22161aa41d64e64bfb46d439a32f2419a6357caeab6a4a09291855e",
       "size": 31570,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/D2 Stainless Steel Dowel Pin/2x18 - DA001/2x18 mm Stainless Steel Dowel Pin  - DA001.stl",
       "blob_path": "data/blobs/sha256/0f/0f872b26744202410ee0e196c849b566678409a7c63d1e89367ff4b68f90d396.stl",
       "id": "model-d03c2f330f171e386597",
@@ -143,11 +172,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0f872b26744202410ee0e196c849b566678409a7c63d1e89367ff4b68f90d396",
       "size": 4684,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/D2 Stainless Steel Dowel Pin/2x18 - DA001/2x18 mm Stainless Steel Dowel Pin  - DA001.stp",
       "blob_path": "data/blobs/sha256/b2/b24db1dde1ad6019a28f9b06c70b508c24f7ed1765ff50b36aad618b135a6444.stp",
       "id": "model-e0f6617053980cf2cae9",
@@ -157,11 +188,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b24db1dde1ad6019a28f9b06c70b508c24f7ed1765ff50b36aad618b135a6444",
       "size": 31499,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/D2 Stainless Steel Dowel Pin/2x25 - DA002/2x25 mm Stainless Steel Dowel Pin  - DA002.stl",
       "blob_path": "data/blobs/sha256/7d/7df6bb34c247996dc4bd058105934c3a0f7cb2d3fbbc6986c37c054303832707.stl",
       "id": "model-2f3163dee6c495259a9a",
@@ -171,11 +204,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7df6bb34c247996dc4bd058105934c3a0f7cb2d3fbbc6986c37c054303832707",
       "size": 3884,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/D2 Stainless Steel Dowel Pin/2x25 - DA002/2x25 mm Stainless Steel Dowel Pin  - DA002.stp",
       "blob_path": "data/blobs/sha256/c4/c400f4c2851afe4d5e1b71b00d2bd08b3281510170e4e079c87917d05201dd06.stp",
       "id": "model-f0ae3a25bcc70205e0ed",
@@ -185,11 +220,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c400f4c2851afe4d5e1b71b00d2bd08b3281510170e4e079c87917d05201dd06",
       "size": 26836,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Helical Compression Spring/0.3x3x10mm - BB003/0.3x3x10 mm  - BB003.stl",
       "blob_path": "data/blobs/sha256/2d/2ddb4169543d74e1128da0998a9010ea21dfcbfa1ad42f6da11fdb596be53651.stl",
       "id": "model-4f15ee923ce4d8b928bd",
@@ -199,11 +236,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2ddb4169543d74e1128da0998a9010ea21dfcbfa1ad42f6da11fdb596be53651",
       "size": 228884,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Helical Compression Spring/0.3x3x10mm - BB003/0.3x3x10 mm  - BB003.stp",
       "blob_path": "data/blobs/sha256/d9/d9d5431707280e5de952ce675e807903b3ab6e4d4178f1d4bf895fe14aa402d5.stp",
       "id": "model-dd4fcc2cc0579c04970e",
@@ -213,11 +252,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d9d5431707280e5de952ce675e807903b3ab6e4d4178f1d4bf895fe14aa402d5",
       "size": 281851,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Helical Compression Spring/0.3x6x80mm - BB002/0.3x6x80 mm  - BB002.stl",
       "blob_path": "data/blobs/sha256/b1/b13f046b36c797120b56ad9f14acd4626a26effc3a1682edaef8c5274c8b5d6f.stl",
       "id": "model-3e24dc43365444ceaccd",
@@ -227,11 +268,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b13f046b36c797120b56ad9f14acd4626a26effc3a1682edaef8c5274c8b5d6f",
       "size": 215884,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Helical Compression Spring/0.3x6x80mm - BB002/0.3x6x80 mm  - BB002.stp",
       "blob_path": "data/blobs/sha256/ef/ef5cb93f9dbe949db31320c376279599545035985fb81b698c5129124c4bdc9b.stp",
       "id": "model-a6cf554308844b4d13ac",
@@ -241,11 +284,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ef5cb93f9dbe949db31320c376279599545035985fb81b698c5129124c4bdc9b",
       "size": 763565,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Helical Compression Spring/0.5x5x25mm - BB004/0.5x5x25 mm  - BB004.stl",
       "blob_path": "data/blobs/sha256/a7/a77cd015c14fe9880a1ca784e0250d02da79aec0552d8aee3561f30fa768fc81.stl",
       "id": "model-159a89f62cee667033e1",
@@ -255,11 +300,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a77cd015c14fe9880a1ca784e0250d02da79aec0552d8aee3561f30fa768fc81",
       "size": 205284,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Helical Compression Spring/0.5x5x25mm - BB004/0.5x5x25 mm  - BB004.stp",
       "blob_path": "data/blobs/sha256/3a/3aac887a5565981b7a5f1172a341eb9c053acd9c9d849db504126247ba5acd6d.stp",
       "id": "model-8331e916fb3882ca2693",
@@ -269,11 +316,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3aac887a5565981b7a5f1172a341eb9c053acd9c9d849db504126247ba5acd6d",
       "size": 270659,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Helical Compression Spring/0.6x12x70mm - BB001/0.6x12x70 mm  - BB001.stl",
       "blob_path": "data/blobs/sha256/b1/b13f046b36c797120b56ad9f14acd4626a26effc3a1682edaef8c5274c8b5d6f.stl",
       "id": "model-ac91d2639a04c3367b60",
@@ -283,11 +332,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b13f046b36c797120b56ad9f14acd4626a26effc3a1682edaef8c5274c8b5d6f",
       "size": 215884,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Helical Compression Spring/0.6x12x70mm - BB001/0.6x12x70 mm  - BB001.stp",
       "blob_path": "data/blobs/sha256/c2/c26ba2c0742c73c43f10b000e58cf0802095a4c7509f58e8c07c51cf1b24b164.stp",
       "id": "model-ab85052b84927c1740ae",
@@ -297,11 +348,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c26ba2c0742c73c43f10b000e58cf0802095a4c7509f58e8c07c51cf1b24b164",
       "size": 763565,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M5 Socket Head Cap Machine Screws (SHCS)/M5x12 SHCS - AA001/M5x12 SHCS - AA001.stl",
       "blob_path": "data/blobs/sha256/e8/e853513e36d022ea28a8bc85cae95880804c9462db92de9ab98b3f49010d717d.stl",
       "id": "model-f86990857632d876fa7d",
@@ -311,11 +364,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e853513e36d022ea28a8bc85cae95880804c9462db92de9ab98b3f49010d717d",
       "size": 29284,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/M5 Socket Head Cap Machine Screws (SHCS)/M5x12 SHCS - AA001/M5x12 SHCS - AA001.stp",
       "blob_path": "data/blobs/sha256/44/445009878c97db145bf25771aeccfcad54cba9b6ec502611541e9f3547eeaeb4.stp",
       "id": "model-e68da288e0d746b0bc75",
@@ -325,11 +380,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "445009878c97db145bf25771aeccfcad54cba9b6ec502611541e9f3547eeaeb4",
       "size": 75358,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Torsion Spring/0.4x4x6 mm 120 Degree - BC002/0.4x4x6 mm 120 Degree - BC002.stl",
       "blob_path": "data/blobs/sha256/98/98c35b61f266926f82f2f4a81b70604ff2103b9fc91c1d45d6c5225c06b492d5.stl",
       "id": "model-2883e7dbd0b243c53c89",
@@ -339,11 +396,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "98c35b61f266926f82f2f4a81b70604ff2103b9fc91c1d45d6c5225c06b492d5",
       "size": 3318784,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Torsion Spring/0.4x4x6 mm 120 Degree - BC002/0.4x4x6 mm 120 Degree - BC002.stp",
       "blob_path": "data/blobs/sha256/23/239fa7b572f7c8f39163cf4d3ffa9d18b9358d400ba17c1c748fb7ef1f3ddcae.stp",
       "id": "model-c99f2af336d6909e68d4",
@@ -353,11 +412,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "239fa7b572f7c8f39163cf4d3ffa9d18b9358d400ba17c1c748fb7ef1f3ddcae",
       "size": 162518,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Torsion Spring/1x5x3 mm 120 Degree - BC001/1x5x3 mm 120 Degree - BC001.stl",
       "blob_path": "data/blobs/sha256/a9/a9b195c0406380787956dd21f4c99f1a89f1403a843fb5e2787556b1f79c7488.stl",
       "id": "model-200afade8f5f48b46bb2",
@@ -367,11 +428,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a9b195c0406380787956dd21f4c99f1a89f1403a843fb5e2787556b1f79c7488",
       "size": 3075184,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "3D Model/Torsion Spring/1x5x3 mm 120 Degree - BC001/1x5x3 mm 120 Degree - BC001.stp",
       "blob_path": "data/blobs/sha256/87/87c43793041d126145e868646c84b4cf72553bbe02b682e06d240f42f4dfe25c.stp",
       "id": "model-6d097413c5c3503eb849",
@@ -381,11 +444,13 @@
       "parent_asset_id": "archive-72f9569ccf0ec5e439f6",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "87c43793041d126145e868646c84b4cf72553bbe02b682e06d240f42f4dfe25c",
       "size": 109349,
       "source_url": "https://store.bblcdn.com/s7/default/2efa299a51cd477c88a9fad553bbfe03/Toy_Shooter_Components_Kit_-_MH004_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/21/21b581a2316d9cc3669d43deb963495a2316d409adc805bddcd644b100363401.png",
       "id": "image-display-49d623323f3d1958de64",
       "image_processing": {
@@ -403,11 +468,13 @@
       "parent_asset_id": "image-b87fe8cffdcde91557b1",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "21b581a2316d9cc3669d43deb963495a2316d409adc805bddcd644b100363401",
       "size": 210248,
       "source_url": "https://store.bblcdn.com/s7/default/35856aef6e0f4d25b8ff10066a35deb0/toyshooter.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/79/792e6967db6be2a7086973b592726e192601c43a36e7325bf8655ee6e40594db.png",
       "id": "image-display-797ee2035012c826fecf",
       "image_processing": {
@@ -425,11 +492,13 @@
       "parent_asset_id": "image-f3a11f8895bf55d8af40",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "792e6967db6be2a7086973b592726e192601c43a36e7325bf8655ee6e40594db",
       "size": 313371,
       "source_url": "https://store.bblcdn.com/s7/default/99822562c72a4ad88d879c051116e5b5/Frame_1123862490.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6b/6bfafd8d0d16dce9f7b48b1b5e45cd7cf00c5397a7bb7830eaa1adcd7d929416.png",
       "id": "image-display-6fa42989d3b127858f06",
       "image_processing": {
@@ -447,11 +516,13 @@
       "parent_asset_id": "image-3cf70261a4209e290b1f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6bfafd8d0d16dce9f7b48b1b5e45cd7cf00c5397a7bb7830eaa1adcd7d929416",
       "size": 110175,
       "source_url": "https://store.bblcdn.com/s7/default/da66a67dddf74380a57e42652745f421/1223.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7e/7e21f6817a306191ae4a5ee897bbe936a9a491378cdc789afbc91c7fb9d16fed.png",
       "id": "image-display-04afc908ee4bec78103d",
       "image_processing": {
@@ -469,11 +540,13 @@
       "parent_asset_id": "image-bb60514abfe76609e67e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7e21f6817a306191ae4a5ee897bbe936a9a491378cdc789afbc91c7fb9d16fed",
       "size": 351453,
       "source_url": "https://store.bblcdn.com/s7/default/a75a35ae1fae4ea58cf9a76a9d75a4e2/Frame_1123862491.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8c/8cb071a785e7e75964826fd6576a0a8ece53a15c043a0c1dea5088244f36f22e.png",
       "id": "image-display-b0f48e0b93b9aa3dc6df",
       "image_processing": {
@@ -491,6 +564,7 @@
       "parent_asset_id": "image-4a57689875ba04accd9c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8cb071a785e7e75964826fd6576a0a8ece53a15c043a0c1dea5088244f36f22e",
       "size": 630652,
       "source_url": "https://store.bblcdn.com/s7/default/2784add5883847a2bb22983592025dcb/Frame_1123862489.png"
@@ -628,7 +702,8 @@
   "description_text": "*This is a cartoon-style toy shooter that does not have any firing capability, only ejecting shells from the top to ensure safe play. To download the model files and obtain detailed information, please visit the Toy Shooter on MakerWorld.\n\n*This is a cartoon-style toy shooter that does not have any firing capability, only ejecting shells from the top to ensure safe play.\n\nTo download the model files and obtain detailed information, please visit the Toy Shooter on MakerWorld.\n\n2. Please wear appropriate eye protection such as goggles or safety glasses to prevent any ejected shells or debris from causing eye injuries.\n\n3. It is recommended to use PLA Basic for the printed part. To ensure proper functionality of the feeding mechanism, please avoid using PLA Matte for printing the feeding components.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "mh004-toy-shooter-components-kit-004",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Toy Shooter Components Kit 004",
   "offers": [
@@ -640,6 +715,7 @@
       "price": "5.19",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/toy-shooter-components-kit-004?skr=yes"
     },
     {
@@ -650,6 +726,7 @@
       "price": "6.4",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/toy-shooter-components-kit-004?skr=yes"
     },
     {
@@ -660,6 +737,7 @@
       "price": "5.6",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/toy-shooter-components-kit-004?skr=yes"
     },
     {
@@ -670,6 +748,7 @@
       "price": "4.8",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/toy-shooter-components-kit-004?skr=yes"
     },
     {
@@ -680,6 +759,7 @@
       "price": "8",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/toy-shooter-components-kit-004?skr=yes"
     },
     {
@@ -690,6 +770,7 @@
       "price": "4.8",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/toy-shooter-components-kit-004?skr=yes"
     }
   ],
@@ -797,6 +878,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -809,6 +891,7 @@
       "price": "5.19",
       "region": "us",
       "sku": "42464831144072",
+      "store_id": "",
       "title": "Toy Shooter Components Kit 004 - Toy Shooter Components Kit (1pcs) - MH004",
       "url": "https://us.store.bambulab.com/products/toy-shooter-components-kit-004?id=42464831144072",
       "variant_id": "42464831144072"
@@ -821,6 +904,7 @@
       "price": "6.4",
       "region": "ca",
       "sku": "46848486899952",
+      "store_id": "",
       "title": "Toy Shooter Components Kit 004 - Toy Shooter Components Kit (1pcs) - MH004",
       "url": "https://ca.store.bambulab.com/products/toy-shooter-components-kit-004?id=46848486899952",
       "variant_id": "46848486899952"
@@ -833,6 +917,7 @@
       "price": "5.6",
       "region": "eu",
       "sku": "53559476879708",
+      "store_id": "",
       "title": "Toy Shooter Components Kit 004 - Toy Shooter Components Kit (1pcs) - MH004",
       "url": "https://eu.store.bambulab.com/products/toy-shooter-components-kit-004?id=53559476879708",
       "variant_id": "53559476879708"
@@ -845,6 +930,7 @@
       "price": "4.8",
       "region": "uk",
       "sku": "539939413408804866",
+      "store_id": "",
       "title": "Toy Shooter Components Kit 004 - Toy Shooter Components Kit (1pcs) - MH004",
       "url": "https://uk.store.bambulab.com/products/toy-shooter-components-kit-004?id=539939413408804866",
       "variant_id": "539939413408804866"
@@ -857,6 +943,7 @@
       "price": "8",
       "region": "au",
       "sku": "539938999264710658",
+      "store_id": "",
       "title": "Toy Shooter Components Kit 004 - Toy Shooter Components Kit (1pcs) - MH004",
       "url": "https://au.store.bambulab.com/products/toy-shooter-components-kit-004?id=539938999264710658",
       "variant_id": "539938999264710658"
@@ -869,6 +956,7 @@
       "price": "4.8",
       "region": "asia",
       "sku": "539939796879454210",
+      "store_id": "",
       "title": "Toy Shooter Components Kit 004 - Toy Shooter Components Kit (1pcs) - MH004",
       "url": "https://asia.store.bambulab.com/products/toy-shooter-components-kit-004?id=539939796879454210",
       "variant_id": "539939796879454210"

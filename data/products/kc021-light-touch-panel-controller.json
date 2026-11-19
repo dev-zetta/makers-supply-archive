@@ -4,11 +4,14 @@
     {
       "handle": "light-touch-panel-controller",
       "product_id": "14854741918044",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/46/4611ba01cb939a7c87e64a1eacf7479384abb427af69d53c82f3e4f2c4c59b38.png",
       "id": "image-c32704e75045afbfb517",
       "kind": "image",
@@ -16,11 +19,13 @@
       "original_filename": "KC021.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4611ba01cb939a7c87e64a1eacf7479384abb427af69d53c82f3e4f2c4c59b38",
       "size": 182424,
       "source_url": "https://store.bblcdn.eu/s8/default/c93c2b6e69f843febc4cc6f4274d2e4e/KC021.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/aa/aa579d2d8f7ddc62088c27f4822352890236b84ebc38cee192788d61380019d1.png",
       "id": "image-display-137a8674433b90c527bd",
       "image_processing": {
@@ -38,6 +43,7 @@
       "parent_asset_id": "image-c32704e75045afbfb517",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "aa579d2d8f7ddc62088c27f4822352890236b84ebc38cee192788d61380019d1",
       "size": 159627,
       "source_url": "https://store.bblcdn.eu/s8/default/c93c2b6e69f843febc4cc6f4274d2e4e/KC021.png"
@@ -103,6 +109,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "kc021-light-touch-panel-controller",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "LED Light Touch Panel Controller",
   "offers": [
@@ -114,6 +121,7 @@
       "price": "7.24",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/light-touch-panel-controller?skr=yes"
     }
   ],
@@ -127,6 +135,7 @@
   ],
   "source_tables": [],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -137,6 +146,7 @@
       "price": "7.24",
       "region": "eu",
       "sku": "53840132866396",
+      "store_id": "",
       "title": "LED Light Touch Panel Controller - Light Touch Panel Controller (1PCS) - KC021",
       "url": "https://eu.store.bambulab.com/products/light-touch-panel-controller?id=53840132866396",
       "variant_id": "53840132866396"

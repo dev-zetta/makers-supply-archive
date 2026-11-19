@@ -4,36 +4,49 @@
     {
       "handle": "m5-socket-head-cap-machine-screws-shcs",
       "product_id": "7967980650632",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m5-socket-head-cap-machine-screws-shcs",
       "product_id": "8642122645744",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m5-socket-head-cap-machine-screws-shcs",
       "product_id": "8849611850076",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m5-socket-head-cap-machine-screws-shcs",
       "product_id": "7372758351932",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m5-socket-head-cap-machine-screws-shcs",
       "product_id": "8263034044579",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m5-socket-head-cap-machine-screws-shcs",
       "product_id": "7484111159411",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/42/42b488d337fefc9ce6a2ba2acdc293c8c7bae35dd8b747212e1af03cbf91fd30.png",
       "id": "image-ece62936336402224a5f",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "AA001_c031cef9-b527-44fc-b7c8-dcfc56187683.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "42b488d337fefc9ce6a2ba2acdc293c8c7bae35dd8b747212e1af03cbf91fd30",
       "size": 290440,
       "source_url": "https://store.bblcdn.com/s7/default/7e3d7e52eb3041b4a5f6c1076995e056/AA001_c031cef9-b527-44fc-b7c8-dcfc56187683.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8f/8f458bd4c687b5009280eb2b5cc5020c3617304d3a99c7a959e4b6c17cac3a9e.png",
       "id": "image-4d01a406e517a420de2f",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "M5SocketHeadCapMachineScrews_SHCS_-AA001.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8f458bd4c687b5009280eb2b5cc5020c3617304d3a99c7a959e4b6c17cac3a9e",
       "size": 381482,
       "source_url": "https://store.bblcdn.com/s7/default/120ffc920c8042e59eec715ec034a55d/M5SocketHeadCapMachineScrews_SHCS_-AA001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c7/c773135c7ae63bbc79593fc758d08bd81c82c2d51ed510cb90ff8a299214c50b.pdf",
       "id": "document-20f80b16f6e6e8664096",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "M5_Flat_Socket_Head_Cap_Machine_Screws_SHCS.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c773135c7ae63bbc79593fc758d08bd81c82c2d51ed510cb90ff8a299214c50b",
       "size": 665949,
       "source_url": "https://store.bblcdn.com/s7/default/73fafc881bf5484daed09a3eb475006d/M5_Flat_Socket_Head_Cap_Machine_Screws_SHCS.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/72/72255c662d83e467937c8137327f3fdb3dfb2ef88e3121ef9d1691bccb190b71.zip",
       "id": "archive-ffdfbf63c6be8811b7a3",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "M5_Socket_Head_Cap_Machine_Screws_SHCS.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "72255c662d83e467937c8137327f3fdb3dfb2ef88e3121ef9d1691bccb190b71",
       "size": 23253,
       "source_url": "https://store.bblcdn.com/s7/default/76c49aecfe1a477f8c0fdaddc8747ab0/M5_Socket_Head_Cap_Machine_Screws_SHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M5 Socket Head Cap Machine Screws (SHCS)/M5x12 SHCS - AA001/M5x12 SHCS - AA001.stl",
       "blob_path": "data/blobs/sha256/e8/e853513e36d022ea28a8bc85cae95880804c9462db92de9ab98b3f49010d717d.stl",
       "id": "model-bfec98555bf3229137d5",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-ffdfbf63c6be8811b7a3",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e853513e36d022ea28a8bc85cae95880804c9462db92de9ab98b3f49010d717d",
       "size": 29284,
       "source_url": "https://store.bblcdn.com/s7/default/76c49aecfe1a477f8c0fdaddc8747ab0/M5_Socket_Head_Cap_Machine_Screws_SHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M5 Socket Head Cap Machine Screws (SHCS)/M5x12 SHCS - AA001/M5x12 SHCS - AA001.stp",
       "blob_path": "data/blobs/sha256/44/445009878c97db145bf25771aeccfcad54cba9b6ec502611541e9f3547eeaeb4.stp",
       "id": "model-c22237082fa8662317d3",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-ffdfbf63c6be8811b7a3",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "445009878c97db145bf25771aeccfcad54cba9b6ec502611541e9f3547eeaeb4",
       "size": 75358,
       "source_url": "https://store.bblcdn.com/s7/default/76c49aecfe1a477f8c0fdaddc8747ab0/M5_Socket_Head_Cap_Machine_Screws_SHCS.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/46/46263b838a919d06891e15733b9d3b6f1ae33f2c319889ed0e0ba1fb9304d3cf.png",
       "id": "image-display-64496e5a3c17d6f9f9d8",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-ece62936336402224a5f",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "46263b838a919d06891e15733b9d3b6f1ae33f2c319889ed0e0ba1fb9304d3cf",
       "size": 104957,
       "source_url": "https://store.bblcdn.com/s7/default/7e3d7e52eb3041b4a5f6c1076995e056/AA001_c031cef9-b527-44fc-b7c8-dcfc56187683.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ce/ce5cdae79379728f1e87bad86150320db31506da2068f797c0d3b427812e51ba.png",
       "id": "image-display-d7ed4e923691d1844659",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-4d01a406e517a420de2f",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ce5cdae79379728f1e87bad86150320db31506da2068f797c0d3b427812e51ba",
       "size": 101121,
       "source_url": "https://store.bblcdn.com/s7/default/120ffc920c8042e59eec715ec034a55d/M5SocketHeadCapMachineScrews_SHCS_-AA001.png"
@@ -203,6 +231,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "aa001-m5-socket-head-cap-machine-screws-shcs",
   "last_seen": "2026-08-23T16:35:17Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Head Diameter",
@@ -269,6 +298,7 @@
       "price": "1.09",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/m5-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -279,6 +309,7 @@
       "price": "1.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/m5-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -289,6 +320,7 @@
       "price": "1.49",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/m5-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -299,6 +331,7 @@
       "price": "1.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/m5-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -309,6 +342,7 @@
       "price": "3.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/m5-socket-head-cap-machine-screws-shcs?skr=yes"
     },
     {
@@ -319,6 +353,7 @@
       "price": "0.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/m5-socket-head-cap-machine-screws-shcs?skr=yes"
     }
   ],
@@ -438,6 +473,7 @@
     "k (mm) Hexagon Across Flats": "3",
     "t (mm) Groove Depth": "1.2"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -448,6 +484,7 @@
       "price": "1.09",
       "region": "us",
       "sku": "42102774595720",
+      "store_id": "",
       "title": "M5 Flat Head Socket Cap Machine Screw (FHCS) - M5x12 FHCS Machine Screw (5PCS) -AA001",
       "url": "https://us.store.bambulab.com/products/m5-socket-head-cap-machine-screws-shcs?id=42102774595720",
       "variant_id": "42102774595720"
@@ -460,6 +497,7 @@
       "price": "1.99",
       "region": "ca",
       "sku": "45646998569200",
+      "store_id": "",
       "title": "M5 Flat Head Socket Cap Machine Screw (FHCS) - M5x12 FHCS Machine Screw (5PCS) -AA001",
       "url": "https://ca.store.bambulab.com/products/m5-socket-head-cap-machine-screws-shcs?id=45646998569200",
       "variant_id": "45646998569200"
@@ -471,6 +509,7 @@
       "price": "1.49",
       "region": "eu",
       "sku": "47966811521372",
+      "store_id": "",
       "title": "M5 Flat Head Socket Cap Machine Screw (FHCS) - M5 Flat Head Socket Cap Machine Screw (FHCS)",
       "url": "https://eu.store.bambulab.com/products/m5-socket-head-cap-machine-screws-shcs?id=47966811521372",
       "variant_id": "47966811521372"
@@ -483,6 +522,7 @@
       "price": "1.49",
       "region": "uk",
       "sku": "41313088340028",
+      "store_id": "",
       "title": "M5 Flat Head Socket Cap Machine Screw (FHCS) - M5x12 FHCS Machine Screw (5PCS) -AA001",
       "url": "https://uk.store.bambulab.com/products/m5-socket-head-cap-machine-screws-shcs?id=41313088340028",
       "variant_id": "41313088340028"
@@ -495,6 +535,7 @@
       "price": "3.99",
       "region": "au",
       "sku": "44121378324643",
+      "store_id": "",
       "title": "M5 Flat Head Socket Cap Machine Screw (FHCS) - M5x12 FHCS Machine Screw (5PCS) -AA001",
       "url": "https://au.store.bambulab.com/products/m5-socket-head-cap-machine-screws-shcs?id=44121378324643",
       "variant_id": "44121378324643"
@@ -507,6 +548,7 @@
       "price": "0.99",
       "region": "asia",
       "sku": "41565975380083",
+      "store_id": "",
       "title": "M5 Flat Head Socket Cap Machine Screw (FHCS) - M5x12 FHCS Machine Screw (5PCS) -AA001",
       "url": "https://asia.store.bambulab.com/products/m5-socket-head-cap-machine-screws-shcs?id=41565975380083",
       "variant_id": "41565975380083"

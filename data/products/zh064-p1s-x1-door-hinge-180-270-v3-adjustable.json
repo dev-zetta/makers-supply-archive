@@ -4,36 +4,49 @@
     {
       "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
       "product_id": "574483047805652992",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
       "product_id": "575456943134597120",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
       "product_id": "14917811339612",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
       "product_id": "575456597896974336",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
       "product_id": "575456195600191488",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "p1s-x1-door-hinge-180-270-v3-adjustable",
       "product_id": "575455845891854336",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e0/e04a23bf4393ffd4e24708d35ee895342c45850e607a39a2e815873e97bbbbae.png",
       "id": "image-bb38adce747702827a1d",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH064-2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e04a23bf4393ffd4e24708d35ee895342c45850e607a39a2e815873e97bbbbae",
       "size": 2292641,
       "source_url": "https://store.bblcdn.com/s7/default/153fc5698e7243eda8a8be5c7dc39ab3/B-ZH064-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8c/8c73c7c4374b75404732a3ef47c515c79c3dd8210fb69226ecfa7040696d78bc.png",
       "id": "image-e3ca14c64f556b1e7591",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH064-1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8c73c7c4374b75404732a3ef47c515c79c3dd8210fb69226ecfa7040696d78bc",
       "size": 355552,
       "source_url": "https://store.bblcdn.com/s7/default/e19dabc524e74dd084f82c345ffc3c32/B-ZH064-1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/41/4156c39849b98b208b084ebac3c867a2fcbbf530885f46cb32ac4974bdef27b1.png",
       "id": "image-display-20b39463cd53e0714ee9",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-bb38adce747702827a1d",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4156c39849b98b208b084ebac3c867a2fcbbf530885f46cb32ac4974bdef27b1",
       "size": 616162,
       "source_url": "https://store.bblcdn.com/s7/default/153fc5698e7243eda8a8be5c7dc39ab3/B-ZH064-2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/58/58874c5e39edf2d33a4d3b645cfa334a43502e35a15c0d275f06a880bbe616c2.png",
       "id": "image-display-6ea71a13d72d1fe35151",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-e3ca14c64f556b1e7591",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "58874c5e39edf2d33a4d3b645cfa334a43502e35a15c0d275f06a880bbe616c2",
       "size": 97033,
       "source_url": "https://store.bblcdn.com/s7/default/e19dabc524e74dd084f82c345ffc3c32/B-ZH064-1.png"
@@ -160,7 +180,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional P1S/X1 Door Hinge 180/270° - V3 Adjustable. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the P1S/X1 Door Hinge 180/270° - V3 Adjustable on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh064-p1s-x1-door-hinge-180-270-v3-adjustable",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "P1S/X1 Door Hinge 180/270° - V3 Adjustable",
   "offers": [
@@ -172,6 +193,7 @@
       "price": "3.18",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
     },
     {
@@ -182,6 +204,7 @@
       "price": "3.66",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
     },
     {
@@ -192,6 +215,7 @@
       "price": "2.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
     },
     {
@@ -202,6 +226,7 @@
       "price": "2.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
     },
     {
@@ -212,6 +237,7 @@
       "price": "5.74",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
     },
     {
@@ -222,6 +248,7 @@
       "price": "2.89",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/p1s-x1-door-hinge-180-270-v3-adjustable?skr=yes"
     }
   ],
@@ -277,6 +304,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -289,6 +317,7 @@
       "price": "3.18",
       "region": "us",
       "sku": "574483047839207426",
+      "store_id": "",
       "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door Hinge 180/270° - V3 Adjustable - ZH064",
       "url": "https://us.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=574483047839207426",
       "variant_id": "574483047839207426"
@@ -301,6 +330,7 @@
       "price": "3.66",
       "region": "ca",
       "sku": "575456943151374338",
+      "store_id": "",
       "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door Hinge 180/270° - V3 Adjustable - ZH064",
       "url": "https://ca.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=575456943151374338",
       "variant_id": "575456943151374338"
@@ -313,6 +343,7 @@
       "price": "2.99",
       "region": "eu",
       "sku": "54119206093148",
+      "store_id": "",
       "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door hinge 180/270° - V3 adjustable - ZH064",
       "url": "https://eu.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=54119206093148",
       "variant_id": "54119206093148"
@@ -325,6 +356,7 @@
       "price": "2.99",
       "region": "uk",
       "sku": "575456597917945858",
+      "store_id": "",
       "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door Hinge 180/270° - V3 Adjustable - ZH064",
       "url": "https://uk.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=575456597917945858",
       "variant_id": "575456597917945858"
@@ -337,6 +369,7 @@
       "price": "5.74",
       "region": "au",
       "sku": "575456195625357314",
+      "store_id": "",
       "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door Hinge 180/270° - V3 Adjustable - ZH064",
       "url": "https://au.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=575456195625357314",
       "variant_id": "575456195625357314"
@@ -349,6 +382,7 @@
       "price": "2.89",
       "region": "asia",
       "sku": "575455845904437250",
+      "store_id": "",
       "title": "P1S/X1 Door Hinge 180/270° - V3 Adjustable - P1S/X1 Door Hinge 180/270° - V3 Adjustable - ZH064",
       "url": "https://asia.store.bambulab.com/products/p1s-x1-door-hinge-180-270-v3-adjustable?id=575455845904437250",
       "variant_id": "575455845904437250"

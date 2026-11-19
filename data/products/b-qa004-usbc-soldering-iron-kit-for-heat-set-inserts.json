@@ -4,21 +4,28 @@
     {
       "handle": "usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts",
       "product_id": "599453663258394624",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts",
       "product_id": "621587008444583936",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts",
       "product_id": "621587261510578176",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/70/708bfaa74b244ffdf03bcb305de2f527bef30a4a42c0e8d8b7e2f53fda8c74d1.png",
       "id": "image-b33926d7fc40809fdee8",
       "kind": "image",
@@ -26,11 +33,13 @@
       "original_filename": "B-QA004_main_image_1.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "708bfaa74b244ffdf03bcb305de2f527bef30a4a42c0e8d8b7e2f53fda8c74d1",
       "size": 1220279,
       "source_url": "https://store.bblcdn.com/s7/default/a630627e41be485c80d71bac77e132d3/B-QA004_main_image_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/10/10fea3dc3f133c01c5cef350b4e08a20d9d0c010dc38bd478a98a11be81896aa.png",
       "id": "image-5f7da2c0e1d0871d97d0",
       "kind": "image",
@@ -38,11 +47,13 @@
       "original_filename": "Frame_1312317877.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "10fea3dc3f133c01c5cef350b4e08a20d9d0c010dc38bd478a98a11be81896aa",
       "size": 731256,
       "source_url": "https://store.bblcdn.com/s7/default/985903a535bb4a479e5371f6a8f2bf73/Frame_1312317877.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/d2/d25267246a500a5295f64045d9a55f78c41673d4a836219a9fd74891855a2dfe.png",
       "id": "image-76c639c8ed1bf1f513ae",
       "kind": "image",
@@ -50,11 +61,13 @@
       "original_filename": "B-QA004_main_image_2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d25267246a500a5295f64045d9a55f78c41673d4a836219a9fd74891855a2dfe",
       "size": 1171450,
       "source_url": "https://store.bblcdn.com/s7/default/3f2d8209efca4de8ad146648b91e7414/B-QA004_main_image_2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/00/00c5e9c07836bcd0bce2c9299025db80228e90766a780d8103982d7af160b9e8.png",
       "id": "image-d241418bd51516f86537",
       "kind": "image",
@@ -62,11 +75,13 @@
       "original_filename": "B-QA004_parts.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "00c5e9c07836bcd0bce2c9299025db80228e90766a780d8103982d7af160b9e8",
       "size": 1439815,
       "source_url": "https://store.bblcdn.com/s7/default/428102a9815c4f1f9ed75c55bf97570f/B-QA004_parts.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ec/ecf5691e9f025bb9037eafa90cac6186e73c6f0173a1778cbaf4c1f399bfc291.zip",
       "id": "archive-277ef218363c8ff88028",
       "kind": "archive",
@@ -74,11 +89,13 @@
       "original_filename": "HS-02.zip",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ecf5691e9f025bb9037eafa90cac6186e73c6f0173a1778cbaf4c1f399bfc291",
       "size": 676276,
       "source_url": "https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "tip.stl",
       "blob_path": "data/blobs/sha256/71/7153d844dbd9b1f209e5054c424fef7a5e4a11cdf01b21708cdb3443325e6276.stl",
       "id": "model-ff96b7e992fd48e172fa",
@@ -88,11 +105,13 @@
       "parent_asset_id": "archive-277ef218363c8ff88028",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7153d844dbd9b1f209e5054c424fef7a5e4a11cdf01b21708cdb3443325e6276",
       "size": 332684,
       "source_url": "https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Assembly.stl",
       "blob_path": "data/blobs/sha256/57/575a6c89e05452e340c32748b8841f6bdb611903c3f3801492d599ebb96933a3.stl",
       "id": "model-e5c4dd4e33da700b6fed",
@@ -102,11 +121,13 @@
       "parent_asset_id": "archive-277ef218363c8ff88028",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "575a6c89e05452e340c32748b8841f6bdb611903c3f3801492d599ebb96933a3",
       "size": 1241984,
       "source_url": "https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Assembly.stp",
       "blob_path": "data/blobs/sha256/ae/aed8163e865a2f31ca24f22d4db396aadb756a6c03420f26eb3b95d54e5e779e.stp",
       "id": "model-3760465901e9d370c88e",
@@ -116,11 +137,13 @@
       "parent_asset_id": "archive-277ef218363c8ff88028",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "aed8163e865a2f31ca24f22d4db396aadb756a6c03420f26eb3b95d54e5e779e",
       "size": 536555,
       "source_url": "https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "tip.stp",
       "blob_path": "data/blobs/sha256/04/045cbc011824471a72a799ce0d2994027142f449e055569f08b1e19d2a62eaed.stp",
       "id": "model-f2f85db8288233bfbb47",
@@ -130,11 +153,13 @@
       "parent_asset_id": "archive-277ef218363c8ff88028",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "045cbc011824471a72a799ce0d2994027142f449e055569f08b1e19d2a62eaed",
       "size": 53430,
       "source_url": "https://store.bblcdn.com/s1/default/ff74dd3adb33423babf85412a188ed33/HS-02.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9d/9d05311b21d0bab0115ab9c80e747472112ef9f140203bfb66163b8a0905945c.png",
       "id": "image-display-7395c1028a9de29379bb",
       "image_processing": {
@@ -152,11 +177,13 @@
       "parent_asset_id": "image-b33926d7fc40809fdee8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9d05311b21d0bab0115ab9c80e747472112ef9f140203bfb66163b8a0905945c",
       "size": 259664,
       "source_url": "https://store.bblcdn.com/s7/default/a630627e41be485c80d71bac77e132d3/B-QA004_main_image_1.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/48/485f76ef7b749d1e2a582a020fd2469db872bccde3974bcf8c0f5e84c1dec699.png",
       "id": "image-display-3578de77de4b36129a4b",
       "image_processing": {
@@ -174,11 +201,13 @@
       "parent_asset_id": "image-5f7da2c0e1d0871d97d0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "485f76ef7b749d1e2a582a020fd2469db872bccde3974bcf8c0f5e84c1dec699",
       "size": 666186,
       "source_url": "https://store.bblcdn.com/s7/default/985903a535bb4a479e5371f6a8f2bf73/Frame_1312317877.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8c/8c85b8c73dfc2607f49a44f046fea53b2017dcbea6ee723bfca8cf513c691b5b.png",
       "id": "image-display-aa2ffca00a08f6faceba",
       "image_processing": {
@@ -196,11 +225,13 @@
       "parent_asset_id": "image-76c639c8ed1bf1f513ae",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8c85b8c73dfc2607f49a44f046fea53b2017dcbea6ee723bfca8cf513c691b5b",
       "size": 274085,
       "source_url": "https://store.bblcdn.com/s7/default/3f2d8209efca4de8ad146648b91e7414/B-QA004_main_image_2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c0/c02e65df0cd4d2009102a734e10f437f8814f75ac864cd72c219517a30823a50.png",
       "id": "image-display-60a23d28b96347d3197d",
       "image_processing": {
@@ -218,6 +249,7 @@
       "parent_asset_id": "image-d241418bd51516f86537",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c02e65df0cd4d2009102a734e10f437f8814f75ac864cd72c219517a30823a50",
       "size": 337494,
       "source_url": "https://store.bblcdn.com/s7/default/428102a9815c4f1f9ed75c55bf97570f/B-QA004_parts.png"
@@ -345,6 +377,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "b-qa004-usbc-soldering-iron-kit-for-heat-set-inserts",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "USB‑C Soldering Iron Kit for Heat-Set Inserts",
   "offers": [
@@ -356,6 +389,7 @@
       "price": "115",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?skr=yes"
     },
     {
@@ -366,6 +400,7 @@
       "price": "86.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?skr=yes"
     },
     {
@@ -376,6 +411,7 @@
       "price": "109",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?skr=yes"
     }
   ],
@@ -586,6 +622,7 @@
     "Power": "9V/12V/15V/20V, max 100W",
     "Temperature Range": "100–450°C ±5°C"
   },
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -597,6 +634,7 @@
       "price": "115",
       "region": "us",
       "sku": "599453663270977538",
+      "store_id": "",
       "title": "USB‑C Soldering Iron Kit for Heat-Set Inserts - 100W USB-C Smart Soldering Iron Kit",
       "url": "https://us.store.bambulab.com/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?id=599453663270977538",
       "variant_id": "599453663270977538"
@@ -608,6 +646,7 @@
       "price": "86.99",
       "region": "ca",
       "sku": "621587008452972546",
+      "store_id": "",
       "title": "USB‑C Soldering Iron Kit for Heat-Set Inserts - 100W USB-C Smart Soldering Iron Kit",
       "url": "https://ca.store.bambulab.com/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?id=621587008452972546",
       "variant_id": "621587008452972546"
@@ -619,6 +658,7 @@
       "price": "109",
       "region": "eu",
       "sku": "621587261518966786",
+      "store_id": "",
       "title": "USB‑C Soldering Iron Kit for Heat-Set Inserts - 100W USB-C Smart Soldering Iron Kit",
       "url": "https://eu.store.bambulab.com/products/usb%E2%80%91c-soldering-iron-kit-for-heat-set-inserts?id=621587261518966786",
       "variant_id": "621587261518966786"

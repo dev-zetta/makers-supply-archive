@@ -4,36 +4,49 @@
     {
       "handle": "haunted-house-%E2%80%94-a-halloween-scene",
       "product_id": "724161700102742016",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "haunted-house-%E2%80%94-a-halloween-scene",
       "product_id": "724158752831516672",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "haunted-house-%E2%80%94-a-halloween-scene",
       "product_id": "724162930191982592",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "haunted-house-%E2%80%94-a-halloween-scene",
       "product_id": "724160132232749056",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "haunted-house-%E2%80%94-a-halloween-scene",
       "product_id": "724157748984553472",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "haunted-house-%E2%80%94-a-halloween-scene",
       "product_id": "724155725005189120",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/90/90edfcb3fd8bb39134029b00bd6689e35566f9ce970a4539ad527eb0e9f2a8f7.png",
       "id": "image-b1826815d60f927fc01c",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH129.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "90edfcb3fd8bb39134029b00bd6689e35566f9ce970a4539ad527eb0e9f2a8f7",
       "size": 3280748,
       "source_url": "https://store.bblcdn.com/s7/default/0fbc9d271a054f6d80923d6ea4122267/B-ZH129.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/26/269a5db0d21fa1550fd532e8dfcf6ef9c94097bcb4561e246db04b5c1a651e65.png",
       "id": "image-8e428b79cffca5963c2c",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH129.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "269a5db0d21fa1550fd532e8dfcf6ef9c94097bcb4561e246db04b5c1a651e65",
       "size": 301543,
       "source_url": "https://store.bblcdn.com/s7/default/345a390a01e24c639d547bf64c00bc07/ZH129.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dc/dc0b8f51792eb5c16f1658d0b75f741dd981ec303db1cf61b081abd7f8381b89.png",
       "id": "image-display-16753dcbf93326fe0aea",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-b1826815d60f927fc01c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dc0b8f51792eb5c16f1658d0b75f741dd981ec303db1cf61b081abd7f8381b89",
       "size": 808863,
       "source_url": "https://store.bblcdn.com/s7/default/0fbc9d271a054f6d80923d6ea4122267/B-ZH129.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/26/26c2090881f6aaf531ccbefd4fc67b68f132f62a74cb59fae144e488e8a4f07c.png",
       "id": "image-display-cee84498c944e5cdaced",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-8e428b79cffca5963c2c",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "26c2090881f6aaf531ccbefd4fc67b68f132f62a74cb59fae144e488e8a4f07c",
       "size": 86771,
       "source_url": "https://store.bblcdn.com/s7/default/345a390a01e24c639d547bf64c00bc07/ZH129.png"
@@ -184,18 +204,20 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Haunted House — A Halloween Scene. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Haunted House — A Halloween Scene on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh129-haunted-house-a-halloween-scene",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Haunted House — A Halloween Scene",
   "offers": [
     {
-      "available": false,
+      "available": true,
       "currency": "USD",
       "listed": true,
       "missing_runs": 0,
       "price": "37.26",
       "region": "us",
-      "retrieved_at": "2026-08-23T16:35:17Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
     },
     {
@@ -206,6 +228,7 @@
       "price": "45.67",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
     },
     {
@@ -216,6 +239,7 @@
       "price": "38.75",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
     },
     {
@@ -226,6 +250,7 @@
       "price": "33.01",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
     },
     {
@@ -236,6 +261,7 @@
       "price": "66.88",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
     },
     {
@@ -246,6 +272,7 @@
       "price": "33.87",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/haunted-house-%E2%80%94-a-halloween-scene?skr=yes"
     }
   ],
@@ -321,18 +348,20 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
   "variants": [
     {
-      "available": false,
+      "available": true,
       "currency": "USD",
       "image_url": "https://store.bblcdn.com/s7/default/0fbc9d271a054f6d80923d6ea4122267/B-ZH129.png",
       "part_number": "ZH129",
       "price": "37.26",
       "region": "us",
       "sku": "724161700136296450",
+      "store_id": "",
       "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
       "url": "https://us.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724161700136296450",
       "variant_id": "724161700136296450"
@@ -345,6 +374,7 @@
       "price": "45.67",
       "region": "ca",
       "sku": "724158752848293890",
+      "store_id": "",
       "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
       "url": "https://ca.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724158752848293890",
       "variant_id": "724158752848293890"
@@ -357,6 +387,7 @@
       "price": "38.75",
       "region": "eu",
       "sku": "724162930208759810",
+      "store_id": "",
       "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
       "url": "https://eu.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724162930208759810",
       "variant_id": "724162930208759810"
@@ -369,6 +400,7 @@
       "price": "33.01",
       "region": "uk",
       "sku": "724160132253720578",
+      "store_id": "",
       "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
       "url": "https://uk.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724160132253720578",
       "variant_id": "724160132253720578"
@@ -381,6 +413,7 @@
       "price": "66.88",
       "region": "au",
       "sku": "724157749026496514",
+      "store_id": "",
       "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
       "url": "https://au.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724157749026496514",
       "variant_id": "724157749026496514"
@@ -393,6 +426,7 @@
       "price": "33.87",
       "region": "asia",
       "sku": "724155725059715073",
+      "store_id": "",
       "title": "Haunted House — A Halloween Scene - Haunted House — A Halloween Scene - ZH129",
       "url": "https://asia.store.bambulab.com/products/haunted-house-%E2%80%94-a-halloween-scene?id=724155725059715073",
       "variant_id": "724155725059715073"

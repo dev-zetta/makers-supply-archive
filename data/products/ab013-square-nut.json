@@ -4,36 +4,49 @@
     {
       "handle": "square-nut",
       "product_id": "8124921610376",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "square-nut",
       "product_id": "8803601121520",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "square-nut",
       "product_id": "9356011077980",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "square-nut",
       "product_id": "7569589469244",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "square-nut",
       "product_id": "8435673890979",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "square-nut",
       "product_id": "7597587366003",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5f/5f6bd44bf15b91260eb5c8be18de401bf6c73de38120fff7031698d1b6805c4e.png",
       "id": "image-7b5e1dffaa5e9cb76465",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "AB013.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5f6bd44bf15b91260eb5c8be18de401bf6c73de38120fff7031698d1b6805c4e",
       "size": 430710,
       "source_url": "https://store.bblcdn.com/s7/default/898f980b0fc740c397b7b74d9a35085b/AB013.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0d/0db3a76af87b7bef036ee971f22ad3a30a3e9b041a79b7eeb1d59c9542849836.png",
       "id": "image-e6ec20f42e6c2c75aac5",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "AB014.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0db3a76af87b7bef036ee971f22ad3a30a3e9b041a79b7eeb1d59c9542849836",
       "size": 431963,
       "source_url": "https://store.bblcdn.com/s7/default/5073d44f207845268725fbc347c8d57c/AB014.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/08/08d74fb2f11fc79d779bbeb690f0d9b2ced08e2d1f1b769a111b6268b7754837.png",
       "id": "image-b8eb53db2be5dff5a94f",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "AB015-UPDATE.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "08d74fb2f11fc79d779bbeb690f0d9b2ced08e2d1f1b769a111b6268b7754837",
       "size": 440842,
       "source_url": "https://store.bblcdn.com/s7/default/7fdc83fd432044ceaa0d153cdc001469/AB015-UPDATE.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bf/bf698c51237c56db92d1dc661aecb524189e558cbfd2293ec9d74454d989fc06.png",
       "id": "image-0b12000b8e245c6b788e",
       "kind": "image",
@@ -77,11 +96,13 @@
       "original_filename": "66e8b7ec51f435e8a558d3b330bb9d3b.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bf698c51237c56db92d1dc661aecb524189e558cbfd2293ec9d74454d989fc06",
       "size": 160423,
       "source_url": "https://store.bblcdn.com/s7/default/188b796e96b74634818afedc150b0465/66e8b7ec51f435e8a558d3b330bb9d3b.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0f/0f01989e6a1bad66cdcd43f77a6d51fd3073c40a69c2cd90a0aa364dc2eb2baf.png",
       "id": "image-2358bcb6a158389a978f",
       "kind": "image",
@@ -89,11 +110,13 @@
       "original_filename": "8b0a14b1c8ccbe58eff194884179db8e.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0f01989e6a1bad66cdcd43f77a6d51fd3073c40a69c2cd90a0aa364dc2eb2baf",
       "size": 24654,
       "source_url": "https://cdn.shopify.com/s/files/1/0611/4036/9460/files/8b0a14b1c8ccbe58eff194884179db8e.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/68/682ceae0d04703b16ea1816f836934fb3a3bb909524b491b4cfec96f6ef611b9.pdf",
       "id": "document-70e64e62ea3d4e3068b1",
       "kind": "document",
@@ -101,11 +124,13 @@
       "original_filename": "Carbon_Steel_Square_Nut.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "682ceae0d04703b16ea1816f836934fb3a3bb909524b491b4cfec96f6ef611b9",
       "size": 362602,
       "source_url": "https://store.bblcdn.com/s1/default/6a5b5107d6574cc0a8e0e4b3d7e37894/Carbon_Steel_Square_Nut.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/79/791dad06bad0727744ca9b5fd0bd9d473e7c78373c0737f404126d5572f5a468.zip",
       "id": "archive-3d649351bb09b9ee10fd",
       "kind": "archive",
@@ -113,11 +138,13 @@
       "original_filename": "Carbon_Steel_Square_Nut_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "791dad06bad0727744ca9b5fd0bd9d473e7c78373c0737f404126d5572f5a468",
       "size": 196523,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Carbon_Steel_Square_Nut_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Carbon_Steel_Square_Nut_Model/M2 Carbon Steel Square Nut - AB013.stl",
       "blob_path": "data/blobs/sha256/00/005ec0ecbe13205a740e405c1d55ece49e725d99ebb12f4eaa82c8168d8aacc1.stl",
       "id": "model-dd32efa28213d8d8ca83",
@@ -127,11 +154,13 @@
       "parent_asset_id": "archive-3d649351bb09b9ee10fd",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "005ec0ecbe13205a740e405c1d55ece49e725d99ebb12f4eaa82c8168d8aacc1",
       "size": 25684,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Carbon_Steel_Square_Nut_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Carbon_Steel_Square_Nut_Model/M2 Carbon Steel Square Nut - AB013.stp",
       "blob_path": "data/blobs/sha256/a5/a539f1e58fc83e0d5b2224db7d19f1c10962df6db401ecb2efceb059a1b5d64c.stp",
       "id": "model-4596548f02d5b33b81f6",
@@ -141,11 +170,13 @@
       "parent_asset_id": "archive-3d649351bb09b9ee10fd",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a539f1e58fc83e0d5b2224db7d19f1c10962df6db401ecb2efceb059a1b5d64c",
       "size": 74164,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Carbon_Steel_Square_Nut_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Carbon_Steel_Square_Nut_Model/M2.5 Carbon Steel Square Nut - AB014.stl",
       "blob_path": "data/blobs/sha256/c0/c0e8838dc043650e2f243c8ca8337fbfe44a880a33fc571a221c57198a949ec3.stl",
       "id": "model-d28561d8538a3c588a01",
@@ -155,11 +186,13 @@
       "parent_asset_id": "archive-3d649351bb09b9ee10fd",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c0e8838dc043650e2f243c8ca8337fbfe44a880a33fc571a221c57198a949ec3",
       "size": 92984,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Carbon_Steel_Square_Nut_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Carbon_Steel_Square_Nut_Model/M2.5 Carbon Steel Square Nut - AB014.stp",
       "blob_path": "data/blobs/sha256/cf/cf364fcd1f3c010a6665552f51655a28d84afe019c5f97d12358e8fec8f519c8.stp",
       "id": "model-8d14df8d6416a5648afc",
@@ -169,11 +202,13 @@
       "parent_asset_id": "archive-3d649351bb09b9ee10fd",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cf364fcd1f3c010a6665552f51655a28d84afe019c5f97d12358e8fec8f519c8",
       "size": 156363,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Carbon_Steel_Square_Nut_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Carbon_Steel_Square_Nut_Model/M3 Carbon Steel Square Nut - AB015.stl",
       "blob_path": "data/blobs/sha256/58/582c04a2f7ef02b59d1ffda9de42e44cc40f5bdc29645979a3405405ac79ce2e.stl",
       "id": "model-6786f7f6f2538944c5f6",
@@ -183,11 +218,13 @@
       "parent_asset_id": "archive-3d649351bb09b9ee10fd",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "582c04a2f7ef02b59d1ffda9de42e44cc40f5bdc29645979a3405405ac79ce2e",
       "size": 106984,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Carbon_Steel_Square_Nut_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Carbon_Steel_Square_Nut_Model/M3 Carbon Steel Square Nut - AB015.stp",
       "blob_path": "data/blobs/sha256/21/21cbf2c48721675a545529eb849f18a7e398aafbdebfa0807db314d6c53c5f52.stp",
       "id": "model-20367e0cc12a02b0fe90",
@@ -197,11 +234,13 @@
       "parent_asset_id": "archive-3d649351bb09b9ee10fd",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "21cbf2c48721675a545529eb849f18a7e398aafbdebfa0807db314d6c53c5f52",
       "size": 166898,
       "source_url": "https://cdn.shopify.com/s/files/1/0584/7236/6216/files/Carbon_Steel_Square_Nut_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ec/ec1242cd91d477b420ad22939566ac328f92bf39fd4e680a147c9f9c72b28575.png",
       "id": "image-display-af600e5159bf4627c164",
       "image_processing": {
@@ -219,11 +258,13 @@
       "parent_asset_id": "image-7b5e1dffaa5e9cb76465",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ec1242cd91d477b420ad22939566ac328f92bf39fd4e680a147c9f9c72b28575",
       "size": 138518,
       "source_url": "https://store.bblcdn.com/s7/default/898f980b0fc740c397b7b74d9a35085b/AB013.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f4/f482bd3a02d73aea4e39a9db07eafabe2c37b715ddb0e2e4c387a84922d23422.png",
       "id": "image-display-2a9b22872624763db994",
       "image_processing": {
@@ -241,11 +282,13 @@
       "parent_asset_id": "image-e6ec20f42e6c2c75aac5",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f482bd3a02d73aea4e39a9db07eafabe2c37b715ddb0e2e4c387a84922d23422",
       "size": 139743,
       "source_url": "https://store.bblcdn.com/s7/default/5073d44f207845268725fbc347c8d57c/AB014.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/16/1650a0715535b7873d8060e7b85fd75d9ef5ed0fa836e97b3750c58131f8fac1.png",
       "id": "image-display-8e7812699e26695cdd2c",
       "image_processing": {
@@ -263,11 +306,13 @@
       "parent_asset_id": "image-b8eb53db2be5dff5a94f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1650a0715535b7873d8060e7b85fd75d9ef5ed0fa836e97b3750c58131f8fac1",
       "size": 140413,
       "source_url": "https://store.bblcdn.com/s7/default/7fdc83fd432044ceaa0d153cdc001469/AB015-UPDATE.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/71/71c95746d98fde463dfa9de4338e2dbfbaa6e2fe50d95e7d2d879037c538ed70.png",
       "id": "image-display-204ddaf89bba031d6a09",
       "image_processing": {
@@ -285,11 +330,13 @@
       "parent_asset_id": "image-0b12000b8e245c6b788e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "71c95746d98fde463dfa9de4338e2dbfbaa6e2fe50d95e7d2d879037c538ed70",
       "size": 105946,
       "source_url": "https://store.bblcdn.com/s7/default/188b796e96b74634818afedc150b0465/66e8b7ec51f435e8a558d3b330bb9d3b.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/03/035e432773d9b76398d8295a0a2d7495cff83f243e80ded23753e3bd0bb31d75.png",
       "id": "image-display-fdd13eeb9b55a5b7f58f",
       "image_processing": {
@@ -307,6 +354,7 @@
       "parent_asset_id": "image-2358bcb6a158389a978f",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "035e432773d9b76398d8295a0a2d7495cff83f243e80ded23753e3bd0bb31d75",
       "size": 30145,
       "source_url": "https://cdn.shopify.com/s/files/1/0611/4036/9460/files/8b0a14b1c8ccbe58eff194884179db8e.png"
@@ -349,6 +397,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ab013-square-nut",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Carbon Steel Square Nut",
   "offers": [
@@ -360,6 +409,7 @@
       "price": "1.36",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/square-nut?skr=yes"
     },
     {
@@ -370,6 +420,7 @@
       "price": "1.56",
       "region": "ca",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/square-nut?skr=yes"
     },
     {
@@ -380,6 +431,7 @@
       "price": "1.28",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/square-nut?skr=yes"
     },
     {
@@ -390,6 +442,7 @@
       "price": "1.08",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/square-nut?skr=yes"
     },
     {
@@ -400,6 +453,7 @@
       "price": "2.45",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/square-nut?skr=yes"
     },
     {
@@ -410,6 +464,7 @@
       "price": "1.23",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/square-nut?skr=yes"
     }
   ],
@@ -530,6 +585,7 @@
     "Surface Treatment": "No",
     "Thread Ridge Type": "Metric coarse"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -540,6 +596,7 @@
       "price": "1.36",
       "region": "us",
       "sku": "42410688512136",
+      "store_id": "",
       "title": "Carbon Steel Square Nut - M2 Carbon Steel Square Nut (20PCS) - AB013",
       "url": "https://us.store.bambulab.com/products/square-nut?id=42410688512136",
       "variant_id": "42410688512136"
@@ -552,6 +609,7 @@
       "price": "1.38",
       "region": "us",
       "sku": "42410688544904",
+      "store_id": "",
       "title": "Carbon Steel Square Nut - M2.5 Carbon Steel Square Nut (20PCS) - AB014",
       "url": "https://us.store.bambulab.com/products/square-nut?id=42410688544904",
       "variant_id": "42410688544904"
@@ -564,6 +622,7 @@
       "price": "1.39",
       "region": "us",
       "sku": "42410688577672",
+      "store_id": "",
       "title": "Carbon Steel Square Nut - M3 Carbon Steel Square Nut (20PCS) - AB015",
       "url": "https://us.store.bambulab.com/products/square-nut?id=42410688577672",
       "variant_id": "42410688577672"
@@ -576,6 +635,7 @@
       "price": "1.56",
       "region": "ca",
       "sku": "46006505210096",
+      "store_id": "",
       "title": "Square Nut - M2 Carbon Steel Square Nut (20PCS) - AB013",
       "url": "https://ca.store.bambulab.com/products/square-nut?id=46006505210096",
       "variant_id": "46006505210096"
@@ -588,6 +648,7 @@
       "price": "1.58",
       "region": "ca",
       "sku": "46006505242864",
+      "store_id": "",
       "title": "Square Nut - M2.5 Carbon Steel Square Nut (20PCS) - AB014",
       "url": "https://ca.store.bambulab.com/products/square-nut?id=46006505242864",
       "variant_id": "46006505242864"
@@ -600,6 +661,7 @@
       "price": "1.61",
       "region": "ca",
       "sku": "46006505275632",
+      "store_id": "",
       "title": "Square Nut - M3 Carbon Steel Square Nut (20PCS) - AB015",
       "url": "https://ca.store.bambulab.com/products/square-nut?id=46006505275632",
       "variant_id": "46006505275632"
@@ -612,6 +674,7 @@
       "price": "1.28",
       "region": "eu",
       "sku": "48722465915228",
+      "store_id": "",
       "title": "Square Nut - M2 Carbon Steel Square Nut (20PCS) - AB013",
       "url": "https://eu.store.bambulab.com/products/square-nut?id=48722465915228",
       "variant_id": "48722465915228"
@@ -624,6 +687,7 @@
       "price": "1.29",
       "region": "eu",
       "sku": "48722465947996",
+      "store_id": "",
       "title": "Square Nut - M2.5 Carbon Steel Square Nut (20PCS) - AB014",
       "url": "https://eu.store.bambulab.com/products/square-nut?id=48722465947996",
       "variant_id": "48722465947996"
@@ -636,6 +700,7 @@
       "price": "1.31",
       "region": "eu",
       "sku": "48722465980764",
+      "store_id": "",
       "title": "Square Nut - M3 Carbon Steel Square Nut (20PCS) - AB015",
       "url": "https://eu.store.bambulab.com/products/square-nut?id=48722465980764",
       "variant_id": "48722465980764"
@@ -648,6 +713,7 @@
       "price": "1.08",
       "region": "uk",
       "sku": "41692092563516",
+      "store_id": "",
       "title": "Square Nut - M2 Carbon Steel Square Nut (20PCS) - AB013",
       "url": "https://uk.store.bambulab.com/products/square-nut?id=41692092563516",
       "variant_id": "41692092563516"
@@ -660,6 +726,7 @@
       "price": "1.1",
       "region": "uk",
       "sku": "41692092596284",
+      "store_id": "",
       "title": "Square Nut - M2.5 Carbon Steel Square Nut (20PCS) - AB014",
       "url": "https://uk.store.bambulab.com/products/square-nut?id=41692092596284",
       "variant_id": "41692092596284"
@@ -672,6 +739,7 @@
       "price": "1.12",
       "region": "uk",
       "sku": "41692092629052",
+      "store_id": "",
       "title": "Square Nut - M3 Carbon Steel Square Nut (20PCS) - AB015",
       "url": "https://uk.store.bambulab.com/products/square-nut?id=41692092629052",
       "variant_id": "41692092629052"
@@ -684,6 +752,7 @@
       "price": "2.45",
       "region": "au",
       "sku": "44587815141539",
+      "store_id": "",
       "title": "Square Nut - M2 Carbon Steel Square Nut (20PCS) - AB013",
       "url": "https://au.store.bambulab.com/products/square-nut?id=44587815141539",
       "variant_id": "44587815141539"
@@ -696,6 +765,7 @@
       "price": "2.48",
       "region": "au",
       "sku": "44587815174307",
+      "store_id": "",
       "title": "Square Nut - M2.5 Carbon Steel Square Nut (20PCS) - AB014",
       "url": "https://au.store.bambulab.com/products/square-nut?id=44587815174307",
       "variant_id": "44587815174307"
@@ -708,6 +778,7 @@
       "price": "2.52",
       "region": "au",
       "sku": "44587815207075",
+      "store_id": "",
       "title": "Square Nut - M3 Carbon Steel Square Nut (20PCS) - AB015",
       "url": "https://au.store.bambulab.com/products/square-nut?id=44587815207075",
       "variant_id": "44587815207075"
@@ -720,6 +791,7 @@
       "price": "1.23",
       "region": "asia",
       "sku": "41824571261043",
+      "store_id": "",
       "title": "Square Nut - M2 Carbon Steel Square Nut (20PCS) - AB013",
       "url": "https://asia.store.bambulab.com/products/square-nut?id=41824571261043",
       "variant_id": "41824571261043"
@@ -732,6 +804,7 @@
       "price": "1.25",
       "region": "asia",
       "sku": "41824571293811",
+      "store_id": "",
       "title": "Square Nut - M2.5 Carbon Steel Square Nut (20PCS) - AB014",
       "url": "https://asia.store.bambulab.com/products/square-nut?id=41824571293811",
       "variant_id": "41824571293811"
@@ -744,6 +817,7 @@
       "price": "1.27",
       "region": "asia",
       "sku": "41824571326579",
+      "store_id": "",
       "title": "Square Nut - M3 Carbon Steel Square Nut (20PCS) - AB015",
       "url": "https://asia.store.bambulab.com/products/square-nut?id=41824571326579",
       "variant_id": "41824571326579"

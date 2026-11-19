@@ -4,26 +4,35 @@
     {
       "handle": "cyberbrick-rc-ghost",
       "product_id": "780951135614672896",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-rc-ghost",
       "product_id": "780947405657874432",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-rc-ghost",
       "product_id": "780951368159461376",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cyberbrick-rc-ghost",
       "product_id": "780947646121525248",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/c3/c3e0a8a8a313393bda625fc56e3a5f5c6854e0f31493dde639adb739737fc971.png",
       "id": "image-d5e4357677ffe9a4fb1b",
       "kind": "image",
@@ -31,11 +40,13 @@
       "original_filename": "gh02t_remote_white_1600px.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "c3e0a8a8a313393bda625fc56e3a5f5c6854e0f31493dde639adb739737fc971",
       "size": 2071244,
       "source_url": "https://store.bblcdn.com/s7/default/6584a770542145f594aa91e038fe15b5/gh02t_remote_white_1600px.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/55/55a71f84111c8e75c594e1c246fba6087a4a433635b6fe3aa9739f198c264c32.png",
       "id": "image-cb452dc81ae6ef3d02db",
       "kind": "image",
@@ -43,11 +54,13 @@
       "original_filename": "gh02t_white_1600px.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "55a71f84111c8e75c594e1c246fba6087a4a433635b6fe3aa9739f198c264c32",
       "size": 1452098,
       "source_url": "https://store.bblcdn.com/s7/default/481ae10fa4534afaad9bbb410fe016e8/gh02t_white_1600px.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/bd/bd0410e295b442c05d05677852004b7bda61f07f2a40a7ebe5ec417b31d658ab.png",
       "id": "image-fd00dff59135f176dbf2",
       "kind": "image",
@@ -55,11 +68,13 @@
       "original_filename": "ghost.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "bd0410e295b442c05d05677852004b7bda61f07f2a40a7ebe5ec417b31d658ab",
       "size": 2133085,
       "source_url": "https://store.bblcdn.com/s7/default/6607812a2cb940379b6d494e40e8b1f8/ghost.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/db/db1d4e4b06c76ff779731eed8847f18dd88ed21de40e88c6f0d1d22e76947acd.jpg",
       "id": "image-676f14da8da970cf3d19",
       "kind": "image",
@@ -67,11 +82,13 @@
       "original_filename": "gh02t_1600px.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "db1d4e4b06c76ff779731eed8847f18dd88ed21de40e88c6f0d1d22e76947acd",
       "size": 437958,
       "source_url": "https://store.bblcdn.com/s7/default/0d5f7e776ba3421a8a7a809ba264b904/gh02t_1600px.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/dd/ddee2f88b81e4f48c3b643c652e1625a9079ab84e83e9672483f672badc52af4.png",
       "id": "image-display-11259e89651a3fd52153",
       "image_processing": {
@@ -89,11 +106,13 @@
       "parent_asset_id": "image-d5e4357677ffe9a4fb1b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ddee2f88b81e4f48c3b643c652e1625a9079ab84e83e9672483f672badc52af4",
       "size": 598217,
       "source_url": "https://store.bblcdn.com/s7/default/6584a770542145f594aa91e038fe15b5/gh02t_remote_white_1600px.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/77/77da6808416ec97e4be4bfdce02b52954d7fcaf7d5d94ab1d54b614d8f7379d6.png",
       "id": "image-display-ac9ec9d0b63f8d0886dc",
       "image_processing": {
@@ -111,11 +130,13 @@
       "parent_asset_id": "image-cb452dc81ae6ef3d02db",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "77da6808416ec97e4be4bfdce02b52954d7fcaf7d5d94ab1d54b614d8f7379d6",
       "size": 457044,
       "source_url": "https://store.bblcdn.com/s7/default/481ae10fa4534afaad9bbb410fe016e8/gh02t_white_1600px.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/a6/a6e37a157e243ada54dd496f447586d30fe94836a3f7d70a81e3d81097098afb.png",
       "id": "image-display-96c01903daeaba3e333c",
       "image_processing": {
@@ -133,11 +154,13 @@
       "parent_asset_id": "image-fd00dff59135f176dbf2",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a6e37a157e243ada54dd496f447586d30fe94836a3f7d70a81e3d81097098afb",
       "size": 665569,
       "source_url": "https://store.bblcdn.com/s7/default/6607812a2cb940379b6d494e40e8b1f8/ghost.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3d/3d49b4f3768f8f0b725f722b33c28ce7166f05e54daa539e5f00bf44b54bf700.png",
       "id": "image-display-1a9763367ba3757df70f",
       "image_processing": {
@@ -155,6 +178,7 @@
       "parent_asset_id": "image-676f14da8da970cf3d19",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3d49b4f3768f8f0b725f722b33c28ce7166f05e54daa539e5f00bf44b54bf700",
       "size": 630227,
       "source_url": "https://store.bblcdn.com/s7/default/0d5f7e776ba3421a8a7a809ba264b904/gh02t_1600px.jpg"
@@ -413,7 +437,8 @@
   "description_text": "More than a cute seasonal display, this spooky ghost drives around under remote control for unforgettable RC fun.\n\nLighting effects add atmosphere before the ghost even starts moving. Pair motion with eerie illumination to make dark rooms, entryways, and displays feel instantly more theatrical.\n\nSimple assembly and a practical, accessible design make installation and maintenance hassle-free.\n\nThis model is designed to work with the CyberBrick Remote. The pre-configured settings have been uploaded for immediate play,\n\nwhile the CyberBrick App allows full customization of controller functions to match your personal preferences.\n\n* Please visit the CyberBrick Official Standard Remote on Makerworld for more details.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zl038-cyberbrick-rc-ghost",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "CyberBrick RC Ghost",
   "offers": [
@@ -425,6 +450,7 @@
       "price": "46.89",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/cyberbrick-rc-ghost?skr=yes"
     },
     {
@@ -435,6 +461,7 @@
       "price": "63.69",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/cyberbrick-rc-ghost?skr=yes"
     },
     {
@@ -445,6 +472,7 @@
       "price": "49.69",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/cyberbrick-rc-ghost?skr=yes"
     },
     {
@@ -455,6 +483,7 @@
       "price": "41.29",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/cyberbrick-rc-ghost?skr=yes"
     }
   ],
@@ -540,6 +569,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -550,6 +580,7 @@
       "price": "46.89",
       "region": "us",
       "sku": "780997300137762817",
+      "store_id": "",
       "title": "CyberBrick RC Ghost - Yes - Remote Included / CyberBrick RC Ghost - Remote included - ZL038",
       "url": "https://us.store.bambulab.com/products/cyberbrick-rc-ghost?id=780997300137762817",
       "variant_id": "780997300137762817"
@@ -562,6 +593,7 @@
       "price": "30.09",
       "region": "us",
       "sku": "780997440319807489",
+      "store_id": "",
       "title": "CyberBrick RC Ghost - No - Vehicle Only / CyberBrick RC Ghost - Remote not included - ZL038-1",
       "url": "https://us.store.bambulab.com/products/cyberbrick-rc-ghost?id=780997440319807489",
       "variant_id": "780997440319807489"
@@ -574,6 +606,7 @@
       "price": "63.69",
       "region": "ca",
       "sku": "780995338554056705",
+      "store_id": "",
       "title": "CyberBrick RC Ghost - Yes - Remote Included / CyberBrick RC Ghost - Remote included - ZL038",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-rc-ghost?id=780995338554056705",
       "variant_id": "780995338554056705"
@@ -586,6 +619,7 @@
       "price": "39.89",
       "region": "ca",
       "sku": "780995544716697601",
+      "store_id": "",
       "title": "CyberBrick RC Ghost - No - Vehicle Only / CyberBrick RC Ghost - Remote not included - ZL038-1",
       "url": "https://ca.store.bambulab.com/products/cyberbrick-rc-ghost?id=780995544716697601",
       "variant_id": "780995544716697601"
@@ -598,6 +632,7 @@
       "price": "49.69",
       "region": "eu",
       "sku": "780998042508591105",
+      "store_id": "",
       "title": "CyberBrick RC Ghost - Yes - Remote Included / CyberBrick RC Ghost - Remote included - ZL038",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-rc-ghost?id=780998042508591105",
       "variant_id": "780998042508591105"
@@ -610,6 +645,7 @@
       "price": "33.59",
       "region": "eu",
       "sku": "780998177519058945",
+      "store_id": "",
       "title": "CyberBrick RC Ghost - No - Vehicle Only / CyberBrick RC Ghost - Remote not included - ZL038-1",
       "url": "https://eu.store.bambulab.com/products/cyberbrick-rc-ghost?id=780998177519058945",
       "variant_id": "780998177519058945"
@@ -622,6 +658,7 @@
       "price": "41.29",
       "region": "uk",
       "sku": "780996554960945152",
+      "store_id": "",
       "title": "CyberBrick RC Ghost - Yes - Remote Included / CyberBrick RC Ghost - Remote included - ZL038",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-rc-ghost?id=780996554960945152",
       "variant_id": "780996554960945152"
@@ -634,6 +671,7 @@
       "price": "27.29",
       "region": "uk",
       "sku": "780996721390927873",
+      "store_id": "",
       "title": "CyberBrick RC Ghost - No - Vehicle Only / CyberBrick RC Ghost - Remote not included - ZL038-1",
       "url": "https://uk.store.bambulab.com/products/cyberbrick-rc-ghost?id=780996721390927873",
       "variant_id": "780996721390927873"

@@ -4,31 +4,42 @@
     {
       "handle": "cute-flame-devil-lights",
       "product_id": "8344507187336",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cute-flame-devil-lights",
       "product_id": "9012888502512",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cute-flame-devil-lights",
       "product_id": "9571171893596",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cute-flame-devil-lights",
       "product_id": "7780953882684",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "cute-flame-devil-lights",
       "product_id": "508200056936214528",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/e1/e1945dfa55ae533e09f8aa3e6c5d61a34bf770cb0dec0a7d6912ce5684b850e0.jpg",
       "id": "image-38fcf28070e0b18515a2",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "FLAME3.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e1945dfa55ae533e09f8aa3e6c5d61a34bf770cb0dec0a7d6912ce5684b850e0",
       "size": 68835,
       "source_url": "https://store.bblcdn.com/s7/default/a2ff737b4985450a9010f3cb9f34cd37/FLAME3.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/51/51473087afb18d2aab39a7feb3dea94d708155b3d8dcb5a7c38020e70fe8555a.jpg",
       "id": "image-b8ff5b121d02de1c7c74",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "FLAME.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "51473087afb18d2aab39a7feb3dea94d708155b3d8dcb5a7c38020e70fe8555a",
       "size": 85770,
       "source_url": "https://store.bblcdn.com/s7/default/ec5ef799570945ca9eb2f3a7b34141a7/FLAME.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/60/605b6366c3c3971c1fdfec445b899707288ab8452c8fb1de0c42aff833f97a67.png",
       "id": "image-914d77dfc24305f3087a",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "flame.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "605b6366c3c3971c1fdfec445b899707288ab8452c8fb1de0c42aff833f97a67",
       "size": 494914,
       "source_url": "https://store.bblcdn.com/s7/default/c42c5d1dbd214c109ee50bf15c5b51d2/flame.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/91/9155973bb98eb370776ad4a064da5503494140e1f2de737d04c48b6fd425ac01.jpg",
       "id": "image-fa95c61ee9b2e10c7422",
       "kind": "image",
@@ -72,11 +89,13 @@
       "original_filename": "FLAME2.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9155973bb98eb370776ad4a064da5503494140e1f2de737d04c48b6fd425ac01",
       "size": 64002,
       "source_url": "https://store.bblcdn.com/s7/default/211f8221266e40368eb480091edc2496/FLAME2.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8b/8bdb63b2bc685f83a30bf801c8125e517f344b7a39fdd6f8dfbacf3309b93b37.jpg",
       "id": "image-f3feebc498fab5c14aab",
       "kind": "image",
@@ -84,11 +103,13 @@
       "original_filename": "FALME1.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8bdb63b2bc685f83a30bf801c8125e517f344b7a39fdd6f8dfbacf3309b93b37",
       "size": 79774,
       "source_url": "https://store.bblcdn.com/s7/default/b665c27d31754128b95d21bbce28705a/FALME1.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/87/8798305af206d4f1f3d84c26327845dc18e33ee65becefda61ac07ba12f74afd.png",
       "id": "image-display-83d4c05d4290ec294d3d",
       "image_processing": {
@@ -106,11 +127,13 @@
       "parent_asset_id": "image-38fcf28070e0b18515a2",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8798305af206d4f1f3d84c26327845dc18e33ee65becefda61ac07ba12f74afd",
       "size": 317062,
       "source_url": "https://store.bblcdn.com/s7/default/a2ff737b4985450a9010f3cb9f34cd37/FLAME3.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/0d/0d83815c5eec1d8fec31a106259ea048245c5f643b17e6948625924a52ee29f0.png",
       "id": "image-display-25e824de32a0b12863f7",
       "image_processing": {
@@ -128,11 +151,13 @@
       "parent_asset_id": "image-b8ff5b121d02de1c7c74",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0d83815c5eec1d8fec31a106259ea048245c5f643b17e6948625924a52ee29f0",
       "size": 416708,
       "source_url": "https://store.bblcdn.com/s7/default/ec5ef799570945ca9eb2f3a7b34141a7/FLAME.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/87/875c17cb910924f838f959fcbd7d478332068ec9fed50f35c84da1d4e54c8ff8.png",
       "id": "image-display-1996b211506c00f9dd65",
       "image_processing": {
@@ -150,11 +175,13 @@
       "parent_asset_id": "image-914d77dfc24305f3087a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "875c17cb910924f838f959fcbd7d478332068ec9fed50f35c84da1d4e54c8ff8",
       "size": 134749,
       "source_url": "https://store.bblcdn.com/s7/default/c42c5d1dbd214c109ee50bf15c5b51d2/flame.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b8/b87fb5c79fbb81b587ae6b9bcc02b6ff512a2adaa3400dc3bb3f12753b362587.png",
       "id": "image-display-edb175aba8a5b10bb4be",
       "image_processing": {
@@ -172,11 +199,13 @@
       "parent_asset_id": "image-fa95c61ee9b2e10c7422",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b87fb5c79fbb81b587ae6b9bcc02b6ff512a2adaa3400dc3bb3f12753b362587",
       "size": 272409,
       "source_url": "https://store.bblcdn.com/s7/default/211f8221266e40368eb480091edc2496/FLAME2.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/00/002d3cb7626bc08e354d56eea0b45c736c7fc99913eb6ff0ccd7076dbc95a2e2.png",
       "id": "image-display-05acdf140238da65e4d7",
       "image_processing": {
@@ -194,6 +223,7 @@
       "parent_asset_id": "image-f3feebc498fab5c14aab",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "002d3cb7626bc08e354d56eea0b45c736c7fc99913eb6ff0ccd7076dbc95a2e2",
       "size": 386428,
       "source_url": "https://store.bblcdn.com/s7/default/b665c27d31754128b95d21bbce28705a/FALME1.jpg"
@@ -251,7 +281,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Cute Flame Devil Lights. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files of the Cute Flame Devil Lights and obtain detailed information, please visit the Cute Flame Devil Lights on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh019-cute-flame-devil-lights",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Cute Flame Devil Lights",
   "offers": [
@@ -263,6 +294,7 @@
       "price": "15.18",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/cute-flame-devil-lights?skr=yes"
     },
     {
@@ -273,6 +305,7 @@
       "price": "17.2",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/cute-flame-devil-lights?skr=yes"
     },
     {
@@ -283,6 +316,7 @@
       "price": "14.07",
       "region": "eu",
       "retrieved_at": "2026-11-10T15:04:23Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/cute-flame-devil-lights?skr=yes"
     },
     {
@@ -293,6 +327,7 @@
       "price": "11.95",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/cute-flame-devil-lights?skr=yes"
     },
     {
@@ -303,6 +338,7 @@
       "price": "13.58",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/cute-flame-devil-lights?skr=yes"
     }
   ],
@@ -351,6 +387,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -363,6 +400,7 @@
       "price": "15.18",
       "region": "us",
       "sku": "42884614520968",
+      "store_id": "",
       "title": "Cute Flame Devil Lights - Cute Flame Devil Lights - ZH019",
       "url": "https://us.store.bambulab.com/products/cute-flame-devil-lights?id=42884614520968",
       "variant_id": "42884614520968"
@@ -375,6 +413,7 @@
       "price": "17.2",
       "region": "ca",
       "sku": "46552661557488",
+      "store_id": "",
       "title": "Cute Flame Devil Lights - Cute Flame Devil Lights - ZH019",
       "url": "https://ca.store.bambulab.com/products/cute-flame-devil-lights?id=46552661557488",
       "variant_id": "46552661557488"
@@ -387,6 +426,7 @@
       "price": "14.07",
       "region": "eu",
       "sku": "49318965117276",
+      "store_id": "",
       "title": "Cute Flame Devil Lights - Cute Flame Devil Lights - ZH019",
       "url": "https://eu.store.bambulab.com/products/cute-flame-devil-lights?id=49318965117276",
       "variant_id": "49318965117276"
@@ -399,6 +439,7 @@
       "price": "11.95",
       "region": "uk",
       "sku": "42154009395260",
+      "store_id": "",
       "title": "Cute Flame Devil Lights - Cute Flame Devil Lights - ZH019",
       "url": "https://uk.store.bambulab.com/products/cute-flame-devil-lights?id=42154009395260",
       "variant_id": "42154009395260"
@@ -411,6 +452,7 @@
       "price": "13.58",
       "region": "asia",
       "sku": "627343780889296897",
+      "store_id": "",
       "title": "Cute Flame Devil Lights - Cute Flame Devil Lights - ZH019",
       "url": "https://asia.store.bambulab.com/products/cute-flame-devil-lights?id=627343780889296897",
       "variant_id": "627343780889296897"

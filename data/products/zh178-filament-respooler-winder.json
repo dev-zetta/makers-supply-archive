@@ -4,36 +4,49 @@
     {
       "handle": "filament-respooler-winder",
       "product_id": "765724959640211456",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "filament-respooler-winder",
       "product_id": "765722382596919296",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "filament-respooler-winder",
       "product_id": "765725614954115072",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "filament-respooler-winder",
       "product_id": "765724095169032192",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "filament-respooler-winder",
       "product_id": "765720298120105984",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "filament-respooler-winder",
       "product_id": "764704250696650752",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/79/7963f8d9f681e0d6550a11e7c96ba5ccf8b2827ba77dac5c422e6ebf1b638cf2.jpg",
       "id": "image-2b195ea2fc2baa6f9ae8",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "B-ZH178_model.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7963f8d9f681e0d6550a11e7c96ba5ccf8b2827ba77dac5c422e6ebf1b638cf2",
       "size": 488802,
       "source_url": "https://store.bblcdn.com/s7/default/cbb22ef8ba924f6ab88376d3aef4d459/B-ZH178_model.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/40/4012173af227e5adaf398e8b2765686d9f650d41ec341b3ffb253fe727deacac.png",
       "id": "image-38fb816926a206eb8d75",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "B-ZH178.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4012173af227e5adaf398e8b2765686d9f650d41ec341b3ffb253fe727deacac",
       "size": 760710,
       "source_url": "https://store.bblcdn.com/s7/default/c3bd1dee9bc34410a004bf10df93fdd8/B-ZH178.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ac/acc9726dab0836b2c2afd43aa086e7c9ac9e223113d3b3177ed36b068a748f48.png",
       "id": "image-display-abd83044c177c0dc61f9",
       "image_processing": {
@@ -75,11 +92,13 @@
       "parent_asset_id": "image-2b195ea2fc2baa6f9ae8",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "acc9726dab0836b2c2afd43aa086e7c9ac9e223113d3b3177ed36b068a748f48",
       "size": 668487,
       "source_url": "https://store.bblcdn.com/s7/default/cbb22ef8ba924f6ab88376d3aef4d459/B-ZH178_model.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/19/1943f4e795727aa4a20b2f6ef15b0c5a2d2607eece7a524e681d236dffd74878.png",
       "id": "image-display-725ffc1af6208de198df",
       "image_processing": {
@@ -97,6 +116,7 @@
       "parent_asset_id": "image-38fb816926a206eb8d75",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1943f4e795727aa4a20b2f6ef15b0c5a2d2607eece7a524e681d236dffd74878",
       "size": 213795,
       "source_url": "https://store.bblcdn.com/s7/default/c3bd1dee9bc34410a004bf10df93fdd8/B-ZH178.png"
@@ -184,7 +204,8 @@
   "description_text": "The product contains all the non-3D printed parts for assembling an entirely functional Filament Respooler Winder. To complete the work, you also need to download the model files and 3D print the remaining parts.\n\nCreator Program: The Creator Program is a collaborative program between Bambu Lab and creators. Creators unleash their creativity to design 3D printing models, while Bambu Lab provides compatible hardware kits for those designs.\n\nTo download the model files please visit the Filament Respooler Winder on MakerWorld.",
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh178-filament-respooler-winder",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Filament Respooler Winder",
   "offers": [
@@ -196,6 +217,7 @@
       "price": "15.99",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/filament-respooler-winder?skr=yes"
     },
     {
@@ -206,6 +228,7 @@
       "price": "17.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/filament-respooler-winder?skr=yes"
     },
     {
@@ -216,16 +239,18 @@
       "price": "14.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/filament-respooler-winder?skr=yes"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "GBP",
       "listed": true,
       "missing_runs": 0,
       "price": "11.99",
       "region": "uk",
-      "retrieved_at": "2026-11-10T12:06:28Z",
+      "retrieved_at": "2026-11-19T06:49:00Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/filament-respooler-winder?skr=yes"
     },
     {
@@ -236,6 +261,7 @@
       "price": "27.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/filament-respooler-winder?skr=yes"
     },
     {
@@ -246,6 +272,7 @@
       "price": "13.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/filament-respooler-winder?skr=yes"
     }
   ],
@@ -316,6 +343,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -328,6 +356,7 @@
       "price": "15.99",
       "region": "us",
       "sku": "765724959652794370",
+      "store_id": "",
       "title": "Filament Respooler Winder - Filament Respooler Winder - ZH178",
       "url": "https://us.store.bambulab.com/products/filament-respooler-winder?id=765724959652794370",
       "variant_id": "765724959652794370"
@@ -340,6 +369,7 @@
       "price": "17.99",
       "region": "ca",
       "sku": "765722382609502210",
+      "store_id": "",
       "title": "Filament Respooler Winder - Filament Respooler Winder - ZH178",
       "url": "https://ca.store.bambulab.com/products/filament-respooler-winder?id=765722382609502210",
       "variant_id": "765722382609502210"
@@ -352,18 +382,20 @@
       "price": "14.99",
       "region": "eu",
       "sku": "765725614983475202",
+      "store_id": "",
       "title": "Filament Respooler Winder - Filament Respooler Winder - ZH178",
       "url": "https://eu.store.bambulab.com/products/filament-respooler-winder?id=765725614983475202",
       "variant_id": "765725614983475202"
     },
     {
-      "available": false,
+      "available": true,
       "currency": "GBP",
       "image_url": "https://store.bblcdn.eu/s4/default/a675734bc480490dba644e66cc423604/B-ZH178_model.jpg",
       "part_number": "ZH178",
       "price": "11.99",
       "region": "uk",
       "sku": "765724095240335360",
+      "store_id": "",
       "title": "Filament Respooler Winder - Filament Respooler Winder - ZH178",
       "url": "https://uk.store.bambulab.com/products/filament-respooler-winder?id=765724095240335360",
       "variant_id": "765724095240335360"
@@ -376,6 +408,7 @@
       "price": "27.99",
       "region": "au",
       "sku": "765720298132688898",
+      "store_id": "",
       "title": "Filament Respooler Winder - Filament Respooler Winder - ZH178",
       "url": "https://au.store.bambulab.com/products/filament-respooler-winder?id=765720298132688898",
       "variant_id": "765720298132688898"
@@ -388,6 +421,7 @@
       "price": "13.99",
       "region": "asia",
       "sku": "764704250713427970",
+      "store_id": "",
       "title": "Filament Respooler Winder - Filament Respooler Winder - ZH178",
       "url": "https://asia.store.bambulab.com/products/filament-respooler-winder?id=764704250713427970",
       "variant_id": "764704250713427970"

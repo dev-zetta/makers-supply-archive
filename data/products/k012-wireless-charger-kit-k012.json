@@ -4,41 +4,56 @@
     {
       "handle": "wireless-charger-kit-k012",
       "product_id": "7854478688392",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wireless-charger-kit-k012",
       "product_id": "8538610499824",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wireless-charger-kit-k012",
       "product_id": "8779044651356",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wireless-charger-kit-k012",
       "product_id": "7305600335932",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wireless-charger-kit-k012",
       "product_id": "8251580612771",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wireless-charger-kit-k012",
       "product_id": "9267055526180",
-      "region": "jp"
+      "region": "jp",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "wireless-charger-kit-k012",
       "product_id": "7427707764851",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9b/9b75b3e83457218c26937343ac5489aff41f1a8d2943631c73e5d8b0e54a70bc.jpg",
       "id": "image-e87eb0d772d0d7f20c0e",
       "kind": "image",
@@ -46,11 +61,13 @@
       "original_filename": "6391ace427ade714b70fb966024ae804_1268c6c0-2b88-46e8-8438-c6b5046142a5.jpg",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9b75b3e83457218c26937343ac5489aff41f1a8d2943631c73e5d8b0e54a70bc",
       "size": 330120,
       "source_url": "https://store.bblcdn.com/s7/default/479cb28d85d24b46895abb10811f105a/6391ace427ade714b70fb966024ae804_1268c6c0-2b88-46e8-8438-c6b5046142a5.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/59/59301202233089abf4a405023530e27362dd4b6708523262dc1d95325a40b62d.png",
       "id": "image-dcd7d37dcba8107c6b51",
       "kind": "image",
@@ -58,11 +75,13 @@
       "original_filename": "5083f33f0aef8a9c31ea0f62bbf8ddfd.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "59301202233089abf4a405023530e27362dd4b6708523262dc1d95325a40b62d",
       "size": 984119,
       "source_url": "https://store.bblcdn.com/s7/default/2e4056d36c77448c80e6ed5abe4cfdba/5083f33f0aef8a9c31ea0f62bbf8ddfd.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/95/955501519ffb5448fb3016511207c3dde754a1e45486ec9e38c2c4232d9f8d05.png",
       "id": "image-83e700ec58e2b6f196c0",
       "kind": "image",
@@ -70,11 +89,13 @@
       "original_filename": "3_2b089443-a606-4168-bb7c-341548d8d364.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "955501519ffb5448fb3016511207c3dde754a1e45486ec9e38c2c4232d9f8d05",
       "size": 529521,
       "source_url": "https://store.bblcdn.com/s7/default/962ee22516ee48f39a5215b1db2b2bfe/3_2b089443-a606-4168-bb7c-341548d8d364.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f0/f08f6f20200658ff544b179483612f0fbea2860bb3879e23430b0f1c7b0436a8.png",
       "id": "image-67367e7e36aa3e2710e4",
       "kind": "image",
@@ -82,11 +103,13 @@
       "original_filename": "2_67a17939-141b-4435-9eb4-52b07235b538.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f08f6f20200658ff544b179483612f0fbea2860bb3879e23430b0f1c7b0436a8",
       "size": 393735,
       "source_url": "https://store.bblcdn.com/s7/default/c244b34777e24cb3b7e3e0164b5e82cc/2_67a17939-141b-4435-9eb4-52b07235b538.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3c/3cfbde42e152b28c91c3d9127eb791ff2eeccb068fcd6338bddc566f103b2fe9.zip",
       "id": "archive-eb7509606b4c22f84d9b",
       "kind": "archive",
@@ -94,11 +117,13 @@
       "original_filename": "Wireless_Charger_Kit-K012_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3cfbde42e152b28c91c3d9127eb791ff2eeccb068fcd6338bddc566f103b2fe9",
       "size": 612549,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/Circuit_Board_Coil/Circuit_Board_Coil.stl",
       "blob_path": "data/blobs/sha256/d5/d52c74fa96bae2c1f6b3881007c1f19d77d201b9285c73dcec4f3497fe878dc4.stl",
       "id": "model-f51f6cec1bcfe6058117",
@@ -108,11 +133,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "d52c74fa96bae2c1f6b3881007c1f19d77d201b9285c73dcec4f3497fe878dc4",
       "size": 1264984,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/Circuit_Board_Coil/Circuit_Board_Coil.stp",
       "blob_path": "data/blobs/sha256/61/61b5c79219dade6937139c67083b8fb736adf8502d305d205f5f75ac34629ea5.stp",
       "id": "model-739424d60b9f2fd9a201",
@@ -122,11 +149,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "61b5c79219dade6937139c67083b8fb736adf8502d305d205f5f75ac34629ea5",
       "size": 658532,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/Foam Foot Pad/Foam Foot Pad.stl",
       "blob_path": "data/blobs/sha256/01/01dee3a6ea4165a8de619f22d31320c2de493b1bd4d84f5ca531c97039b9ee07.stl",
       "id": "model-28f868bb59914c46d553",
@@ -136,11 +165,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "01dee3a6ea4165a8de619f22d31320c2de493b1bd4d84f5ca531c97039b9ee07",
       "size": 39084,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/Foam Foot Pad/Foam Foot Pad.stp",
       "blob_path": "data/blobs/sha256/b6/b6fd1b6a856d743437393aec262e728347a66b1e12159334f6e407d0c3f98d09.stp",
       "id": "model-23e750c695cc97edcf7a",
@@ -150,11 +181,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b6fd1b6a856d743437393aec262e728347a66b1e12159334f6e407d0c3f98d09",
       "size": 20097,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/LED/Connecting Wire 50mm.stl",
       "blob_path": "data/blobs/sha256/a8/a86451f002d6619ca496e66612978f8462e7faaccb353e4ad730f90290148b53.stl",
       "id": "model-4f8d73b47d56e4850995",
@@ -164,11 +197,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "a86451f002d6619ca496e66612978f8462e7faaccb353e4ad730f90290148b53",
       "size": 9084,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/LED/Connecting Wire 50mm.stp",
       "blob_path": "data/blobs/sha256/7f/7fa5742f5ff58c605d63efc39a2fe0736899028311d0be51ced6a1041ad27b40.stp",
       "id": "model-1fd750a54c12e5e73555",
@@ -178,11 +213,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7fa5742f5ff58c605d63efc39a2fe0736899028311d0be51ced6a1041ad27b40",
       "size": 31850,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/LED/Connecting_Wire_100mm.stp",
       "blob_path": "data/blobs/sha256/5a/5a5848dd44b7d95cc31d50a74827b0c69a1b4c20adfaa7ba93e2c124e14923b1.stp",
       "id": "model-5938136820f0e4b38a18",
@@ -192,11 +229,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5a5848dd44b7d95cc31d50a74827b0c69a1b4c20adfaa7ba93e2c124e14923b1",
       "size": 31931,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/LED/connection_wire_100mm.stl",
       "blob_path": "data/blobs/sha256/80/80312f1c725e43363b786597fe192144875c945528053f113f37b9d4f7bcb110.stl",
       "id": "model-0c4a1ea6d17290a417a7",
@@ -206,11 +245,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "80312f1c725e43363b786597fe192144875c945528053f113f37b9d4f7bcb110",
       "size": 10284,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/LED/Power Splitter Board.stl",
       "blob_path": "data/blobs/sha256/ee/ee2b2ef02402b90127666dbc782fa5e8b4cb21d130536677fcdb8980c4dc34f5.stl",
       "id": "model-e4b07dfb86c2f34f3be6",
@@ -220,11 +261,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ee2b2ef02402b90127666dbc782fa5e8b4cb21d130536677fcdb8980c4dc34f5",
       "size": 10284,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/LED/Power Splitter Board.stp",
       "blob_path": "data/blobs/sha256/b2/b2f9494a2f75c56aa6f248eb285846a2eaa4c5cf6963aae7ab311f631800db70.stp",
       "id": "model-3072ed4dc7e329c6a452",
@@ -234,11 +277,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b2f9494a2f75c56aa6f248eb285846a2eaa4c5cf6963aae7ab311f631800db70",
       "size": 93520,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/LED/Wire LED Light_150mm.stl",
       "blob_path": "data/blobs/sha256/7c/7c5a4754aea75f8b4fe80c897dc6b06fc37460303c1f5dbde8d981e4d1dd1178.stl",
       "id": "model-b86a2a9019dc880b4d18",
@@ -248,11 +293,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7c5a4754aea75f8b4fe80c897dc6b06fc37460303c1f5dbde8d981e4d1dd1178",
       "size": 47784,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/LED/Wire LED Light_150mm.stp",
       "blob_path": "data/blobs/sha256/1f/1f39689eb1a3804d97cd0626e6e3609b82cca85fd5e9f42d01627d46bc7052b7.stp",
       "id": "model-3ed78cac94b6e1ad9a8f",
@@ -262,11 +309,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1f39689eb1a3804d97cd0626e6e3609b82cca85fd5e9f42d01627d46bc7052b7",
       "size": 53255,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/LED/Wire LED Light_45mm.stl",
       "blob_path": "data/blobs/sha256/ad/ada374f30f362d61158deaa6106c5be39272bb7506206863d272ece521a95adf.stl",
       "id": "model-adddf947bc1c4f462488",
@@ -276,11 +325,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ada374f30f362d61158deaa6106c5be39272bb7506206863d272ece521a95adf",
       "size": 37284,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/LED/Wire LED Light_45mm.stp",
       "blob_path": "data/blobs/sha256/53/5379bcf427c344978fe7fa64e77bb7777dda68144d5a07340887f640ca00ae4e.stp",
       "id": "model-01e58a0aa5b6f1e1c91c",
@@ -290,11 +341,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5379bcf427c344978fe7fa64e77bb7777dda68144d5a07340887f640ca00ae4e",
       "size": 53224,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/Light Guide Rod/Light Guide Rod.stl",
       "blob_path": "data/blobs/sha256/f2/f261de5aaf040c0ca2763cda12304db2bb0177648d97e7feb4ad8b4daca5715d.stl",
       "id": "model-871a8e07b7cb75411034",
@@ -304,11 +357,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f261de5aaf040c0ca2763cda12304db2bb0177648d97e7feb4ad8b4daca5715d",
       "size": 35284,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/Light Guide Rod/Light Guide Rod.stp",
       "blob_path": "data/blobs/sha256/4a/4ae22f63d412cad03d9386e52f9f9f4a8e3a47c11edef06410660815aab55646.stp",
       "id": "model-53fed1a3f058444d4a98",
@@ -318,11 +373,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4ae22f63d412cad03d9386e52f9f9f4a8e3a47c11edef06410660815aab55646",
       "size": 26360,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/M1.5x30 Stainless Steel Dowel Pin/M1.5x30 Stainless Steel Dowel Pin.stl",
       "blob_path": "data/blobs/sha256/f0/f0db315b6935418c7fc7ea779212f9875f7a2090e66ee8ea415b552fbaf7e749.stl",
       "id": "model-3e75616ebc56afe81e78",
@@ -332,11 +389,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f0db315b6935418c7fc7ea779212f9875f7a2090e66ee8ea415b552fbaf7e749",
       "size": 15084,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/M1.5x30 Stainless Steel Dowel Pin/M1.5x30 Stainless Steel Dowel Pin.stp",
       "blob_path": "data/blobs/sha256/4c/4cb88170ddc5208ca6a2b17f94d2d0998e8360fb53de54ce8e377e8737856e6c.stp",
       "id": "model-1f876653fcb010b61ed5",
@@ -346,11 +405,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "4cb88170ddc5208ca6a2b17f94d2d0998e8360fb53de54ce8e377e8737856e6c",
       "size": 20120,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/N20 Gear Motor/n20_reduction_gear_motor.stl",
       "blob_path": "data/blobs/sha256/8d/8d8187b20a782574fafa2abcdf587599532f245ccd28e961b06747bd7d5fc7d9.stl",
       "id": "model-057c8422fb8953b3cc80",
@@ -360,11 +421,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8d8187b20a782574fafa2abcdf587599532f245ccd28e961b06747bd7d5fc7d9",
       "size": 133784,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/N20 Gear Motor/n20_reduction_gear_motor.stp",
       "blob_path": "data/blobs/sha256/e6/e65e76f9eec6cfe593fcab7e9c3abcfa7eca923c824dfb12a100f7dbba61187a.stp",
       "id": "model-b9f48dbdc2368546eef2",
@@ -374,11 +437,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e65e76f9eec6cfe593fcab7e9c3abcfa7eca923c824dfb12a100f7dbba61187a",
       "size": 134429,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/Switch Board/Switch Board.stl",
       "blob_path": "data/blobs/sha256/b6/b6897700265f95b8ee2977f52b3ee06c5e0c29c385f8807dac3453d87f14d087.stl",
       "id": "model-adc1a39aed0a070789c7",
@@ -388,11 +453,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b6897700265f95b8ee2977f52b3ee06c5e0c29c385f8807dac3453d87f14d087",
       "size": 11884,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "Wireless Charger Kit-K012 Model/Switch Board/Switch Board.stp",
       "blob_path": "data/blobs/sha256/db/dbebf420ad85c932c4e0f51c8d7641abd7f34a0de9f6413119cfe511049da08d.stp",
       "id": "model-fecdf44b52cf2a2f4dd8",
@@ -402,11 +469,13 @@
       "parent_asset_id": "archive-eb7509606b4c22f84d9b",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "dbebf420ad85c932c4e0f51c8d7641abd7f34a0de9f6413119cfe511049da08d",
       "size": 42294,
       "source_url": "https://cdn.shopify.com/s/files/1/0645/5876/0155/files/Wireless_Charger_Kit-K012_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/03/03e6131fb58d0cc1cd75142b295a6a1e91244b34f9909c414e9f79a8a77b428a.png",
       "id": "image-display-0dd65e03e4313d83b964",
       "image_processing": {
@@ -424,11 +493,13 @@
       "parent_asset_id": "image-e87eb0d772d0d7f20c0e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "03e6131fb58d0cc1cd75142b295a6a1e91244b34f9909c414e9f79a8a77b428a",
       "size": 746876,
       "source_url": "https://store.bblcdn.com/s7/default/479cb28d85d24b46895abb10811f105a/6391ace427ade714b70fb966024ae804_1268c6c0-2b88-46e8-8438-c6b5046142a5.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/73/736d62c0203951ae94a1470956ded69210ed39dee0e50b9112daf730b8e5b8b6.png",
       "id": "image-display-67f57b973d136fbb8fbd",
       "image_processing": {
@@ -446,11 +517,13 @@
       "parent_asset_id": "image-dcd7d37dcba8107c6b51",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "736d62c0203951ae94a1470956ded69210ed39dee0e50b9112daf730b8e5b8b6",
       "size": 219717,
       "source_url": "https://store.bblcdn.com/s7/default/2e4056d36c77448c80e6ed5abe4cfdba/5083f33f0aef8a9c31ea0f62bbf8ddfd.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/27/27321b65aa1cd8150c3799e342ded5bd8831c498946b2476181c8ba45b55f8d2.png",
       "id": "image-display-02814a944e6deaf544f8",
       "image_processing": {
@@ -468,11 +541,13 @@
       "parent_asset_id": "image-83e700ec58e2b6f196c0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "27321b65aa1cd8150c3799e342ded5bd8831c498946b2476181c8ba45b55f8d2",
       "size": 167645,
       "source_url": "https://store.bblcdn.com/s7/default/962ee22516ee48f39a5215b1db2b2bfe/3_2b089443-a606-4168-bb7c-341548d8d364.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/03/038a802974e9feef2280c08cbd3fc660b3e2745929172c04e57e8463729cfdb8.png",
       "id": "image-display-bf7e864033b05983c446",
       "image_processing": {
@@ -490,6 +565,7 @@
       "parent_asset_id": "image-67367e7e36aa3e2710e4",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "038a802974e9feef2280c08cbd3fc660b3e2745929172c04e57e8463729cfdb8",
       "size": 104821,
       "source_url": "https://store.bblcdn.com/s7/default/c244b34777e24cb3b7e3e0164b5e82cc/2_67a17939-141b-4435-9eb4-52b07235b538.png"
@@ -718,6 +794,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "k012-wireless-charger-kit-k012",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Wireless Charger Kit-K012",
   "offers": [
@@ -729,6 +806,7 @@
       "price": "39.2",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/wireless-charger-kit-k012?skr=yes"
     },
     {
@@ -739,6 +817,7 @@
       "price": "46.4",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/wireless-charger-kit-k012?skr=yes"
     },
     {
@@ -749,6 +828,7 @@
       "price": "38.4",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/wireless-charger-kit-k012?skr=yes"
     },
     {
@@ -759,6 +839,7 @@
       "price": "32.8",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/wireless-charger-kit-k012?skr=yes"
     },
     {
@@ -769,6 +850,7 @@
       "price": "58.4",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/wireless-charger-kit-k012?skr=yes"
     },
     {
@@ -779,6 +861,7 @@
       "price": "8079",
       "region": "jp",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://jp.store.bambulab.com/en/products/wireless-charger-kit-k012?skr=yes"
     },
     {
@@ -789,6 +872,7 @@
       "price": "36",
       "region": "asia",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/wireless-charger-kit-k012?skr=yes"
     }
   ],
@@ -1018,6 +1102,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -1030,6 +1115,7 @@
       "price": "39.2",
       "region": "us",
       "sku": "41834155180168",
+      "store_id": "",
       "title": "Wireless Charger Kit-K012 - Wireless Charger Kit (1pcs)-K012",
       "url": "https://us.store.bambulab.com/products/wireless-charger-kit-k012?id=41834155180168",
       "variant_id": "41834155180168"
@@ -1042,6 +1128,7 @@
       "price": "46.4",
       "region": "ca",
       "sku": "45193685303536",
+      "store_id": "",
       "title": "Wireless Charger Kit-K012 - Wireless Charger Kit (1pcs)-K012",
       "url": "https://ca.store.bambulab.com/products/wireless-charger-kit-k012?id=45193685303536",
       "variant_id": "45193685303536"
@@ -1054,6 +1141,7 @@
       "price": "38.4",
       "region": "eu",
       "sku": "47743226216796",
+      "store_id": "",
       "title": "Wireless Charger Kit-K012 - Wireless Charger Kit (1pcs)-K012",
       "url": "https://eu.store.bambulab.com/products/wireless-charger-kit-k012?id=47743226216796",
       "variant_id": "47743226216796"
@@ -1066,6 +1154,7 @@
       "price": "32.8",
       "region": "uk",
       "sku": "41123016147004",
+      "store_id": "",
       "title": "Wireless Charger Kit-K012 - Wireless Charger Kit (1pcs)-K012",
       "url": "https://uk.store.bambulab.com/products/wireless-charger-kit-k012?id=41123016147004",
       "variant_id": "41123016147004"
@@ -1078,6 +1167,7 @@
       "price": "58.4",
       "region": "au",
       "sku": "44084274266275",
+      "store_id": "",
       "title": "Wireless Charger Kit-K012 - Wireless Charger Kit (1pcs)-K012",
       "url": "https://au.store.bambulab.com/products/wireless-charger-kit-k012?id=44084274266275",
       "variant_id": "44084274266275"
@@ -1090,6 +1180,7 @@
       "price": "8079",
       "region": "jp",
       "sku": "708877909940887553",
+      "store_id": "",
       "title": "ワイヤレス充電器キット-K012  - スタンダード",
       "url": "https://jp.store.bambulab.com/products/wireless-charger-kit-k012?id=708877909940887553",
       "variant_id": "708877909940887553"
@@ -1102,6 +1193,7 @@
       "price": "36",
       "region": "asia",
       "sku": "41399483531379",
+      "store_id": "",
       "title": "Wireless Charger Kit-K012 - Wireless Charger Kit (1pcs) -K012",
       "url": "https://asia.store.bambulab.com/products/wireless-charger-kit-k012?id=41399483531379",
       "variant_id": "41399483531379"

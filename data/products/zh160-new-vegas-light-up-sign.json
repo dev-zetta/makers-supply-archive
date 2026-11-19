@@ -4,36 +4,49 @@
     {
       "handle": "new-vegas-light-up-sign",
       "product_id": "749118556017938432",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "new-vegas-light-up-sign",
       "product_id": "749117736915517440",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "new-vegas-light-up-sign",
       "product_id": "749118764976455680",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "new-vegas-light-up-sign",
       "product_id": "749118237272178688",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "new-vegas-light-up-sign",
       "product_id": "749115297175797760",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "new-vegas-light-up-sign",
       "product_id": "749112150704693248",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/08/08fe709e122ccc671a90523ff0d15ec77d15b3f63f8a39c54b4ea08f45b607d8.jpg",
       "id": "image-4d97973ae9286cf04eb7",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "ZH160-pic-2.jpg",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "08fe709e122ccc671a90523ff0d15ec77d15b3f63f8a39c54b4ea08f45b607d8",
       "size": 497545,
       "source_url": "https://store.bblcdn.com/s7/default/5aa3ff3854c94fb9adc0fba5edfb0599/ZH160-pic-2.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/56/564c4b3d371327c2d75357f16025cfeb6388d60d47e2bb639f921b9f7c326736.jpg",
       "id": "image-6c137814f7398e499ae3",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "ZH160-pic.jpg",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "564c4b3d371327c2d75357f16025cfeb6388d60d47e2bb639f921b9f7c326736",
       "size": 808389,
       "source_url": "https://store.bblcdn.com/s7/default/4df4fddd68d240ffb6ccf56eed13e35c/ZH160-pic.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6f/6f1aa7394f36461aebb97dcaaa834797a900c93ece45746bef8b227d720daae7.png",
       "id": "image-2598802d09a5c5079ead",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "B-ZH160.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6f1aa7394f36461aebb97dcaaa834797a900c93ece45746bef8b227d720daae7",
       "size": 324262,
       "source_url": "https://store.bblcdn.com/s7/default/618f71fb7e4b4cf88e8b9c0827a1a308/B-ZH160.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/07/0778377176eeffd1229c049d6cda68e93726741d305829c59b139e975002b764.png",
       "id": "image-display-54eebef2590e2f872ef7",
       "image_processing": {
@@ -87,11 +106,13 @@
       "parent_asset_id": "image-4d97973ae9286cf04eb7",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0778377176eeffd1229c049d6cda68e93726741d305829c59b139e975002b764",
       "size": 756021,
       "source_url": "https://store.bblcdn.com/s7/default/5aa3ff3854c94fb9adc0fba5edfb0599/ZH160-pic-2.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f8/f822077392a32adc6b9cef1d71709a18845421dcbb6fd2771010e3a8d773aed0.png",
       "id": "image-display-bd14c622e5e6cdfd4926",
       "image_processing": {
@@ -109,11 +130,13 @@
       "parent_asset_id": "image-6c137814f7398e499ae3",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f822077392a32adc6b9cef1d71709a18845421dcbb6fd2771010e3a8d773aed0",
       "size": 1110558,
       "source_url": "https://store.bblcdn.com/s7/default/4df4fddd68d240ffb6ccf56eed13e35c/ZH160-pic.jpg"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/33/33c4d0faef620462afdb0b6dab168e7b44500bef5b7a793db90bffb575a673f9.png",
       "id": "image-display-7ea5184f7ab631041f07",
       "image_processing": {
@@ -131,6 +154,7 @@
       "parent_asset_id": "image-2598802d09a5c5079ead",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "33c4d0faef620462afdb0b6dab168e7b44500bef5b7a793db90bffb575a673f9",
       "size": 106393,
       "source_url": "https://store.bblcdn.com/s7/default/618f71fb7e4b4cf88e8b9c0827a1a308/B-ZH160.png"
@@ -254,6 +278,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "zh160-new-vegas-light-up-sign",
   "last_seen": "2026-11-10T13:13:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "New Vegas Light-Up Sign",
   "offers": [
@@ -265,6 +290,7 @@
       "price": "64.99",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
     },
     {
@@ -275,6 +301,7 @@
       "price": "81.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
     },
     {
@@ -285,6 +312,7 @@
       "price": "69.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
     },
     {
@@ -295,6 +323,7 @@
       "price": "59.99",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
     },
     {
@@ -305,6 +334,7 @@
       "price": "126.99",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
     },
     {
@@ -315,6 +345,7 @@
       "price": "59.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/new-vegas-light-up-sign?skr=yes"
     }
   ],
@@ -410,6 +441,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [
     "kit"
   ],
@@ -422,6 +454,7 @@
       "price": "64.99",
       "region": "us",
       "sku": "749118556038909954",
+      "store_id": "",
       "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
       "url": "https://us.store.bambulab.com/products/new-vegas-light-up-sign?id=749118556038909954",
       "variant_id": "749118556038909954"
@@ -434,6 +467,7 @@
       "price": "81.99",
       "region": "ca",
       "sku": "749117736982626306",
+      "store_id": "",
       "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
       "url": "https://ca.store.bambulab.com/products/new-vegas-light-up-sign?id=749117736982626306",
       "variant_id": "749117736982626306"
@@ -446,6 +480,7 @@
       "price": "69.99",
       "region": "eu",
       "sku": "749118765064536066",
+      "store_id": "",
       "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
       "url": "https://eu.store.bambulab.com/products/new-vegas-light-up-sign?id=749118765064536066",
       "variant_id": "749118765064536066"
@@ -458,6 +493,7 @@
       "price": "59.99",
       "region": "uk",
       "sku": "749118237339287553",
+      "store_id": "",
       "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
       "url": "https://uk.store.bambulab.com/products/new-vegas-light-up-sign?id=749118237339287553",
       "variant_id": "749118237339287553"
@@ -470,6 +506,7 @@
       "price": "126.99",
       "region": "au",
       "sku": "749115297259683841",
+      "store_id": "",
       "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
       "url": "https://au.store.bambulab.com/products/new-vegas-light-up-sign?id=749115297259683841",
       "variant_id": "749115297259683841"
@@ -482,6 +519,7 @@
       "price": "59.99",
       "region": "asia",
       "sku": "749112150729859074",
+      "store_id": "",
       "title": "New Vegas Light-Up Sign - New Vegas Light-Up Sign - ZH160",
       "url": "https://asia.store.bambulab.com/products/new-vegas-light-up-sign?id=749112150729859074",
       "variant_id": "749112150729859074"

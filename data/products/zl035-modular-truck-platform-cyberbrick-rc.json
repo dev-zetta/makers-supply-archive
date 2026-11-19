@@ -4,31 +4,42 @@
     {
       "handle": "modular-truck-platform-cyberbrick-rc",
       "product_id": "785342554311778304",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "modular-truck-platform-cyberbrick-rc",
       "product_id": "785341984498786304",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "modular-truck-platform-cyberbrick-rc",
       "product_id": "785342868465123328",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "modular-truck-platform-cyberbrick-rc",
       "product_id": "785342275864494080",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "modular-truck-platform-cyberbrick-rc",
       "product_id": "785341564799950848",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/3a/3a007ccaa9d981e26e591246ef36d74e4c29724bfe3312c399f696ad98a09abc.png",
       "id": "image-06afbdb7cbf9617211b0",
       "kind": "image",
@@ -36,11 +47,13 @@
       "original_filename": "Store_Banner_w_Controller_White.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3a007ccaa9d981e26e591246ef36d74e4c29724bfe3312c399f696ad98a09abc",
       "size": 1668090,
       "source_url": "https://store.bblcdn.com/s7/default/cdf63bfa607d4c259468e23d2310bc50/Store_Banner_w_Controller_White.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/25/2551200a25c4ceab48ef1877fe1ef1a69838fdbd554b8382ddc312f7e5c467ca.png",
       "id": "image-bfab20e8349c02c8559a",
       "kind": "image",
@@ -48,11 +61,13 @@
       "original_filename": "Store_Banner_White.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2551200a25c4ceab48ef1877fe1ef1a69838fdbd554b8382ddc312f7e5c467ca",
       "size": 1371566,
       "source_url": "https://store.bblcdn.com/s7/default/63a6b22294144a35850f8bc27c8c3314/Store_Banner_White.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/05/059331ff1edfca6edfbb29fac4568d8de9c6ca1adace4c6412eb8dbe4b26ff81.png",
       "id": "image-39f79cb56cf758938ff7",
       "kind": "image",
@@ -60,11 +75,13 @@
       "original_filename": "Store_Banner_w_Controller.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "059331ff1edfca6edfbb29fac4568d8de9c6ca1adace4c6412eb8dbe4b26ff81",
       "size": 2284974,
       "source_url": "https://store.bblcdn.com/s7/default/180f40f56f1148e5a37ffd5e13d6e7d5/Store_Banner_w_Controller.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/eb/ebb41f161325e4c645ff0be2316789963644efd9170644ecfa54e153b6affd81.png",
       "id": "image-051daba1381f11066b7e",
       "kind": "image",
@@ -72,11 +89,13 @@
       "original_filename": "Store_Banner.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ebb41f161325e4c645ff0be2316789963644efd9170644ecfa54e153b6affd81",
       "size": 2245579,
       "source_url": "https://store.bblcdn.com/s7/default/3f554bcf7ee746c194b712c6e05b85b9/Store_Banner.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2a/2a8c29c1d5b6fd14ee1f54f49c5c120aa569eddfb7ca7773ccbda731a1c935b2.png",
       "id": "image-display-e5fd809eb42b3fd0b54f",
       "image_processing": {
@@ -94,11 +113,13 @@
       "parent_asset_id": "image-06afbdb7cbf9617211b0",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2a8c29c1d5b6fd14ee1f54f49c5c120aa569eddfb7ca7773ccbda731a1c935b2",
       "size": 688385,
       "source_url": "https://store.bblcdn.com/s7/default/cdf63bfa607d4c259468e23d2310bc50/Store_Banner_w_Controller_White.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7d/7df8e382a861b73b17960b23ae97fd5c2b81bf8359c27d5876b076dda6b9365a.png",
       "id": "image-display-6ae5adc2318cd9862b42",
       "image_processing": {
@@ -116,11 +137,13 @@
       "parent_asset_id": "image-bfab20e8349c02c8559a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7df8e382a861b73b17960b23ae97fd5c2b81bf8359c27d5876b076dda6b9365a",
       "size": 585263,
       "source_url": "https://store.bblcdn.com/s7/default/63a6b22294144a35850f8bc27c8c3314/Store_Banner_White.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/90/90da6b3c2fbc180461b19c4d3b4a1982cb0089753917b0cd22fce6feb2cc3741.png",
       "id": "image-display-f4ecc4cc9883d652f757",
       "image_processing": {
@@ -138,11 +161,13 @@
       "parent_asset_id": "image-39f79cb56cf758938ff7",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "90da6b3c2fbc180461b19c4d3b4a1982cb0089753917b0cd22fce6feb2cc3741",
       "size": 972862,
       "source_url": "https://store.bblcdn.com/s7/default/180f40f56f1148e5a37ffd5e13d6e7d5/Store_Banner_w_Controller.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/14/146d1801661d3bdde22fa9ed92d6f5569831262a8dbec4d8d82f14ada5e12a6f.png",
       "id": "image-display-59cbbed9b88b5cde04fd",
       "image_processing": {
@@ -160,6 +185,7 @@
       "parent_asset_id": "image-051daba1381f11066b7e",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "146d1801661d3bdde22fa9ed92d6f5569831262a8dbec4d8d82f14ada5e12a6f",
       "size": 927136,
       "source_url": "https://store.bblcdn.com/s7/default/3f554bcf7ee746c194b712c6e05b85b9/Store_Banner.png"
@@ -545,7 +571,8 @@
   "description_text": "Cargo bodies mount directly to the chassis, so your build becomes a working hauler instead of a static display piece. Printable accessories let you stage loads, create routes, and keep expanding the truck after the base build is finished.\n\nThe CyberBrick app allows for customizing LED lights, enhancing realism and visual appeal during operation. Integrated lighting support adds practical feedback. It also gives the truck a more complete RC feel without relying on fragile cosmetic add-ons.\n\nA servo-operated coupling turns trailer handling into part of the drive, not a manual reset between runs. Hook up, drop off, and switch tasks from the controller for more realistic yard work.\n\nCyberBrick remote compatibility keeps steering, throttle, and functions in one familiar control setup. Builders can focus on tuning the truck and adding modules instead of inventing a control system from scratch.\n\n*The following is the App connection of CyberBrick Official SoccerBot as an example, which is similar to this model.\n\nThis product is intended for users aged 14 and above. Users under the age of 14 must be under direct adult supervision throughout use.\n\nDO NOT touch the moving parts while the device is operating to prevent pinching injuries.\n\nPlease use only official tools for any firmware operations. Flashing with third-party tools is not supported and may cause irreversible damage, which is not covered by warranty.\n\nBefore use, inspect all 3D-printed parts and sand down any sharp edges or burrs if present. Store the model and small parts in a location out of reach of children and pets to prevent choking hazards.\n\nThis product utilizes a replaceable rechargeable lithium battery.\n\nAdult supervision is required when children are handling batteries or the charger. Do not operate the product while it is charging.\n\nEnsure the battery is installed correctly. Improper installation may result in short circuits, overheating, or potential explosion.\n\nRegularly inspect the charger’s cord, plug, housing, and other components for damage. If any damage is found, discontinue use immediately until the device is fully repaired.\n\nChoking Hazard: Contains small parts; not suitable for children under 3 years of age.\n\nImproper disposal of this product may harm the environment - please recycle responsibly.\n\nUse only the officially supplied charger. The charger is not a toy.\n\nThe USB charger for this product only supports standard 5V 1-2A input. Please always use the original charger that meets the voltage/current requirements, or charge directly via a computer USB port. DO NOT use chargers with output higher than 5V or 2A (such as mobile fast chargers, 9V/12V adapters, etc.), as this may cause device damage, overheating, or even serious fire hazards.\n\nDO NOT cover the device while charging, and keep it away from high temperature, humidity, or flammable environments. Never charge the device unattended.\n\nDO NOT charge the battery pack if it is overheating. Allow it to cool down completely before recharging.\n\nIf the battery pack or charger becomes wet, ensure they are thoroughly dry before attempting to charge.\n\nDO NOT attempt to use or charge the battery pack if it shows any signs of leakage or corrosion.\n\nDO NOT disassemble, crush, or mechanically abuse the battery pack.\n\nDO NOT dispose of the battery pack in fire.\n\nExercise extreme caution when handling an overheated battery pack.",
   "first_seen": "2026-11-10T12:06:28Z",
   "id": "zl035-modular-truck-platform-cyberbrick-rc",
-  "last_seen": "2026-11-10T15:04:23Z",
+  "last_seen": "2026-11-19T06:49:00Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "Modular Truck Platform - CyberBrick RC",
   "offers": [
@@ -557,6 +584,7 @@
       "price": "87.99",
       "region": "us",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/modular-truck-platform-cyberbrick-rc?skr=yes"
     },
     {
@@ -567,6 +595,7 @@
       "price": "119.99",
       "region": "ca",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/modular-truck-platform-cyberbrick-rc?skr=yes"
     },
     {
@@ -577,6 +606,7 @@
       "price": "92.79",
       "region": "eu",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/modular-truck-platform-cyberbrick-rc?skr=yes"
     },
     {
@@ -587,6 +617,7 @@
       "price": "76.79",
       "region": "uk",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/modular-truck-platform-cyberbrick-rc?skr=yes"
     },
     {
@@ -597,6 +628,7 @@
       "price": "159.99",
       "region": "au",
       "retrieved_at": "2026-11-10T12:06:28Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/modular-truck-platform-cyberbrick-rc?skr=yes"
     }
   ],
@@ -734,6 +766,7 @@
     }
   ],
   "specifications": {},
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -744,6 +777,7 @@
       "price": "87.99",
       "region": "us",
       "sku": "785342554320166920",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - YES / Tractor Version - Remote Control included - ZL035",
       "url": "https://us.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342554320166920",
       "variant_id": "785342554320166920"
@@ -756,6 +790,7 @@
       "price": "83.99",
       "region": "us",
       "sku": "785342554320166925",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - YES / Rigid Version - Remote Control included - ZL036",
       "url": "https://us.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342554320166925",
       "variant_id": "785342554320166925"
@@ -768,6 +803,7 @@
       "price": "67.99",
       "region": "us",
       "sku": "785342554320166930",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - NO / Tractor Version - Remote Control not included - ZL035-1",
       "url": "https://us.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342554320166930",
       "variant_id": "785342554320166930"
@@ -780,6 +816,7 @@
       "price": "63.99",
       "region": "us",
       "sku": "785342554320166935",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - NO / Rigid Version - Remote Control not included - ZL036-1",
       "url": "https://us.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342554320166935",
       "variant_id": "785342554320166935"
@@ -792,6 +829,7 @@
       "price": "119.99",
       "region": "ca",
       "sku": "785341984565895191",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - YES / Tractor Version - Remote Control included - ZL035",
       "url": "https://ca.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341984565895191",
       "variant_id": "785341984565895191"
@@ -804,6 +842,7 @@
       "price": "115.19",
       "region": "ca",
       "sku": "785341984565895176",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - YES / Rigid Version - Remote Control included - ZL036",
       "url": "https://ca.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341984565895176",
       "variant_id": "785341984565895176"
@@ -816,6 +855,7 @@
       "price": "91.19",
       "region": "ca",
       "sku": "785341984565895181",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - NO / Tractor Version - Remote Control not included - ZL035-1",
       "url": "https://ca.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341984565895181",
       "variant_id": "785341984565895181"
@@ -828,6 +868,7 @@
       "price": "86.39",
       "region": "ca",
       "sku": "785341984565895186",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - NO / Rigid Version - Remote Control not included - ZL036-1",
       "url": "https://ca.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341984565895186",
       "variant_id": "785341984565895186"
@@ -840,6 +881,7 @@
       "price": "92.79",
       "region": "eu",
       "sku": "785342868523843592",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - YES / Tractor Version - Remote Control included - ZL035",
       "url": "https://eu.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342868523843592",
       "variant_id": "785342868523843592"
@@ -852,6 +894,7 @@
       "price": "88.79",
       "region": "eu",
       "sku": "785342868523843599",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - YES / Rigid Version - Remote Control included - ZL036",
       "url": "https://eu.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342868523843599",
       "variant_id": "785342868523843599"
@@ -864,6 +907,7 @@
       "price": "73.59",
       "region": "eu",
       "sku": "785342868523843606",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - NO / Tractor Version - Remote Control not included - ZL035-1",
       "url": "https://eu.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342868523843606",
       "variant_id": "785342868523843606"
@@ -876,6 +920,7 @@
       "price": "69.59",
       "region": "eu",
       "sku": "785342868523843613",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - NO / Rigid Version - Remote Control not included - ZL036-1",
       "url": "https://eu.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342868523843613",
       "variant_id": "785342868523843613"
@@ -888,6 +933,7 @@
       "price": "76.79",
       "region": "uk",
       "sku": "785342275877077007",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - YES / Tractor Version - Remote Control included - ZL035",
       "url": "https://uk.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342275877077007",
       "variant_id": "785342275877077007"
@@ -900,6 +946,7 @@
       "price": "73.59",
       "region": "uk",
       "sku": "785342275877076992",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - YES / Rigid Version - Remote Control included - ZL036",
       "url": "https://uk.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342275877076992",
       "variant_id": "785342275877076992"
@@ -912,6 +959,7 @@
       "price": "59.99",
       "region": "uk",
       "sku": "785342275877076997",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - NO / Tractor Version - Remote Control not included - ZL035-1",
       "url": "https://uk.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342275877076997",
       "variant_id": "785342275877076997"
@@ -924,6 +972,7 @@
       "price": "56.79",
       "region": "uk",
       "sku": "785342275877077002",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - NO / Rigid Version - Remote Control not included - ZL036-1",
       "url": "https://uk.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785342275877077002",
       "variant_id": "785342275877077002"
@@ -936,6 +985,7 @@
       "price": "159.99",
       "region": "au",
       "sku": "785341564804145176",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - YES / Tractor Version - Remote Control included - ZL035",
       "url": "https://au.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341564804145176",
       "variant_id": "785341564804145176"
@@ -948,6 +998,7 @@
       "price": "152.79",
       "region": "au",
       "sku": "785341564804145161",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - YES / Rigid Version - Remote Control included - ZL036",
       "url": "https://au.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341564804145161",
       "variant_id": "785341564804145161"
@@ -960,6 +1011,7 @@
       "price": "128.79",
       "region": "au",
       "sku": "785341564804145166",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - NO / Tractor Version - Remote Control not included - ZL035-1",
       "url": "https://au.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341564804145166",
       "variant_id": "785341564804145166"
@@ -972,6 +1024,7 @@
       "price": "121.59",
       "region": "au",
       "sku": "785341564804145171",
+      "store_id": "",
       "title": "Modular Truck Platform - CyberBrick RC - NO / Rigid Version - Remote Control not included - ZL036-1",
       "url": "https://au.store.bambulab.com/products/modular-truck-platform-cyberbrick-rc?id=785341564804145171",
       "variant_id": "785341564804145171"

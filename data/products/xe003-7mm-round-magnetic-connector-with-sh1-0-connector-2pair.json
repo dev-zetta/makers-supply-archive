@@ -4,36 +4,49 @@
     {
       "handle": "7mm-round-magnetic-connector-with-sh1-0-connector-2pair",
       "product_id": "8406813409416",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "7mm-round-magnetic-connector-with-sh1-0-connector-2pair",
       "product_id": "9082855751920",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "7mm-round-magnetic-connector-with-sh1-0-connector-2pair",
       "product_id": "9671587234140",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "7mm-round-magnetic-connector-with-sh1-0-connector-2pair",
       "product_id": "7837731520572",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "7mm-round-magnetic-connector-with-sh1-0-connector-2pair",
       "product_id": "528333139322609664",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "7mm-round-magnetic-connector-with-sh1-0-connector-2pair",
       "product_id": "528331654441738240",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/58/58d40110bc66b38642812bbc8a08edbf60c97729e38b10f34dd2d9dfd8763968.png",
       "id": "image-6ca6396561ffa979638a",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "1_c3c4e27a-b637-486e-bcfb-1c99899b3c45.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "58d40110bc66b38642812bbc8a08edbf60c97729e38b10f34dd2d9dfd8763968",
       "size": 167865,
       "source_url": "https://store.bblcdn.com/s7/default/0e23747edb1b4c2dbc13b1ff27c79a10/1_c3c4e27a-b637-486e-bcfb-1c99899b3c45.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/b6/b6ce0264a3ed961ac5b5d7960a03d2690cd2985618356b1745397ff2498aee03.png",
       "id": "image-519b85469b0a26c071c2",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "2_596437e5-9288-46d7-abda-ff916edaa7bf.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "b6ce0264a3ed961ac5b5d7960a03d2690cd2985618356b1745397ff2498aee03",
       "size": 131186,
       "source_url": "https://store.bblcdn.com/s7/default/d07f960d49664058b5dda59c3385c8f3/2_596437e5-9288-46d7-abda-ff916edaa7bf.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2e/2eb5282c12273f70d06044c6a3961caa20347708a5af4cf373d96ee3f8e4e455.png",
       "id": "image-8ff434f1f5c8217826d4",
       "kind": "image",
@@ -65,11 +82,13 @@
       "original_filename": "3_a8c04087-c138-4005-8348-f0a1d40d33f3.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2eb5282c12273f70d06044c6a3961caa20347708a5af4cf373d96ee3f8e4e455",
       "size": 90125,
       "source_url": "https://store.bblcdn.com/s7/default/0f90ffa7068d4b53bdec7df17f828d68/3_a8c04087-c138-4005-8348-f0a1d40d33f3.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1d/1deb29c2fd34eea7284a71cde4ee68e97d5454e8fa18256ab8d8875626cdbf3e.zip",
       "id": "archive-06ad501f8b67565ad94c",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "7mm_Round_Magnetic_Connector_(2Pair)_-XE003_3D_Model.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1deb29c2fd34eea7284a71cde4ee68e97d5454e8fa18256ab8d8875626cdbf3e",
       "size": 221649,
       "source_url": "https://store.bblcdn.com/s1/default/f33e7c66e6ca4c7ab56cc83e44fb7ae3/7mm_Round_Magnetic_Connector_(2Pair)_-XE003_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "7mm Round Magnetic Connector (2Pair) -XE003.stl",
       "blob_path": "data/blobs/sha256/e5/e586d2262198d092124a6d69506c8e6d8c9e2968308fe47e6f6b07ab8f53c841.stl",
       "id": "model-b6670c68e598a8159878",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-06ad501f8b67565ad94c",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e586d2262198d092124a6d69506c8e6d8c9e2968308fe47e6f6b07ab8f53c841",
       "size": 313584,
       "source_url": "https://store.bblcdn.com/s1/default/f33e7c66e6ca4c7ab56cc83e44fb7ae3/7mm_Round_Magnetic_Connector_(2Pair)_-XE003_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "7mm Round Magnetic Connector (2Pair) -XE003.stp",
       "blob_path": "data/blobs/sha256/ab/abcfdc2e1dd02e956baf3676e5b318f236b67c6c317b3eefb84df4b4cd16e537.stp",
       "id": "model-d3f3aa3d6749c6d3048f",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-06ad501f8b67565ad94c",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "abcfdc2e1dd02e956baf3676e5b318f236b67c6c317b3eefb84df4b4cd16e537",
       "size": 722531,
       "source_url": "https://store.bblcdn.com/s1/default/f33e7c66e6ca4c7ab56cc83e44fb7ae3/7mm_Round_Magnetic_Connector_(2Pair)_-XE003_3D_Model.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/cf/cfa4961cb3c51e5141e6f015e19ceb1b2ef284f75c66cfa692e9161c4336dfc7.png",
       "id": "image-display-f9a3fc6a0b6be2589c7b",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-6ca6396561ffa979638a",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "cfa4961cb3c51e5141e6f015e19ceb1b2ef284f75c66cfa692e9161c4336dfc7",
       "size": 151232,
       "source_url": "https://store.bblcdn.com/s7/default/0e23747edb1b4c2dbc13b1ff27c79a10/1_c3c4e27a-b637-486e-bcfb-1c99899b3c45.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/84/848557c2f129f58bf3d2104640606a4ab8faf88288119ff27935814ec7cdd8d9.png",
       "id": "image-display-9145f58e7e21641e3d23",
       "image_processing": {
@@ -149,11 +176,13 @@
       "parent_asset_id": "image-519b85469b0a26c071c2",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "848557c2f129f58bf3d2104640606a4ab8faf88288119ff27935814ec7cdd8d9",
       "size": 116727,
       "source_url": "https://store.bblcdn.com/s7/default/d07f960d49664058b5dda59c3385c8f3/2_596437e5-9288-46d7-abda-ff916edaa7bf.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6a/6aaf614d2eb0f13bae0c21a22c1d9620d3f4e53ac5eb0bcba0e7cf7a9fe24e8f.png",
       "id": "image-display-76b998ebe441f1fb1814",
       "image_processing": {
@@ -171,6 +200,7 @@
       "parent_asset_id": "image-8ff434f1f5c8217826d4",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6aaf614d2eb0f13bae0c21a22c1d9620d3f4e53ac5eb0bcba0e7cf7a9fe24e8f",
       "size": 78827,
       "source_url": "https://store.bblcdn.com/s7/default/0f90ffa7068d4b53bdec7df17f828d68/3_a8c04087-c138-4005-8348-f0a1d40d33f3.png"
@@ -209,6 +239,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xe003-7mm-round-magnetic-connector-with-sh1-0-connector-2pair",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [],
   "name": "7mm Round Magnetic Connector With SH1.0 Connector (2Pair)",
   "offers": [
@@ -220,6 +251,7 @@
       "price": "5.49",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?skr=yes"
     },
     {
@@ -230,6 +262,7 @@
       "price": "6.32",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?skr=yes"
     },
     {
@@ -240,6 +273,7 @@
       "price": "5.17",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?skr=yes"
     },
     {
@@ -250,6 +284,7 @@
       "price": "4.39",
       "region": "uk",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?skr=yes"
     },
     {
@@ -260,6 +295,7 @@
       "price": "9.92",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?skr=yes"
     },
     {
@@ -270,6 +306,7 @@
       "price": "4.99",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?skr=yes"
     }
   ],
@@ -319,6 +356,7 @@
     "Rated Current": "DC 5V 1A",
     "Surface Treatment": "Nickel Plating"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -329,6 +367,7 @@
       "price": "5.49",
       "region": "us",
       "sku": "43039533334664",
+      "store_id": "",
       "title": "7mm Round Magnetic Connector With SH1.0 Connector (2Pair) - 7mm Round Magnetic Connector (2Pair) -XE003",
       "url": "https://us.store.bambulab.com/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?id=43039533334664",
       "variant_id": "43039533334664"
@@ -341,6 +380,7 @@
       "price": "6.32",
       "region": "ca",
       "sku": "46742453911792",
+      "store_id": "",
       "title": "7mm Round Magnetic Connector With SH1.0 Connector (2Pair) - 7mm Round Magnetic Connector (2Pair) -XE003",
       "url": "https://ca.store.bambulab.com/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?id=46742453911792",
       "variant_id": "46742453911792"
@@ -353,6 +393,7 @@
       "price": "5.17",
       "region": "eu",
       "sku": "49638338756956",
+      "store_id": "",
       "title": "7mm Round Magnetic Connector With SH1.0 Connector (2Pair) - 7mm Round Magnetic Connector (2Pair) -XE003",
       "url": "https://eu.store.bambulab.com/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?id=49638338756956",
       "variant_id": "49638338756956"
@@ -365,6 +406,7 @@
       "price": "4.39",
       "region": "uk",
       "sku": "42302548574268",
+      "store_id": "",
       "title": "7mm Round Magnetic Connector With SH1.0 Connector (2Pair) - 7mm Round Magnetic Connector (2Pair) -XE003",
       "url": "https://uk.store.bambulab.com/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?id=42302548574268",
       "variant_id": "42302548574268"
@@ -377,6 +419,7 @@
       "price": "9.92",
       "region": "au",
       "sku": "528333139351969794",
+      "store_id": "",
       "title": "7mm Round Magnetic Connector With SH1.0 Connector (2Pair) - 7mm Round Magnetic Connector (2Pair) -XE003",
       "url": "https://au.store.bambulab.com/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?id=528333139351969794",
       "variant_id": "528333139351969794"
@@ -389,6 +432,7 @@
       "price": "4.99",
       "region": "asia",
       "sku": "528331654458515458",
+      "store_id": "",
       "title": "7mm Round Magnetic Connector With SH1.0 Connector (2Pair) - 7mm Round Magnetic Connector (2Pair) -XE003",
       "url": "https://store.bambulab.com/products/7mm-round-magnetic-connector-with-sh1-0-connector-2pair?id=528331654458515458",
       "variant_id": "528331654458515458"

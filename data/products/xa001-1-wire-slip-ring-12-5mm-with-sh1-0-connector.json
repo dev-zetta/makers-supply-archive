@@ -4,36 +4,49 @@
     {
       "handle": "1-wire-slip-ring-12-5mm-with-sh1-0-connector",
       "product_id": "8225994899592",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-wire-slip-ring-12-5mm-with-sh1-0-connector",
       "product_id": "8900104093936",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-wire-slip-ring-12-5mm-with-sh1-0-connector",
       "product_id": "9451281973596",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-wire-slip-ring-12-5mm-with-sh1-0-connector",
       "product_id": "7671605198908",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-wire-slip-ring-12-5mm-with-sh1-0-connector",
       "product_id": "8504925192355",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "1-wire-slip-ring-12-5mm-with-sh1-0-connector",
       "product_id": "7677909991539",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/5a/5ac59097b10f2bebbf29c88da4f69d8d498d302637ca6780cb00292397074005.png",
       "id": "image-324da44cf7f68761bd5c",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector_1_1649a42f-d63e-4679-ad51-7cac80ee79aa.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5ac59097b10f2bebbf29c88da4f69d8d498d302637ca6780cb00292397074005",
       "size": 52110,
       "source_url": "https://store.bblcdn.com/s7/default/9545411c02be46d2a5230faf0f0cb64c/1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector_1_1649a42f-d63e-4679-ad51-7cac80ee79aa.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fa/fa10cd3b5d18fd52a2b2a594c689a23115333bcb491c84eb2a9d732815828680.png",
       "id": "image-1d1329be811c0eae5f63",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector.png",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fa10cd3b5d18fd52a2b2a594c689a23115333bcb491c84eb2a9d732815828680",
       "size": 39006,
       "source_url": "https://store.bblcdn.com/s7/default/ac205bf1affe41dea285aad27425ec42/1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/f2/f2029f3ff037b1dfd854cd2a36c86fd7f04c794bc60677f7b1e3dff3c7431131.zip",
       "id": "archive-8a8e2a167290c78ef4f2",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "f2029f3ff037b1dfd854cd2a36c86fd7f04c794bc60677f7b1e3dff3c7431131",
       "size": 75647,
       "source_url": "https://store.bblcdn.com/s7/default/72ac6c61f5194719af69bd3da79b0061/1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/7a/7af8de06420db9befa1215aedcae4f565e2b81741cf556ecb143da6c32a94ab9.zip",
       "id": "archive-ccff9185becd36c0eb24",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "7af8de06420db9befa1215aedcae4f565e2b81741cf556ecb143da6c32a94ab9",
       "size": 170872,
       "source_url": "https://store.bblcdn.com/s7/default/0d86756903cb4c1e9412459ea5a3257e/1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "1 Wire Slip Ring 12.5mm with SH1.0 Connector/1 Wire Slip Ring 12.5mm with SH1.0 Connector - XA001.stl",
       "blob_path": "data/blobs/sha256/0d/0d99b9b600045f59c63686a414d93f070f547200307e47b3281b34e710735433.stl",
       "id": "model-eb4743a16fff808d8cdb",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-8a8e2a167290c78ef4f2",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0d99b9b600045f59c63686a414d93f070f547200307e47b3281b34e710735433",
       "size": 79884,
       "source_url": "https://store.bblcdn.com/s7/default/72ac6c61f5194719af69bd3da79b0061/1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "1 Wire Slip Ring 12.5mm with SH1.0 Connector/1 Wire Slip Ring 12.5mm with SH1.0 Connector - XA001.stp",
       "blob_path": "data/blobs/sha256/e1/e1cdd117d1a1e99d9d34861ecaafb254302085d831e2240f6a455127fdf7e9ca.stp",
       "id": "model-9721c2febd7f046713da",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-8a8e2a167290c78ef4f2",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "e1cdd117d1a1e99d9d34861ecaafb254302085d831e2240f6a455127fdf7e9ca",
       "size": 289065,
       "source_url": "https://store.bblcdn.com/s7/default/72ac6c61f5194719af69bd3da79b0061/1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/93/937d067e9dd2377e18800a3e59e36655647c6f4d86e2983aa3112ebb6e179901.png",
       "id": "image-display-1e16a6346e01ee8627aa",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-324da44cf7f68761bd5c",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "937d067e9dd2377e18800a3e59e36655647c6f4d86e2983aa3112ebb6e179901",
       "size": 43524,
       "source_url": "https://store.bblcdn.com/s7/default/9545411c02be46d2a5230faf0f0cb64c/1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector_1_1649a42f-d63e-4679-ad51-7cac80ee79aa.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/ac/ac8a033b1ca179896188a99aec5071f7289fdaa41ce7b6ff13b0c654d2c4b6b9.png",
       "id": "image-display-4af8a0ad32caf333b81f",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-1d1329be811c0eae5f63",
       "retrieved_at": "2026-08-23T01:12:14Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "ac8a033b1ca179896188a99aec5071f7289fdaa41ce7b6ff13b0c654d2c4b6b9",
       "size": 34613,
       "source_url": "https://store.bblcdn.com/s7/default/ac205bf1affe41dea285aad27425ec42/1_Wire_Slip_Ring_12.5mm_with_SH1.0_Connector.png"
@@ -198,6 +226,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "xa001-1-wire-slip-ring-12-5mm-with-sh1-0-connector",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Outer Diameter",
@@ -219,6 +248,7 @@
       "price": "5.49",
       "region": "us",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?skr=yes"
     },
     {
@@ -229,6 +259,7 @@
       "price": "4.42",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?skr=yes"
     },
     {
@@ -239,6 +270,7 @@
       "price": "4.53",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?skr=yes"
     },
     {
@@ -249,6 +281,7 @@
       "price": "3.07",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?skr=yes"
     },
     {
@@ -259,6 +292,7 @@
       "price": "6.94",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?skr=yes"
     },
     {
@@ -269,6 +303,7 @@
       "price": "3.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?skr=yes"
     }
   ],
@@ -367,6 +402,7 @@
     "Wire Gauge": "AWG28",
     "Working Temperature": "-10°C to +80°C"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -377,6 +413,7 @@
       "price": "5.49",
       "region": "us",
       "sku": "42635362992264",
+      "store_id": "",
       "title": "1 Wire Slip Ring 12.5mm with SH1.0 Connector - 1 Wire 12.5mm (1pcs) - XA001",
       "url": "https://us.store.bambulab.com/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?id=42635362992264",
       "variant_id": "42635362992264"
@@ -389,6 +426,7 @@
       "price": "4.42",
       "region": "ca",
       "sku": "46244569514224",
+      "store_id": "",
       "title": "1 Wire Slip Ring 12.5mm with SH1.0 Connector - 1 Wire 12.5mm (1pcs) - XA001",
       "url": "https://ca.store.bambulab.com/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?id=46244569514224",
       "variant_id": "46244569514224"
@@ -401,6 +439,7 @@
       "price": "4.53",
       "region": "eu",
       "sku": "48954600391004",
+      "store_id": "",
       "title": "1 Wire Slip Ring 12.5mm with SH1.0 Connector - 1 Wire 12.5mm (1pcs) - XA001",
       "url": "https://eu.store.bambulab.com/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?id=48954600391004",
       "variant_id": "48954600391004"
@@ -413,6 +452,7 @@
       "price": "3.07",
       "region": "uk",
       "sku": "41906206572604",
+      "store_id": "",
       "title": "1 Wire Slip Ring 12.5mm with SH1.0 Connector - 1 Wire 12.5mm (1pcs) - XA001",
       "url": "https://uk.store.bambulab.com/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?id=41906206572604",
       "variant_id": "41906206572604"
@@ -425,6 +465,7 @@
       "price": "6.94",
       "region": "au",
       "sku": "44741765857443",
+      "store_id": "",
       "title": "1 Wire Slip Ring 12.5mm with SH1.0 Connector - 1 Wire 12.5mm (1pcs) - XA001",
       "url": "https://au.store.bambulab.com/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?id=44741765857443",
       "variant_id": "44741765857443"
@@ -437,6 +478,7 @@
       "price": "3.49",
       "region": "asia",
       "sku": "42030415052915",
+      "store_id": "",
       "title": "1 Wire Slip Ring 12.5mm with SH1.0 Connector - 1 Wire 12.5mm (1pcs) - XA001",
       "url": "https://asia.store.bambulab.com/products/1-wire-slip-ring-12-5mm-with-sh1-0-connector?id=42030415052915",
       "variant_id": "42030415052915"

@@ -4,36 +4,49 @@
     {
       "handle": "gt2-timing-belt",
       "product_id": "8337808982152",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gt2-timing-belt",
       "product_id": "9002424238320",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gt2-timing-belt",
       "product_id": "9555415564636",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gt2-timing-belt",
       "product_id": "7773948477500",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gt2-timing-belt",
       "product_id": "8582172541091",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "gt2-timing-belt",
       "product_id": "505979832858062848",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8d/8d2df7659247fffd76e33dbba8805f04b9c6284453fd08a8ff55a68b1a235618.png",
       "id": "image-2882e1a8b5847acf1efd",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "GT2_9cd1995c-6c60-46a4-9627-effd2327ff28.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8d2df7659247fffd76e33dbba8805f04b9c6284453fd08a8ff55a68b1a235618",
       "size": 53628,
       "source_url": "https://store.bblcdn.com/s7/default/9dfd9f2b1a0240d18d5def9401d71d32/GT2_9cd1995c-6c60-46a4-9627-effd2327ff28.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/62/625bfca39092b8b655fcc69127034705006b8988a083f3d607ec844e7c89bebb.png",
       "id": "image-ef3f0185b9efc169f225",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "GT2.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "625bfca39092b8b655fcc69127034705006b8988a083f3d607ec844e7c89bebb",
       "size": 305632,
       "source_url": "https://store.bblcdn.com/s7/default/ad87170b6558491cb4ef24e8a30fbbf0/GT2.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/2d/2dba8beedcc5156ce6be65361de413d85d5a59d74c7c2b876de3c6e8283383f8.pdf",
       "id": "document-efcada5f6b63bc57a4e2",
       "kind": "document",
@@ -65,11 +82,13 @@
       "original_filename": "GT2_Timing_Belt.pdf",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "2dba8beedcc5156ce6be65361de413d85d5a59d74c7c2b876de3c6e8283383f8",
       "size": 403566,
       "source_url": "https://store.bblcdn.com/s7/default/48610b2ddd094770b02827f33f25744f/GT2_Timing_Belt.pdf"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/01/0177df130f02c34edf3f4b463be998ed3a634a339f9eb6844c60d947fe002169.zip",
       "id": "archive-fb614b6e1cc74d6ee3ea",
       "kind": "archive",
@@ -77,11 +96,13 @@
       "original_filename": "GT2_Timing_Belt.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "0177df130f02c34edf3f4b463be998ed3a634a339f9eb6844c60d947fe002169",
       "size": 3364097,
       "source_url": "https://store.bblcdn.com/s7/default/6c237a305c4d40508f5d9fbbd9341d35/GT2_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "GT2_Timing_Belt/STL/GT2-540-06 Timing Belt.STL",
       "blob_path": "data/blobs/sha256/3c/3ce0eb076e9f16b541587272db10296fd9f2c73ea981a3e4c9ca83662727c7ad.stl",
       "id": "model-60e1342b9e250b104047",
@@ -91,11 +112,13 @@
       "parent_asset_id": "archive-fb614b6e1cc74d6ee3ea",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "3ce0eb076e9f16b541587272db10296fd9f2c73ea981a3e4c9ca83662727c7ad",
       "size": 2280484,
       "source_url": "https://store.bblcdn.com/s7/default/6c237a305c4d40508f5d9fbbd9341d35/GT2_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "GT2_Timing_Belt/STP/GT2-540-06 Timing Belt.STEP",
       "blob_path": "data/blobs/sha256/af/af205ceceda9c6b5a51dba4ce500980da66c155d02668ef04de3e2163403327e.step",
       "id": "model-9f6a99305e08ed77d7b2",
@@ -105,11 +128,13 @@
       "parent_asset_id": "archive-fb614b6e1cc74d6ee3ea",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "af205ceceda9c6b5a51dba4ce500980da66c155d02668ef04de3e2163403327e",
       "size": 13471368,
       "source_url": "https://store.bblcdn.com/s7/default/6c237a305c4d40508f5d9fbbd9341d35/GT2_Timing_Belt.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/9e/9e1fb12b4bf73ed12240f98de959ce070e7f756972c75c6d90e11337d25b5179.png",
       "id": "image-display-9c66e2a0fa5458abb36e",
       "image_processing": {
@@ -127,11 +152,13 @@
       "parent_asset_id": "image-2882e1a8b5847acf1efd",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9e1fb12b4bf73ed12240f98de959ce070e7f756972c75c6d90e11337d25b5179",
       "size": 41799,
       "source_url": "https://store.bblcdn.com/s7/default/9dfd9f2b1a0240d18d5def9401d71d32/GT2_9cd1995c-6c60-46a4-9627-effd2327ff28.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/8f/8f171231517a8fe8e140abc5122fa391b11001da45b4e170bf6d65650c13d590.png",
       "id": "image-display-75279b444c3f70f28094",
       "image_processing": {
@@ -149,6 +176,7 @@
       "parent_asset_id": "image-ef3f0185b9efc169f225",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "8f171231517a8fe8e140abc5122fa391b11001da45b4e170bf6d65650c13d590",
       "size": 79683,
       "source_url": "https://store.bblcdn.com/s7/default/ad87170b6558491cb4ef24e8a30fbbf0/GT2.png"
@@ -199,6 +227,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "rd015-gt2-timing-belt",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "Belt Width（mm）",
@@ -238,6 +267,7 @@
       "price": "2.08",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/gt2-timing-belt?skr=yes"
     },
     {
@@ -248,6 +278,7 @@
       "price": "2.39",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/gt2-timing-belt?skr=yes"
     },
     {
@@ -258,6 +289,7 @@
       "price": "1.96",
       "region": "eu",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/gt2-timing-belt?skr=yes"
     },
     {
@@ -268,6 +300,7 @@
       "price": "1.66",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/gt2-timing-belt?skr=yes"
     },
     {
@@ -278,6 +311,7 @@
       "price": "3.76",
       "region": "au",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/gt2-timing-belt?skr=yes"
     },
     {
@@ -288,6 +322,7 @@
       "price": "1.89",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/gt2-timing-belt?skr=yes"
     }
   ],
@@ -389,6 +424,7 @@
     "Teeth Quantity": "270",
     "Teeth type": "GT2"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -399,6 +435,7 @@
       "price": "2.08",
       "region": "us",
       "sku": "42871969972360",
+      "store_id": "",
       "title": "GT2 Timing Belt - GT2 540-2M-06 (1PCS) - RD015",
       "url": "https://us.store.bambulab.com/products/gt2-timing-belt?id=42871969972360",
       "variant_id": "42871969972360"
@@ -411,6 +448,7 @@
       "price": "2.39",
       "region": "ca",
       "sku": "46530738946288",
+      "store_id": "",
       "title": "GT2 Timing Belt - GT2 540-2M-06 (1PCS) - RD015",
       "url": "https://ca.store.bambulab.com/products/gt2-timing-belt?id=46530738946288",
       "variant_id": "46530738946288"
@@ -423,6 +461,7 @@
       "price": "1.96",
       "region": "eu",
       "sku": "49285032640860",
+      "store_id": "",
       "title": "GT2 Timing Belt - GT2 540-2M-06 (1PCS) - RD015",
       "url": "https://eu.store.bambulab.com/products/gt2-timing-belt?id=49285032640860",
       "variant_id": "49285032640860"
@@ -435,6 +474,7 @@
       "price": "1.66",
       "region": "uk",
       "sku": "42140423913532",
+      "store_id": "",
       "title": "GT2 Timing Belt - GT2 540-2M-06 (1PCS) - RD015",
       "url": "https://uk.store.bambulab.com/products/gt2-timing-belt?id=42140423913532",
       "variant_id": "42140423913532"
@@ -447,6 +487,7 @@
       "price": "3.76",
       "region": "au",
       "sku": "45158805405859",
+      "store_id": "",
       "title": "GT2 Timing Belt - GT2 540-2M-06 (1PCS) - RD015",
       "url": "https://au.store.bambulab.com/products/gt2-timing-belt?id=45158805405859",
       "variant_id": "45158805405859"
@@ -459,6 +500,7 @@
       "price": "1.89",
       "region": "asia",
       "sku": "505979832858062852",
+      "store_id": "",
       "title": "GT2 Timing Belt - GT2 540-2M-06 (1PCS) - RD015",
       "url": "https://asia.store.bambulab.com/products/gt2-timing-belt?id=505979832858062852",
       "variant_id": "505979832858062852"

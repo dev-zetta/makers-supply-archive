@@ -4,36 +4,49 @@
     {
       "handle": "m2-5-stainless-steel-flat-washer",
       "product_id": "7968045662344",
-      "region": "us"
+      "region": "us",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-flat-washer",
       "product_id": "8643683549424",
-      "region": "ca"
+      "region": "ca",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-flat-washer",
       "product_id": "8849662837084",
-      "region": "eu"
+      "region": "eu",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-flat-washer",
       "product_id": "7372869664828",
-      "region": "uk"
+      "region": "uk",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-flat-washer",
       "product_id": "8263149519011",
-      "region": "au"
+      "region": "au",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     },
     {
       "handle": "m2-5-stainless-steel-flat-washer",
       "product_id": "7485152854131",
-      "region": "asia"
+      "region": "asia",
+      "store_id": "",
+      "supplier_id": "bambu-lab"
     }
   ],
   "assets": [
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/79/793e08c1b8b9fc64b2558181ca8263d7fa4c3a117ea435206bdf816af9ea1b14.png",
       "id": "image-b97eab46eebfc4fa1040",
       "kind": "image",
@@ -41,11 +54,13 @@
       "original_filename": "AC001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "793e08c1b8b9fc64b2558181ca8263d7fa4c3a117ea435206bdf816af9ea1b14",
       "size": 74131,
       "source_url": "https://store.bblcdn.com/s7/default/c8486b6416174ce3b85c7f78d7c873e0/AC001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/51/5191a99affe0343da8b03e6aa2cb034aa613cd482d8d99cad6fa120bd06ca11f.png",
       "id": "image-5cb585b94e2424a95e7b",
       "kind": "image",
@@ -53,11 +68,13 @@
       "original_filename": "M2.5x5x0.5StainlessSteelFlatWasher_100PCS_-AC001.png",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5191a99affe0343da8b03e6aa2cb034aa613cd482d8d99cad6fa120bd06ca11f",
       "size": 71230,
       "source_url": "https://store.bblcdn.com/s7/default/2ecd4ee14dc14295a338ca69b08d3d2f/M2.5x5x0.5StainlessSteelFlatWasher_100PCS_-AC001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/6a/6a8c7b830aa17d83847d4ddb98874cd3f13b77f84906ba029e130cfe032c96ca.zip",
       "id": "archive-812497604dae1dcde7ef",
       "kind": "archive",
@@ -65,11 +82,13 @@
       "original_filename": "M2.5x5x0.5_Stainless_Steel_Flat_Washer_-_AC001.zip",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "6a8c7b830aa17d83847d4ddb98874cd3f13b77f84906ba029e130cfe032c96ca",
       "size": 8086,
       "source_url": "https://store.bblcdn.com/s7/default/e7eab8b500b74c128f77bab65af32561/M2.5x5x0.5_Stainless_Steel_Flat_Washer_-_AC001.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2.5x5x0.5 Stainless Steel Flat Washer - AC001/M2.5x5x0.5 Stainless Steel Flat Washer - AC001.stl",
       "blob_path": "data/blobs/sha256/9c/9c2f8b5a93a193e571882f3d4ca2bb55b97533e6cfa826b3d30f5b5d7b0499fe.stl",
       "id": "model-8046b671ce129479d30d",
@@ -79,11 +98,13 @@
       "parent_asset_id": "archive-812497604dae1dcde7ef",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "9c2f8b5a93a193e571882f3d4ca2bb55b97533e6cfa826b3d30f5b5d7b0499fe",
       "size": 8484,
       "source_url": "https://store.bblcdn.com/s7/default/e7eab8b500b74c128f77bab65af32561/M2.5x5x0.5_Stainless_Steel_Flat_Washer_-_AC001.zip"
     },
     {
+      "applies_to_skus": [],
       "archive_member_path": "M2.5x5x0.5 Stainless Steel Flat Washer - AC001/M2.5x5x0.5 Stainless Steel Flat Washer - AC001.stp",
       "blob_path": "data/blobs/sha256/5a/5a84edf34d22b5d2d94d271ca2d67b1e5f4d0807a71b55dbbb736fbf99b11a19.stp",
       "id": "model-a1424dae03369710aa90",
@@ -93,11 +114,13 @@
       "parent_asset_id": "archive-812497604dae1dcde7ef",
       "retrieved_at": "2026-08-24T02:05:06Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "5a84edf34d22b5d2d94d271ca2d67b1e5f4d0807a71b55dbbb736fbf99b11a19",
       "size": 25082,
       "source_url": "https://store.bblcdn.com/s7/default/e7eab8b500b74c128f77bab65af32561/M2.5x5x0.5_Stainless_Steel_Flat_Washer_-_AC001.zip"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/fd/fdb152442f81892be3bac57aae6c7cbb2f3ef4af31819107635f8717c2a9573d.png",
       "id": "image-display-427672fef0c8ced32812",
       "image_processing": {
@@ -115,11 +138,13 @@
       "parent_asset_id": "image-b97eab46eebfc4fa1040",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "fdb152442f81892be3bac57aae6c7cbb2f3ef4af31819107635f8717c2a9573d",
       "size": 62417,
       "source_url": "https://store.bblcdn.com/s7/default/c8486b6416174ce3b85c7f78d7c873e0/AC001.png"
     },
     {
+      "applies_to_skus": [],
       "blob_path": "data/blobs/sha256/1f/1fa8f4385de33348283872a7b11455231bceb651216872cc3d4c05a0c3f26fb3.png",
       "id": "image-display-b92dffc55d9cf7e0a4b8",
       "image_processing": {
@@ -137,6 +162,7 @@
       "parent_asset_id": "image-5cb585b94e2424a95e7b",
       "retrieved_at": "2026-11-10T12:06:28Z",
       "rights_status": "unknown",
+      "role": "other",
       "sha256": "1fa8f4385de33348283872a7b11455231bceb651216872cc3d4c05a0c3f26fb3",
       "size": 43896,
       "source_url": "https://store.bblcdn.com/s7/default/2ecd4ee14dc14295a338ca69b08d3d2f/M2.5x5x0.5StainlessSteelFlatWasher_100PCS_-AC001.png"
@@ -171,6 +197,7 @@
   "first_seen": "2026-08-23T00:23:31Z",
   "id": "ac001-m2-5-stainless-steel-flat-washer",
   "last_seen": "2026-11-10T12:06:28Z",
+  "manufacturer": "Bambu Lab",
   "measurements": [
     {
       "label": "D (mm) Outer Diameter",
@@ -210,6 +237,7 @@
       "price": "2.74",
       "region": "us",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://us.store.bambulab.com/en/products/m2-5-stainless-steel-flat-washer?skr=yes"
     },
     {
@@ -220,6 +248,7 @@
       "price": "3.99",
       "region": "ca",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://ca.store.bambulab.com/en/products/m2-5-stainless-steel-flat-washer?skr=yes"
     },
     {
@@ -230,6 +259,7 @@
       "price": "3.99",
       "region": "eu",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://eu.store.bambulab.com/en/products/m2-5-stainless-steel-flat-washer?skr=yes"
     },
     {
@@ -240,6 +270,7 @@
       "price": "2.49",
       "region": "uk",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://uk.store.bambulab.com/en/products/m2-5-stainless-steel-flat-washer?skr=yes"
     },
     {
@@ -250,6 +281,7 @@
       "price": "6.99",
       "region": "au",
       "retrieved_at": "2026-08-23T00:23:31Z",
+      "store_id": "",
       "url": "https://au.store.bambulab.com/en/products/m2-5-stainless-steel-flat-washer?skr=yes"
     },
     {
@@ -260,6 +292,7 @@
       "price": "2.49",
       "region": "asia",
       "retrieved_at": "2026-08-23T16:35:17Z",
+      "store_id": "",
       "url": "https://asia.store.bambulab.com/en/products/m2-5-stainless-steel-flat-washer?skr=yes"
     }
   ],
@@ -348,6 +381,7 @@
     "Quantity": "100 pcs",
     "Surface Treatment": "No"
   },
+  "supplier_id": "bambu-lab",
   "tags": [],
   "variants": [
     {
@@ -358,6 +392,7 @@
       "price": "2.74",
       "region": "us",
       "sku": "42102888923272",
+      "store_id": "",
       "title": "Stainless Steel Flat Washer - M2.5x5x0.5 Stainless Steel Flat Washer (100PCS) - AC001",
       "url": "https://us.store.bambulab.com/products/m2-5-stainless-steel-flat-washer?id=42102888923272",
       "variant_id": "42102888923272"
@@ -370,6 +405,7 @@
       "price": "3.99",
       "region": "ca",
       "sku": "45648646242544",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Flat Washer (100PCS) - AC001 - M2.5x5x0.5 Stainless Steel Flat Washer (100PCS) - AC001",
       "url": "https://ca.store.bambulab.com/products/m2-5-stainless-steel-flat-washer?id=45648646242544",
       "variant_id": "45648646242544"
@@ -382,6 +418,7 @@
       "price": "3.99",
       "region": "eu",
       "sku": "47966936203612",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Flat Washer (100PCS) - AC001 - M2.5x5x0.5 Stainless Steel Flat Washer (100PCS) - AC001",
       "url": "https://eu.store.bambulab.com/products/m2-5-stainless-steel-flat-washer?id=47966936203612",
       "variant_id": "47966936203612"
@@ -394,6 +431,7 @@
       "price": "2.49",
       "region": "uk",
       "sku": "41313610039356",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Flat Washer (100PCS) - AC001 - M2.5x5x0.5 Stainless Steel Flat Washer (100PCS) - AC001",
       "url": "https://uk.store.bambulab.com/products/m2-5-stainless-steel-flat-washer?id=41313610039356",
       "variant_id": "41313610039356"
@@ -406,6 +444,7 @@
       "price": "6.99",
       "region": "au",
       "sku": "44121571721379",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Flat Washer (100PCS) - AC001 - M2.5x5x0.5 Stainless Steel Flat Washer (100PCS) - AC001",
       "url": "https://au.store.bambulab.com/products/m2-5-stainless-steel-flat-washer?id=44121571721379",
       "variant_id": "44121571721379"
@@ -418,6 +457,7 @@
       "price": "2.49",
       "region": "asia",
       "sku": "41567067111539",
+      "store_id": "",
       "title": "M2.5 Stainless Steel Flat Washer (100PCS) - AC001 - M2.5x5x0.5 Stainless Steel Flat Washer (100PCS) - AC001",
       "url": "https://asia.store.bambulab.com/products/m2-5-stainless-steel-flat-washer?id=41567067111539",
       "variant_id": "41567067111539"
